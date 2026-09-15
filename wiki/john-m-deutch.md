@@ -30,6 +30,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/GM1Qx9vuo2c_nro.md
+    label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 John M. Deutch chaired the [[special-access-program-oversight-committee|SAPOC]] during
@@ -61,6 +63,13 @@ John M. Deutch chaired the [[special-access-program-oversight-committee|SAPOC]] 
   as evidence of a "pattern" — not coincidence — of SAIC-linked personnel driving the 1994 SAP
   gatekeeping reforms. *([saic](../raw/9p99lTsC7wQ_saic.md) 39:14–39:32,
   2:09:38–2:09:55)*
+
+- As CIA director, forced the resignation of NRO director Harris and Deputy Director Hill in 1995
+  over a financial scandal (a headquarters cost overrun and billions in undisclosed carryover
+  appropriations) — a possible conflict of interest, given Deutch's own prior OUSDAT tenure during
+  the period the [[wilson-davis-notes]] describe UFO legacy-program gatekeeping being
+  strengthened. Named among Gerb's 13 alleged NRO-linked gatekeepers.
+  *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:20:58–2:22:03, 2:50:59–2:51:14)*
 
 ## Relationships
 

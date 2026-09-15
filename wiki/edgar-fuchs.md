@@ -9,6 +9,8 @@ relations:
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/GM1Qx9vuo2c_nro.md
+    label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 Former USAF Master Sergeant Edgar Fuchs ("Fuché"), a whistleblower Gerb has covered before,
@@ -30,6 +32,15 @@ could not provide material evidence for its existence. *([saic](../raw/9p99lTsC7
   [[sandia-national-laboratories|Sandia]]/[[lawrence-livermore-national-laboratory|Lawrence
   Livermore]]. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:11:31–1:11:46, 1:32:39–1:33:41)*
 
+- Stated TR-3B prototyping began in the 1970s (first gravity-warping flight early 1970s),
+  consisting of several 250 ft prototypes pre-1994 and a 600 ft operational model post-1994,
+  piloted from the Naval Test Pilot School (Pax River) and Edwards AFB Test Pilot School; claimed
+  the design was kept hyper-compartmentalized under primary contractors Lockheed, Boeing,
+  Northrop, and Teledyne Ryan, managed by the NRO, NSA, and CIA, and employed electrochromatic-
+  coating cloaking that reduced the craft's mass by 89%. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+  1:50:47–1:53:52)*
+
 ## Relationships
 
-- Primary claimant behind the [[alien-reproduction-vehicle-tr3b]] narrative.
+- Primary claimant behind the [[alien-reproduction-vehicle-tr3b]] narrative; alleged
+  [[national-reconnaissance-office]]/NSA/CIA management of TR-3B.

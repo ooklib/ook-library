@@ -24,9 +24,17 @@ relations:
     note: "alleged, per Colonel Steve Wilson"
   - relation: alleged_by
     target: colonel-steve-wilson
+  - relation: employed_by
+    target: national-underwater-reconnaissance-office
+    note: "director from 13 September 1974"
+  - relation: liaison_to
+    target: everett-heinman
+    note: "named Heinman to Bob Echler as the person to ask about recovered UFO vehicles, 1989"
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/GM1Qx9vuo2c_nro.md
+    label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 Admiral Bobby Ray Inman had one of the most extensive intelligence/defense careers of any
@@ -52,10 +60,23 @@ director of the [[central-intelligence-agency|CIA]], vice director of the
 - Worked on [[science-applications-international-corporation|SAIC]]'s NSA-sponsored Project
   Trailblazer as a board member. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:17:21–1:17:29)*
 
+- Became director of naval intelligence 13 September 1974, with a "second hat" as director of
+  [[national-underwater-reconnaissance-office|NURO]] — a highly classified role he stated
+  colleagues "still don't want me to talk about." NURO procured/built undersea reconnaissance
+  systems; one of its first operations (1972) recovered wreckage of Soviet submarine K-129 via
+  the CIA vessel Glomar Explorer. *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:43:44–2:46:00)*
+- In a 1989 phone call, told NASA mission specialist Bob Echler that [[everett-heinman|Everett
+  Heinman]] (CIA DS&T deputy director, then nearing retirement) would be "the best person to ask"
+  whether recovered UFO vehicles could become available for research outside military circles.
+  *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:41:13–2:42:05)*
+- Named among Gerb's 13 alleged NRO-linked gatekeepers. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+  2:50:59–2:51:14)*
+
 ## Relationships
 
 - Extraordinarily broad revolving-door career across [[national-security-agency]],
   [[central-intelligence-agency]], [[defense-intelligence-agency]],
-  [[national-underwater-reconnaissance-office]], and
+  [[national-underwater-reconnaissance-office]] (director), and
   [[science-applications-international-corporation]]; alleged (by
-  [[colonel-steve-wilson]]) board role at [[decision-science-applications]].
+  [[colonel-steve-wilson]]) board role at [[decision-science-applications]]; pointed Bob Echler
+  to [[everett-heinman]] on recovered-vehicle access.

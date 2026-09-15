@@ -14,9 +14,19 @@ relations:
     note: "established under Kerr's watch as CIA DS&T deputy director"
   - relation: mission_partner_of
     target: national-underwater-reconnaissance-office
+  - relation: founded
+    target: doug-wolf
+    note: "established OGA in 2003 as CIA DS&T deputy director"
+  - relation: employed_by
+    target: mark-moyahan
+    note: "director, 2000-2010"
+  - relation: mission_partner_of
+    target: national-reconnaissance-office
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/GM1Qx9vuo2c_nro.md
+    label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 The CIA's Office of Global Access, established under the [[cia-directorate-of-science-and-
@@ -36,7 +46,19 @@ Command]]'s muscle for foreign UFO crash retrievals. *([saic](../raw/9p99lTsC7wQ
   (NURO)]], which Gerb connects to underwater UFO crash retrievals.
   *([saic](../raw/9p99lTsC7wQ_saic.md) 47:38–47:54)*
 
+- Per this source, established in 2003 (rather than 2002) by [[doug-wolf|Doug Wolf]] as CIA DS&T
+  deputy director; [[mark-moyahan|Mark Moyahan]] directed OGA 2000–2010; both men also held
+  positions at the NRO and the [[deputy-director-of-national-intelligence-for-acquisition-
+  technology-and-facilities|DDNI ATNF]], a pattern Gerb treats as a gatekeeper nexus.
+  *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:28:52–2:32:03)*
+- Works closely with the [[national-reconnaissance-office|NRO]] and
+  [[national-underwater-reconnaissance-office|NURO]], plus parallel tier-1 direct-action teams,
+  as the alleged logistics coordinator for OCONUS UFO crash retrievals.
+  *([nro](../raw/GM1Qx9vuo2c_nro.md) 1:09:46–1:11:00)*
+
 ## Relationships
 
-- Spawned by [[cia-directorate-of-science-and-technology]] under [[donald-kerr]]'s watch;
-  works with [[jsoc]] on alleged foreign crash retrievals.
+- Spawned by [[cia-directorate-of-science-and-technology]] under [[donald-kerr]]'s watch (per one
+  account) or founded by [[doug-wolf]] in 2003 (per another); works with [[jsoc]],
+  [[national-reconnaissance-office]], and [[national-underwater-reconnaissance-office]] on
+  alleged foreign crash retrievals; directed by [[mark-moyahan]].

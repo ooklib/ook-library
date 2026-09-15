@@ -10,9 +10,15 @@ relations:
   - relation: mission_partner_of
     target: intelligence-support-activity
     note: "ISA was later moved under JSOC"
+  - relation: mission_partner_of
+    target: 160th-special-operations-aviation-regiment
+  - relation: mission_partner_of
+    target: national-reconnaissance-office
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/GM1Qx9vuo2c_nro.md
+    label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 Joint Special Operations Command. Gerb and journalist [[chris-sharp]] have accused JSOC
@@ -31,8 +37,20 @@ elements of participating in foreign UFO crash-retrieval operations alongside th
 - Named alongside Delta Force in Colonel Steve Wilson's claims about
   [[project-pounce|Project Pounce]]. *([saic](../raw/9p99lTsC7wQ_saic.md) 12:49–12:56)*
 
+- Comprises five tier-1 units: Naval Seal Team 6 ("Dev Group"), Army Regimental Reconnaissance
+  Company, Air Force 24th Special Tactics Squadron, Delta Force, and the
+  [[intelligence-support-activity|Intelligence Support Activity]]. Gerb argues JSOC tier-1
+  elements provide direct-action support (securing sites, subduing threats) for crash-retrieval
+  teams, alongside ISR from the NRO/NGA/NURO and transport from the
+  [[160th-special-operations-aviation-regiment|160th SOAR]]. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+  1:07:52–1:09:23)*
+- A 2024 anonymous Reddit "ex-OGA contractor" account describes a 24th STS combat controller's
+  troop chief being recruited into a siloed, umbrella-authority tier-1 crash-retrieval task force
+  separate from normal JSOC command. *([nro](../raw/GM1Qx9vuo2c_nro.md) 1:22:47–1:26:05)*
+
 ## Relationships
 
 - Alleged participant, with [[cia-office-of-global-access]], in foreign UFO crash retrievals;
   received the [[intelligence-support-activity]] from [[army-intelligence-and-security-
-  command]].
+  command]]; works with [[160th-special-operations-aviation-regiment]] and
+  [[national-reconnaissance-office]] on alleged crash-retrieval teams.

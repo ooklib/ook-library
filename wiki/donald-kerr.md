@@ -30,6 +30,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/GM1Qx9vuo2c_nro.md
+    label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 Donald Kerr (now deceased) is described by Gerb as "MJ1" in Majestic-12 terminology — the most
@@ -70,6 +72,12 @@ topic before the end of his life." *(1:38:51–1:39:14)*
 - Gerb calls Kerr's CV (Los Alamos, CIA DS&T, SAIC, NRO, MITRE) the strongest of any gatekeeper
   he's identified for lending credence to UFO legacy program ties.
   *([saic](../raw/9p99lTsC7wQ_saic.md) 2:07:09–2:07:27)*
+
+- Named among Gerb's 13 alleged NRO-linked gatekeepers, alongside [[paul-kaminski]],
+  [[john-m-deutch]], [[bill-perry]], [[ellen-lord]], [[doug-wolf]], [[mark-moyahan]],
+  [[dawn-meyerriecks]], [[sean-kirkpatrick]], [[martin-faga]], [[everett-heinman]],
+  [[bobby-ray-inman]], and [[mary-sturdivant]]. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+  2:50:59–2:51:14)*
 
 ## Relationships
 

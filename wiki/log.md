@@ -52,3 +52,51 @@ figures ([[paul-kaminski]], [[john-m-deutch]], [[linton-wells-ii]], [[donald-ker
 Both sources are single-investigator (UAP Gerb) videos; no contradictions between them were
 found, though the SAIC video substantially deepens (and in the NSWC Crane/off-world-tech case,
 redirects attribution for) claims first introduced in the MITRE video.
+
+## [2026-09-15] ingest | National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)
+
+Ingested `raw/GM1Qx9vuo2c_nro.md` (UAP Gerb, ~3h12m). Added the `nro` short citation key to
+`CLAUDE.md`'s source registry, and three new relation types to [[relation-types]]:
+`acquired_by`/`renamed_to` (corporate identity chains), `liaison_to`, and `oversees` (joint
+acquisition/budget authority).
+
+Rewrote [[national-reconnaissance-office]] into a full hub page (this video's central subject),
+covering its public history (Corona, Program A/B/C/D, KH-11 Keyhole), the
+[[sentient-nro-ai-program|Sentient]] AI/TCPED program and its ties to
+[[immaculate-constellation|Immaculate Constellation]] (which Gerb stresses is *not* itself a
+legacy program, but a 2017 NSC-originated reactionary USAP), the NRO's alleged role as ISR/
+umbrella authority for UFO crash-retrieval teams ([[project-pounce]],
+[[160th-special-operations-aviation-regiment|160th SOAR]],
+[[nevada-national-security-site]]), the 1994–1995 NRO financial/carryover-appropriations scandal
+as an additional candidate trigger for the SAPOC/SRG gatekeeping reorganization, and a
+13-person alleged-gatekeeper roster tied to the
+[[under-secretary-of-defense-for-acquisition-and-sustainment|USD A&S/OUSDAT]] and
+[[deputy-director-of-national-intelligence-for-acquisition-technology-and-facilities|DDNI ATNF]]
+offices.
+
+Created 27 new entity pages: organizations/programs/places
+([[sentient-nro-ai-program]], [[e-systems]], [[jason-advisory-group]],
+[[under-secretary-of-defense-for-acquisition-and-sustainment]],
+[[deputy-director-of-national-intelligence-for-acquisition-technology-and-facilities]],
+[[to-the-stars-academy]], [[doe-nuclear-emergency-support-team]],
+[[160th-special-operations-aviation-regiment]], [[nevada-national-security-site]],
+[[pine-gap-australia]]) and people ([[doug-wolf]], [[mark-moyahan]], [[dawn-meyerriecks]],
+[[martin-faga]], [[everett-heinman]], [[glenn-gaffney]], [[mary-sturdivant]],
+[[christopher-mellon]], [[robert-cardillo]], [[albert-bruce-collins]], [[jonathan-wagant]],
+[[dylan-borland]], [[tom-delonge]], [[jim-shell]], [[william-a-matan]]).
+
+Updated 24 existing pages with new relations/citations, most substantially:
+[[national-underwater-reconnaissance-office]], [[cia-office-of-global-access]],
+[[cia-directorate-of-science-and-technology]], [[project-pounce]], [[robertson-panel-1953]],
+[[alien-reproduction-vehicle-tr3b]], [[mitre-corporation]], [[bobby-ray-inman]],
+[[colonel-steve-wilson]], [[david-grush]], [[luis-elizondo]] (identified as [[to-the-stars-
+academy|TTSA]]'s NRO/DIA/CIA liaison and possible authorized-disclosure conduit to
+[[tom-delonge]]), [[thomas-wilson]], [[chris-sharp]], [[edgar-fuchs]], [[donald-kerr]],
+[[paul-kaminski]], [[john-m-deutch]], [[bill-perry]], [[ellen-lord]], [[sean-kirkpatrick]],
+[[matthew-brown]], [[leonard-stringfield]], [[raytheon]], [[darpa]], and [[jsoc]].
+
+Notable cross-source resolution: "Luis Alzando" (this video's ASR spelling) confirmed as
+[[luis-elizondo]], already in the wiki from the SAIC video's "Lou Alzando"; "Tom Dong" resolved to
+real-world Tom DeLonge, added as [[tom-delonge]]. No contradictions found between this video and
+the prior two; it substantially extends the [[wilson-davis-notes]]/SAPOC/OUSDAT gatekeeping
+thread with a parallel NRO-side office (DDNI ATNF) and a new 13-name gatekeeper roster.

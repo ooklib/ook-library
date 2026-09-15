@@ -1,0 +1,45 @@
+---
+title: Doug Wolf
+kind: person
+aliases: [Doug Wolfe]
+tags: [gatekeeper, cia, dst, oga, nro]
+relations:
+  - relation: employed_by
+    target: cia-directorate-of-science-and-technology
+    note: "deputy director"
+  - relation: founded
+    target: cia-office-of-global-access
+    note: "established OGA in 2003"
+  - relation: employed_by
+    target: deputy-director-of-national-intelligence-for-acquisition-technology-and-facilities
+  - relation: employed_by
+    target: national-reconnaissance-office
+    note: "16 years, CIA component within NRO; last position director of legislative liaison"
+sources:
+  - file: raw/GM1Qx9vuo2c_nro.md
+    label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+---
+
+Gerb describes Doug Wolf as "a true program loyalist whose defense of legacy program security
+rivals that of even members of the DARPA SID." *([nro](../raw/GM1Qx9vuo2c_nro.md)
+2:28:37–2:28:52)*
+
+## Claims
+
+- As deputy director for [[cia-directorate-of-science-and-technology|CIA DS&T]], established the
+  [[cia-office-of-global-access|CIA Office of Global Access]] in 2003.
+  *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:28:52–2:29:16)*
+- During his 33 years at the CIA, also served as
+  [[deputy-director-of-national-intelligence-for-acquisition-technology-and-facilities|DDNI
+  ATNF]] and, for 16 years, as "the CIA component in the National Reconnaissance Office,"
+  involved in launch/operations of multiple satellite systems; his last NRO position was director
+  of legislative liaison. *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:29:47–2:30:20)*
+- Gerb treats Wolf's four-institution footprint (OGA, CIA DS&T, NRO, DDNI ATNF — all allegedly
+  UFO-legacy-program-linked) as evidence of a gatekeeper pattern rather than coincidence.
+  *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:30:31–2:30:46)*
+
+## Relationships
+
+- Career spans [[cia-directorate-of-science-and-technology]] (founding
+  [[cia-office-of-global-access]]), [[deputy-director-of-national-intelligence-for-acquisition-
+  technology-and-facilities]], and [[national-reconnaissance-office]].

@@ -34,6 +34,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/GM1Qx9vuo2c_nro.md
+    label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 Described as "disgraced" former director of [[aaro]] (All-domain Anomaly Resolution Office).
@@ -92,6 +94,10 @@ Described as "disgraced" former director of [[aaro]] (All-domain Anomaly Resolut
   hoax tricking Air Force personnel) and his separate claims about "circular reporting" among
   witnesses, calling them "at odds with each other." *([saic](../raw/9p99lTsC7wQ_saic.md)
   2:06:36–2:06:52)*
+
+Per the NRO video, Gerb speculates Kirkpatrick's later NRO connection (2003–2005) may have been
+the point where he was first briefed or retroactively briefed into UFO legacy-program operations.
+*([nro](../raw/GM1Qx9vuo2c_nro.md) 2:34:41–2:35:58)*
 
 ## Relationships
 

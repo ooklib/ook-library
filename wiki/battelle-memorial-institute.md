@@ -24,6 +24,8 @@ relations:
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/GM1Qx9vuo2c_nro.md
+    label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 Battelle Memorial Institute is a contractor that administers multiple FFRDCs on behalf of the
@@ -55,8 +57,14 @@ DOE and other agencies, and is described by Gerb as "no stranger to this channel
   SAIC]]'s own 2004 joint venture RDS LLC with [[eg-and-g|EG&G]] and Parsons for the DOE's
   National Energy Technology Laboratory. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:24:50–1:25:06)*
 
+- [[project-stork|Project Stork]] is cited in the 1953 [[robertson-panel-1953|Robertson Panel]]
+  evidentiary record alongside Project Twinkle and a Kirtland AFB UFO-investigation proposal
+  connected to [[project-pounce|Project Pounce]]. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+  1:39:39–1:40:50)*
+
 ## Relationships
 
 - Administers [[oak-ridge-national-laboratory]], [[savannah-river-national-laboratory]], and
   [[national-biodefense-analysis-and-countermeasures-center]]; part of
-  [[triad-national-security]]; board seat held by [[ronald-moultrie]].
+  [[triad-national-security]]; board seat held by [[ronald-moultrie]]; ran [[project-stork]],
+  cited in the [[robertson-panel-1953]].

@@ -9,9 +9,13 @@ relations:
   - relation: employed_by
     target: defense-intelligence-agency
     note: "former director"
+  - relation: alleged_by
+    target: under-secretary-of-defense-for-acquisition-and-sustainment
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/GM1Qx9vuo2c_nro.md
+    label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 Vice Admiral Thomas Wilson, former DIA director, is the central figure (with
@@ -33,7 +37,15 @@ controversial whistleblower discussed earlier in the same video.
 - Spoke to two permanent SAPOC members: Brig. Gen. Michael Costanik and
   [[paul-kaminski|Paul Kaminski]]. *([saic](../raw/9p99lTsC7wQ_saic.md) 39:32–39:40)*
 
+- Told by General Michael Ward to search a special records group of the
+  [[under-secretary-of-defense-for-acquisition-and-sustainment|Office of the Under Secretary of
+  Defense for Acquisition and Technology (OUSDAT)]] for legacy holdover programs from before
+  early-1990s SAP restructuring; eventually contacted the "watch committee" (a retired NSA
+  security director, a program director, and a corporate attorney), who showed him a 1990/1993
+  bigot list but denied his read-in request. *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:09:24–2:12:02)*
+
 ## Relationships
 
 - Central witness of the [[wilson-davis-notes]]; former [[defense-intelligence-agency]]
-  director.
+  director; directed to the
+  [[under-secretary-of-defense-for-acquisition-and-sustainment]]'s special records group.

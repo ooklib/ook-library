@@ -20,11 +20,21 @@ relations:
     target: sandia-national-laboratories
   - relation: contractor_for
     target: lawrence-livermore-national-laboratory
+  - relation: contractor_for
+    target: national-reconnaissance-office
+    note: "Fuchs: NRO, NSA, and CIA managed/operated the TR-3B"
+  - relation: alleged_by
+    target: colonel-steve-wilson
+    note: "claimed Teledyne Ryan built a related anti-gravity helicopter, the XH-7D/'XH Shark,' for the NRO"
+  - relation: alleged_by
+    target: dylan-borland
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/GM1Qx9vuo2c_nro.md
+    label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 The "Alien Reproduction Vehicle" (ARV) concept — a human-built craft reverse-engineered from
@@ -61,10 +71,26 @@ recovered nonhuman technology — is most associated in the UFO research communi
   at Area 51's S4 site while employed by [[eg-and-g|EG&G]]. *([saic](../raw/9p99lTsC7wQ_saic.md)
   21:52–21:59, 1:21:52–1:21:59)*
 
+- Per this source, Fuchs stated prototyping began in the 1970s (first gravity-warping flight
+  early 1970s, matching Wilson's claim of Bobby Ray Inman witnessing a similar 18 July 1971
+  demonstration); the program allegedly ran several 250 ft prototypes pre-1994 and a 600 ft
+  operational model post-1994, piloted from the Naval Test Pilot School (Pax River) and Edwards
+  AFB Test Pilot School, employing electrochromatic-coating cloaking that reduces mass by 89%.
+  *([nro](../raw/GM1Qx9vuo2c_nro.md) 1:50:47–1:53:52)*
+- Witness [[dylan-borland|Dylan Borland]] testified to observing a 100 ft black equilateral
+  triangle over Langley AFB in 2012 that "appeared around" a hovering light — Gerb interprets this
+  as electro-optic cloaking layered on a human-built airframe possibly employing derivative
+  propulsion/cloaking principles. *([nro](../raw/GM1Qx9vuo2c_nro.md) 1:54:39–1:59:52)*
+- [[colonel-steve-wilson|Colonel Steve Wilson]] separately claimed Teledyne Ryan (the same
+  contractor Fuchs named for TR-3B) built an anti-gravity helicopter, the "XH-7D"/"XH Shark,"
+  assigned to the NRO's Delta detachment for crash retrieval — uncorroborated.
+  *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:00:27–2:01:07)*
+
 ## Relationships
 
 - Allegedly reverse-engineered from [[roswell-incident-1947]] materials; associated claimants
-  [[edgar-fuchs]] and [[bob-lazar]]; propulsion concept analogous to the
-  [[biefeld-brown-effect]]; contractor consortium includes [[lockheed-martin]],
-  [[northrop-grumman]], [[sandia-national-laboratories]], and
-  [[lawrence-livermore-national-laboratory]].
+  [[edgar-fuchs]], [[bob-lazar]], [[dylan-borland]], and [[colonel-steve-wilson]]; propulsion
+  concept analogous to the [[biefeld-brown-effect]]; contractor consortium includes
+  [[lockheed-martin]], [[northrop-grumman]], [[sandia-national-laboratories]],
+  [[lawrence-livermore-national-laboratory]], and alleged operator
+  [[national-reconnaissance-office]].

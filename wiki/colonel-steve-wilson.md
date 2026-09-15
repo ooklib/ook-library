@@ -11,9 +11,20 @@ relations:
     note: "claimed to have spearheaded it"
   - relation: alleged_by
     target: bobby-ray-inman
+  - relation: part_of
+    target: national-reconnaissance-office
+    note: "claimed Pounce was an 'elite Air Force/National Reconnaissance Organization' unit"
+  - relation: contractor_for
+    target: e-systems
+    note: "named LTV Electrosystems as builder of Pounce Delta's 'equalizer' EMP weapon"
+  - relation: alleged_by
+    target: alien-reproduction-vehicle-tr3b
+    note: "claimed Teledyne Ryan built the anti-gravity 'XH-7D'/'XH Shark' helicopter for NRO/Delta"
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/GM1Qx9vuo2c_nro.md
+    label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 Colonel Steve Wilson, a "controversial" whistleblower **distinct from** VADM
@@ -47,7 +58,20 @@ recommending a critical take by author Kevin Randle. *([saic](../raw/9p99lTsC7wQ
   [[decision-science-applications|DSAI]] as the paramount contractor.
   *([saic](../raw/9p99lTsC7wQ_saic.md) 13:52–15:07)*
 
+- Claimed [[project-pounce|Pounce]]'s "Delta" NRO detachment deployed a truck-mounted EMP
+  "equalizer" weapon built by [[e-systems|LTV Electrosystems]], and that Teledyne Ryan (later
+  Northrop Grumman) built an anti-gravity helicopter, the "XH-7D"/"XH Shark," for the NRO/Delta
+  team. Gerb finds Wilson's "National Reconnaissance Organization" phrasing odd but notes 1960s
+  CIA documents and 1976 newspaper leaks used that naming convention, and finds no corroboration
+  for the equalizer/XH-7D claims themselves. Wilson also named "the Jason Society" (Gerb connects
+  this to the real [[jason-advisory-group|Jason Advisory Group]], administered by MITRE) and
+  claimed Project Pounce traces to [[william-a-matan|William Matan]]'s 1952 proposal referenced in
+  the [[robertson-panel-1953|Robertson Panel]]. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+  1:32:11–1:38:14, 1:41:10–1:43:10)*
+
 ## Relationships
 
 - Claims connect [[decision-science-applications]], [[bobby-ray-inman]], and
-  [[project-pounce]] to Area 51 and SDI-era UFO programs.
+  [[project-pounce]] to Area 51 and SDI-era UFO programs; alleged [[e-systems]] "equalizer"
+  weapon and [[alien-reproduction-vehicle-tr3b]]-adjacent "XH-7D" helicopter for
+  [[national-reconnaissance-office]]'s Delta detachment.

@@ -60,13 +60,23 @@ relations:
     target: paul-kaminski
   - relation: board_member_of
     target: john-m-deutch
+  - relation: board_member_of
+    target: dawn-meyerriecks
   - relation: employed_by
     target: william-laplante
   - relation: alleged_by
     target: uap-gerb
+  - relation: operates
+    target: jason-advisory-group
+    note: "Jason's activities have been administered through MITRE since its 1960 founding"
+  - relation: employed_by
+    target: martin-faga
+    note: "technical staff on the ground sensor program, before joining CIA/NRO"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/GM1Qx9vuo2c_nro.md
+    label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 MITRE Corporation is a nonprofit, semi-private [[ffrdc|FFRDC]] operator, "spun up" by the US
@@ -198,8 +208,13 @@ See individual pages: [[donald-kerr]] (chairman 2009–2021), [[stephanie-osulli
 2017–2025), [[john-m-deutch]] (board before/during his tenure as SecDef), [[linton-wells-ii]]
 (briefed into MITRE legacy programs mid–late 2000s though not publicly employed),
 [[william-laplante]] (missile defense portfolio director 2011–2013, senior VP/GM of
-MITRE NSEC 2015–2017 while dual-hatted in Air Force acquisition), and
-[[ronald-moultrie]] (allegedly removed MITRE from his public CV).
+MITRE NSEC 2015–2017 while dual-hatted in Air Force acquisition), [[ronald-moultrie]] (allegedly
+removed MITRE from his public CV), [[dawn-meyerriecks]] (board member, a "parallel track" to
+Kaminski), [[martin-faga]] (technical staff before rising to 10th director of the
+[[national-reconnaissance-office|NRO]]), and [[sean-kirkpatrick]] (Nonlinear Solutions
+subcontracts under MITRE's NSEC for US SPACECOM). The [[jason-advisory-group|Jason Advisory
+Group]] of elite science advisers has been administered through MITRE since 1960.
+*([nro](../raw/GM1Qx9vuo2c_nro.md) 1:37:49–1:39:07, 2:32:34–2:32:56, 2:37:41–2:38:22)*
 
 ## The 2025 congressional interrogative
 
@@ -217,3 +232,6 @@ MITRE NSEC 2015–2017 while dual-hatted in Air Force acquisition), and
   [[naval-sea-systems-command]] on the alleged reverse-engineering and USO-tracking programs.
 - Investigated by [[uap-gerb]]; subject of a congressional interrogative from
   [[eric-burlison]] and [[david-grush]].
+- Administers the [[jason-advisory-group]]; board seat held by [[dawn-meyerriecks]]; former
+  technical staffer [[martin-faga]] went on to become 10th director of the
+  [[national-reconnaissance-office]].

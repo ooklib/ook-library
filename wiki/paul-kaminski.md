@@ -15,11 +15,16 @@ relations:
     note: "as USD A&T"
   - relation: alleged_by
     target: wilson-davis-notes
+  - relation: employed_by
+    target: national-reconnaissance-office
+    note: "1971-1976; NRO Technical Advisory Board member from 2007"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/GM1Qx9vuo2c_nro.md
+    label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 Paul Kaminski served as Under Secretary of Defense for Acquisition and Technology (USD A&T)
@@ -42,7 +47,13 @@ UFO programs. *(1:43:41–1:44:22)*
   Costanik), serving as USD A&T, preceded in that role by [[john-m-deutch|John Deutch]].
   *([saic](../raw/9p99lTsC7wQ_saic.md) 39:32–39:49)*
 
+- Was NRO from 1971 to 1976 and "pioneered the development of a major NRO reconnaissance
+  satellite system"; joined the NRO Technical Advisory Board as of 2007. Named among Gerb's 13
+  alleged NRO-linked gatekeepers. *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:24:53–2:25:10,
+  2:50:59–2:51:14)*
+
 ## Relationships
 
 - Permanent member of [[special-access-program-oversight-committee]]; board member of
-  [[mitre-corporation]] 2017–2025; preceded by [[john-m-deutch]] as USD A&T.
+  [[mitre-corporation]] 2017–2025; preceded by [[john-m-deutch]] as USD A&T; former
+  [[national-reconnaissance-office]] engineer and Technical Advisory Board member.

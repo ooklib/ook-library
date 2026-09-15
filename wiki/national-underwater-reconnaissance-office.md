@@ -13,9 +13,17 @@ relations:
   - relation: employed_by
     target: bobby-ray-inman
     note: "director"
+  - relation: employed_by
+    target: glenn-gaffney
+    note: "career started here"
+  - relation: mission_partner_of
+    target: national-reconnaissance-office
+    note: "sister agency under the National Reconnaissance Program (NRP)"
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/GM1Qx9vuo2c_nro.md
+    label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 Described as the US's "most secret intelligence agency," co-founded by the
@@ -34,7 +42,17 @@ US Navy. Gerb connects it to underwater UFO crash retrievals.
   naval centers engaged in "technologies of unknown origin" housing/exploitation.
   *([saic](../raw/9p99lTsC7wQ_saic.md) 19:00–19:14, 1:50:09–1:50:24)*
 
+- Created secretly in 1969 to consolidate reconnaissance between the CIA and Navy, still
+  classified today; sister agency to the [[national-reconnaissance-office|NRO]] under the
+  National Reconnaissance Program (NRP). [[bobby-ray-inman|Bobby Ray Inman]] directed it starting
+  13 September 1974. One of NURO's first operations (1972) recovered wreckage of Soviet submarine
+  K-129 using the CIA vessel Glomar Explorer. *([nro](../raw/GM1Qx9vuo2c_nro.md) 12:12–12:22,
+  2:43:44–2:46:00)*
+- [[glenn-gaffney|Glenn Gaffney]], later CIA DS&T deputy director, reportedly began his career at
+  NURO. *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:44:52–2:45:09)*
+
 ## Relationships
 
 - Co-founded by [[cia-directorate-of-science-and-technology]] and the Navy; linked to undersea
-  UFO retrieval work relevant to [[tic-tac-factory-uso]]-style claims.
+  UFO retrieval work relevant to [[tic-tac-factory-uso]]-style claims; sister agency to
+  [[national-reconnaissance-office]]; career start for [[glenn-gaffney]].

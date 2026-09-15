@@ -1,0 +1,38 @@
+---
+title: DOE Nuclear Emergency Support Team (NEST)
+kind: organization
+aliases: [NEST, Nuclear Emergency Support Team]
+tags: [doe, nnsa, crash-retrieval, radiological]
+relations:
+  - relation: part_of
+    target: department-of-energy
+  - relation: mission_partner_of
+    target: national-reconnaissance-office
+    note: "alleged on-site scientific response element of NRO-linked crash retrieval teams"
+  - relation: references_testimony_of
+    target: jonathan-wagant
+sources:
+  - file: raw/GM1Qx9vuo2c_nro.md
+    label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+---
+
+The US government's premier response unit for radiological/nuclear accidents or incidents,
+operated by DOE's semi-autonomous National Nuclear Security Administration (created 2000). Its
+authority derives from the 1954 Atomic Energy Agreement. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+1:14:50–1:16:06)*
+
+## Claims
+
+- Gerb identifies NEST as the likely direct-response, on-site scientific team ("men in DOE
+  mission-oriented protective posture/MOP gear") described by USMC Lance Cpl. [[jonathan-wagant|
+  Jonathan Wagant]] at his 1997 Peru UFO crash encounter, arriving via US Army CH-47s alongside
+  tier-1 direct-action personnel. *([nro](../raw/GM1Qx9vuo2c_nro.md) 1:13:59–1:16:15)*
+- Gerb notes legacy programs additionally allegedly utilize DOE/NNSA Special Response Teams
+  (SRTs) and the Office of Secure Transportation (OST) for crash retrievals and material
+  transport. *([nro](../raw/GM1Qx9vuo2c_nro.md) 1:16:31–1:16:46)*
+
+## Relationships
+
+- Operated under [[department-of-energy]]/NNSA; alleged on-site component of
+  [[national-reconnaissance-office]]-linked crash retrieval teams; referenced in
+  [[jonathan-wagant]]'s testimony.
