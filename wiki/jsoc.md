@@ -1,0 +1,38 @@
+---
+title: Joint Special Operations Command (JSOC)
+kind: organization
+aliases: [JSOC, JOCK, J-Sock]
+tags: [special-operations, intelligence-community]
+relations:
+  - relation: part_of
+    target: cia-office-of-global-access
+    note: "Gerb accuses JSOC elements of participating in foreign UFO crash retrievals alongside OGA"
+  - relation: mission_partner_of
+    target: intelligence-support-activity
+    note: "ISA was later moved under JSOC"
+sources:
+  - file: raw/9p99lTsC7wQ_saic.md
+    label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+---
+
+Joint Special Operations Command. Gerb and journalist [[chris-sharp]] have accused JSOC
+elements of participating in foreign UFO crash-retrieval operations alongside the
+[[cia-office-of-global-access|CIA's Office of Global Access]]. *([saic](../raw/9p99lTsC7wQ_saic.md)
+1:43:45–1:43:54)*
+
+## Claims
+
+- The Intelligence Support Activity (ISA), initially commanded by [[albert-stubblebine|Maj.
+  Gen. Albert Stubblebine]]'s [[army-intelligence-and-security-command|INSCOM]], was later
+  moved to JSOC. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:43:34–1:43:45)*
+- Linked (as "JOCK"/"J-Sock") to alleged UFO crash-retrieval elements in
+  [[naval-surface-warfare-center-crane|NSWC Crane]] contracting via a "joint special operations
+  response department." *([saic](../raw/9p99lTsC7wQ_saic.md) 1:59:28–1:59:43)*
+- Named alongside Delta Force in Colonel Steve Wilson's claims about
+  [[project-pounce|Project Pounce]]. *([saic](../raw/9p99lTsC7wQ_saic.md) 12:49–12:56)*
+
+## Relationships
+
+- Alleged participant, with [[cia-office-of-global-access]], in foreign UFO crash retrievals;
+  received the [[intelligence-support-activity]] from [[army-intelligence-and-security-
+  command]].

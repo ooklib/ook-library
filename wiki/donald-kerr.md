@@ -19,9 +19,17 @@ relations:
   - relation: preceded_by
     target: stephanie-osullivan
     note: "PDDNI role"
+  - relation: employed_by
+    target: science-applications-international-corporation
+    note: "corporate EVP and director, joined 1993"
+  - relation: founded
+    target: cia-office-of-global-access
+    note: "established under his watch as CIA DS&T deputy director"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/9p99lTsC7wQ_saic.md
+    label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 Donald Kerr (now deceased) is described by Gerb as "MJ1" in Majestic-12 terminology — the most
@@ -46,7 +54,26 @@ topic before the end of his life." *(1:38:51–1:39:14)*
 - Gerb frames PDDNI as a position "often staffed by an agency spook with strong ties to CIA ...
   and a major FFRDC personnel," using Kerr as the exemplar. *(1:40:08–1:40:28)*
 
+## Claims (from the SAIC investigation)
+
+- Joined [[science-applications-international-corporation|SAIC]] in 1993 as a corporate
+  executive VP and director — before his CIA DS&T and NRO tenures.
+  *([saic](../raw/9p99lTsC7wQ_saic.md) 45:33–45:51)*
+- Established the [[cia-office-of-global-access|CIA Office of Global Access]] under his watch
+  as CIA DS&T deputy director (2001–2005). *([saic](../raw/9p99lTsC7wQ_saic.md) 47:56–48:09)*
+- Named in notes from a 1985 "Advanced Theoretical Physics Working Group" conference (held at
+  [[bdm-international|BDM]]'s McLean, VA facility, classified via DOE controls, supervised by
+  [[john-b-alexander|Col. John B. Alexander]]) taken by attendee [[oki-shannon|Oki Shannon]] —
+  the notes discuss "approaching Donald Kerr for influence and money," and separately list
+  "Don K/et" alongside other names, which Gerb suspects also refers to Kerr.
+  *([saic](../raw/9p99lTsC7wQ_saic.md) 46:09–47:21, 2:07:35–2:07:58)*
+- Gerb calls Kerr's CV (Los Alamos, CIA DS&T, SAIC, NRO, MITRE) the strongest of any gatekeeper
+  he's identified for lending credence to UFO legacy program ties.
+  *([saic](../raw/9p99lTsC7wQ_saic.md) 2:07:09–2:07:27)*
+
 ## Relationships
 
-- Revolving-door figure linking [[los-alamos-national-laboratory]], CIA DS&T,
-  [[national-reconnaissance-office]], the PDDNI office, and [[mitre-corporation]]'s board.
+- Revolving-door figure linking [[los-alamos-national-laboratory]],
+  [[science-applications-international-corporation]], CIA DS&T
+  (where he founded [[cia-office-of-global-access]]), [[national-reconnaissance-office]], the
+  PDDNI office, and [[mitre-corporation]]'s board.

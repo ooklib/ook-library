@@ -33,3 +33,4 @@ asymmetric (the inverse is implied, not separately stored). Symmetric ones are n
 | `monitors` | program → entity | surveillance/tracking target of a program | no |
 | `reverse_engineers` | program → entity | technology exploitation target | no |
 | `coincides_with` | event → event | alleged temporal correlation, not proven causation | **yes** |
+| `authored` | person → document/concept | wrote a specific report, book, or document | no |

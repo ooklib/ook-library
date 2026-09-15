@@ -13,9 +13,17 @@ relations:
   - relation: analogous_to
     target: hidden-wing-air-force-program
     note: "Gerb compares Pax River's role to the Air Force's alleged Edwards 'hidden wing'"
+  - relation: located_at
+    target: amentum
+    note: "Amentum-owned special-project hangars, per Matthew Brown"
+  - relation: mission_partner_of
+    target: science-applications-international-corporation
+    note: "SAIC presence supporting NAWCAD and Ship/Air Integration Warfare Division"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/9p99lTsC7wQ_saic.md
+    label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 Naval Air Station Patuxent River ("Pax River") is headquarters for
@@ -41,7 +49,18 @@ Facility Bases (MRTFBs). *(1:14:52–1:16:48)*
 - Listed as a facility MITRE should be required to name/preserve records for under the
   congressional interrogative's preservation act. *(1:51:32–1:51:49)*
 
+## Claims (from the SAIC video)
+
+- On 5 June 2025, [[immaculate-constellation|Immaculate Constellation]] whistleblower
+  [[matthew-brown|Matthew Brown]] tweeted that UFO materials/craft were stored at Pax River's
+  special-project hangars, owned by [[amentum|Amentum Corporation]].
+  *([saic](../raw/9p99lTsC7wQ_saic.md) 1:51:19–1:51:34)*
+- [[science-applications-international-corporation|SAIC]] has significant presence at Pax
+  River, supporting NAVAIR's Naval Air Warfare Center Aircraft Division and Ship and Air
+  Integration Warfare Division. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:51:41–1:51:56)*
+
 ## Relationships
 
 - Headquarters of [[naval-air-systems-command]]; hosts the alleged MITRE reverse-engineering
-  program alongside [[mitre-corporation]]'s MLAN, VA campus.
+  program alongside [[mitre-corporation]]'s MLAN, VA campus; alleged material storage per
+  [[matthew-brown]] at [[amentum]]-owned hangars; SAIC presence.

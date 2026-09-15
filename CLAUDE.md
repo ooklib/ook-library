@@ -55,13 +55,33 @@ sources:
 
 - Open with a one-paragraph summary of the entity.
 - Use `## Claims` or thematic subheadings for substantive assertions, each ending with an
-  inline citation: `*(source: [raw/107BtDYhTkA_mitre.txt](../raw/107BtDYhTkA_mitre.txt), 12:07)*`
-  — file link plus the transcript timestamp the claim came from.
+  inline citation that names **both** the source and the timestamp, since the wiki now spans
+  multiple raw transcripts and a bare timestamp is ambiguous:
+  `*([mitre](../raw/107BtDYhTkA_mitre.txt) 12:07)*` or `*([saic](../raw/9p99lTsC7wQ_saic.md) 5:26)*`.
+  The link text is the source's short key (see registry below); the link target is the raw
+  file, so clicking it opens the transcript directly. Multiple citations to the same source in
+  one sentence can share a single tag: `*([saic](../raw/9p99lTsC7wQ_saic.md) 5:26, 6:00)*`.
+  Pages that draw on only one source may still spell it out on first use per section, but the
+  short-key form is preferred everywhere for consistency.
 - Use `## Relationships` to restate the frontmatter relations as prose links, e.g.
   `- Spun off from [[mit-lincoln-laboratory]] in 1958.`
 - Cross-link liberally with `[[wiki-link]]` (Obsidian-style) using the target's filename stem.
 - Flag speculation explicitly: "UAP Gerb alleges..." / "unverified claim:" rather than stating
   contested claims as fact.
+- **Known debt:** pages written during the first ingest (`107BtDYhTkA_mitre.txt`) use bare
+  timestamps like `*(12:07)*` with no source tag, written before a second source existed. These
+  are all implicitly `mitre` citations. Retrofit them to the tagged format opportunistically
+  when touching a page for another reason — no need for a dedicated cleanup pass yet.
+
+## Source registry (short keys)
+
+| key | raw file | title |
+|---|---|---|
+| `mitre` | `raw/107BtDYhTkA_mitre.txt` | The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb) |
+| `saic` | `raw/9p99lTsC7wQ_saic.md` | UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb) |
+
+Add a row here whenever a new raw source is ingested, and give it a short, memorable key
+(lowercase, no spaces — typically the contractor/org the video centers on).
 
 ## Ingest workflow
 

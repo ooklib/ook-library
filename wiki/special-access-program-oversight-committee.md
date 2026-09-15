@@ -14,9 +14,23 @@ relations:
   - relation: employed_by
     target: linton-wells-ii
     note: "former SRG member"
+  - relation: employed_by
+    target: william-a-owens
+    note: "permanent member post-restructuring"
+  - relation: employed_by
+    target: michael-costanik
+    note: "permanent member"
+  - relation: preceded_by
+    target: bill-perry
+    note: "Perry conducted the actual 1994 restructuring as DepSecDef; Deutch inherited the chair"
+  - relation: alleged_by
+    target: thomas-wilson
+    note: "central figure in the Wilson-Davis notes investigation of SAPOC"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/9p99lTsC7wQ_saic.md
+    label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 The SAP Oversight Committee (SAPOC) and its Senior Review Group (SRG) govern the DoD Special
@@ -36,8 +50,25 @@ he ties to protecting UFO programs and to the same-year creation of the "committ
   allegedly briefed into MITRE legacy programs in the mid-to-late 2000s despite no public MITRE
   employment record. *(1:46:36–1:47:00)*
 
+## Claims (from the SAIC video)
+
+- Per [[thomas-wilson|VADM Thomas Wilson]]'s testimony ([[wilson-davis-notes]]), UFO programs
+  were reorganized under SAPOC/SRG after an internal audit "almost revealed" them; the actual
+  5 January 1994 restructuring was conducted by [[bill-perry|William Perry]] as Deputy Secretary
+  of Defense, with [[john-m-deutch|John Deutch]] inheriting the SAPOC chair role immediately
+  after. *([saic](../raw/9p99lTsC7wQ_saic.md) 35:52–37:56)*
+- Wilson spoke to two permanent SAPOC members: Brig. Gen. [[michael-costanik|Michael Costanik]]
+  and [[paul-kaminski|Paul Kaminski]]. *([saic](../raw/9p99lTsC7wQ_saic.md) 39:32–39:40)*
+- Another permanent post-restructuring member: Admiral [[william-a-owens|William A. Owens]],
+  former VCJCS and later [[science-applications-international-corporation|SAIC]] CEO. Of the 6
+  SAPOC personnel Wilson identified, Gerb notes 2 were former SAIC alumni (Owens and, per other
+  claims, Deutch) — supporting his identification of SAIC as the unnamed "large defense
+  contractor" from the Wilson-Davis notes. *([saic](../raw/9p99lTsC7wQ_saic.md) 39:49–40:33)*
+
 ## Relationships
 
 - Governance body under [[special-access-program]]; staffed at senior levels by
-  [[paul-kaminski]], [[john-m-deutch]], and [[linton-wells-ii]], each with
-  [[mitre-corporation]] ties.
+  [[paul-kaminski]], [[john-m-deutch]], [[linton-wells-ii]], [[william-a-owens]], and
+  [[michael-costanik]], several with [[mitre-corporation]] or
+  [[science-applications-international-corporation]] ties; restructured by [[bill-perry]];
+  investigated by [[thomas-wilson]].

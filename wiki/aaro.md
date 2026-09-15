@@ -1,7 +1,7 @@
 ---
 title: All-domain Anomaly Resolution Office (AARO)
 kind: organization
-aliases: [AARO, Arrow, Exero]
+aliases: [AARO, Arrow, Exero, UAP JPO, "Project Blue Book 2.0"]
 tags: [dod, uap, oversight]
 relations:
   - relation: founded
@@ -10,9 +10,14 @@ relations:
   - relation: employed_by
     target: sean-kirkpatrick
     note: "disgraced former director"
+  - relation: contractor_for
+    target: sancorp
+    note: "2022 contract, whistleblower-leak-plugging specialist"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/9p99lTsC7wQ_saic.md
+    label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 The DoD's All-domain Anomaly Resolution Office ("Arrow" in the ASR transcript), the official
@@ -28,7 +33,21 @@ this section brief. *(1:49:22–1:49:35)*
   Kirkpatrick's, "played a major role in establishing" AARO and provided oversight/direction in
   its early years. *(1:49:54–1:50:08)*
 
+## Claims (from the SAIC video)
+
+- Originally supposed to be called the "UAP JPO," which some have called "Project Blue Book
+  2.0." *([saic](../raw/9p99lTsC7wQ_saic.md) 31:49–32:03)*
+- Under Kirkpatrick, released the "abysmal" Historical Report Volume 1, alleged to have
+  misrepresented [[michael-herrera|Michael Herrera]]'s witness testimony.
+  *([saic](../raw/9p99lTsC7wQ_saic.md) 28:35–28:59)*
+- Engaged contractor [[sancorp|San Corp]] in 2022, a specialist in "plugging whistleblower
+  leaks." *([saic](../raw/9p99lTsC7wQ_saic.md) 29:04–29:13)*
+- Witness "Ed" of the 412th Test Wing refused to testify to AARO under Kirkpatrick, believing
+  him "an insider meant to squash information." *([saic](../raw/9p99lTsC7wQ_saic.md)
+  30:39–30:57)*
+
 ## Relationships
 
 - Founded/directed early on by [[ronald-moultrie]]; later directed by [[sean-kirkpatrick]], who
-  is now connected to [[mitre-corporation]] via his company Nonlinear Solutions.
+  is now connected to [[mitre-corporation]] via his company Nonlinear Solutions; contracted
+  [[sancorp]].

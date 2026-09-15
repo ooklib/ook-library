@@ -15,9 +15,14 @@ relations:
     note: "Corso claims Army Foreign Technology Division seeded Roswell tech into industry"
   - relation: analogous_to
     target: aztec-new-mexico-crash-1948
+  - relation: investigates
+    target: battelle-memorial-institute
+    note: "inverse: Battelle allegedly studied shape-memory alloys possibly from Roswell wreckage"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/9p99lTsC7wQ_saic.md
+    label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -51,6 +56,16 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
   Force and Navy took "a far more conservative approach" via the newly formed MITRE.
   *(2:08:41–2:09:35)*
 
+## Claims (from the SAIC video)
+
+- Named alongside [[battelle-memorial-institute|Battelle Memorial Institute]]'s declassified
+  studies of shape-memory alloys as a possible technology-origin case Gerb accuses defense
+  contractors/FFRDCs of exploiting. *([saic](../raw/9p99lTsC7wQ_saic.md) 3:20–3:34)*
+- Cited as the intended source material for the Army's [[philip-j-corso|Corso]]-era brainwave-
+  guided-missile project (started 1961), based on official Roswell files allegedly showing
+  onboard biologics were part of the craft's guidance system. *([saic](../raw/9p99lTsC7wQ_saic.md)
+  1:39:34–1:40:09)*
+
 ## Relationships
 
 - Alleged trigger for [[mitre-corporation]]'s founding, ~11 years later, and for the broader
@@ -58,3 +73,4 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
 - Compared to the [[aztec-new-mexico-crash-1948|Aztec, New Mexico]] case as a possibly related
   or contemporaneous event.
 - Central to [[philip-j-corso]]'s claims about the Army's Foreign Technology Division.
+- Alleged subject of [[battelle-memorial-institute]] shape-memory-alloy research.

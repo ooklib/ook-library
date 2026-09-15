@@ -10,9 +10,18 @@ relations:
     target: randy-anderson
   - relation: mission_partner_of
     target: mitre-corporation
+  - relation: mission_partner_of
+    target: science-applications-international-corporation
+    note: "alleged operator of the off-world technologies division; extensive JXN/JXW contracts"
+  - relation: part_of
+    target: naval-support-activity-crane
+  - relation: contractor_for
+    target: joint-technology-assessment-activity
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/9p99lTsC7wQ_saic.md
+    label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 NSWC Crane, at the Naval Support Activity in Crane, Indiana, is a site Gerb says he has covered
@@ -28,7 +37,37 @@ extensively in prior work. *(1:13:04–1:13:12)*
 - Part of the alleged "triage" of Navy sites (with NSWC Dahlgren) holding and analyzing hardware
   for this legacy activity. *(1:13:49–1:14:02)*
 
+## Claims (from the SAIC investigation)
+
+- Part of [[naval-support-activity-crane|Naval Support Activity Crane]], Indiana — sometimes
+  called "the Pentagon's best-kept secret" (Sen. Joe Donnelly); a massive, multi-level
+  underground facility. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:46:24–1:48:32)*
+- Mission: "provide acquisition and in-service engineering and technical support for sensors,
+  electronics, electronic warfare, and special warfare weapons," organized into strategic
+  missions, electronic warfare, and expeditionary warfare focus areas.
+  *([saic](../raw/9p99lTsC7wQ_saic.md) 1:48:32–1:48:59)*
+- Gerb identifies [[science-applications-international-corporation|SAIC]], with "high
+  confidence," as the contractor running the alleged Off-World Technologies Division, based on
+  SAIC's extensive contracts with two Crane departments under its Special Warfare and
+  Expeditionary Systems Division: **JXN** (Weapon Systems Division) and **JXW** (Maneuver,
+  Surveillance and Engagement Division) — the latter containing a "special capabilities branch,"
+  **JXWT**, which Gerb suspects houses the Off-World Technologies Division.
+  *([saic](../raw/9p99lTsC7wQ_saic.md) 1:57:07–1:58:26)*
+- Cited SAIC/Crane contracts: a since-deleted 2020 $133M JXW mission-engineering/integration
+  contract; a since-deleted 2023 $249M IDIQ contract for Crane's weapons-division
+  instrumentation platform; a 2010 $351M contract for technical engineering services supporting
+  Crane's "joint special operations response department" (referencing [[jsoc|JSOC]]); and a 2023
+  Woods Hole Oceanographic Institution research contract for NSWC Crane's Weapon System
+  Division (JXN). *([saic](../raw/9p99lTsC7wQ_saic.md) 1:58:39–1:59:36, 1:57:07–1:57:18)*
+- Employs a contracting force of 2,489 and engages projects with numerous contractors, DOE labs
+  (e.g. Sandia), and universities. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:54:23–1:54:31)*
+- See [[randy-anderson]] for the Off-World Technologies Division testimony this claim is built
+  around, and [[joint-technology-assessment-activity]] for the JTAA sole-source contracting
+  angle.
+
 ## Relationships
 
-- Operated under [[naval-sea-systems-command]]; site of testimony from [[randy-anderson]]
-  connected by Gerb to [[mitre-corporation]]'s alleged program.
+- Operated under [[naval-sea-systems-command]] and part of [[naval-support-activity-crane]];
+  site of testimony from [[randy-anderson]] connected by Gerb to both
+  [[mitre-corporation]]'s alleged program and, more directly per the SAIC investigation, to
+  [[science-applications-international-corporation]]'s alleged Off-World Technologies Division.

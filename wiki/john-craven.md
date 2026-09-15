@@ -1,15 +1,23 @@
 ---
 title: John Piña Craven
 kind: person
-aliases: [John Pñena Craraven, John Craven]
-tags: [navy, secrecy, analogy]
+aliases: [John Pñena Craraven, John Craven, Dr. John P. Craraven]
+tags: [navy, secrecy, analogy, undersea]
 relations:
   - relation: alleged_by
     target: onion-secrecy-model
     note: "originator of the analogous 'seventh veil' compartmentation analogy"
+  - relation: founded
+    target: operation-sand-dollar
+    note: "per his memoir, created the DSSP/DSRVs specifically for Sand Dollar retrievals"
+  - relation: employed_by
+    target: polaris-program
+    note: "chief scientist, Navy Special Projects Office"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/9p99lTsC7wQ_saic.md
+    label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 John Piña Craven, described as senior scientist of the Navy Special Projects Office, is credited
@@ -25,7 +33,23 @@ by Gerb with the "seventh veil" analogy for extreme compartmentation. *(56:07–
   even security officers conducting briefings are compartmented from each other's full scope.
   *(56:38–57:26)*
 
+## Claims (from the SAIC video)
+
+- Chief scientist of the Navy Special Projects Office; spearheaded the Deep Submergence Systems
+  Project (DSSP) and resulting Deep Submergence Rescue Vehicles (DSRVs), which Gerb implicates
+  in undersea UFO crash-retrieval operations. *([saic](../raw/9p99lTsC7wQ_saic.md)
+  43:52–44:08)*
+- His book *The Silent War* states the DSSP/DSRVs were used for "a tremendous amount of
+  clandestine classified missions," and that the DSSP was created specifically to accomplish
+  retrieval operations under [[operation-sand-dollar|Operation Sand Dollar]] — a still-
+  classified program Gerb wagers was itself a UFO crash-retrieval effort, "buried within the
+  structure of yet another secret program itself hidden within" the
+  [[polaris-program|Polaris program]]. *([saic](../raw/9p99lTsC7wQ_saic.md) 44:08–45:26)*
+- Was shown "an inventory itemizing the items known to be on the seabed and a map of their
+  distribution throughout the world." *([saic](../raw/9p99lTsC7wQ_saic.md) 44:53–45:02)*
+
 ## Relationships
 
 - Originator of the analogy Gerb treats as conceptually equivalent to the
   [[onion-secrecy-model]] MITRE is alleged to have pioneered.
+- Spearheaded [[operation-sand-dollar]] within the [[polaris-program]].

@@ -11,9 +11,14 @@ relations:
   - relation: coincides_with
     target: mitre-corporation
     note: "Gerb: possible destination for the MITRE reverse-engineering assets after 2017"
+  - relation: alleged_by
+    target: matthew-brown
+    note: "self-identified whistleblower, 2025 tweet on Pax River material storage"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/9p99lTsC7wQ_saic.md
+    label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 An alleged National Security Council unacknowledged Special Access Program (USAP), reportedly
@@ -27,6 +32,10 @@ enacted in 2017, referenced in prior UAP-disclosure reporting as a crash-retriev
 - Gerb notes the program's actual roots likely precede 2017, citing the NRO's "Sentient" AI
   program (deployed ~2016, with roots traceable to ~2010–2011) as a parallel example of
   pre-dated program origins. *(2:16:04–2:16:29)*
+- Self-identified whistleblower [[matthew-brown|Matthew Brown]] tweeted on 5 June 2025 that UFO
+  materials/craft were stored at [[naval-air-station-patuxent-river|Pax River]]'s special-project
+  hangars, owned by [[amentum|Amentum Corporation]]. *([saic](../raw/9p99lTsC7wQ_saic.md)
+  1:51:19–1:51:34)*
 
 ## Relationships
 

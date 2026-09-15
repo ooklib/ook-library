@@ -11,9 +11,14 @@ relations:
     note: "Kerr served as director, 1979-1985"
   - relation: mission_partner_of
     target: sandia-national-laboratories
+  - relation: part_of
+    target: triad-national-security
+    note: "administered by Triad National Security LLC on behalf of the DOE"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/9p99lTsC7wQ_saic.md
+    label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 Los Alamos National Laboratory is a DOE/NSA National Laboratory FFRDC founded during the
