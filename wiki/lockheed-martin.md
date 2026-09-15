@@ -56,11 +56,16 @@ relations:
   - relation: mission_partner_of
     target: to-the-stars-academy
     note: "Skunk Works EVP Rob Weiss and veteran Steve Justice served as TTSA advisers"
+  - relation: contractor_for
+    target: area-6
+    note: "operates Area 6's aerial operations facility (UAV testing) on the NNSS"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/X6JfbfmvgMo_lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/mHkPHd_eOXI_sandia.md
+    label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -224,6 +229,16 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
   given Davis and [[hal-puthoff|Hal Puthoff]] both served with Ryder on the Starfire Project
   science review team after Ryder's Lockheed career. *([lockheed](../raw/
   X6JfbfmvgMo_lockheed.md) 2:05:36–2:06:55, 2:10:05–2:10:25)*
+
+## Additional Sandia/Area 6 detail (Sandia video)
+
+- Gerb's dedicated Sandia video expands the Sandia/Tonopah thesis: an aerial operations facility
+  at [[area-6|Area 6]] (established 2001 on the Nevada National Security Site for UAV
+  construction, testing, and sensor/computer R&D) is operated by Lockheed Martin, which Gerb
+  connects to [[richard-dolan|Richard Dolan]]'s "Advanced Group Six" DARPA-propulsion leak and to
+  Lockheed's 1993–2017 administration of [[sandia-national-laboratories|Sandia]] (and by
+  extension [[tonopah-test-range|Tonopah]]). *([sandia](../raw/mHkPHd_eOXI_sandia.md)
+  2:23:22–2:28:04)*
 
 ## Relationships
 

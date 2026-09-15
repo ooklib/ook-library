@@ -13,6 +13,8 @@ relations:
 sources:
   - file: raw/X6JfbfmvgMo_lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/mHkPHd_eOXI_sandia.md
+    label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Martin Marietta was founded in 1961 (predecessor Glenn L. Martin Company began securing Air
@@ -44,6 +46,13 @@ form [[lockheed-martin|Lockheed Martin]]. *([lockheed](../raw/X6JfbfmvgMo_lockhe
   propulsion Sandia allegedly reverse-engineered), and one year before the 1995 Lockheed merger
   — a sequence he calls "wild parallels" worth noting without asserting causation.
   *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 40:36–41:01)*
+
+- Gerb's Sandia video confirms the same 1993 management-contract acquisition from the Sandia
+  side, and adds that Sandia's management chain ran Western Electric/AT&T (1949–1993) → Martin
+  Marietta (1993) → Lockheed Martin (1993–2017) → Honeywell (2017–present), with a Sandia
+  National Labs/Lockheed Martin commemorative "challenge coin" Gerb obtained specifically
+  celebrating "the Martin Marietta Corporation... taking over command of Sandia back in 1993."
+  *([sandia](../raw/mHkPHd_eOXI_sandia.md) 52:09–52:37, 2:37:40–2:37:56)*
 
 ## Relationships
 

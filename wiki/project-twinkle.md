@@ -1,0 +1,38 @@
+---
+title: Project Twinkle
+kind: program
+aliases: []
+tags: [1952, aec, green-fireballs]
+relations:
+  - relation: sponsored_by
+    target: atomic-energy-commission
+  - relation: located_at
+    target: sandia-national-laboratories
+    note: "conducted in part at Sandia Base"
+  - relation: coincides_with
+    target: project-blue-book
+    note: "AEC recommended against declassifying Twinkle one month before Blue Book's creation"
+sources:
+  - file: raw/mHkPHd_eOXI_sandia.md
+    label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+---
+
+Project Twinkle (February 1952) was an Atomic Energy Commission study of UFOs — specifically
+"green fireball" sightings — at Los Alamos National Lab, White Sands Proving Ground, Holloman Air
+Force Base, and Sandia Base. It predates [[project-blue-book|Project Blue Book]]'s creation by
+one month. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 41:58–42:21)*
+
+## Claims
+
+- The Air Force reportedly suggested Project Twinkle not be declassified, because its subject
+  matter "was not able to be debunked by natural phenomena." *([sandia](../raw/mHkPHd_eOXI_
+  sandia.md) 42:14–42:28)*
+- Twinkle personnel were drawn from the Los Alamos Astrophysical Association: scientists and
+  engineers holding AEC/Air Force security clearances. Twinkle astronomers such as Lincoln Lease
+  argued observed anomalous sightings — performing bizarre maneuvers, turning lights on and off —
+  could not be standard meteors. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 42:45–43:12)*
+
+## Relationships
+
+- AEC-sponsored study conducted in part at [[sandia-national-laboratories|Sandia Base]];
+  predates [[project-blue-book]].

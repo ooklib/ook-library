@@ -11,6 +11,8 @@ relations:
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/mHkPHd_eOXI_sandia.md
+    label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Kirtland AFB, New Mexico, hosts a deep underground military installation and
@@ -22,8 +24,17 @@ Kirtland AFB, New Mexico, hosts a deep underground military installation and
 - Site of a 2005 SAIC/[[air-force-operational-test-and-evaluation-center|AFOTEC]]
   CBRNE (chemical, biological, radiological, nuclear, explosive) research contract.
   *([saic](../raw/9p99lTsC7wQ_saic.md) 57:21–57:44)*
+- Originally Albuquerque Army Airfield, selected by Los Alamos's Z Division as an operational
+  location (12 July 1945) and renamed Sandia Base; merged into Kirtland AFB in 1971. Hosts the
+  Manzano Base/"Site Able" subsidiary installation, built 1947 by the
+  [[armed-forces-special-weapons-project|AFSWP]] to store nuclear weapons, containing two
+  underground installations per FOIA'd documents. Also hosts the
+  [[defense-threat-reduction-agency|Defense Threat Reduction Agency]], which maintains a major
+  presence there. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 16:07–17:22, 19:14–19:30,
+  49:53–50:08, 2:30:59–2:31:18)*
 
 ## Relationships
 
 - Hosts [[sandia-national-laboratories]]; site of [[air-force-operational-test-and-evaluation-
-  center]] CBRNE work with SAIC.
+  center]] CBRNE work with SAIC; hosts the [[armed-forces-special-weapons-project]]'s Manzano
+  Base and the [[defense-threat-reduction-agency]].

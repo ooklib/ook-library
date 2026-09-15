@@ -14,11 +14,16 @@ relations:
   - relation: part_of
     target: triad-national-security
     note: "administered by Triad National Security LLC on behalf of the DOE"
+  - relation: sponsored_by
+    target: national-nuclear-security-administration
+    note: "one of the NNSA's three multi-mission-laboratory FFRDCs"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/mHkPHd_eOXI_sandia.md
+    label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Los Alamos National Laboratory is a DOE/NSA National Laboratory FFRDC founded during the
@@ -33,7 +38,16 @@ Manhattan Project. *(19:32–19:37)*
   frames as emblematic of the government–FFRDC "revolving door." *(1:39:14–1:39:25)*
 - Cited among AEC National Labs given custody of recovered discs per 1949–1954 classified
   executive orders. *(2:06:33–2:06:47)*
+- Its Z Division (forerunner of [[sandia-national-laboratories|Sandia]]) began operations at
+  Sandia Base in July 1945; transferred to AEC control 1 January 1947. Los Alamos personnel
+  reportedly supported [[j-andrew-kner|J. Andrew Kner]]'s alleged AEC-lab custody of Roswell-era
+  recovered discs, and hosted [[project-twinkle|Project Twinkle]] (1952). One of the NNSA's three
+  multi-mission-laboratory FFRDCs sponsoring [[nevada-national-security-site|Nevada National
+  Security Site]] experimental programs. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 16:07–17:22,
+  27:39–28:49, 1:48:01–1:48:18)*
 
 ## Relationships
 
 - DOE-sponsored [[ffrdc|FFRDC]]; [[donald-kerr]] directed it before his later IC/MITRE career.
+- One of the [[national-nuclear-security-administration]]'s three multi-mission laboratories,
+  alongside [[sandia-national-laboratories]] and [[lawrence-livermore-national-laboratory]].

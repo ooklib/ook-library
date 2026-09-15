@@ -12,9 +12,14 @@ relations:
   - relation: located_at
     target: edwards-air-force-base
     note: "operated by a detachment of the Edwards 412th Test Wing"
+  - relation: mission_partner_of
+    target: area-6
+    note: "~75 mi northwest of Area 6; both alleged DARPA/Sandia/Lockheed exotic-RDT&E sites within the NNTR"
 sources:
   - file: raw/X6JfbfmvgMo_lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/mHkPHd_eOXI_sandia.md
+    label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Tonopah Test Range (TTR), established in 1957 by the Sandia Corporation for the Atomic Energy
@@ -53,9 +58,14 @@ of operating UFO crash-retrieval and material-exploitation programs, at least pr
   — Lockheed's Deep Submergence Rescue Vehicles (DSRVs) Mystic and Avalon were built for this
   program. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 1:02:47–1:06:09)*
 
+- Gerb believes Tonopah and [[area-6|Area 6]] (~75 mi southeast, also within the NNTR) are
+  "intimately connected," both allegedly tied to Sandia, Lockheed Martin, and DARPA/"Advanced
+  Group Six" exotic-propulsion RDT&E. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 2:27:57–2:28:04)*
+
 ## Relationships
 
 - Part of the Nevada Test and Training Range; sponsored by [[department-of-energy]].
 - Established and administered by [[sandia-national-laboratories]], and by extension
   [[lockheed-martin]], 1993–2017.
 - Connected to [[operation-sand-dollar]] via the Navy's Polaris-program-era interest.
+- Theorized to be intimately connected to [[area-6]].

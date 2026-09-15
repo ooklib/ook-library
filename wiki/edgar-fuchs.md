@@ -13,6 +13,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/X6JfbfmvgMo_lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/mHkPHd_eOXI_sandia.md
+    label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Former USAF Master Sergeant Edgar Fuchs ("Fuché"), a whistleblower Gerb has covered before,
@@ -47,8 +49,16 @@ could not provide material evidence for its existence. *([saic](../raw/9p99lTsC7
   Lockheed's centrality in UFO legacy-program speculation. *([lockheed](../raw/
   X6JfbfmvgMo_lockheed.md) 4:08–4:25)*
 
+- In the Sandia video's opening/closing clips, states: "Sandia and Livermore Laboratories
+  developed a reverse engineered MFD and I believe the government will go at any lengths to
+  protect this technology" — the fullest on-camera statement of his claim that
+  [[sandia-national-laboratories|Sandia]] and [[lawrence-livermore-national-laboratory|Lawrence
+  Livermore]] (not the airframe contractors) reverse-engineered the TR-3B's propulsion.
+  *([sandia](../raw/mHkPHd_eOXI_sandia.md) 1:08–1:26, 1:53:44–1:54:03)*
+
 ## Relationships
 
 - Primary claimant behind the [[alien-reproduction-vehicle-tr3b]] narrative; alleged
   [[national-reconnaissance-office]]/NSA/CIA management of TR-3B, built by [[lockheed-martin]],
-  Boeing, Northrop, and Teledyne Ryan.
+  Boeing, Northrop, and Teledyne Ryan, with propulsion reverse-engineered by
+  [[sandia-national-laboratories]] and [[lawrence-livermore-national-laboratory]].

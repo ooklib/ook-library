@@ -18,11 +18,19 @@ relations:
   - relation: investigates
     target: battelle-memorial-institute
     note: "inverse: Battelle allegedly studied shape-memory alloys possibly from Roswell wreckage"
+  - relation: investigates
+    target: j-andrew-kner
+    note: "inverse: Kner's 1994 statement details a 1947 Army-vs-discs engagement and AEC-lab custody"
+  - relation: located_at
+    target: sandia-national-laboratories
+    note: "alleged AEC-lab custodian per Kner's testimony and the Interplanetary Phenomenon Unit report"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/mHkPHd_eOXI_sandia.md
+    label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -66,6 +74,27 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
   onboard biologics were part of the craft's guidance system. *([saic](../raw/9p99lTsC7wQ_saic.md)
   1:39:34–1:40:09)*
 
+## Claims (from the Sandia video)
+
+- Former NM State Rep. [[j-andrew-kner|J. Andrew Kner]]'s 1994 statement describes a series of
+  events beginning 15 May 1947 in which the US Army offensively downed two to four flying discs
+  (Roswell among them), with recovered discs classified as "enemy weapons systems" and analyzed
+  for [[vannevar-bush|Vannevar Bush]]; a classified 1948 executive order allegedly vested custody
+  in AEC-owned civilian labs (Los Alamos, the soon-independent
+  [[sandia-national-laboratories|Sandia]]), assisted by Air Force Systems Command, the Naval
+  Research Lab, and Bush's Research and Development Board. *([sandia](../raw/mHkPHd_eOXI_
+  sandia.md) 24:06–28:49)*
+- The disputed Eisenhower Briefing Document (first alleged [[majestic-12|MJ-12]] leak) states
+  materials from a separate 6 December 1950 Del Rio/Eldorado, TX crash retrieval were
+  transported to "the atomic energy facility at Sandia" for study. *([sandia](../raw/mHkPHd_eOXI_
+  sandia.md) 36:50–37:29)*
+- The disputed Interplanetary Phenomenon Unit (IPU) report (dated July 1947) describes a New
+  Mexico recovery operation secured by a Sandia Base security detail under
+  [[armed-forces-special-weapons-project|AFSWP]] Col. Sherman V. Hasbrouck, alongside a
+  radiobiological team and a Manhattan Project-linked Special Engineering Detachment; it also
+  claims three Sandia technicians died of ambiguous contamination during the operation.
+  *([sandia](../raw/mHkPHd_eOXI_sandia.md) 38:12–41:20)*
+
 ## Relationships
 
 - Alleged trigger for [[mitre-corporation]]'s founding, ~11 years later, and for the broader
@@ -74,3 +103,5 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
   or contemporaneous event.
 - Central to [[philip-j-corso]]'s claims about the Army's Foreign Technology Division.
 - Alleged subject of [[battelle-memorial-institute]] shape-memory-alloy research.
+- Central to [[j-andrew-kner]]'s testimony; alleged AEC-lab custody at
+  [[sandia-national-laboratories]] per Kner and the disputed IPU documents.

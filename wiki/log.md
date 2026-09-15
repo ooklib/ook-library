@@ -140,3 +140,55 @@ Notable cross-source resolution: this video's "Carl Wolf" (CIA DS&T deputy direc
 CIA OGA in 2003) confirmed as the same person as [[doug-wolf]] from the NRO video. No
 contradictions found; this video substantially extends the [[operation-sand-dollar]]/Tonopah
 thread and the Kona Blue material-transfer narrative first touched on in the NRO video.
+
+## [2026-09-15] ingest | Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)
+
+Ingested `raw/mHkPHd_eOXI_sandia.md` (UAP Gerb, ~2h55m). Added the `sandia` short citation key to
+`CLAUDE.md`'s source registry, and the [[james-v-forrestal]] page (needed for AFSWP/Majestic-12
+context).
+
+Substantially rewrote [[sandia-national-laboratories]] into a full hub page (this video's central
+subject): its Manhattan Project-era origin as Los Alamos's Z Division and transfer to
+[[atomic-energy-commission|AEC]] control in 1947; the [[armed-forces-special-weapons-project|
+AFSWP]] presence at Sandia Base; the AT&T/Western Electric → Martin Marietta → Lockheed Martin →
+Honeywell management chain (1949–present); its role as one of the
+[[national-nuclear-security-administration|NNSA]]'s three multi-mission-laboratory FFRDCs
+alongside Los Alamos and Lawrence Livermore; the 1954 Atomic Energy Act "transclassified foreign
+nuclear information"/special-nuclear-material framework Gerb argues obscures UFO materials as
+nuclear secrets; alleged AEC-lab custody of recovered Roswell-era discs per
+[[j-andrew-kner|J. Andrew Kner]]'s 1994 testimony, the disputed Eisenhower Briefing Document, and
+the disputed Interplanetary Phenomenon Unit report; Sandia's Nevada Test Site/[[area-6|Area 6]]
+presence; the NNSA's NEST/[[office-of-secure-transportation|OST]]/Special Response Team logistics
+apparatus and its [[defense-threat-reduction-agency|DTRA]] connection (via AFSWP lineage, per
+[[dylan-borland|Dylan Borland]]'s testimony); Edgar Fuchs's TR-3B "Magnetic Field Disruptor"
+reverse-engineering claim (Sandia + Lawrence Livermore); and the EG&G/Alfred O'Donnell/
+[[george-knapp|George Knapp]] recovered-disc account.
+
+Created 11 new entity pages: organizations
+([[atomic-energy-commission]], [[national-nuclear-security-administration]],
+[[armed-forces-special-weapons-project]], [[defense-threat-reduction-agency]],
+[[office-of-secure-transportation]], [[honeywell]]), people ([[j-andrew-kner]],
+[[george-knapp]], [[james-v-forrestal]]), a place ([[area-6]]), and a program
+([[project-twinkle]]).
+
+Updated 20 existing pages with new relations/citations, most substantially:
+[[department-of-energy]] (split the AEC out as its own entity/page rather than a DOE alias;
+added NNSA/OICI detail), [[los-alamos-national-laboratory]], [[lawrence-livermore-national-
+laboratory]], [[oak-ridge-national-laboratory]] (alleged Y-12 recovered-discs claim),
+[[kirtland-air-force-base]] (Manzano/AFSWP, DTRA), [[tonopah-test-range]] and
+[[nevada-national-security-site]] (Area 6 links), [[doe-nuclear-emergency-support-team]],
+[[eg-and-g]], [[edgar-fuchs]], [[roswell-incident-1947]], [[dylan-borland]],
+[[jonathan-wagant]], [[randy-anderson]], [[darpa]], [[richard-dolan]], [[mitre-corporation]]
+(Kner's "MITER, MITER, MITER, MITER" custodian quote), [[vannevar-bush]], [[majestic-12]] (EBD
+Sandia-transport detail), [[lockheed-martin]], and [[martin-marietta]].
+
+**Schema note:** [[atomic-energy-commission]] was previously folded into
+[[department-of-energy]]'s `aliases:` field; this ingest gives the AEC its own page (with a
+`preceded_by` edge to DOE) since this video treats the AEC's 1946–1974 existence, the 1954
+Atomic Energy Act, and its national-lab custodianship as historically distinct from and prior to
+the modern DOE/NNSA.
+
+No contradictions found between this video and the prior four; it substantially deepens the
+Sandia/Tonopah/[[operation-kona-blue|Kona Blue]] FFRDC-custody thesis first introduced in the
+Lockheed video, and extends the AFSWP/Majestic-12/Roswell thread with the first detailed
+[[j-andrew-kner|Kner]] and Interplanetary Phenomenon Unit material in the wiki.

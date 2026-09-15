@@ -12,6 +12,8 @@ relations:
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/mHkPHd_eOXI_sandia.md
+    label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 18 Bravo (Special Forces weapons sergeant) Randy Anderson claimed that in the mid-2010s he was
@@ -25,8 +27,15 @@ considered a possible weapon. *(1:13:12–1:13:35)*
 - Gerb explicitly states: "I for one believe and stand by Randy Anderson for this MITER reverse
   engineering program," connecting Anderson's account to [[mitre-corporation]]'s alleged
   Navy-partnered reverse-engineering effort. *(1:13:35–1:13:41)*
+- Separately discussed seeing advanced aerospace vehicles, including electrogravidic triangles,
+  stationed at DoD installations near Area 51 on Department of Energy-controlled land — land Gerb
+  identifies as [[nevada-national-security-site|Nevada Test Site]] locations largely operated by
+  [[sandia-national-laboratories|Sandia]]. Gerb suggests this may lend credence to
+  [[edgar-fuchs|Edgar Fuchs]]'s TR-3B claims. *([sandia](../raw/mHkPHd_eOXI_sandia.md)
+  1:51:11–1:52:17)*
 
 ## Relationships
 
 - Testimony connects [[naval-surface-warfare-center-crane]] to [[mitre-corporation]]'s alleged
-  legacy program.
+  legacy program; separately connects Sandia-managed [[nevada-national-security-site]] land to
+  [[edgar-fuchs]]'s TR-3B claims.

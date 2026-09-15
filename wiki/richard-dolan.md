@@ -13,6 +13,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/X6JfbfmvgMo_lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/mHkPHd_eOXI_sandia.md
+    label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Author of *UFOs and the National Security State*, praised by
@@ -35,7 +37,12 @@ mechanisms behind the black-budget infrastructure. *([saic](../raw/9p99lTsC7wQ_s
   this specific Tonopah connection. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 56:19–59:56,
   2:49:31–2:49:46)*
 
+- In the Sandia video, Gerb revisits this claim alongside [[area-6|Area 6]], speculating Area 6
+  — a top-secret NNSS UAV-testing site with DARPA as a customer and its aerial operations
+  facility run by [[lockheed-martin|Lockheed Martin]] — may be where "Advanced Group Six" is
+  based. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 2:19:29–2:19:35, 2:26:12–2:26:29)*
+
 ## Relationships
 
 - Author cited by [[katherine-austin-fitts]] on UFO legacy-program/black-budget history; source
-  for Gerb's [[tonopah-test-range]] "Advanced Group Six" claims.
+  for Gerb's [[tonopah-test-range]] and [[area-6]] "Advanced Group Six" claims.

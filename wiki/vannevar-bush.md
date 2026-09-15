@@ -13,9 +13,16 @@ relations:
   - relation: analogous_to
     target: mitre-corporation
     note: "Gerb calls Bush the 'grandfather'/'godfather' of MITRE"
+  - relation: board_member_of
+    target: bell-labs
+    note: "served on AT&T's board of directors 1947-1962, while AT&T/Western Electric managed Sandia via the Sandia Corporation"
+  - relation: references_testimony_of
+    target: j-andrew-kner
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/mHkPHd_eOXI_sandia.md
+    label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Dr. Vannevar Bush is presented as the intellectual architect of the modern
@@ -41,9 +48,19 @@ Dr. Vannevar Bush is presented as the intellectual architect of the modern
   "doodlebug" device Silas Newton and Leo GeBauer allegedly used to defraud investors in
   connection with the Aztec case, though this is framed as speculative. *(2:09:52–2:10:24)*
 
+- Per [[j-andrew-kner|J. Andrew Kner]]'s 1994 statement, discs downed by the US Army from May–July
+  1947 were processed and analyzed for Bush (chairman of the Joint Chiefs' Joint Research and
+  Development Board, director of the Office of Scientific Research and Development), assisted by
+  [[armed-forces-special-weapons-project|AFSWP]] personnel at [[sandia-national-laboratories|
+  Sandia Base]]. Gerb notes Bush served on AT&T's board of directors 1947–1962 — the same period
+  AT&T/Western Electric's Sandia Corporation subsidiary managed Sandia (from 1949).
+  *([sandia](../raw/mHkPHd_eOXI_sandia.md) 25:33–25:50, 29:34–29:53)*
+
 ## Relationships
 
 - Founder of the lineage leading to [[mit-lincoln-laboratory]], and by extension
   [[mitre-corporation]].
 - Alleged overseer of Atomic Energy Commission national-lab custody of recovered vehicles from
-  the [[roswell-incident-1947|Roswell incident]].
+  the [[roswell-incident-1947|Roswell incident]], per [[j-andrew-kner]]'s testimony.
+- AT&T board member during AT&T/Western Electric's management of [[sandia-national-laboratories]]
+  via the Sandia Corporation.

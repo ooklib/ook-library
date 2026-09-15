@@ -6,9 +6,14 @@ tags: [witness, langley-afb, 2012, triangle, tr3b]
 relations:
   - relation: alleged_by
     target: alien-reproduction-vehicle-tr3b
+  - relation: employed_by
+    target: defense-threat-reduction-agency
+    note: "worked as an all-source analyst at DTRA"
 sources:
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/mHkPHd_eOXI_sandia.md
+    label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Witness who testified under oath to observing a 100 ft black triangle above Langley Air Force
@@ -32,6 +37,22 @@ Base in 2012, seemingly originating from a nearby NASA hangar. *([nro](../raw/GM
   but now would only answer "in a SCIF," directing questioners to "Arrow" (AARO) for the answer;
   denied it was a foreign government craft. *([nro](../raw/GM1Qx9vuo2c_nro.md) 1:58:01–1:58:31)*
 
+## Claims (from the Sandia video)
+
+- On the Weaponized Podcast, said that while working at the
+  [[defense-threat-reduction-agency|Defense Threat Reduction Agency (DTRA, "Ditra")]] as an
+  all-source analyst, a colleague tasked with collecting Archives Act document submissions
+  "happened to sit next to me" on Borland's last day and described discovering old Atomic
+  Energy Commission files that concluded UFOs were extraterrestrial — "this isn't exactly for
+  our benefit." Borland said he did not personally view the files. *([sandia](../raw/mHkPHd_eOXI_
+  sandia.md) 2:29:19–2:30:36)*
+- Gerb ties this to DTRA's direct organizational lineage from the 1947
+  [[armed-forces-special-weapons-project|Armed Forces Special Weapons Project]], which he argues
+  lends weight to Borland's claim of DTRA holding old AEC UFO files.
+  *([sandia](../raw/mHkPHd_eOXI_sandia.md) 2:33:01–2:33:21)*
+
 ## Relationships
 
 - Testimony cited as corroborating [[alien-reproduction-vehicle-tr3b]] cloaking claims.
+- Former [[defense-threat-reduction-agency]] analyst; claims DTRA holds old AEC
+  extraterrestrial-related files.

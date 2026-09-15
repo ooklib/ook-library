@@ -10,9 +10,14 @@ relations:
     target: strategic-defense-initiative
   - relation: reverse_engineers
     target: alien-reproduction-vehicle-tr3b
+  - relation: sponsored_by
+    target: national-nuclear-security-administration
+    note: "one of the NNSA's three multi-mission-laboratory FFRDCs"
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/mHkPHd_eOXI_sandia.md
+    label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 A DOE/NSA National Laboratory FFRDC.
@@ -31,6 +36,12 @@ A DOE/NSA National Laboratory FFRDC.
 - Historically shared responsibility, alongside [[eg-and-g|EG&G]] and Raytheon, at the Nevada
   Test Site (including Nellis AFB/Area 51) for weapons development and high-tech testing.
   *([saic](../raw/9p99lTsC7wQ_saic.md) 1:21:36–1:21:52)*
+- Per [[edgar-fuchs|Edgar Fuchs]], the TR-3B's propulsion device (its "Magnetic Field
+  Disruptor") on both the 250 ft prototype and 600 ft operational models was reverse-engineered
+  jointly by Lawrence Livermore and [[sandia-national-laboratories|Sandia]]; one of the NNSA's
+  three multi-mission-laboratory FFRDCs sponsoring [[nevada-national-security-site|Nevada
+  National Security Site]] experimental programs. *([sandia](../raw/mHkPHd_eOXI_sandia.md)
+  1:52:17–1:53:36, 1:48:01–1:48:18)*
 
 ## Relationships
 

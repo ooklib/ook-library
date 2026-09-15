@@ -24,6 +24,8 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 - [[immaculate-constellation]] — 2017 NSC reactionary USAP for UAP/ARV collection
 - [[lockheed-martin]] — alleged TR-3B/ARV prime contractor; Sandia/Tonopah administrator, 1993-2017
 - [[operation-kona-blue]] — Lockheed's 2008-2011 attempted UFO-materials divestment
+- [[sandia-national-laboratories]] — DOE/NNSA FFRDC; alleged AEC-era crash-retrieval custodian and TR-3B/MFD reverse-engineer
+- [[national-nuclear-security-administration]] — DOE's semi-autonomous nuclear-security agency; sponsors Sandia, Los Alamos, Lawrence Livermore
 
 ## Organizations — FFRDCs & national labs
 
@@ -56,7 +58,9 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[under-secretary-of-defense-for-acquisition-and-sustainment]] ·
 [[deputy-director-of-national-intelligence-for-acquisition-technology-and-facilities]] ·
 [[doe-nuclear-emergency-support-team]] · [[160th-special-operations-aviation-regiment]] ·
-[[department-of-homeland-security]]
+[[department-of-homeland-security]] · [[atomic-energy-commission]] ·
+[[national-nuclear-security-administration]] · [[armed-forces-special-weapons-project]] ·
+[[defense-threat-reduction-agency]] · [[office-of-secure-transportation]]
 
 ## Organizations — Navy
 
@@ -73,7 +77,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[amentum]] · [[amsc-llc]] · [[nonlinear-solutions]] · [[sancorp]] · [[bdm-international]] ·
 [[mcdonnell-douglas]] · [[woods-hole-oceanographic-institution]] · [[todt-organization]] ·
 [[e-systems]] · [[to-the-stars-academy]] ·
-[[bigelow-aerospace-advanced-space-studies]] · [[peraton]]
+[[bigelow-aerospace-advanced-space-studies]] · [[peraton]] · [[honeywell]]
 
 ## Places
 
@@ -84,7 +88,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[wright-patterson-air-force-base]] · [[hanscom-air-force-base]] · [[edwards-air-force-base]] ·
 [[kirtland-air-force-base]] · [[dugway-proving-ground]] ·
 [[fairfax-county-waste-management-depot]] · [[nevada-national-security-site]] ·
-[[pine-gap-australia]] · [[tonopah-test-range]] · [[air-force-plant-42]]
+[[pine-gap-australia]] · [[tonopah-test-range]] · [[air-force-plant-42]] · [[area-6]]
 
 ## People — investigators & witnesses
 
@@ -95,7 +99,8 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[thomas-wilson]] · [[willard-miller]] · [[steven-greer]] · [[oki-shannon]] ·
 [[michael-herrera]] · [[jake-barber]] · [[matthew-brown]] · [[luis-elizondo]] · [[paul-sizz]] ·
 [[albert-bruce-collins]] · [[jonathan-wagant]] · [[dylan-borland]] · [[jim-shell]] ·
-[[tom-delonge]] · [[william-a-matan]] · [[ross-coulthart]] · [[carl-nell]] · [[jim-lacatski]]
+[[tom-delonge]] · [[william-a-matan]] · [[ross-coulthart]] · [[carl-nell]] · [[jim-lacatski]] ·
+[[j-andrew-kner]] · [[george-knapp]]
 
 ## People — gatekeepers & officials
 
@@ -116,7 +121,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[philip-j-corso]] · [[arthur-trudeau]] · [[john-craven]] · [[harold-edgerton]] ·
 [[albert-stubblebine]] · [[john-b-alexander]] · [[eric-davis]] · [[hal-puthoff]] ·
 [[edgar-mitchell]] · [[wernher-von-braun]] · [[hermann-oberth]] · [[hans-kammler]] ·
-[[xaver-dorsch]] · [[ronald-reagan]] · [[ben-rich]]
+[[xaver-dorsch]] · [[ronald-reagan]] · [[ben-rich]] · [[james-v-forrestal]]
 
 ## Programs / Events
 
@@ -131,7 +136,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[wilson-davis-notes]] · [[robertson-panel-1953]] · [[operation-sand-dollar]] ·
 [[polaris-program]] · [[advanced-aerospace-threat-identification-program]] · [[aawsap]] ·
 [[dirds]] · [[project-blue-book]] · [[project-stork]] · [[corporate-portfolio-program]] ·
-[[sentient-nro-ai-program]] · [[skunk-works]] · [[operation-kona-blue]]
+[[sentient-nro-ai-program]] · [[skunk-works]] · [[operation-kona-blue]] · [[project-twinkle]]
 
 ## Concepts
 

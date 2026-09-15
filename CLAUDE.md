@@ -81,6 +81,7 @@ sources:
 | `saic` | `raw/9p99lTsC7wQ_saic.md` | UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb) |
 | `nro` | `raw/GM1Qx9vuo2c_nro.md` | National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb) |
 | `lockheed` | `raw/X6JfbfmvgMo_lockheed.md` | Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb) |
+| `sandia` | `raw/mHkPHd_eOXI_sandia.md` | Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb) |
 
 Add a row here whenever a new raw source is ingested, and give it a short, memorable key
 (lowercase, no spaces — typically the contractor/org the video centers on).
