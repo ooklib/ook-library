@@ -32,6 +32,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/X6JfbfmvgMo_lockheed.md
+    label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Donald Kerr (now deceased) is described by Gerb as "MJ1" in Majestic-12 terminology — the most
@@ -79,9 +81,14 @@ topic before the end of his life." *(1:38:51–1:39:14)*
   [[bobby-ray-inman]], and [[mary-sturdivant]]. *([nro](../raw/GM1Qx9vuo2c_nro.md)
   2:50:59–2:51:14)*
 
+- In Gerb's Lockheed investigation, cited as the benchmark against which he compares
+  [[mary-sturdivant|Mary Sturdivant]]'s résumé — a former Lockheed Martin VP whose CIA/NRO/NSC
+  career Gerb says "rivals any high-level UFO legacy program member or gatekeeper" he has
+  discussed, including Kerr. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:23:22–2:23:37)*
+
 ## Relationships
 
 - Revolving-door figure linking [[los-alamos-national-laboratory]],
   [[science-applications-international-corporation]], CIA DS&T
   (where he founded [[cia-office-of-global-access]]), [[national-reconnaissance-office]], the
-  PDDNI office, and [[mitre-corporation]]'s board.
+  PDDNI office, and [[mitre-corporation]]'s board; comparable career to [[mary-sturdivant]].

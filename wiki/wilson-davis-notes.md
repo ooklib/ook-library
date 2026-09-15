@@ -20,6 +20,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/X6JfbfmvgMo_lockheed.md
+    label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 The Wilson-Davis notes are disputed but (per Gerb) "highly likely accurate" notes transcribed
@@ -79,7 +81,18 @@ contractor [[eg-and-g|EG&G]] in Nevada. *([saic](../raw/9p99lTsC7wQ_saic.md) 34:
   retrieval, and a possible crash-retrieval team. *([saic](../raw/9p99lTsC7wQ_saic.md)
   40:33–41:22)*
 
+- In his first-ever channel video, Gerb wagered the unnamed "large defense contractor" Wilson
+  refused to name was [[lockheed-martin|Lockheed Martin]]; after his SAIC investigation he now
+  favors [[science-applications-international-corporation|SAIC]] instead, but still considers
+  Lockheed a critical, shadowed piece of the SAPOC reorganization story — particularly a 1986 GAO
+  audit of classified-document control failures at Lockheed's Burbank (Skunk Works) plant, which
+  he theorizes could have been a near-exposure event driving the 1993–94 restructuring. See
+  [[lockheed-martin#1986 GAO carveout security audit]]. *([lockheed](../raw/
+  X6JfbfmvgMo_lockheed.md) 1:33:51–1:35:11, 1:42:18–1:44:26)*
+
 ## Relationships
 
 - Central testimony connecting [[thomas-wilson]], [[eric-davis]], [[edgar-mitchell]],
-  [[willard-miller]], and [[eg-and-g]] to the alleged SAIC/SAPOC gatekeeping structure.
+  [[willard-miller]], and [[eg-and-g]] to the alleged SAIC/SAPOC gatekeeping structure; Gerb's
+  originally suspected unnamed contractor was [[lockheed-martin]], now superseded by
+  [[science-applications-international-corporation|SAIC]] as his leading candidate.

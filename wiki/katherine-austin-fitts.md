@@ -12,6 +12,8 @@ relations:
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/X6JfbfmvgMo_lockheed.md
+    label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Katherine Austin Fitts, former Assistant Secretary for Housing and Urban Development, released
@@ -41,7 +43,15 @@ unauthorized US black-budget spending. *([saic](../raw/9p99lTsC7wQ_saic.md) 48:4
   book describing the post-WWII mechanisms creating the black-budget infrastructure.
   *([saic](../raw/9p99lTsC7wQ_saic.md) 49:41–50:04)*
 
+- Gerb's Lockheed investigation cites her 2004 paper directly, noting she identified $21 trillion
+  in unauthorized DoD/HUD spending 1995–2015, much on UFO-related "clandestine military R&D," and
+  that "a large proportion of the nation's wealth is being illegally diverted into secret,
+  unaccountable channels" — including via IT/accounting providers such as IBM, Dyncorp, SAIC, and
+  [[lockheed-martin|Lockheed Martin]] (and Lockheed Martin Information Systems, later merged into
+  Leidos in 2015). *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 15:26–16:45)*
+
 ## Relationships
 
 - Investigates fund-obfuscation practices at
-  [[science-applications-international-corporation]]; cites [[richard-dolan]].
+  [[science-applications-international-corporation]] and [[lockheed-martin]]; cites
+  [[richard-dolan]].

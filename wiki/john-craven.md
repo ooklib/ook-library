@@ -18,6 +18,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/X6JfbfmvgMo_lockheed.md
+    label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 John Piña Craven, described as senior scientist of the Navy Special Projects Office, is credited
@@ -48,8 +50,13 @@ by Gerb with the "seventh veil" analogy for extreme compartmentation. *(56:07–
 - Was shown "an inventory itemizing the items known to be on the seabed and a map of their
   distribution throughout the world." *([saic](../raw/9p99lTsC7wQ_saic.md) 44:53–45:02)*
 
+- Stated Sand Dollar was "nestled within a complex web of programs" hidden within Polaris, and
+  that Polaris testing was actually conducted at [[tonopah-test-range|Tonopah Test Range]].
+  *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 1:06:09–1:06:28)*
+
 ## Relationships
 
 - Originator of the analogy Gerb treats as conceptually equivalent to the
   [[onion-secrecy-model]] MITRE is alleged to have pioneered.
-- Spearheaded [[operation-sand-dollar]] within the [[polaris-program]].
+- Spearheaded [[operation-sand-dollar]] within the [[polaris-program]], testing conducted at
+  [[tonopah-test-range]].

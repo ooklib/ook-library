@@ -13,9 +13,14 @@ relations:
   - relation: alleged_by
     target: uap-gerb
     note: "accused of blocking the Lockheed Martin OAP Kona Blue material transfer"
+  - relation: alleged_by
+    target: eric-davis
+    note: "Davis said in an interview he'd want to 'string Gaffney up' over the blocked transfer"
 sources:
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/X6JfbfmvgMo_lockheed.md
+    label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 A recurring "Rogues Gallery" figure on Gerb's channel: [[cia-directorate-of-science-and-
@@ -32,6 +37,16 @@ UFO-materials transfer. *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:44:52–2:45:09)*
   *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:46:59–2:47:12)*
 - Photographed with [[dawn-meyerriecks|Dawn Meyerriecks]]. *([nro](../raw/GM1Qx9vuo2c_nro.md)
   2:33:01–2:33:07)*
+- Named directly in documents submitted to the November 2024 House Oversight hearing record
+  (via Rep. Tim Burchett) and a declassified AARO slide deck as the CIA DS&T deputy director who
+  killed [[james-t-ryder|James Ryder]]'s [[lockheed-martin|Lockheed Martin]] technology-transfer
+  agreement into the [[operation-kona-blue|Kona Blue]] PAP. Gaffney has denied to reporters that
+  he was involved. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 1:59:43–2:00:13,
+  2:58:03–2:59:01)*
+- [[eric-davis|Eric Davis]] said in a recent interview he would want to "string Glenn Gaffney up
+  like Jesus" over the blocked transfer — a statement Gerb calls excessive, while noting
+  Gaffney's likely lifelong CIA program-protection allegiance makes him unlikely to cooperate
+  with any subpoena. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:57:46–2:58:19)*
 
 ## Relationships
 

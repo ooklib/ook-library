@@ -1,7 +1,7 @@
 ---
 title: Doug Wolf
 kind: person
-aliases: [Doug Wolfe]
+aliases: [Doug Wolfe, Carl Wolf]
 tags: [gatekeeper, cia, dst, oga, nro]
 relations:
   - relation: employed_by
@@ -18,6 +18,8 @@ relations:
 sources:
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/X6JfbfmvgMo_lockheed.md
+    label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Gerb describes Doug Wolf as "a true program loyalist whose defense of legacy program security
@@ -37,6 +39,10 @@ rivals that of even members of the DARPA SID." *([nro](../raw/GM1Qx9vuo2c_nro.md
 - Gerb treats Wolf's four-institution footprint (OGA, CIA DS&T, NRO, DDNI ATNF — all allegedly
   UFO-legacy-program-linked) as evidence of a gatekeeper pattern rather than coincidence.
   *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:30:31–2:30:46)*
+
+- Also referenced (as "Carl Wolf," an ASR variant) in Gerb's Lockheed investigation as the CIA
+  DS&T deputy director who established the CIA Office of Global Access in 2003.
+  *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:24:13–2:24:20)*
 
 ## Relationships
 

@@ -11,6 +11,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/X6JfbfmvgMo_lockheed.md
+    label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Former USAF Master Sergeant Edgar Fuchs ("Fuché"), a whistleblower Gerb has covered before,
@@ -40,7 +42,13 @@ could not provide material evidence for its existence. *([saic](../raw/9p99lTsC7
   coating cloaking that reduced the craft's mass by 89%. *([nro](../raw/GM1Qx9vuo2c_nro.md)
   1:50:47–1:53:52)*
 
+- Accused [[lockheed-martin|Lockheed]] of operating as a prime contractor to the triangular alien
+  reproduction vehicle TR-3B — a claim Gerb calls one of the most-discussed reasons for
+  Lockheed's centrality in UFO legacy-program speculation. *([lockheed](../raw/
+  X6JfbfmvgMo_lockheed.md) 4:08–4:25)*
+
 ## Relationships
 
 - Primary claimant behind the [[alien-reproduction-vehicle-tr3b]] narrative; alleged
-  [[national-reconnaissance-office]]/NSA/CIA management of TR-3B.
+  [[national-reconnaissance-office]]/NSA/CIA management of TR-3B, built by [[lockheed-martin]],
+  Boeing, Northrop, and Teledyne Ryan.

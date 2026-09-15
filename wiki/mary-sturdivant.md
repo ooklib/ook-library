@@ -22,9 +22,14 @@ relations:
   - relation: alleged_by
     target: uap-gerb
     note: "possible co-conspirator with Glenn Gaffney in the Kona Blue transfer blockage"
+  - relation: mission_partner_of
+    target: james-t-ryder
+    note: "fellow senior Lockheed VP, active at the time of the Kona Blue transfer attempt"
 sources:
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/X6JfbfmvgMo_lockheed.md
+    label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Extensive US intelligence/defense career; Gerb calls her online footprint "largely a ghost," with
@@ -53,10 +58,27 @@ Select Committee on Intelligence (SSCI) documents. *([nro](../raw/GM1Qx9vuo2c_nr
 - Gerb notes she and [[christopher-mellon|Christopher Mellon]] worked closely together at SSCI
   for years, but Mellon reportedly declined Gerb's request for help questioning her.
   *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:50:18–2:50:35)*
+- Gerb's Lockheed investigation formally identifies Sturdivant as a "high-level member of
+  Lockheed UFO Legacy Program Operations." In 1999, prior to joining Lockheed, she was named
+  Deputy Director of the CIA's Clandestine Information Technology Office — a joint venture
+  between the CIA Directorate of Operations and CIA DS&T (the same directorate whose deputy
+  director, [[glenn-gaffney|Glenn Gaffney]], later blocked the transfer). Gerb asks whether her
+  prior agency allegiances outweighed her Lockheed coworker relationship with
+  [[james-t-ryder|James Ryder]] in the blockage of [[operation-kona-blue|Kona Blue]].
+  *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:22:52–2:23:12, 2:31:39–2:32:56)*
+- Her online footprint largely disappears around the time she joined Lockheed; documents place
+  her in the VP intelligence/joint/science & tech role at least 2011–2015 — 2011 being the year
+  of the thwarted transfer. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:31:10–2:31:39)*
+- A 1989 SSCI memorandum for record places her and [[christopher-mellon|Christopher Mellon]] at
+  the same briefing; records through 1996 show them repeatedly attending the same series of
+  meetings (identical per diem/travel costs, Jan–Mar 1996). *([lockheed](../raw/
+  X6JfbfmvgMo_lockheed.md) 2:33:12–2:34:10)*
+- Gerb compares her career to [[donald-kerr|Donald Kerr]]'s as among the most senior gatekeeper
+  résumés he has documented. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:23:22–2:23:37)*
 
 ## Relationships
 
 - Career spans [[bdm-international]], [[central-intelligence-agency]],
   [[national-security-council]], [[national-reconnaissance-office]], and
-  [[lockheed-martin]]; alleged Kona Blue co-conspirator with [[glenn-gaffney]]; SSCI colleague of
-  [[christopher-mellon]].
+  [[lockheed-martin]] (colleague of [[james-t-ryder]]); alleged Kona Blue co-conspirator with
+  [[glenn-gaffney]]; SSCI colleague of [[christopher-mellon]].

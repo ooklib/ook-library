@@ -100,3 +100,43 @@ Notable cross-source resolution: "Luis Alzando" (this video's ASR spelling) conf
 real-world Tom DeLonge, added as [[tom-delonge]]. No contradictions found between this video and
 the prior two; it substantially extends the [[wilson-davis-notes]]/SAPOC/OUSDAT gatekeeping
 thread with a parallel NRO-side office (DDNI ATNF) and a new 13-name gatekeeper roster.
+
+## [2026-09-15] ingest | Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)
+
+Ingested `raw/X6JfbfmvgMo_lockheed.md` (UAP Gerb, ~3h02m). Added the `lockheed` short citation
+key to `CLAUDE.md`'s source registry.
+
+Substantially rewrote [[lockheed-martin]] as a full hub page: corporate history/structure
+(1995 merger with [[martin-marietta]], IRAD funding mechanism), defense-industrial-base/FFRDC
+administration (33-year Sandia/Tonopah administration via the Sandia Corporation subsidiary),
+[[skunk-works]] and alleged reverse-engineering claims (TR-3B per [[edgar-fuchs]], the 2004
+"tic tac" per [[ross-coulthart]]/Fravor, [[ben-rich]]'s alleged admissions), the 1986 GAO
+carveout-security audit theorized to have triggered the SAPOC reorganization in the
+[[wilson-davis-notes]], and the 2008-2011 [[operation-kona-blue]] material-transfer saga
+([[james-t-ryder]], blocked by [[glenn-gaffney]], possibly [[mary-sturdivant]] and
+[[robert-cardillo]]; Lockheed's Enterprise Integration Group divestment chain to [[peraton]]).
+
+Created 12 new entity pages: organizations ([[martin-marietta]],
+[[bigelow-aerospace-advanced-space-studies]], [[peraton]], [[department-of-homeland-security]]),
+people ([[james-t-ryder]], [[ben-rich]], [[ross-coulthart]], [[carl-nell]], [[jim-lacatski]],
+[[tim-phillips-aaro]] — distinct from the existing [[terry-phillips]]), places
+([[tonopah-test-range]], [[air-force-plant-42]]), and programs ([[skunk-works]],
+[[operation-kona-blue]]).
+
+Updated 20 existing pages with new relations/citations, most substantially:
+[[sandia-national-laboratories]] (Lockheed/Tonopah administration 1993-2017),
+[[mary-sturdivant]] and [[robert-cardillo]] (Kona Blue blockage detail),
+[[glenn-gaffney]] and [[eric-davis]] (Kona Blue, Ryder/Starfire relationship),
+[[wilson-davis-notes]] (Lockheed as Gerb's original unnamed-contractor suspect, 1986 GAO audit),
+[[kingman-arizona-crash-1953]] (theorized Kona Blue materials), [[chris-sharp]],
+[[richard-dolan]] (Tonopah/"Advanced Group Six" leak), [[edgar-fuchs]], [[to-the-stars-academy]]
+(Skunk Works advisers, BASS/Project Forum theory), [[operation-sand-dollar]] and [[john-craven]]
+(Tonopah connection), [[corporate-portfolio-program]], [[david-grush]] (IRAD funding claim),
+[[katherine-austin-fitts]], [[hal-puthoff]] (Starfire Project), [[william-f-raborn]],
+[[donald-kerr]] (Sturdivant comparison), and [[doug-wolf]] (added "Carl Wolf" alias, resolved as
+the same CIA DS&T deputy director who founded [[cia-office-of-global-access]] in 2003).
+
+Notable cross-source resolution: this video's "Carl Wolf" (CIA DS&T deputy director, founded
+CIA OGA in 2003) confirmed as the same person as [[doug-wolf]] from the NRO video. No
+contradictions found; this video substantially extends the [[operation-sand-dollar]]/Tonopah
+thread and the Kona Blue material-transfer narrative first touched on in the NRO video.

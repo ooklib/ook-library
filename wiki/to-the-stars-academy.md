@@ -18,6 +18,8 @@ relations:
 sources:
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/X6JfbfmvgMo_lockheed.md
+    label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 To the Stars Academy, founded by musician [[tom-delonge|Tom DeLonge]] ("Tom Dong" per ASR),
@@ -43,7 +45,17 @@ EVP Rob Weiss, and 30+-year Skunk Works veteran Steve Justice. *([nro](../raw/GM
   visit" data around the same time IMCON was established (2017), constituting an authorized (or
   unauthorized) disclosure. *([nro](../raw/GM1Qx9vuo2c_nro.md) 56:19–57:18)*
 
+- Gerb's Lockheed investigation elaborates on Skunk Works EVP Rob Weiss and 30+-year Skunk Works
+  veteran Steve Justice as advisers, and further theorizes TTSA traces to the 2009
+  [[bigelow-aerospace-advanced-space-studies|BASS]] 10-month report and a "leftover idea" called
+  Project Forum, and that Elizondo and Mellon "targeted" [[tom-delonge|DeLonge]] to execute an
+  updated version. By 2021, Mellon, Elizondo, and Justice left TTSA, and the group deemphasized
+  its scientific focus for entertainment projects. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md)
+  1:24:14–1:25:41, 1:29:39–1:30:12, 1:26:37–1:26:48)*
+
 ## Relationships
 
 - Founded by [[tom-delonge]]; employed [[luis-elizondo]] as liaison to DIA/CIA/NRO; possible
-  conduit for [[immaculate-constellation]] information per Gerb's theory.
+  conduit for [[immaculate-constellation]] information per Gerb's theory; advised by
+  [[lockheed-martin]] Skunk Works personnel; theorized link to
+  [[bigelow-aerospace-advanced-space-studies]]'s Project Forum.

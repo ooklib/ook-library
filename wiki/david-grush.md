@@ -22,6 +22,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/X6JfbfmvgMo_lockheed.md
+    label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -64,9 +66,18 @@ context for the alleged reverse-engineering program.
   knowledge of misappropriation of funds used to supply UFO legacy-program operations.
   *([nro](../raw/GM1Qx9vuo2c_nro.md) 1:45:48–1:47:10, 2:19:01–2:19:22)*
 
+- In 2023 discussed misappropriation of funds and IRAD (Independent Research and Development)
+  being used to fund UFO legacy-program operations, confirming US corporations "over-charge" the
+  government for certain technology to divert additional money into such programs via IRAD.
+  *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 12:20–13:02)*
+- Discussed Lockheed's attempted divestment of UFO crash materials to the OAP program, a claim
+  that "became quite tangible" around the November 2024 House Oversight hearings.
+  *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 1:57:32–1:57:49)*
+
 ## Relationships
 
 - Co-author of the [[mitre-interrogative-letter]] with [[eric-burlison]]; testimony repeatedly
   cited by [[uap-gerb]] as corroborating the MITRE thesis; former
   [[national-geospatial-intelligence-agency]] officer and
-  [[national-reconnaissance-office]]/NGA liaison to the UAP task force.
+  [[national-reconnaissance-office]]/NGA liaison to the UAP task force; source on
+  [[lockheed-martin]]'s alleged IRAD funding mechanism and [[operation-kona-blue]] divestment.

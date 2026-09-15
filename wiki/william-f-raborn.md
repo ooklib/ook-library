@@ -14,6 +14,8 @@ relations:
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/X6JfbfmvgMo_lockheed.md
+    label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Rear Admiral William F. Raborn headed development of the [[polaris-program|Polaris]] submarine
@@ -32,7 +34,12 @@ Intelligence (1965–66) and was recruited to senior
   Dollar, an alleged UFO crash-retrieval program "buried" within the Polaris program's
   structure. *([saic](../raw/9p99lTsC7wQ_saic.md) 43:43–45:33)*
 
+- Polaris-program testing occurred at [[tonopah-test-range|Tonopah Test Range]], where the Navy's
+  Naval Air Special Weapons Facility conducted special-weapons testing; Gerb ties this to
+  [[operation-sand-dollar|Operation Sand Dollar]] and its Lockheed-built DSRVs.
+  *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 1:02:47–1:06:09)*
+
 ## Relationships
 
-- Founder/lead of the [[polaris-program]]; board member of
+- Founder/lead of the [[polaris-program]] (tested at [[tonopah-test-range]]); board member of
   [[science-applications-international-corporation]].

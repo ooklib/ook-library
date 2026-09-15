@@ -11,9 +11,14 @@ relations:
   - relation: reverse_engineers
     target: tic-tac-factory-uso
     note: "same broad undersea UFO retrieval theme Gerb pursues elsewhere"
+  - relation: coincides_with
+    target: tonopah-test-range
+    note: "Sand Dollar operations were conducted at Tonopah, per Craven"
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/X6JfbfmvgMo_lockheed.md
+    label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Per [[john-craven|Dr. John Piña Craven]]'s memoir *The Silent War*, Operation Sand Dollar was a
@@ -34,7 +39,15 @@ shelf" and deep marine environments. It remains classified. *([saic](../raw/9p99
   states the DSSP/DSRVs were used for "a tremendous amount of clandestine classified missions."
   *([saic](../raw/9p99lTsC7wQ_saic.md) 43:52–44:16)*
 
+- Craven states Sand Dollar was "nestled within a complex web of programs" itself hidden within
+  the Polaris program, actually conducted at [[tonopah-test-range|Tonopah Test Range]]. The
+  principal DSRV craft (Mystic and Avalon) built under the resulting DSSP were constructed by
+  [[lockheed-martin|Lockheed]]. Naval operations at Tonopah ceased in 1993, shortly before
+  Lockheed took over administration of the range (via Sandia). *([lockheed](../raw/
+  X6JfbfmvgMo_lockheed.md) 1:04:49–1:06:28)*
+
 ## Relationships
 
 - Concealed within [[polaris-program]]; described by [[john-craven]]; thematically linked to
-  Gerb's broader undersea UFO retrieval thesis (cf. [[tic-tac-factory-uso]]).
+  Gerb's broader undersea UFO retrieval thesis (cf. [[tic-tac-factory-uso]]); conducted at
+  [[tonopah-test-range]]; DSRVs built by [[lockheed-martin]].

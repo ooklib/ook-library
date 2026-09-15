@@ -13,9 +13,14 @@ relations:
     target: hal-puthoff
   - relation: authored
     target: dirds
+  - relation: mission_partner_of
+    target: james-t-ryder
+    note: "served together on the Starfire Project science review team"
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/X6JfbfmvgMo_lockheed.md
+    label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Dr. Eric Davis is the physicist who transcribed the [[wilson-davis-notes|Wilson-Davis notes]],
@@ -36,7 +41,23 @@ the estate of the late astronaut [[edgar-mitchell|Edgar Mitchell]].
 - Stated during a 2024 symposium that his AFRL work uncovered "irrefutable evidence of UFO
   legacy program operations." *([saic](../raw/9p99lTsC7wQ_saic.md) 1:36:56–1:37:11)*
 
+- Told Gerb directly, in a personal conversation, that alien reproduction vehicles do not exist
+  and that no UFO technology has ever been successfully exploited for human aerospace use — a
+  claim Gerb disputes and, given Davis's OAP work under [[james-t-ryder|James Ryder]] and Starfire
+  Project collaboration with Ryder and [[hal-puthoff|Hal Puthoff]], speculates could be a program-
+  protection strategy rather than an outright statement of fact.
+  *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:05:36–2:06:55, 2:09:57–2:10:25)*
+- Acknowledged in a 2019 interview that Ryder and Lockheed sought him out for the OAP project via
+  an informal trust-building/"read into a SCIF" process typical of legacy-program recruitment.
+  *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:06:55–2:09:57)*
+- Separately stated UFO material-exploitation programs were shut down in 1989 due to lack of
+  progress — a claim Gerb also disputes. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md)
+  2:05:36–2:05:55)*
+- Recently said in an interview he'd want to "string [[glenn-gaffney|Glenn Gaffney]] up like
+  Jesus" over Gaffney's alleged role blocking the [[operation-kona-blue|Kona Blue]] transfer —
+  which Gerb considers excessive. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:57:46–2:58:03)*
+
 ## Relationships
 
 - Transcriber of the [[wilson-davis-notes]]; employed by [[air-force-research-laboratory]];
-  collaborator of [[hal-puthoff]].
+  collaborator of [[hal-puthoff]] and, later, [[james-t-ryder]] on the Starfire Project.
