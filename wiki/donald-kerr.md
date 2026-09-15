@@ -1,0 +1,52 @@
+---
+title: Donald Kerr
+kind: person
+aliases: [the late Donald Kerr]
+tags: [gatekeeper, legacy-program, deceased]
+relations:
+  - relation: employed_by
+    target: los-alamos-national-laboratory
+    note: "director, 1979-1985"
+  - relation: employed_by
+    target: cia-directorate-of-science-and-technology
+    note: "deputy director, 2001-2005"
+  - relation: employed_by
+    target: national-reconnaissance-office
+    note: "director, 2005-2007"
+  - relation: board_member_of
+    target: mitre-corporation
+    note: "trustee and chairman, 2009-2021"
+  - relation: preceded_by
+    target: stephanie-osullivan
+    note: "PDDNI role"
+sources:
+  - file: raw/107BtDYhTkA_mitre.txt
+    label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+---
+
+Donald Kerr (now deceased) is described by Gerb as "MJ1" in Majestic-12 terminology — the most
+senior legacy-program figure he discusses — and credited with "helping in transparency for this
+topic before the end of his life." *(1:38:51–1:39:14)*
+
+## Claims / career timeline
+
+- PhD in plasma physics and microwave electronics, 1966. *(1:39:14–1:39:25)*
+- Director, [[los-alamos-national-laboratory]], 1979–1985. *(1:39:25–1:39:32)*
+- President, EG&G, 1989–2002. *(1:39:32–1:39:35)*
+- Executive VP and director of SIC (SAIC), 1993–1997. *(1:39:35–1:39:43)*
+- Deputy Director, CIA Directorate of Science and Technology (DS&T), 2001–2005.
+  *(1:39:43–1:39:50)*
+- Director, [[national-reconnaissance-office|NRO]], 2005–2007. *(1:39:50)*
+- Principal Deputy Director of National Intelligence (PDDNI) under Mike McConnell, 2007–2009.
+  *(1:39:50–1:39:59)*
+- Trustee and chairman of [[mitre-corporation|MITRE Corporation]], 2009–2021. *(1:39:59–
+  1:40:08)*
+- Served a second stint on the Defense Science Board (DSB) from 2010 into the early 2020s,
+  overlapping with [[william-laplante]]'s DSB service around 2013. *(1:48:34–1:48:43)*
+- Gerb frames PDDNI as a position "often staffed by an agency spook with strong ties to CIA ...
+  and a major FFRDC personnel," using Kerr as the exemplar. *(1:40:08–1:40:28)*
+
+## Relationships
+
+- Revolving-door figure linking [[los-alamos-national-laboratory]], CIA DS&T,
+  [[national-reconnaissance-office]], the PDDNI office, and [[mitre-corporation]]'s board.
