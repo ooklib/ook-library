@@ -14,6 +14,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/mHkPHd_eOXI_sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/-IXSZe4xVv4_hidden_wing.md
+    label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Witness who testified under oath to observing a 100 ft black triangle above Langley Air Force
@@ -51,8 +53,19 @@ Base in 2012, seemingly originating from a nearby NASA hangar. *([nro](../raw/GM
   lends weight to Borland's claim of DTRA holding old AEC UFO files.
   *([sandia](../raw/mHkPHd_eOXI_sandia.md) 2:33:01–2:33:21)*
 
+## Claims (from the Hidden Wing video)
+
+- Gerb re-cites Borland's 2012 Langley AFB triangle sighting as a hypothetical illustration of
+  [[saf-aa|SAF/AAH ("sensitive activities")]] coordinating an "operational concept" with Air
+  Combat Command (headquartered at Langley, a MAJCOM) — i.e. Gerb theorizes ACC could be
+  deploying a derivative-technology airframe with electro-optic cloaking under SAF/AAH-brokered
+  sensitive-activity authority. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md)
+  1:13:14–1:14:09)*
+
 ## Relationships
 
 - Testimony cited as corroborating [[alien-reproduction-vehicle-tr3b]] cloaking claims.
 - Former [[defense-threat-reduction-agency]] analyst; claims DTRA holds old AEC
   extraterrestrial-related files.
+- Sighting theorized by Gerb as a possible [[saf-aa|SAF/AAH]]-brokered Air Combat Command
+  operation.

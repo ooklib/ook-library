@@ -36,6 +36,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/-IXSZe4xVv4_hidden_wing.md
+    label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Described as "disgraced" former director of [[aaro]] (All-domain Anomaly Resolution Office).
@@ -98,6 +100,17 @@ Described as "disgraced" former director of [[aaro]] (All-domain Anomaly Resolut
 Per the NRO video, Gerb speculates Kirkpatrick's later NRO connection (2003–2005) may have been
 the point where he was first briefed or retroactively briefed into UFO legacy-program operations.
 *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:34:41–2:35:58)*
+
+## Claims (from the Hidden Wing video)
+
+- On 20 July 2022, then-[[under-secretary-of-defense-for-intelligence-and-security|USD I&S]]
+  [[ronald-moultrie|Ronald S. Moultrie]] informed DoD of AARO's creation and installed
+  Kirkpatrick as its director. Gerb theorizes AARO served as a "honeypot for whistleblowers" and
+  that Kirkpatrick's December 2023 move to [[oak-ridge-national-laboratory|Oak Ridge National
+  Lab]] as CTO for defense and intelligence programs may have been his introduction to firsthand
+  science-and-technology work on UFOs — Gerb notes Oak Ridge later deleted the job posting, and
+  Kirkpatrick does not list the Oak Ridge position on his public CV.
+  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:09:11–1:11:16)*
 
 ## Relationships
 

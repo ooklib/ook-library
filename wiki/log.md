@@ -237,3 +237,50 @@ No contradictions found with prior sources; this video substantially extends the
 Cheney/Clapper/O'Sullivan "head of the snake" gatekeeper thread, the CIA DS&T IRAD-
 misappropriation thesis (now spanning TRW, Lockheed, and E-Systems), and the Antelope Valley
 DUMB/RCS-facility thesis (Tahone as Northrop's counterpart to Lockheed's Helendale).
+
+## [2026-09-16] ingest | The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)
+
+Ingested `raw/-IXSZe4xVv4_hidden_wing.md` (full ~3h30m transcript, short key `hidden-wing`).
+This video is UAP Gerb's dedicated, primary-source investigation into the modern Air Force UFO
+legacy-program structure, previously referenced only secondhand in the Northrop/TRW Vol.2 video.
+It substantially fleshes out [[hidden-wing-air-force-program]] (Gerb's name for the alleged
+Western-Ranges T&E program for ARVs/derivative vehicles) and the surrounding Air Force
+acquisition/oversight architecture Gerb argues hosts it.
+
+Created 18 new entity pages:
+- Organizations/offices: [[saf-aq]] (SAF/AQ acquisition), [[rapid-capabilities-office]] (RCO),
+  [[aftte]] (Air Force Test and Evaluation), [[air-force-special-weapons-center]] (AFSWC),
+  [[under-secretary-of-defense-for-intelligence-and-security]] (USD I&S),
+  [[special-access-program-central-office]] (SAPCO, distinct from SAPOC).
+- Concepts: [[saf-aql]], [[saf-aqx]], [[saf-aqr]] (SAF/AQ's three special-programs directorates),
+  [[national-program-special-management-staff]] (NPMS).
+- Program: [[guardian-angel-program]] (1979 AFOSI/PJ-FBI counterintelligence program).
+- People: [[eric-henry-wang]] (enigmatic 1950s AFSWC scientist named in the Kingman and Aztec
+  crash-retrieval cases), [[russell-e-wiler]] and [[william-e-mcclure]] (SAF/AAH and SAF/AAZ
+  directors, Gerb's two candidates for Christopher Mellon's redacted "SCES2" Air Force
+  gatekeeper), [[dawn-m-dunlop]] (former SAPCO director/412th Test Wing commander),
+  [[lawrence-j-delaney]] (1991-92 SAF/AQ head with a contractor-heavy pre-government career),
+  [[lee-m-russ]] (Terry Phillips's PJ/SAP-security successor), [[richard-doty]] (AFOSI
+  counterintelligence agent, "Yankee Black" claims).
+
+Updated many existing pages with new claims, relations, and this source, most substantially:
+[[hidden-wing-air-force-program]] (full rewrite around witness "Ed" and Gerb's institutional
+thesis), [[terry-phillips]] (extensive primary career dossier: AFOSI 1997-2021, SES1 2020,
+Leidos, Northrop, DoD IG FOIA appearances), [[air-force-office-of-special-investigations]]
+(founding history, PJ mission/31 locations, Guardian Angel, Doty), [[air-force-material-command]]
+(full AMC/AFLC/ARDC/AFSC/AFSWC precursor lineage, Eric Wang, McCasland/Roswell claim, AFTC/412th
+Hidden Wing thesis), [[air-force-research-laboratory]] (AFSWC lineage, McCasland, Eric Davis
+comments), [[air-force-operational-test-and-evaluation-center]] (Kirtland HQ, four detachments),
+[[saf-aa]] (full SAF/AAH and SAF/AAZ dossier, Wiler/McClure, USD I&S tie), [[randall-g-walden]]
+(full career dossier, 2018 Mitchell Institute speech quotes), [[air-force-plant-42]] (TPS/AFOSI-
+PJ detail), [[edwards-air-force-base]], [[wright-patterson-air-force-base]],
+[[kirtland-air-force-base]], [[crystal-city-virginia]], [[dugway-proving-ground]] (witness "MS"
+disc claim), [[donna-shipton]], [[sean-kirkpatrick]] (Oak Ridge job-posting-deletion detail),
+[[ronald-moultrie]] (USD I&S/AARO founding detail), [[christopher-mellon]] (2020 Signal-exchange
+SCES2-gatekeeper claim), [[dylan-borland]] (SAF/AAH-Air Combat Command theory), and
+[[sue-c-payton]] (SAF/AQ tenure detail).
+
+No contradictions found with prior sources; this video is the primary account behind material
+the Northrop/TRW Vol.2 video had already summarized secondhand (Terry Phillips, SAF/AA, Randall
+Walden, Edward Aldridge), and it supplies the fuller institutional chain (SAF/AQ → RCO/AFTTE →
+AFMC/AFTC/412th Test Wing) Gerb argues administers the alleged "Hidden Wing" program.

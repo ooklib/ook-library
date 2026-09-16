@@ -11,9 +11,20 @@ relations:
     note: "alleged: rolled joint AF/NRO 'outside activities' under SAF/AA, 1981-1986"
   - relation: references_testimony_of
     target: william-a-davidson
+  - relation: oversees
+    target: under-secretary-of-defense-for-intelligence-and-security
+    note: "inverse: SAF/AAH sensitive-activities directorate operates under USD I&S classified directives"
+  - relation: employed_by
+    target: russell-e-wiler
+    note: "director of SAF/AAH (sensitive activities), 2009-2024"
+  - relation: employed_by
+    target: william-e-mcclure
+    note: "director of SAF/AAZ (security/special program oversight/info protection), 2019-2021"
 sources:
   - file: raw/0kLSp0lH-JQ_northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: raw/-IXSZe4xVv4_hidden_wing.md
+    label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 SAF/AA (the Office of the Administrative Assistant to the Secretary of the Air Force) is an
@@ -43,8 +54,54 @@ respectively. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 59:57–1:00:
   period of the [[strategic-defense-initiative|Strategic Defense Initiative]]'s founding).
   *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 1:03:41–1:09:03)*
 
+## Claims (from the Hidden Wing video — primary SAF/AAH and SAF/AAZ dossier)
+
+Gerb's Hidden Wing video treats SAF/AAH and SAF/AAZ (the two "sister departments" under SAF/AA)
+as an entire dedicated chapter, calling both offices "our best way to reference these offices"
+despite recent Department-of-the-Air-Force naming changes.
+*([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:03:20–1:03:43)*
+
+- SAF/AAH ("sensitive activities"), per a 2014 HAF mission directive, "serves as the United
+  States Air Force office of primary responsibility and single enterprise to address immediate
+  and emerging combat air force, combat support agency, and combatant commander mission needs
+  involving sensitive activities and operational concepts," including "sensitive activities" as
+  defined in classified DoD Directive S-5210.36 ("Provision of DoD Sensitive Support to DoD
+  Components and Other Departments and Agencies of the US Government," established 6 November
+  2008). That directive's office of primary responsibility (OPR) is the
+  [[under-secretary-of-defense-for-intelligence-and-security|Under Secretary of Defense for
+  Intelligence and Security (USD I&S)]] — which Gerb argues makes SAF/AAH a candidate coordination
+  point between the [[national-program-special-management-staff|NPMS]] and modern
+  National-Security-Council-run crash-retrieval/reverse-engineering programs.
+  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:03:51–1:06:14, 1:12:12–1:12:48)*
+- Gerb speculates SAF/AAH's charter over "combat air force, combat support agency, and combatant
+  commander mission needs" could cover scenarios like SOCOM sensitive activities requiring
+  ISR-supported UFO crash retrievals on foreign soil, or Air Combat Command (headquartered at
+  Langley AFB) deploying derivative-technology-adapted airframes — a scenario Gerb connects to
+  whistleblower [[dylan-borland|Dylan Borland]]'s 2012 sighting of a cloaked triangular airframe
+  over Langley AFB. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:12:48–1:14:09)*
+- [[russell-e-wiler|Russell E. Wiler]] served as director of SAF/AAH from 2009 to 2024 and is
+  Gerb's leading candidate (via researcher Alex Katz's analysis) for the redacted "SCES2" Air
+  Force gatekeeper named in a leaked 2020 [[christopher-mellon|Christopher Mellon]] Signal
+  exchange. In 2024, the Department of the Air Force's "reoptimization" morphed SAF/AAH into Air
+  Force Competitive Activities (SAF/OC) under the director of plans and effects (SAF/OCX) — a
+  position Wiler continued to hold until his apparent 2025 retirement.
+  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:20:41–1:23:15)* See [[russell-e-wiler]].
+- SAF/AAZ ("security/special program oversight/info protection") "provides a strategic policy
+  focus on the Air Force security enterprise and on protection of information across the Air
+  Force," manages the Air Force information-security program (including nuclear information
+  security), the personnel and industrial security programs, serves as the Air Force focal point
+  for the insider-threat program, and serves as the [[special-access-program-central-office|Air
+  Force Special Access Program Central Office (SAPCO)]] and authorizing official for Air Force
+  SAP systems. [[william-e-mcclure|William E. McClure]] directed SAF/AAZ from 2019 to 2021 and is
+  Gerb's secondary candidate for Mellon's SCES2 gatekeeper.
+  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:24:51–1:28:24)* See [[william-e-mcclure]].
+
 ## Relationships
 
 - Air Force administrative office allegedly used by [[edward-c-aldridge]] to shelter joint
   Air Force/[[national-reconnaissance-office]] "outside activities" as cover programs, per
   testimony from [[william-a-davidson]].
+- SAF/AAH directorate operates under classified [[under-secretary-of-defense-for-intelligence-
+  and-security|USD I&S]] directives; directed by [[russell-e-wiler]], 2009–2024.
+- SAF/AAZ directorate serves as the Air Force's [[special-access-program-central-office|SAPCO]];
+  directed by [[william-e-mcclure]], 2019–2021.

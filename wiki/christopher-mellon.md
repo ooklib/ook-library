@@ -15,11 +15,16 @@ relations:
   - relation: employed_by
     target: dick-cheney
     note: "held the Cheney-created position 'assistant SecDef for intelligence policy,' 1997-1998, previously held by Richard Haver"
+  - relation: alleged_by
+    target: uap-gerb
+    note: "Gerb: possibly protecting Mary Sturdivant; associates Mellon with a 2020 Signal exchange naming an SCES2 Air Force gatekeeper"
 sources:
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/0kLSp0lH-JQ_northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: raw/-IXSZe4xVv4_hidden_wing.md
+    label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Former deputy assistant secretary of defense for intelligence and a UFO-disclosure-advocate

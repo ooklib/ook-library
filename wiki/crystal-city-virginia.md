@@ -10,6 +10,8 @@ relations:
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/-IXSZe4xVv4_hidden_wing.md
+    label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Crystal City, a neighborhood in Arlington, Virginia, is described by Gerb as "the beating heart
@@ -32,7 +34,16 @@ of UFO legacy programs in the east of the United States." *(39:20–40:42)*
 - AFOSI/PJ (Office of Special Projects) is noted to have permanent offices both in Crystal City
   and at [[hanscom-air-force-base|Hanscom AFB]]. *(40:42–40:56)*
 
+## Claims (from the Hidden Wing video)
+
+- The Hidden Wing video reiterates Crystal City as home to primary offices for eight of the US's
+  top ten defense contractors and roughly two-thirds of federal contract value, and as one of 31
+  acknowledged permanent locations for [[air-force-office-of-special-investigations|AFOSI's
+  Office of Special Projects (PJ)]]. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md)
+  1:59:45–2:00:10)*
+
 ## Relationships
 
 - Geographic hub adjacent to [[mitre-corporation]] headquarters and numerous other FFRDCs and
-  defense contractors named in this investigation.
+  defense contractors named in this investigation; permanent
+  [[air-force-office-of-special-investigations|AFOSI/PJ]] station.

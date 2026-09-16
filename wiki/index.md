@@ -8,7 +8,7 @@ tags: [meta]
 
 Catalog of all entity pages, grouped by kind. See [[relation-types]] for the edge-type registry
 and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `mitre`, `saic`,
-`nro`, `lockheed`, `sandia`, `northrop-trw`).
+`nro`, `lockheed`, `sandia`, `northrop-trw`, `hidden-wing`).
 
 ## Hub pages (start here)
 
@@ -52,6 +52,10 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[air-force-material-command]] · [[air-force-research-laboratory]] ·
 [[air-force-operational-test-and-evaluation-center]] ·
 [[air-force-office-of-special-investigations]] · [[darpa]] ·
+[[saf-aq]] · [[rapid-capabilities-office]] ·
+[[aftte]] · [[air-force-special-weapons-center]] ·
+[[under-secretary-of-defense-for-intelligence-and-security]] ·
+[[special-access-program-central-office]] ·
 [[special-access-program-oversight-committee]] ·
 [[deputy-under-secretary-of-defense-advanced-systems-and-concepts]] ·
 [[joint-technology-assessment-activity]] · [[corporate-portfolio-program]] · [[aaro]] ·
@@ -102,7 +106,8 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[michael-herrera]] · [[jake-barber]] · [[matthew-brown]] · [[luis-elizondo]] · [[paul-sizz]] ·
 [[albert-bruce-collins]] · [[jonathan-wagant]] · [[dylan-borland]] · [[jim-shell]] ·
 [[tom-delonge]] · [[william-a-matan]] · [[ross-coulthart]] · [[carl-nell]] · [[jim-lacatski]] ·
-[[j-andrew-kner]] · [[george-knapp]] · [[sumner-shapiro]]
+[[j-andrew-kner]] · [[george-knapp]] · [[sumner-shapiro]] · [[richard-doty]] ·
+[[eric-henry-wang]]
 
 ## People — gatekeepers & officials
 
@@ -117,7 +122,8 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[mary-sturdivant]] · [[robert-cardillo]] · [[christopher-mellon]] · [[james-t-ryder]] ·
 [[tim-phillips-aaro]] · [[richard-haver]] · [[michael-dempsey]] · [[edward-c-aldridge]] ·
 [[randall-g-walden]] · [[vince-divine]] · [[john-c-freestone]] · [[kathy-andrews]] ·
-[[william-a-davidson]]
+[[william-a-davidson]] · [[russell-e-wiler]] · [[william-e-mcclure]] · [[lee-m-russ]] ·
+[[dawn-m-dunlop]] · [[lawrence-j-delaney]]
 
 ## People — founders, historical & researchers
 
@@ -143,10 +149,12 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[dirds]] · [[project-blue-book]] · [[project-stork]] · [[corporate-portfolio-program]] ·
 [[sentient-nro-ai-program]] · [[skunk-works]] · [[operation-kona-blue]] · [[project-twinkle]] ·
 [[northrop-advanced-technology-and-design-center]] · [[zodiac-crash-retrieval-program]] ·
-[[talon-gold]] · [[teal-ruby]] · [[saf-aa]]
+[[talon-gold]] · [[teal-ruby]] · [[saf-aa]] · [[guardian-angel-program]]
 
 ## Concepts
 
 [[ffrdc]] · [[special-access-program]] · [[special-access-program-oversight-committee]] ·
 [[onion-secrecy-model]] · [[seventh-veil-analogy]] · [[ufo-control-group]] · [[majestic-12]] ·
-[[manhattan-project-2]] · [[biefeld-brown-effect]] · [[black-vault]] · [[relation-types]]
+[[manhattan-project-2]] · [[biefeld-brown-effect]] · [[black-vault]] ·
+[[saf-aql]] · [[saf-aqx]] · [[saf-aqr]] · [[national-program-special-management-staff]] ·
+[[relation-types]]
