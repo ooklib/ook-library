@@ -24,6 +24,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/X6JfbfmvgMo_lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -73,6 +75,32 @@ context for the alleged reverse-engineering program.
 - Discussed Lockheed's attempted divestment of UFO crash materials to the OAP program, a claim
   that "became quite tangible" around the November 2024 House Oversight hearings.
   *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 1:57:32–1:57:49)*
+
+- In a Megan Kelly interview, said he was "certainly disturbed" learning how UFO legacy programs
+  were controlled — "a self-licking ice cream cone, unaccountable. Everybody owns a piece. Nobody
+  owns the outcome" — naming the late [[dick-cheney|Dick Cheney]] as the closest thing to a
+  controlling figure, and stating activities lost central leadership when Cheney left office in
+  2009. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 3:26–3:53)*
+- Discussed IRAD in the same interview: at the onset of the war on terror, war-on-terror funding
+  initially given to contractors was reallocated for overseas contingency operations, and
+  contractors began using IRAD to continue "certain things that actually the government was
+  trying to cancel," retrieving and exploiting UFO-related technology "on their own" with only
+  loose accountability to government handlers. Gerb reads this as describing a few specific
+  "breakaway" contractors rather than the industry broadly, and names
+  [[northrop-grumman|Northrop Grumman]] as the biggest such conspirator.
+  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 9:19–9:42, 1:59:06–2:00:12)*
+- Praised [[james-clapper|James Clapper]]'s public acknowledgment (in the *Age of Disclosure*
+  documentary) of a program tracking vehicles over Area 51 while DNI, but stated plainly that
+  "General Clapper was well aware of the crash retrieval issue, managed the crash retrieval issue,
+  and ... placed people in critical roles ... both publicly and ... not publicly," naming
+  [[stephanie-osullivan|Stephanie O'Sullivan]] as another IC figure "in rooms discussing this
+  issue," and calling on both to be "greater leaders" on transparency.
+  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 21:53–23:12)*
+- Helped Rep. [[eric-burlison|Eric Burlison]]'s office write legal interrogatories sent to the
+  CIA, the [[aerospace-corporation|Aerospace Corporation]], and the Navy; noted the CIA declined
+  to answer and redirected them to AARO, while the Aerospace Corporation sent representatives to
+  a secure in-person DC briefing that "didn't turn up anything whatsoever."
+  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 52:37–55:14)*
 
 ## Relationships
 

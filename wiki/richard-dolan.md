@@ -15,6 +15,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/mHkPHd_eOXI_sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 Author of *UFOs and the National Security State*, praised by
@@ -27,6 +29,13 @@ mechanisms behind the black-budget infrastructure. *([saic](../raw/9p99lTsC7wQ_s
 - Has done research on the TRW/"Zodiac" story (pseudonym "Serge Monast" or similar, ASR: "SGE
   Masters"), which Gerb expresses interest in revisiting with him.
   *([saic](../raw/9p99lTsC7wQ_saic.md) 2:10:38–2:10:46)*
+
+- In Gerb's Northrop/TRW investigation, Dolan's [[zodiac-crash-retrieval-program|Zodiac]] research
+  is credited with uncovering the identities behind the story's pseudonyms: attorney Jeffrey W.
+  Griffith (behind "Greg Halifax") and Mary Elizabeth Elliot (behind "Sedge Masters"). Griffith
+  served as corporate counsel for Hughes Aircraft and later for the former TRW Space Park in
+  Redondo Beach, California. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md)
+  46:15–47:29)*
 
 - In 2021, detailed information leaked to him from a source familiar with a classified UAP Task
   Force report presented to Congress, describing energy-pulse, ion, anti-gravity, antimatter,
@@ -45,4 +54,5 @@ mechanisms behind the black-budget infrastructure. *([saic](../raw/9p99lTsC7wQ_s
 ## Relationships
 
 - Author cited by [[katherine-austin-fitts]] on UFO legacy-program/black-budget history; source
-  for Gerb's [[tonopah-test-range]] and [[area-6]] "Advanced Group Six" claims.
+  for Gerb's [[tonopah-test-range]] and [[area-6]] "Advanced Group Six" claims; investigator of
+  the alleged [[zodiac-crash-retrieval-program]].

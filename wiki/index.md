@@ -8,7 +8,7 @@ tags: [meta]
 
 Catalog of all entity pages, grouped by kind. See [[relation-types]] for the edge-type registry
 and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `mitre`, `saic`,
-`nro`).
+`nro`, `lockheed`, `sandia`, `northrop-trw`).
 
 ## Hub pages (start here)
 
@@ -77,7 +77,8 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[amentum]] · [[amsc-llc]] · [[nonlinear-solutions]] · [[sancorp]] · [[bdm-international]] ·
 [[mcdonnell-douglas]] · [[woods-hole-oceanographic-institution]] · [[todt-organization]] ·
 [[e-systems]] · [[to-the-stars-academy]] ·
-[[bigelow-aerospace-advanced-space-studies]] · [[peraton]] · [[honeywell]]
+[[bigelow-aerospace-advanced-space-studies]] · [[peraton]] · [[honeywell]] ·
+[[huntington-ingalls-industries]] · [[inqtel]]
 
 ## Places
 
@@ -88,7 +89,8 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[wright-patterson-air-force-base]] · [[hanscom-air-force-base]] · [[edwards-air-force-base]] ·
 [[kirtland-air-force-base]] · [[dugway-proving-ground]] ·
 [[fairfax-county-waste-management-depot]] · [[nevada-national-security-site]] ·
-[[pine-gap-australia]] · [[tonopah-test-range]] · [[air-force-plant-42]] · [[area-6]]
+[[pine-gap-australia]] · [[tonopah-test-range]] · [[air-force-plant-42]] · [[area-6]] ·
+[[tahone-radar-cross-section-facility]]
 
 ## People — investigators & witnesses
 
@@ -100,7 +102,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[michael-herrera]] · [[jake-barber]] · [[matthew-brown]] · [[luis-elizondo]] · [[paul-sizz]] ·
 [[albert-bruce-collins]] · [[jonathan-wagant]] · [[dylan-borland]] · [[jim-shell]] ·
 [[tom-delonge]] · [[william-a-matan]] · [[ross-coulthart]] · [[carl-nell]] · [[jim-lacatski]] ·
-[[j-andrew-kner]] · [[george-knapp]]
+[[j-andrew-kner]] · [[george-knapp]] · [[sumner-shapiro]]
 
 ## People — gatekeepers & officials
 
@@ -113,7 +115,9 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[sue-c-payton]] · [[j-robert-beyster]] · [[doug-wolf]] · [[mark-moyahan]] ·
 [[dawn-meyerriecks]] · [[martin-faga]] · [[everett-heinman]] · [[glenn-gaffney]] ·
 [[mary-sturdivant]] · [[robert-cardillo]] · [[christopher-mellon]] · [[james-t-ryder]] ·
-[[tim-phillips-aaro]]
+[[tim-phillips-aaro]] · [[richard-haver]] · [[michael-dempsey]] · [[edward-c-aldridge]] ·
+[[randall-g-walden]] · [[vince-divine]] · [[john-c-freestone]] · [[kathy-andrews]] ·
+[[william-a-davidson]]
 
 ## People — founders, historical & researchers
 
@@ -121,7 +125,8 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[philip-j-corso]] · [[arthur-trudeau]] · [[john-craven]] · [[harold-edgerton]] ·
 [[albert-stubblebine]] · [[john-b-alexander]] · [[eric-davis]] · [[hal-puthoff]] ·
 [[edgar-mitchell]] · [[wernher-von-braun]] · [[hermann-oberth]] · [[hans-kammler]] ·
-[[xaver-dorsch]] · [[ronald-reagan]] · [[ben-rich]] · [[james-v-forrestal]]
+[[xaver-dorsch]] · [[ronald-reagan]] · [[ben-rich]] · [[james-v-forrestal]] ·
+[[edward-dahl]] · [[donald-c-winter]]
 
 ## Programs / Events
 
@@ -136,7 +141,9 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[wilson-davis-notes]] · [[robertson-panel-1953]] · [[operation-sand-dollar]] ·
 [[polaris-program]] · [[advanced-aerospace-threat-identification-program]] · [[aawsap]] ·
 [[dirds]] · [[project-blue-book]] · [[project-stork]] · [[corporate-portfolio-program]] ·
-[[sentient-nro-ai-program]] · [[skunk-works]] · [[operation-kona-blue]] · [[project-twinkle]]
+[[sentient-nro-ai-program]] · [[skunk-works]] · [[operation-kona-blue]] · [[project-twinkle]] ·
+[[northrop-advanced-technology-and-design-center]] · [[zodiac-crash-retrieval-program]] ·
+[[talon-gold]] · [[teal-ruby]] · [[saf-aa]]
 
 ## Concepts
 

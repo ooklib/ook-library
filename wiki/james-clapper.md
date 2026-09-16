@@ -15,9 +15,14 @@ relations:
     note: "possible connection to the NSC crash-retrieval portfolio/USAP enacted 2017"
   - relation: alleged_by
     target: david-grush
+  - relation: mission_partner_of
+    target: michael-dempsey
+    note: "Dempsey served as DDNI for intelligence integration, reporting directly to Clapper, 2014-2017"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 Former Director of National Intelligence (DNI), USDI, and DIA Director. Gerb casts Clapper as
@@ -37,8 +42,30 @@ succeeding [[dick-cheney]]. *(5:11–5:18)*
   [[stephanie-osullivan]] as IC figures aware of the issue whom he calls on to be "greater
   leaders" on transparency. *(1:40:56–1:41:41)*
 
+## Claims (from the Northrop Grumman & TRW Vol.2 video)
+
+- Gerb calls Clapper "likely the closest thing legacy programs have had as a singular controlling
+  figure since Dick Cheney left in 2009," though a "shell of itself" compared to Cheney's
+  authority. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 4:28–4:36, 3:17:36–3:17:56)*
+- Personally recommended (per a 2011 congressional record calling it "a significant and welcome
+  development") that President Obama nominate [[stephanie-osullivan|Stephanie O'Sullivan]] as his
+  PDDNI; Gerb theorizes Clapper deliberately recruited O'Sullivan to hold "dual-hatted roles" as
+  both senior ODNI staff and senior legacy-program personnel, given both had "prior exposure and
+  need-to-know access" before their ODNI tenure. *([northrop-trw](../raw/
+  0kLSp0lH-JQ_northrop_trw.md) 1:35:06–1:35:44)*
+- [[michael-dempsey|Michael Dempsey]] served under Clapper (and above O'Sullivan) as DDNI for
+  intelligence integration, 2014–2017, reporting directly to Clapper and personally briefing
+  Obama; Gerb states Dempsey "worked directly with Clapper on the UFO crash retrieval issue" and
+  would have been the one to partially brief Obama on UFOs, "at the behest of Clapper."
+  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 2:29:22–2:30:32)*
+- Between his DoD and DNI tenures, moved into the private sector (1998–2001) as director of
+  intelligence programs at SRA International, which supported CIA WINPAC; Gerb speculates Clapper,
+  [[michael-dempsey|Dempsey]], and O'Sullivan may have crossed paths there on the UFO issue in the
+  early 2000s. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 2:31:45–2:32:21)*
+
 ## Relationships
 
 - Succeeded [[dick-cheney]] atop the [[ufo-control-group]]; allegedly absorbed
   [[mitre-corporation]]'s programs into the [[national-security-council]]/IC fold, possibly
-  connected to [[immaculate-constellation]].
+  connected to [[immaculate-constellation]]; recommended [[stephanie-osullivan]] for PDDNI;
+  [[michael-dempsey]] reported directly to him at ODNI.

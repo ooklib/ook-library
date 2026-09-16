@@ -13,9 +13,14 @@ relations:
   - relation: alleged_by
     target: bobby-ray-inman
     note: "named by Inman to Bob Echler as the person to ask about recovered UFO vehicles"
+  - relation: contractor_for
+    target: trw
+    note: "TRW Systems Group Special Projects built Program B's SIGINT satellites during Heinman's directorship"
 sources:
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 Director of [[national-reconnaissance-office|NRO]] Program B (1982–1989), the joint NRO/CIA
@@ -40,8 +45,13 @@ Australia]] — where Heinman was the facility's first chief. Also served as
 - Named by an NRO "leaders" retrospective as "one of the NRO's most distinguished engineers,
   analysts, and weapons technologists." *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:39:17–2:39:38)*
 
+- [[trw|TRW]] Systems Group's Special Projects unit (led in 1965 by chief scientist Bill Carson)
+  built NRO Program B's SIGINT satellites during Heinman's 1982–1989 directorship.
+  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 1:25:56–1:26:32)*
+
 ## Relationships
 
 - Career at [[national-reconnaissance-office]] (Program B director,
   [[pine-gap-australia|Pine Gap]] first chief) and [[cia-directorate-of-science-and-technology]]
-  (deputy director); named by [[bobby-ray-inman]] as a possible knowledgeable contact.
+  (deputy director); named by [[bobby-ray-inman]] as a possible knowledgeable contact; Program B's
+  satellites were built by [[trw]] Systems Group Special Projects.

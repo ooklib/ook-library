@@ -13,9 +13,17 @@ relations:
     target: national-reconnaissance-office
   - relation: contractor_for
     target: central-intelligence-agency
+  - relation: board_member_of
+    target: william-a-davidson
+    note: "joined Perspecta's board of advisers after retiring from SAF/AA"
+  - relation: board_member_of
+    target: stephanie-osullivan
+    note: "joined c. 2018"
 sources:
   - file: raw/X6JfbfmvgMo_lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 Peraton is the current name of a corporate chain originating as [[lockheed-martin|Lockheed
@@ -42,7 +50,16 @@ DIB contractors). *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:35:41–2:36:44
   the [[operation-kona-blue|Kona Blue]] PAP effort was blocked. *([lockheed](../raw/
   X6JfbfmvgMo_lockheed.md) 2:37:25–2:38:34)*
 
+- Retired SAF/AA official [[william-a-davidson|William A. Davidson]] joined Perspecta's board of
+  advisers after leaving Air Force service — Gerb ties this to Rob Jones's *Subrosa* research on
+  Veritas Capital's UFO-legacy-program interest. Around 2018,
+  [[stephanie-osullivan|Stephanie O'Sullivan]] joined Peraton's board, sharing it with former NGA
+  director [[robert-cardillo|Robert Cardillo]], whom Gerb (per Jones's research) suspects may have
+  helped block Lockheed's Kona Blue material transfer. *([northrop-trw](../raw/
+  0kLSp0lH-JQ_northrop_trw.md) 1:01:23–1:01:52, 1:40:03–1:40:24)*
+
 ## Relationships
 
 - Corporate descendant of [[lockheed-martin]]'s Enterprise Integration Group.
-- [[robert-cardillo]] serves on its board of advisers.
+- [[robert-cardillo]] and [[stephanie-osullivan]] serve on its board of advisers, alongside
+  [[william-a-davidson]].

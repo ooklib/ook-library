@@ -21,11 +21,15 @@ relations:
   - relation: investigates
     target: roswell-incident-1947
     note: "possible studies of shape-memory alloys originating from Roswell wreckage"
+  - relation: board_member_of
+    target: stephanie-osullivan
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 Battelle Memorial Institute is a contractor that administers multiple FFRDCs on behalf of the
@@ -62,9 +66,14 @@ DOE and other agencies, and is described by Gerb as "no stranger to this channel
   connected to [[project-pounce|Project Pounce]]. *([nro](../raw/GM1Qx9vuo2c_nro.md)
   1:39:39–1:40:50)*
 
+- [[stephanie-osullivan|Stephanie O'Sullivan]] also serves on Battelle's board of directors,
+  described in her board bio as bringing a "wealth of knowledge and technical expertise" from the
+  IC, military, and aerospace sectors. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md)
+  1:37:36–1:37:49)*
+
 ## Relationships
 
 - Administers [[oak-ridge-national-laboratory]], [[savannah-river-national-laboratory]], and
   [[national-biodefense-analysis-and-countermeasures-center]]; part of
-  [[triad-national-security]]; board seat held by [[ronald-moultrie]]; ran [[project-stork]],
-  cited in the [[robertson-panel-1953]].
+  [[triad-national-security]]; board seats held by [[ronald-moultrie]] and
+  [[stephanie-osullivan]]; ran [[project-stork]], cited in the [[robertson-panel-1953]].

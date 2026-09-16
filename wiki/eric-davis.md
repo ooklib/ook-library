@@ -21,6 +21,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/X6JfbfmvgMo_lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 Dr. Eric Davis is the physicist who transcribed the [[wilson-davis-notes|Wilson-Davis notes]],
@@ -57,7 +59,18 @@ the estate of the late astronaut [[edgar-mitchell|Edgar Mitchell]].
   Jesus" over Gaffney's alleged role blocking the [[operation-kona-blue|Kona Blue]] transfer —
   which Gerb considers excessive. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:57:46–2:58:03)*
 
+- In a 3 March 2001 journal entry, Jacques Vallee records Davis relaying the story of the alleged
+  [[zodiac-crash-retrieval-program|Zodiac]] crash-retrieval program to him, including a "10
+  Velobind volume" housed at Wright-Patterson AFB with data from the Roswell crash and a special
+  study conducted by [[trw|TRW]]. Gerb calls his trust in Davis "wafer thin" but is keen to see
+  Davis expand on this. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 48:35–49:19)*
+- In a recent debate/conversation with Eric Weinstein on *American Alchemy*, Davis said one of
+  his primary sources for legacy-topic information was "a woman at TRW" — Gerb speculates this
+  could be the pseudonymous Zodiac source "Sedge Masters"/Mary Elizabeth Elliot.
+  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 3:21:25–3:21:54)*
+
 ## Relationships
 
 - Transcriber of the [[wilson-davis-notes]]; employed by [[air-force-research-laboratory]];
-  collaborator of [[hal-puthoff]] and, later, [[james-t-ryder]] on the Starfire Project.
+  collaborator of [[hal-puthoff]] and, later, [[james-t-ryder]] on the Starfire Project; source on
+  the alleged [[zodiac-crash-retrieval-program]] per Jacques Vallee's journals.

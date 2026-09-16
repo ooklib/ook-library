@@ -11,9 +11,14 @@ relations:
     target: central-intelligence-agency
   - relation: mission_partner_of
     target: national-security-agency
+  - relation: contractor_for
+    target: trw
+    note: "TRW Systems Group Special Projects built the SIGINT satellites for the NRO/CIA DS&T Program B ground element here"
 sources:
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 Ground station in Australia for [[national-reconnaissance-office|NRO]] Program B, a joint NRO/CIA
@@ -29,7 +34,13 @@ legacy-program discussion. *([nro](../raw/GM1Qx9vuo2c_nro.md) 22:54–23:17, 2:3
 - Program B's first director, [[everett-heinman|R. Evans/Everett Heinman]], was the first chief
   of the Pine Gap facility. *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:39:00–2:39:17)*
 
+- [[trw|TRW]] Systems Group's special projects unit (part of the entity now within
+  [[northrop-grumman|Northrop Grumman]]) built the SIGINT satellites for Program B, joint
+  NRO/CIA DS&T coordination on satellite reconnaissance elements. *([northrop-trw](../raw/
+  0kLSp0lH-JQ_northrop_trw.md) 1:25:56–1:26:47)*
+
 ## Relationships
 
 - Ground element of [[national-reconnaissance-office]] Program B; jointly run with
-  [[central-intelligence-agency]] and [[national-security-agency]].
+  [[central-intelligence-agency]] and [[national-security-agency]]; Program B's satellites built
+  by [[trw]] Systems Group.

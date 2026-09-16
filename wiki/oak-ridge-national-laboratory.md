@@ -12,6 +12,9 @@ relations:
   - relation: employed_by
     target: sean-kirkpatrick
     note: "CTO for defense and intelligence programs, Dec 2023"
+  - relation: board_member_of
+    target: stephanie-osullivan
+    note: "former advisory board seat"
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -19,6 +22,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/mHkPHd_eOXI_sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 Oak Ridge National Laboratory is a DOE-sponsored FFRDC founded during the Manhattan Project era,
@@ -41,6 +46,10 @@ administered by [[battelle-memorial-institute|Battelle Memorial Institute]].
   connect to this. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 1:17:36–1:18:04, 1:18:23–1:19:41,
   1:19:35–1:19:42)*
 
+- [[stephanie-osullivan|Stephanie O'Sullivan]] formerly served on Oak Ridge's board of advisers.
+  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 1:37:56–1:38:05)*
+
 ## Relationships
 
-- DOE FFRDC administered by [[battelle-memorial-institute]]; employs [[sean-kirkpatrick]].
+- DOE FFRDC administered by [[battelle-memorial-institute]]; employs [[sean-kirkpatrick]]; former
+  advisory-board seat held by [[stephanie-osullivan]].

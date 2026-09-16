@@ -16,6 +16,8 @@ relations:
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 US Representative Eric Burlison (ASR-transcribed throughout as "Berles"/"Burles") is a
@@ -41,7 +43,15 @@ from Burlison; not otherwise detailed in this source.
 - Credited (with David Grush) for raising public awareness of FFRDCs' role in UFO crash-retrieval
   programs. *(2:02:03–2:02:15)*
 
+- On the SecoActivo podcast, stated legal interrogatories drafted with [[david-grush|David
+  Grush]]'s help were sent not only to MITRE but also to the CIA, the
+  [[aerospace-corporation|Aerospace Corporation]], and the Navy — the CIA declined to answer and
+  redirected them to AARO, while the Aerospace Corporation was the only other entity to respond,
+  sending representatives to a secure in-person DC briefing. *([northrop-trw](../raw/
+  0kLSp0lH-JQ_northrop_trw.md) 52:37–55:14)*
+
 ## Relationships
 
 - Co-author of the [[mitre-interrogative-letter]]; source of the Pax River site-visit account
-  and the whistleblower meeting referenced re: [[tic-tac-factory-uso]].
+  and the whistleblower meeting referenced re: [[tic-tac-factory-uso]]; also sent interrogatories
+  to the CIA, [[aerospace-corporation]], and the Navy.

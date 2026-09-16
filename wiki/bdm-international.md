@@ -14,9 +14,14 @@ relations:
   - relation: employed_by
     target: ronald-moultrie
     note: "board member (scrubbed from his LinkedIn per Gerb)"
+  - relation: acquired_by
+    target: trw
+    note: "acquired by TRW in 1997"
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 BDM International is a defense contractor with a secure facility in McLean, Virginia, where a
@@ -34,8 +39,18 @@ supervised by [[john-b-alexander|Col. John B. Alexander]]) was held — one year
 - [[ronald-moultrie|Ronald Moultrie]] (who later recommended AARO's formation) sat on BDM's
   board and reportedly scrubbed this from his LinkedIn. *([saic](../raw/9p99lTsC7wQ_saic.md)
   29:13–29:47)*
+- Acquired by [[trw|TRW]] in 1997. BDM's board also included Rear Admiral
+  [[sumner-shapiro|Sumner Shapiro]], former Director of Naval Intelligence, who
+  [[bobby-ray-inman|Bobby Ray Inman]] recommended in the late 1980s as a point of contact on
+  recovered UFOs, and who reportedly confirmed to NASA mission specialist Bob Echler that he had
+  studied recovered nonhuman vehicles up close. *([northrop-trw](../raw/
+  0kLSp0lH-JQ_northrop_trw.md) 44:42–45:54)*
+- [[mary-sturdivant|Mary K. Sturdivant]] worked at BDM on defense/arms-control research and
+  technology transfer before her government career. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+  2:47:45–2:48:15)*
 
 ## Relationships
 
 - Hosted the 1985 conference attended by [[oki-shannon]]; employed
-  [[albert-stubblebine]]; board seat held by [[ronald-moultrie]].
+  [[albert-stubblebine]]; board seat held by [[ronald-moultrie]] and (per the Northrop/TRW video)
+  [[sumner-shapiro]]; acquired by [[trw]] in 1997; earlier employer of [[mary-sturdivant]].

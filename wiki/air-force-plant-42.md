@@ -13,6 +13,8 @@ relations:
 sources:
   - file: raw/X6JfbfmvgMo_lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 Air Force Plant 42, in Palmdale, California, is a government-operated airfield complex in the
@@ -37,8 +39,16 @@ Wright-Patterson AFB]]. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 45:51–46:
   alluding to nonhuman-life knowledge and radical materials/aircraft-design capabilities.
   *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 5:50–7:19)*
 
+- Gerb's Northrop/TRW investigation identifies Northrop's classified aeronautics division out of
+  Plant 42 (aeronautic systems, headquartered in Palmdale) as one of three contractors, alongside
+  Boeing and Lockheed, with access to Plant 42's classified RDT&E, and argues Northrop's
+  [[northrop-advanced-technology-and-design-center|Northrop Advanced Technology and Design Center
+  (NATDC)]] — Northrop's "little known version of the Lockheed skunk works" — likely continued
+  operating out of Plant 42 after 2003. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md)
+  36:37–37:06, 3:06:22–3:06:41)*
+
 ## Relationships
 
 - Located near [[edwards-air-force-base]]; managed via [[wright-patterson-air-force-base]].
-- Hosts [[skunk-works]] (Lockheed), Boeing Phantom Works, and Northrop's Advanced Technology
-  Development Center ([[northrop-grumman]]).
+- Hosts [[skunk-works]] (Lockheed), Boeing Phantom Works, and Northrop's
+  [[northrop-advanced-technology-and-design-center]] ([[northrop-grumman]]).

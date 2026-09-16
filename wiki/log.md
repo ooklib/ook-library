@@ -192,3 +192,48 @@ No contradictions found between this video and the prior four; it substantially 
 Sandia/Tonopah/[[operation-kona-blue|Kona Blue]] FFRDC-custody thesis first introduced in the
 Lockheed video, and extends the AFSWP/Majestic-12/Roswell thread with the first detailed
 [[j-andrew-kner|Kner]] and Interplanetary Phenomenon Unit material in the wiki.
+
+## [2026-09-16] ingest | Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2
+
+Ingested `raw/0kLSp0lH-JQ_northrop_trw.md` (full ~3h27m transcript with timestamps/chapters).
+Added a new source-registry row (`northrop-trw`) to `CLAUDE.md`.
+
+This is Gerb's "part two" on [[northrop-grumman]], centered on its 2002 acquisition of [[trw]]
+and TRW's own spin-off [[aerospace-corporation]]. Central thesis: Northrop Grumman is the prime
+contractor Gerb believes is "most involved" in clandestine UFO retrieval/reverse-engineering,
+having allegedly used [[david-grush|David Grush]]'s described early-2000s IRAD "breakaway"
+mechanism to operate largely outside the traditional legacy-program chain of command, while
+maintaining a far lower public profile than [[lockheed-martin|Lockheed Martin]].
+
+Created 19 new entity pages:
+- People: [[edward-dahl]] (1953 Kingman crash figure turned TRW Systems Group exec),
+  [[richard-haver]], [[michael-dempsey]], [[donald-c-winter]], [[edward-c-aldridge]],
+  [[randall-g-walden]], [[vince-divine]], [[john-c-freestone]], [[kathy-andrews]],
+  [[william-a-davidson]], [[sumner-shapiro]].
+- Programs/concepts: [[northrop-advanced-technology-and-design-center]] (NATDC, Northrop's
+  Skunk Works analog), [[zodiac-crash-retrieval-program]], [[talon-gold]], [[teal-ruby]],
+  [[saf-aa]] (SAF/AA, SAF/AAH, SAF/AAZ Air Force cover-program structure).
+- Organizations: [[huntington-ingalls-industries]], [[inqtel]] (In-Q-Tel).
+- Place: [[tahone-radar-cross-section-facility]] (alleged Northrop DUMB/RCS site in the
+  Antelope Valley).
+
+Updated 30 existing pages with new claims, relations, and this source, most substantially:
+[[northrop-grumman]] (TRW acquisition, IRAD/False Claims Act history, NATDC, Tahone, HII
+spinoff, Terry Phillips security apparatus), [[trw]] (full corporate history, Dahl, O'Sullivan,
+Haver, Winter, Zodiac, SDI, IRAD fraud, the 1982 CIA DS&T IRAD memo), [[aerospace-corporation]]
+(spinoff detail, Walden/Aldridge, Burlison/Grush interrogatory), [[terry-phillips]] (full career
+and Northrop security-apparatus allegations), [[stephanie-osullivan]] (TRW data-masked career,
+extensive post-PDDNI board catalog), [[david-grush]], [[dick-cheney]], [[james-clapper]],
+[[don-meyer]], [[christopher-mellon]], [[eric-davis]], [[richard-dolan]],
+[[kingman-arizona-crash-1953]] (Dahl/Stansel diary detail), [[booz-allen-hamilton]],
+[[battelle-memorial-institute]], [[oak-ridge-national-laboratory]], [[peraton]],
+[[sri-international]], [[armed-forces-special-weapons-project]], [[everett-heinman]],
+[[pine-gap-australia]], [[bobby-ray-inman]], [[eric-burlison]], [[bdm-international]],
+[[strategic-defense-initiative]], [[darpa]], [[e-systems]], [[mcdonnell-douglas]],
+[[air-force-plant-42]], and [[skunk-works]] (retargeted its Northrop analogy to the new NATDC
+page).
+
+No contradictions found with prior sources; this video substantially extends the
+Cheney/Clapper/O'Sullivan "head of the snake" gatekeeper thread, the CIA DS&T IRAD-
+misappropriation thesis (now spanning TRW, Lockheed, and E-Systems), and the Antelope Valley
+DUMB/RCS-facility thesis (Tahone as Northrop's counterpart to Lockheed's Helendale).

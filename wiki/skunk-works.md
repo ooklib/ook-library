@@ -15,11 +15,13 @@ relations:
     target: boeing
     note: "Boeing Phantom Works, comparable classified-programs division"
   - relation: analogous_to
-    target: northrop-grumman
-    note: "Northrop's Advanced Technology Development Center, comparable classified-programs division"
+    target: northrop-advanced-technology-and-design-center
+    note: "Northrop's Advanced Technology and Design Center (NATDC), comparable classified-programs division"
 sources:
   - file: raw/X6JfbfmvgMo_lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 Skunk Works (formally the Advanced Development Programs division) is Lockheed's highly

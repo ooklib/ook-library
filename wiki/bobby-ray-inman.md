@@ -30,11 +30,16 @@ relations:
   - relation: liaison_to
     target: everett-heinman
     note: "named Heinman to Bob Echler as the person to ask about recovered UFO vehicles, 1989"
+  - relation: liaison_to
+    target: sumner-shapiro
+    note: "recommended Shapiro to NASA mission specialist Bob Echler as a point of contact re: recovered UFOs, late 1980s"
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 Admiral Bobby Ray Inman had one of the most extensive intelligence/defense careers of any
@@ -72,6 +77,11 @@ director of the [[central-intelligence-agency|CIA]], vice director of the
 - Named among Gerb's 13 alleged NRO-linked gatekeepers. *([nro](../raw/GM1Qx9vuo2c_nro.md)
   2:50:59–2:51:14)*
 
+- In the late 1980s, also recommended Rear Admiral [[sumner-shapiro|Sumner Shapiro]] (former
+  Director of Naval Intelligence, [[bdm-international|BDM]] board member) as a point of contact
+  to NASA mission specialist Bob Echler for information on recovered UFOs.
+  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 44:54–45:14)*
+
 ## Relationships
 
 - Extraordinarily broad revolving-door career across [[national-security-agency]],
@@ -79,4 +89,4 @@ director of the [[central-intelligence-agency|CIA]], vice director of the
   [[national-underwater-reconnaissance-office]] (director), and
   [[science-applications-international-corporation]]; alleged (by
   [[colonel-steve-wilson]]) board role at [[decision-science-applications]]; pointed Bob Echler
-  to [[everett-heinman]] on recovered-vehicle access.
+  to [[everett-heinman]] and [[sumner-shapiro]] on recovered-vehicle access.

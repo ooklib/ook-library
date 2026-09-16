@@ -19,9 +19,20 @@ relations:
   - relation: coincides_with
     target: defense-advanced-research-center
     note: "DARC allegedly bolstered mid-1980s with SDI funding"
+  - relation: contractor_for
+    target: trw
+    note: "leading SDI contractor: $340.5M Brilliant Pebbles contract, $200M compact laser contract"
+  - relation: operates
+    target: talon-gold
+    note: "Donald C. Winter's primary SDI program"
+  - relation: coincides_with
+    target: saf-aa
+    note: "Gerb: SDI's 1981-1986 founding window parallels the alleged Aldridge-era SAF/AA 'outside activities' cover reforms"
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 President Ronald Reagan's 1983 Strategic Defense Initiative (SDI, "Star Wars") was a proposed
@@ -68,8 +79,27 @@ programs.
   *([saic](../raw/9p99lTsC7wQ_saic.md) 1:19–2:09, 1:31:14–1:32:29)* See
   [[science-applications-international-corporation]] and [[biefeld-brown-effect]].
 
+- [[donald-c-winter|Donald C. Winter]] (later TRW CEO, Secretary of the Navy, and Northrop
+  Grumman mission systems lead) worked SDI under DARPA in the 1980s, with primary responsibility
+  for [[talon-gold|Talon Gold]], a low-energy laser targeting/tracking demonstrator. Metallurgical
+  engineer Albert Bruce Collins told the late Leonard Stringfield that Talon Gold and
+  [[teal-ruby|Teal Ruby]] were 1970s programs oriented to track and possibly down UFOs, tying SDI
+  to alleged 1960s NRO UFO detections. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md)
+  39:00–42:20)*
+- [[trw|TRW]] was a leading SDI contractor, with a $340.5M Brilliant Pebbles Initiative contract
+  and a $200M Air Force compact space-qualifiable laser contract; Gerb speculates these vehicles
+  may have been backchanneled to TRW's compartmented legacy-program work.
+  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 1:09:11–1:09:51)*
+- Gerb notes SDI's 1983 founding coincides with a period of massive special-access-program
+  security expansion he ties to [[edward-c-aldridge|Edward C. Aldridge]]'s alleged rollup of joint
+  Air Force/NRO "outside activities" under [[saf-aa|SAF/AA]] as a cover structure while Aldridge
+  was Under Secretary of the Air Force (1981–1986). *([northrop-trw](../raw/
+  0kLSp0lH-JQ_northrop_trw.md) 1:06:43–1:09:11)*
+
 ## Relationships
 
 - Founded under [[ronald-reagan]]; largest contractor was
   [[science-applications-international-corporation]]; funded/coincides with
-  [[project-brilliant-buzzard]] and the [[defense-advanced-research-center]].
+  [[project-brilliant-buzzard]] and the [[defense-advanced-research-center]]; also a major
+  contract vehicle for [[trw]] ([[talon-gold]], led by [[donald-c-winter]]); temporally
+  coincides with the alleged [[saf-aa]] reform period.

@@ -12,6 +12,9 @@ relations:
   - relation: mission_partner_of
     target: area-6
     note: "one of Area 6's listed government customers, per NNSA spokesperson Darwin Morgan"
+  - relation: contractor_for
+    target: strategic-defense-initiative
+    note: "Donald C. Winter worked SDI's Talon Gold program under DARPA in the 1980s"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -19,6 +22,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/mHkPHd_eOXI_sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 DARPA's Security and Intelligence Directorate is listed among the program-protection/
@@ -37,7 +42,17 @@ programs." *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:02:32–2:02:50)*
   speculates Area 6 may be the physical home of "Advanced Group Six."
   *([sandia](../raw/mHkPHd_eOXI_sandia.md) 2:19:00–2:21:10, 2:26:12–2:26:29)*
 
+- [[vince-divine|Vince Divine]] (later Northrop Grumman director of security/SAPCO) served as SAP
+  functional area lead for DARPA's Strategic Technology Office (via ManTech).
+  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 2:27:05–2:27:22)*
+- [[donald-c-winter|Donald C. Winter]] worked under DARPA in the 1980s on the
+  [[strategic-defense-initiative|Strategic Defense Initiative]], primarily the
+  [[talon-gold|Talon Gold]] laser-tracking program. *([northrop-trw](../raw/
+  0kLSp0lH-JQ_northrop_trw.md) 39:00–39:24)*
+
 ## Relationships
 
 - Program-protection service within [[ufo-legacy-programs]]; located near
-  [[crystal-city-virginia]]; a listed government customer of [[area-6]].
+  [[crystal-city-virginia]]; a listed government customer of [[area-6]]; Strategic Technology
+  Office staffed by [[vince-divine]]; SDI/[[talon-gold]] work performed under DARPA by
+  [[donald-c-winter]].

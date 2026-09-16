@@ -9,9 +9,17 @@ relations:
     note: "deputy director, 2013-2021"
   - relation: board_member_of
     target: mitre-corporation
+  - relation: employed_by
+    target: trw
+    note: "technical staff, 1981-1993"
+  - relation: mission_partner_of
+    target: stephanie-osullivan
+    note: "overlapped at TRW, c. 1981-1983"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 Don Meyer (the ASR transcript renders the surname inconsistently as "Meyer," "Myrix," and "Myer
@@ -29,7 +37,13 @@ through NRO acquisitions. *(1:42:24–1:42:55)*
 - Immediately after leaving CIA DS&T, joined [[mitre-corporation|MITRE]]'s corporate board.
   *(1:43:14–1:43:22)*
 
+- Career included TRW technical staff (1981–1993), overlapping roughly two years there with
+  [[stephanie-osullivan|Stephanie O'Sullivan]] (TRW c. 1982–1985), and likely also with
+  [[richard-haver|Richard Haver]], per Gerb's Northrop/TRW investigation.
+  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 1:43:52–1:44:01)*
+
 ## Relationships
 
 - Passed through [[cia-directorate-of-science-and-technology]] before joining
   [[mitre-corporation]]'s board.
+- Earlier career at [[trw]] overlapped with [[stephanie-osullivan]].

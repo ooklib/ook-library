@@ -17,6 +17,8 @@ relations:
 sources:
   - file: raw/mHkPHd_eOXI_sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 The Armed Forces Special Weapons Project (AFSWP), a joint Army-Navy venture to manage nuclear
@@ -53,11 +55,17 @@ claims. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 18:19–19:30)*
   weight to whistleblower [[dylan-borland|Dylan Borland]]'s claim that DTRA holds old AEC
   extraterrestrial-related files. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 2:31:47–2:33:21)*
 
+- In 1959, [[edward-dahl|Dr. Edward Bushnell Dahl]] — named by Kingman, Arizona crash witness
+  Arthur Stansel Jr. as a crash-retrieval coordinator — served as technical director for two
+  major AFSWP special weapons programs. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md)
+  1:20:31–1:20:44)*
+
 ## Relationships
 
 - Founded by Secretary of War Robert Patterson and Secretary of the Navy James V. Forrestal;
   established operations at [[sandia-national-laboratories|Sandia Base]] alongside Los Alamos's
   Z Division, January 1947.
 - Directly precedes, through four organizational renamings, [[defense-threat-reduction-agency]].
+- Technical director role held by [[edward-dahl]] in 1959.
 - Named in [[j-andrew-kner]]'s testimony and the disputed Interplanetary Phenomenon Unit
   documents as present at the [[roswell-incident-1947|Roswell]] recovery.

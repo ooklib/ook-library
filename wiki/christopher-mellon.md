@@ -12,9 +12,14 @@ relations:
     note: "worked together at SSCI"
   - relation: mission_partner_of
     target: to-the-stars-academy
+  - relation: employed_by
+    target: dick-cheney
+    note: "held the Cheney-created position 'assistant SecDef for intelligence policy,' 1997-1998, previously held by Richard Haver"
 sources:
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+    label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 Former deputy assistant secretary of defense for intelligence and a UFO-disclosure-advocate
@@ -33,7 +38,15 @@ figure Gerb repeatedly discusses as possibly "knowing more than he's saying."
   a leftover 2010 disclosure-outreach idea ("Project Forum") from the Bigelow Aerospace Advanced
   Space Studies 10-month report. *([nro](../raw/GM1Qx9vuo2c_nro.md) 51:03–51:29)*
 
+- Held the position of assistant to the Secretary of Defense for intelligence policy from 1997 to
+  1998 — the same position [[dick-cheney|Dick Cheney]] created in 1989 specifically for
+  [[richard-haver|Richard Haver]] as his special aide. Gerb states he does not believe Mellon has
+  "been completely forthcoming" on his exposure to UFO legacy activities, given Cheney's alleged
+  role as legacy programs' "head of the snake." *([northrop-trw](../raw/
+  0kLSp0lH-JQ_northrop_trw.md) 1:48:45–1:49:10)*
+
 ## Relationships
 
 - SSCI colleague of [[mary-sturdivant]]; adviser to [[to-the-stars-academy]] alongside
-  [[luis-elizondo]].
+  [[luis-elizondo]]; held the same Cheney-created assistant-SecDef-for-intelligence-policy
+  position previously held by [[richard-haver]].
