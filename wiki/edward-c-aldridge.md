@@ -28,6 +28,8 @@ relations:
 sources:
   - file: raw/0kLSp0lH-JQ_northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 Edward C. Aldridge (nicknamed "Pete Aldridge," rendered "Edward Aldrich" throughout the ASR
@@ -63,6 +65,14 @@ compares his CV to fellow "Rogues Gallery" figure [[donald-kerr|Donald Kerr]]'s,
 - Gerb credits Aldridge as a "critical figure in reorganizing Air Force legacy programs, leading
   to extreme compartmentalization and siloing" that persists today. *([northrop-trw](../raw/
   0kLSp0lH-JQ_northrop_trw.md) 25:46–26:08)*
+
+## Claims (from the "Secrecy" Vol. 1 video)
+
+- UAP Gerb retells the SAF/AA "outside activities" account (see [[saf-aa]]) as a specific example
+  of legacy programs, following the 1983 [[yellow-fruit|Yellow Fruit]] scandal and mid-1980s SAP
+  reforms, being "forced to start using cover offices within the known United States government"
+  rather than relying on the prior era's loose top-secret-codeword access.
+  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 3:26:45–3:27:16)*
 
 ## Relationships
 

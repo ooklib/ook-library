@@ -16,6 +16,8 @@ relations:
 sources:
   - file: raw/mHkPHd_eOXI_sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 J. Andrew Kner, a former New Mexico State Representative (the video's ASR consistently renders
@@ -62,6 +64,19 @@ sandia.md) 22:18–24:06)*
 - Gerb: Kner's account "almost sounds like a 1994 precursor to David Grush," and the two are
   "kind of" alike; Gerb would like to get Kner on record for an interview.
   *([sandia](../raw/mHkPHd_eOXI_sandia.md) 23:42–23:50, 31:48–31:57)*
+
+## Claims (from the "Secrecy" Vol. 1 video)
+
+- Gerb again cites Kner's account as describing custody of recovered discs vested (via a
+  classified 1948 presidential executive order) in Atomic Energy Commission National
+  Laboratories, and notes Sandia itself was spun off from Los Alamos's Z Division the following
+  year (1949) when Truman had AT&T/Western Electric take over Sandia Base, Los Alamos, and Oak
+  Ridge. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 3:19:11–3:19:58)*
+- Gerb repeats his assessment that Kner's 1994 statement reads "almost like a 1994 precursor to
+  David Grush," and again voices full agreement with Kner's claims that early legacy programs
+  featured military support from Air Materiel Command and the
+  [[armed-forces-special-weapons-project|AFSWP]] out of Sandia Base.
+  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 58:37–59:12)*
 
 ## Relationships
 

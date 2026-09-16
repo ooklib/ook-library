@@ -11,6 +11,8 @@ relations:
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 An analogy attributed to [[john-craven]] (Navy Special Projects Office senior scientist)

@@ -22,6 +22,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/X6JfbfmvgMo_lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 The Wilson-Davis notes are disputed but (per Gerb) "highly likely accurate" notes transcribed
@@ -89,6 +91,18 @@ contractor [[eg-and-g|EG&G]] in Nevada. *([saic](../raw/9p99lTsC7wQ_saic.md) 34:
   he theorizes could have been a near-exposure event driving the 1993–94 restructuring. See
   [[lockheed-martin#1986 GAO carveout security audit]]. *([lockheed](../raw/
   X6JfbfmvgMo_lockheed.md) 1:33:51–1:35:11, 1:42:18–1:44:26)*
+
+## Claims (from the "Secrecy" Vol. 1 video)
+
+- UAP Gerb states he now possesses "supremely high confidence, extremely high confidence" —
+  independent of Eric Davis or "the whole circular reporting crew" — that the notes' account of a
+  "watch committee" telling Wilson their program was "formed out of necessity to protect
+  themselves after a near disaster in the past almost blew their cover... something to do with an
+  agreement reached with a couple of Pentagon SES's overseeing SAPs" describes a real historical
+  sequestering event: he ties this "near disaster" audit directly to the 1983
+  [[yellow-fruit|Yellow Fruit]] scandal and mid-1980s DoD SAP audits, arguing this chain of events
+  drove the final 1994 restructuring under [[bill-perry|William Perry]] discussed in the notes.
+  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 2:45:06–2:45:33, 3:08:04–3:08:36)*
 
 ## Relationships
 

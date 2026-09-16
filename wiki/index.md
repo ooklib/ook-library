@@ -8,7 +8,7 @@ tags: [meta]
 
 Catalog of all entity pages, grouped by kind. See [[relation-types]] for the edge-type registry
 and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `mitre`, `saic`,
-`nro`, `lockheed`, `sandia`, `northrop-trw`, `hidden-wing`).
+`nro`, `lockheed`, `sandia`, `northrop-trw`, `hidden-wing`, `secrecy-1`).
 
 ## Hub pages (start here)
 
@@ -47,6 +47,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[national-security-agency]] · [[defense-intelligence-agency]] ·
 [[national-reconnaissance-office]] · [[national-geospatial-intelligence-agency]] ·
 [[national-underwater-reconnaissance-office]] · [[federal-bureau-of-investigation]] ·
+[[manhattan-engineer-district]] ·
 [[jsoc]] · [[intelligence-support-activity]] · [[army-intelligence-and-security-command]] ·
 [[army-research-office]] · [[army-ballistic-missile-agency]] ·
 [[air-force-material-command]] · [[air-force-research-laboratory]] ·
@@ -107,7 +108,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[albert-bruce-collins]] · [[jonathan-wagant]] · [[dylan-borland]] · [[jim-shell]] ·
 [[tom-delonge]] · [[william-a-matan]] · [[ross-coulthart]] · [[carl-nell]] · [[jim-lacatski]] ·
 [[j-andrew-kner]] · [[george-knapp]] · [[sumner-shapiro]] · [[richard-doty]] ·
-[[eric-henry-wang]]
+[[eric-henry-wang]] · [[robert-sarbacher]]
 
 ## People — gatekeepers & officials
 
@@ -132,7 +133,8 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[albert-stubblebine]] · [[john-b-alexander]] · [[eric-davis]] · [[hal-puthoff]] ·
 [[edgar-mitchell]] · [[wernher-von-braun]] · [[hermann-oberth]] · [[hans-kammler]] ·
 [[xaver-dorsch]] · [[ronald-reagan]] · [[ben-rich]] · [[james-v-forrestal]] ·
-[[edward-dahl]] · [[donald-c-winter]]
+[[edward-dahl]] · [[donald-c-winter]] · [[george-c-marshall]] · [[leslie-groves]] ·
+[[j-robert-oppenheimer]]
 
 ## Programs / Events
 
@@ -149,7 +151,9 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[dirds]] · [[project-blue-book]] · [[project-stork]] · [[corporate-portfolio-program]] ·
 [[sentient-nro-ai-program]] · [[skunk-works]] · [[operation-kona-blue]] · [[project-twinkle]] ·
 [[northrop-advanced-technology-and-design-center]] · [[zodiac-crash-retrieval-program]] ·
-[[talon-gold]] · [[teal-ruby]] · [[saf-aa]] · [[guardian-angel-program]]
+[[talon-gold]] · [[teal-ruby]] · [[saf-aa]] · [[guardian-angel-program]] ·
+[[alsos-mission]] · [[nsc-5412-committee]] · [[yellow-fruit]] ·
+[[interplanetary-phenomenon-unit]]
 
 ## Concepts
 
@@ -157,4 +161,6 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `m
 [[onion-secrecy-model]] · [[seventh-veil-analogy]] · [[ufo-control-group]] · [[majestic-12]] ·
 [[manhattan-project-2]] · [[biefeld-brown-effect]] · [[black-vault]] ·
 [[saf-aql]] · [[saf-aqx]] · [[saf-aqr]] · [[national-program-special-management-staff]] ·
+[[top-policy-group]] · [[presidential-emergency-action-documents]] ·
+[[atomic-energy-act-1954]] ·
 [[relation-types]]

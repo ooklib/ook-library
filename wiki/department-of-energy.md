@@ -22,6 +22,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/mHkPHd_eOXI_sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 The Department of Energy (created 1977, successor via ERDA to the
@@ -49,6 +51,17 @@ authority that evades unilateral oversight from the standard US classification s
   information and "non-contract" foreign intelligence information caveats to keep UFO materials
   in FFRDC rather than contractor hands. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 1:15:52–1:17:19,
   1:24:04–1:25:35)*
+
+## Claims (from the "Secrecy" Vol. 1 video)
+
+- DOE's statutory classification authority (inherited from the AEC via the
+  [[atomic-energy-act-1954|1946 and 1954 Atomic Energy Acts]]) forms a "track two" classification
+  system entirely separate from, and immune to, ordinary executive-order-based classification —
+  meaning a presidential order to release "UFO files" would not touch DOE-held restricted data.
+  UAP Gerb argues this is precisely why DOE is "baked into every single layer" of the legacy
+  program structure, from day-to-day test-and-evaluation involvement on the Edwards 412th Test
+  Wing to working alongside the Air Force Rapid Capabilities Office on legacy administrative
+  properties. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:09:56–1:11:34)*
 
 ## Relationships
 

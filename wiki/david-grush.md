@@ -26,6 +26,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/0kLSp0lH-JQ_northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -101,6 +103,26 @@ context for the alleged reverse-engineering program.
   to answer and redirected them to AARO, while the Aerospace Corporation sent representatives to
   a secure in-person DC briefing that "didn't turn up anything whatsoever."
   *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 52:37–55:14)*
+
+## Claims (from the "Secrecy" Vol. 1 video)
+
+- Stated on several occasions, per UAP Gerb, that "the Manhattan Project secrecy apparatus" was
+  outright overlaid onto the UFO issue because that architecture had already proven effective for
+  atomic-bomb secrecy — the seed of Gerb's "Manhattan Project 2.0" framing for this two-part
+  investigation. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 33:32–33:56, 35:35–35:54)*
+- Described a "subrosa cold war... waging for decades" between the US and its adversaries over
+  mastery of recovered nonhuman technology, stating the US is not alone in encountering NHI and
+  that geopolitical rivals have their own crash-retrieval programs they are secretly exploiting
+  for military purposes. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:57:06–1:58:00)*
+- In an embedded clip, named [[j-robert-oppenheimer|Oppenheimer]] as one of two deceased figures
+  (with [[robert-sarbacher|Robert Sarbacher]]) he would most want to question about 1940s–1950s
+  secrecy decisions, noting "Oppenheimer was the one who created the classification that included
+  the UFO stuff." *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:43:22–1:43:41)*
+- Reiterated that [[james-clapper|General Clapper]] "was well aware of the crash retrieval issue,
+  managed the crash retrieval issue," and placed people in critical roles both publicly and
+  non-publicly while DNI/USDI/DIA director, calling on Clapper and other IC figures aware of the
+  issue to be "greater leaders" on transparency rather than leaving him "the only" former officer
+  being candid about it. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:35:32–1:36:21)*
 
 ## Relationships
 

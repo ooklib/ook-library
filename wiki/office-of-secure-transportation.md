@@ -18,6 +18,8 @@ relations:
 sources:
   - file: raw/mHkPHd_eOXI_sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 The Office of Secure Transportation (OST), established in 1975 (successor to the Albuquerque
@@ -59,6 +61,26 @@ under 1954 Atomic Energy Act "transclassified foreign nuclear information" and S
 - Convoys, wearing "Nevada Test Site" and NNSA badges, allegedly responded to the 2008 Needles,
   California object-crash incident investigated by journalist George Knapp.
   *([sandia](../raw/mHkPHd_eOXI_sandia.md) 1:37:17–1:38:26)*
+
+## Claims (from the "Secrecy" Vol. 1 video)
+
+- Since 1947, DOE and its predecessor agencies have moved nuclear weapons, components, and
+  special nuclear material by commercial and government transport; in the late 1960s the
+  Albuquerque Operations Office was directed to expand its transportation system to protect all
+  special-nuclear-material shipments, and OST itself was formally established in 1975 following a
+  review prompted by rising political violence, with transport responsibility transferred to the
+  Albuquerque Operations Office of the AEC (DOE's predecessor). *([secrecy-1](../raw/
+  jR-h5p2bd-A_secrecy_1.md) 1:19:26–1:20:12)*
+- OST agents are NNSA federal officers completing 1,000+ hours of initial agent-candidate
+  training plus continuing "operational readiness training," including paramilitary tactics and
+  firearms instruction; OST logs over 4.5 million miles annually across facilities in Amarillo,
+  Texas, Oak Ridge, Tennessee, and Albuquerque, New Mexico (home to three DOE FFRDCs).
+  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:22:08–1:22:53, 1:20:52–1:21:02)*
+- UAP Gerb theorizes with "extreme confidence" that OST, under DOE/NNSA authority, directly
+  transports UFO materials and secrets across the continental United States (CONUS), leveraging
+  the same [[atomic-energy-act-1954|1954 Atomic Energy Act]] cover used for the broader NNSA
+  logistics apparatus (OST, [[doe-nuclear-emergency-support-team|NEST]], and the Special Response
+  Team). *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:21:20–1:21:37, 1:22:53–1:23:21)*
 
 ## Relationships
 

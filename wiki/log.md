@@ -284,3 +284,41 @@ No contradictions found with prior sources; this video is the primary account be
 the Northrop/TRW Vol.2 video had already summarized secondhand (Terry Phillips, SAF/AA, Randall
 Walden, Edward Aldridge), and it supplies the fuller institutional chain (SAF/AQ → RCO/AFTTE →
 AFMC/AFTC/412th Test Wing) Gerb argues administers the alleged "Hidden Wing" program.
+
+## [2026-09-16] ingest | The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1
+
+Ingested `raw/jR-h5p2bd-A_secrecy_1.md` (short key `secrecy-1`; full ~3h31m transcript, ASR
+transcript with a redundant Czech-language duration line after each timestamp, ignored per
+instructions). Unlike prior ingests, this video is a broad thematic/conceptual overview — Gerb's
+own "Onion" secrecy model and "Manhattan Project 2.0" framing device — rather than a single-org
+deep dive, so most of the work went into substantially deepening existing foundational concept
+pages ([[manhattan-project-2]], [[onion-secrecy-model]], [[ufo-legacy-programs]],
+[[ufo-control-group]], [[special-access-program]], [[vannevar-bush]], [[atomic-energy-commission]],
+[[national-security-council]], [[majestic-12]], [[david-grush]], [[roswell-incident-1947]],
+[[aztec-new-mexico-crash-1948]], [[armed-forces-special-weapons-project]], [[j-andrew-kner]],
+[[office-of-secure-transportation]], [[national-nuclear-security-administration]],
+[[doe-nuclear-emergency-support-team]], [[department-of-energy]],
+[[special-access-program-oversight-committee]], [[john-craven]], [[operation-sand-dollar]],
+[[seventh-veil-analogy]], [[dick-cheney]], [[james-clapper]], [[thomas-wilson]],
+[[wilson-davis-notes]], [[edward-c-aldridge]], [[saf-aa]], [[eric-henry-wang]],
+[[kingman-arizona-crash-1953]], [[magenta-italy-crash-1933]]) rather than creating duplicates.
+
+New pages created for entities this video introduces in primary detail: [[george-c-marshall]],
+[[leslie-groves]], [[manhattan-engineer-district]], [[alsos-mission]] (ALSOS/T-Force),
+[[top-policy-group]], [[nsc-5412-committee]] (5412 Committee/Special Group/303 Committee),
+[[presidential-emergency-action-documents]], [[atomic-energy-act-1954]], [[yellow-fruit]] (1983
+Army SAP scandal), [[j-robert-oppenheimer]], [[robert-sarbacher]], and
+[[interplanetary-phenomenon-unit]] (disputed 1947 IPU documents, previously only described inline
+on other pages).
+
+Central thesis captured: Gerb's own coined "Manhattan Project 2.0" framework, explicitly
+attributed to him (not established fact) — arguing the alleged UFO legacy-program apparatus
+directly copied the original Manhattan Project's compartmentalization, organizational cover
+(the Manhattan Engineer District), physical security, classification/information control (the
+1946/1954 Atomic Energy Acts' "restricted data" as a statutory classification track parallel to
+executive-order-based SAP classification), and political shield (the Top Policy Group -> NSC ->
+5412 Committee -> 303 Committee lineage) between roughly 1947-1954, before fracturing during
+1980s SAP reforms (the Yellow Fruit scandal, Reagan's EO 12356) and the 1994 SAPOC/SRG
+reorganization into today's siloed structure. All claims attributed to UAP Gerb (with some
+sourced to David Grush, J. Andrew Kner, Robert Sarbacher, and disputed MJ-12/IPU documents) and
+flagged as speculative per the schema's domain framing.

@@ -14,6 +14,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/0kLSp0lH-JQ_northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 Gerb alleges former Vice President Dick Cheney "last ruled with an iron fist" over the
@@ -32,6 +34,13 @@ before leaving office in 2009. *(5:03–5:18)*
   Gerb notes the same assistant-SecDef position was later held by
   [[christopher-mellon|Christopher Mellon]] (1997–1998). *([northrop-trw](../raw/
   0kLSp0lH-JQ_northrop_trw.md) 1:48:02–1:49:02)*
+## Claims (from the "Secrecy" Vol. 1 video)
+
+- UAP Gerb again calls Cheney "the last man who possessed the tradecraft and Machiavellian
+  political maneuvering" to hold the fractured legacy-program portfolio together after the 1994
+  SAPOC restructuring, until his 2009 departure from the vice presidency.
+  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 3:03:48–3:04:14)*
+
 ## Relationships
 
 - Alleged head of the [[ufo-control-group]], succeeded by [[james-clapper]] in 2009; hand-selected

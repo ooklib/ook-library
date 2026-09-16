@@ -10,9 +10,14 @@ relations:
     target: manhattan-project-2
   - relation: part_of
     target: onion-secrecy-model
+  - relation: analogous_to
+    target: manhattan-engineer-district
+    note: "Gerb: the entire early security architecture was copied from the Manhattan Project"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 Gerb's umbrella term for the alleged, decades-old, fragmented network of US government,
@@ -59,9 +64,46 @@ vehicles" (UFOs), running from 1947 to the present. *(1:55–2:24)*
   Security Council control under [[james-clapper]], possibly tied to
   [[immaculate-constellation]]. *(1:34:41–1:37:32)*
 
+## Claims (from the "Secrecy" Vol. 1 video — origin narrative)
+
+- UAP Gerb summarizes his entire ~90-plus-year catalog as fundamentally "a reverse engineering
+  program to garner some kind of insight," where most resulting breakthroughs are not directly
+  ripped-off alien technology but inspired innovations that fed into other US classified programs.
+  He attributes a similar framing directly to [[david-grush|David Grush]].
+  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 0:16–0:32, 58:44–59:13)*
+- Dates the origin to at least 1947 (immediately following Roswell), though he assesses earlier
+  cases like the [[magenta-italy-crash-1933|1933 Magenta, Italy]] crash suggest some US officials
+  may have had prior awareness of nonhuman craft. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md)
+  18:47–19:27)*
+- Names the closest things to a single "centralized oversight figure" across the program's
+  history: [[james-clapper|Lt. Gen. James Clapper]] (as the closest Cheney-esque figure post-2009
+  while DNI), [[vannevar-bush|Vannevar Bush]] (during the 1940s–1950s "Manhattan Project 2.0"),
+  [[terry-phillips|Terry Phillips]] (alleged whistleblower reprisals within Air Force SAP
+  channels), and [[edward-c-aldridge|Edward C. Aldridge]] (evolution of UFO programs within
+  special access programs in the early 1980s). *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md)
+  3:57–4:36)*
+- Per Grush, oversight was conclusively lost as a centralized effort in the early 2000s, when
+  certain contractors — in Gerb's informed opinion, [[northrop-grumman|Northrop Grumman]] —
+  allegedly harnessed company-funded independent research and development (IRAD) to establish
+  breakaway UFO retrieval/exploitation projects unaccountable to their original government
+  handlers; complete oversight was lost by 2009 when [[dick-cheney|Dick Cheney]] left the vice
+  presidency. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 3:14–3:57)*
+- Restates the pyramid's FFRDC/GOCO layer as tracing back to the Truman administration's late-
+  1940s decision to give custody of recovered vehicles to what would become DOE/AEC national labs
+  (Sandia, Los Alamos, Oak Ridge), a layer Gerb calls "as important as program compartmentalization
+  itself," letting program administrators offload materials/biologics for plausible deniability
+  while retaining an iron grip on program deliverables. *([secrecy-1](../raw/
+  jR-h5p2bd-A_secrecy_1.md) 6:49–7:13, 1:00:55–1:01:39)*
+- See [[manhattan-project-2]] for Gerb's full five-pillar breakdown (compartmentalization,
+  organizational architecture, physical security, classification/information control, political
+  shield/cover) of how this structure allegedly copied the original Manhattan Project's security
+  architecture.
+
 ## Relationships
 
 - [[uap-gerb]] alleges and maps this structure.
 - [[ffrdc]] institutions (especially [[mitre-corporation]]) are cast as the operational
   backbone.
 - Structurally organized per the [[onion-secrecy-model]] of compartmentation.
+- Security architecture modeled, per Gerb, on the [[manhattan-engineer-district|Manhattan
+  Engineer District]]; see [[manhattan-project-2]].

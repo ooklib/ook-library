@@ -28,6 +28,8 @@ relations:
 sources:
   - file: raw/mHkPHd_eOXI_sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 The National Nuclear Security Administration (NNSA), established in 2000 as a semi-autonomous
@@ -72,6 +74,28 @@ critical layer of UFO legacy-program custody, recovery, and continental-US trans
   witnesses, investigated by journalist George Knapp in 2020 — allegedly saw personnel in Nevada
   Test Site/NNSA badges and Office of Secure Transportation convoys respond. *([sandia](../raw/
   mHkPHd_eOXI_sandia.md) 1:36:09–1:38:26)*
+
+## Claims (from the "Secrecy" Vol. 1 video)
+
+- Created by DOE in 2000, administering the total US nuclear weapons program (design, production,
+  delivery of weapons and components); UAP Gerb's "complete theory": the NNSA leverages
+  [[doe-nuclear-emergency-support-team|NEST]], [[office-of-secure-transportation|OST]], and the
+  Special Response Team for on-site recovery, procurement, and continental-US transport of
+  recovered UFOs under cover of the [[atomic-energy-act-1954|1954 Atomic Energy Act]].
+  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:19:58–1:20:23, 1:22:53–1:23:21)*
+- NEST's core forensics element, the Nuclear Forensics Material Analysis Program (NF-MAP), is
+  tasked to deliver "timely, specific, state-of-the-art forensic results for nuclear materials
+  found outside regulatory control." UAP Gerb hypothesizes "with near total certainty" that NF-MAP
+  is a paramount component of alleged UFO crash-retrieval programs, transporting nonregulatory
+  materials to key NNSA facilities: Los Alamos, Lawrence Livermore, Oak Ridge, Pacific Northwest
+  National Laboratory, and the Y-12 National Security Complex.
+  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:17:33–1:19:17)*
+- NEST was created under Executive Order 12656 to operate under the primary authority of the 1954
+  Atomic Energy Act, assisting the FBI and other agencies with technical expertise on nuclear-
+  material incidents; UAP Gerb hypothesizes "with near total certainty" that NEST was the ground-
+  element team, dressed in mission-oriented protective posture (MOP) gear, that USMC Lance
+  Corporal Jonathan Wagant observed securing a 1997 Peru UFO crash site.
+  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:16:38–1:17:43)*
 
 ## Relationships
 

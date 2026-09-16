@@ -16,9 +16,16 @@ relations:
   - relation: alleged_by
     target: j-andrew-kner
     note: "Kner's sources describe AEC labs receiving custody of recovered discs from 1947"
+  - relation: spun_off_from
+    target: manhattan-engineer-district
+    note: "founded 1946 as the Manhattan Project's immediate civilian successor"
+  - relation: part_of
+    target: atomic-energy-act-1954
 sources:
   - file: raw/mHkPHd_eOXI_sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 The Atomic Energy Commission (AEC), created by the 1946 Atomic Energy Act, was the civilian
@@ -71,9 +78,31 @@ sandia.md) 1:25:36–1:26:26)*
   of a recovered disc moved from Indian Springs AFB to an Area 51-adjacent facility in 1955.
   *([sandia](../raw/mHkPHd_eOXI_sandia.md) 2:09:24–2:11:24)*
 
+## Claims (from the "Secrecy" Vol. 1 video)
+
+- Founded in 1946 as the Manhattan Project's immediate civilian successor, the AEC developed its
+  own personnel security clearance system separate from DoD/Executive Branch frameworks: Q
+  clearance (equivalent to Top Secret/Restricted Data) and L clearance (equivalent to
+  Confidential/Restricted Data). *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:08:35–1:08:52)*
+- The 1946 Atomic Energy Act, passed alongside the AEC's founding, created "restricted data" — the
+  only US classification that applies automatically to information by subject matter rather than
+  by formal classification decision — codifying [[leslie-groves|Leslie Groves]]'s informal
+  Manhattan Project practice of information being "born secret." See
+  [[atomic-energy-act-1954]] for the 1954 successor statute's further expansion of this authority.
+  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:08:58–1:09:45)*
+- UAP Gerb frames the AEC/DOE's statutory classification system as a "track two," running
+  entirely parallel to and independent of the executive-order-based "track one" classification
+  system (confidential/secret/top secret plus [[special-access-program|SAP]] compartments) — with
+  different legal bases, declassification procedures, and oversight, meaning an executive order to
+  release "UFO files" would not touch AEC/DOE-held restricted data. *([secrecy-1](../raw/
+  jR-h5p2bd-A_secrecy_1.md) 1:10:04–1:11:02)*
+
 ## Relationships
 
 - Predecessor to the [[department-of-energy]] (via ERDA, 1974–1977) and the NRC.
+- Founded 1946 as the immediate civilian successor to the [[manhattan-engineer-district]];
+  statutory classification authority rooted in the [[atomic-energy-act-1954|1946 and 1954 Atomic
+  Energy Acts]].
 - Took custodial control of [[sandia-national-laboratories]] and
   [[los-alamos-national-laboratory]] in 1947; established the
   [[nevada-national-security-site|Nevada Test Site]] in 1951.

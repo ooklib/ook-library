@@ -22,6 +22,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/mHkPHd_eOXI_sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 The US government's premier response unit for radiological/nuclear accidents or incidents,
@@ -51,6 +53,18 @@ authority derives from the 1954 Atomic Energy Agreement. *([nro](../raw/GM1Qx9vu
   transportation for NEST nuclear weapons, nuclear weapon components, and SNM within the
   continental United States." *([sandia](../raw/mHkPHd_eOXI_sandia.md) 1:34:01–1:34:09,
   1:44:10–1:44:27)*
+
+## Claims (from the "Secrecy" Vol. 1 video)
+
+- NEST's core forensics element, the Nuclear Forensics Material Analysis Program (NF-MAP), is
+  tasked with delivering forensic results on nuclear materials found outside regulatory control;
+  UAP Gerb hypothesizes "with near total certainty" it is a paramount component of alleged UFO
+  crash-retrieval efforts, feeding recovered nonregulatory materials into key NNSA facilities
+  (Los Alamos, Lawrence Livermore, Oak Ridge, Pacific Northwest, Y-12). *([secrecy-1](../raw/
+  jR-h5p2bd-A_secrecy_1.md) 1:17:33–1:19:17)*
+- NEST was created under Executive Order 12656 under the primary authority of the
+  [[atomic-energy-act-1954|1954 Atomic Energy Act]]. *([secrecy-1](../raw/
+  jR-h5p2bd-A_secrecy_1.md) 1:16:38–1:16:53)*
 
 ## Relationships
 

@@ -14,11 +14,16 @@ relations:
   - relation: coincides_with
     target: tonopah-test-range
     note: "Sand Dollar operations were conducted at Tonopah, per Craven"
+  - relation: coincides_with
+    target: yellow-fruit
+    note: "Gerb cites this nesting pattern as a structural analogy for how UFO material may hide inside a wider-mission SAP"
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/X6JfbfmvgMo_lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 Per [[john-craven|Dr. John Piña Craven]]'s memoir *The Silent War*, Operation Sand Dollar was a

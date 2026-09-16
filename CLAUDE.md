@@ -84,6 +84,7 @@ sources:
 | `sandia` | `raw/mHkPHd_eOXI_sandia.md` | Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb) |
 | `northrop-trw` | `raw/0kLSp0lH-JQ_northrop_trw.md` | Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb) |
 | `hidden-wing` | `raw/-IXSZe4xVv4_hidden_wing.md` | The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb) |
+| `secrecy-1` | `raw/jR-h5p2bd-A_secrecy_1.md` | The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb) |
 
 Add a row here whenever a new raw source is ingested, and give it a short, memorable key
 (lowercase, no spaces — typically the contractor/org the video centers on).

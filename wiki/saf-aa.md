@@ -25,6 +25,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: raw/-IXSZe4xVv4_hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 SAF/AA (the Office of the Administrative Assistant to the Secretary of the Air Force) is an
@@ -95,6 +97,16 @@ despite recent Department-of-the-Air-Force naming changes.
   SAP systems. [[william-e-mcclure|William E. McClure]] directed SAF/AAZ from 2019 to 2021 and is
   Gerb's secondary candidate for Mellon's SCES2 gatekeeper.
   *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:24:51–1:28:24)* See [[william-e-mcclure]].
+
+## Claims (from the "Secrecy" Vol. 1 video)
+
+- UAP Gerb frames the SAF/AA "outside activities" as his key concrete example of legacy programs,
+  after the 1983 [[yellow-fruit|Yellow Fruit]] scandal and Reagan's 1982 Executive Order 12356
+  ended the prior era of loose top-secret-codeword readon access, shifting from hiding within SAP
+  umbrellas (like [[polaris-program|Polaris]]/[[operation-sand-dollar|Sand Dollar]]) toward hiding
+  within known-government cover offices instead — bypassing SAF/AAZ, the Air Force's component-
+  level [[special-access-program-central-office|SAPCO]], entirely. *([secrecy-1](../raw/
+  jR-h5p2bd-A_secrecy_1.md) 3:26:53–3:27:39)*
 
 ## Relationships
 

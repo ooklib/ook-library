@@ -14,11 +14,15 @@ relations:
   - relation: renamed_to
     target: defense-threat-reduction-agency
     note: "AFSWP (1947-59) -> DASA (1959-71) -> Defense Nuclear Agency (1971-96) -> Defense Special Weapons Agency (1996-98) -> DTRA (1998-)"
+  - relation: coincides_with
+    target: interplanetary-phenomenon-unit
 sources:
   - file: raw/mHkPHd_eOXI_sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/0kLSp0lH-JQ_northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 The Armed Forces Special Weapons Project (AFSWP), a joint Army-Navy venture to manage nuclear
@@ -59,6 +63,21 @@ claims. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 18:19–19:30)*
   Arthur Stansel Jr. as a crash-retrieval coordinator — served as technical director for two
   major AFSWP special weapons programs. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md)
   1:20:31–1:20:44)*
+
+## Claims (from the "Secrecy" Vol. 1 video)
+
+- Established as a joint Army-Navy venture to manage nuclear weapons following the AEC's
+  succession of the Manhattan Project; in 1953, [[edward-dahl|Dr. Edward Bushnell Dahl]] (a
+  Manhattan Project physicist and senior TRW Systems Group VP) operated on Operation Upshot–
+  Knothole nuclear tests under a joint DoD/AEC task force overseen by AFSWP — the same posting
+  where Kingman crash witness Arthur Stansel Jr. accused Dahl of coordinating the
+  [[kingman-arizona-crash-1953|Kingman, Arizona]] retrieval's personnel and logistics.
+  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 55:16–56:03)*
+- The disputed [[interplanetary-phenomenon-unit|Interplanetary Phenomenon Unit]] report names
+  "Colonel Housebrook" (real Army Colonel Sherman V. Hasbrouck of AFSWP, who worked closely with
+  General [[leslie-groves|Leslie Groves]]) as having ordered the special radiobiological team,
+  Special Engineer Detachment, and Sandia security detail that secured the Roswell crash site.
+  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 2:09:44–2:10:32)*
 
 ## Relationships
 

@@ -23,6 +23,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/0kLSp0lH-JQ_northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 Former Director of National Intelligence (DNI), USDI, and DIA Director. Gerb casts Clapper as
@@ -62,6 +64,18 @@ succeeding [[dick-cheney]]. *(5:11–5:18)*
   intelligence programs at SRA International, which supported CIA WINPAC; Gerb speculates Clapper,
   [[michael-dempsey|Dempsey]], and O'Sullivan may have crossed paths there on the UFO issue in the
   early 2000s. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 2:31:45–2:32:21)*
+
+## Claims (from the "Secrecy" Vol. 1 video)
+
+- UAP Gerb argues the *Age of Disclosure* documentary conveniently omitted the
+  [[national-security-council|NSC]]'s coordinating role in the modern UFO crash-retrieval
+  portfolio specifically to protect Clapper, since Clapper, [[stephanie-osullivan|Stephanie
+  O'Sullivan]], and Michael Dempsey spearheaded this portfolio while at ODNI (2010–2017).
+  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:34:57–1:35:30)*
+- Reiterates Clapper as the closest thing to a "mob boss" figure after [[dick-cheney|Cheney]]'s
+  2009 departure, though a markedly weaker one, presiding over a UFO control group Gerb estimates
+  at "slightly over two dozen" people alive at any given time with any sense of the program's full
+  breadth. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 2:22:06–2:22:38)*
 
 ## Relationships
 

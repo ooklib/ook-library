@@ -20,6 +20,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/X6JfbfmvgMo_lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 John Piña Craven, described as senior scientist of the Navy Special Projects Office, is credited
@@ -54,9 +56,21 @@ by Gerb with the "seventh veil" analogy for extreme compartmentation. *(56:07–
   that Polaris testing was actually conducted at [[tonopah-test-range|Tonopah Test Range]].
   *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 1:06:09–1:06:28)*
 
+## Claims (from the "Secrecy" Vol. 1 video)
+
+- UAP Gerb revisits Craven's memoir account of being briefed into Sand Dollar in 1965: the
+  briefing was kept so secret that not even Craven's own staff knew where he was going or with
+  whom he was meeting; he was taken to the briefing by a well-known Polaris submarine officer,
+  whose own Polaris role Craven later learned was itself a cover for Sand Dollar — an example UAP
+  Gerb treats as an early real-world demonstration of his "onion"/nested-SAP-umbrella model, and
+  structurally analogous to how he theorizes UFO-related compartments may have nested inside the
+  [[yellow-fruit|Yellow Fruit]] USAP umbrella. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md)
+  2:52:40–2:53:26)*
+
 ## Relationships
 
 - Originator of the analogy Gerb treats as conceptually equivalent to the
   [[onion-secrecy-model]] MITRE is alleged to have pioneered.
 - Spearheaded [[operation-sand-dollar]] within the [[polaris-program]], testing conducted at
-  [[tonopah-test-range]].
+  [[tonopah-test-range]]; his Sand Dollar-nesting account is cited as a structural analogy to
+  [[yellow-fruit]].

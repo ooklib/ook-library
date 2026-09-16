@@ -24,6 +24,11 @@ relations:
   - relation: located_at
     target: sandia-national-laboratories
     note: "alleged AEC-lab custodian per Kner's testimony and the Interplanetary Phenomenon Unit report"
+  - relation: coincides_with
+    target: interplanetary-phenomenon-unit
+  - relation: analogous_to
+    target: manhattan-project-2
+    note: "Gerb: treats this as the founding event of the alleged 'Manhattan Project 2.0'"
 sources:
   - file: raw/107BtDYhTkA_mitre.txt
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -31,6 +36,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/mHkPHd_eOXI_sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -95,10 +102,33 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
   claims three Sandia technicians died of ambiguous contamination during the operation.
   *([sandia](../raw/mHkPHd_eOXI_sandia.md) 38:12–41:20)*
 
+## Claims (from the "Secrecy" Vol. 1 video)
+
+- UAP Gerb treats the July 1947 Roswell crashes (and several subsequent American Southwest
+  crashes in the late 1940s–early 1950s) as the event that kicked the alleged "Manhattan Project
+  2.0" security apparatus into gear, distinguishing it from earlier, less consequential claimed
+  retrievals like the [[magenta-italy-crash-1933|1933 Magenta, Italy]] case.
+  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 34:19–34:34)*
+- A disputed [[interplanetary-phenomenon-unit|Interplanetary Phenomenon Unit]] report dated 22
+  July 1947 states a "Colonel Housebrook" of the
+  [[armed-forces-special-weapons-project|Armed Forces Special Weapons Project]] — a real Army
+  colonel, Sherman V. Hasbrouck — ordered a special radiobiological team, a Manhattan-Project-era
+  Special Engineer Detachment (SED), and a security detail from Sandia National Labs to secure
+  the immediate Roswell crash area; the same report names
+  [[george-c-marshall|George C. Marshall]] (then Secretary of State) as the only cabinet member
+  briefed on the crashed UFOs, with [[j-robert-oppenheimer|J. Robert Oppenheimer]] among the
+  Atomic Energy Commission scientists placed on the retrieval team. *([secrecy-1](../raw/
+  jR-h5p2bd-A_secrecy_1.md) 2:08:51–2:10:00)*
+- UAP Gerb frames 1947–1954 as the roughly seven-year formation/maturation period of the entire
+  alleged Manhattan Project 2.0 apparatus. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md)
+  36:08–36:21)*
+
 ## Relationships
 
 - Alleged trigger for [[mitre-corporation]]'s founding, ~11 years later, and for the broader
   [[ufo-legacy-programs|UFO legacy program]] apparatus.
+- Treated by UAP Gerb as the founding event of the [[manhattan-project-2|Manhattan Project 2.0]];
+  overlaps with the disputed [[interplanetary-phenomenon-unit]] report.
 - Compared to the [[aztec-new-mexico-crash-1948|Aztec, New Mexico]] case as a possibly related
   or contemporaneous event.
 - Central to [[philip-j-corso]]'s claims about the Army's Foreign Technology Division.

@@ -16,6 +16,8 @@ relations:
 sources:
   - file: raw/-IXSZe4xVv4_hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: raw/jR-h5p2bd-A_secrecy_1.md
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 Dr. Eric Henry Wang is, per Gerb, one of the most enigmatic figures associated with early-1950s
@@ -63,6 +65,14 @@ and an April 1961 *Mechanical Engineering* magazine obituary that finally fleshe
   organizational skeleton of the modern [[air-force-material-command|Air Force Material
   Command]] (via both [[air-force-research-laboratory|AFRL]] and Air Force Systems Command).
   *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 3:14:38–3:15:22)*
+
+## Claims (from the "Secrecy" Vol. 1 video)
+
+- UAP Gerb repeats Wang's identification (per Kingman witness Arthur Stansel Jr.) as
+  crash-retrieval/reverse-engineering team lead, noting Stansel worked under Wang during
+  Operation Upshot-Knothole and Wang served concurrently as chief of the Special Studies Office
+  out of Wright-Patterson AFB under the Air Research and Development Command.
+  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 50:44–51:11)*
 
 ## Relationships
 
