@@ -15,14 +15,14 @@ relations:
     target: science-applications-international-corporation
     note: "SAIC bought Agility in 2018; SAIC also works alongside L3Harris on defense contracts and, per Gerb, UFO legacy program operations"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 L3Harris is named among contractors on MITRE's alleged reverse-engineering program, and among
-the primary Crystal City-based defense contractors. *(12:55–13:03, 39:20–39:44,
+the primary Crystal City-based defense contractors. *([mitre](../raw/107BtDYhTkA_mitre.md) 12:55–13:03, 39:20–39:44,
 1:19:59–1:20:16)*
 
 ## Claims (from the SAIC investigation)

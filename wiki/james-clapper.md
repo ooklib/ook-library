@@ -19,7 +19,7 @@ relations:
     target: michael-dempsey
     note: "Dempsey served as DDNI for intelligence integration, reporting directly to Clapper, 2014-2017"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/0kLSp0lH-JQ_northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
@@ -29,20 +29,20 @@ sources:
 
 Former Director of National Intelligence (DNI), USDI, and DIA Director. Gerb casts Clapper as
 the post-2009/2010 "mob boss" of the fractured [[ufo-legacy-programs|legacy program]] ecosystem,
-succeeding [[dick-cheney]]. *(5:11–5:18)*
+succeeding [[dick-cheney]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 5:11–5:18)*
 
 ## Claims
 
 - After becoming DNI in later 2010, allegedly established the "ATIP" National Security Council
   cutout activity and used his DNI credentials to fold strictly-DoD legacy programs (including
-  [[mitre-corporation|MITRE]]'s) into the wider IC/NSC fold. *(1:36:10–1:37:05)*
+  [[mitre-corporation|MITRE]]'s) into the wider IC/NSC fold. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:36:10–1:37:05)*
 - Gerb ties the alleged 2011 introduction of CIA into MITRE's program and the alleged 2017 loss
-  of MITRE program control directly to this period of Clapper's tenure. *(1:35:58–1:37:20)*
+  of MITRE program control directly to this period of Clapper's tenure. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:35:58–1:37:20)*
 - [[david-grush]], in an embedded interview clip, states Clapper "was well aware of the crash
   retrieval issue, managed the crash retrieval issue," placing people in critical roles both
   publicly and non-publicly while DNI/USDI/DIA director; Grush names Clapper and
   [[stephanie-osullivan]] as IC figures aware of the issue whom he calls on to be "greater
-  leaders" on transparency. *(1:40:56–1:41:41)*
+  leaders" on transparency. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:40:56–1:41:41)*
 
 ## Claims (from the Northrop Grumman & TRW Vol.2 video)
 

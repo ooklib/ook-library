@@ -33,14 +33,14 @@ relations:
     target: zodiac-crash-retrieval-program
     note: "alleged managing/critical entity"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/0kLSp0lH-JQ_northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 TRW is a defense contractor whose close relationship with the Air Force prompted the 1960 spinoff
-of the [[aerospace-corporation]] as an independent FFRDC. *(21:59–22:14, 1:03:39–1:03:46)*
+of the [[aerospace-corporation]] as an independent FFRDC. *([mitre](../raw/107BtDYhTkA_mitre.md) 21:59–22:14, 1:03:39–1:03:46)*
 
 TRW Inc., formally Thompson Ramo Wooldridge Inc., traces its roots to 1901 and existed under that
 name from 1965 until its purchase by [[northrop-grumman|Northrop Grumman]] in 2002 — a deal Gerb

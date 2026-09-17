@@ -18,7 +18,7 @@ relations:
     target: national-nuclear-security-administration
     note: "one of the NNSA's three multi-mission-laboratory FFRDCs"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -27,17 +27,17 @@ sources:
 ---
 
 Los Alamos National Laboratory is a DOE/NSA National Laboratory FFRDC founded during the
-Manhattan Project. *(19:32–19:37)*
+Manhattan Project. *([mitre](../raw/107BtDYhTkA_mitre.md) 19:32–19:37)*
 
 ## Claims
 
 - Cited among the AEC National Labs (alongside Sandia, Oak Ridge) allegedly designated by
   1948 classified executive orders as custodians for recovered nonhuman technical vehicles,
-  under [[vannevar-bush]]. *(19:45–20:05)*
+  under [[vannevar-bush]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 19:45–20:05)*
 - [[donald-kerr]] served as director of Los Alamos from 1979 to 1985, prior to a career Gerb
-  frames as emblematic of the government–FFRDC "revolving door." *(1:39:14–1:39:25)*
+  frames as emblematic of the government–FFRDC "revolving door." *([mitre](../raw/107BtDYhTkA_mitre.md) 1:39:14–1:39:25)*
 - Cited among AEC National Labs given custody of recovered discs per 1949–1954 classified
-  executive orders. *(2:06:33–2:06:47)*
+  executive orders. *([mitre](../raw/107BtDYhTkA_mitre.md) 2:06:33–2:06:47)*
 - Its Z Division (forerunner of [[sandia-national-laboratories|Sandia]]) began operations at
   Sandia Base in July 1945; transferred to AEC control 1 January 1947. Los Alamos personnel
   reportedly supported [[j-andrew-kner|J. Andrew Kner]]'s alleged AEC-lab custody of Roswell-era

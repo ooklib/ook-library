@@ -29,7 +29,7 @@ relations:
     target: terry-phillips
     note: "VP for security since 2023; Gerb alleges Phillips runs Northrop's UFO-program security apparatus"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -39,9 +39,9 @@ sources:
 
 Northrop Grumman has primary offices in [[crystal-city-virginia|Crystal City]] and is listed
 with less confidence among contractors Gerb suspects are involved in MITRE's UFO work.
-*(39:36–39:44, 1:56:19–1:56:33)* Also cited earlier as an example private contractor (with
+*([mitre](../raw/107BtDYhTkA_mitre.md) 39:36–39:44, 1:56:19–1:56:33)* Also cited earlier as an example private contractor (with
 Lockheed) that the government would hesitate to give direct custody of recovered materials to.
-*(26:37–26:45)*
+*([mitre](../raw/107BtDYhTkA_mitre.md) 26:37–26:45)*
 
 ## Claims (from the SAIC video)
 

@@ -16,7 +16,7 @@ relations:
     target: strategic-defense-initiative
     note: "Donald C. Winter worked SDI's Talon Gold program under DARPA in the 1980s"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
@@ -28,7 +28,7 @@ sources:
 
 DARPA's Security and Intelligence Directorate is listed among the program-protection/
 exposure-mitigation services safeguarding the [[ufo-legacy-programs|legacy program]] pyramid.
-*(6:39–6:54)* DARPA is also based in/near [[crystal-city-virginia|Crystal City]]. *(40:07–40:14)*
+*([mitre](../raw/107BtDYhTkA_mitre.md) 6:39–6:54)* DARPA is also based in/near [[crystal-city-virginia|Crystal City]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 40:07–40:14)*
 
 Gerb states he "personally fears" DARPA's Security and Intelligence Directive (SID), calling it an
 office "not afraid to employ wet works to silence insider or outsider threats to exotic RDT&E

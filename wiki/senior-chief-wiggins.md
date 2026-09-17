@@ -7,7 +7,7 @@ relations:
   - relation: references_testimony_of
     target: 2004-nimitz-encounter
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
@@ -15,7 +15,7 @@ Senior Chief Wiggins is cited by Gerb as a witness whose testimony describes a s
 tic-tac-shaped object emerging from the ocean before linking up with three other similar
 objects, then all four disappearing simultaneously with synchronized, near-instantaneous
 acceleration, with no sonic boom or conventional propulsion signatures observed.
-*(1:27:41–1:28:19)*
+*([mitre](../raw/107BtDYhTkA_mitre.md) 1:27:41–1:28:19)*
 
 ## Relationships
 

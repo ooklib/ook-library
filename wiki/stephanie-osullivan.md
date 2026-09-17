@@ -36,7 +36,7 @@ relations:
     target: peraton
     note: "joined c. 2018"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/0kLSp0lH-JQ_northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
@@ -45,16 +45,16 @@ sources:
 Stephanie O'Sullivan served as Principal Deputy Director of National Intelligence (PDDNI) under
 [[james-clapper]] from 2011 to 2017 — the same years Gerb alleges MITRE's briefing restrictions
 began (2011) and program control shifted (2017), which he calls out as likely more than
-"coincidence." *(1:40:28–1:40:44)*
+"coincidence." *([mitre](../raw/107BtDYhTkA_mitre.md) 1:40:28–1:40:44)*
 
 ## Claims
 
-- Formerly served as CIA DS&T deputy director. *(1:40:44–1:40:51)*
+- Formerly served as CIA DS&T deputy director. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:40:44–1:40:51)*
 - Joined a suite of boards following PDDNI, including [[aerospace-corporation]].
-  *(1:40:51–1:41:00)*
+  *([mitre](../raw/107BtDYhTkA_mitre.md) 1:40:51–1:41:00)*
 - Named directly by [[david-grush]] in an embedded interview clip, alongside
   [[james-clapper]], as an IC figure "well aware of" the crash-retrieval issue who was "in
-  rooms discussing this issue." *(1:40:56–1:41:41)*
+  rooms discussing this issue." *([mitre](../raw/107BtDYhTkA_mitre.md) 1:40:56–1:41:41)*
 
 ## Claims (from the Northrop Grumman & TRW Vol.2 video)
 

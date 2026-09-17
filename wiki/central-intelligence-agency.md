@@ -17,7 +17,7 @@ relations:
     target: bobby-ray-inman
     note: "deputy director"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -32,7 +32,7 @@ Technology]], [[cia-office-of-global-access|Office of Global Access]], and invol
 ## Claims
 
 - Alleged in the MITRE video to have been "introduced" as a legacy-program mission partner in
-  2011, coinciding with MITRE's briefing restrictions. *(1:34:41–1:35:12)*
+  2011, coinciding with MITRE's briefing restrictions. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:34:41–1:35:12)*
 - [[john-m-deutch|John M. Deutch]] served as CIA director under President Clinton; before that,
   as director of central intelligence. *([saic](../raw/9p99lTsC7wQ_saic.md) 9:13–9:20,
   38:04–38:11)*

@@ -8,11 +8,11 @@ relations:
     target: national-security-council
     note: "as DNI, 2017-2019, oversaw Susan Gordon as PDDNI"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
-Dan Coats served as DNI while [[susan-m-gordon]] was PDDNI, 2017–2019. *(1:41:53–1:42:04)*
+Dan Coats served as DNI while [[susan-m-gordon]] was PDDNI, 2017–2019. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:41:53–1:42:04)*
 
 ## Relationships
 

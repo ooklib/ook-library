@@ -14,7 +14,7 @@ relations:
     target: edward-dahl
     note: "named by primary witness Arthur Stansel Jr. as the man who summoned him to the crash site"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/X6JfbfmvgMo_lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
@@ -25,7 +25,7 @@ sources:
 ---
 
 Cited by Gerb as an example of "Southwest systems" used to intake recovered craft around this
-period, associated with [[sandia-national-laboratories|Sandia]]. *(2:04:13–2:04:30)*
+period, associated with [[sandia-national-laboratories|Sandia]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 2:04:13–2:04:30)*
 
 ## Claims
 

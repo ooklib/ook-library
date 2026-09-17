@@ -20,7 +20,7 @@ relations:
     target: lee-m-russ
     note: "Russ succeeded Phillips as PJ executive director and Air Force SAP Security Director"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/0kLSp0lH-JQ_northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
@@ -32,7 +32,7 @@ Terry Phillips is named by Gerb as a contact/figure at
 [[air-force-office-of-special-investigations|AFOSI's Office of Special Projects]], addressed
 directly on camera ("hello Terry Phillips") in connection with the AFOSI/PJ's alleged
 counterintelligence role supporting [[mitre-corporation]]'s legacy activities.
-*(40:42–40:56, 1:12:01–1:12:08)*
+*([mitre](../raw/107BtDYhTkA_mitre.md) 40:42–40:56, 1:12:01–1:12:08)*
 
 ## Claims (from the Northrop Grumman & TRW Vol.2 video)
 

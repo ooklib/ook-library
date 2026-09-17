@@ -10,7 +10,7 @@ relations:
     target: james-clapper
     note: "as head of the legacy-program control group, upon leaving the vice presidency"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/0kLSp0lH-JQ_northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
@@ -20,7 +20,7 @@ sources:
 
 Gerb alleges former Vice President Dick Cheney "last ruled with an iron fist" over the
 [[ufo-control-group]] / [[national-security-council]] covert-activities oversight structure
-before leaving office in 2009. *(5:03–5:18)*
+before leaving office in 2009. *([mitre](../raw/107BtDYhTkA_mitre.md) 5:03–5:18)*
 
 ## Claims (from the Northrop Grumman & TRW Vol.2 video)
 

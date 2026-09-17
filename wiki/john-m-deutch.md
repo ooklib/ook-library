@@ -26,7 +26,7 @@ relations:
     target: los-alamos-national-laboratory
     note: "consultant, pre-SAPOC"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -37,7 +37,7 @@ sources:
 John M. Deutch chaired the [[special-access-program-oversight-committee|SAPOC]] during
 [[paul-kaminski]]'s tenure and also served as Secretary of Defense. Gerb notes he served on
 [[mitre-corporation|MITRE]]'s board both before and during his time as SAPOC chair and SecDef.
-*(1:46:18–1:46:36)*
+*([mitre](../raw/107BtDYhTkA_mitre.md) 1:46:18–1:46:36)*
 
 ## Claims (from the SAIC video)
 

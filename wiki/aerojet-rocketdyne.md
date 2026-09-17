@@ -10,13 +10,13 @@ relations:
   - relation: located_at
     target: crystal-city-virginia
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
 Has primary offices in [[crystal-city-virginia|Crystal City]] and is listed with lower
 confidence among contractors Gerb suspects are involved in MITRE's UFO work.
-*(39:36–39:44, 1:56:19–1:56:33)*
+*([mitre](../raw/107BtDYhTkA_mitre.md) 39:36–39:44, 1:56:19–1:56:33)*
 
 ## Relationships
 

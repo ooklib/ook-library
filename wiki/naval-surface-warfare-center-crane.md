@@ -18,14 +18,14 @@ relations:
   - relation: contractor_for
     target: joint-technology-assessment-activity
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 NSWC Crane, at the Naval Support Activity in Crane, Indiana, is a site Gerb says he has covered
-extensively in prior work. *(1:13:04–1:13:12)*
+extensively in prior work. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:13:04–1:13:12)*
 
 ## Claims
 
@@ -33,9 +33,9 @@ extensively in prior work. *(1:13:04–1:13:12)*
   quote-unquote "off-world technologies division" below NSWC Crane and shown recovered NHI
   technology: a sphere that reacted to consciousness, and a gauntlet-type device considered a
   possible weapon. Gerb states he believes and stands by Anderson's account, connecting it to
-  the MITRE reverse-engineering program. *(1:13:12–1:13:41)*
+  the MITRE reverse-engineering program. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:13:12–1:13:41)*
 - Part of the alleged "triage" of Navy sites (with NSWC Dahlgren) holding and analyzing hardware
-  for this legacy activity. *(1:13:49–1:14:02)*
+  for this legacy activity. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:13:49–1:14:02)*
 
 ## Claims (from the SAIC investigation)
 

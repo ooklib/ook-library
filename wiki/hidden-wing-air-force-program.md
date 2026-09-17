@@ -16,7 +16,7 @@ relations:
   - relation: alleged_by
     target: uap-gerb
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/-IXSZe4xVv4_hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
@@ -39,7 +39,7 @@ Gerb had previously investigated the program (in the [[mitre-corporation|MITRE]]
 "three plus hours" on it) as an Air Force analog he used to illustrate MITRE's own alleged
 "hidden SSO" structure, describing it as operating below the western ranges of Edwards' 412th
 Test Wing and AFTC, performing T&E on recovered NHI vehicles, derivative airframes, and ARVs.
-*([mitre](../raw/107BtDYhTkA_mitre.txt) 52:21–52:55)*
+*([mitre](../raw/107BtDYhTkA_mitre.md) 52:21–52:55)*
 
 ## The witness "Ed"
 
@@ -57,11 +57,11 @@ firsthand experience. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 36:01�
   ranges — an extensive waved/deep-sixed program set across the Nevada Test and Training Range,
   the Edwards 412th Test Wing, Dugway, and the Utah Test and Training Range (all MRTFBs), testing
   and evaluating recovered nonhuman vehicles as well as derivative/ARV airframes using exotic,
-  non-conventional propulsion. *([mitre](../raw/107BtDYhTkA_mitre.txt) 35:49–36:33)*
+  non-conventional propulsion. *([mitre](../raw/107BtDYhTkA_mitre.md) 35:49–36:33)*
 - Per the MITRE video, Ed was reportedly exposed to further legacy-program elements at
   [[hanscom-air-force-base|Hanscom AFB]] (with MIT Lincoln Labs involvement), after his time at
   Nellis AFB and before his time at Edwards' 412th Test Wing. *([mitre](../raw/
-  107BtDYhTkA_mitre.txt) 41:05–41:27)*
+  107BtDYhTkA_mitre.md) 41:05–41:27)*
 - Ed's CV is "riddled with acquisition," and following his time within the Hidden Wing, Ed served
   in the Pentagon connected to [[saf-aq|SAF/AQ]]. There, Ed learned that during consecutive fiscal
   years, 30–40% of total Air Force TOA (total obligation authority) budget was slashed and sent to
@@ -77,7 +77,7 @@ firsthand experience. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 36:01�
 
 - Used as Gerb's direct analogy for MITRE's alleged "hidden SSO" structure — i.e., MITRE has
   "in essence a hidden SSO," modeled conceptually on this Air Force Hidden Wing precedent.
-  *([mitre](../raw/107BtDYhTkA_mitre.txt) 52:21–52:37)*
+  *([mitre](../raw/107BtDYhTkA_mitre.md) 52:21–52:37)*
 - Gerb's institutional thesis: the program's real administrative/oversight chain runs through
   [[saf-aq|SAF/AQ]] (specifically [[saf-aql|AQL]], [[saf-aqx|AQX]], and [[saf-aqr|AQR]]) and the
   [[rapid-capabilities-office|Rapid Capabilities Office (RCO)]] at the funding/acquisition level,

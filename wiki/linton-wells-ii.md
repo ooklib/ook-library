@@ -11,7 +11,7 @@ relations:
     target: mitre-corporation
     note: "allegedly briefed into MITRE legacy programs mid-to-late 2000s; not publicly employed"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -19,13 +19,13 @@ sources:
 
 Linton Wells II, a former SAPOC Senior Review Group (SRG) member, 14-year senior executive
 service member within the Office of the Secretary of Defense, and 26-year Navy officer veteran.
-*(1:46:36–1:47:00)*
+*([mitre](../raw/107BtDYhTkA_mitre.md) 1:46:36–1:47:00)*
 
 ## Claims
 
 - Gerb alleges Wells was briefed into [[mitre-corporation|MITRE]]'s legacy programs at least in
   the mid-to-late 2000s, despite not being officially/publicly employed by MITRE.
-  *(1:46:36–1:47:00)*
+  *([mitre](../raw/107BtDYhTkA_mitre.md) 1:46:36–1:47:00)*
 - Per the [[wilson-davis-notes|Wilson-Davis notes]], identified (as "Lynn Wells") as a permanent
   SRG member and, with [[paul-kaminski|Paul Kaminski]], a "lifelong MITRE Corporation member."
   *([saic](../raw/9p99lTsC7wQ_saic.md) 39:32–39:49)*

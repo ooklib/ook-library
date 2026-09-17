@@ -50,7 +50,7 @@ relations:
     target: david-grush
     note: "Grush served as NRO/NGA liaison to the UAP task force"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
@@ -181,10 +181,10 @@ shared office threads Gerb draws between them. *([nro](../raw/GM1Qx9vuo2c_nro.md
 
 - [[donald-kerr]] served as NRO director from 2005 to 2007, part of a career trajectory Gerb
   treats as evidence of a government/[[mitre-corporation|MITRE]] "revolving door" among senior
-  legacy officials. *(1:39:43–1:39:50)*
+  legacy officials. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:39:43–1:39:50)*
 - Referenced regarding the NRO's "Sentient" AI program, reportedly deployed around 2016 with
   roots tracing to ~2010–2011, which Gerb links to the same period as alleged changes at MITRE
-  and NSC crash-retrieval consolidation under [[james-clapper]]. *(2:16:04–2:16:29)*
+  and NSC crash-retrieval consolidation under [[james-clapper]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 2:16:04–2:16:29)*
 
 ## Relationships
 

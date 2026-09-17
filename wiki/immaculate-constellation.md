@@ -21,7 +21,7 @@ relations:
     target: luis-elizondo
     note: "Gerb theorizes Elizondo made an authorized/unauthorized disclosure of IMCON to Tom DeLonge in 2017"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -47,10 +47,10 @@ craft and derivative technologies (parallel to, but siloed from, decades-older l
 
 - Gerb speculates the 2017 MITRE program-control shift may factor into or connect with
   Immaculate Constellation, allowing [[james-clapper]]'s NSC crash-retrieval portfolio better
-  "situational awareness" over the reverse-engineered assets. *(2:15:52–2:16:19)*
+  "situational awareness" over the reverse-engineered assets. *([mitre](../raw/107BtDYhTkA_mitre.md) 2:15:52–2:16:19)*
 - Gerb notes the program's actual roots likely precede 2017, citing the NRO's "Sentient" AI
   program (deployed ~2016, with roots traceable to ~2010–2011) as a parallel example of
-  pre-dated program origins. *(2:16:04–2:16:29)*
+  pre-dated program origins. *([mitre](../raw/107BtDYhTkA_mitre.md) 2:16:04–2:16:29)*
 - Self-identified whistleblower [[matthew-brown|Matthew Brown]] tweeted on 5 June 2025 that UFO
   materials/craft were stored at [[naval-air-station-patuxent-river|Pax River]]'s special-project
   hangars, owned by [[amentum|Amentum Corporation]]. *([saic](../raw/9p99lTsC7wQ_saic.md)

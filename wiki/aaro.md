@@ -14,7 +14,7 @@ relations:
     target: sancorp
     note: "2022 contract, whistleblower-leak-plugging specialist"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -22,16 +22,16 @@ sources:
 
 The DoD's All-domain Anomaly Resolution Office ("Arrow" in the ASR transcript), the official
 government UAP investigative office. Gerb says he has covered it extensively elsewhere and keeps
-this section brief. *(1:49:22–1:49:35)*
+this section brief. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:49:22–1:49:35)*
 
 ## Claims
 
 - [[sean-kirkpatrick]], its "disgraced" former director, now runs Nonlinear Solutions, which
   Gerb says is subcontracting under [[mitre-corporation|MITRE]] for US SPACECOM.
-  *(1:49:35–1:49:54)*
+  *([mitre](../raw/107BtDYhTkA_mitre.md) 1:49:35–1:49:54)*
 - [[ronald-moultrie]], former USD for Intelligence and Security and a close friend of
   Kirkpatrick's, "played a major role in establishing" AARO and provided oversight/direction in
-  its early years. *(1:49:54–1:50:08)*
+  its early years. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:49:54–1:50:08)*
 
 ## Claims (from the SAIC video)
 

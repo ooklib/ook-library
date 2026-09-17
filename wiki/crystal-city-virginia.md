@@ -8,31 +8,31 @@ relations:
     target: mitre-corporation
     note: "MITRE headquartered just outside Crystal City, in McLean (MLAN), VA"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/-IXSZe4xVv4_hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Crystal City, a neighborhood in Arlington, Virginia, is described by Gerb as "the beating heart
-of UFO legacy programs in the east of the United States." *(39:20–40:42)*
+of UFO legacy programs in the east of the United States." *([mitre](../raw/107BtDYhTkA_mitre.md) 39:20–40:42)*
 
 ## Claims
 
 - Hosts 8 of the US's top 10 defense contractors; two-thirds of federal contracts by value are
   awarded from this small area, including primary offices of Northrop Grumman, Lockheed Martin,
-  Boeing, Raytheon, General Dynamics, L3(Harris), Aerojet Rocketdyne. *(39:20–39:44)*
+  Boeing, Raytheon, General Dynamics, L3(Harris), Aerojet Rocketdyne. *([mitre](../raw/107BtDYhTkA_mitre.md) 39:20–39:44)*
 - Cited quote from a former SAP security specialist: "The answer to everything you are looking
-  for lies in Crystal City." *(39:03–39:13)*
+  for lies in Crystal City." *([mitre](../raw/107BtDYhTkA_mitre.md) 39:03–39:13)*
 - Also home to or near numerous other FFRDCs Gerb suspects are involved in UFO programs: Center
   for Naval Analyses, Institute for Defense Analyses, [[aerospace-corporation]], RAND, Homeland
-  Security Operations Analysis Center. *(39:52–40:07)*
+  Security Operations Analysis Center. *([mitre](../raw/107BtDYhTkA_mitre.md) 39:52–40:07)*
 - Home to DoD research agencies including DARPA, Office of Naval Research, and Air Force Office
-  of Scientific Research. *(40:07–40:14)*
+  of Scientific Research. *([mitre](../raw/107BtDYhTkA_mitre.md) 40:07–40:14)*
 - [[mitre-corporation|MITRE]] is headquartered just outside Crystal City in McLean ("MLAN"),
-  Virginia. *(39:03–39:03)*
+  Virginia. *([mitre](../raw/107BtDYhTkA_mitre.md) 39:03–39:03)*
 - AFOSI/PJ (Office of Special Projects) is noted to have permanent offices both in Crystal City
-  and at [[hanscom-air-force-base|Hanscom AFB]]. *(40:42–40:56)*
+  and at [[hanscom-air-force-base|Hanscom AFB]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 40:42–40:56)*
 
 ## Claims (from the Hidden Wing video)
 

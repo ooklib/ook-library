@@ -19,7 +19,7 @@ relations:
     target: mitre-corporation
     note: "intelligence advisory board member, allegedly scrubbed from CV"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -29,13 +29,13 @@ sources:
 
 Ronald Moultrie, former Under Secretary of Defense for Intelligence and Security, a close
 friend of [[sean-kirkpatrick]]'s, played a major role in establishing [[aaro]] and provided
-oversight/direction to it in its early years. *(1:49:54–1:50:08)*
+oversight/direction to it in its early years. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:49:54–1:50:08)*
 
 ## Claims
 
 - Gerb notes, "comically," that Moultrie removed MITRE from his public CV — implied by Gerb to
   be a suspicious omission given the broader MITRE-legacy-program thesis of the video.
-  *(1:50:08–1:50:14)*
+  *([mitre](../raw/107BtDYhTkA_mitre.md) 1:50:08–1:50:14)*
 - Per the SAIC video, it was Moultrie, then USD for Intelligence and Security, upon whose
   recommendation [[aaro|AARO]] was formed, while himself sitting on the board of
   [[battelle-memorial-institute|Battelle]] — a connection allegedly scrubbed from his LinkedIn,

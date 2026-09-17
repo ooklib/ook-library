@@ -15,7 +15,7 @@ relations:
     target: yellow-fruit
     note: "1983 exposure of this USAP was a major driver of 1980s SAP oversight reform"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/jR-h5p2bd-A_secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
@@ -28,19 +28,19 @@ mechanism of the alleged [[ufo-legacy-programs|legacy program]] apparatus.
 ## Claims / terminology used
 
 - SCI (Sensitive Compartmented Information) is "information that requires special handling
-  beyond top secret clearance." *(51:14–51:36)*
+  beyond top secret clearance." *([mitre](../raw/107BtDYhTkA_mitre.md) 51:14–51:36)*
 - A Special Security Office (SSO) manages SCI and SAP involvement; FFRDCs with sensitive
   national-program work (National Labs, Lincoln Lab, [[mitre-corporation|MITRE]]) maintain their
   own dedicated SSO and accredited SCIF (secure compartmented information facility).
-  *(51:06–51:54)*
+  *([mitre](../raw/107BtDYhTkA_mitre.md) 51:06–51:54)*
 - **Waived Unacknowledged SAP (WUAP/WOAP)**: the most restrictive SAP tier, with waived
   reporting requirements and unacknowledged budget — the classification Gerb alleges applies to
-  both MITRE legacy activities discussed in this video. *(57:53–58:16, 1:22:08–1:22:22)*
+  both MITRE legacy activities discussed in this video. *([mitre](../raw/107BtDYhTkA_mitre.md) 57:53–58:16, 1:22:08–1:22:22)*
 - **MNTK** (managed need-to-know) constructs and **code words** are used to further
-  compartmentalize even within a SAP. *(1:53:09–1:53:24)*
+  compartmentalize even within a SAP. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:53:09–1:53:24)*
 - **"HVSACO"** (handled via special access channels only) is described as an internal MITRE
   security control used to add sensitive handling around even unclassified information.
-  *(55:57–56:15, 1:53:24–1:53:33)*
+  *([mitre](../raw/107BtDYhTkA_mitre.md) 55:57–56:15, 1:53:24–1:53:33)*
 - 1994 reforms under [[bill-perry]] significantly strengthened the
   [[special-access-program-oversight-committee|SAPOC]]/SRG gatekeeping structure. See that page.
 

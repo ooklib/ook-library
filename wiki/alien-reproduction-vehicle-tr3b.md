@@ -31,7 +31,7 @@ relations:
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
@@ -66,7 +66,7 @@ recovered nonhuman technology — is most associated in the UFO research communi
 - In the MITRE video, Gerb explicitly states MITRE's alleged reverse-engineering program does
   **not** produce TR-3Bs, tic tacs, or power sources — implying a different set of institutions
   (per this SAIC video: SAIC, Lockheed, Northrop, Sandia, Livermore) handle ARV/TR-3B work.
-  *([mitre](../raw/107BtDYhTkA_mitre.txt) 58:56–59:08)*
+  *([mitre](../raw/107BtDYhTkA_mitre.md) 58:56–59:08)*
 - [[bob-lazar|Bob Lazar]] separately claimed to have reverse-engineered UFO propulsion systems
   at Area 51's S4 site while employed by [[eg-and-g|EG&G]]. *([saic](../raw/9p99lTsC7wQ_saic.md)
   21:52–21:59, 1:21:52–1:21:59)*

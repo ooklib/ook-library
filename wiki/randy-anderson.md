@@ -10,7 +10,7 @@ relations:
     target: uap-gerb
     note: "Gerb states he believes and stands by Anderson's account"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/mHkPHd_eOXI_sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
@@ -20,13 +20,13 @@ sources:
 taken to a quote-unquote "off-world technologies division" below
 [[naval-surface-warfare-center-crane|NSWC Crane]] and shown recovered NHI technology: a sphere
 that seemingly reacted to consciousness, and a gauntlet-type device retrieval operators
-considered a possible weapon. *(1:13:12–1:13:35)*
+considered a possible weapon. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:13:12–1:13:35)*
 
 ## Claims
 
 - Gerb explicitly states: "I for one believe and stand by Randy Anderson for this MITER reverse
   engineering program," connecting Anderson's account to [[mitre-corporation]]'s alleged
-  Navy-partnered reverse-engineering effort. *(1:13:35–1:13:41)*
+  Navy-partnered reverse-engineering effort. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:13:35–1:13:41)*
 - Separately discussed seeing advanced aerospace vehicles, including electrogravidic triangles,
   stationed at DoD installations near Area 51 on Department of Energy-controlled land — land Gerb
   identifies as [[nevada-national-security-site|Nevada Test Site]] locations largely operated by

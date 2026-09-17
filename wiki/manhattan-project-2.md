@@ -15,7 +15,7 @@ relations:
   - relation: part_of
     target: onion-secrecy-model
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/jR-h5p2bd-A_secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
@@ -32,9 +32,9 @@ architecture had already proven effective for atomic-bomb secrecy. *(2:32–2:53
 ## Claims
 
 - [[vannevar-bush]] is cast as aiding in establishing the secrecy architecture of both the
-  original Manhattan Project and this alleged "2.0" effort. *(20:22–20:34)*
+  original Manhattan Project and this alleged "2.0" effort. *([mitre](../raw/107BtDYhTkA_mitre.md) 20:22–20:34)*
 - Gerb frames the Roswell wreckage's arrival at [[wright-patterson-air-force-base|
-  Wright-Patterson]] as setting this "Goliath National Effort" ablaze. *(1:01:11–1:01:26)*
+  Wright-Patterson]] as setting this "Goliath National Effort" ablaze. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:01:11–1:01:26)*
 
 ## Claims (from the "Secrecy" Vol. 1 video — the fuller thesis)
 

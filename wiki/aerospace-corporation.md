@@ -23,7 +23,7 @@ relations:
     target: eric-burlison
     note: "sent a legal interrogatory to the Aerospace Corporation, co-written with David Grush"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/0kLSp0lH-JQ_northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
@@ -31,14 +31,14 @@ sources:
 
 The Aerospace Corporation is a systems-and-integration-center FFRDC, spun off from TRW in 1960
 (per Gerb, "in the same short span of years" as MITRE's founding relative to Roswell) due to
-concerns over TRW's close Air Force relationship. *(21:59–22:14, 1:03:23–1:03:46)*
+concerns over TRW's close Air Force relationship. *([mitre](../raw/107BtDYhTkA_mitre.md) 21:59–22:14, 1:03:23–1:03:46)*
 
 ## Claims
 
 - Gerb considers it an FFRDC "I believe is inferior, but in the same ballpark as MITRE in
-  regards to UFO activities." *(1:03:23–1:03:39)*
+  regards to UFO activities." *([mitre](../raw/107BtDYhTkA_mitre.md) 1:03:23–1:03:39)*
 - [[stephanie-osullivan]] joined its board of directors after her IC career, and
-  [[william-laplante]] serves on its corporate board today. *(1:40:44–1:40:51, 1:47:53–1:48:04)*
+  [[william-laplante]] serves on its corporate board today. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:40:44–1:40:51, 1:47:53–1:48:04)*
 
 - Spun off in 1960 "from half of TRW's Space Technology Laboratories," due to other contractors
   fearing TRW's Air Force advisory role gave it unfair access to cutting-edge technologies. Gerb

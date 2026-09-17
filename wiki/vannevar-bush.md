@@ -34,7 +34,7 @@ relations:
     target: j-robert-oppenheimer
     note: "co-named in disputed IPU and Steinman/Sarbacher crash-retrieval-team claims"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/mHkPHd_eOXI_sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
@@ -50,20 +50,20 @@ Dr. Vannevar Bush is presented as the intellectual architect of the modern
 
 - Established the MIT Radiation Lab in 1940, which aided WWII microwave radar development for
   navigation/combat until 1945; it reopened in 1951 as [[mit-lincoln-laboratory|MIT Lincoln
-  Labs]]. *(20:42–20:59)*
+  Labs]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 20:42–20:59)*
 - Gerb calls Bush "the grandfather of MITRE" for this lineage, and separately "the godfather of
   MITRE" in connection with Navy-sponsored WWII anti-submarine/sonar research under his Office
   of Scientific Research and Development (OSRD), which Gerb speculates may trace forward into
-  MITRE's Navy-administered reverse-engineering work. *(20:26–20:34, 2:09:43–2:10:24)*
+  MITRE's Navy-administered reverse-engineering work. *([mitre](../raw/107BtDYhTkA_mitre.md) 20:26–20:34, 2:09:43–2:10:24)*
 - Alleged to have led Atomic Energy Commission National Labs' custodianship/study of recovered
-  nonhuman technical vehicles per classified 1948 presidential executive orders. *(19:45–20:05)*
+  nonhuman technical vehicles per classified 1948 presidential executive orders. *([mitre](../raw/107BtDYhTkA_mitre.md) 19:45–20:05)*
 - Aided in establishing the secrecy architecture of both the original Manhattan Project and
-  Gerb's alleged "Manhattan Project 2.0." *(20:22–20:34)*
+  Gerb's alleged "Manhattan Project 2.0." *([mitre](../raw/107BtDYhTkA_mitre.md) 20:22–20:34)*
 - Conceptualized UARCs (university-affiliated research centers) and FFRDCs generally.
-  *(1:01:50–1:02:10)*
+  *([mitre](../raw/107BtDYhTkA_mitre.md) 1:01:50–1:02:10)*
 - Gerb speculates a possible link between Bush-era Navy anti-submarine/sonar research and the
   "doodlebug" device Silas Newton and Leo GeBauer allegedly used to defraud investors in
-  connection with the Aztec case, though this is framed as speculative. *(2:09:52–2:10:24)*
+  connection with the Aztec case, though this is framed as speculative. *([mitre](../raw/107BtDYhTkA_mitre.md) 2:09:52–2:10:24)*
 
 - Per [[j-andrew-kner|J. Andrew Kner]]'s 1994 statement, discs downed by the US Army from May–July
   1947 were processed and analyzed for Bush (chairman of the Joint Chiefs' Joint Research and

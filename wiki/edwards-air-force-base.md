@@ -10,16 +10,16 @@ relations:
     target: air-force-material-command
     note: "AFTC/412th Test Wing is AFMC's test-and-evaluation core mission area"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/-IXSZe4xVv4_hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Home of the 412th Test Wing and an MRTFB (Major Range and Test Facility Base), listed by Gerb
-alongside Naval/Army test ranges. *([mitre](../raw/107BtDYhTkA_mitre.txt) 1:16:48–1:17:03)*
+alongside Naval/Army test ranges. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:16:48–1:17:03)*
 Alleged site of the [[hidden-wing-air-force-program|"Hidden Wing"]] program below its western
-ranges. *([mitre](../raw/107BtDYhTkA_mitre.txt) 52:21–52:55)*
+ranges. *([mitre](../raw/107BtDYhTkA_mitre.md) 52:21–52:55)*
 
 ## Claims (from the Hidden Wing video)
 

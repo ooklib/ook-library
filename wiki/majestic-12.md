@@ -15,7 +15,7 @@ relations:
   - relation: coincides_with
     target: interplanetary-phenomenon-unit
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -27,7 +27,7 @@ sources:
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
 most-senior tier of legacy-program leadership; he calls [[donald-kerr]] "what you would consider
-MJ1 if you use Majestic 12 terminology." *(1:38:51–1:39:06)*
+MJ1 if you use Majestic 12 terminology." *([mitre](../raw/107BtDYhTkA_mitre.md) 1:38:51–1:39:06)*
 
 ## Claims (from the SAIC video)
 

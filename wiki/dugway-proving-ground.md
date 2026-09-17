@@ -9,14 +9,14 @@ relations:
 sources:
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/-IXSZe4xVv4_hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 An Army MRTFB in Utah, previously listed by Gerb among core DoD test ranges harnessed for
-legacy-program RDT&E. *(1:16:48–1:17:03)*
+legacy-program RDT&E. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:16:48–1:17:03)*
 
 ## Claims
 

@@ -30,7 +30,7 @@ relations:
   - relation: mission_partner_of
     target: ronald-moultrie
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -41,12 +41,12 @@ sources:
 ---
 
 Described as "disgraced" former director of [[aaro]] (All-domain Anomaly Resolution Office).
-*(1:49:35–1:49:47)*
+*([mitre](../raw/107BtDYhTkA_mitre.md) 1:49:35–1:49:47)*
 
 ## Claims (from the MITRE video)
 
 - Now runs [[nonlinear-solutions|Nonlinear Solutions]], which Gerb says is subcontracting under
-  [[mitre-corporation|MITRE]] for US SPACECOM. *(1:49:47–1:49:54)*
+  [[mitre-corporation|MITRE]] for US SPACECOM. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:49:47–1:49:54)*
 
 ## Claims (from the SAIC video — extensive career/gatekeeper detail)
 

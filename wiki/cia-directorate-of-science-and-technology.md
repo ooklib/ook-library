@@ -40,7 +40,7 @@ relations:
     target: glenn-gaffney
     note: "deputy director; career began at NURO"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -49,13 +49,13 @@ sources:
 ---
 
 CIA's Directorate of Science and Technology is listed among "program administrator" agencies in
-Gerb's [[ufo-legacy-programs|legacy program pyramid]]. *(5:18–5:43)*
+Gerb's [[ufo-legacy-programs|legacy program pyramid]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 5:18–5:43)*
 
 ## Claims
 
 - Deputy director role passed through [[donald-kerr]] (2001–2005), [[stephanie-osullivan]],
   and [[don-meyer]] (2013–2021) — each of whom went on to senior IC or
-  [[mitre-corporation|MITRE]]/Aerospace board roles. *(1:39:43–1:39:50, 1:43:02–1:43:14)*
+  [[mitre-corporation|MITRE]]/Aerospace board roles. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:39:43–1:39:50, 1:43:02–1:43:14)*
 - Spawned the [[cia-office-of-global-access|CIA Office of Global Access]] in 2002/2003, a
   logistics coordinator for foreign UFO crash retrievals harnessing
   [[jsoc|JSOC]] resources, established under [[donald-kerr]]'s watch as deputy director.

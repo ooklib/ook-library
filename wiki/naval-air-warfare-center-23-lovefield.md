@@ -7,21 +7,21 @@ relations:
   - relation: mission_partner_of
     target: mitre-corporation
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
 A highly secretive US Navy-operated field at Dallas Lovefield, Texas, known as "Booper SDC"
 (Bureau of Navy Personnel Sea Duty Component), also referred to as Naval Air Warfare Center 23
-("NOC 23"). *(1:18:57–1:19:18)*
+("NOC 23"). *([mitre](../raw/107BtDYhTkA_mitre.md) 1:18:57–1:19:18)*
 
 ## Claims
 
 - Cited as a site of "major support" for the alleged MITRE reverse-engineering legacy program,
-  alongside [[naval-surface-warfare-center-dahlgren|NSWC Dahlgren]]. *(1:18:49–1:19:06)*
+  alongside [[naval-surface-warfare-center-dahlgren|NSWC Dahlgren]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:18:49–1:19:06)*
 - Named among the specific program-operational sites and test ranges Gerb previews early in the
   video, alongside [[naval-air-station-patuxent-river|Pax River]] and NSWC Dahlgren.
-  *(12:55–13:12)*
+  *([mitre](../raw/107BtDYhTkA_mitre.md) 12:55–13:12)*
 
 ## Relationships
 

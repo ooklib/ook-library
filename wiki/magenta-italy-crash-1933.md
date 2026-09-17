@@ -10,7 +10,7 @@ relations:
     target: hans-kammler
     note: "inverse: Kammler allegedly tasked with studying this crash"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -20,7 +20,7 @@ sources:
 
 Cited by Gerb as an example of a prior alleged UFO crash retrieval before Roswell; he assesses
 this and other pre-Roswell retrievals were most likely of unmanned craft, distinguishing them
-from the more consequential [[roswell-incident-1947|Roswell]] event. *(1:01:02–1:01:11)*
+from the more consequential [[roswell-incident-1947|Roswell]] event. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:01:02–1:01:11)*
 
 ## Claims
 

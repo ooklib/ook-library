@@ -13,7 +13,7 @@ relations:
     target: uap-gerb
     note: "fully articulated as Gerb's own analytical framework/executive summary in the 'Secrecy' Vol. 1 video"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/jR-h5p2bd-A_secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
@@ -21,18 +21,18 @@ sources:
 
 Gerb's recurring metaphor for the layered-compartmentation secrecy architecture of the alleged
 [[ufo-legacy-programs|legacy programs]]: "layers of secrecy protect and are protected by
-seemingly infinite other layers that indeed protect core secrets." *(55:44–55:52)*
+seemingly infinite other layers that indeed protect core secrets." *([mitre](../raw/107BtDYhTkA_mitre.md) 55:44–55:52)*
 
 ## Claims
 
 - Gerb states [[mitre-corporation|MITRE]] "innovated the onion secrecy model within the legacy
   programs," introducing compartmentation and managed-need-to-know techniques used at scale
-  today. *(15:53–16:01, 48:39–48:57)*
+  today. *([mitre](../raw/107BtDYhTkA_mitre.md) 15:53–16:01, 48:39–48:57)*
 - MITRE's security architecture was described to Gerb (by a source) as "the origin of the Onion
-  model." *(55:44–55:52)*
+  model." *([mitre](../raw/107BtDYhTkA_mitre.md) 55:44–55:52)*
 - Compared to [[john-craven]]'s "seventh veil" analogy — even highly cleared individuals may
   never know if they've reached the innermost compartment. See [[seventh-veil-analogy]].
-  *(56:07–56:38)*
+  *([mitre](../raw/107BtDYhTkA_mitre.md) 56:07–56:38)*
 
 ## Claims (from the "Secrecy" Vol. 1 video — full articulation)
 

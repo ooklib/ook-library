@@ -11,7 +11,7 @@ relations:
     target: saf-aq
     note: "military deputy, Office of the ASAF for Acquisition, Technology and Logistics, Aug 2022-Dec 2023"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/-IXSZe4xVv4_hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
@@ -24,7 +24,7 @@ Management Center (AFLCMC), which Gerb notes as the primary contract/administrat
 ## Claims
 
 - Gerb states longtime viewers of his channel will recall her "very long history within Air
-  Force Legacy Program portfolio," per his prior coverage. *(44:09–44:23)*
+  Force Legacy Program portfolio," per his prior coverage. *([mitre](../raw/107BtDYhTkA_mitre.md) 44:09–44:23)*
 
 ## Claims (from the Hidden Wing video)
 

@@ -13,7 +13,7 @@ relations:
   - relation: investigates
     target: operation-kona-blue
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/GM1Qx9vuo2c_nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
@@ -24,7 +24,7 @@ sources:
 Chris Sharp, a journalist with the Liberation Times, is cited by Gerb for his article "UFO
 allegedly stored at East Coast Naval Facility as material transfer claims resurface," which
 reported sources describing a vehicle or vehicles of unknown origin stored at
-[[naval-air-station-patuxent-river|Pax River]]. *(1:18:02–1:18:21)*
+[[naval-air-station-patuxent-river|Pax River]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:18:02–1:18:21)*
 
 ## Claims
 

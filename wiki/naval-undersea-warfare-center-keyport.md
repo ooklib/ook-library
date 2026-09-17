@@ -9,7 +9,7 @@ relations:
   - relation: mission_partner_of
     target: mitre-corporation
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
@@ -17,7 +17,7 @@ NUWC Keyport, Washington, plays a role in the alleged "triage" of Navy sites for
 activity: Keyport processes data, [[naval-surface-warfare-center-crane|NSWC Crane]] and
 [[naval-surface-warfare-center-dahlgren|Dahlgren]] hold/analyze hardware, and
 [[naval-air-station-patuxent-river|Pax River]] serves as the integration node for data, hardware,
-and "aircraft." *(1:13:49–1:14:15)*
+and "aircraft." *([mitre](../raw/107BtDYhTkA_mitre.md) 1:13:49–1:14:15)*
 
 ## Relationships
 

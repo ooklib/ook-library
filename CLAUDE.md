@@ -37,7 +37,7 @@ relations:
   - relation: spun_off_from
     target: mit-lincoln-laboratory
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 ```
@@ -57,7 +57,7 @@ sources:
 - Use `## Claims` or thematic subheadings for substantive assertions, each ending with an
   inline citation that names **both** the source and the timestamp, since the wiki now spans
   multiple raw transcripts and a bare timestamp is ambiguous:
-  `*([mitre](../raw/107BtDYhTkA_mitre.txt) 12:07)*` or `*([saic](../raw/9p99lTsC7wQ_saic.md) 5:26)*`.
+  `*([mitre](../raw/107BtDYhTkA_mitre.md) 12:07)*` or `*([saic](../raw/9p99lTsC7wQ_saic.md) 5:26)*`.
   The link text is the source's short key (see registry below); the link target is the raw
   file, so clicking it opens the transcript directly. Multiple citations to the same source in
   one sentence can share a single tag: `*([saic](../raw/9p99lTsC7wQ_saic.md) 5:26, 6:00)*`.
@@ -68,16 +68,17 @@ sources:
 - Cross-link liberally with `[[wiki-link]]` (Obsidian-style) using the target's filename stem.
 - Flag speculation explicitly: "UAP Gerb alleges..." / "unverified claim:" rather than stating
   contested claims as fact.
-- **Known debt:** pages written during the first ingest (`107BtDYhTkA_mitre.txt`) use bare
-  timestamps like `*(12:07)*` with no source tag, written before a second source existed. These
-  are all implicitly `mitre` citations. Retrofit them to the tagged format opportunistically
-  when touching a page for another reason — no need for a dedicated cleanup pass yet.
+- **Resolved debt:** pages written during the first ingest (`107BtDYhTkA_mitre.md`) used to
+  carry bare timestamps like `*(12:07)*` with no source tag, written before a second source
+  existed. These were all implicitly `mitre` citations and were retrofitted (2026-09-17) to the
+  tagged format across the whole `wiki/` directory — see `wiki/log.md`. Any new bare timestamp
+  found from now on is a bug, not expected debt.
 
 ## Source registry (short keys)
 
 | key | raw file | title |
 |---|---|---|
-| `mitre` | `raw/107BtDYhTkA_mitre.txt` | The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb) |
+| `mitre` | `raw/107BtDYhTkA_mitre.md` | The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb) |
 | `saic` | `raw/9p99lTsC7wQ_saic.md` | UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb) |
 | `nro` | `raw/GM1Qx9vuo2c_nro.md` | National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb) |
 | `lockheed` | `raw/X6JfbfmvgMo_lockheed.md` | Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb) |

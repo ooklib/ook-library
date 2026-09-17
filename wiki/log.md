@@ -2,7 +2,7 @@
 
 ## [2026-09-15] ingest | The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)
 
-Ingested `raw/107BtDYhTkA_mitre.txt` (full ~2h19m transcript with timestamps/chapters).
+Ingested `raw/107BtDYhTkA_mitre.md` (full ~2h19m transcript with timestamps/chapters).
 Created the initial wiki schema (`CLAUDE.md`), relation-type registry ([[relation-types]]), and
 index ([[index]]), plus 97 entity pages: organizations (FFRDCs, Navy/Air Force/IC agencies,
 contractors), people (gatekeepers, congressional figures, witnesses, historical figures),
@@ -322,3 +322,13 @@ executive-order-based SAP classification), and political shield (the Top Policy 
 reorganization into today's siloed structure. All claims attributed to UAP Gerb (with some
 sourced to David Grush, J. Andrew Kner, Robert Sarbacher, and disputed MJ-12/IPU documents) and
 flagged as speculative per the schema's domain framing.
+
+## [2026-09-17] lint | Retrofit bare mitre timestamp citations to tagged format
+
+Resolved the `CLAUDE.md` "known debt" item: 348 bare timestamp citations (e.g. `*(12:07)*`,
+including multi-timestamp and en-dash range forms like `*(11:15–11:49, 31:06–31:18)*`) across
+102 wiki pages were retrofitted to the standard tagged format
+`*([mitre](../raw/107BtDYhTkA_mitre.md) H:MM:SS)*`. All bare citations predated a page's second
+source (confirmed by checking that every page's non-mitre citations were already correctly
+tagged) and were confirmed to be `mitre`-sourced. No content or timestamp values were changed,
+only citation formatting. `CLAUDE.md`'s "Known debt" bullet updated to reflect the fix.

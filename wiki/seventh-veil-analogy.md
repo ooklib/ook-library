@@ -9,7 +9,7 @@ relations:
   - relation: analogous_to
     target: onion-secrecy-model
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/jR-h5p2bd-A_secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
@@ -18,7 +18,7 @@ sources:
 An analogy attributed to [[john-craven]] (Navy Special Projects Office senior scientist)
 describing extreme compartmentation: cleared individuals can never be certain they've reached
 the innermost "veil" of a program's secrets, versus merely working a cover program nested inside
-other cover programs. *(56:07–56:38)*
+other cover programs. *([mitre](../raw/107BtDYhTkA_mitre.md) 56:07–56:38)*
 
 Gerb applies it to [[mitre-corporation]]'s internal structure. See [[onion-secrecy-model]] for
 the parallel concept he says MITRE itself originated.

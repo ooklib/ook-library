@@ -14,7 +14,7 @@ relations:
     target: polaris-program
     note: "chief scientist, Navy Special Projects Office"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/9p99lTsC7wQ_saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -25,17 +25,17 @@ sources:
 ---
 
 John Piña Craven, described as senior scientist of the Navy Special Projects Office, is credited
-by Gerb with the "seventh veil" analogy for extreme compartmentation. *(56:07–56:15)*
+by Gerb with the "seventh veil" analogy for extreme compartmentation. *([mitre](../raw/107BtDYhTkA_mitre.md) 56:07–56:15)*
 
 ## Claims
 
 - The seventh-veil analogy: even highly cleared individuals within top-secret, unacknowledged
   classified projects could never know if they had truly reached the innermost layer of
   compartmentation, or were merely working on a cover program in service of another cover
-  program, indefinitely. *(56:15–56:38)*
+  program, indefinitely. *([mitre](../raw/107BtDYhTkA_mitre.md) 56:15–56:38)*
 - Gerb applies this directly to [[mitre-corporation|MITRE]]'s internal program structure, where
   even security officers conducting briefings are compartmented from each other's full scope.
-  *(56:38–57:26)*
+  *([mitre](../raw/107BtDYhTkA_mitre.md) 56:38–57:26)*
 
 ## Claims (from the SAIC video)
 

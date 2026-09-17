@@ -8,13 +8,13 @@ relations:
     target: eric-burlison
     note: "jointly met a Navy-source whistleblower with Burlison"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
 US Representative Anna Paulina Luna is referenced as having jointly met, with Rep.
 [[eric-burlison]], a whistleblower from a "nautical source" describing deep-ocean activity that
-Gerb connects to the [[tic-tac-factory-uso]]. *(14:39–14:56)*
+Gerb connects to the [[tic-tac-factory-uso]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 14:39–14:56)*
 
 ## Relationships
 

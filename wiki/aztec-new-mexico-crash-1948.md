@@ -15,7 +15,7 @@ relations:
     target: vannevar-bush
     note: "per J. Andrew Kner and William Steinman's research, Bush allegedly led the scientific recovery team"
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/jR-h5p2bd-A_secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
@@ -23,7 +23,7 @@ sources:
 
 An alleged additional 1940s UFO crash retrieval near Aztec, New Mexico, which Gerb speculates
 may have also fed into [[mitre-corporation|MITRE]]'s alleged technology-exploitation program
-alongside [[roswell-incident-1947|Roswell]]. *(1:02:44–1:02:55, 2:04:13–2:04:23)*
+alongside [[roswell-incident-1947|Roswell]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:02:44–1:02:55, 2:04:13–2:04:23)*
 
 ## Claims
 
@@ -31,7 +31,7 @@ alongside [[roswell-incident-1947|Roswell]]. *(1:02:44–1:02:55, 2:04:13–2:04
   defraud investors in connection with the Aztec case may have had technological development
   origins in Navy-sponsored WWII anti-submarine special projects under
   [[vannevar-bush|Vannevar Bush]]'s OSRD — framed explicitly as speculative ("a real tangled
-  web"). *(2:09:52–2:10:24)*
+  web"). *([mitre](../raw/107BtDYhTkA_mitre.md) 2:09:52–2:10:24)*
 
 ## Claims (from the "Secrecy" Vol. 1 video)
 

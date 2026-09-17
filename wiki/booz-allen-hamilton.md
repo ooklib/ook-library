@@ -10,14 +10,14 @@ relations:
   - relation: board_member_of
     target: stephanie-osullivan
 sources:
-  - file: raw/107BtDYhTkA_mitre.txt
+  - file: raw/107BtDYhTkA_mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/0kLSp0lH-JQ_northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 Listed with lower confidence among contractors Gerb suspects are involved in MITRE's UFO work.
-*(1:56:19–1:56:33)*
+*([mitre](../raw/107BtDYhTkA_mitre.md) 1:56:19–1:56:33)*
 
 ## Claims
 
