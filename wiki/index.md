@@ -8,7 +8,8 @@ tags: [meta]
 
 Catalog of all entity pages, grouped by kind. See [[relation-types]] for the edge-type registry
 and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `gerb/mitre`, `gerb/saic`,
-`gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`).
+`gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
+`gerb/secrecy_2`).
 
 ## Hub pages (start here)
 
@@ -61,11 +62,15 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 [[deputy-under-secretary-of-defense-advanced-systems-and-concepts]] ·
 [[joint-technology-assessment-activity]] · [[corporate-portfolio-program]] · [[aaro]] ·
 [[under-secretary-of-defense-for-acquisition-and-sustainment]] ·
+[[under-secretary-of-defense-for-research-and-engineering]] ·
 [[deputy-director-of-national-intelligence-for-acquisition-technology-and-facilities]] ·
 [[doe-nuclear-emergency-support-team]] · [[160th-special-operations-aviation-regiment]] ·
 [[department-of-homeland-security]] · [[atomic-energy-commission]] ·
 [[national-nuclear-security-administration]] · [[armed-forces-special-weapons-project]] ·
-[[defense-threat-reduction-agency]] · [[office-of-secure-transportation]]
+[[defense-threat-reduction-agency]] · [[office-of-secure-transportation]] ·
+[[darpa-security-and-intelligence-directorate]] ·
+[[air-force-life-cycle-management-center]] ·
+[[doe-office-of-intelligence-and-counterintelligence]]
 
 ## Organizations — Navy
 
@@ -83,7 +88,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 [[mcdonnell-douglas]] · [[woods-hole-oceanographic-institution]] · [[todt-organization]] ·
 [[e-systems]] · [[to-the-stars-academy]] ·
 [[bigelow-aerospace-advanced-space-studies]] · [[peraton]] · [[honeywell]] ·
-[[huntington-ingalls-industries]] · [[inqtel]]
+[[huntington-ingalls-industries]] · [[inqtel]] · [[system-high]]
 
 ## Places
 
@@ -108,7 +113,8 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 [[albert-bruce-collins]] · [[jonathan-wagant]] · [[dylan-borland]] · [[jim-shell]] ·
 [[tom-delonge]] · [[william-a-matan]] · [[ross-coulthart]] · [[carl-nell]] · [[jim-lacatski]] ·
 [[j-andrew-kner]] · [[george-knapp]] · [[sumner-shapiro]] · [[richard-doty]] ·
-[[eric-henry-wang]] · [[robert-sarbacher]]
+[[eric-henry-wang]] · [[robert-sarbacher]] · [[matthew-sullivan]] · [[harry-reid]] ·
+[[edward-j-ruppelt]]
 
 ## People — gatekeepers & officials
 
@@ -124,7 +130,8 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 [[tim-phillips-aaro]] · [[richard-haver]] · [[michael-dempsey]] · [[edward-c-aldridge]] ·
 [[randall-g-walden]] · [[vince-divine]] · [[john-c-freestone]] · [[kathy-andrews]] ·
 [[william-a-davidson]] · [[russell-e-wiler]] · [[william-e-mcclure]] · [[lee-m-russ]] ·
-[[dawn-m-dunlop]] · [[lawrence-j-delaney]]
+[[dawn-m-dunlop]] · [[lawrence-j-delaney]] · [[david-m-taylor]] · [[terrence-l-reynolds]] ·
+[[rob-how]]
 
 ## People — founders, historical & researchers
 
@@ -153,7 +160,8 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 [[northrop-advanced-technology-and-design-center]] · [[zodiac-crash-retrieval-program]] ·
 [[talon-gold]] · [[teal-ruby]] · [[saf-aa]] · [[guardian-angel-program]] ·
 [[alsos-mission]] · [[nsc-5412-committee]] · [[yellow-fruit]] ·
-[[interplanetary-phenomenon-unit]]
+[[interplanetary-phenomenon-unit]] · [[condon-committee]] · [[age-of-disclosure-documentary]] ·
+[[yankee-white]]
 
 ## Concepts
 
@@ -162,5 +170,6 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 [[manhattan-project-2]] · [[biefeld-brown-effect]] · [[black-vault]] ·
 [[saf-aql]] · [[saf-aqx]] · [[saf-aqr]] · [[national-program-special-management-staff]] ·
 [[top-policy-group]] · [[presidential-emergency-action-documents]] ·
-[[atomic-energy-act-1954]] ·
+[[atomic-energy-act-1954]] · [[content-only-special-access-program]] ·
+[[covert-action-program]] · [[yankee-blue]] ·
 [[relation-types]]

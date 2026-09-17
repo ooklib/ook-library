@@ -15,6 +15,8 @@ relations:
 sources:
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 The DoD Special Access Program Central Office (SAPCO), a distinct body from the
@@ -43,10 +45,35 @@ under [[under-secretary-of-defense-for-intelligence-and-security|USD I&S]].
   SAPCO analog nested within SAF/AA. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md)
   1:25:38–1:26:11)*
 
+## Claims (from "Special Access Required" Vol. 2 — full SAPCO hierarchy)
+
+Gerb lays out a tiered SAPCO structure: **component-level SAPCOs** (one per armed-forces branch,
+plus the Joint Chiefs of Staff, [[darpa|DARPA]], and the Missile Defense Agency — each responsible
+for all SAPs under its purview) sit below **OSD-level SAPCOs** (under
+[[under-secretary-of-defense-for-intelligence-and-security|USD I&S]],
+[[under-secretary-of-defense-for-acquisition-and-sustainment|USD A&S]], and USD R&E), which sit
+below the single **DoD-wide SAPCO**, historically directed by the USD A&S. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+1:15:10–1:17:07, 3:01:14–3:02:00)*
+
+- Component-level SAPCOs can be bypassed by legacy operations depending on the director's own
+  history in the programs — e.g. Gerb alleges [[edward-c-aldridge|Edward C. Aldridge]] routed
+  likely joint Air Force/NRO "outside activities" under [[saf-aa|SAF/AA]], bypassing the Air
+  Force's component-level SAPCO, [[william-e-mcclure|SAF/AAZ]], entirely.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 1:15:43–1:16:22)*
+- Former DoD SAPCO directors Gerb states have "almost certainly" been legacy program personnel:
+  General [[dawn-m-dunlop|Dawn Dunlop]] and General H. Marshall Ward.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 1:16:54–1:17:07)*
+- DoD SAPCO serves as primary staff support to [[special-access-program-oversight-committee|
+  SAPOC]] and as the primary point of contact with Congress, the National Security Council, and
+  other agencies; it processes Program Access Requests (PARs) and facilitates congressional
+  access to SAPs — but makes a "staunch exemption" to congressional access for waived SAPs and
+  waived subcomponents. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 1:17:16–1:18:08)*
+
 ## Relationships
 
 - Sits under [[under-secretary-of-defense-for-intelligence-and-security]]; directed by
   [[dawn-m-dunlop]] (2018–2019); theorized subordinate to the
   [[national-program-special-management-staff]].
 - Distinct from, but easily confused with, the [[special-access-program-oversight-committee]]
-  (SAPOC).
+  (SAPOC), which it staffs; component-level SAPCOs (e.g. [[william-e-mcclure|SAF/AAZ]]) sit
+  beneath OSD-level SAPCOs beneath the single DoD-wide SAPCO.

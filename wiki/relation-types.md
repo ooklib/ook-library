@@ -9,6 +9,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 Registry of directed relation types used across the wiki's `relations:` frontmatter. Most are
@@ -39,3 +41,5 @@ asymmetric (the inverse is implied, not separately stored). Symmetric ones are n
 | `acquired_by` / `renamed_to` | org → org | corporate acquisition or name-change identity chain | no |
 | `liaison_to` | person → org | served as an official go-between for another org | no |
 | `oversees` | org → org/program | joint acquisition/budget authority over another entity | no |
+| `governed_by` | concept/program → org | administered/regulated by a named governance body | no |
+| `reports_to` | org → org | administrative reporting line distinct from full `part_of` containment | no |

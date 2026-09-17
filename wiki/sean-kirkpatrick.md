@@ -29,6 +29,12 @@ relations:
     note: "CTO for defense and intelligence programs, Dec 2023"
   - relation: mission_partner_of
     target: ronald-moultrie
+  - relation: alleged_by
+    target: yankee-blue
+    note: "originated the disputed 'Yankee Blue' hazing-program disinformation claim"
+  - relation: employed_by
+    target: david-m-taylor
+    note: "Gerb: Taylor, not Moultrie, was the official who actually selected Kirkpatrick for AARO/UAP JPO"
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -38,6 +44,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 Described as "disgraced" former director of [[aaro]] (All-domain Anomaly Resolution Office).
@@ -112,10 +120,30 @@ the point where he was first briefed or retroactively briefed into UFO legacy-pr
   Kirkpatrick does not list the Oak Ridge position on his public CV.
   *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:09:11–1:11:16)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- Named by Gerb as the official installed to direct AARO (originally meant to be a joint "UAP
+  JPO") — though Gerb states it was [[david-m-taylor|David M. Taylor]] (Deputy USD I&S), not
+  [[ronald-moultrie|Ronald Moultrie]] alone, who actually selected Kirkpatrick for the role.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:18:47–2:19:20)*
+- In a *Wall Street Journal* article, claimed the impetus for UFO legacy-program claims was an
+  illegal Air Force hazing program he called "[[yankee-blue|Yankee Blue]]." Gerb notes
+  Kirkpatrick reportedly told podcasters off-air that every armed-forces branch had its own
+  equivalent hazing program — a detail omitted from the public article. See [[yankee-blue]] for
+  [[david-grush|David Grush]]'s on-record rebuttal. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  2:15:07–2:16:07)*
+- Accused, alongside [[tim-phillips-aaro|Tim Phillips]], of ad hominem attacks against Grush,
+  including the claim Grush "ghosted" AARO for meetings. Gerb theorizes Kirkpatrick's post-AARO
+  senior position at [[oak-ridge-national-laboratory|Oak Ridge]] and his company
+  [[nonlinear-solutions|Nonlinear Solutions LLC]]'s subcontract under
+  [[mitre-corporation|MITRE]] for US SPACECOM may have been "rewards" for his AARO tenure.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:16:56–2:17:52)*
+
 ## Relationships
 
 - Extensive revolving-door career: [[science-applications-international-corporation]] →
   [[air-force-research-laboratory]] → [[national-reconnaissance-office]] →
   [[central-intelligence-agency]] → [[aaro]] → [[nonlinear-solutions]] (contractor to
   [[mitre-corporation]]) → [[oak-ridge-national-laboratory]]. Close associate of
-  [[ronald-moultrie]].
+  [[ronald-moultrie]]; actually selected for AARO by [[david-m-taylor]]; originated the disputed
+  [[yankee-blue]] narrative.

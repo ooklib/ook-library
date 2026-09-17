@@ -13,9 +13,15 @@ relations:
   - relation: contractor_for
     target: operation-kona-blue
     note: "proposed recipient of Lockheed's divested UFO materials"
+  - relation: contractor_for
+    target: aawsap
+  - relation: sponsored_by
+    target: harry-reid
 sources:
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 Bigelow Aerospace Advanced Space Studies (BASS) is Robert Bigelow's LLC awarded a DIA contract
@@ -43,7 +49,15 @@ aerospace technology, initiated by Sen. Harry Reid
   beginning in California — which he theorizes influenced [[to-the-stars-academy|To the Stars
   Academy]]'s later founding. *([gerb/lockheed](../raw/gerb/lockheed.md) 1:29:39–1:30:12)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- Gerb reiterates OAP/AAWSAP ran 2008–2012 with a roughly $22 million budget, sponsored by
+  [[harry-reid|Senator Harry Reid]], and confirms via [[david-grush|David Grush]] that one of
+  OAP's express missions was to receive the [[operation-kona-blue|Kona Blue]] material transfer
+  from [[lockheed-martin|Lockheed Martin]]. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  2:21:32–2:22:03)*
+
 ## Relationships
 
-- DIA/[[aawsap|OAP]] contractor; proposed recipient
+- DIA/[[aawsap|OAP]] contractor, sponsored by [[harry-reid]]; proposed recipient
   of [[lockheed-martin]]'s divested materials via [[operation-kona-blue]].

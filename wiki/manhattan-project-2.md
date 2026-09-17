@@ -19,6 +19,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 Gerb's nickname for the entire alleged [[ufo-legacy-programs|UFO legacy program]] apparatus,
@@ -93,9 +95,21 @@ architecture had already proven effective for atomic-bomb secrecy. *(2:32–2:53
   a name used by any official source — a framing device for the two-part investigation, distinct
   from claims of established fact.
 
+## Claims (recap in "Special Access Required" Vol. 2)
+
+Vol. 2 opens with a condensed executive-summary recap of this five-pillar thesis before pivoting
+to the modern-day [[onion-secrecy-model|onion]] layers — see that page's Vol. 2 section for the
+continuation. Gerb restates the five pillars as compartmentalization, organizational
+architecture (via the [[manhattan-engineer-district]]), physical security (AEC custody of
+recovered vehicles), classification/information control (the two-track SAP/
+[[atomic-energy-act-1954|Atomic Energy Act]] system), and political shield/cover (the
+[[top-policy-group|Top Policy Group]] → [[nsc-5412-committee|5412 Committee]] lineage).
+*([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 13:44–24:00)*
+
 ## Relationships
 
 - Nickname for the overall [[ufo-legacy-programs]] concept; structurally modeled, per Gerb, on
   the [[manhattan-engineer-district]] via [[leslie-groves]], [[vannevar-bush]], and
   [[george-c-marshall]]; classification track rooted in the [[atomic-energy-act-1954]]; political
-  cover modeled on the [[top-policy-group]] and [[nsc-5412-committee]].
+  cover modeled on the [[top-policy-group]] and [[nsc-5412-committee]]; recapped and extended into
+  the modern era by the [[onion-secrecy-model]] in Vol. 2.

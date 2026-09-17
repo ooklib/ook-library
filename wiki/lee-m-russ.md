@@ -10,6 +10,8 @@ relations:
 sources:
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 Special Agent Lee M. Russ (referred to at points in the ASR transcript as "Liam Russ") succeeded

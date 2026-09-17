@@ -25,6 +25,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 Ronald Moultrie, former Under Secretary of Defense for Intelligence and Security, a close
@@ -60,9 +62,18 @@ oversight/direction to it in its early years. *([gerb/mitre](../raw/gerb/mitre.m
   Memorial Institute]] (nearly two years as an advisory board member) from his public CV.
   *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:11:16–1:11:39)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- Gerb alleges what was originally supposed to become a joint UAP investigation office (the "UAP
+  JPO") was "distorted and twisted, likely by" Moultrie as USD I&S, into AARO as it exists today.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:11:48–2:12:03)*
+- Actual selection of [[sean-kirkpatrick|Sean Kirkpatrick]] as AARO director is attributed by Gerb
+  more specifically to [[david-m-taylor|David M. Taylor]] (Deputy USD I&S) rather than Moultrie
+  alone. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:18:47–2:19:20)*
+
 ## Relationships
 
-- Founding figure of [[aaro]]; allegedly omits [[mitre-corporation|MITRE]],
-  [[battelle-memorial-institute]], and [[bdm-international]] board connections from his public
-  CV/LinkedIn. Held [[under-secretary-of-defense-for-intelligence-and-security|USD I&S]],
-  2021–2023.
+- Founding figure of [[aaro]] (with [[david-m-taylor]] as the actual selector of its director);
+  allegedly omits [[mitre-corporation|MITRE]], [[battelle-memorial-institute]], and
+  [[bdm-international]] board connections from his public CV/LinkedIn. Held
+  [[under-secretary-of-defense-for-intelligence-and-security|USD I&S]], 2021–2023.

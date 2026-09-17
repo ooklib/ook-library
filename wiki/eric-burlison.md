@@ -13,11 +13,16 @@ relations:
     note: "took a site visit there with White House staff"
   - relation: references_testimony_of
     target: anna-paulina-luna
+  - relation: references_testimony_of
+    target: edward-j-ruppelt
+    note: "named file AF-ATIC-FILM-0352, a Ruppelt-narrated 1952 briefing film held at MIT Lincoln Labs"
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 US Representative Eric Burlison (ASR-transcribed throughout as "Berles"/"Burles") is a
@@ -49,8 +54,21 @@ from Burlison; not otherwise detailed in this source.
   redirected them to AARO, while the Aerospace Corporation was the only other entity to respond,
   sending representatives to a secure in-person DC briefing. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 52:37–55:14)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- By name and file designation, called out AF-ATIC-FILM-0352 — a 1952 briefing film titled
+  "Flying Saucer Talk" narrated by [[edward-j-ruppelt|Edward J. Ruppelt]] — as held at MIT
+  Lincoln Labs and never volunteered for mandatory National Archives collection. Gerb suggests
+  this is because the film depicts sensitive material on non-human technical vehicles.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:09:53–2:10:20)*
+- Met with [[aaro|AARO]] twice as a staff member, offering to depose hostile witnesses before
+  AARO leadership; AARO never took him up on it. When the CIA "squirmed out of answering lawful
+  interrogatories," it redirected Burlison and [[david-grush|Grush]] to AARO.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:13:04–2:14:06)*
+
 ## Relationships
 
 - Co-author of the [[mitre-interrogative-letter]]; source of the Pax River site-visit account
   and the whistleblower meeting referenced re: [[tic-tac-factory-uso]]; also sent interrogatories
-  to the CIA, [[aerospace-corporation]], and the Navy.
+  to the CIA, [[aerospace-corporation]], and the Navy; named the [[edward-j-ruppelt|Ruppelt]]
+  briefing film held at MIT Lincoln Labs.

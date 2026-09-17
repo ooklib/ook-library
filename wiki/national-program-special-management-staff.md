@@ -9,9 +9,14 @@ relations:
   - relation: oversees
     target: special-access-program-central-office
     note: "Gerb: NPMS director outranks even the director of DoD SAPCO in clearance level"
+  - relation: employed_by
+    target: luis-elizondo
+    note: "director, 2013-2017"
 sources:
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 The National Program Special Management Staff (NPMS), sitting under the
@@ -35,8 +40,24 @@ Office (SAPCO). *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:06:47–1:08:
   Air Force and OSD-level program structures. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md)
   1:08:18–1:08:39)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- [[luis-elizondo|Luis Elizondo]] ("Lou Alzando") served as NPMS director from 2013 to 2017,
+  under [[under-secretary-of-defense-for-intelligence-and-security|USD I&S]] — the same office
+  [[james-clapper|James Clapper]] held from 2007 to 2010 before becoming DNI. Gerb reiterates
+  that this makes Elizondo, during those years, "usually the most cleared person in the entire
+  DoD besides the Secretary of Defense," directly undercutting Elizondo's public framing of
+  himself as merely a mid-level [[advanced-aerospace-threat-identification-program|ATIP]]
+  administrator. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 1:02:35–1:03:41,
+  2:25:19–2:25:44)*
+- Gerb argues this NPMS role — coordinating between NSC special access programs and the DoD/IC —
+  is the real explanation for Elizondo's "far more intimate history with national programs, USD
+  INS, and the National Security Council than he has ever led on." *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  35:40–35:57)*
+
 ## Relationships
 
 - Falls under [[under-secretary-of-defense-for-intelligence-and-security]]; its director is
   theorized to sit above the [[special-access-program-central-office|SAPCO]] director in
-  clearance/seniority.
+  clearance/seniority; directed 2013–2017 by [[luis-elizondo]], shortly before he joined
+  [[to-the-stars-academy]].

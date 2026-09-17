@@ -23,6 +23,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 Top layer of Gerb's [[ufo-legacy-programs|legacy program pyramid]]: a now "nebulous position"
@@ -76,8 +78,25 @@ from President [[bill-clinton]]'s disclosure appetite. *([gerb/mitre](../raw/ger
   weaker figure than Cheney. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 3:03:48–3:04:14,
   2:22:06–2:22:38)*
 
+## Claims (from "Special Access Required" Vol. 2 — clarification)
+
+Gerb explicitly distinguishes this control group from the DoD's
+[[special-access-program-oversight-committee|SAP Oversight Committee (SAPOC)]] and its Senior
+Review Group (SRG): SAPOC/SRG are gatekeepers managing need-to-know *access* into individual
+SAPs, while the control group (permanently vested in 1994 as "a quasi government and industry
+group of just over two dozen") is the much smaller body that actually directs the legacy program
+portfolio. He states there may be overlapping or carryover membership between the two — noting
+the [[wilson-davis-notes|Wilson-Davis notes]]' "watch committee" could plausibly connect to the
+control group — but the two structures are conceptually distinct, and the control group is not
+"the boogeyman remnant of Match 12"/[[majestic-12|MJ-12]] in the sense of an all-powerful,
+centrally directing body; today it operates in a "flat hierarchy" with "no one after Cheney"
+holding full control. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 1:21:46–1:22:22,
+3:03:40–3:05:12)*
+
 ## Relationships
 
 - Top tier of the [[ufo-legacy-programs]] pyramid, under the [[national-security-council]];
   led by [[dick-cheney]] then [[james-clapper]]; historically modeled on the
-  [[top-policy-group]] and operated through the [[nsc-5412-committee]].
+  [[top-policy-group]] and operated through the [[nsc-5412-committee]]; distinct from (though
+  possibly overlapping in membership with) the [[special-access-program-oversight-committee]]
+  and its Senior Review Group.

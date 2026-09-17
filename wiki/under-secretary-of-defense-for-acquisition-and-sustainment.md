@@ -21,11 +21,16 @@ relations:
   - relation: founded
     target: corporate-portfolio-program
     note: "established by Ellen Lord while serving as USD A&S"
+  - relation: oversees
+    target: special-access-program
+    note: "USD A&S oversees acquisition SAPs, ~75-80% of all DoD SAPs, via the SAP corporate portfolio"
 sources:
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 The office has been renamed several times: Under Secretary of Defense for Acquisition (USDA,
@@ -54,9 +59,25 @@ node for UFO legacy programs, per the [[wilson-davis-notes]]. *([gerb/nro](../ra
   [[corporate-portfolio-program|Corporate Portfolio Program]] in 2020 while serving as USD A&S).
   *([gerb/nro](../raw/gerb/nro.md) 2:24:53–2:26:37)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- USD A&S oversees **acquisition SAPs**, which comprise 75–80% of all DoD special access
+  programs, via the SAP "corporate portfolio" that integrates carve-out acquisition contracts
+  into broader DoD acquisition strategy. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  52:52–53:56)*
+- Gerb again flags [[paul-kaminski|Paul Kaminski]] — USD A&T (then-office name) at the time
+  [[thomas-wilson|Vice Admiral Thomas Wilson]] searched the office's special records group per
+  the [[wilson-davis-notes|Wilson-Davis notes]] — noting Kaminski also served as a senior SAPOC
+  member and, more recently, on [[mitre-corporation|MITRE]]'s board.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 58:31–58:57)*
+- Alongside [[under-secretary-of-defense-for-intelligence-and-security|USD I&S]] and USD R&E,
+  USD A&S is one of three OSD-level offices Gerb repeatedly names as paramount to legacy
+  operations. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 1:03:42–1:04:44)*
+
 ## Relationships
 
 - Joint acquisition oversight of [[national-reconnaissance-office]] with
   [[deputy-director-of-national-intelligence-for-acquisition-technology-and-facilities]]; office
   held by [[paul-kaminski]], [[john-m-deutch]], and [[ellen-lord]]; central to
-  [[thomas-wilson]]'s [[wilson-davis-notes]] testimony.
+  [[thomas-wilson]]'s [[wilson-davis-notes]] testimony; oversees DoD acquisition SAPs alongside
+  USD I&S's intelligence SAPs and USD R&E's technology-development SAPs.

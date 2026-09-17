@@ -342,3 +342,60 @@ match the new relative path (`mitre` -> `gerb/mitre`, `northrop-trw` -> `gerb/no
 not-yet-ingested `6MsmPrpQqa8_secrecy_2.md`). Updated every citation and `sources:` frontmatter
 entry across `wiki/*.md`, plus `CLAUDE.md` and the source registry in `raw/index.md`, to the new
 paths and keys. No wording, timestamps, or claims were changed — path/key rename only.
+
+## [2026-09-17] ingest | Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2
+
+Ingested `raw/gerb/secrecy_2.md` (UAP Gerb, ~3h23m), the concluding half of the two-part
+"Manhattan Project 2.0"/"Special Access Required" secrecy investigation. Added the `gerb/secrecy_2`
+short citation key to `raw/index.md`.
+
+After a recap of Vol. 1's Manhattan-Project-derived security thesis, Vol. 2 pivots to the
+modern-day "onion" layers: the structure, types (acquisition/intelligence/operations-support),
+and protection levels (acknowledged/unacknowledged/waived) of [[special-access-program|special
+access programs]]; the two central funding/reporting-evasion loopholes Gerb argues legacy UFO
+programs exploit — [[covert-action-program|non-covert-action White House SAPs]] (50 USC 3093 vs.
+EO 13526/10 USC 119) and [[content-only-special-access-program|content-only SAPs]] (CPI-only,
+budget rolled into generic accounts, zero reporting) — drawn heavily from David Grush's Judicial
+Watch interview; the DoD's tiered SAPCO/[[special-access-program-oversight-committee|SAPOC/SRG]]
+gatekeeping hierarchy (explicitly distinguished by Gerb from the separate
+[[ufo-control-group|"control group" of just over two dozen"]]); three named program-protection
+"antibody" offices ([[darpa-security-and-intelligence-directorate|DARPA SID]],
+[[air-force-life-cycle-management-center|AFLCMC/IP]],
+[[doe-office-of-intelligence-and-counterintelligence|DOE OICI]], alongside the already-covered
+AFOSI/PJ); a disinformation/narrative-control chapter tracing Project Sign -> Project Grudge ->
+[[project-blue-book|Project Blue Book]] -> the [[robertson-panel-1953|Robertson Panel]] ->
+the [[condon-committee|Condon Committee]] -> [[aaro|AARO]], plus a heavily revised, skeptical
+treatment of [[luis-elizondo|Luis Elizondo]]'s [[advanced-aerospace-threat-identification-program|
+ATIP]] (now framed as an informal, unfunded National Security Council narrative-cover working
+group under [[james-clapper|James Clapper]], tied to Elizondo's 2013-2017 directorship of the
+[[national-program-special-management-staff|National Program Special Management Staff]] rather
+than a sub-SAP of [[aawsap|AAWSAP/OAP]]) and the 2025 [[age-of-disclosure-documentary|Age of
+Disclosure]] documentary; and a closing "unrivaled secrecy" chapter on funding-misappropriation
+schemes, alleged wet works ([[matthew-sullivan|Matthew "Quake" Sullivan]]'s death), and
+whistleblower administrative-terrorism reprisal (drawn substantially from David Grush's own
+account).
+
+Created 17 new entity pages: [[content-only-special-access-program]],
+[[covert-action-program]], [[under-secretary-of-defense-for-research-and-engineering]],
+[[david-m-taylor]], [[darpa-security-and-intelligence-directorate]], [[system-high]],
+[[rob-how]], [[air-force-life-cycle-management-center]], [[terrence-l-reynolds]],
+[[doe-office-of-intelligence-and-counterintelligence]], [[yankee-blue]], [[yankee-white]],
+[[matthew-sullivan]], [[harry-reid]], [[condon-committee]], [[edward-j-ruppelt]], and
+[[age-of-disclosure-documentary]]. Updated ~35 existing pages with new claims, relations, and
+the `gerb/secrecy_2` source, including [[special-access-program]],
+[[special-access-program-oversight-committee]], [[special-access-program-central-office]],
+[[national-program-special-management-staff]],
+[[under-secretary-of-defense-for-acquisition-and-sustainment]],
+[[under-secretary-of-defense-for-intelligence-and-security]], [[darpa]], [[peter-highnam]],
+[[aaro]], [[tim-phillips-aaro]], [[sean-kirkpatrick]], [[ronald-moultrie]],
+[[ufo-legacy-programs]], [[ufo-control-group]], [[onion-secrecy-model]], [[manhattan-project-2]],
+[[advanced-aerospace-threat-identification-program]], [[aawsap]], [[luis-elizondo]],
+[[james-clapper]], [[to-the-stars-academy]], [[immaculate-constellation]],
+[[bigelow-aerospace-advanced-space-studies]], [[david-grush]], [[wilson-davis-notes]],
+[[project-blue-book]], [[donna-shipton]], [[eric-burlison]], [[matthew-brown]],
+[[air-force-office-of-special-investigations]], [[terry-phillips]], [[lee-m-russ]],
+[[paul-kaminski]], [[edward-c-aldridge]], [[william-e-mcclure]], [[hal-puthoff]],
+[[tom-delonge]], and [[christopher-mellon]]. Added two new relation types to
+[[relation-types]] (`governed_by`, `reports_to`). All claims attributed to UAP Gerb (heavily
+quoting David Grush's Judicial Watch interview) and flagged as speculative per the schema's
+domain framing.

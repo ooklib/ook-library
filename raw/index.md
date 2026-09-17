@@ -15,3 +15,4 @@ key (lowercase, no spaces — typically the contractor/org the video centers on)
 | `gerb/northrop_trw` | `raw/gerb/northrop_trw.md` | Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb) |
 | `gerb/hidden_wing` | `raw/gerb/hidden_wing.md` | The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb) |
 | `gerb/secrecy_1` | `raw/gerb/secrecy_1.md` | The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb) |
+| `gerb/secrecy_2` | `raw/gerb/secrecy_2.md` | Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb) |

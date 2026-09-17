@@ -15,11 +15,16 @@ relations:
   - relation: coincides_with
     target: immaculate-constellation
     note: "Gerb theorizes TTSA/Delonge's 2017 disclosures were downstream of authorized IMCON leaks"
+  - relation: coincides_with
+    target: advanced-aerospace-threat-identification-program
+    note: "Gerb: TTSA was the vehicle through which ATIP's partial-disclosure campaign was executed"
 sources:
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 To the Stars Academy, founded by musician [[tom-delonge|Tom DeLonge]] ("Tom Dong" per ASR),
@@ -53,9 +58,22 @@ EVP Rob Weiss, and 30+-year Skunk Works veteran Steve Justice. *([gerb/nro](../r
   its scientific focus for entertainment projects. *([gerb/lockheed](../raw/gerb/lockheed.md)
   1:24:14–1:25:41, 1:29:39–1:30:12, 1:26:37–1:26:48)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- Gerb frames TTSA as the operational vehicle through which
+  [[luis-elizondo|Elizondo]]'s [[advanced-aerospace-threat-identification-program|ATIP]]
+  partial-disclosure mission was executed, alongside [[christopher-mellon|Christopher Mellon]],
+  Maj. Gen. Neil McCasland, and John Podesta (Hillary Clinton's 2016 campaign manager) — an
+  effort aimed at positioning Clinton as "the disclosure president," which failed with her 2016
+  election loss. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:29:23–2:30:00, 3:00:59–3:01:07)*
+- Gerb states he does not blame [[tom-delonge|DeLonge]] himself, characterizing Elizondo and
+  others as having "parasitically attached themselves" to DeLonge's genuine curiosity about the
+  topic. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:30:40–2:30:51)*
+
 ## Relationships
 
 - Founded by [[tom-delonge]]; employed [[luis-elizondo]] as liaison to DIA/CIA/NRO; possible
   conduit for [[immaculate-constellation]] information per Gerb's theory; advised by
   [[lockheed-martin]] Skunk Works personnel; theorized link to
-  [[bigelow-aerospace-advanced-space-studies]]'s Project Forum.
+  [[bigelow-aerospace-advanced-space-studies]]'s Project Forum; vehicle for
+  [[advanced-aerospace-threat-identification-program|ATIP]]'s partial-disclosure campaign.

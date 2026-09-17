@@ -25,6 +25,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 Former Director of National Intelligence (DNI), USDI, and DIA Director. Gerb casts Clapper as
@@ -76,9 +78,29 @@ succeeding [[dick-cheney]]. *([gerb/mitre](../raw/gerb/mitre.md) 5:11–5:18)*
   at "slightly over two dozen" people alive at any given time with any sense of the program's full
   breadth. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 2:22:06–2:22:38)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- Held [[under-secretary-of-defense-for-intelligence-and-security|USD I&S]] from 2007 to 2010
+  (before becoming DNI, 2010–2017) — Gerb calls him "the closest thing to a Dick Cheney-level UFO
+  legacy program mob boss" of his era. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  1:01:14–1:01:49)*
+- Central to Gerb's revised theory of [[advanced-aerospace-threat-identification-program|ATIP]]:
+  Clapper gave the informal, unfunded ATIP working group its top cover as a way "to talk about the
+  onion outside of the onion," with [[luis-elizondo|Luis Elizondo]] — director of the
+  [[national-program-special-management-staff|NPMS]] under USD I&S, 2013–2017 — spearheading it.
+  Elizondo, in a Matt Ford interview, repeatedly declined to characterize Clapper's role beyond
+  "I worked for Jim Clapper ... I can't speak for Jim." *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  1:01:49–1:02:35, 2:22:29–2:24:23)*
+- Gerb argues the 2025 *Age of Disclosure* documentary's organizational chart (placing the CIA's
+  Directorate of Science and Technology, not the NSC, at the top of the legacy program) was
+  crafted specifically to protect Clapper's and Elizondo's roles by omitting the NSC's
+  coordinating position entirely. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:37:56–2:38:16)*
+
 ## Relationships
 
 - Succeeded [[dick-cheney]] atop the [[ufo-control-group]]; allegedly absorbed
   [[mitre-corporation]]'s programs into the [[national-security-council]]/IC fold, possibly
   connected to [[immaculate-constellation]]; recommended [[stephanie-osullivan]] for PDDNI;
-  [[michael-dempsey]] reported directly to him at ODNI.
+  [[michael-dempsey]] reported directly to him at ODNI; alleged to have given
+  [[advanced-aerospace-threat-identification-program|ATIP]] top cover via
+  [[luis-elizondo]]'s [[national-program-special-management-staff|NPMS]] directorship.

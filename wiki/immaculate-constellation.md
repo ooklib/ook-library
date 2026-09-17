@@ -27,6 +27,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 An alleged National Security Council unacknowledged Special Access Program (USAP), established in
@@ -69,9 +71,20 @@ craft and derivative technologies (parallel to, but siloed from, decades-older l
   [[tom-delonge|Tom DeLonge]] in 2017, 7 years before Brown's public disclosure.
   *([gerb/nro](../raw/gerb/nro.md) 55:58–57:18)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- [[david-grush|David Grush]] has publicly confirmed Immaculate Constellation was run out of the
+  National Security Council, established around 2017 — corroborating Gerb's prior theory. Gerb
+  reckons it was likely structured as an **intelligence SAP**, by analogy with his acquisition/
+  intelligence/operations-support SAP-type framework (protecting how the underlying NHI
+  technology's exploitability was assessed/known), the same category he assigns to
+  [[aawsap|OAP]]. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 3:06:32–3:07:08)*
+
 ## Relationships
 
 - Possibly connected to [[national-security-council]] control over
   [[mitre-corporation]]'s alleged programs post-2017, under [[james-clapper]].
 - Relies on [[sentient-nro-ai-program]] as a tasked resource; alleged disclosure conduit via
-  [[luis-elizondo]] to [[tom-delonge]]; delivered to Congress by [[matthew-brown]].
+  [[luis-elizondo]] to [[tom-delonge]]; delivered to Congress by [[matthew-brown]]; confirmed as
+  an NSC program by [[david-grush]]; theorized by Gerb as an intelligence
+  [[special-access-program|SAP]].

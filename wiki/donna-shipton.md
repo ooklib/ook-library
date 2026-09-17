@@ -5,8 +5,8 @@ aliases: [Lieutenant General Donna D. Shipton]
 tags: [air-force, legacy-program]
 relations:
   - relation: employed_by
-    target: air-force-material-command
-    note: "current commander of AFLCMC"
+    target: air-force-life-cycle-management-center
+    note: "current commander"
   - relation: employed_by
     target: saf-aq
     note: "military deputy, Office of the ASAF for Acquisition, Technology and Logistics, Aug 2022-Dec 2023"
@@ -15,6 +15,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 Lieutenant General Donna D. Shipton is the current commander of the Air Force Life Cycle
@@ -41,5 +43,5 @@ Management Center (AFLCMC), which Gerb notes as the primary contract/administrat
 
 ## Relationships
 
-- Commands [[air-force-material-command|AFLCMC]], administrative agent for MITRE's NSEC; served
-  as military deputy in [[saf-aq]] immediately prior.
+- Commands [[air-force-life-cycle-management-center|AFLCMC]], administrative agent for MITRE's
+  NSEC; served as military deputy in [[saf-aq]] immediately prior.

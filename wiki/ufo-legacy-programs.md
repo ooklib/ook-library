@@ -18,6 +18,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 Gerb's umbrella term for the alleged, decades-old, fragmented network of US government,
@@ -98,11 +100,53 @@ vehicles" (UFOs), running from 1947 to the present. *([gerb/mitre](../raw/gerb/m
   shield/cover) of how this structure allegedly copied the original Manhattan Project's security
   architecture.
 
+## Claims (from "Special Access Required" Vol. 2 — funding, secrecy, and decline)
+
+- Gerb reiterates the pyramid's fractured, siloed, redundant state today, describing "severe
+  redundancies and brain drain," a "self-licking ice cream cone" of accountability, and states
+  he is unsure whether program progress has "stagnated" since [[dick-cheney|Dick Cheney]] left
+  office in 2009, but that a full reorganization under constitutional, reported oversight (while
+  retaining necessary secrecy) "could be the dawn of a new age for US science, technology, and
+  space programs." *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 3:16:53–3:18:07)*
+- Funding mechanisms alleged to keep legacy program spending off the books: "haircuts" diverted
+  from other classified/black programs (and, per Gerb's own speculation, potentially from
+  obscure agencies like the US Forest Service or Bureau of Land Management); Independent Research
+  and Development (IRAD) misappropriation by contractors; self-funding cutout companies (e.g.
+  [[e-systems|E-Systems]], evolved from LTV Aerospace, a CIA cutout; and Lt. Col. James Duncan's
+  BSI consultancy from the [[yellow-fruit|Yellow Fruit]] scandal); and, per
+  [[david-grush|David Grush]]'s Fox News interview, money laundered through criminal enterprises
+  that were referred to the Department of Justice for investigation. See
+  [[content-only-special-access-program]] for the structural mechanism enabling this.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:39:52–2:44:24)*
+- Program-protection/exposure-mitigation offices Gerb names as the pyramid's "limestone casing":
+  [[air-force-office-of-special-investigations|AFOSI/PJ]],
+  [[darpa-security-and-intelligence-directorate|DARPA SID]],
+  [[air-force-life-cycle-management-center|AFLCMC/IP]], and
+  [[doe-office-of-intelligence-and-counterintelligence|DOE OICI]]. Alleged tactics include
+  administrative terrorism (clearance revocation, career destruction, ostracization —
+  corroborated by [[david-grush|Grush]]'s own account of reprisal against himself, his chief of
+  staff, and his former boss at the NRO) and, in the most severe alleged cases, "wet works" —
+  Gerb cites the mysterious 2024 death of Air Force intelligence officer
+  [[matthew-sullivan|Matthew "Quake" Sullivan]], a Grush source and friend, as a case he considers
+  suspicious. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:45:02–2:51:37)*
+- Disinformation/narrative-control campaigns Gerb ties to the pyramid's outermost layer: the
+  1953 [[robertson-panel-1953|Robertson Panel]], the 1969 Condon Committee, and 2022's
+  [[aaro|AARO]] under [[sean-kirkpatrick|Sean Kirkpatrick]], plus a parallel effort he attributes
+  to [[luis-elizondo|Luis Elizondo]]'s [[advanced-aerospace-threat-identification-program|ATIP]]
+  and the *Age of Disclosure* documentary's partial-disclosure campaign.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:53:37–2:55:07)*
+
 ## Relationships
 
 - [[uap-gerb]] alleges and maps this structure.
 - [[ffrdc]] institutions (especially [[mitre-corporation]]) are cast as the operational
   backbone.
-- Structurally organized per the [[onion-secrecy-model]] of compartmentation.
+- Structurally organized per the [[onion-secrecy-model]] of compartmentation, implemented via
+  [[special-access-program]]/[[content-only-special-access-program]] funding mechanisms.
 - Security architecture modeled, per Gerb, on the [[manhattan-engineer-district|Manhattan
   Engineer District]]; see [[manhattan-project-2]].
+- Protected by program-protection "antibody" offices including
+  [[air-force-office-of-special-investigations]],
+  [[darpa-security-and-intelligence-directorate]],
+  [[air-force-life-cycle-management-center]], and
+  [[doe-office-of-intelligence-and-counterintelligence]].

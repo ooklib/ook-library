@@ -15,6 +15,11 @@ relations:
   - relation: contractor_for
     target: strategic-defense-initiative
     note: "Donald C. Winter worked SDI's Talon Gold program under DARPA in the 1980s"
+  - relation: part_of
+    target: darpa-security-and-intelligence-directorate
+    note: "DARPA SID is DARPA's internal program-protection directorate"
+  - relation: reports_to
+    target: under-secretary-of-defense-for-research-and-engineering
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -24,6 +29,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 DARPA's Security and Intelligence Directorate is listed among the program-protection/
@@ -49,9 +56,22 @@ programs." *([gerb/nro](../raw/gerb/nro.md) 2:02:32–2:02:50)*
   [[strategic-defense-initiative|Strategic Defense Initiative]], primarily the
   [[talon-gold|Talon Gold]] laser-tracking program. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 39:00–39:24)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- DARPA is "the DoD R&D research and development agency reporting to
+  [[under-secretary-of-defense-for-research-and-engineering|USD R&E]]," which Gerb notes is
+  strangely absent from most UFO legacy program discourse despite its clear technological
+  relevance — he states he will eventually undertake a dedicated DARPA investigation.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 1:48:44–1:49:22)*
+- DARPA's internal program-protection arm, [[darpa-security-and-intelligence-directorate|the
+  Security and Intelligence Directorate (SID)]], is discussed at length as one of three
+  "antibody" program-protection offices central to the video; see that page for detail.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 1:49:29–1:56:52)*
+
 ## Relationships
 
 - Program-protection service within [[ufo-legacy-programs]]; located near
   [[crystal-city-virginia]]; a listed government customer of [[area-6]]; Strategic Technology
   Office staffed by [[vince-divine]]; SDI/[[talon-gold]] work performed under DARPA by
-  [[donald-c-winter]].
+  [[donald-c-winter]]; reports to [[under-secretary-of-defense-for-research-and-engineering]];
+  internal program protection via [[darpa-security-and-intelligence-directorate]].

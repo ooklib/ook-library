@@ -13,6 +13,8 @@ relations:
 sources:
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 Tim Phillips, disgraced former deputy director of [[aaro|AARO]], claimed on 30 July 2025 that
@@ -34,7 +36,15 @@ investigation.
   LinkedIn) to former AARO director [[sean-kirkpatrick|Shawn Kirkpatrick]]'s similar pattern (via
   podcasts). *([gerb/lockheed](../raw/gerb/lockheed.md) 2:01:33–2:01:49)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- Gerb's central theory: Phillips, as deputy director of AARO under Kirkpatrick, was a "useful
+  idiot" who was partially briefed into the legacy program portfolio specifically in order to
+  limit program exposure and help defame [[david-grush|David Grush]].
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:17:52–2:18:11)*
+
 ## Relationships
 
 - Former deputy director of [[aaro]]; accused by Gerb of a pattern similar to
-  [[sean-kirkpatrick]]'s attacks on [[david-grush]].
+  [[sean-kirkpatrick]]'s attacks on [[david-grush]]; theorized "useful idiot" partially briefed
+  into [[ufo-legacy-programs]].

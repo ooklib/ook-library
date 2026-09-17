@@ -28,6 +28,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -124,10 +126,60 @@ context for the alleged reverse-engineering program.
   issue to be "greater leaders" on transparency rather than leaving him "the only" former officer
   being candid about it. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:35:32–1:36:21)*
 
+## Claims (from "Special Access Required" Vol. 2 — Judicial Watch interview, central source)
+
+Gerb calls Grush's Judicial Watch interview "probably the best interview I've ever seen on the
+topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
+
+- Explained the "loophole" of White House [[covert-action-program|non-covert-action special
+  access programs]]: covert action programs (50 USC 3093) are reported to the Gang of
+  Eight/Four, but "there's a way to develop a White House SAP that is non-covert action ... there
+  are no reporting carveouts" — with the activity's custodianship "buried ... in the Department
+  of Energy" and known to only "five people in the NSC ... and the president at one time."
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 0:46–1:41, 1:22:47–1:24:09)*
+- Named "one of the most serious SAPs you can ask for" as a "bigoted, waived special access
+  program" — waived meaning limited congressional reporting, bigoted meaning need-to-know
+  restricted "by name." *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 1:12:41–1:13:06)*
+- Confirmed the National Security Council's 5412 Committee (five initial members) was the
+  legacy program's original coordinating body, alongside Truman and Eisenhower as its genesis.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 3:11:00–3:11:17)*
+- Rebutted [[sean-kirkpatrick|Sean Kirkpatrick]]'s "[[yankee-blue|Yankee Blue]]" hazing-program
+  narrative: acknowledged awareness of hazing culture but stated the actual code words he
+  provided the Intelligence Community Inspector General (ICIG) "were certainly not the code
+  words" involved, and that the SAPs/CAPs in question were "performing financial fraud ... to
+  hide ... the paper trail, misappropriating funds and then taking haircuts across other black
+  programs to funnel the money ... to keep it off books." *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  2:16:13–2:17:44)*
+- Detailed extensive whistleblower reprisal against himself and his associates in the Judicial
+  Watch interview: fabricated security/conduct allegations against him (despite retaining his
+  TS/SCI clearance); revocation attempts against his former chief of staff's clearance after he
+  left NGA; revocation of his former boss's clearance at the [[national-reconnaissance-office|
+  NRO]]; years-long FOIA denials (citing a B7A law-enforcement exemption) forcing him to sue
+  federal agencies (e.g. in EDVA against the Air Force) for records; and friends "out of work for
+  three and a half years" or "still going through years of legal appeals." He states "the process
+  ... is the punishment" for whistleblowers, rebutting claims that no reprisal occurs "on the
+  books." *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:49:34–2:51:37)*
+- On Fox News, disclosed his friend [[matthew-sullivan|Matthew "Quake" Sullivan]], an Air Force
+  intelligence officer and one of his sources, "passed away mysteriously" before he could testify
+  to Congress — an "ongoing FBI matter" Grush declined to characterize further.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:46:25–2:46:57)*
+- On funding schemes (drawing on his prior career as a counter-threat-finance analyst working
+  arms-trafficking/terrorist-funding cases), confirmed "haircuts" taken to classified black
+  programs, self-funding cutout companies (as with Iran-Contra), and — most seriously — a
+  "government-run criminal enterprise" siphoning money for crash-retrieval operations "off
+  books," which he stated he personally reported to the Department of Justice, leading to federal
+  investigations. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:43:04–2:44:24)*
+- Stated Immaculate Constellation was established circa 2017 and directly named the NSC's 5412
+  Committee as the legacy program's original administrator, corroborating Gerb's Vol. 1 thesis.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 3:06:32–3:07:01, 3:11:00–3:11:17)*
+
 ## Relationships
 
 - Co-author of the [[mitre-interrogative-letter]] with [[eric-burlison]]; testimony repeatedly
   cited by [[uap-gerb]] as corroborating the MITRE thesis; former
   [[national-geospatial-intelligence-agency]] officer and
   [[national-reconnaissance-office]]/NGA liaison to the UAP task force; source on
-  [[lockheed-martin]]'s alleged IRAD funding mechanism and [[operation-kona-blue]] divestment.
+  [[lockheed-martin]]'s alleged IRAD funding mechanism and [[operation-kona-blue]] divestment;
+  central named source for [[covert-action-program]], [[content-only-special-access-program]],
+  and [[yankee-blue]] rebuttal; friend of [[matthew-sullivan]]; reported alleged criminal
+  enterprise funding legacy programs to the DOJ.

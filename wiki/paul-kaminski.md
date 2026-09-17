@@ -25,6 +25,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 Paul Kaminski served as Under Secretary of Defense for Acquisition and Technology (USD A&T)
@@ -51,6 +53,13 @@ UFO programs. *([gerb/mitre](../raw/gerb/mitre.md) 1:43:41–1:44:22)*
   satellite system"; joined the NRO Technical Advisory Board as of 2007. Named among Gerb's 13
   alleged NRO-linked gatekeepers. *([gerb/nro](../raw/gerb/nro.md) 2:24:53–2:25:10,
   2:50:59–2:51:14)*
+
+## Claims (from "Special Access Required" Vol. 2)
+
+- Named again as USD A&T during Wilson's search of the office's special records group (per the
+  [[wilson-davis-notes|Wilson-Davis notes]]) and as a senior SAPOC member, now on
+  [[mitre-corporation|MITRE]]'s board. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  58:31–58:57)*
 
 ## Relationships
 

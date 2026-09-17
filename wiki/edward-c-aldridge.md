@@ -30,6 +30,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 Edward C. Aldridge (nicknamed "Pete Aldridge," rendered "Edward Aldrich" throughout the ASR
@@ -71,9 +73,16 @@ compares his CV to fellow "Rogues Gallery" figure [[donald-kerr|Donald Kerr]]'s,
   rather than relying on the prior era's loose top-secret-codeword access.
   *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 3:26:45–3:27:16)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- Gerb restates the SAF/AA "outside activities" bypass as his prime example of a component-level
+  [[special-access-program-central-office|SAPCO]] (SAF/AAZ) being circumvented by legacy
+  operations, dependent on the individual director's own history in the programs.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 1:15:43–1:16:22)*
+
 ## Relationships
 
 - Simultaneous Under Secretary of the Air Force and [[national-reconnaissance-office]] director,
   1981–1986; later Secretary of the Air Force, president of [[mcdonnell-douglas]], and CEO of the
   [[aerospace-corporation]]; alleged architect of [[saf-aa]]'s "outside activities" cover
-  structure.
+  structure, bypassing the component-level [[special-access-program-central-office|SAPCO]].

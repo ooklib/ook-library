@@ -12,6 +12,8 @@ relations:
 sources:
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 Musician who founded [[to-the-stars-academy|To the Stars Academy]], publicly launched on Joe
@@ -36,7 +38,19 @@ Rogan Experience episode 1029 (26 October 2017). ASR-transcribed as "Tom Dong" i
   [[matthew-brown|Matthew Brown]] publicly disclosed IMCON's existence.
   *([gerb/nro](../raw/gerb/nro.md) 55:58–56:19)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- Gerb re-airs the same JRE 1029 "episodic visits" clip and reiterates his theory that DeLonge's
+  founding of [[to-the-stars-academy|TTSA]] traces to a 2010 "Project Forum" idea from the
+  [[bigelow-aerospace-advanced-space-studies|BASS]] 10-month report, executed via
+  [[luis-elizondo|Elizondo]] as part of the broader
+  [[advanced-aerospace-threat-identification-program|ATIP]] partial-disclosure campaign. Gerb
+  states he does not blame DeLonge personally, viewing him as someone Elizondo and others
+  "parasitically attached themselves to." *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  2:29:23–2:30:51)*
+
 ## Relationships
 
 - Founder of [[to-the-stars-academy]]; alleged recipient of [[luis-elizondo]]'s disclosures about
-  [[immaculate-constellation]].
+  [[immaculate-constellation]]; TTSA cast by Gerb as the vehicle for
+  [[advanced-aerospace-threat-identification-program|ATIP]]'s partial-disclosure campaign.

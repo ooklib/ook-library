@@ -24,6 +24,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 The Wilson-Davis notes are disputed but (per Gerb) "highly likely accurate" notes transcribed
@@ -103,9 +105,34 @@ contractor [[eg-and-g|EG&G]] in Nevada. *([gerb/saic](../raw/gerb/saic.md) 34:39
   drove the final 1994 restructuring under [[bill-perry|William Perry]] discussed in the notes.
   *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 2:45:06–2:45:33, 3:08:04–3:08:36)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- Wilson found the legacy program record within the then-Office of the Under Secretary of
+  Defense for Acquisition and Technology (OUSDA&T, now
+  [[under-secretary-of-defense-for-acquisition-and-sustainment|USD A&S]]) contained **zero
+  budget information** — kept in separate records "for audit purposes." Gerb calls this "probably
+  the most critical piece of the entire Wilson-Davis notes," directly corroborating his
+  [[content-only-special-access-program|content-only SAP]] theory. Per the notes, then-Army
+  Chief of Staff-level official Gen. Michael Costanik separately stated the legacy program's
+  *security* budget alone ran 2–3x (at times as high as 6–7x) the actual program budget — a
+  figure Gerb argues is consistent with (not contradictory to) a content-only funding structure,
+  since the attributable program budget itself is deliberately minimized/hidden.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 57:48–58:31, 1:09:12–1:09:52)*
+- The notes' account of the [[special-access-program-oversight-committee|SAPOC/SRG]] blocking
+  Wilson — "I was to immediately drop the matter ... it didn't fall within my oversight" — is
+  reaffirmed by Gerb as an accurate description of SAPOC/SRG's gatekeeping function, distinct
+  from the separate [[ufo-control-group|control group]]. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  1:19:56–1:20:19)*
+- Air Force General H. Marshall Ward — former [[special-access-program-central-office|SAPCO]]
+  director, former executive secretary of SAPOC, and former director of special programs within
+  the modern-day USD A&S — is again named as the official who told Wilson about the special
+  records group. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 57:14–57:47)*
+
 ## Relationships
 
 - Central testimony connecting [[thomas-wilson]], [[eric-davis]], [[edgar-mitchell]],
   [[willard-miller]], and [[eg-and-g]] to the alleged SAIC/SAPOC gatekeeping structure; Gerb's
   originally suspected unnamed contractor was [[lockheed-martin]], now superseded by
-  [[science-applications-international-corporation|SAIC]] as his leading candidate.
+  [[science-applications-international-corporation|SAIC]] as his leading candidate; its "zero
+  budget" finding is treated in Vol. 2 as corroborating
+  [[content-only-special-access-program|content-only SAP]] theory.

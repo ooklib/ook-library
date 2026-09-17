@@ -13,11 +13,19 @@ relations:
   - relation: contractor_for
     target: sancorp
     note: "2022 contract, whistleblower-leak-plugging specialist"
+  - relation: founded
+    target: david-m-taylor
+    note: "Gerb: Taylor, Deputy USD I&S, was the official who actually selected Kirkpatrick to direct AARO/UAP JPO"
+  - relation: employed_by
+    target: tim-phillips-aaro
+    note: "former deputy director; Gerb theorizes he was a 'useful idiot' partially briefed into the legacy portfolio"
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 The DoD's All-domain Anomaly Resolution Office ("Arrow" in the ASR transcript), the official
@@ -46,8 +54,59 @@ this section brief. *([gerb/mitre](../raw/gerb/mitre.md) 1:49:22–1:49:35)*
   him "an insider meant to squash information." *([gerb/saic](../raw/gerb/saic.md)
   30:39–30:57)*
 
+## Claims (from "Special Access Required" Vol. 2 — narrative control chapter)
+
+Gerb frames AARO ("Arrow") as the modern-day continuation of a decades-long official-UFO-
+investigation disinformation lineage running from Project Sign (1948) → Project Grudge
+(1949–1951) → Project Blue Book (1952–1969, ended by the 1969 Condon Committee) → the
+[[robertson-panel-1953|1953 Robertson Panel]] → AARO (2022–present). See [[project-blue-book]]
+and [[condon-committee]]. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:09:03–2:11:40)*
+
+- What was originally supposed to be the joint "UAP JPO" was, per Gerb, "distorted and twisted
+  likely by" then-[[under-secretary-of-defense-for-intelligence-and-security|USD I&S]]
+  [[ronald-moultrie|Ronald Moultrie]] into AARO, which provided oversight/direction including
+  surveillance/collection/reporting, systems capability/design, intelligence
+  operations/analysis, mitigation/defeat, governance, and science and technology. Gerb states
+  Moultrie removed his MITRE board position from his public CV/bio.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:11:40–2:12:44)*
+- AARO is accused of operating as "an extension of the Onion" — increasing UFO-topic stigma via
+  constant dismissal, language crafting from former PDDNI Susan Gordon about the "non-existence"
+  of extraterrestrials, and functioning as "a honeypot for whistleblowers."
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:12:44–2:13:04)*
+- [[eric-burlison|Rep. Eric Burlison]] states he met with AARO twice as a staff member and offered
+  to depose hostile witnesses in front of AARO leadership, but AARO never took him up on it; when
+  the CIA "squirmed out of answering lawful interrogatories," it redirected Burlison and
+  [[david-grush|Grush]] to AARO. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:13:04–2:14:06)*
+- AARO's Historical Report Volume 1 is again cited as having "blatantly lied" about
+  [[michael-herrera|Michael Herrera]]'s testimony, falsely stating he described an
+  extraterrestrial spacecraft and US special forces. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  2:14:06–2:14:30)*
+- [[tim-phillips-aaro|Tim Phillips]] (deputy director) and [[sean-kirkpatrick|Sean Kirkpatrick]]
+  (director) are accused of ad hominem attacks against [[david-grush|David Grush]] — Kirkpatrick
+  reportedly claiming Grush "ghosted" AARO for meetings. Gerb also cites the *Wall Street
+  Journal*'s "Pentagon Disinformation That Fueled America's UFO Mythology" article, in which
+  Kirkpatrick claimed the entire impetus for legacy-program claims was an illegal Air Force
+  hazing program he called **"Yankee Blue"** — a claim Gerb treats skeptically, noting
+  Kirkpatrick allegedly told podcasters off-air that every armed-forces branch had its own
+  "Yankee Blue" equivalent, a detail never mentioned publicly or in the article. See
+  [[yankee-blue]]. [[david-grush|Grush]]'s Judicial Watch rebuttal states he was aware of hazing
+  culture but that the actual code words he provided investigators "were certainly not the code
+  words" involved in the Yankee Blue narrative. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  2:14:30–2:17:27)*
+- Gerb's central theory of Vol. 2: [[tim-phillips-aaro|Tim Phillips]] was a "useful idiot" —
+  partially briefed into the legacy portfolio during his AARO tenure specifically to limit
+  program exposure and defame Grush. He also flags [[sean-kirkpatrick|Kirkpatrick]]'s post-AARO
+  senior position at [[oak-ridge-national-laboratory|Oak Ridge]] (job posting later deleted) and
+  his company [[nonlinear-solutions|Nonlinear Solutions LLC]] subcontracting under
+  [[mitre-corporation|MITRE]] for US SPACECOM as possible "rewards." Gerb also names
+  [[david-m-taylor|David M. Taylor]] (Deputy USD I&S) as the official who actually selected
+  Kirkpatrick to direct AARO/the UAP JPO. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  2:17:52–2:19:20)*
+
 ## Relationships
 
-- Founded/directed early on by [[ronald-moultrie]]; later directed by [[sean-kirkpatrick]], who
-  is now connected to [[mitre-corporation]] via his company Nonlinear Solutions; contracted
-  [[sancorp]].
+- Founded/directed early on by [[ronald-moultrie]] (with [[david-m-taylor]] the actual selector
+  of its director); later directed by [[sean-kirkpatrick]], deputy-directed by
+  [[tim-phillips-aaro]], who is now connected to [[mitre-corporation]] via his company Nonlinear
+  Solutions; contracted [[sancorp]]; treated by Gerb as the modern continuation of
+  [[project-blue-book]] and the [[robertson-panel-1953]] disinformation lineage.

@@ -36,6 +36,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 The SAP Oversight Committee (SAPOC) and its Senior Review Group (SRG) govern the DoD Special
@@ -80,10 +82,43 @@ he ties to protecting UFO programs and to the same-year creation of the "committ
   siloed/scattered legacy-program structure. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md)
   2:46:53–2:48:29, 3:07:41–3:08:36)*
 
+## Claims (from "Special Access Required" Vol. 2 — structural clarification)
+
+- SAPOC, chaired historically by deputy secretaries of defense like [[john-m-deutch|John M.
+  Deutch]] and [[bill-perry|Bill Perry]], "has access to all DoD SAPs to provide DoD-wide
+  departmental oversight and management," built to "ensure compliance with law, regulations,
+  policies, and procedures and ensure required information is provided to the Congress." SAPOC
+  specifically holds oversight over all *waived* DoD SAPs to determine continued need for waived
+  status. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 1:18:08–1:18:50)*
+- SAPOC is supported by the **Senior Review Group (SRG)**, a body of senior-executive-service-
+  level individuals (both in and out of government) that serves as SAPOC's principal support and
+  is tasked with ensuring SAPs aren't duplicated across categories — a duplication-prevention
+  function Gerb argues manifestly fails for legacy UFO SAPs, citing what he calls his own
+  awareness of the Army and another armed-forces branch running fully siloed, non-crossed-over
+  exotic-material-exploitation SAPs. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 1:18:50–1:19:26,
+  3:02:09–3:03:25)*
+- Per the [[wilson-davis-notes|Wilson-Davis notes]], SAPOC/SRG (established 1994 under Bill
+  Perry) is explicitly named as the "gatekeeping structure for the UFO portfolio," with SRG
+  members blocking [[thomas-wilson|Vice Admiral Thomas Wilson]]: "I was to immediately drop the
+  matter and let it go ... it didn't fall within my oversight." Gerb states he "vehemently
+  agrees" this is an accurate account of SAPOC/SRG's function, deputized in 1994 as the access
+  approval authority to gatekeep even directors of intelligence agencies and flag officers
+  lacking relevant need-to-know. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 1:19:33–1:21:46)*
+- **Important clarification Gerb makes explicit in this video**: SAPOC/SRG is *not* the same
+  entity as the [[ufo-control-group|"quasi government and industry control group of just over
+  two dozen"]] (the modern-day successor to [[majestic-12|MJ-12]]/the [[nsc-5412-committee|5412
+  Committee Special Group]]/Nixon's 303 Committee). SAPOC/SRG are gatekeepers managing
+  need-to-know *access* into the programs; the control group is the (much smaller, largely
+  extra-governmental) body that actually directs the legacy program portfolio. Gerb notes the
+  [[wilson-davis-notes|Wilson-Davis notes]]' "watch committee" may have direct or overlapping
+  membership with that control group, but is conceptually distinct from SAPOC/SRG.
+  *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 1:21:46–1:22:12, 3:03:40–3:04:24)*
+
 ## Relationships
 
 - Governance body under [[special-access-program]]; staffed at senior levels by
   [[paul-kaminski]], [[john-m-deutch]], [[linton-wells-ii]], [[william-a-owens]], and
   [[michael-costanik]], several with [[mitre-corporation]] or
   [[science-applications-international-corporation]] ties; restructured by [[bill-perry]];
-  investigated by [[thomas-wilson]].
+  investigated by [[thomas-wilson]]; distinct from (though possibly overlapping in membership
+  with) the [[ufo-control-group]].

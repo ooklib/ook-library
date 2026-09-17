@@ -16,6 +16,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 Physicist Hal Puthoff sponsored Ferris Williams's propulsion research presented at a June 2001
@@ -35,7 +37,16 @@ UFO technology conference in La Jolla, San Diego. *([gerb/saic](../raw/gerb/saic
   [[james-t-ryder|James Ryder]]; Ryder thanked Puthoff in a 2015 Lucius Trust talk for
   observations on spacetime as "an entangled cosmic matrix." *([gerb/lockheed](../raw/gerb/lockheed.md) 2:09:57–2:10:25, 2:16:21–2:17:14)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- Labeled an "ATIP scientist" in the 2025 *Age of Disclosure* documentary — a characterization
+  Gerb calls "brazen nonsense," since he maintains
+  [[advanced-aerospace-threat-identification-program|ATIP]] was an unfunded informal working
+  group with no scientist staff of its own. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  2:21:52–2:22:12)*
+
 ## Relationships
 
 - Sponsor of Biefeld–Brown-related propulsion research ([[biefeld-brown-effect]]); collaborator
-  with [[eric-davis]] and [[james-t-ryder]] on the Starfire Project.
+  with [[eric-davis]] and [[james-t-ryder]] on the Starfire Project; disputed "ATIP scientist"
+  label per [[age-of-disclosure-documentary]].

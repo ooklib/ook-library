@@ -23,9 +23,17 @@ relations:
   - relation: founded
     target: aaro
     note: "Moultrie, as USD I&S, informed DoD of AARO's creation on 20 July 2022"
+  - relation: oversees
+    target: special-access-program
+    note: "USD I&S oversees intelligence SAPs"
+  - relation: employed_by
+    target: david-m-taylor
+    note: "current Deputy USD I&S; hired Sean Kirkpatrick as AARO/UAP JPO director"
 sources:
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 The Under Secretary of Defense for Intelligence and Security (USD I&S), a high-level department
@@ -67,10 +75,32 @@ lynchpins of National Security Council UFO legacy programs.
   intelligence advisory board member for [[mitre-corporation|MITRE]] and as a board member for
   the Better Angel Society (owned by the Carlyle Group). *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:11:16–1:11:59)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- USD I&S oversees **intelligence SAPs**, safeguarding sensitive intelligence/counterintelligence
+  operations planning and execution. [[james-clapper|James Clapper]], as USD I&S from 2007 to
+  2010 (before becoming DNI, 2010–2017), is called by Gerb "the closest thing to a Dick
+  Cheney-level UFO legacy program mob boss" of his era. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  1:01:14–1:01:49)*
+- Houses the [[national-program-special-management-staff|National Program Special Management
+  Staff (NPMS)]], whose director "runs coordination between National Security Council SAPs and
+  the US DoD/intelligence community" and is "usually the most cleared person in the entire DoD
+  besides the Secretary of Defense" — more cleared even than the DoD SAPCO director. Gerb notes
+  [[luis-elizondo|Luis Elizondo]] held this directorship 2013–2017. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  1:02:46–1:03:26, 2:25:19–2:25:44)*
+- [[david-m-taylor|David M. Taylor]], currently the **Deputy** Under Secretary of Defense for
+  Intelligence and Security (44 years in government service), is identified by Gerb as the
+  official who actually selected [[sean-kirkpatrick|Sean Kirkpatrick]] to direct what was meant
+  to be the UAP Joint Program Office and became [[aaro|AARO]] — a choice Gerb finds suspicious
+  given the broader gatekeeper pattern. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  2:18:47–2:19:20)*
+
 ## Relationships
 
-- Oversees the DIA, NGA, NRO, NSA, and [[saf-aa]]'s sensitive-activities directorate.
+- Oversees the DIA, NGA, NRO, NSA, and [[saf-aa]]'s sensitive-activities directorate, plus
+  intelligence [[special-access-program|SAPs]] generally.
 - Held 2021–2023 by [[ronald-moultrie]], under whom [[aaro]] was created and
-  [[sean-kirkpatrick]] installed as director.
-- Houses the [[national-program-special-management-staff]] under its dual-hatted director of
-  defense intelligence role.
+  [[sean-kirkpatrick]] installed as director (per Gerb, at the actual selection of Deputy USD
+  I&S [[david-m-taylor]]); held 2007–2010 by [[james-clapper]].
+- Houses the [[national-program-special-management-staff]] (directed 2013–2017 by
+  [[luis-elizondo]]) under its dual-hatted director of defense intelligence role.

@@ -13,6 +13,8 @@ relations:
 sources:
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 William E. McClure, a member of the senior executive service tier 2 (SES2), served as director
@@ -41,7 +43,15 @@ manager of the Air Force's 2,000+ member security community.
   Program Central Office (SAPCO) and authorizing official for Air Force SAP systems.
   *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:25:13–1:26:11)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+- Named again as an individual within the Air Force's component-level
+  [[special-access-program-central-office|SAPCO]] (SAF/AAZ) whose office, per Gerb, operates key
+  positions in the legacy-activity architecture. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
+  1:15:51–1:15:58)*
+
 ## Relationships
 
-- Directed [[saf-aa]]'s security/information-protection directorate (SAF/AAZ); Gerb's secondary
-  candidate for [[christopher-mellon]]'s redacted SCES2 Air Force gatekeeper.
+- Directed [[saf-aa]]'s security/information-protection directorate (SAF/AAZ), the Air Force's
+  component-level [[special-access-program-central-office|SAPCO]]; Gerb's secondary candidate
+  for [[christopher-mellon]]'s redacted SCES2 Air Force gatekeeper.

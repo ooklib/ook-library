@@ -32,6 +32,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: raw/gerb/secrecy_2.md
+    label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
 AFOSI's Office of Special Projects (PJ) is named as a "program protection and exposure
@@ -100,6 +102,17 @@ security." *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:56:51–1:57:13)*
   safeguarding the Rapid Capabilities Office's most secretive programs.
   *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 58:39–58:53)*
 
+## Claims (from "Special Access Required" Vol. 2)
+
+Gerb again names AFOSI/PJ as one of three program-protection "antibody" offices central to Vol.
+2, alongside [[darpa-security-and-intelligence-directorate|DARPA SID]] and
+[[doe-office-of-intelligence-and-counterintelligence|DOE OICI]], but states he will not spend
+much additional time on it here since he "covered this office and individual extensively" in the
+Hidden Wing video. He reiterates [[terry-phillips|Terry Phillips]] (now VP for security at
+[[northrop-grumman|Northrop Grumman]]) and current PJ executive director
+[[lee-m-russ|Lee M. Russ]] as figures he considers "attack dogs for the UFO legacy
+architecture." *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 34:09–35:08)*
+
 ## Relationships
 
 - Counterintelligence provider for [[mitre-corporation]] and the
@@ -107,4 +120,6 @@ security." *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:56:51–1:57:13)*
   sites, plus [[air-force-plant-42]] and [[kirtland-air-force-base]].
 - Office of Special Projects (PJ) led successively by [[terry-phillips]] and [[lee-m-russ]];
   employed counterintelligence agent [[richard-doty]] at Kirtland; runs the
-  [[guardian-angel-program]] with the FBI.
+  [[guardian-angel-program]] with the FBI; one of three program-protection "antibody" offices
+  alongside [[darpa-security-and-intelligence-directorate]] and
+  [[doe-office-of-intelligence-and-counterintelligence]].
