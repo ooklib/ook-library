@@ -30,11 +30,11 @@ relations:
     target: yellow-fruit
     note: "Gerb: the 1983 Yellow Fruit audit scandal was a major precipitating event for this 1994 reform"
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
-  - file: raw/jR-h5p2bd-A_secrecy_1.md
+  - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
@@ -42,18 +42,18 @@ The SAP Oversight Committee (SAPOC) and its Senior Review Group (SRG) govern the
 Access Program ecosystem. Gerb argues 1994 reforms under [[bill-perry]] significantly
 strengthened this gatekeeping structure, restricting temporary/non-need-to-know access — reforms
 he ties to protecting UFO programs and to the same-year creation of the "committee of 27"
-[[ufo-control-group]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:44:52–1:45:32)*
+[[ufo-control-group]]. *([gerb/mitre](../raw/gerb/mitre.md) 1:44:52–1:45:32)*
 
 ## Claims
 
 - [[paul-kaminski]] was a permanent SAPOC member during his tenure as USD A&T (1994–1997).
-  *([mitre](../raw/107BtDYhTkA_mitre.md) 1:43:41–1:44:22)*
+  *([gerb/mitre](../raw/gerb/mitre.md) 1:43:41–1:44:22)*
 - [[john-m-deutch]] chaired SAPOC at this time and served on [[mitre-corporation|MITRE]]'s board
-  before and during his tenure as SAPOC chair and Secretary of Defense. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:46:18–1:46:36)*
+  before and during his tenure as SAPOC chair and Secretary of Defense. *([gerb/mitre](../raw/gerb/mitre.md) 1:46:18–1:46:36)*
 - [[linton-wells-ii]] was a former SRG member, in addition to 14 years of senior executive
   service within the Office of the Secretary of Defense and 26 years as a Navy officer; he was
   allegedly briefed into MITRE legacy programs in the mid-to-late 2000s despite no public MITRE
-  employment record. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:46:36–1:47:00)*
+  employment record. *([gerb/mitre](../raw/gerb/mitre.md) 1:46:36–1:47:00)*
 
 ## Claims (from the SAIC video)
 
@@ -61,14 +61,14 @@ he ties to protecting UFO programs and to the same-year creation of the "committ
   were reorganized under SAPOC/SRG after an internal audit "almost revealed" them; the actual
   5 January 1994 restructuring was conducted by [[bill-perry|William Perry]] as Deputy Secretary
   of Defense, with [[john-m-deutch|John Deutch]] inheriting the SAPOC chair role immediately
-  after. *([saic](../raw/9p99lTsC7wQ_saic.md) 35:52–37:56)*
+  after. *([gerb/saic](../raw/gerb/saic.md) 35:52–37:56)*
 - Wilson spoke to two permanent SAPOC members: Brig. Gen. [[michael-costanik|Michael Costanik]]
-  and [[paul-kaminski|Paul Kaminski]]. *([saic](../raw/9p99lTsC7wQ_saic.md) 39:32–39:40)*
+  and [[paul-kaminski|Paul Kaminski]]. *([gerb/saic](../raw/gerb/saic.md) 39:32–39:40)*
 - Another permanent post-restructuring member: Admiral [[william-a-owens|William A. Owens]],
   former VCJCS and later [[science-applications-international-corporation|SAIC]] CEO. Of the 6
   SAPOC personnel Wilson identified, Gerb notes 2 were former SAIC alumni (Owens and, per other
   claims, Deutch) — supporting his identification of SAIC as the unnamed "large defense
-  contractor" from the Wilson-Davis notes. *([saic](../raw/9p99lTsC7wQ_saic.md) 39:49–40:33)*
+  contractor" from the Wilson-Davis notes. *([gerb/saic](../raw/gerb/saic.md) 39:49–40:33)*
 
 ## Claims (from the "Secrecy" Vol. 1 video)
 
@@ -77,7 +77,7 @@ he ties to protecting UFO programs and to the same-year creation of the "committ
   of loose top-secret-codeword access; he argues these events, plus mid-1980s DoD/Congressional
   audits nearly exposing legacy programs, forced a decade of programs "burrowing deeper" into
   cover offices before the final 1994 SAPCO/SRG restructuring locked in the modern, fully
-  siloed/scattered legacy-program structure. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md)
+  siloed/scattered legacy-program structure. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md)
   2:46:53–2:48:29, 3:07:41–3:08:36)*
 
 ## Relationships

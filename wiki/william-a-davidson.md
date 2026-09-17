@@ -11,7 +11,7 @@ relations:
     target: peraton
     note: "joined Perspecta's board of advisers after retiring from SAF/AA"
 sources:
-  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+  - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
@@ -19,7 +19,7 @@ William A. Davidson, retired Administrative Assistant to the Secretary of the Ai
 (SAF/AA), is quoted in a 2018 interview reproduced in an unclassified Air Force historical
 studies record, *SAF/AA: A History of the Office of the Administrative Assistant to the
 Secretary of the Air Force*, discussing "outside activities" that SAF/AA administered outside
-normal Air Force mission directives. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md)
+normal Air Force mission directives. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md)
 1:00:53–1:01:23)* See [[saf-aa]].
 
 ## Claims
@@ -28,11 +28,11 @@ normal Air Force mission directives. *([northrop-trw](../raw/0kLSp0lH-JQ_northro
   administrative control," and that two such programs "were started ... in [[edward-c-aldridge|
   Pete Aldridge]]'s day." Gerb reads this as describing cover programs that bypassed SAF/AAZ
   (the SAF/AA compartment tasked with security, special-program oversight, and information
-  protection). *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 1:01:23–1:03:19)*
+  protection). *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 1:01:23–1:03:19)*
 - After retiring from SAF/AA, joined the board of advisers for Perspecta (now
   [[peraton|Peraton]]), a company with ties to Veritas Capital and Gerb's ongoing "Kona Blue"
   material-transfer theory; Gerb recommends researcher Rob Jones's *Subrosa: Organized Secrecy*
-  for more on Veritas Capital's role. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md)
+  for more on Veritas Capital's role. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md)
   1:01:23–1:01:52)*
 
 ## Relationships

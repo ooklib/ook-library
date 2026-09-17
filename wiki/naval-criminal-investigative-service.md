@@ -9,12 +9,12 @@ relations:
   - relation: mission_partner_of
     target: office-of-naval-intelligence
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
 NCIS is employed by [[office-of-naval-intelligence|ONI]] for counterintelligence support on the
-alleged MITRE legacy program, alongside AFOSI/PJ. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:11:54–1:12:08)*
+alleged MITRE legacy program, alongside AFOSI/PJ. *([gerb/mitre](../raw/gerb/mitre.md) 1:11:54–1:12:08)*
 
 ## Relationships
 

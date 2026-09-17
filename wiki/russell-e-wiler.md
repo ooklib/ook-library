@@ -11,7 +11,7 @@ relations:
     target: christopher-mellon
     note: "Gerb's lead candidate (via researcher Alex Katz) for Mellon's redacted 'SCES2' Air Force gatekeeper"
 sources:
-  - file: raw/-IXSZe4xVv4_hidden_wing.md
+  - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
@@ -23,7 +23,7 @@ Department of the Air Force "reoptimization" that morphed SAF/AAH into Air Force
 Activities (SAF/OC), Wiler served as director of plans and effects within SAF/OCX — a
 continuation of his former role. A now-deleted 2025 job posting for Wiler's SAF/OCX position was
 listed as requiring tier-2 SES/DISES, confirming the position (and thus Wiler) held SES tier-2
-status. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:20:41–1:23:15)*
+status. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:20:41–1:23:15)*
 
 ## Claims
 
@@ -32,7 +32,7 @@ status. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:20:41–1:23:15)*
   [[christopher-mellon|Christopher Mellon]] Twitter/X post of a partially redacted 2020 Signal
   exchange with an unknown individual, by analyzing tier-2 SES personnel who also held senior Air
   Force positions circa 2020 and matching the redaction's implied 12-character name length
-  ("Russell E. Wiler" = 12 characters). *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md)
+  ("Russell E. Wiler" = 12 characters). *([gerb/hidden_wing](../raw/gerb/hidden_wing.md)
   1:19:33–1:20:49)*
 - In the Signal exchange, Mellon's unnamed correspondent claimed to have deciphered the
   management/security/ownership structure of the crash-retrieval portfolio, to know who
@@ -40,7 +40,7 @@ status. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:20:41–1:23:15)*
   Secretary of the Air Force memo remains in effect to maintain the UAP cover, and separately
   discussed the [[kingman-arizona-crash-1953|1953 Kingman, Arizona crash]]. Gerb suggests the
   SCES2 gatekeeper — possibly Wiler — may have been protecting the history of the Kingman
-  retrieval. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:17:53–1:19:32,
+  retrieval. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:17:53–1:19:32,
   3:08:00–3:08:24)*
 - Per his official bio, Wiler was "designated as the Air Force focal point to address immediate,
   near-term, and emerging combat air force, combat support agency, and combatant commander
@@ -48,12 +48,12 @@ status. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:20:41–1:23:15)*
   low-density expertise and sensitive activities managed by other government agencies" —
   language Gerb ties directly to SAF/AAH's classified-directive charter under
   [[under-secretary-of-defense-for-intelligence-and-security|USD I&S]].
-  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:23:40–1:24:24)*
+  *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:23:40–1:24:24)*
 - Very little is publicly available about Wiler; Gerb believes he "did a great job largely
   scrubbing himself from the internet." Gerb personally leans 60/40 toward Wiler (over
   [[william-e-mcclure|William E. McClure]]) as Mellon's SCES2 gatekeeper, while stressing both
   men have documented Air Force legacy-program involvement.
-  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:21:56–1:22:24, 3:23:04–3:23:20)*
+  *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:21:56–1:22:24, 3:23:04–3:23:20)*
 
 ## Relationships
 

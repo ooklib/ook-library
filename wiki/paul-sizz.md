@@ -12,20 +12,20 @@ relations:
   - relation: authored
     target: dirds
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 Dr. Paul Sizz (name as heard in ASR transcript) authored a DIRD on advanced aerospace
 configurations, and appeared as a whistleblower on [[steven-greer|Steven Greer]]'s 2001
-disclosure briefing document. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:35:44–1:35:51)*
+disclosure briefing document. *([gerb/saic](../raw/gerb/saic.md) 1:35:44–1:35:51)*
 
 ## Claims
 
 - Discussed 8 years in the Air Force at Wright-Patterson AFB and 30 years working for the
   [[mcdonnell-douglas|McDonnell Douglas Aircraft Company]]; described tracking UFOs at
   Wright-Patterson, some clocked at 20,000 mph performing unusual, silent maneuvers, as well as
-  classified projects at McDonnell Douglas. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:35:51–1:36:16)*
+  classified projects at McDonnell Douglas. *([gerb/saic](../raw/gerb/saic.md) 1:35:51–1:36:16)*
 
 ## Relationships
 

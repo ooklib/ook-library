@@ -16,33 +16,33 @@ relations:
     target: national-reconnaissance-office
     note: "16 years, CIA component within NRO; last position director of legislative liaison"
 sources:
-  - file: raw/GM1Qx9vuo2c_nro.md
+  - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
-  - file: raw/X6JfbfmvgMo_lockheed.md
+  - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
 Gerb describes Doug Wolf as "a true program loyalist whose defense of legacy program security
-rivals that of even members of the DARPA SID." *([nro](../raw/GM1Qx9vuo2c_nro.md)
+rivals that of even members of the DARPA SID." *([gerb/nro](../raw/gerb/nro.md)
 2:28:37–2:28:52)*
 
 ## Claims
 
 - As deputy director for [[cia-directorate-of-science-and-technology|CIA DS&T]], established the
   [[cia-office-of-global-access|CIA Office of Global Access]] in 2003.
-  *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:28:52–2:29:16)*
+  *([gerb/nro](../raw/gerb/nro.md) 2:28:52–2:29:16)*
 - During his 33 years at the CIA, also served as
   [[deputy-director-of-national-intelligence-for-acquisition-technology-and-facilities|DDNI
   ATNF]] and, for 16 years, as "the CIA component in the National Reconnaissance Office,"
   involved in launch/operations of multiple satellite systems; his last NRO position was director
-  of legislative liaison. *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:29:47–2:30:20)*
+  of legislative liaison. *([gerb/nro](../raw/gerb/nro.md) 2:29:47–2:30:20)*
 - Gerb treats Wolf's four-institution footprint (OGA, CIA DS&T, NRO, DDNI ATNF — all allegedly
   UFO-legacy-program-linked) as evidence of a gatekeeper pattern rather than coincidence.
-  *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:30:31–2:30:46)*
+  *([gerb/nro](../raw/gerb/nro.md) 2:30:31–2:30:46)*
 
 - Also referenced (as "Carl Wolf," an ASR variant) in Gerb's Lockheed investigation as the CIA
   DS&T deputy director who established the CIA Office of Global Access in 2003.
-  *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:24:13–2:24:20)*
+  *([gerb/lockheed](../raw/gerb/lockheed.md) 2:24:13–2:24:20)*
 
 ## Relationships
 

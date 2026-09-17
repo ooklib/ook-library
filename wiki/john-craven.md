@@ -14,47 +14,47 @@ relations:
     target: polaris-program
     note: "chief scientist, Navy Special Projects Office"
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
-  - file: raw/X6JfbfmvgMo_lockheed.md
+  - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
-  - file: raw/jR-h5p2bd-A_secrecy_1.md
+  - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 John Piña Craven, described as senior scientist of the Navy Special Projects Office, is credited
-by Gerb with the "seventh veil" analogy for extreme compartmentation. *([mitre](../raw/107BtDYhTkA_mitre.md) 56:07–56:15)*
+by Gerb with the "seventh veil" analogy for extreme compartmentation. *([gerb/mitre](../raw/gerb/mitre.md) 56:07–56:15)*
 
 ## Claims
 
 - The seventh-veil analogy: even highly cleared individuals within top-secret, unacknowledged
   classified projects could never know if they had truly reached the innermost layer of
   compartmentation, or were merely working on a cover program in service of another cover
-  program, indefinitely. *([mitre](../raw/107BtDYhTkA_mitre.md) 56:15–56:38)*
+  program, indefinitely. *([gerb/mitre](../raw/gerb/mitre.md) 56:15–56:38)*
 - Gerb applies this directly to [[mitre-corporation|MITRE]]'s internal program structure, where
   even security officers conducting briefings are compartmented from each other's full scope.
-  *([mitre](../raw/107BtDYhTkA_mitre.md) 56:38–57:26)*
+  *([gerb/mitre](../raw/gerb/mitre.md) 56:38–57:26)*
 
 ## Claims (from the SAIC video)
 
 - Chief scientist of the Navy Special Projects Office; spearheaded the Deep Submergence Systems
   Project (DSSP) and resulting Deep Submergence Rescue Vehicles (DSRVs), which Gerb implicates
-  in undersea UFO crash-retrieval operations. *([saic](../raw/9p99lTsC7wQ_saic.md)
+  in undersea UFO crash-retrieval operations. *([gerb/saic](../raw/gerb/saic.md)
   43:52–44:08)*
 - His book *The Silent War* states the DSSP/DSRVs were used for "a tremendous amount of
   clandestine classified missions," and that the DSSP was created specifically to accomplish
   retrieval operations under [[operation-sand-dollar|Operation Sand Dollar]] — a still-
   classified program Gerb wagers was itself a UFO crash-retrieval effort, "buried within the
   structure of yet another secret program itself hidden within" the
-  [[polaris-program|Polaris program]]. *([saic](../raw/9p99lTsC7wQ_saic.md) 44:08–45:26)*
+  [[polaris-program|Polaris program]]. *([gerb/saic](../raw/gerb/saic.md) 44:08–45:26)*
 - Was shown "an inventory itemizing the items known to be on the seabed and a map of their
-  distribution throughout the world." *([saic](../raw/9p99lTsC7wQ_saic.md) 44:53–45:02)*
+  distribution throughout the world." *([gerb/saic](../raw/gerb/saic.md) 44:53–45:02)*
 
 - Stated Sand Dollar was "nestled within a complex web of programs" hidden within Polaris, and
   that Polaris testing was actually conducted at [[tonopah-test-range|Tonopah Test Range]].
-  *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 1:06:09–1:06:28)*
+  *([gerb/lockheed](../raw/gerb/lockheed.md) 1:06:09–1:06:28)*
 
 ## Claims (from the "Secrecy" Vol. 1 video)
 
@@ -64,7 +64,7 @@ by Gerb with the "seventh veil" analogy for extreme compartmentation. *([mitre](
   whose own Polaris role Craven later learned was itself a cover for Sand Dollar — an example UAP
   Gerb treats as an early real-world demonstration of his "onion"/nested-SAP-umbrella model, and
   structurally analogous to how he theorizes UFO-related compartments may have nested inside the
-  [[yellow-fruit|Yellow Fruit]] USAP umbrella. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md)
+  [[yellow-fruit|Yellow Fruit]] USAP umbrella. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md)
   2:52:40–2:53:26)*
 
 ## Relationships

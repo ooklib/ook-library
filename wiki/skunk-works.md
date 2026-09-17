@@ -18,9 +18,9 @@ relations:
     target: northrop-advanced-technology-and-design-center
     note: "Northrop's Advanced Technology and Design Center (NATDC), comparable classified-programs division"
 sources:
-  - file: raw/X6JfbfmvgMo_lockheed.md
+  - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
-  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+  - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
@@ -28,34 +28,31 @@ Skunk Works (formally the Advanced Development Programs division) is Lockheed's 
 classified R&D and exotic-aircraft division, founded 1943 at Lockheed's Burbank, California
 plant, and now based primarily at [[air-force-plant-42|Air Force Plant 42]], Palmdale,
 California. It built the P-38, U-2, SR-71 Blackbird, F-117 Nighthawk, F-22 Raptor, and F-35
-Lightning II. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 21:16–21:39, 22:47–23:18)*
+Lightning II. *([gerb/lockheed](../raw/gerb/lockheed.md) 21:16–21:39, 22:47–23:18)*
 
 ## Claims
 
 - Gerb wagers Skunk Works is "the critical component" of Lockheed's alleged UFO legacy-program
   involvement, and — agreeing with Dr. Steven Greer on this point — argues it operates out of
   Air Force Plant 42 and the Helendale radar cross-section (RCS) range as part of a joint
-  Antelope Valley UFO legacy-program facility network. *([lockheed](../raw/
-  X6JfbfmvgMo_lockheed.md) 21:39–22:33, 1:10:28–1:13:29)*
+  Antelope Valley UFO legacy-program facility network. *([gerb/lockheed](../raw/gerb/lockheed.md) 21:39–22:33, 1:10:28–1:13:29)*
 - [[edgar-fuchs|Edgar Fuchs]] alleges Lockheed (via Skunk Works, implicitly) served as prime
-  contractor on the [[alien-reproduction-vehicle-tr3b|TR-3B]]. *([lockheed](../raw/
-  X6JfbfmvgMo_lockheed.md) 39:52–40:16)*
+  contractor on the [[alien-reproduction-vehicle-tr3b|TR-3B]]. *([gerb/lockheed](../raw/gerb/lockheed.md) 39:52–40:16)*
 - Second Skunk Works director (1975–1991) [[ben-rich|Ben Rich]] allegedly made repeated
   statements at a 1993 UCLA lecture and in private conversations suggesting Lockheed possessed
-  interstellar-travel-capable technology. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md)
+  interstellar-travel-capable technology. *([gerb/lockheed](../raw/gerb/lockheed.md)
   1:17:17–1:23:36)*
 - Executive VP Rob Weiss and 30+-year veteran Steve Justice served as advisers to
-  [[to-the-stars-academy|To the Stars Academy]]. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md)
+  [[to-the-stars-academy|To the Stars Academy]]. *([gerb/lockheed](../raw/gerb/lockheed.md)
   1:24:14–1:25:41)*
 - Gerb draws a parallel between Skunk Works (Lockheed), Phantom Works (Boeing), and the
   Advanced Technology Development Center (Northrop) as the classified-programs divisions of the
-  "big three" Plant 42 contractors. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 45:44–46:18,
+  "big three" Plant 42 contractors. *([gerb/lockheed](../raw/gerb/lockheed.md) 45:44–46:18,
   1:13:03–1:13:11)*
 - Stood apart from the GAO's 1986 audit of poor classified-document control at Lockheed's
   Burbank plant — Skunk Works' founding site — which Gerb ties speculatively to the 1993–94
   Special Access Program Oversight Committee reorganization. See
-  [[lockheed-martin#1986 GAO carveout security audit]]. *([lockheed](../raw/
-  X6JfbfmvgMo_lockheed.md) 1:36:37–1:42:09)*
+  [[lockheed-martin#1986 GAO carveout security audit]]. *([gerb/lockheed](../raw/gerb/lockheed.md) 1:36:37–1:42:09)*
 
 ## Relationships
 

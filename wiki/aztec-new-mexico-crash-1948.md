@@ -15,15 +15,15 @@ relations:
     target: vannevar-bush
     note: "per J. Andrew Kner and William Steinman's research, Bush allegedly led the scientific recovery team"
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
-  - file: raw/jR-h5p2bd-A_secrecy_1.md
+  - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 An alleged additional 1940s UFO crash retrieval near Aztec, New Mexico, which Gerb speculates
 may have also fed into [[mitre-corporation|MITRE]]'s alleged technology-exploitation program
-alongside [[roswell-incident-1947|Roswell]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:02:44–1:02:55, 2:04:13–2:04:23)*
+alongside [[roswell-incident-1947|Roswell]]. *([gerb/mitre](../raw/gerb/mitre.md) 1:02:44–1:02:55, 2:04:13–2:04:23)*
 
 ## Claims
 
@@ -31,7 +31,7 @@ alongside [[roswell-incident-1947|Roswell]]. *([mitre](../raw/107BtDYhTkA_mitre.
   defraud investors in connection with the Aztec case may have had technological development
   origins in Navy-sponsored WWII anti-submarine special projects under
   [[vannevar-bush|Vannevar Bush]]'s OSRD — framed explicitly as speculative ("a real tangled
-  web"). *([mitre](../raw/107BtDYhTkA_mitre.md) 2:09:52–2:10:24)*
+  web"). *([gerb/mitre](../raw/gerb/mitre.md) 2:09:52–2:10:24)*
 
 ## Claims (from the "Secrecy" Vol. 1 video)
 
@@ -39,7 +39,7 @@ alongside [[roswell-incident-1947|Roswell]]. *([mitre](../raw/107BtDYhTkA_mitre.
   definitive exploration of the case, alongside the work of Scott and Suzanne Ramsey; Steinman's
   investigation chased down "Mr. G" — an amalgamation figure representing Silas Newton and Leo
   GeBauer, key figures who disclosed crash-retrieval knowledge in connection with the case.
-  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 2:02:13–2:02:48)*
+  *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 2:02:13–2:02:48)*
 - Steinman's book names an alleged "Aztec saucer recovery scientific team" led by
   [[vannevar-bush|Vannevar Bush]], including three accused original
   [[majestic-12|Majestic 12]] members (Dr. Detlev Bronk, Dr. Lloyd Berkner, Dr. Jerome Hunsaker),
@@ -47,12 +47,12 @@ alongside [[roswell-incident-1947|Roswell]]. *([mitre](../raw/107BtDYhTkA_mitre.
   [[j-robert-oppenheimer|J. Robert Oppenheimer]]. UAP Gerb cautions Steinman did not
   meticulously document his sourcing for this roster; Highland is Steinman's most independently
   corroborated name, resurfacing in Colorado court records as a hostile witness against Newton and
-  GeBauer. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 2:02:57–2:03:44)*
+  GeBauer. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 2:02:57–2:03:44)*
 - UAP Gerb speculates Steinman may have derived the Oppenheimer/von Neumann names either from the
   disputed [[interplanetary-phenomenon-unit|IPU]] documents (leaked in the early 1990s, after
   Steinman's 1986 publication and his 1983 communications with Sarbacher) or from
   [[robert-sarbacher|Robert Sarbacher]]'s 1983 statements to him that von Neumann was "definitely
-  involved" and Oppenheimer likely so. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md)
+  involved" and Oppenheimer likely so. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md)
   2:03:55–2:04:15, 3:15:14–3:15:32)*
 
 ## Relationships

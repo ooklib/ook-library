@@ -19,36 +19,35 @@ relations:
     target: uap-gerb
     note: "Gerb: possibly protecting Mary Sturdivant; associates Mellon with a 2020 Signal exchange naming an SCES2 Air Force gatekeeper"
 sources:
-  - file: raw/GM1Qx9vuo2c_nro.md
+  - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
-  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+  - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
-  - file: raw/-IXSZe4xVv4_hidden_wing.md
+  - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Former deputy assistant secretary of defense for intelligence and a UFO-disclosure-advocate
 figure Gerb repeatedly discusses as possibly "knowing more than he's saying."
-*([nro](../raw/GM1Qx9vuo2c_nro.md) 3:00:50–3:01:05)*
+*([gerb/nro](../raw/gerb/nro.md) 3:00:50–3:01:05)*
 
 ## Claims
 
 - Worked with [[mary-sturdivant|Mary Sturdivant]] closely for years at SSCI and shared identical
   per-diems at various times, per Gerb; Gerb requested Mellon's help questioning Sturdivant about
   the [[glenn-gaffney|Kona Blue]] blockage, but Mellon reportedly did not assist.
-  *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:50:18–2:50:35)*
+  *([gerb/nro](../raw/gerb/nro.md) 2:50:18–2:50:35)*
 - Named an adviser to [[tom-delonge|Tom DeLonge]]'s [[to-the-stars-academy|To the Stars
-  Academy]]. *([nro](../raw/GM1Qx9vuo2c_nro.md) 49:39–49:54)*
+  Academy]]. *([gerb/nro](../raw/gerb/nro.md) 49:39–49:54)*
 - Gerb theorizes Mellon (alongside [[luis-elizondo|Luis Elizondo]]) "targeted" DeLonge to execute
   a leftover 2010 disclosure-outreach idea ("Project Forum") from the Bigelow Aerospace Advanced
-  Space Studies 10-month report. *([nro](../raw/GM1Qx9vuo2c_nro.md) 51:03–51:29)*
+  Space Studies 10-month report. *([gerb/nro](../raw/gerb/nro.md) 51:03–51:29)*
 
 - Held the position of assistant to the Secretary of Defense for intelligence policy from 1997 to
   1998 — the same position [[dick-cheney|Dick Cheney]] created in 1989 specifically for
   [[richard-haver|Richard Haver]] as his special aide. Gerb states he does not believe Mellon has
   "been completely forthcoming" on his exposure to UFO legacy activities, given Cheney's alleged
-  role as legacy programs' "head of the snake." *([northrop-trw](../raw/
-  0kLSp0lH-JQ_northrop_trw.md) 1:48:45–1:49:10)*
+  role as legacy programs' "head of the snake." *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 1:48:45–1:49:10)*
 
 ## Relationships
 

@@ -14,7 +14,7 @@ relations:
   - relation: alleged_by
     target: hal-puthoff
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
@@ -22,7 +22,7 @@ sources:
 [[advanced-aerospace-threat-identification-program|AATIP]], leaked in part by journalist George
 Knapp in July 2018, with the full set of 38 obtained by [[black-vault|The Black Vault]] via
 FOIA by March 2022 (initial list received 16 January 2019).
-*([saic](../raw/9p99lTsC7wQ_saic.md) 1:34:14–1:35:14)*
+*([gerb/saic](../raw/gerb/saic.md) 1:34:14–1:35:14)*
 
 ## Claims
 
@@ -31,7 +31,7 @@ FOIA by March 2022 (initial list received 16 January 2019).
   high-power microwave weaponry (Dr. James Wells), advanced aerospace configurations (Dr. Paul
   Sizz), and multiple papers by [[eric-davis|Eric Davis]] on traversable wormholes, stargates and
   negative energy, anti-gravity for aerospace applications, and extracting energy from the
-  quantum vacuum. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:35:14–1:36:32)*
+  quantum vacuum. *([gerb/saic](../raw/gerb/saic.md) 1:35:14–1:36:32)*
 
 ## Relationships
 

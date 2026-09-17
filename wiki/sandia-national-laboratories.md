@@ -54,13 +54,13 @@ relations:
   - relation: references_testimony_of
     target: j-andrew-kner
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
-  - file: raw/X6JfbfmvgMo_lockheed.md
+  - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
-  - file: raw/mHkPHd_eOXI_sandia.md
+  - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
@@ -72,51 +72,49 @@ this ingest's primary source — argues Sandia is "one of the most critical yet 
 entities" in UFO legacy-program investigation: a recurring name across nearly all of his prior
 videos, and, in his framework, exactly the kind of government-owned, contractor-operated FFRDC
 best positioned to retain custody of recovered nonhuman materials outside ordinary
-DoD/IC oversight channels. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 5:44–6:03, 8:08–8:16)*
+DoD/IC oversight channels. *([gerb/sandia](../raw/gerb/sandia.md) 5:44–6:03, 8:08–8:16)*
 
 ## History & corporate structure
 
 - Z Division, the ordnance design/testing/assembly arm of Los Alamos under J. Robert
   Oppenheimer, selected Sandia Base (Albuquerque Army Airfield, later
   [[kirtland-air-force-base|Kirtland AFB]]) as an operational location on 12 July 1945, the same
-  week as the Trinity test. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 16:07–17:22)*
+  week as the Trinity test. *([gerb/sandia](../raw/gerb/sandia.md) 16:07–17:22)*
 - 1 January 1947: Z Division, its lands, facilities, and equipment transferred to
   [[atomic-energy-commission|Atomic Energy Commission]] control — a moment Gerb calls "likely
   integral to establishing UFO legacy program gatekeeping structures." The same month, the
   [[armed-forces-special-weapons-project|Armed Forces Special Weapons Project (AFSWP)]]
   established operations at Sandia Base alongside Z Division; AFSWP's Manzano Base ("Site Able")
   subsidiary began construction in 1947, eventually housing two underground nuclear-weapons-
-  storage installations. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 17:36–19:30)*
+  storage installations. *([gerb/sandia](../raw/gerb/sandia.md) 17:36–19:30)*
 - 13 May 1949: President Truman asked AT&T president Leroy Wilson to manage Sandia Laboratory as
   a separate entity from Z Division. By 1 November 1949, Sandia Corporation — a wholly-owned
   subsidiary of Western Electric, itself an AT&T subsidiary — began managing Sandia Laboratory
   for the AEC, with operations modeled on AT&T/Western Electric's [[bell-labs|Bell Labs]].
-  *([sandia](../raw/mHkPHd_eOXI_sandia.md) 19:30–20:43)*
+  *([gerb/sandia](../raw/gerb/sandia.md) 19:30–20:43)*
 - 1956: opened a second site in California's Livermore Valley, next to Lawrence Livermore
   National Labs. 1957: conducted its first test drop at the [[tonopah-test-range|Tonopah Test
   Range]], which it established and would administer for decades. Early 1960s: developed the
   Permissive Action Link (PAL), a nuclear-weapon access-control device mandated for NATO use by
   a 1962 JFK security memorandum; JFK personally visited Sandia's NM site on 7 December 1962.
   1971: Sandia Base merged into Kirtland AFB. 1979: Congress officially designated Sandia
-  Laboratories a DOE FFRDC. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 48:09–48:39, 49:13–49:53,
+  Laboratories a DOE FFRDC. *([gerb/sandia](../raw/gerb/sandia.md) 48:09–48:39, 49:13–49:53,
   51:49–51:56)*
 - Management chain: Western Electric/AT&T (1949–1993) → Martin Marietta (1993, one year before
   its 1995 [[lockheed-martin|Lockheed]] merger) → Lockheed Martin, via the Sandia Corporation
   subsidiary (1993–2017) → National Technology and Engineering Solutions of Sandia LLC (NTESS), a
-  [[honeywell|Honeywell]] International subsidiary (2017–present). *([sandia](../raw/mHkPHd_eOXI_
-  sandia.md) 52:09–52:37, 53:05–53:21)*
+  [[honeywell|Honeywell]] International subsidiary (2017–present). *([gerb/sandia](../raw/gerb/sandia.md) 52:09–52:37, 53:05–53:21)*
 - Modern NM operations span five acknowledged Technical Areas (TA1 weapon-systems R&D; TA2
   chemical-explosive assembly, est. 1948; TA3 design/test facilities; TA4 inertial-confinement
   fusion/pulse-power; TA5 gamma-irradiation and "hot cell" facilities) plus the ~11 sq mi Coyote
   Test Field, largely built under AFSWP in the late 1940s. Sandia additionally operates
   facilities at [[tonopah-test-range|Tonopah]], Shoreview MN, and Kauai HI.
-  *([sandia](../raw/mHkPHd_eOXI_sandia.md) 54:22–55:19)*
+  *([gerb/sandia](../raw/gerb/sandia.md) 54:22–55:19)*
 - Gerb ties Sandia's early facility construction to the Manhattan Project directly: M2 Design
   (formerly Flatau and Moore, founded 1947 in Albuquerque by Max Flatau and Jason Moore's father)
   built at least eight Sandia labs/warehouses. Flatau had served as architectural superintendent
   of construction for the Manhattan Project at Los Alamos, reporting directly to J. Robert
-  Oppenheimer, before designing early Sandia Base/Sandia facilities. *([sandia](../raw/mHkPHd_eOXI_
-  sandia.md) 56:22–58:46)*
+  Oppenheimer, before designing early Sandia Base/Sandia facilities. *([gerb/sandia](../raw/gerb/sandia.md) 56:22–58:46)*
 
 ## DOE/NNSA sponsorship, FFRDC custody theory, and the 1954 Atomic Energy Act
 
@@ -124,25 +122,25 @@ DoD/IC oversight channels. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 5:44–6:03,
   government-owned entities receiving 70%+ of funding from the USG and exempt from competitive
   bidding — serve as the "missing link" between the DoD/IC and defense-industrial-base
   contractors, retaining strict information control and, he argues, physical custody of UFO
-  materials, data, and technology. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 59:25–1:06:14)*
+  materials, data, and technology. *([gerb/sandia](../raw/gerb/sandia.md) 59:25–1:06:14)*
   See [[ffrdc]].
 - Sandia and a handful of DOE National Lab FFRDCs work with the
   [[national-nuclear-security-administration|NNSA]] on the US National Nuclear Security
   Enterprise; Gerb argues DOE/NNSA personnel with Q-plus/SCI-equivalent clearances and "need to
   know" access — per [[david-grush|David Grush]]'s Joe Rogan comments — use "special nuclear
-  information" classifications to mask UFO materials. *([sandia](../raw/mHkPHd_eOXI_sandia.md)
+  information" classifications to mask UFO materials. *([gerb/sandia](../raw/gerb/sandia.md)
   1:15:52–1:17:02, 12:34–12:57)*
 - The [[atomic-energy-commission|1954 Atomic Energy Act]]'s broad "special nuclear material"
   definition, plus DOE Office of Intelligence and Counter Intelligence (OICI/"DOE INT")
   classifications like transclassified foreign nuclear information and "non-contract" foreign
   intelligence information (not releasable to contractors/consultants), are, per Gerb, the
   mechanism keeping UFO materials in FFRDC (rather than contractor) hands, outside standard
-  oversight. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 1:20:23–1:25:35)*
+  oversight. *([gerb/sandia](../raw/gerb/sandia.md) 1:20:23–1:25:35)*
 - Gerb's source(s) — presented as conjecture, still under vetting — claim OICI directly runs
   legacy-program operations at [[oak-ridge-national-laboratory|Oak Ridge]], where two recovered
   non-human discs are allegedly housed in a top-secret facility below the Y-12 complex, focused
   partly on studying UFO "skin," possibly involving [[battelle-memorial-institute|Battelle]] and
-  [[mitre-corporation|MITRE]]. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 1:18:23–1:19:41,
+  [[mitre-corporation|MITRE]]. *([gerb/sandia](../raw/gerb/sandia.md) 1:18:23–1:19:41,
   2:52:39–2:53:11)*
 
 ## Alleged Roswell-era custody (Kner, the Eisenhower Briefing Document, and the IPU report)
@@ -153,18 +151,17 @@ DoD/IC oversight channels. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 5:44–6:03,
   Air Force Systems Command, the Naval Research Lab, and Vannevar Bush's Research and Development
   Board. Discs were analyzed for [[vannevar-bush|Dr. Vannevar Bush]], with
   [[armed-forces-special-weapons-project|AFSWP]] personnel at Sandia Base supporting the effort.
-  *([sandia](../raw/mHkPHd_eOXI_sandia.md) 24:06–28:49)*
+  *([gerb/sandia](../raw/gerb/sandia.md) 24:06–28:49)*
 - The disputed Eisenhower Briefing Document (first alleged [[majestic-12|Majestic 12]] leak, 18
   November 1952) states materials recovered from a 6 December 1950 Del Rio/Eldorado, TX crash
   retrieval "were transported to the atomic energy facility at Sandia for study" — which Gerb
-  reads as corroborating Kner. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 36:50–37:29)*
+  reads as corroborating Kner. *([gerb/sandia](../raw/gerb/sandia.md) 36:50–37:29)*
 - The disputed Interplanetary Phenomenon Unit (IPU) report (dated July 1947, surfaced 1995)
   describes a July 1947 New Mexico recovery operation (i.e. Roswell) secured by a radiobiological
   team, a Manhattan Project-linked Special Engineering Detachment, and a Sandia Base security
   detail under AFSWP Col. Sherman V. Hasbrouck — a real AFSWP officer who worked closely with
   Leslie Groves. The report also notes multiple MPs suffered nervous breakdowns and three Sandia
-  technicians died of ambiguous contamination during the operation. *([sandia](../raw/mHkPHd_eOXI_
-  sandia.md) 38:12–41:20)*
+  technicians died of ambiguous contamination during the operation. *([gerb/sandia](../raw/gerb/sandia.md) 38:12–41:20)*
 
 ## Nevada Test Site, Tonopah, and Area 6
 
@@ -174,11 +171,10 @@ DoD/IC oversight channels. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 5:44–6:03,
   It established and administered [[tonopah-test-range|Tonopah Test Range]] from 1957 (through
   the 1993–2017 [[lockheed-martin|Lockheed]] era) and has a documented operational/experimental
   presence at [[area-6|Area 6]], per a 20,000+-image EG&G/NTS photo-lab collection (1972–1992+)
-  Gerb reviewed in full, plus a Sandia-managed facility at Area 19. *([sandia](../raw/mHkPHd_eOXI_
-  sandia.md) 1:51:03–1:52:05, 2:13:22–2:14:32, 2:18:33–2:18:43)*
+  Gerb reviewed in full, plus a Sandia-managed facility at Area 19. *([gerb/sandia](../raw/gerb/sandia.md) 1:51:03–1:52:05, 2:13:22–2:14:32, 2:18:33–2:18:43)*
 - Gerb theorizes Sandia-managed NNSS/NNTR land — where witness [[randy-anderson|Randy Anderson]]
   described seeing advanced triangular craft near Area 51 — may lend credence to
-  [[edgar-fuchs|Edgar Fuchs]]'s TR-3B claims. *([sandia](../raw/mHkPHd_eOXI_sandia.md)
+  [[edgar-fuchs|Edgar Fuchs]]'s TR-3B claims. *([gerb/sandia](../raw/gerb/sandia.md)
   1:51:11–1:52:17)*
 
 ## NNSA logistics arm: NEST, OST, SRT, DTRA
@@ -188,17 +184,15 @@ DoD/IC oversight channels. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 5:44–6:03,
   [[office-of-secure-transportation|Office of Secure Transportation (OST)]] for on-site UFO
   recovery, procurement, and continental-US material transport under 1954 Atomic Energy Act
   cover — though he credits a JSOC-tier or [[160th-special-operations-aviation-regiment|160th
-  SOAR]]-type unit, not SRT, with direct-action recovery work. *([sandia](../raw/mHkPHd_eOXI_
-  sandia.md) 1:44:27–1:45:24, 2:46:47–2:48:36)*
+  SOAR]]-type unit, not SRT, with direct-action recovery work. *([gerb/sandia](../raw/gerb/sandia.md) 1:44:27–1:45:24, 2:46:47–2:48:36)*
 - Sandia builds OST's Mobile Guardian Transporter (MGT) vehicles. NEST has historically drawn
   personnel from contractors/FFRDCs including former [[eg-and-g|EG&G]], Raytheon, Lawrence
-  Livermore, Los Alamos, and Sandia. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 1:30:15–1:30:31,
+  Livermore, Los Alamos, and Sandia. *([gerb/sandia](../raw/gerb/sandia.md) 1:30:15–1:30:31,
   1:39:19–1:39:48)*
 - The [[defense-threat-reduction-agency|Defense Threat Reduction Agency (DTRA)]] — direct
   descendant of AFSWP — maintains a major presence at Kirtland AFB (Sandia's home) and works
   closely with Sandia and the NNSA; whistleblower [[dylan-borland|Dylan Borland]] claims DTRA
-  holds old AEC files concluding UFOs were extraterrestrial. *([sandia](../raw/mHkPHd_eOXI_
-  sandia.md) 2:30:36–2:31:18, 2:29:19–2:30:36)*
+  holds old AEC files concluding UFOs were extraterrestrial. *([gerb/sandia](../raw/gerb/sandia.md) 2:30:36–2:31:18, 2:29:19–2:30:36)*
 
 ## TR-3B / Magnetic Field Disruptor reverse engineering
 
@@ -209,10 +203,10 @@ DoD/IC oversight channels. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 5:44–6:03,
   gravity reduction rather than anti-gravity. Fuchs states the propulsion device on the 250 ft
   prototype and 600 ft operational models was reverse-engineered by Sandia/Lawrence Livermore,
   while the airframe was a joint Lockheed/Boeing/Northrop/Teledyne Ryan effort overseen by the
-  NRO, NSA, and CIA. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 1:08–1:26, 1:52:17–1:53:36)*
+  NRO, NSA, and CIA. *([gerb/sandia](../raw/gerb/sandia.md) 1:08–1:26, 1:52:17–1:53:36)*
 - Gerb finds this consistent with his FFRDC framework: contractors compartmentalize different
   R&D pieces, while the two FFRDCs (Sandia, Lawrence Livermore) handle the most sensitive
-  component — the recovered craft's propulsion system. *([sandia](../raw/mHkPHd_eOXI_sandia.md)
+  component — the recovered craft's propulsion system. *([gerb/sandia](../raw/gerb/sandia.md)
   1:54:03–1:55:36)*
 
 ## EG&G, Area 51/S4, and recovered materials
@@ -221,16 +215,15 @@ DoD/IC oversight channels. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 5:44–6:03,
   [[eg-and-g|EG&G]] (Edgerton, Germeshausen, and Grier)'s Special Projects Division, which
   provided timing/high-speed photographic support for nuclear testing. EG&G is separately tied to
   UFO lore via [[bob-lazar|Bob Lazar]]'s alleged S4 employment and the 2002 Davis–Wilson parking-
-  lot meeting. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 2:03:01–2:04:21)*
+  lot meeting. *([gerb/sandia](../raw/gerb/sandia.md) 2:03:01–2:04:21)*
 - Per journalist [[george-knapp|George Knapp]], former senior EG&G manager Alfred O'Donnell
   claimed (circa 1990) DoD/IC elements possessed a disc and live non-human being recovered from
   New Mexico, housed at Indian Springs AFB until 1955 then moved to an Area 51-adjacent facility —
   a transfer Gerb ties to the 1954 Atomic Energy Act's new secrecy/classification regime rather
-  than simply to Area 51's 1955 opening. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 2:06:04–2:11:24)*
+  than simply to Area 51's 1955 opening. *([gerb/sandia](../raw/gerb/sandia.md) 2:06:04–2:11:24)*
 - [[donald-kerr|Donald Kerr]] — separately identified by Gerb as a top legacy-program gatekeeper
   ("MJ1") for his Los Alamos/CIA DS&T/NRO/MITRE career — was also president/director of EG&G,
-  1989–1992, during the era of alleged Bob Lazar/S4 hiring. *([sandia](../raw/mHkPHd_eOXI_
-  sandia.md) 2:05:12–2:05:52)*
+  1989–1992, during the era of alleged Bob Lazar/S4 hiring. *([gerb/sandia](../raw/gerb/sandia.md) 2:05:12–2:05:52)*
 
 ## Relationships
 

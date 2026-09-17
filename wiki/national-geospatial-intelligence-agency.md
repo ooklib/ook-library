@@ -10,17 +10,17 @@ relations:
     target: susan-m-gordon
     note: "Gordon served as deputy director of NGA before becoming PDDNI"
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
 Listed among the "program administrator" agencies of Gerb's [[ufo-legacy-programs|legacy
-program pyramid]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 5:18–5:50)*
+program pyramid]]. *([gerb/mitre](../raw/gerb/mitre.md) 5:18–5:50)*
 
 ## Claims
 
 - [[susan-m-gordon]] served as NGA deputy director prior to becoming Principal Deputy Director
-  of National Intelligence (PDDNI) in 2017. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:42:04–1:42:13)*
+  of National Intelligence (PDDNI) in 2017. *([gerb/mitre](../raw/gerb/mitre.md) 1:42:04–1:42:13)*
 
 ## Relationships
 

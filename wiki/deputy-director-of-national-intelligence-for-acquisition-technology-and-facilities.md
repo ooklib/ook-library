@@ -14,7 +14,7 @@ relations:
   - relation: employed_by
     target: dawn-meyerriecks
 sources:
-  - file: raw/GM1Qx9vuo2c_nro.md
+  - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
@@ -24,7 +24,7 @@ GAO report ("Defense Space Acquisitions: Too Early to Determine if Recent Change
 Persistent Fragmentation in Management and Oversight"), the DDNI ATNF and its DoD counterpart
 share joint milestone decision authority over major National Intelligence Program-funded
 acquisition programs, including at the [[national-reconnaissance-office|NRO]], and can delegate
-decision authority to the NRO director. *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:26:54–2:27:52)*
+decision authority to the NRO director. *([gerb/nro](../raw/gerb/nro.md) 2:26:54–2:27:52)*
 
 ## Claims
 
@@ -32,7 +32,7 @@ decision authority to the NRO director. *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:26:
   the NRO, CIA DS&T, and/or [[cia-office-of-global-access|CIA OGA]] — a pattern he treats as
   evidence of a UFO-legacy-program gatekeeper nexus: [[doug-wolf|Doug Wolf]], [[mark-moyahan|Mark
   Moyahan]], and [[dawn-meyerriecks|Dawn Meyerriecks]] ("Myrix"/"Merrick").
-  *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:28:20–2:33:03)*
+  *([gerb/nro](../raw/gerb/nro.md) 2:28:20–2:33:03)*
 
 ## Relationships
 

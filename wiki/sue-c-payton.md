@@ -13,16 +13,16 @@ relations:
     target: saf-aq
     note: "SECAF ATNL, 2006-2009"
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
-  - file: raw/-IXSZe4xVv4_hidden_wing.md
+  - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Assistant Secretary of the Air Force for Acquisition Sue C. Payton is cited as a former
 [[deputy-under-secretary-of-defense-advanced-systems-and-concepts|DUSD ASC]] appointee who
 worked as a manager of advanced technology at [[lockheed-martin|Lockheed Martin]] before her
-DoD service. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:00:16–1:00:32)*
+DoD service. *([gerb/saic](../raw/gerb/saic.md) 1:00:16–1:00:32)*
 
 ## Claims (from the Hidden Wing video)
 
@@ -33,7 +33,7 @@ DoD service. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:00:16–1:00:32)*
   of advanced technology in the office of the VP of Lockheed Martin. Gerb cites her (alongside
   [[lawrence-j-delaney|Lawrence J. Delaney]]) as one of 8 of 14 past SAF/AQ heads with a
   pre-government career at a contractor/FFRDC he has separately accused of UFO legacy-program
-  involvement. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 41:58–42:51)*
+  involvement. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 41:58–42:51)*
 
 ## Relationships
 

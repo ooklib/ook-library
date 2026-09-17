@@ -11,24 +11,24 @@ relations:
     target: mitre-corporation
     note: "MITRE was explicitly modeled after RAND"
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
 RAND Corporation is an FFRDC created to answer Air Force air-defense and systems-engineering
 needs, entrusted with sensitive US defense secrets, with no capital stock, no profit motive,
-and no hardware to sell. *([mitre](../raw/107BtDYhTkA_mitre.md) 32:28–32:48)*
+and no hardware to sell. *([gerb/mitre](../raw/gerb/mitre.md) 32:28–32:48)*
 
 ## Claims
 
 - MIT Lincoln Labs and the Air Force modeled [[mitre-corporation|MITRE]] directly after RAND.
-  *([mitre](../raw/107BtDYhTkA_mitre.md) 32:20–32:36)*
+  *([gerb/mitre](../raw/gerb/mitre.md) 32:20–32:36)*
 - The Air Force has direct influence over who staffs Project RAND, making it effectively "an
   R&D extension arm of the Air Force," barred from competing for other contracts.
-  *([mitre](../raw/107BtDYhTkA_mitre.md) 2:06:56–2:07:11)*
+  *([gerb/mitre](../raw/gerb/mitre.md) 2:06:56–2:07:11)*
 - Gerb lists RAND alongside DOE/NSA national labs and MIT Lincoln Lab as FFRDCs central to the
   broader legacy-program architecture, though his specific two-program allegation in this video
-  is about MITRE, not RAND. *([mitre](../raw/107BtDYhTkA_mitre.md) 2:00:23–2:00:52)*
+  is about MITRE, not RAND. *([gerb/mitre](../raw/gerb/mitre.md) 2:00:23–2:00:52)*
 
 ## Relationships
 

@@ -17,7 +17,7 @@ relations:
     target: central-intelligence-agency
     note: "deputy associate director for military affairs; deputy CIA rep to the joint chiefs; deputy director, WINPAC"
 sources:
-  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+  - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
@@ -26,7 +26,7 @@ administration, but from 2014 to 2017 served as Deputy Director of National Inte
 Intelligence Integration under [[james-clapper|James Clapper]], leading integration of the US
 intelligence community's 16 agencies and personally briefing President Obama on intelligence
 matters. He moved from ODNI to [[northrop-grumman|Northrop Grumman]] as vice president for
-government affairs. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 2:29:22–2:30:00)*
+government affairs. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:29:22–2:30:00)*
 
 ## Claims
 
@@ -35,22 +35,19 @@ government affairs. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 2:29:22
   [[stephanie-osullivan|Stephanie O'Sullivan]]. Gerb states Dempsey "worked directly with Clapper
   on the UFO crash retrieval issue," and if anyone partially briefed Obama on UFOs during or after
   his presidency, "it would have been Dempsey at the behest of Clapper."
-  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 2:29:57–2:30:32)*
+  *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:29:57–2:30:32)*
 - Prior CIA career: deputy associate director for military affairs; deputy CIA representative to
   the Joint Chiefs of Staff; deputy director of the CIA's Weapons Intelligence, Nonproliferation,
   and Arms Control Center (WINPAC), which per journalist Christopher Sharp evolved into today's
   Weapons and Counterproliferation Mission Center (WCPMC), which "produces coordinated assessments
   for senior policy makers on foreign advanced weapon systems and technologies across the space,
-  air, land, sea, and undersea domains, including UAP." *([northrop-trw](../raw/
-  0kLSp0lH-JQ_northrop_trw.md) 2:30:47–2:31:39)*
+  air, land, sea, and undersea domains, including UAP." *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:30:47–2:31:39)*
 - Gerb speculates Dempsey, O'Sullivan, and Clapper may have crossed paths on the UFO issue in the
   early 2000s via [[sri-international|SRA International]] (a Clapper 1998–2001 private-sector
   employer that supported CIA WINPAC on classified intelligence/information-systems work),
-  though the timing of Dempsey's WINPAC tenure is unconfirmed. *([northrop-trw](../raw/
-  0kLSp0lH-JQ_northrop_trw.md) 2:31:45–2:32:21)*
+  though the timing of Dempsey's WINPAC tenure is unconfirmed. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:31:45–2:32:21)*
 - Gerb theorizes Dempsey's Northrop Grumman/CIA/ODNI ties connect to a broader "weird operation"
-  he alleges extends to Luis Elizondo and the "fake ATIP program." *([northrop-trw](../raw/
-  0kLSp0lH-JQ_northrop_trw.md) 2:30:32–2:30:47)*
+  he alleges extends to Luis Elizondo and the "fake ATIP program." *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:30:32–2:30:47)*
 
 ## Relationships
 

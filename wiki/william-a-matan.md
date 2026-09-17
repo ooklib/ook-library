@@ -10,14 +10,14 @@ relations:
   - relation: coincides_with
     target: robertson-panel-1953
 sources:
-  - file: raw/GM1Qx9vuo2c_nro.md
+  - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 Air Force Brigadier General (then Colonel), commander of the 45th Air Defense Division, who
 proposed the original "Project Pounce" concept shortly after 2 August 1952, following saucer
 sightings over Albuquerque, New Mexico and Kirtland Air Force Base — per Edward J. Ruppelt's 1956
-book *The Report on Unidentified Flying Objects*. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+book *The Report on Unidentified Flying Objects*. *([gerb/nro](../raw/gerb/nro.md)
 1:41:10–1:42:09)*
 
 ## Claims
@@ -26,10 +26,10 @@ book *The Report on Unidentified Flying Objects*. *([nro](../raw/GM1Qx9vuo2c_nro
   carrying special cameras, stationed where UFOs were most frequently seen, for the specific
   purpose of photographing UFOs — essentially an IMINT-tasked mission. The plan was shelved not
   for being far-fetched but because high command couldn't spare 12 F-94Cs.
-  *([nro](../raw/GM1Qx9vuo2c_nro.md) 1:42:09–1:42:28)*
+  *([gerb/nro](../raw/gerb/nro.md) 1:42:09–1:42:28)*
 - Gerb theorizes this original Matan proposal was the seed later expanded into the NRO-era
   [[project-pounce|Project Pounce]] retrieval task force described by
-  [[colonel-steve-wilson|Colonel Steve Wilson]]. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+  [[colonel-steve-wilson|Colonel Steve Wilson]]. *([gerb/nro](../raw/gerb/nro.md)
   1:42:28–1:43:10)*
 
 ## Relationships

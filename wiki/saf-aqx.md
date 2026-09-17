@@ -7,7 +7,7 @@ relations:
   - relation: part_of
     target: saf-aq
 sources:
-  - file: raw/-IXSZe4xVv4_hidden_wing.md
+  - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
@@ -18,13 +18,13 @@ reporting, structure and execution," providing continuous process-improvement su
 consolidating requests for release of funds, reviewing program performance metrics, and ensuring
 consistent implementation of acquisition policies — an administration/oversight role rather than
 a technical one, in contrast to [[saf-aql|AQL]] and [[saf-aqr|AQR]].
-*([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 49:11–50:42)*
+*([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 49:11–50:42)*
 
 ## Claims
 
 - In his closing summary, Gerb states that of the AQL/AQX/AQR trio, some testimony he has
   personally gathered has "directly named" AQX specifically in connection with legacy-program
-  activity. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 3:20:41–3:21:13)*
+  activity. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 3:20:41–3:21:13)*
 
 ## Relationships
 

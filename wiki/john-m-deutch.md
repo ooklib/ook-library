@@ -26,42 +26,42 @@ relations:
     target: los-alamos-national-laboratory
     note: "consultant, pre-SAPOC"
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
-  - file: raw/GM1Qx9vuo2c_nro.md
+  - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 John M. Deutch chaired the [[special-access-program-oversight-committee|SAPOC]] during
 [[paul-kaminski]]'s tenure and also served as Secretary of Defense. Gerb notes he served on
 [[mitre-corporation|MITRE]]'s board both before and during his time as SAPOC chair and SecDef.
-*([mitre](../raw/107BtDYhTkA_mitre.md) 1:46:18–1:46:36)*
+*([gerb/mitre](../raw/gerb/mitre.md) 1:46:18–1:46:36)*
 
 ## Claims (from the SAIC video)
 
 - Career: Under Secretary of Defense under President Carter; CIA director under President
   Clinton; professor at MIT; multiple DOE positions; and (per Wilson's testimony) director of
-  [[central-intelligence-agency|CIA]]. *([saic](../raw/9p99lTsC7wQ_saic.md) 9:13–9:20,
+  [[central-intelligence-agency|CIA]]. *([gerb/saic](../raw/gerb/saic.md) 9:13–9:20,
   38:11–38:18)*
 - Immediately pre-SAPOC-chair, served as Under Secretary of Defense for Acquisition and
   Technology (USD A&T) — the same office [[thomas-wilson|VADM Wilson]] learned held UFO legacy
   files — before being succeeded in that role by [[paul-kaminski|Paul Kaminski]].
-  *([saic](../raw/9p99lTsC7wQ_saic.md) 37:49–37:56, 39:32–39:49)*
+  *([gerb/saic](../raw/gerb/saic.md) 37:49–37:56, 39:32–39:49)*
 - Did **not** himself restructure SAPOC as Deputy Secretary of Defense — that was done by his
   predecessor, [[bill-perry|William Perry]] — but Deutch "immediately followed suit," inheriting
-  the SAPOC chair role. *([saic](../raw/9p99lTsC7wQ_saic.md) 37:36–37:49)*
+  the SAPOC chair role. *([gerb/saic](../raw/gerb/saic.md) 37:36–37:49)*
 - Pre-SAPOC work, consulted for TRW, [[los-alamos-national-laboratory|Los Alamos]], and
   [[mitre-corporation|MITRE]] — three institutions Gerb directly accuses of UFO program
-  involvement. *([saic](../raw/9p99lTsC7wQ_saic.md) 38:18–38:26)*
+  involvement. *([gerb/saic](../raw/gerb/saic.md) 38:18–38:26)*
 - Pre-1995, possibly during his DepSecDef tenure, served as director of
   [[science-applications-international-corporation|SAIC]] and worked in SAIC's La Jolla office
   — the same office where [[denise-mckenzie|Denise McKenzie]] worked.
-  *([saic](../raw/9p99lTsC7wQ_saic.md) 38:34–38:51)*
+  *([gerb/saic](../raw/gerb/saic.md) 38:34–38:51)*
 - Gerb frames Deutch, alongside [[bill-perry|William Perry]] (also a former SAIC board member),
   as evidence of a "pattern" — not coincidence — of SAIC-linked personnel driving the 1994 SAP
-  gatekeeping reforms. *([saic](../raw/9p99lTsC7wQ_saic.md) 39:14–39:32,
+  gatekeeping reforms. *([gerb/saic](../raw/gerb/saic.md) 39:14–39:32,
   2:09:38–2:09:55)*
 
 - As CIA director, forced the resignation of NRO director Harris and Deputy Director Hill in 1995
@@ -69,7 +69,7 @@ John M. Deutch chaired the [[special-access-program-oversight-committee|SAPOC]] 
   appropriations) — a possible conflict of interest, given Deutch's own prior OUSDAT tenure during
   the period the [[wilson-davis-notes]] describe UFO legacy-program gatekeeping being
   strengthened. Named among Gerb's 13 alleged NRO-linked gatekeepers.
-  *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:20:58–2:22:03, 2:50:59–2:51:14)*
+  *([gerb/nro](../raw/gerb/nro.md) 2:20:58–2:22:03, 2:50:59–2:51:14)*
 
 ## Relationships
 

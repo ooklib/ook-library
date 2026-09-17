@@ -11,7 +11,7 @@ relations:
     target: decision-science-applications
     note: "traces back through Emergent Information Technologies/Steven Meyers/DSA Acquisitions to DSAI"
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
@@ -19,7 +19,7 @@ Agility spun off from L3 Communications (later [[l3harris|L3Harris]]) in July 20
 back through Emergent Information Technologies and Steven Meyers and Associates to
 [[decision-science-applications|DSAI]]. Purchased by
 [[science-applications-international-corporation|SAIC]] for $2.5B in 2018.
-*([saic](../raw/9p99lTsC7wQ_saic.md) 16:24–16:52)*
+*([gerb/saic](../raw/gerb/saic.md) 16:24–16:52)*
 
 ## Relationships
 

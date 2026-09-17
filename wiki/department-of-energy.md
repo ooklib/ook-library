@@ -18,11 +18,11 @@ relations:
     target: atomic-energy-commission
     note: "DOE (1977-) succeeds the AEC (1946-1974) via the intermediate ERDA"
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
-  - file: raw/mHkPHd_eOXI_sandia.md
+  - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
-  - file: raw/jR-h5p2bd-A_secrecy_1.md
+  - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
@@ -30,18 +30,18 @@ The Department of Energy (created 1977, successor via ERDA to the
 [[atomic-energy-commission|Atomic Energy Commission]]) is described as present in every layer of
 Gerb's [[ufo-legacy-programs|legacy program pyramid]], with statutory Special Access Program
 authority that evades unilateral oversight from the standard US classification system.
-*([mitre](../raw/107BtDYhTkA_mitre.md) 6:16–6:30)*
+*([gerb/mitre](../raw/gerb/mitre.md) 6:16–6:30)*
 
 ## Claims
 
 - Predecessor Atomic Energy Commission allegedly designated as custodian of recovered nonhuman
   technical vehicles by classified 1948 presidential executive orders, with National Labs
-  (Los Alamos, Sandia, Oak Ridge) as the physical custodians. *([mitre](../raw/107BtDYhTkA_mitre.md) 19:45–20:05, 2:06:33–2:06:47)*
+  (Los Alamos, Sandia, Oak Ridge) as the physical custodians. *([gerb/mitre](../raw/gerb/mitre.md) 19:45–20:05, 2:06:33–2:06:47)*
 - Protected under 1954 Atomic Energy Act statutory authority that cannot be unilaterally
   declassified by the president — cited as the reason recovered materials would go to DOE/NSA
-  National Lab FFRDCs rather than directly to private contractors. *([mitre](../raw/107BtDYhTkA_mitre.md) 27:00–27:22)*
+  National Lab FFRDCs rather than directly to private contractors. *([gerb/mitre](../raw/gerb/mitre.md) 27:00–27:22)*
 - Its "mission orientation" within UFO activities is characterized by Gerb as focused on power
-  and propulsion, distinct from MITRE's technology-exploitation focus. *([mitre](../raw/107BtDYhTkA_mitre.md) 48:08–48:33)*
+  and propulsion, distinct from MITRE's technology-exploitation focus. *([gerb/mitre](../raw/gerb/mitre.md) 48:08–48:33)*
 - DOE's semi-autonomous [[national-nuclear-security-administration|National Nuclear Security
   Administration]] (est. 2000) sponsors three "multi-mission laboratory" FFRDCs —
   [[sandia-national-laboratories|Sandia]], [[los-alamos-national-laboratory|Los Alamos]], and
@@ -49,7 +49,7 @@ authority that evades unilateral oversight from the standard US classification s
   [[nevada-national-security-site|Nevada National Security Site]]; Gerb argues DOE's Office of
   Intelligence and Counter Intelligence (OICI, "DOE INT") uses transclassified foreign nuclear
   information and "non-contract" foreign intelligence information caveats to keep UFO materials
-  in FFRDC rather than contractor hands. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 1:15:52–1:17:19,
+  in FFRDC rather than contractor hands. *([gerb/sandia](../raw/gerb/sandia.md) 1:15:52–1:17:19,
   1:24:04–1:25:35)*
 
 ## Claims (from the "Secrecy" Vol. 1 video)
@@ -61,7 +61,7 @@ authority that evades unilateral oversight from the standard US classification s
   UAP Gerb argues this is precisely why DOE is "baked into every single layer" of the legacy
   program structure, from day-to-day test-and-evaluation involvement on the Edwards 412th Test
   Wing to working alongside the Air Force Rapid Capabilities Office on legacy administrative
-  properties. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:09:56–1:11:34)*
+  properties. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:09:56–1:11:34)*
 
 ## Relationships
 

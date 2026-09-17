@@ -11,7 +11,7 @@ relations:
     target: terry-phillips
     note: "Gerb: works under Phillips in Northrop's security apparatus"
 sources:
-  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+  - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
@@ -20,7 +20,7 @@ John C. Freestone has been a security manager and later director at
 [[terry-phillips|Terry Phillips]] within Northrop's security apparatus. Freestone described
 Northrop's mission systems sector — the former [[trw|TRW]] business, now led by
 [[donald-c-winter|Donald C. Winter]] — as "the coolest and most dynamic portfolio in the
-company." *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 43:43–43:51, 2:21:36–2:22:04)*
+company." *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 43:43–43:51, 2:21:36–2:22:04)*
 
 ## Claims
 
@@ -28,11 +28,11 @@ company." *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 43:43–43:51, 2:
   integrate physical, cyber, and insider risk disciplines into a unified enterprise security
   posture" and "experience protecting mission-critical infrastructure." Gerb is particularly
   intrigued by Freestone's stated expertise in insider-risk disciplines.
-  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 2:22:04–2:23:19)*
+  *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:22:04–2:23:19)*
 - Gerb theorizes Freestone is "a paramount executive safeguarding deep-sixed UFO legacy
   activities" under Phillips, citing his two-and-a-half-decade Northrop tenure predating the TRW
   merger, though Gerb notes this remains "just a theory."
-  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 2:22:35–2:23:35)*
+  *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:22:35–2:23:35)*
 
 ## Relationships
 

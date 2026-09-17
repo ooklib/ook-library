@@ -30,55 +30,55 @@ relations:
     target: manhattan-project-2
     note: "Gerb: treats this as the founding event of the alleged 'Manhattan Project 2.0'"
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
-  - file: raw/mHkPHd_eOXI_sandia.md
+  - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
-  - file: raw/jR-h5p2bd-A_secrecy_1.md
+  - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
 with onboard nonhuman biologics — is treated by Gerb as the foundational event that set off the
 entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
-*([mitre](../raw/107BtDYhTkA_mitre.md) 1:00:51–1:01:26)*
+*([gerb/mitre](../raw/gerb/mitre.md) 1:00:51–1:01:26)*
 
 ## Claims
 
 - Prior alleged UFO crash retrievals (e.g. 1933 Magenta, Italy) are assessed by Gerb as most
   likely unmanned craft; Roswell is treated as the pivotal, program-launching event.
-  *([mitre](../raw/107BtDYhTkA_mitre.md) 1:01:02–1:01:11)*
+  *([gerb/mitre](../raw/gerb/mitre.md) 1:01:02–1:01:11)*
 - Wreckage allegedly transferred to [[wright-patterson-air-force-base|Wright-Patterson AFB]],
   HQ of Air Materiel Command (AMC) and Air Research and Development Command (ARDC), forerunners
-  of the modern [[air-force-material-command|Air Force Materiel Command]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:01:26–1:01:50)*
+  of the modern [[air-force-material-command|Air Force Materiel Command]]. *([gerb/mitre](../raw/gerb/mitre.md) 1:01:26–1:01:50)*
 - Recovered vehicles allegedly housed largely at Atomic Energy Commission National Labs and
-  studied under [[vannevar-bush]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:01:50–1:02:10)*
+  studied under [[vannevar-bush]]. *([gerb/mitre](../raw/gerb/mitre.md) 1:01:50–1:02:10)*
 - Ten years after Roswell (~1957), assessments allegedly deemed certain onboard technologies
   "exploitable," directly preceding [[mitre-corporation|MITRE's]] 1958 founding — Gerb's central
-  "10-year anniversary" thesis for MITRE's true founding purpose. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:02:10–1:02:36,
+  "10-year anniversary" thesis for MITRE's true founding purpose. *([gerb/mitre](../raw/gerb/mitre.md) 1:02:10–1:02:36,
   2:04:06–2:04:23)*
 - Between 1949–1954, Gerb alleges a series of classified presidential executive orders
   relegated custody of recovered discs predominantly to Atomic Energy Commission National Labs
-  (Los Alamos, Sandia, Oak Ridge). *([mitre](../raw/107BtDYhTkA_mitre.md) 2:06:33–2:06:47)*
+  (Los Alamos, Sandia, Oak Ridge). *([gerb/mitre](../raw/gerb/mitre.md) 2:06:33–2:06:47)*
 - [[philip-j-corso]]'s manuscript *Dawn of a New Age* claims the Army's Foreign Technology
   Division under Gen. [[arthur-trudeau]] was separately mandated to seed Roswell-derived
   technology concepts into US industry (night vision, fiber optics, brain-machine interfaces,
-  electromagnetic/anti-gravity propulsion) starting around 1958. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:04:16–1:05:14,
+  electromagnetic/anti-gravity propulsion) starting around 1958. *([gerb/mitre](../raw/gerb/mitre.md) 1:04:16–1:05:14,
   2:07:36–2:08:26)*
 - Gerb argues the Army pursued this aggressively/directly via Corso's division, while the Air
   Force and Navy took "a far more conservative approach" via the newly formed MITRE.
-  *([mitre](../raw/107BtDYhTkA_mitre.md) 2:08:41–2:09:35)*
+  *([gerb/mitre](../raw/gerb/mitre.md) 2:08:41–2:09:35)*
 
 ## Claims (from the SAIC video)
 
 - Named alongside [[battelle-memorial-institute|Battelle Memorial Institute]]'s declassified
   studies of shape-memory alloys as a possible technology-origin case Gerb accuses defense
-  contractors/FFRDCs of exploiting. *([saic](../raw/9p99lTsC7wQ_saic.md) 3:20–3:34)*
+  contractors/FFRDCs of exploiting. *([gerb/saic](../raw/gerb/saic.md) 3:20–3:34)*
 - Cited as the intended source material for the Army's [[philip-j-corso|Corso]]-era brainwave-
   guided-missile project (started 1961), based on official Roswell files allegedly showing
-  onboard biologics were part of the craft's guidance system. *([saic](../raw/9p99lTsC7wQ_saic.md)
+  onboard biologics were part of the craft's guidance system. *([gerb/saic](../raw/gerb/saic.md)
   1:39:34–1:40:09)*
 
 ## Claims (from the Sandia video)
@@ -89,18 +89,16 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
   for [[vannevar-bush|Vannevar Bush]]; a classified 1948 executive order allegedly vested custody
   in AEC-owned civilian labs (Los Alamos, the soon-independent
   [[sandia-national-laboratories|Sandia]]), assisted by Air Force Systems Command, the Naval
-  Research Lab, and Bush's Research and Development Board. *([sandia](../raw/mHkPHd_eOXI_
-  sandia.md) 24:06–28:49)*
+  Research Lab, and Bush's Research and Development Board. *([gerb/sandia](../raw/gerb/sandia.md) 24:06–28:49)*
 - The disputed Eisenhower Briefing Document (first alleged [[majestic-12|MJ-12]] leak) states
   materials from a separate 6 December 1950 Del Rio/Eldorado, TX crash retrieval were
-  transported to "the atomic energy facility at Sandia" for study. *([sandia](../raw/mHkPHd_eOXI_
-  sandia.md) 36:50–37:29)*
+  transported to "the atomic energy facility at Sandia" for study. *([gerb/sandia](../raw/gerb/sandia.md) 36:50–37:29)*
 - The disputed Interplanetary Phenomenon Unit (IPU) report (dated July 1947) describes a New
   Mexico recovery operation secured by a Sandia Base security detail under
   [[armed-forces-special-weapons-project|AFSWP]] Col. Sherman V. Hasbrouck, alongside a
   radiobiological team and a Manhattan Project-linked Special Engineering Detachment; it also
   claims three Sandia technicians died of ambiguous contamination during the operation.
-  *([sandia](../raw/mHkPHd_eOXI_sandia.md) 38:12–41:20)*
+  *([gerb/sandia](../raw/gerb/sandia.md) 38:12–41:20)*
 
 ## Claims (from the "Secrecy" Vol. 1 video)
 
@@ -108,7 +106,7 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
   crashes in the late 1940s–early 1950s) as the event that kicked the alleged "Manhattan Project
   2.0" security apparatus into gear, distinguishing it from earlier, less consequential claimed
   retrievals like the [[magenta-italy-crash-1933|1933 Magenta, Italy]] case.
-  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 34:19–34:34)*
+  *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 34:19–34:34)*
 - A disputed [[interplanetary-phenomenon-unit|Interplanetary Phenomenon Unit]] report dated 22
   July 1947 states a "Colonel Housebrook" of the
   [[armed-forces-special-weapons-project|Armed Forces Special Weapons Project]] — a real Army
@@ -117,10 +115,9 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
   the immediate Roswell crash area; the same report names
   [[george-c-marshall|George C. Marshall]] (then Secretary of State) as the only cabinet member
   briefed on the crashed UFOs, with [[j-robert-oppenheimer|J. Robert Oppenheimer]] among the
-  Atomic Energy Commission scientists placed on the retrieval team. *([secrecy-1](../raw/
-  jR-h5p2bd-A_secrecy_1.md) 2:08:51–2:10:00)*
+  Atomic Energy Commission scientists placed on the retrieval team. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 2:08:51–2:10:00)*
 - UAP Gerb frames 1947–1954 as the roughly seven-year formation/maturation period of the entire
-  alleged Manhattan Project 2.0 apparatus. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md)
+  alleged Manhattan Project 2.0 apparatus. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md)
   36:08–36:21)*
 
 ## Relationships

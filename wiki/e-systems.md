@@ -17,9 +17,9 @@ relations:
     target: colonel-steve-wilson
     note: "named as builder of the NRO Delta detachment's alleged EMP 'equalizer' weapon"
 sources:
-  - file: raw/GM1Qx9vuo2c_nro.md
+  - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
-  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+  - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
@@ -28,7 +28,7 @@ Ling-Temco-Vought (LTV), later LTV Electrosystems. In the 1970s it renamed to E-
 *Washington Post* labeled "part of the central nervous system for the nation's intelligence
 community" and the *New York Times* called a "CIA front company" in the 1970s; it was a critical
 SIGINT/IMINT contractor for the CIA, NSA, and NRO. Raytheon acquired E-Systems in 1995, renaming
-it Raytheon Intelligence and Information Systems. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+it Raytheon Intelligence and Information Systems. *([gerb/nro](../raw/gerb/nro.md)
 1:33:39–1:35:34)*
 
 ## Claims
@@ -38,11 +38,11 @@ it Raytheon Intelligence and Information Systems. *([nro](../raw/GM1Qx9vuo2c_nro
   extreme microwave energy to shoot down UFOs — for the alleged NRO "Delta" detachment of
   [[project-pounce|Project Pounce]]. Gerb cannot confirm this but notes LTV's 1961 founding date
   parallels the ~1959–1961 founding window of [[mitre-corporation|MITRE]] and the
-  [[aerospace-corporation|Aerospace Corporation]] FFRDCs. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+  [[aerospace-corporation|Aerospace Corporation]] FFRDCs. *([gerb/nro](../raw/gerb/nro.md)
   1:32:11–1:34:37)*
 
 - [[edward-c-aldridge|Edward C. Aldridge]] served as a senior manager at LTV Aerospace, the
-  predecessor to E-Systems. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md)
+  predecessor to E-Systems. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md)
   58:44–59:00)*
 - A 5 April 1982 CIA DS&T memorandum ("CIA Interference with DoD Tri-Services Committee re:
   Industrial Contractors' Negotiation of Advance Agreement on Independent Research and
@@ -50,7 +50,7 @@ it Raytheon Intelligence and Information Systems. *([nro](../raw/GM1Qx9vuo2c_nro
   [[trw|TRW]], Lockheed Missiles and Space Company, Rockwell, and Harris — into DS&T's specific
   areas of need, bypassing CIA "seed money" placed through the Office of Research and Development.
   Gerb reads this as likely evidence these contractors misappropriated IRAD funds for the CIA
-  DS&T. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 2:10:45–2:12:14)*
+  DS&T. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:10:45–2:12:14)*
 
 ## Relationships
 

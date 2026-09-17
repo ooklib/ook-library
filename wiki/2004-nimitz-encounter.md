@@ -12,7 +12,7 @@ relations:
     target: tic-tac-factory-uso
     note: "Gerb draws a parallel, though the incidents occurred near San Diego, not the Bahamas"
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
@@ -25,14 +25,14 @@ maneuvers, following two weeks of radar/sensor detections of objects descending 
 
 - Cdr. [[david-fravor]]'s testimony: the tic-tac object dropped from thousands of feet to sea
   level at incomprehensible speed, with apparent evidence of "some large object ... under the
-  water churning the surface of the ocean." *([mitre](../raw/107BtDYhTkA_mitre.md) 1:26:20–1:26:45)*
+  water churning the surface of the ocean." *([gerb/mitre](../raw/gerb/mitre.md) 1:26:20–1:26:45)*
 - Additional testimony cited from Senior Chief Wiggins: a self-luminous tic-tac-shaped object
   emerged from the ocean, linked up with three other similar objects, then all four
   disappeared simultaneously with high, synchronized, near-instantaneous acceleration, with no
-  sonic boom or conventional propulsion signatures. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:27:41–1:28:19)*
+  sonic boom or conventional propulsion signatures. *([gerb/mitre](../raw/gerb/mitre.md) 1:27:41–1:28:19)*
 - Gerb explicitly draws a parallel between this incident and the alleged
   [[tic-tac-factory-uso|Tic Tac Factory]] near the Bahamas, while noting the Nimitz incidents
-  occurred near San Diego, a different location. *([mitre](../raw/107BtDYhTkA_mitre.md) 2:12:29–2:12:45)*
+  occurred near San Diego, a different location. *([gerb/mitre](../raw/gerb/mitre.md) 2:12:29–2:12:45)*
 
 ## Relationships
 

@@ -14,7 +14,7 @@ relations:
     target: david-grush
     note: "outspoken advocate for Grush's NHI claims"
 sources:
-  - file: raw/X6JfbfmvgMo_lockheed.md
+  - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
@@ -23,16 +23,16 @@ nonhuman-intelligence claims, stating "there is zero doubt" NHI exists and has b
 with humanity. Gerb notes Nell's confidence may be informed by his 13 years as Northrop Grumman's
 deputy CTO and director of systems engineering/integration, and 2 years as a senior Lockheed
 Martin systems engineer responsible for "mission-critical operations of a sophisticated national
-satellite constellation." *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:19:41–2:20:53)*
+satellite constellation." *([gerb/lockheed](../raw/gerb/lockheed.md) 2:19:41–2:20:53)*
 
 ## Claims
 
 - While Northrop's deputy CTO, also served as command representative to US CENTCOM for the Army
-  Foreign Material Program. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:20:53–2:21:05)*
+  Foreign Material Program. *([gerb/lockheed](../raw/gerb/lockheed.md) 2:20:53–2:21:05)*
 - At the 2025 Archives of the Impossible Convention, discussed UAP/NHI in terms of consciousness
   and "expanded science," arguing agnosticism toward these topics is "not a viable worldview" —
   echoing themes [[james-t-ryder|James Ryder]] raised in his own post-Lockheed public talks.
-  *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:21:05–2:22:29)*
+  *([gerb/lockheed](../raw/gerb/lockheed.md) 2:21:05–2:22:29)*
 
 ## Relationships
 

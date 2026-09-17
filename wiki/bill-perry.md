@@ -16,11 +16,11 @@ relations:
     target: national-reconnaissance-office
     note: "1955-1997; chaired the 'Perry Panel' advising Program B on overhead SIGINT"
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
-  - file: raw/GM1Qx9vuo2c_nro.md
+  - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
@@ -28,21 +28,21 @@ William (Bill) Perry, as Secretary of Defense, enacted 1994 reforms significantl
 DoD SAP management/control structures — specifically the
 [[special-access-program-oversight-committee|SAPOC]] and its Senior Review Group — restricting
 temporary-employee and non-need-to-know access. Gerb believes this was directly tied to
-protecting UFO programs. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:44:52–1:45:32)*
+protecting UFO programs. *([gerb/mitre](../raw/gerb/mitre.md) 1:44:52–1:45:32)*
 
 ## Claims
 
 - Gerb cites the "Wilson–Davis notes" as discussing Perry, [[paul-kaminski]], and this 1994 SAP
-  reorganization, which he believes are substantially accurate. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:45:32–1:45:50)*
+  reorganization, which he believes are substantially accurate. *([gerb/mitre](../raw/gerb/mitre.md) 1:45:32–1:45:50)*
 - Per the SAIC investigation: as Deputy Secretary of Defense, conducted the actual 5 January
   1994 SAPOC/SRG restructuring (later inherited by [[john-m-deutch|John Deutch]] as chair); once
   served on [[science-applications-international-corporation|SAIC]]'s board — which Gerb calls
   "once could be chance, two is a pattern" given Deutch's parallel SAIC ties.
-  *([saic](../raw/9p99lTsC7wQ_saic.md) 37:36–37:56, 39:14–39:32)*
+  *([gerb/saic](../raw/gerb/saic.md) 37:36–37:56, 39:14–39:32)*
 
 - Served at the NRO 1955–1997, where he chaired the "Perry Panel" advising NRO Program B on
   overhead SIGINT collection systems, ground-based at [[pine-gap-australia|Pine Gap, Australia]].
-  Named among Gerb's 13 alleged NRO-linked gatekeepers. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+  Named among Gerb's 13 alleged NRO-linked gatekeepers. *([gerb/nro](../raw/gerb/nro.md)
   2:22:23–2:22:52, 2:50:59–2:51:14)*
 
 ## Relationships

@@ -15,38 +15,38 @@ relations:
   - relation: mission_partner_of
     target: national-reconnaissance-office
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
-  - file: raw/GM1Qx9vuo2c_nro.md
+  - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 Joint Special Operations Command. Gerb and journalist [[chris-sharp]] have accused JSOC
 elements of participating in foreign UFO crash-retrieval operations alongside the
-[[cia-office-of-global-access|CIA's Office of Global Access]]. *([saic](../raw/9p99lTsC7wQ_saic.md)
+[[cia-office-of-global-access|CIA's Office of Global Access]]. *([gerb/saic](../raw/gerb/saic.md)
 1:43:45–1:43:54)*
 
 ## Claims
 
 - The Intelligence Support Activity (ISA), initially commanded by [[albert-stubblebine|Maj.
   Gen. Albert Stubblebine]]'s [[army-intelligence-and-security-command|INSCOM]], was later
-  moved to JSOC. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:43:34–1:43:45)*
+  moved to JSOC. *([gerb/saic](../raw/gerb/saic.md) 1:43:34–1:43:45)*
 - Linked (as "JOCK"/"J-Sock") to alleged UFO crash-retrieval elements in
   [[naval-surface-warfare-center-crane|NSWC Crane]] contracting via a "joint special operations
-  response department." *([saic](../raw/9p99lTsC7wQ_saic.md) 1:59:28–1:59:43)*
+  response department." *([gerb/saic](../raw/gerb/saic.md) 1:59:28–1:59:43)*
 - Named alongside Delta Force in Colonel Steve Wilson's claims about
-  [[project-pounce|Project Pounce]]. *([saic](../raw/9p99lTsC7wQ_saic.md) 12:49–12:56)*
+  [[project-pounce|Project Pounce]]. *([gerb/saic](../raw/gerb/saic.md) 12:49–12:56)*
 
 - Comprises five tier-1 units: Naval Seal Team 6 ("Dev Group"), Army Regimental Reconnaissance
   Company, Air Force 24th Special Tactics Squadron, Delta Force, and the
   [[intelligence-support-activity|Intelligence Support Activity]]. Gerb argues JSOC tier-1
   elements provide direct-action support (securing sites, subduing threats) for crash-retrieval
   teams, alongside ISR from the NRO/NGA/NURO and transport from the
-  [[160th-special-operations-aviation-regiment|160th SOAR]]. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+  [[160th-special-operations-aviation-regiment|160th SOAR]]. *([gerb/nro](../raw/gerb/nro.md)
   1:07:52–1:09:23)*
 - A 2024 anonymous Reddit "ex-OGA contractor" account describes a 24th STS combat controller's
   troop chief being recruited into a siloed, umbrella-authority tier-1 crash-retrieval task force
-  separate from normal JSOC command. *([nro](../raw/GM1Qx9vuo2c_nro.md) 1:22:47–1:26:05)*
+  separate from normal JSOC command. *([gerb/nro](../raw/gerb/nro.md) 1:22:47–1:26:05)*
 
 ## Relationships
 

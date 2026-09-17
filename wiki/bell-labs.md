@@ -7,19 +7,19 @@ relations:
   - relation: mission_partner_of
     target: sandia-national-laboratories
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
 Bell Labs (AT&T) was the trusted industrial partner Truman turned to in 1949 to help found
 [[sandia-national-laboratories|Sandia]], modeling Sandia's operations after Bell Labs.
-*([mitre](../raw/107BtDYhTkA_mitre.md) 2:05:56–2:06:18)*
+*([gerb/mitre](../raw/gerb/mitre.md) 2:05:56–2:06:18)*
 
 ## Claims
 
 - Gerb also notes Corso-era claims that Roswell-derived technology concepts moved through
   "Sperry Rand, Bell Labs, etc." into Army-sponsored industrial development (see
-  [[philip-j-corso]]). *([mitre](../raw/107BtDYhTkA_mitre.md) 2:08:09–2:08:18)*
+  [[philip-j-corso]]). *([gerb/mitre](../raw/gerb/mitre.md) 2:08:09–2:08:18)*
 
 ## Relationships
 

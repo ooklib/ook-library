@@ -13,20 +13,20 @@ relations:
   - relation: board_member_of
     target: mitre-corporation
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
 Susan M. Gordon served as PDDNI from 2017 to 2019 under [[dan-coats]], succeeding
 [[stephanie-osullivan]]. Gerb lists her among personnel with "uncertain but highly confident"
-legacy ties. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:41:53–1:42:04)*
+legacy ties. *([gerb/mitre](../raw/gerb/mitre.md) 1:41:53–1:42:04)*
 
 ## Claims
 
 - Prior to PDDNI: CIA deputy director for support, director of CIA's Information Operations
   Center, and deputy director of [[national-geospatial-intelligence-agency|NGA]].
-  *([mitre](../raw/107BtDYhTkA_mitre.md) 1:42:04–1:42:13)*
-- Now serves on [[mitre-corporation|MITRE]]'s board of trustees. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:42:13–1:42:24)*
+  *([gerb/mitre](../raw/gerb/mitre.md) 1:42:04–1:42:13)*
+- Now serves on [[mitre-corporation|MITRE]]'s board of trustees. *([gerb/mitre](../raw/gerb/mitre.md) 1:42:13–1:42:24)*
 
 ## Relationships
 

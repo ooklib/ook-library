@@ -13,8 +13,9 @@ assertions as attributed claims, not established truth.
 
 ## Directory layout
 
-- `raw/<video_id>_<slug>.txt` — immutable source transcripts (YouTube auto-transcripts with
-  timestamps and chapter markers). Never edited by the LLM.
+- `raw/<source>/<slug>.md` — immutable source transcripts (YouTube auto-transcripts with
+  timestamps and chapter markers), grouped into one subdirectory per source/channel (e.g.
+  `raw/gerb/` for UAP Gerb videos). Never edited by the LLM.
 - `wiki/index.md` — catalog of all wiki pages, grouped by kind, one line each.
 - `wiki/log.md` — append-only ingest/query/lint log, `## [YYYY-MM-DD] ingest | Source Title` entries.
 - `wiki/<kebab-case-entity-name>.md` — one file per entity (person, organization, place,
@@ -37,7 +38,7 @@ relations:
   - relation: spun_off_from
     target: mit-lincoln-laboratory
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 ```
@@ -57,10 +58,10 @@ sources:
 - Use `## Claims` or thematic subheadings for substantive assertions, each ending with an
   inline citation that names **both** the source and the timestamp, since the wiki now spans
   multiple raw transcripts and a bare timestamp is ambiguous:
-  `*([mitre](../raw/107BtDYhTkA_mitre.md) 12:07)*` or `*([saic](../raw/9p99lTsC7wQ_saic.md) 5:26)*`.
+  `*([gerb/mitre](../raw/gerb/mitre.md) 12:07)*` or `*([gerb/saic](../raw/gerb/saic.md) 5:26)*`.
   The link text is the source's short key (see registry below); the link target is the raw
   file, so clicking it opens the transcript directly. Multiple citations to the same source in
-  one sentence can share a single tag: `*([saic](../raw/9p99lTsC7wQ_saic.md) 5:26, 6:00)*`.
+  one sentence can share a single tag: `*([gerb/saic](../raw/gerb/saic.md) 5:26, 6:00)*`.
   Pages that draw on only one source may still spell it out on first use per section, but the
   short-key form is preferred everywhere for consistency.
 - Use `## Relationships` to restate the frontmatter relations as prose links, e.g.
@@ -68,9 +69,9 @@ sources:
 - Cross-link liberally with `[[wiki-link]]` (Obsidian-style) using the target's filename stem.
 - Flag speculation explicitly: "UAP Gerb alleges..." / "unverified claim:" rather than stating
   contested claims as fact.
-- **Resolved debt:** pages written during the first ingest (`107BtDYhTkA_mitre.md`) used to
+- **Resolved debt:** pages written during the first ingest (`gerb/mitre.md`) used to
   carry bare timestamps like `*(12:07)*` with no source tag, written before a second source
-  existed. These were all implicitly `mitre` citations and were retrofitted (2026-09-17) to the
+  existed. These were all implicitly `gerb/mitre` citations and were retrofitted (2026-09-17) to the
   tagged format across the whole `wiki/` directory — see `wiki/log.md`. Any new bare timestamp
   found from now on is a bug, not expected debt.
 

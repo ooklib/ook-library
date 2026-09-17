@@ -12,17 +12,17 @@ relations:
   - relation: coincides_with
     target: robertson-panel-1953
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
-  - file: raw/GM1Qx9vuo2c_nro.md
+  - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 [[battelle-memorial-institute|Battelle]]'s classified project run parallel to the public
-[[project-blue-book|Project Blue Book]]. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:24:18–1:24:27)*
+[[project-blue-book|Project Blue Book]]. *([gerb/saic](../raw/gerb/saic.md) 1:24:18–1:24:27)*
 
 Cited among the evidence entries presented to the 1953 [[robertson-panel-1953|Robertson Panel]].
-*([nro](../raw/GM1Qx9vuo2c_nro.md) 1:39:39–1:40:50)*
+*([gerb/nro](../raw/gerb/nro.md) 1:39:39–1:40:50)*
 
 ## Relationships
 

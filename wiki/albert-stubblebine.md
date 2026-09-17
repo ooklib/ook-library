@@ -16,27 +16,27 @@ relations:
   - relation: alleged_by
     target: steven-greer
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 Major General Albert Stubblebine founded the US Army Intelligence and Security Command
 ([[army-intelligence-and-security-command|INSCOM]]), which initially commanded the Intelligence
-Support Activity (ISA) special forces unit. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:43:28–1:43:45)*
+Support Activity (ISA) special forces unit. *([gerb/saic](../raw/gerb/saic.md) 1:43:28–1:43:45)*
 
 ## Claims
 
 - Joined [[bdm-international|BDM International]] one year before the 1985 Advanced Theoretical
   Physics Working Group conference was held at BDM's McLean facility.
-  *([saic](../raw/9p99lTsC7wQ_saic.md) 46:42–46:49)*
+  *([gerb/saic](../raw/gerb/saic.md) 46:42–46:49)*
 - Key sponsor of [[project-stargate|Project Stargate]]'s anomalous-cognition work, initially
-  operated out of Fort Meade, Maryland. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:43:12–1:43:28)*
+  operated out of Fort Meade, Maryland. *([gerb/saic](../raw/gerb/saic.md) 1:43:12–1:43:28)*
 - Accused by [[philip-j-corso|Philip J. Corso]] and [[steven-greer|Steven Greer]] of
   participating directly in UFO material-exploitation programs at Fort Wuka (transcription
   unclear), funding clandestine "men in black"-type entities, and more.
-  *([saic](../raw/9p99lTsC7wQ_saic.md) 1:43:54–1:44:10)*
+  *([gerb/saic](../raw/gerb/saic.md) 1:43:54–1:44:10)*
 - Per Greer, offered Greer $2 billion to absorb Greer's organization CETI into Stubblebine's
-  work. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:44:10–1:44:19)*
+  work. *([gerb/saic](../raw/gerb/saic.md) 1:44:10–1:44:19)*
 
 ## Relationships
 

@@ -13,7 +13,7 @@ relations:
     target: eric-davis
     note: "relayed the Zodiac story to Jacques Vallee, 3 March 2001 journal entry"
 sources:
-  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+  - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
@@ -22,7 +22,7 @@ critical entity, based on the purported real experiences of a source writing und
 "Sedge Masters," as recounted by another pseudonymous author, "Greg Halifax," originally
 published in a 1998 edition of *UFO Magazine*. Gerb calls the web "captivating to say the least"
 but has twice deferred a full investigation, saying the topic "deserves its own video."
-*([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 45:57–46:15, 3:20:56–3:21:11)*
+*([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 45:57–46:15, 3:20:56–3:21:11)*
 
 ## Claims
 
@@ -33,24 +33,24 @@ but has twice deferred a full investigation, saying the topic "deserves its own 
   Aircraft (which housed TRW's Ramo and Wooldridge founders until their 1953 split, ahead of
   TRW's formal 1965 founding) and, per his own bio, as "general counsel of another corporation
   headquartered in Southern California" — Gerb identifies this as the former TRW Space Park in
-  Redondo Beach, California. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md)
+  Redondo Beach, California. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md)
   46:15–47:29)*
 - The Sedge Masters account describes Zodiac as a program "able to skirt the military chain of
   command with impunity, spend money earmarked for other projects, and generally do whatever it
   damn well pleased ... all in the name of UFOs and their importance to national security" — which
   Gerb ties to his standing thesis that the US defense industrial base is "merely a tool" of UFO
   legacy programs whose authoritative channels may be bypassed or commandeered.
-  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 47:29–48:14)*
+  *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 47:29–48:14)*
 - Zodiac appears in Jacques Vallee's *Forbidden Science* journals, in an entry
   dated 3 March 2001 describing [[eric-davis|Eric Davis]] relaying the Zodiac story to Vallee,
   including a "10 Velobind volume" housed at Wright-Patterson AFB featuring data from the Roswell,
   New Mexico crash and a special study conducted by TRW. Gerb states his "trust in Davis is wafer
   thin" and would be keen to see Davis expand further on Zodiac.
-  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 48:35–49:19)*
+  *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 48:35–49:19)*
 - Gerb notes Davis, in a recent debate/conversation with Eric Weinstein on *American Alchemy*,
   said one of his primary sources for legacy-program information was "a woman at TRW" — Gerb
   speculates this could be the pseudonymous "Sedge Masters"/Mary Elizabeth Elliot figure and
-  intends to investigate further. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md)
+  intends to investigate further. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md)
   3:21:25–3:21:54)*
 
 ## Relationships

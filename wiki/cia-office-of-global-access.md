@@ -23,38 +23,38 @@ relations:
   - relation: mission_partner_of
     target: national-reconnaissance-office
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
-  - file: raw/GM1Qx9vuo2c_nro.md
+  - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 The CIA's Office of Global Access, established under the [[cia-directorate-of-science-and-
 technology|CIA Directorate of Science and Technology]] (in 2002 per one mention, 2003 per
 another), served as a logistics coordinator harnessing [[jsoc|Joint Special Operations
-Command]]'s muscle for foreign UFO crash retrievals. *([saic](../raw/9p99lTsC7wQ_saic.md)
+Command]]'s muscle for foreign UFO crash retrievals. *([gerb/saic](../raw/gerb/saic.md)
 18:42–18:50, 47:21–47:38)*
 
 ## Claims
 
 - Journalist [[chris-sharp|Chris Sharp]], Gerb, and others have accused OGA of participating in
-  foreign UFO crash-retrieval operations. *([saic](../raw/9p99lTsC7wQ_saic.md) 18:50–19:00)*
+  foreign UFO crash-retrieval operations. *([gerb/saic](../raw/gerb/saic.md) 18:50–19:00)*
 - Established under the watch of [[donald-kerr|Donald Kerr]], then CIA DS&T deputy director
-  (2001–2005). *([saic](../raw/9p99lTsC7wQ_saic.md) 47:56–48:09)*
+  (2001–2005). *([gerb/saic](../raw/gerb/saic.md) 47:56–48:09)*
 - CIA DS&T was also, alongside the Navy, co-founder of the
   [[national-underwater-reconnaissance-office|National Underwater Reconnaissance Office
   (NURO)]], which Gerb connects to underwater UFO crash retrievals.
-  *([saic](../raw/9p99lTsC7wQ_saic.md) 47:38–47:54)*
+  *([gerb/saic](../raw/gerb/saic.md) 47:38–47:54)*
 
 - Per this source, established in 2003 (rather than 2002) by [[doug-wolf|Doug Wolf]] as CIA DS&T
   deputy director; [[mark-moyahan|Mark Moyahan]] directed OGA 2000–2010; both men also held
   positions at the NRO and the [[deputy-director-of-national-intelligence-for-acquisition-
   technology-and-facilities|DDNI ATNF]], a pattern Gerb treats as a gatekeeper nexus.
-  *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:28:52–2:32:03)*
+  *([gerb/nro](../raw/gerb/nro.md) 2:28:52–2:32:03)*
 - Works closely with the [[national-reconnaissance-office|NRO]] and
   [[national-underwater-reconnaissance-office|NURO]], plus parallel tier-1 direct-action teams,
   as the alleged logistics coordinator for OCONUS UFO crash retrievals.
-  *([nro](../raw/GM1Qx9vuo2c_nro.md) 1:09:46–1:11:00)*
+  *([gerb/nro](../raw/gerb/nro.md) 1:09:46–1:11:00)*
 
 ## Relationships
 

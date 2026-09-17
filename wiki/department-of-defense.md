@@ -9,18 +9,18 @@ relations:
   - relation: sponsored_by
     target: mitre-national-security-engineering-center
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
 The Department of Defense is the top-level sponsor named throughout the legacy-program
 discussion, including as sponsor (with USD R&E) of MITRE's
-[[mitre-national-security-engineering-center|NSEC]] FFRDC. *([mitre](../raw/107BtDYhTkA_mitre.md) 42:21–42:30)*
+[[mitre-national-security-engineering-center|NSEC]] FFRDC. *([gerb/mitre](../raw/gerb/mitre.md) 42:21–42:30)*
 
 ## Claims
 
 - Gerb states MITRE's alleged reverse-engineering program was, from 1958 to 2011, "strictly
-  DoD, Navy, and MITRE," before CIA/IC involvement was introduced. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:35:03–1:35:12)*
+  DoD, Navy, and MITRE," before CIA/IC involvement was introduced. *([gerb/mitre](../raw/gerb/mitre.md) 1:35:03–1:35:12)*
 
 ## Relationships
 

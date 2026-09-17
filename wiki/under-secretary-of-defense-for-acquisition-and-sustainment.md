@@ -22,9 +22,9 @@ relations:
     target: corporate-portfolio-program
     note: "established by Ellen Lord while serving as USD A&S"
 sources:
-  - file: raw/GM1Qx9vuo2c_nro.md
+  - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
@@ -33,26 +33,26 @@ from 1986), Office of the Under Secretary of Defense for Acquisition and Technol
 from the 1994 SAP reorganization), Under Secretary of Defense for Acquisition, Technology and
 Logistics (USD AT&L, from 2000), and Under Secretary of Defense for Acquisition and Sustainment
 (USD A&S, from 2017 to present). Gerb treats this office as a critical DoD-side administrative
-node for UFO legacy programs, per the [[wilson-davis-notes]]. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+node for UFO legacy programs, per the [[wilson-davis-notes]]. *([gerb/nro](../raw/gerb/nro.md)
 2:24:20–2:25:01)*
 
 ## Claims
 
 - Per Vice Admiral [[thomas-wilson|Thomas Wilson]]'s account in the [[wilson-davis-notes]],
   Wilson was directed to search this office's special records group for legacy holdover UFO
-  programs predating early-1990s SAP restructuring. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+  programs predating early-1990s SAP restructuring. *([gerb/nro](../raw/gerb/nro.md)
   2:09:24–2:10:44)*
 - Shares joint milestone decision authority over major National Intelligence Program-funded NRO
   acquisitions with its intelligence-community counterpart, the
   [[deputy-director-of-national-intelligence-for-acquisition-technology-and-facilities|DDNI
   ATNF]], per a 27 July 2016 GAO report; can delegate decision authority to the NRO director.
-  *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:26:37–2:27:52)*
+  *([gerb/nro](../raw/gerb/nro.md) 2:26:37–2:27:52)*
 - Office holders discussed as UFO legacy-program "gatekeepers": [[paul-kaminski|Paul Kaminski]]
   (as USD A&T, 1994–1997; pioneered a major NRO reconnaissance satellite system 1971–1976; NRO
   Technical Advisory Board member as of 2007), [[john-m-deutch|John Deutch]] (predecessor to
   Kaminski), and [[ellen-lord|Ellen Lord]] (established the
   [[corporate-portfolio-program|Corporate Portfolio Program]] in 2020 while serving as USD A&S).
-  *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:24:53–2:26:37)*
+  *([gerb/nro](../raw/gerb/nro.md) 2:24:53–2:26:37)*
 
 ## Relationships
 

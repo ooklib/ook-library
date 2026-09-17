@@ -2,7 +2,7 @@
 
 ## [2026-09-15] ingest | The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)
 
-Ingested `raw/107BtDYhTkA_mitre.md` (full ~2h19m transcript with timestamps/chapters).
+Ingested `raw/gerb/mitre.md` (full ~2h19m transcript with timestamps/chapters).
 Created the initial wiki schema (`CLAUDE.md`), relation-type registry ([[relation-types]]), and
 index ([[index]]), plus 97 entity pages: organizations (FFRDCs, Navy/Air Force/IC agencies,
 contractors), people (gatekeepers, congressional figures, witnesses, historical figures),
@@ -21,7 +21,7 @@ No prior wiki content existed; this is the founding ingest.
 
 ## [2026-09-15] ingest | UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)
 
-Ingested `raw/9p99lTsC7wQ_saic.md` (UAP Gerb, ~2h12m). Added the `saic` short citation key to
+Ingested `raw/gerb/saic.md` (UAP Gerb, ~2h12m). Added the `gerb/saic` short citation key to
 `CLAUDE.md`'s source registry and introduced the tagged citation format
 (`*([key](../raw/file) timestamp)*`) to disambiguate timestamps now that the wiki spans two
 sources — bare timestamps from the first ingest remain untagged as known debt, to be migrated
@@ -55,7 +55,7 @@ redirects attribution for) claims first introduced in the MITRE video.
 
 ## [2026-09-15] ingest | National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)
 
-Ingested `raw/GM1Qx9vuo2c_nro.md` (UAP Gerb, ~3h12m). Added the `nro` short citation key to
+Ingested `raw/gerb/nro.md` (UAP Gerb, ~3h12m). Added the `gerb/nro` short citation key to
 `CLAUDE.md`'s source registry, and three new relation types to [[relation-types]]:
 `acquired_by`/`renamed_to` (corporate identity chains), `liaison_to`, and `oversees` (joint
 acquisition/budget authority).
@@ -103,7 +103,7 @@ thread with a parallel NRO-side office (DDNI ATNF) and a new 13-name gatekeeper 
 
 ## [2026-09-15] ingest | Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)
 
-Ingested `raw/X6JfbfmvgMo_lockheed.md` (UAP Gerb, ~3h02m). Added the `lockheed` short citation
+Ingested `raw/gerb/lockheed.md` (UAP Gerb, ~3h02m). Added the `gerb/lockheed` short citation
 key to `CLAUDE.md`'s source registry.
 
 Substantially rewrote [[lockheed-martin]] as a full hub page: corporate history/structure
@@ -143,7 +143,7 @@ thread and the Kona Blue material-transfer narrative first touched on in the NRO
 
 ## [2026-09-15] ingest | Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)
 
-Ingested `raw/mHkPHd_eOXI_sandia.md` (UAP Gerb, ~2h55m). Added the `sandia` short citation key to
+Ingested `raw/gerb/sandia.md` (UAP Gerb, ~2h55m). Added the `gerb/sandia` short citation key to
 `CLAUDE.md`'s source registry, and the [[james-v-forrestal]] page (needed for AFSWP/Majestic-12
 context).
 
@@ -195,8 +195,8 @@ Lockheed video, and extends the AFSWP/Majestic-12/Roswell thread with the first 
 
 ## [2026-09-16] ingest | Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2
 
-Ingested `raw/0kLSp0lH-JQ_northrop_trw.md` (full ~3h27m transcript with timestamps/chapters).
-Added a new source-registry row (`northrop-trw`) to `CLAUDE.md`.
+Ingested `raw/gerb/northrop_trw.md` (full ~3h27m transcript with timestamps/chapters).
+Added a new source-registry row (`gerb/northrop_trw`) to `CLAUDE.md`.
 
 This is Gerb's "part two" on [[northrop-grumman]], centered on its 2002 acquisition of [[trw]]
 and TRW's own spin-off [[aerospace-corporation]]. Central thesis: Northrop Grumman is the prime
@@ -240,7 +240,7 @@ DUMB/RCS-facility thesis (Tahone as Northrop's counterpart to Lockheed's Helenda
 
 ## [2026-09-16] ingest | The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)
 
-Ingested `raw/-IXSZe4xVv4_hidden_wing.md` (full ~3h30m transcript, short key `hidden-wing`).
+Ingested `raw/gerb/hidden_wing.md` (full ~3h30m transcript, short key `gerb/hidden_wing`).
 This video is UAP Gerb's dedicated, primary-source investigation into the modern Air Force UFO
 legacy-program structure, previously referenced only secondhand in the Northrop/TRW Vol.2 video.
 It substantially fleshes out [[hidden-wing-air-force-program]] (Gerb's name for the alleged
@@ -287,7 +287,7 @@ AFMC/AFTC/412th Test Wing) Gerb argues administers the alleged "Hidden Wing" pro
 
 ## [2026-09-16] ingest | The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1
 
-Ingested `raw/jR-h5p2bd-A_secrecy_1.md` (short key `secrecy-1`; full ~3h31m transcript, ASR
+Ingested `raw/gerb/secrecy_1.md` (short key `gerb/secrecy_1`; full ~3h31m transcript, ASR
 transcript with a redundant Czech-language duration line after each timestamp, ignored per
 instructions). Unlike prior ingests, this video is a broad thematic/conceptual overview — Gerb's
 own "Onion" secrecy model and "Manhattan Project 2.0" framing device — rather than a single-org
@@ -328,7 +328,17 @@ flagged as speculative per the schema's domain framing.
 Resolved the `CLAUDE.md` "known debt" item: 348 bare timestamp citations (e.g. `*(12:07)*`,
 including multi-timestamp and en-dash range forms like `*(11:15–11:49, 31:06–31:18)*`) across
 102 wiki pages were retrofitted to the standard tagged format
-`*([mitre](../raw/107BtDYhTkA_mitre.md) H:MM:SS)*`. All bare citations predated a page's second
+`*([gerb/mitre](../raw/gerb/mitre.md) H:MM:SS)*`. All bare citations predated a page's second
 source (confirmed by checking that every page's non-mitre citations were already correctly
-tagged) and were confirmed to be `mitre`-sourced. No content or timestamp values were changed,
+tagged) and were confirmed to be `gerb/mitre`-sourced. No content or timestamp values were changed,
 only citation formatting. `CLAUDE.md`'s "Known debt" bullet updated to reflect the fix.
+
+## [2026-09-17] lint | Reorganize raw/ into per-source subdirectories
+
+Moved all raw transcripts into `raw/gerb/` (UAP Gerb's channel) and stripped the YouTube video-id
+prefix from filenames, e.g. `107BtDYhTkA_mitre.md` -> `gerb/mitre.md`. Short citation keys now
+match the new relative path (`mitre` -> `gerb/mitre`, `northrop-trw` -> `gerb/northrop_trw`,
+`hidden-wing` -> `gerb/hidden_wing`, `secrecy-1` -> `gerb/secrecy_1`, `secrecy-2` reserved for the
+not-yet-ingested `6MsmPrpQqa8_secrecy_2.md`). Updated every citation and `sources:` frontmatter
+entry across `wiki/*.md`, plus `CLAUDE.md` and the source registry in `raw/index.md`, to the new
+paths and keys. No wording, timestamps, or claims were changed — path/key rename only.

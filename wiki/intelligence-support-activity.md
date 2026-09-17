@@ -11,13 +11,13 @@ relations:
     target: jsoc
     note: "later moved here"
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 A US Special Forces intelligence unit initially commanded by
 [[army-intelligence-and-security-command|INSCOM]], later moved to [[jsoc|JSOC]].
-*([saic](../raw/9p99lTsC7wQ_saic.md) 1:43:34–1:43:45)*
+*([gerb/saic](../raw/gerb/saic.md) 1:43:34–1:43:45)*
 
 ## Relationships
 

@@ -26,9 +26,9 @@ relations:
     target: saf-aa
     note: "alleged: rolled joint AF/NRO 'outside activities' under SAF/AA as a cover office while Under SECAF, 1981-1986"
 sources:
-  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+  - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
-  - file: raw/jR-h5p2bd-A_secrecy_1.md
+  - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
@@ -40,7 +40,7 @@ at [[e-systems|LTV Aerospace]] (which became CIA shell company E-Systems, later 
 president/CEO of the [[aerospace-corporation|Aerospace Corporation]] for nearly 10 years. Gerb
 compares his CV to fellow "Rogues Gallery" figure [[donald-kerr|Donald Kerr]]'s, calling Aldridge
 "a cornerstone figure to identifying the changing structure of UFO legacy programs."
-*([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 58:44–59:19, 1:36:41–1:36:53)*
+*([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 58:44–59:19, 1:36:41–1:36:53)*
 
 ## Claims
 
@@ -50,21 +50,18 @@ compares his CV to fellow "Rogues Gallery" figure [[donald-kerr|Donald Kerr]]'s,
   programs, existing in other agencies but under SAF/AA's administrative and operational control,
   that "were started ... in Pete Aldridge's day." Gerb argues these cover programs actually began
   earlier but were rolled under SAF/AA (bypassing the SAF/AAZ security-oversight compartment
-  entirely) while Aldridge was Under SECAF (1981–1986). *([northrop-trw](../raw/
-  0kLSp0lH-JQ_northrop_trw.md) 1:01:12–1:03:00)* See [[saf-aa]].
+  entirely) while Aldridge was Under SECAF (1981–1986). *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 1:01:12–1:03:00)* See [[saf-aa]].
 - Gerb notes Aldridge's Under SECAF responsibilities explicitly included "overall direction,
   guidance, and supervision for Air Force space programs," and that he was simultaneously NRO
   director from 1981 to 1986 — making it, in Gerb's view, "a very safe bet" that the SAF/AA
-  "outside activities" involved joint Air Force/NRO legacy programs. *([northrop-trw](../raw/
-  0kLSp0lH-JQ_northrop_trw.md) 1:03:41–1:04:18)*
+  "outside activities" involved joint Air Force/NRO legacy programs. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 1:03:41–1:04:18)*
 - Gerb ties the 1981–1986 SAF/AA reform period to the contemporaneous
   [[strategic-defense-initiative|Strategic Defense Initiative]] and its alleged UFO-legacy-program
   backchannel funding, and separately notes Aldridge became Aerospace Corporation CEO "just a few
-  years" after his Air Force tenure. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md)
+  years" after his Air Force tenure. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md)
   1:09:59–1:10:45)*
 - Gerb credits Aldridge as a "critical figure in reorganizing Air Force legacy programs, leading
-  to extreme compartmentalization and siloing" that persists today. *([northrop-trw](../raw/
-  0kLSp0lH-JQ_northrop_trw.md) 25:46–26:08)*
+  to extreme compartmentalization and siloing" that persists today. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 25:46–26:08)*
 
 ## Claims (from the "Secrecy" Vol. 1 video)
 
@@ -72,7 +69,7 @@ compares his CV to fellow "Rogues Gallery" figure [[donald-kerr|Donald Kerr]]'s,
   of legacy programs, following the 1983 [[yellow-fruit|Yellow Fruit]] scandal and mid-1980s SAP
   reforms, being "forced to start using cover offices within the known United States government"
   rather than relying on the prior era's loose top-secret-codeword access.
-  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 3:26:45–3:27:16)*
+  *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 3:26:45–3:27:16)*
 
 ## Relationships
 

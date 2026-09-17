@@ -16,12 +16,12 @@ relations:
   - relation: board_member_of
     target: mitre-corporation
 sources:
-  - file: raw/GM1Qx9vuo2c_nro.md
+  - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
 Began her career at [[trw|TRW]] (later bought by [[northrop-grumman|Northrop Grumman]], which
-Gerb directly implicates in derivative-technology RDT&E). *([nro](../raw/GM1Qx9vuo2c_nro.md)
+Gerb directly implicates in derivative-technology RDT&E). *([gerb/nro](../raw/gerb/nro.md)
 2:32:03–2:32:15)*
 
 ## Claims
@@ -30,12 +30,12 @@ Gerb directly implicates in derivative-technology RDT&E). *([nro](../raw/GM1Qx9v
   following a 3-year position as assistant director of national intelligence for acquisition
   technology and facilities
   ([[deputy-director-of-national-intelligence-for-acquisition-technology-and-facilities|DDNI
-  ATNF]]). *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:32:15–2:32:34)*
+  ATNF]]). *([gerb/nro](../raw/gerb/nro.md) 2:32:15–2:32:34)*
 - Currently serves as a corporate board member for [[mitre-corporation|MITRE]], a "parallel
   track" to [[paul-kaminski|Kaminski]]'s board service. While her CV has no direct NRO/OGA
   references, Gerb assumes intimate work with both offices during her ODNI/DS&T tenure.
-  *([nro](../raw/GM1Qx9vuo2c_nro.md) 2:32:34–2:32:56)*
-- Photographed with [[glenn-gaffney|Glenn Gaffney]]. *([nro](../raw/GM1Qx9vuo2c_nro.md)
+  *([gerb/nro](../raw/gerb/nro.md) 2:32:34–2:32:56)*
+- Photographed with [[glenn-gaffney|Glenn Gaffney]]. *([gerb/nro](../raw/gerb/nro.md)
   2:33:01–2:33:07)*
 
 ## Relationships

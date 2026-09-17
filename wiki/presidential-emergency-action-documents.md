@@ -10,7 +10,7 @@ relations:
   - relation: part_of
     target: manhattan-project-2
 sources:
-  - file: raw/jR-h5p2bd-A_secrecy_1.md
+  - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
@@ -19,22 +19,22 @@ orders prepared for use in a national emergency. UAP Gerb, following terminology
 [[eric-davis|Eric Davis]], uses "PEADs" as an umbrella term for the alleged classified
 presidential executive orders under Truman and Eisenhower that he argues equipped, emboldened,
 and legally empowered the earliest UFO legacy-program (alleged "Manhattan Project 2.0") efforts.
-*([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 21:18–21:41)*
+*([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 21:18–21:41)*
 
 ## Claims
 
 - UAP Gerb alleges an unspecified 1948 classified presidential executive order under Truman gave
   custody of recovered UFOs to Atomic Energy Commission GOCO national laboratories that would
   evolve into modern FFRDCs (Sandia, Los Alamos, Lawrence Livermore, Oak Ridge).
-  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 21:32–21:57)*
+  *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 21:32–21:57)*
 - Credits President Eisenhower with the "lion's share" of establishing the early framework for
   UFO legacy activities via such directives — including, per UAP Gerb, establishing a covert UFO
   control group hidden within the [[nsc-5412-committee|National Security Council's 5412
-  Committee]]. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 22:06–22:31)*
+  Committee]]. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 22:06–22:31)*
 - UAP Gerb frames the term "PEADs/PEDs" as covering the same category of classified directive
   invoked elsewhere in his catalog by whistleblower testimony (e.g. the
   [[wilson-davis-notes|Wilson-Davis notes]]) discussing how legacy programs are formally
-  authorized outside of ordinary statute. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md)
+  authorized outside of ordinary statute. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md)
   21:18–21:32)*
 
 ## Relationships

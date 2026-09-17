@@ -11,18 +11,18 @@ relations:
     target: hermann-oberth
     note: "mentored by Oberth"
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 Wernher von Braun, Nazi V2 rocket scientist transferred to the US via Operation Paperclip,
 commanded the [[army-ballistic-missile-agency|Army Ballistic Missile Agency]].
-*([saic](../raw/9p99lTsC7wQ_saic.md) 1:10:22–1:10:31)*
+*([gerb/saic](../raw/gerb/saic.md) 1:10:22–1:10:31)*
 
 ## Claims
 
 - Mentored by [[hermann-oberth|Hermann Oberth]], the "father of German rocketry," who performed
-  extensive study on UFOs. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:10:31–1:10:46)*
+  extensive study on UFOs. *([gerb/saic](../raw/gerb/saic.md) 1:10:31–1:10:46)*
 
 ## Relationships
 

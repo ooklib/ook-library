@@ -17,9 +17,9 @@ relations:
     target: sandia-national-laboratories
     note: "one of three FFRDCs (with Los Alamos, Lawrence Livermore) sponsoring NNSS experimental programs"
 sources:
-  - file: raw/GM1Qx9vuo2c_nro.md
+  - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
-  - file: raw/mHkPHd_eOXI_sandia.md
+  - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
@@ -27,7 +27,7 @@ The Nevada National Security Site (formerly the Nevada Test Site, established by
 out of the Nellis AFB gunnery/bombing range, 928 nuclear tests 1951–1994), a DOE nuclear-testing
 reservation that includes the acknowledged Nellis Air Force Range and the unacknowledged Homey
 ("Area 51") site. Distinct from, but contained within, the Air Force-operated Nevada Test and
-Training Range (NTTR). *([sandia](../raw/mHkPHd_eOXI_sandia.md) 1:45:49–1:46:13,
+Training Range (NTTR). *([gerb/sandia](../raw/gerb/sandia.md) 1:45:49–1:46:13,
 1:50:45–1:51:03)*
 
 ## Claims
@@ -37,12 +37,12 @@ Training Range (NTTR). *([sandia](../raw/mHkPHd_eOXI_sandia.md) 1:45:49–1:46:1
   Security Site, rotating between acknowledged and unacknowledged sites including Nellis and
   Homey/Area 51. The witness's briefing binders reportedly bore an insert sheet titled "Joint
   Operations Task Force, NRO," and the witness carried an ID badge with a DOE Q-clearance
-  hologram and NRO watermark. *([nro](../raw/GM1Qx9vuo2c_nro.md) 1:17:17–1:20:16)*
+  hologram and NRO watermark. *([gerb/nro](../raw/gerb/nro.md) 1:17:17–1:20:16)*
 
 - Sandia has operated at Area 51/Groom Lake since at least 1959, and has a documented presence at
   [[area-6|Area 6]] (Yucca Flat) and Area 19. [[office-of-secure-transportation|NNSA OST]]
   convoys allegedly responded to a 2008 object crash near Needles, CA, investigated by journalist
-  George Knapp. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 2:02:52–2:02:59, 1:37:17–1:38:26)*
+  George Knapp. *([gerb/sandia](../raw/gerb/sandia.md) 2:02:52–2:02:59, 1:37:17–1:38:26)*
 
 ## Relationships
 

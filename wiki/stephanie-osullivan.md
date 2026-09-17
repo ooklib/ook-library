@@ -36,25 +36,25 @@ relations:
     target: peraton
     note: "joined c. 2018"
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
-  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+  - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 Stephanie O'Sullivan served as Principal Deputy Director of National Intelligence (PDDNI) under
 [[james-clapper]] from 2011 to 2017 — the same years Gerb alleges MITRE's briefing restrictions
 began (2011) and program control shifted (2017), which he calls out as likely more than
-"coincidence." *([mitre](../raw/107BtDYhTkA_mitre.md) 1:40:28–1:40:44)*
+"coincidence." *([gerb/mitre](../raw/gerb/mitre.md) 1:40:28–1:40:44)*
 
 ## Claims
 
-- Formerly served as CIA DS&T deputy director. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:40:44–1:40:51)*
+- Formerly served as CIA DS&T deputy director. *([gerb/mitre](../raw/gerb/mitre.md) 1:40:44–1:40:51)*
 - Joined a suite of boards following PDDNI, including [[aerospace-corporation]].
-  *([mitre](../raw/107BtDYhTkA_mitre.md) 1:40:51–1:41:00)*
+  *([gerb/mitre](../raw/gerb/mitre.md) 1:40:51–1:41:00)*
 - Named directly by [[david-grush]] in an embedded interview clip, alongside
   [[james-clapper]], as an IC figure "well aware of" the crash-retrieval issue who was "in
-  rooms discussing this issue." *([mitre](../raw/107BtDYhTkA_mitre.md) 1:40:56–1:41:41)*
+  rooms discussing this issue." *([gerb/mitre](../raw/gerb/mitre.md) 1:40:56–1:41:41)*
 
 ## Claims (from the Northrop Grumman & TRW Vol.2 video)
 
@@ -63,16 +63,16 @@ began (2011) and program control shifted (2017), which he calls out as likely mo
   roughly 1985 in a role her Battelle board bio describes only as "oversight for a series of
   sensitive projects for TRW" — Gerb finds this data-masking parallels his "hidden wing" analysis.
   From 1982 to 1995 she also served in the [[office-of-naval-intelligence|Office of Naval
-  Intelligence]] on sensitive R&D programs. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md)
+  Intelligence]] on sensitive R&D programs. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md)
   1:41:23–1:45:21)*
 - Overlapped roughly two years at TRW (1982–1983) with [[don-meyer|Don Meyer]] (TRW technical
   staff 1981–1993), and likely also with [[richard-haver|Richard Haver]], per Gerb.
-  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 3:16:57–3:17:21)*
+  *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 3:16:57–3:17:21)*
 - Served as PDDNI 2011–2017, [[james-clapper|Clapper's]] "protege," managing day-to-day IC
   operations; Gerb states Clapper personally recommended her nomination in 2011, calling it "a
   significant and welcome development" per congressional record, and theorizes Clapper recruited
   her specifically to hold dual senior-ODNI/senior-legacy-program roles.
-  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 1:33:13–1:33:28, 1:35:06–1:35:44)*
+  *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 1:33:13–1:33:28, 1:35:06–1:35:44)*
 - Following PDDNI, joined an extensive slate of boards: [[aerospace-corporation|Aerospace
   Corporation]] (2017, board; chairman 2021–present), [[battelle-memorial-institute|Battelle
   Memorial Institute]], [[booz-allen-hamilton|Booz Allen Hamilton]],
@@ -82,7 +82,7 @@ began (2011) and program control shifted (2017), which he calls out as likely mo
   2018) [[peraton|Peraton]]. Gerb notes her In-Q-Tel executive-level colleague there is
   [[glenn-gaffney|Glenn Gaffney]] — like O'Sullivan, a former CIA DS&T deputy director — and that
   she shares Peraton's board with former NGA director [[robert-cardillo|Robert Cardillo]].
-  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 1:37:01–1:40:24)*
+  *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 1:37:01–1:40:24)*
 
 ## Relationships
 

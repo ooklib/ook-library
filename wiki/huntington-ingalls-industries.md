@@ -10,15 +10,14 @@ relations:
   - relation: board_member_of
     target: stephanie-osullivan
 sources:
-  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+  - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
 Huntington Ingalls Industries (HII), spun off from [[northrop-grumman|Northrop Grumman]] in
 2011, is the largest military shipbuilding company in the United States.
 [[stephanie-osullivan|Stephanie O'Sullivan]] serves on its board of directors — one entry in
-Gerb's broader catalog of her post-government board seats. *([northrop-trw](../raw/
-0kLSp0lH-JQ_northrop_trw.md) 1:37:39–1:37:49)*
+Gerb's broader catalog of her post-government board seats. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 1:37:39–1:37:49)*
 
 ## Relationships
 

@@ -10,13 +10,13 @@ relations:
     target: operation-sand-dollar
     note: "Sand Dollar was allegedly buried within the Polaris program's structure"
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 The Polaris program developed a two-stage, solid-fueled, nuclear-armed, submarine-launched
 ballistic missile, led by [[william-f-raborn|William F. Raborn]].
-*([saic](../raw/9p99lTsC7wQ_saic.md) 43:35–43:43)*
+*([gerb/saic](../raw/gerb/saic.md) 43:35–43:43)*
 
 ## Claims
 
@@ -25,7 +25,7 @@ ballistic missile, led by [[william-f-raborn|William F. Raborn]].
   (DSRVs) — which Gerb implicates in undersea UFO crash retrieval — were created specifically to
   accomplish retrieval operations under [[operation-sand-dollar|Operation Sand Dollar]], which
   Craven's memoir states was itself "buried within the structure of yet another secret program
-  itself hidden within the Polaris program." *([saic](../raw/9p99lTsC7wQ_saic.md)
+  itself hidden within the Polaris program." *([gerb/saic](../raw/gerb/saic.md)
   43:52–45:19)*
 
 ## Relationships

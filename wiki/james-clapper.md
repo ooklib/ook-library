@@ -19,51 +19,50 @@ relations:
     target: michael-dempsey
     note: "Dempsey served as DDNI for intelligence integration, reporting directly to Clapper, 2014-2017"
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
-  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+  - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
-  - file: raw/jR-h5p2bd-A_secrecy_1.md
+  - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 Former Director of National Intelligence (DNI), USDI, and DIA Director. Gerb casts Clapper as
 the post-2009/2010 "mob boss" of the fractured [[ufo-legacy-programs|legacy program]] ecosystem,
-succeeding [[dick-cheney]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 5:11–5:18)*
+succeeding [[dick-cheney]]. *([gerb/mitre](../raw/gerb/mitre.md) 5:11–5:18)*
 
 ## Claims
 
 - After becoming DNI in later 2010, allegedly established the "ATIP" National Security Council
   cutout activity and used his DNI credentials to fold strictly-DoD legacy programs (including
-  [[mitre-corporation|MITRE]]'s) into the wider IC/NSC fold. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:36:10–1:37:05)*
+  [[mitre-corporation|MITRE]]'s) into the wider IC/NSC fold. *([gerb/mitre](../raw/gerb/mitre.md) 1:36:10–1:37:05)*
 - Gerb ties the alleged 2011 introduction of CIA into MITRE's program and the alleged 2017 loss
-  of MITRE program control directly to this period of Clapper's tenure. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:35:58–1:37:20)*
+  of MITRE program control directly to this period of Clapper's tenure. *([gerb/mitre](../raw/gerb/mitre.md) 1:35:58–1:37:20)*
 - [[david-grush]], in an embedded interview clip, states Clapper "was well aware of the crash
   retrieval issue, managed the crash retrieval issue," placing people in critical roles both
   publicly and non-publicly while DNI/USDI/DIA director; Grush names Clapper and
   [[stephanie-osullivan]] as IC figures aware of the issue whom he calls on to be "greater
-  leaders" on transparency. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:40:56–1:41:41)*
+  leaders" on transparency. *([gerb/mitre](../raw/gerb/mitre.md) 1:40:56–1:41:41)*
 
 ## Claims (from the Northrop Grumman & TRW Vol.2 video)
 
 - Gerb calls Clapper "likely the closest thing legacy programs have had as a singular controlling
   figure since Dick Cheney left in 2009," though a "shell of itself" compared to Cheney's
-  authority. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 4:28–4:36, 3:17:36–3:17:56)*
+  authority. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 4:28–4:36, 3:17:36–3:17:56)*
 - Personally recommended (per a 2011 congressional record calling it "a significant and welcome
   development") that President Obama nominate [[stephanie-osullivan|Stephanie O'Sullivan]] as his
   PDDNI; Gerb theorizes Clapper deliberately recruited O'Sullivan to hold "dual-hatted roles" as
   both senior ODNI staff and senior legacy-program personnel, given both had "prior exposure and
-  need-to-know access" before their ODNI tenure. *([northrop-trw](../raw/
-  0kLSp0lH-JQ_northrop_trw.md) 1:35:06–1:35:44)*
+  need-to-know access" before their ODNI tenure. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 1:35:06–1:35:44)*
 - [[michael-dempsey|Michael Dempsey]] served under Clapper (and above O'Sullivan) as DDNI for
   intelligence integration, 2014–2017, reporting directly to Clapper and personally briefing
   Obama; Gerb states Dempsey "worked directly with Clapper on the UFO crash retrieval issue" and
   would have been the one to partially brief Obama on UFOs, "at the behest of Clapper."
-  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 2:29:22–2:30:32)*
+  *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:29:22–2:30:32)*
 - Between his DoD and DNI tenures, moved into the private sector (1998–2001) as director of
   intelligence programs at SRA International, which supported CIA WINPAC; Gerb speculates Clapper,
   [[michael-dempsey|Dempsey]], and O'Sullivan may have crossed paths there on the UFO issue in the
-  early 2000s. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 2:31:45–2:32:21)*
+  early 2000s. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:31:45–2:32:21)*
 
 ## Claims (from the "Secrecy" Vol. 1 video)
 
@@ -71,11 +70,11 @@ succeeding [[dick-cheney]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 5:11–5:18)*
   [[national-security-council|NSC]]'s coordinating role in the modern UFO crash-retrieval
   portfolio specifically to protect Clapper, since Clapper, [[stephanie-osullivan|Stephanie
   O'Sullivan]], and Michael Dempsey spearheaded this portfolio while at ODNI (2010–2017).
-  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:34:57–1:35:30)*
+  *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:34:57–1:35:30)*
 - Reiterates Clapper as the closest thing to a "mob boss" figure after [[dick-cheney|Cheney]]'s
   2009 departure, though a markedly weaker one, presiding over a UFO control group Gerb estimates
   at "slightly over two dozen" people alive at any given time with any sense of the program's full
-  breadth. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 2:22:06–2:22:38)*
+  breadth. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 2:22:06–2:22:38)*
 
 ## Relationships
 

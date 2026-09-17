@@ -14,7 +14,7 @@ relations:
     target: glenn-gaffney
     note: "executive VP and senior fellow"
 sources:
-  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+  - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
@@ -22,7 +22,7 @@ In-Q-Tel (IQT), "better known as the CIA's venture capital firm," was incorporat
 1999 after congressional approval of a CIA proposal to "spread the insertion of mature
 technologies, support rapid development of mission critical applications, and enhance the CIA's
 ability to attract the skills and expertise vital to its success."
-*([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 1:38:37–1:39:11)*
+*([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 1:38:37–1:39:11)*
 
 ## Claims
 
@@ -31,8 +31,7 @@ ability to attract the skills and expertise vital to its success."
   executive VP and senior fellow at In-Q-Tel and, like O'Sullivan, a former CIA
   [[cia-directorate-of-science-and-technology|DS&T]] deputy director — calling it "very
   intriguing to see both O'Sullivan and Gaffney, who both held the position of CIA DS&T deputy
-  director, end up together at an executive level at In-Q-Tel." *([northrop-trw](../raw/
-  0kLSp0lH-JQ_northrop_trw.md) 1:39:11–1:40:03)*
+  director, end up together at an executive level at In-Q-Tel." *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 1:39:11–1:40:03)*
 
 ## Relationships
 

@@ -18,38 +18,37 @@ relations:
     target: yellow-fruit
     note: "Gerb cites this nesting pattern as a structural analogy for how UFO material may hide inside a wider-mission SAP"
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
-  - file: raw/X6JfbfmvgMo_lockheed.md
+  - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
-  - file: raw/jR-h5p2bd-A_secrecy_1.md
+  - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 Per [[john-craven|Dr. John Piña Craven]]'s memoir *The Silent War*, Operation Sand Dollar was a
 "clandestine, highly compartmentalized project" tasked with retrieving "militarily sensitive
 hardware and other items of national security importance from the seafloor of the continental
-shelf" and deep marine environments. It remains classified. *([saic](../raw/9p99lTsC7wQ_saic.md)
+shelf" and deep marine environments. It remains classified. *([gerb/saic](../raw/gerb/saic.md)
 44:16–44:53)*
 
 ## Claims
 
 - Craven was shown "an inventory itemizing the items known to be on the seabed and a map of
-  their distribution throughout the world." *([saic](../raw/9p99lTsC7wQ_saic.md) 44:53–45:02)*
+  their distribution throughout the world." *([gerb/saic](../raw/gerb/saic.md) 44:53–45:02)*
 - Was buried within the structure of another secret program itself hidden within the
   [[polaris-program|Polaris program]] — Gerb wagers Sand Dollar was itself a UFO
-  crash-retrieval program. *([saic](../raw/9p99lTsC7wQ_saic.md) 45:02–45:26)*
+  crash-retrieval program. *([gerb/saic](../raw/gerb/saic.md) 45:02–45:26)*
 - The Deep Submergence Systems Project (DSSP) and resulting Deep Submergence Rescue Vehicles
   (DSRVs) were created specifically to accomplish Sand Dollar retrieval operations; Craven
   states the DSSP/DSRVs were used for "a tremendous amount of clandestine classified missions."
-  *([saic](../raw/9p99lTsC7wQ_saic.md) 43:52–44:16)*
+  *([gerb/saic](../raw/gerb/saic.md) 43:52–44:16)*
 
 - Craven states Sand Dollar was "nestled within a complex web of programs" itself hidden within
   the Polaris program, actually conducted at [[tonopah-test-range|Tonopah Test Range]]. The
   principal DSRV craft (Mystic and Avalon) built under the resulting DSSP were constructed by
   [[lockheed-martin|Lockheed]]. Naval operations at Tonopah ceased in 1993, shortly before
-  Lockheed took over administration of the range (via Sandia). *([lockheed](../raw/
-  X6JfbfmvgMo_lockheed.md) 1:04:49–1:06:28)*
+  Lockheed took over administration of the range (via Sandia). *([gerb/lockheed](../raw/gerb/lockheed.md) 1:04:49–1:06:28)*
 
 ## Relationships
 

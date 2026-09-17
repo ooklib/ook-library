@@ -8,12 +8,12 @@ relations:
     target: wernher-von-braun
     note: "mentor"
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 Hermann Oberth, "father of German rocketry" and mentor to [[wernher-von-braun]], performed
-extensive study on UFOs, per Gerb. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:10:31–1:10:46)*
+extensive study on UFOs, per Gerb. *([gerb/saic](../raw/gerb/saic.md) 1:10:31–1:10:46)*
 
 ## Relationships
 

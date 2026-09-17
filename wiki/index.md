@@ -7,8 +7,8 @@ tags: [meta]
 # Wiki Index
 
 Catalog of all entity pages, grouped by kind. See [[relation-types]] for the edge-type registry
-and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `mitre`, `saic`,
-`nro`, `lockheed`, `sandia`, `northrop-trw`, `hidden-wing`, `secrecy-1`).
+and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `gerb/mitre`, `gerb/saic`,
+`gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`).
 
 ## Hub pages (start here)
 

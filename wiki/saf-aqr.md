@@ -12,7 +12,7 @@ relations:
     target: air-force-research-laboratory
     note: "AQR interfaces with AFRL's technology executive officers on all Air Force S&T programs"
 sources:
-  - file: raw/-IXSZe4xVv4_hidden_wing.md
+  - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
@@ -25,18 +25,18 @@ Force S&T programs, and AQR and the AFRL commander work with OSD's funding/progr
 structure on technology-transfer vessels. AQR also "integrates special access program and
 non-SAP RDT&E, S&T planning activities and strategies and directs advanced technology
 development programs and monitors new technologies in coordination with SAF/AQL."
-*([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 46:34–48:41)*
+*([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 46:34–48:41)*
 
 ## Claims
 
 - Gerb wagers that within AQR and [[saf-aql|AQL]]'s joint scope, their coordination on "Air Force
   RDT&E SAPs" and monitoring of "new technologies" covers deep-sixed programs focused on
   recovery/exploitation of technologies of unknown origin.
-  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 48:41–49:11)*
+  *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 48:41–49:11)*
 - Gerb wonders whether the National Security Council uses the partnership between the
   [[under-secretary-of-defense-for-acquisition-and-sustainment|USD A&S]] and SAF/AQ (specifically
   AQR) — and its technology-transfer vessels — for clandestine UFO-related budget/material
-  transfers. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 47:57–48:16)*
+  transfers. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 47:57–48:16)*
 
 ## Relationships
 

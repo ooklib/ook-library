@@ -10,12 +10,12 @@ relations:
   - relation: located_at
     target: crystal-city-virginia
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
 Boeing has primary offices in [[crystal-city-virginia|Crystal City]] and is listed with less
-confidence among contractors Gerb suspects are involved in MITRE's UFO work. *([mitre](../raw/107BtDYhTkA_mitre.md) 39:36–39:44,
+confidence among contractors Gerb suspects are involved in MITRE's UFO work. *([gerb/mitre](../raw/gerb/mitre.md) 39:36–39:44,
 1:56:19–1:56:33)*
 
 ## Relationships

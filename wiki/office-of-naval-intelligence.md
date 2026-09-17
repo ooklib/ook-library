@@ -11,7 +11,7 @@ relations:
   - relation: mission_partner_of
     target: naval-criminal-investigative-service
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
@@ -23,19 +23,19 @@ agency and the US Navy's premier intelligence arm, part of both the DoD and IC. 
 
 - Gerb argues that if any US intelligence service studied recovered unmanned discs prior to
   1947's [[roswell-incident-1947|Roswell]], ONI would most certainly have been involved.
-  *([mitre](../raw/107BtDYhTkA_mitre.md) 1:10:30–1:10:40)*
+  *([gerb/mitre](../raw/gerb/mitre.md) 1:10:30–1:10:40)*
 - Provides "full-spectrum maritime intelligence," analyzing/tracking foreign naval
   capabilities/vessels — which Gerb suggests doubles as cover framing ("wink wink") for the
-  MITRE program. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:10:47–1:11:01)*
+  MITRE program. *([gerb/mitre](../raw/gerb/mitre.md) 1:10:47–1:11:01)*
 - Works closely with [[mitre-corporation|MITRE]] on the reverse-engineering program in an
   intelligence/counterintelligence capacity; a specific ONI element scouts whether foreign
-  adversaries have exploited the same reverse-engineered technologies. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:11:20–1:11:41)*
+  adversaries have exploited the same reverse-engineered technologies. *([gerb/mitre](../raw/gerb/mitre.md) 1:11:20–1:11:41)*
 - Provides domestic counterintelligence (human ops, internet monitoring for leaked program
   code words), employing [[naval-criminal-investigative-service|NCIS]] and
-  [[air-force-office-of-special-investigations|AFOSI/PJ]] for support. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:11:41–1:12:08)*
+  [[air-force-office-of-special-investigations|AFOSI/PJ]] for support. *([gerb/mitre](../raw/gerb/mitre.md) 1:11:41–1:12:08)*
 - Considered by Gerb, alongside the Office of the Secretary of the Navy (SECNAV), among the
   most critical Navy-side administrative components of the alleged UFO activities, with SECNAV
-  possibly involved at a higher level. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:11:01–1:11:20)*
+  possibly involved at a higher level. *([gerb/mitre](../raw/gerb/mitre.md) 1:11:01–1:11:20)*
 
 ## Relationships
 

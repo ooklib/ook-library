@@ -7,21 +7,21 @@ relations:
   - relation: contractor_for
     target: battelle-memorial-institute
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
-  - file: raw/-IXSZe4xVv4_hidden_wing.md
+  - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 An Army MRTFB in Utah, previously listed by Gerb among core DoD test ranges harnessed for
-legacy-program RDT&E. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:16:48–1:17:03)*
+legacy-program RDT&E. *([gerb/mitre](../raw/gerb/mitre.md) 1:16:48–1:17:03)*
 
 ## Claims
 
 - Associated with [[battelle-memorial-institute|Battelle]]'s alleged UFO legacy-program
-  research. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:24:18–1:24:27)*
+  research. *([gerb/saic](../raw/gerb/saic.md) 1:24:18–1:24:27)*
 
 ## Claims (from the Hidden Wing video)
 
@@ -33,7 +33,7 @@ legacy-program RDT&E. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:16:48–1:17:03)*
   as having "not a seam, not anything ... like it was just casted" or 3D printed, flawless and
   unreplicable by current manufacturing. Gerb notes the alleged deep underground military base at
   Dugway's West Desert Test Center, Granite Peak, is heavily covered by 388th Range Squadron
-  radars/stations. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:31:48–1:33:08)*
+  radars/stations. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:31:48–1:33:08)*
 
 ## Relationships
 

@@ -13,7 +13,7 @@ relations:
     target: colonel-steve-wilson
     note: "named it 'the Jason Society,' a secret Eisenhower-era org tasked with the 'alien question'"
 sources:
-  - file: raw/GM1Qx9vuo2c_nro.md
+  - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
 
@@ -21,16 +21,16 @@ Jason is a real independent group of elite scientists (30–60 members), establi
 advises the US government on sensitive science and technology matters for the DoD, DOE, National
 Nuclear Security Administration, and the intelligence community. From its founding to today,
 Jason's activities have been administered through [[mitre-corporation|MITRE Corporation]].
-*([nro](../raw/GM1Qx9vuo2c_nro.md) 1:37:49–1:39:07)*
+*([gerb/nro](../raw/gerb/nro.md) 1:37:49–1:39:07)*
 
 ## Claims
 
 - [[colonel-steve-wilson|Colonel Steve Wilson]] named "the Jason Society" as a secret
   organization formed under President Eisenhower tasked with finding the truth of the "alien
   question." Gerb treats the real Jason Advisory Group as "directly connected" to UFO legacy
-  programs given its MITRE administration. *([nro](../raw/GM1Qx9vuo2c_nro.md) 1:37:36–1:38:14)*
+  programs given its MITRE administration. *([gerb/nro](../raw/gerb/nro.md) 1:37:36–1:38:14)*
 - Jason has performed classified and declassified defense-advisory-panel work for the
-  [[national-reconnaissance-office|NRO]]. *([nro](../raw/GM1Qx9vuo2c_nro.md) 1:39:07–1:39:22)*
+  [[national-reconnaissance-office|NRO]]. *([gerb/nro](../raw/gerb/nro.md) 1:39:07–1:39:22)*
 
 ## Relationships
 

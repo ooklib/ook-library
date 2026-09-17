@@ -8,14 +8,14 @@ relations:
     target: special-access-program-oversight-committee
     note: "permanent member, spoke with VADM Wilson"
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 Brigadier General Michael Costanik, one of two permanent
 [[special-access-program-oversight-committee|SAPOC]] members [[thomas-wilson|VADM Wilson]]
 spoke to during his investigation (the other being [[paul-kaminski|Paul Kaminski]]).
-*([saic](../raw/9p99lTsC7wQ_saic.md) 39:32–39:40)*
+*([gerb/saic](../raw/gerb/saic.md) 39:32–39:40)*
 
 ## Relationships
 

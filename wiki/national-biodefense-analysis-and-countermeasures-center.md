@@ -7,12 +7,12 @@ relations:
   - relation: operates
     target: battelle-memorial-institute
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 A facility administered by [[battelle-memorial-institute|Battelle Memorial Institute]], which
-Gerb suspects is involved in UFO legacy programs. *([saic](../raw/9p99lTsC7wQ_saic.md)
+Gerb suspects is involved in UFO legacy programs. *([gerb/saic](../raw/gerb/saic.md)
 1:24:35–1:24:50)*
 
 ## Relationships

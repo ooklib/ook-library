@@ -16,7 +16,7 @@ relations:
     target: aawsap
     note: "same 2008-2011 OAP/AATIP-adjacent era of Bigelow-linked programs"
 sources:
-  - file: raw/X6JfbfmvgMo_lockheed.md
+  - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
@@ -25,7 +25,7 @@ out of the Department of Homeland Security, intended as a "catcher's mitt" to fo
 UFO/UAP materials that [[lockheed-martin|Lockheed Martin]] wished to divest. The proposal was
 reported by journalist [[chris-sharp|Chris Sharp]] and corroborated by documents entered into
 the November 2024 House Oversight Subcommittee hearing record by Rep. Tim Burchett, and by a
-subsequently declassified AARO slide deck. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md)
+subsequently declassified AARO slide deck. *([gerb/lockheed](../raw/gerb/lockheed.md)
 1:58:00–2:00:47)*
 
 ## Claims
@@ -33,26 +33,26 @@ subsequently declassified AARO slide deck. *([lockheed](../raw/X6JfbfmvgMo_lockh
 - Championed by Lockheed Martin Space Systems VP [[james-t-ryder|Dr. James T. Ryder]], who
   proposed a "UAP material divestment plan" to OAP leadership describing a specific Lockheed
   facility holding crash-retrieval materials from the 1950s and other historical operations.
-  *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 1:59:01–1:59:43)*
+  *([gerb/lockheed](../raw/gerb/lockheed.md) 1:59:01–1:59:43)*
 - DHS Science & Technology official Tara Oul was approached to help set up the PAP, per both the
   Burchett-submitted DOPSR-cleared document and the declassified AARO Kona Blue slide deck.
-  *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:02:22–2:02:48)*
+  *([gerb/lockheed](../raw/gerb/lockheed.md) 2:02:22–2:02:48)*
 - The technology-transfer agreement was killed by [[glenn-gaffney|Glenn Gaffney]], then sitting
   deputy director of the CIA's Directorate of Science and Technology.
-  *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 1:59:43–1:59:54)*
+  *([gerb/lockheed](../raw/gerb/lockheed.md) 1:59:43–1:59:54)*
 - Officially, DHS and involved agencies said the 2011 proposal was shut down over skepticism
   regarding the authenticity of the purported materials; Gerb argues there is more to the story,
   including possible high-level agency backing for the stonewalling.
-  *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:02:48–2:03:22)*
+  *([gerb/lockheed](../raw/gerb/lockheed.md) 2:02:48–2:03:22)*
 - Disgraced ex-AARO deputy director [[tim-phillips-aaro|Tim Phillips]] claimed on 30 July 2025
   that Kona Blue was established "as the home for all this paranormal UFO crap," and alleged
   (without evidence, per Gerb) that whistleblowers cite Kona Blue to justify unrelated claims —
   a pattern Gerb compares to former AARO director [[sean-kirkpatrick|Shawn Kirkpatrick]]'s
-  attacks on [[david-grush|David Grush]]. *([lockheed](../raw/X6JfbfmvgMo_lockheed.md)
+  attacks on [[david-grush|David Grush]]. *([gerb/lockheed](../raw/gerb/lockheed.md)
   2:00:52–2:01:33)*
 - Gerb believes with "moderate to high" conviction the materials involved were part or all of
   the 1953 [[kingman-arizona-crash-1953|Kingman, Arizona]] crash wreckage.
-  *([lockheed](../raw/X6JfbfmvgMo_lockheed.md) 2:39:41–2:40:03)*
+  *([gerb/lockheed](../raw/gerb/lockheed.md) 2:39:41–2:40:03)*
 
 ## Relationships
 

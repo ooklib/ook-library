@@ -15,28 +15,28 @@ relations:
   - relation: board_member_of
     target: aerospace-corporation
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
 William A. LaPlante (ASR-transcribed as "Lelant"/"Leela") served as Under Secretary of Defense
 for Acquisition and Sustainment (USD A&S) during the Biden administration, 2022–2025.
-*([mitre](../raw/107BtDYhTkA_mitre.md) 1:47:00–1:47:53)*
+*([gerb/mitre](../raw/gerb/mitre.md) 1:47:00–1:47:53)*
 
 ## Claims / career timeline
 
 - Assistant Secretary of the Air Force for Acquisition, Technology and Logistics (SAF/AQ),
   2014–2017 — a position Gerb calls "the lifeblood of Air Force Legacy Administration" in his
-  separate Air Force Hidden Wing project. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:47:53–1:48:11)*
+  separate Air Force Hidden Wing project. *([gerb/mitre](../raw/gerb/mitre.md) 1:47:53–1:48:11)*
 - Served at [[johns-hopkins-applied-physics-laboratory|Johns Hopkins APL]], a UARC Gerb calls "a
-  legacy program." *([mitre](../raw/107BtDYhTkA_mitre.md) 1:48:11–1:48:26)*
+  legacy program." *([gerb/mitre](../raw/gerb/mitre.md) 1:48:11–1:48:26)*
 - Served on the Defense Science Board around 2013, overlapping with [[donald-kerr]]'s second DSB
   stint (2010–early 2020s); now serves on the [[aerospace-corporation]] corporate board.
-  *([mitre](../raw/107BtDYhTkA_mitre.md) 1:48:34–1:48:48)*
+  *([gerb/mitre](../raw/gerb/mitre.md) 1:48:34–1:48:48)*
 - Joined [[mitre-corporation|MITRE]] in 2011 as missile defense portfolio director; left in 2013
   for the SAF/AQ role; returned to MITRE in 2015 as senior VP and general manager for MITRE's
   National Security Engineering Center. From 2015–2017 he held dual-hatted roles at MITRE and
-  Air Force acquisition simultaneously. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:48:48–1:49:19)*
+  Air Force acquisition simultaneously. *([gerb/mitre](../raw/gerb/mitre.md) 1:48:48–1:49:19)*
 
 ## Relationships
 

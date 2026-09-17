@@ -17,14 +17,14 @@ relations:
     target: top-policy-group
     note: "member alongside FDR/Truman, Stimson, Bush, and Conant"
 sources:
-  - file: raw/jR-h5p2bd-A_secrecy_1.md
+  - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 General George C. Marshall — Army Chief of Staff (1939–1945), Secretary of State (1947–1949),
 and Secretary of Defense (1950–1951) — is, alongside [[vannevar-bush]], one of the two figures
 UAP Gerb argues most likely built the security skeleton of the alleged "Manhattan Project 2.0"
-UFO legacy-program apparatus. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 20:21–20:31)*
+UFO legacy-program apparatus. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 20:21–20:31)*
 
 ## Claims
 
@@ -33,11 +33,10 @@ UFO legacy-program apparatus. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 20:
   tight-knit civilian/political control group through which the president retained oversight of
   the atomic project while circumventing normal government channels; as Army Chief of Staff,
   Marshall sat at the apex of the short chain of command through which General
-  [[leslie-groves|Leslie Groves]] reported. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md)
+  [[leslie-groves|Leslie Groves]] reported. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md)
   1:24:39–1:25:27, 2:11:45–2:12:10)*
 - UAP Gerb hypothesizes Marshall and Bush's Manhattan Project work directly inspired the
-  architecture of clandestine UFO crash-retrieval teams. *([secrecy-1](../raw/
-  jR-h5p2bd-A_secrecy_1.md) 20:33–20:47)*
+  architecture of clandestine UFO crash-retrieval teams. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 20:33–20:47)*
 - In 1943, facing a problem where the Manhattan Project's secrecy was so total that standard
   military intelligence could not be briefed in to assess German atomic progress, Marshall
   proposed a separate intelligence operation under the [[manhattan-engineer-district|Manhattan
@@ -46,14 +45,14 @@ UFO legacy-program apparatus. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 20:
   and Vannevar Bush. UAP Gerb argues this shows Marshall was, from early on, prepared to use his
   G2 office for covert, unacknowledged missions — a template he sees echoed decades later in the
   Army's [[yellow-fruit|Yellow Fruit]] SAP scandal, also run out of a G2-adjacent office.
-  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 2:14:08–2:15:39, 3:17:04–3:17:33)*
+  *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 2:14:08–2:15:39, 3:17:04–3:17:33)*
 - UAP Gerb hypothesizes, with low confidence and explicitly labeled as speculation, that Marshall
   led (or a similar office he controlled led) the disputed [[interplanetary-phenomenon-unit|
   Interplanetary Phenomenon Unit (IPU)]] — researchers Ryan S. Wood and the late Dr. Robert Wood
   argued the IPU's nominal "unnamed Army G2" leadership was in fact Marshall himself, operating
   through a subordinate office to keep himself formally removed from the chain of command. UAP
   Gerb notes this would be conceptually consistent with the top-policy-group pattern of minimal
-  paper trails and small control groups. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md)
+  paper trails and small control groups. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md)
   2:06:51–2:08:13)*
 - Marshall appears throughout the disputed [[majestic-12|Majestic 12]] lore: an alleged 5 March
   1942 memo from Marshall to FDR discussing recovery of an "interplanetary origin" craft after
@@ -62,11 +61,11 @@ UFO legacy-program apparatus. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 20:
   only cabinet member briefed on the Roswell-era crashed UFOs, with Secretary of Defense James
   Forrestal to be briefed on certain aspects, and that select Atomic Energy Commission scientists
   including [[j-robert-oppenheimer|Dr. Robert Oppenheimer]] were part of the crash-retrieval team.
-  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 2:08:20–2:09:36)*
+  *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 2:08:20–2:09:36)*
 - UAP Gerb notes Marshall left government service relatively early (around 1950–1951, after his
   stint as Secretary of Defense) and never served in the Eisenhower administration, limiting his
   personal tenure within the alleged Manhattan Project 2.0 compared to Bush.
-  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 3:15:39–3:15:57)*
+  *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 3:15:39–3:15:57)*
 
 ## Relationships
 

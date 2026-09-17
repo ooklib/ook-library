@@ -22,38 +22,38 @@ relations:
     target: hidden-wing-air-force-program
     note: "Gerb: broader institutional umbrella for Hidden Wing T&E, via AFRL and AFTC/412th"
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
-  - file: raw/-IXSZe4xVv4_hidden_wing.md
+  - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 The predecessor commands Air Materiel Command (AMC) and Air Research and Development Command
 (ARDC), both headquartered at [[wright-patterson-air-force-base|Wright-Patterson AFB]], merged
 into the modern Air Force Materiel Command (AFMC) in the early 1990s — the Air Force's R&D
-major command. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:01:35–1:01:50, 2:04:38–2:05:05)*
+major command. *([gerb/mitre](../raw/gerb/mitre.md) 1:01:35–1:01:50, 2:04:38–2:05:05)*
 
 ## Claims
 
 - AMC was initially tasked with analysis and housing designation for the alleged
-  [[roswell-incident-1947|Roswell]] recovery/materials. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:06:56–1:07:04)*
+  [[roswell-incident-1947|Roswell]] recovery/materials. *([gerb/mitre](../raw/gerb/mitre.md) 1:06:56–1:07:04)*
 - In 1951, ARDC took over R&D functions from AMC; ARDC was "practically inseparable" from
   [[mitre-corporation|MITRE]] during MITRE's formative years working on
-  [[sage-semi-automatic-ground-environment|SAGE]]. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:06:56–1:07:26)*
+  [[sage-semi-automatic-ground-environment|SAGE]]. *([gerb/mitre](../raw/gerb/mitre.md) 1:06:56–1:07:26)*
 - Gerb argues ARDC played "a guiding hand" in establishing MITRE as a trusted, secure R&D
-  partner to adapt Roswell technologies for DoD applications. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:07:26–1:07:41)*
+  partner to adapt Roswell technologies for DoD applications. *([gerb/mitre](../raw/gerb/mitre.md) 1:07:26–1:07:41)*
 - Today, the Air Force Life Cycle Management Center (AFLCMC) is the primary contract/
   administrative agent for MITRE's National Security Engineering Center (NSEC) FFRDC.
-  *([mitre](../raw/107BtDYhTkA_mitre.md) 43:52–44:09)*
+  *([gerb/mitre](../raw/gerb/mitre.md) 43:52–44:09)*
 - Current AFLCMC commander Lt. Gen. [[donna-shipton]] is noted as having a "very long history"
   within the Air Force legacy-program portfolio; AFLCMC's Information Protection directorate
-  (IP) is separately identified as a major legacy-program protection service. *([mitre](../raw/107BtDYhTkA_mitre.md) 44:09–44:30)*
+  (IP) is separately identified as a major legacy-program protection service. *([gerb/mitre](../raw/gerb/mitre.md) 44:09–44:30)*
 
 ## Claims (from the Hidden Wing video — precursor-command lineage and AFTC/412th thesis)
 
 Gerb devotes an extended section to AFMC's precursor commands, calling this "one of the most
 interesting parts of this entire video" and the deepest-rooted institutional thread to UFO
-legacy-program crash-retrieval-era claims. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md)
+legacy-program crash-retrieval-era claims. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md)
 3:07:02–3:07:08)*
 
 - AFMC (est. 1992) formed from the merger of Air Force Logistics Command (AFLC, 1961–1992) and
@@ -62,7 +62,7 @@ legacy-program crash-retrieval-era claims. *([hidden-wing](../raw/-IXSZe4xVv4_hi
   [[wright-patterson-air-force-base|Wright-Patterson AFB]] — the same command Gerb argues was most
   likely given custody of the [[roswell-incident-1947|Roswell]] wreckage in 1947, per Air Force
   Major General Neil McCasland's alleged statement to Tom DeLonge (see Claims below).
-  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 2:57:06–2:58:40)*
+  *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 2:57:06–2:58:40)*
 - AFSC was the 1961 rebranding of the Air Research and Development Command (ARDC, est.
   1950/1951), which took R&D responsibility (and Edwards AFB) away from AMC. On 1 April 1952, ARDC
   gained a new subordinate command, the [[air-force-special-weapons-center|Air Force Special
@@ -75,13 +75,13 @@ legacy-program crash-retrieval-era claims. *([hidden-wing](../raw/-IXSZe4xVv4_hi
   military bases in the American Southwest, and connects Operation Paperclip recruitment of
   Xaver Dorsch (Nazi Organisation Todt's director, expert in hyper-advanced subterranean
   construction) to a 1947 AMC "underground plant program" request.
-  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 2:56:30–3:02:16)*
+  *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 2:56:30–3:02:16)*
 - [[eric-henry-wang|Dr. Eric Henry Wang]], named by witnesses in both the
   [[kingman-arizona-crash-1953|1953 Kingman]] and [[aztec-new-mexico-crash-1948|1948 Aztec]]
   crash-retrieval cases as a senior reverse-engineering figure, headed AFSWC's research
   directorate's Department of Special Studies (1949–1960, moving from Wright-Patterson to
   Kirtland in 1956) — directly tying AFMC's institutional ancestry to Gerb's earliest
-  crash-retrieval claims. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 3:07:16–3:15:22)*
+  crash-retrieval claims. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 3:07:16–3:15:22)*
   See [[eric-henry-wang]].
 - Per Air Force Maj. Gen. Neil McCasland (commander, [[air-force-research-laboratory|AFRL]],
   2011–2013; previously AFRL Space Vehicles Directorate materiel wing director and Ogden Air
@@ -89,14 +89,13 @@ legacy-program crash-retrieval-era claims. *([hidden-wing](../raw/-IXSZe4xVv4_hi
   Podesta: "When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force
   Base. General McCasland was in charge of that exact laboratory up to a couple years ago."
   DeLonge separately claimed McCasland publicly postured as a UFO skeptic while privately being
-  "very, very aware." *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 2:53:12–2:55:17)*
+  "very, very aware." *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 2:53:12–2:55:17)*
 - AFMC is organized into six centers/core mission areas: discovery/development
   ([[air-force-research-laboratory|AFRL]], Wright-Patterson); test and evaluation (Air Force Test
   Center/AFTC, [[edwards-air-force-base|Edwards AFB]]); life-cycle management (AFLCMC,
   Wright-Patterson); sustainment/logistics (Air Force Sustainment Center, Tinker AFB);
   installation/mission support (AFIMSC, JBSA); and nuclear-systems management (Air Force Weapons
-  Center, [[kirtland-air-force-base|Kirtland AFB]]). *([hidden-wing](../raw/
-  -IXSZe4xVv4_hidden_wing.md) 2:41:27–2:42:09)*
+  Center, [[kirtland-air-force-base|Kirtland AFB]]). *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 2:41:27–2:42:09)*
 - Gerb's central Hidden Wing thesis: AFTC (formerly the Air Force Flight Test Center, AFTTC), out
   of Edwards AFB, under AFMC, is "one of the most critical institutions" to the investigation.
   AFTC "conducts developmental and follow-on testing and evaluation of manned and unmanned
@@ -109,7 +108,7 @@ legacy-program crash-retrieval-era claims. *([hidden-wing](../raw/-IXSZe4xVv4_hi
   engineer, exploit, and adapt nonhuman aircraft for human use, harnessing the Edwards 412th,
   UTTR, and NTR "Western Ranges" and drawing R&D support from Antelope Valley contractors
   (Boeing, Northrop Grumman, Lockheed Martin) at [[air-force-plant-42|Air Force Plant 42]]. He
-  names this program "the Hidden Wing." *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md)
+  names this program "the Hidden Wing." *([gerb/hidden_wing](../raw/gerb/hidden_wing.md)
   2:42:45–2:46:18)* See [[hidden-wing-air-force-program]].
 
 ## Relationships

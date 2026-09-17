@@ -24,7 +24,7 @@ relations:
     target: aaro
     note: "Moultrie, as USD I&S, informed DoD of AARO's creation on 20 July 2022"
 sources:
-  - file: raw/-IXSZe4xVv4_hidden_wing.md
+  - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
@@ -35,7 +35,7 @@ exercises oversight over the DIA, NGA, NRO, and NSA. It is a dual-hatted role: t
 serves as Director of Defense Intelligence under the ODNI. Gerb calls it, alongside the
 [[under-secretary-of-defense-for-acquisition-and-sustainment|USD A&S]], one of the most critical
 lynchpins of National Security Council UFO legacy programs.
-*([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:05:33–1:06:35)*
+*([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:05:33–1:06:35)*
 
 ## Claims
 
@@ -45,14 +45,13 @@ lynchpins of National Security Council UFO legacy programs.
   Agencies of the US Government," established 6 November 2008). Gerb argues USD I&S-governed
   directives tracing back to classified Truman/Eisenhower-era executive orders likely have SAF/AAH
   coordinating with the [[national-program-special-management-staff|NPMS]] and USD I&S itself for
-  modern NSC crash-retrieval/reverse-engineering programs. *([hidden-wing](../raw/
-  -IXSZe4xVv4_hidden_wing.md) 1:03:29–1:06:14, 1:12:12–1:12:48)*
+  modern NSC crash-retrieval/reverse-engineering programs. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:03:29–1:06:14, 1:12:12–1:12:48)*
 - The [[national-program-special-management-staff|National Program Special Management Staff
   (NPMS)]] — whose director Gerb calls "usually the most cleared person in the entire DoD besides
   the Secretary of Defense," more cleared even than the director of DoD's Special Access Program
   Central Office (SAPCO) — falls under USD I&S's dual-hatted "director of defense intelligence"
   role, specifically under "sensitive activities and special programs" (SASP). Gerb argues NPMS
-  coordinates between NSC SAPs and the DoD/IC. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md)
+  coordinates between NSC SAPs and the DoD/IC. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md)
   1:06:47–1:09:06)*
 - On 20 July 2022, then-USD I&S [[ronald-moultrie|Ronald S. Moultrie]] informed DoD of the
   creation of [[aaro|AARO]] and the installation of [[sean-kirkpatrick|Sean Kirkpatrick]] as its
@@ -61,13 +60,12 @@ lynchpins of National Security Council UFO legacy programs.
   to [[oak-ridge-national-laboratory|Oak Ridge National Lab]] as CTO for defense and intelligence
   programs (a job posting later deleted, and omitted from Kirkpatrick's public CV) may have been
   Kirkpatrick's introduction to firsthand UFO science and technology work.
-  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:09:11–1:11:16)*
+  *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:09:11–1:11:16)*
 - Moultrie is separately noted to have erased [[battelle-memorial-institute|Battelle Memorial
   Institute]] (nearly two years as an advisory board member) from his public CV — notable to
   Gerb because Oak Ridge National Lab is managed by Battelle. Moultrie also served as an
   intelligence advisory board member for [[mitre-corporation|MITRE]] and as a board member for
-  the Better Angel Society (owned by the Carlyle Group). *([hidden-wing](../raw/
-  -IXSZe4xVv4_hidden_wing.md) 1:11:16–1:11:59)*
+  the Better Angel Society (owned by the Carlyle Group). *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:11:16–1:11:59)*
 
 ## Relationships
 

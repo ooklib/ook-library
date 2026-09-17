@@ -15,28 +15,28 @@ relations:
   - relation: coincides_with
     target: interplanetary-phenomenon-unit
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
-  - file: raw/mHkPHd_eOXI_sandia.md
+  - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
-  - file: raw/jR-h5p2bd-A_secrecy_1.md
+  - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
 most-senior tier of legacy-program leadership; he calls [[donald-kerr]] "what you would consider
-MJ1 if you use Majestic 12 terminology." *([mitre](../raw/107BtDYhTkA_mitre.md) 1:38:51–1:39:06)*
+MJ1 if you use Majestic 12 terminology." *([gerb/mitre](../raw/gerb/mitre.md) 1:38:51–1:39:06)*
 
 ## Claims (from the SAIC video)
 
 - [[colonel-steve-wilson|Colonel Steve Wilson]]'s "map of Star Wars City" and claimed
   [[project-pounce|Project Pounce]] unit can allegedly both be observed in the disputed MJ-12
-  "Project Aquarius" document. *([saic](../raw/9p99lTsC7wQ_saic.md) 13:04–13:11)*
+  "Project Aquarius" document. *([gerb/saic](../raw/gerb/saic.md) 13:04–13:11)*
 - Also listed on Wilson's Star Wars City chart alongside the NRO, National Security Council,
   NSA, CIA, and NORAD as institutions expected to be associated with UFO retrieval/exploitation
-  programs. *([saic](../raw/9p99lTsC7wQ_saic.md) 14:12–14:27)*
+  programs. *([gerb/saic](../raw/gerb/saic.md) 14:12–14:27)*
 
 ## Claims (from the Sandia video)
 
@@ -45,12 +45,11 @@ MJ1 if you use Majestic 12 terminology." *([mitre](../raw/107BtDYhTkA_mitre.md) 
   were transported to "the atomic energy facility at Sandia" for study, and contains a memorandum
   from Truman to [[james-v-forrestal|James Forrestal]] dated 24 September 1947 authorizing
   Forrestal and [[vannevar-bush|Vannevar Bush]] to proceed with Operation Majestic 12 — a meeting
-  Truman's real appointment records confirm occurred that day. *([sandia](../raw/mHkPHd_eOXI_
-  sandia.md) 34:15–34:24, 35:46–37:29)*
+  Truman's real appointment records confirm occurred that day. *([gerb/sandia](../raw/gerb/sandia.md) 34:15–34:24, 35:46–37:29)*
 - The EBD's account of Gen. Walter B. Smith replacing Forrestal in MJ-12 on 1 August 1950 also
   parallels an off-record meeting in Truman's real appointment records on that date — one of
   several such parallels Gerb finds noteworthy without treating the EBD as confirmed genuine.
-  *([sandia](../raw/mHkPHd_eOXI_sandia.md) 36:19–36:50)*
+  *([gerb/sandia](../raw/gerb/sandia.md) 36:19–36:50)*
 
 ## Claims (from the "Secrecy" Vol. 1 video)
 
@@ -60,27 +59,27 @@ MJ1 if you use Majestic 12 terminology." *([mitre](../raw/107BtDYhTkA_mitre.md) 
   Walter Bedell Smith after Forrestal's 1949 death), Admiral Roscoe Hillenkoetter,
   [[vannevar-bush|Vannevar Bush]], General Nathan Twining, General Hoyt Vandenberg, Dr. Detlev
   Bronk, Dr. Jerome Hunsaker, Mr. Sidney Souers, Mr. Gordon Gray, Dr. Donald Menzel, General
-  Robert Montague, and Dr. Lloyd Berkner. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md)
+  Robert Montague, and Dr. Lloyd Berkner. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md)
   1:28:58–1:31:26)*
 - The EBD contains a memorandum allegedly from Truman to Forrestal dated 24 September 1947
   authorizing Forrestal and Bush to proceed with "Operation Majestic 12" — a meeting date Truman's
   real appointment records confirm occurred. The EBD's account of Walter Bedell Smith replacing
   Forrestal on 1 August 1950 similarly parallels an off-record meeting in Truman's real
   appointment records on that date. Gerb treats these as noteworthy parallels without treating the
-  EBD as confirmed genuine. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:29:36–1:30:33)*
+  EBD as confirmed genuine. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:29:36–1:30:33)*
 - Gerb states he does not know whether Truman personally established MJ-12, but is "quite
   confident" the group existed in some form under Eisenhower, given Gordon Gray's later (1958–
   1961) role as Eisenhower's national security adviser — a literal seat on the
   [[nsc-5412-committee|NSC's 5412 Committee]] — which he reads as evidence MJ-12 (or its
   successor) continued covertly as the control group for the UFO legacy-program portfolio through
   the 5412 Committee and its Nixon-era evolution, the 303 Committee, until going into a "black
-  box" or breaking apart during 1980s SAP reforms. *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md)
+  box" or breaking apart during 1980s SAP reforms. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md)
   1:31:26–1:34:21)*
 - A disputed IPU report dated 22 July 1947 states General [[george-c-marshall|George C.
   Marshall]] (then Secretary of State) was the only cabinet member briefed on the crashed UFOs,
   with Forrestal to be briefed on certain aspects — placing MJ-12-adjacent lore in direct dialogue
   with the disputed [[interplanetary-phenomenon-unit|Interplanetary Phenomenon Unit]] documents.
-  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 2:08:51–2:09:14)*
+  *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 2:08:51–2:09:14)*
 
 ## Relationships
 

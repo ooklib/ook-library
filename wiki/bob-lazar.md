@@ -9,12 +9,12 @@ relations:
   - relation: alleged_by
     target: alien-reproduction-vehicle-tr3b
 sources:
-  - file: raw/9p99lTsC7wQ_saic.md
+  - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
 Bob Lazar claimed to have been hired by [[eg-and-g|EG&G]] to reverse-engineer UFO propulsion
-systems at Area 51's S4 site. *([saic](../raw/9p99lTsC7wQ_saic.md) 1:21:52–1:22:08)*
+systems at Area 51's S4 site. *([gerb/saic](../raw/gerb/saic.md) 1:21:52–1:22:08)*
 
 ## Relationships
 

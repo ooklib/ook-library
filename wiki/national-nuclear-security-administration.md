@@ -26,9 +26,9 @@ relations:
     target: defense-threat-reduction-agency
     note: "DTRA supports the NNSA-led US nuclear enterprise"
 sources:
-  - file: raw/mHkPHd_eOXI_sandia.md
+  - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
-  - file: raw/jR-h5p2bd-A_secrecy_1.md
+  - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
@@ -42,38 +42,35 @@ emergencies. Gerb frames the NNSA — via its three "multi-mission laboratory" F
 commands ([[doe-nuclear-emergency-support-team|NEST]], the Special Response Team (SRT), and the
 [[office-of-secure-transportation|Office of Secure Transportation (OST)]]) — as an overlooked but
 critical layer of UFO legacy-program custody, recovery, and continental-US transport logistics.
-*([sandia](../raw/mHkPHd_eOXI_sandia.md) 1:15:52–1:17:19, 1:33:50–1:34:09, 1:44:27–1:45:24)*
+*([gerb/sandia](../raw/gerb/sandia.md) 1:15:52–1:17:19, 1:33:50–1:34:09, 1:44:27–1:45:24)*
 
 ## Claims
 
 - The NNSA's core authorities derive, per Gerb, from the 1954 [[atomic-energy-commission|Atomic
   Energy]] Act's "transclassified foreign nuclear information" framework — the same mechanism he
-  believes obscures UFO materials as nuclear secrets. *([sandia](../raw/mHkPHd_eOXI_sandia.md)
+  believes obscures UFO materials as nuclear secrets. *([gerb/sandia](../raw/gerb/sandia.md)
   1:34:34–1:34:50)*
 - Oversees the [[nevada-national-security-site|Nevada National Security Site]] (formerly the
   Nevada Test Site) through its Nevada Field Office, conducting national security/defense,
-  environmental management, and non-defense missions there. *([sandia](../raw/mHkPHd_eOXI_
-  sandia.md) 1:47:42–1:47:57)*
+  environmental management, and non-defense missions there. *([gerb/sandia](../raw/gerb/sandia.md) 1:47:42–1:47:57)*
 - Experimental/SAP programs at the NNSS are sponsored by exactly three FFRDCs: Los Alamos,
-  Lawrence Livermore, and Sandia. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 1:48:01–1:48:18)*
+  Lawrence Livermore, and Sandia. *([gerb/sandia](../raw/gerb/sandia.md) 1:48:01–1:48:18)*
 - The NNSA's 2016 spokesperson Darwin Morgan publicly discussed [[area-6|Area 6]], a top-secret
   R&D/UAV-testing facility on Yucca Flat within the NNSS — Gerb's candidate site for DARPA- and
-  [[defense-threat-reduction-agency|DTRA]]-linked exotic-propulsion RDT&E. *([sandia](../raw/
-  mHkPHd_eOXI_sandia.md) 2:19:00–2:21:00)*
+  [[defense-threat-reduction-agency|DTRA]]-linked exotic-propulsion RDT&E. *([gerb/sandia](../raw/gerb/sandia.md) 2:19:00–2:21:00)*
 - Gerb's working theory: the NNSA uses its three national-lab FFRDCs together with NEST, SRT, and
   OST as a coordinated system for on-site recovery, procurement, and continental-US transport of
   recovered UFOs under 1954 Atomic Energy Act cover — though he does not believe NEST/SRT/OST are
   themselves the direct-action recovery team (he favors JSOC-tier units or the
   [[160th-special-operations-aviation-regiment|160th SOAR]] for that role).
-  *([sandia](../raw/mHkPHd_eOXI_sandia.md) 1:44:27–1:45:24, 2:46:47–2:48:36)*
+  *([gerb/sandia](../raw/gerb/sandia.md) 1:44:27–1:45:24, 2:46:47–2:48:36)*
 - Sandia has supplied the NNSA's OST with "Mobile Guardian Transporters" (MGTs), a third-generation
   18-wheel tractor-trailer for moving nuclear materials, special components, and weapons across
-  the country. *([sandia](../raw/mHkPHd_eOXI_sandia.md) 1:39:19–1:39:48)*
+  the country. *([gerb/sandia](../raw/gerb/sandia.md) 1:39:19–1:39:48)*
 - A 2008 Needles, California incident — a cylindrical object with a turquoise glow that crashed
   on the banks of the Colorado River, reported by ex-police officer Frank Costigan and other
   witnesses, investigated by journalist George Knapp in 2020 — allegedly saw personnel in Nevada
-  Test Site/NNSA badges and Office of Secure Transportation convoys respond. *([sandia](../raw/
-  mHkPHd_eOXI_sandia.md) 1:36:09–1:38:26)*
+  Test Site/NNSA badges and Office of Secure Transportation convoys respond. *([gerb/sandia](../raw/gerb/sandia.md) 1:36:09–1:38:26)*
 
 ## Claims (from the "Secrecy" Vol. 1 video)
 
@@ -82,20 +79,20 @@ critical layer of UFO legacy-program custody, recovery, and continental-US trans
   [[doe-nuclear-emergency-support-team|NEST]], [[office-of-secure-transportation|OST]], and the
   Special Response Team for on-site recovery, procurement, and continental-US transport of
   recovered UFOs under cover of the [[atomic-energy-act-1954|1954 Atomic Energy Act]].
-  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:19:58–1:20:23, 1:22:53–1:23:21)*
+  *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:19:58–1:20:23, 1:22:53–1:23:21)*
 - NEST's core forensics element, the Nuclear Forensics Material Analysis Program (NF-MAP), is
   tasked to deliver "timely, specific, state-of-the-art forensic results for nuclear materials
   found outside regulatory control." UAP Gerb hypothesizes "with near total certainty" that NF-MAP
   is a paramount component of alleged UFO crash-retrieval programs, transporting nonregulatory
   materials to key NNSA facilities: Los Alamos, Lawrence Livermore, Oak Ridge, Pacific Northwest
   National Laboratory, and the Y-12 National Security Complex.
-  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:17:33–1:19:17)*
+  *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:17:33–1:19:17)*
 - NEST was created under Executive Order 12656 to operate under the primary authority of the 1954
   Atomic Energy Act, assisting the FBI and other agencies with technical expertise on nuclear-
   material incidents; UAP Gerb hypothesizes "with near total certainty" that NEST was the ground-
   element team, dressed in mission-oriented protective posture (MOP) gear, that USMC Lance
   Corporal Jonathan Wagant observed securing a 1997 Peru UFO crash site.
-  *([secrecy-1](../raw/jR-h5p2bd-A_secrecy_1.md) 1:16:38–1:17:43)*
+  *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:16:38–1:17:43)*
 
 ## Relationships
 

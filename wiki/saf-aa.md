@@ -21,11 +21,11 @@ relations:
     target: william-e-mcclure
     note: "director of SAF/AAZ (security/special program oversight/info protection), 2019-2021"
 sources:
-  - file: raw/0kLSp0lH-JQ_northrop_trw.md
+  - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
-  - file: raw/-IXSZe4xVv4_hidden_wing.md
+  - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
-  - file: raw/jR-h5p2bd-A_secrecy_1.md
+  - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
@@ -36,7 +36,7 @@ of the Air Force*, as involved in senior leadership of Air Force UFO legacy prog
 connects two subcomponents to the office: SAF/AAH ("sensitive activities") and SAF/AAZ
 ("security, special program oversight, and information protection") — the latter run, per Chris
 Mellon's leaked "SCES2 gatekeeper" list, by Mr. Russell E. Wiler and Mr. William E. McClure
-respectively. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 59:57–1:00:48)*
+respectively. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 59:57–1:00:48)*
 
 ## Claims
 
@@ -45,7 +45,7 @@ respectively. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 59:57–1:00:
   which the Air Force had administrative control" — cover programs that did not appear in mission
   directives and operated exclusively under SAF/AA, bypassing SAF/AAZ's security-oversight
   mechanism entirely. Davidson states two such programs "were started ... in Pete Aldridge's
-  day." *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 1:01:12–1:03:00)*
+  day." *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 1:01:12–1:03:00)*
 - Gerb argues the "outside activities" actually predate this framing and were instead rolled
   under SAF/AA as a cover structure while [[edward-c-aldridge|Edward C. Aldridge]] was Under
   Secretary of the Air Force (1981–1986) and, concurrently, director of the
@@ -54,14 +54,14 @@ respectively. *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 59:57–1:00:
   programs "morphing and using cover offices and programs for protection" during a broader
   late-1970s/early-1980s period of special-access-program reform and security expansion (also the
   period of the [[strategic-defense-initiative|Strategic Defense Initiative]]'s founding).
-  *([northrop-trw](../raw/0kLSp0lH-JQ_northrop_trw.md) 1:03:41–1:09:03)*
+  *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 1:03:41–1:09:03)*
 
 ## Claims (from the Hidden Wing video — primary SAF/AAH and SAF/AAZ dossier)
 
 Gerb's Hidden Wing video treats SAF/AAH and SAF/AAZ (the two "sister departments" under SAF/AA)
 as an entire dedicated chapter, calling both offices "our best way to reference these offices"
 despite recent Department-of-the-Air-Force naming changes.
-*([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:03:20–1:03:43)*
+*([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:03:20–1:03:43)*
 
 - SAF/AAH ("sensitive activities"), per a 2014 HAF mission directive, "serves as the United
   States Air Force office of primary responsibility and single enterprise to address immediate
@@ -74,20 +74,20 @@ despite recent Department-of-the-Air-Force naming changes.
   Intelligence and Security (USD I&S)]] — which Gerb argues makes SAF/AAH a candidate coordination
   point between the [[national-program-special-management-staff|NPMS]] and modern
   National-Security-Council-run crash-retrieval/reverse-engineering programs.
-  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:03:51–1:06:14, 1:12:12–1:12:48)*
+  *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:03:51–1:06:14, 1:12:12–1:12:48)*
 - Gerb speculates SAF/AAH's charter over "combat air force, combat support agency, and combatant
   commander mission needs" could cover scenarios like SOCOM sensitive activities requiring
   ISR-supported UFO crash retrievals on foreign soil, or Air Combat Command (headquartered at
   Langley AFB) deploying derivative-technology-adapted airframes — a scenario Gerb connects to
   whistleblower [[dylan-borland|Dylan Borland]]'s 2012 sighting of a cloaked triangular airframe
-  over Langley AFB. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:12:48–1:14:09)*
+  over Langley AFB. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:12:48–1:14:09)*
 - [[russell-e-wiler|Russell E. Wiler]] served as director of SAF/AAH from 2009 to 2024 and is
   Gerb's leading candidate (via researcher Alex Katz's analysis) for the redacted "SCES2" Air
   Force gatekeeper named in a leaked 2020 [[christopher-mellon|Christopher Mellon]] Signal
   exchange. In 2024, the Department of the Air Force's "reoptimization" morphed SAF/AAH into Air
   Force Competitive Activities (SAF/OC) under the director of plans and effects (SAF/OCX) — a
   position Wiler continued to hold until his apparent 2025 retirement.
-  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:20:41–1:23:15)* See [[russell-e-wiler]].
+  *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:20:41–1:23:15)* See [[russell-e-wiler]].
 - SAF/AAZ ("security/special program oversight/info protection") "provides a strategic policy
   focus on the Air Force security enterprise and on protection of information across the Air
   Force," manages the Air Force information-security program (including nuclear information
@@ -96,7 +96,7 @@ despite recent Department-of-the-Air-Force naming changes.
   Force Special Access Program Central Office (SAPCO)]] and authorizing official for Air Force
   SAP systems. [[william-e-mcclure|William E. McClure]] directed SAF/AAZ from 2019 to 2021 and is
   Gerb's secondary candidate for Mellon's SCES2 gatekeeper.
-  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:24:51–1:28:24)* See [[william-e-mcclure]].
+  *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:24:51–1:28:24)* See [[william-e-mcclure]].
 
 ## Claims (from the "Secrecy" Vol. 1 video)
 
@@ -105,8 +105,7 @@ despite recent Department-of-the-Air-Force naming changes.
   ended the prior era of loose top-secret-codeword readon access, shifting from hiding within SAP
   umbrellas (like [[polaris-program|Polaris]]/[[operation-sand-dollar|Sand Dollar]]) toward hiding
   within known-government cover offices instead — bypassing SAF/AAZ, the Air Force's component-
-  level [[special-access-program-central-office|SAPCO]], entirely. *([secrecy-1](../raw/
-  jR-h5p2bd-A_secrecy_1.md) 3:26:53–3:27:39)*
+  level [[special-access-program-central-office|SAPCO]], entirely. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 3:26:53–3:27:39)*
 
 ## Relationships
 

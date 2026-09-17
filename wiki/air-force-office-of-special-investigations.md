@@ -28,32 +28,32 @@ relations:
     target: guardian-angel-program
     note: "AFOSI/PJ + FBI joint counterintelligence program, est. 1979"
 sources:
-  - file: raw/107BtDYhTkA_mitre.md
+  - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
-  - file: raw/-IXSZe4xVv4_hidden_wing.md
+  - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 AFOSI's Office of Special Projects (PJ) is named as a "program protection and exposure
 mitigation" service safeguarding the broader [[ufo-legacy-programs|legacy program]] pyramid.
-*([mitre](../raw/107BtDYhTkA_mitre.md) 6:39–6:54)*
+*([gerb/mitre](../raw/gerb/mitre.md) 6:39–6:54)*
 
 ## Claims
 
 - Historically provided counterintelligence support for [[mitre-corporation|MITRE]]'s legacy
   activities, per Gerb, who addresses a named contact directly: "hello Terry Phillips."
-  *([mitre](../raw/107BtDYhTkA_mitre.md) 40:42–40:56, 1:12:01–1:12:08)* See [[terry-phillips]].
+  *([gerb/mitre](../raw/gerb/mitre.md) 40:42–40:56, 1:12:01–1:12:08)* See [[terry-phillips]].
 - Maintains permanent offices in both [[crystal-city-virginia|Crystal City]] and
   [[hanscom-air-force-base|Hanscom AFB]] — the latter being where MITRE opened its first
-  program office. *([mitre](../raw/107BtDYhTkA_mitre.md) 40:42–41:05)*
+  program office. *([gerb/mitre](../raw/gerb/mitre.md) 40:42–41:05)*
 - Employed by [[office-of-naval-intelligence|ONI]] for counterintelligence support alongside
-  [[naval-criminal-investigative-service|NCIS]) on the MITRE program. *([mitre](../raw/107BtDYhTkA_mitre.md) 1:11:54–1:12:08)*
+  [[naval-criminal-investigative-service|NCIS]) on the MITRE program. *([gerb/mitre](../raw/gerb/mitre.md) 1:11:54–1:12:08)*
 
 ## Claims (from the Hidden Wing video — dedicated AFOSI/PJ chapter)
 
 Gerb devotes a full chapter of the Hidden Wing video to AFOSI, calling the Office of Special
 Projects (PJ) "the premier target for our investigation into Air Force UFO Legacy Program
-security." *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:56:51–1:57:13)*
+security." *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:56:51–1:57:13)*
 
 - AFOSI, established 1948 (fully operational by August 1948, empowered for counterintelligence
   activity by Air Force Chief of Staff Hoyt Vandenberg's General Order 29, signed 15 July 1948 —
@@ -64,8 +64,7 @@ security." *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:56:51–1:57:13)
   security program management for special access programs under the Office of the Secretary of
   the Air Force." Gerb notes the AFOSI-establishment dates line up closely with a July 1948
   classified presidential executive order that, per witness [[j-andrew-kner|J. Andrew Kner]]'s
-  testimony, created the early skeleton of UFO legacy programs. *([hidden-wing](../raw/
-  -IXSZe4xVv4_hidden_wing.md) 1:52:57–1:56:26)*
+  testimony, created the early skeleton of UFO legacy programs. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:52:57–1:56:26)*
 - AFOSI's Office of Special Projects (PJ) is one of several specialized AFOSI units; PJ's
   "most critical mission is preserving the most classified and sensitive technologies," delivering
   security, inspection, cybersecurity, investigative, and counterintelligence services to Air and
@@ -73,7 +72,7 @@ security." *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:56:51–1:57:13)
   Raider, and the F-117A Nighthawk. Gerb explicitly frames PJ (alongside DARPA's Security and
   Intelligence Directorate and DOE's Office of Intelligence and Counterintelligence) as the
   "limestone casing" insider/outsider-threat-protection layer of his UFO legacy-program pyramid.
-  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:57:13–1:59:16)*
+  *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:57:13–1:59:16)*
 - PJ maintains permanent presence at 31 acknowledged locations, including the Pentagon,
   [[crystal-city-virginia|Crystal City]], [[hanscom-air-force-base|Hanscom AFB]], Palmdale (i.e.
   [[air-force-plant-42|Air Force Plant 42]]), El Segundo, [[wright-patterson-air-force-base|
@@ -81,25 +80,25 @@ security." *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:56:51–1:57:13)
   Support Activity Dahlgren — the last notable to Gerb given his prior theories about
   [[naval-surface-warfare-center-dahlgren|NSWC Dahlgren]]/Crane/Keyport naval UFO reverse-
   engineering missions and PJ's alleged role in space surveillance and tracking outside Dahlgren.
-  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 1:59:16–2:04:16)*
+  *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:59:16–2:04:16)*
 - [[terry-phillips|Terry Phillips]] — former PJ executive director and Air Force SAP Security
   Director (Dec 2016–Dec 2021), later Leidos and then Northrop Grumman VP of security — is Gerb's
   central "boogeyman" gatekeeper figure for the entire video; his successor as PJ
   executive director/SAP Security Director is [[lee-m-russ|Special Agent Lee M. Russ]].
-  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 2:10:32–2:30:03)* See [[terry-phillips]].
+  *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 2:10:32–2:30:03)* See [[terry-phillips]].
 - Since 1979, PJ and the FBI have jointly run the [[guardian-angel-program|Guardian Angel
   program]], embedding FBI personnel within Air Force SAPs; Gerb suggests this program (or a
   successor) may explain recent FBI harassment reported by non-public Air Force UFO RDT&E
-  witnesses. *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 2:17:56–2:19:34)*
+  witnesses. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 2:17:56–2:19:34)*
 - [[richard-doty|Richard "Rick" Doty]], a former AFOSI counterintelligence special agent
   stationed at [[kirtland-air-force-base|Kirtland AFB]], is discussed at length as a
   disinformation-adjacent figure whose testimony (including a 1979 "Yankee Black" SAP briefing
   claim) Gerb treats with skepticism given Doty's history of counterintelligence/psy-ops work
-  (e.g. against Paul Bennewitz). *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md)
+  (e.g. against Paul Bennewitz). *([gerb/hidden_wing](../raw/gerb/hidden_wing.md)
   1:48:03–1:51:51)* See [[richard-doty]].
 - [[randall-g-walden|Randall G. Walden]], as RCO director, publicly thanked AFOSI for
   safeguarding the Rapid Capabilities Office's most secretive programs.
-  *([hidden-wing](../raw/-IXSZe4xVv4_hidden_wing.md) 58:39–58:53)*
+  *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 58:39–58:53)*
 
 ## Relationships
 
