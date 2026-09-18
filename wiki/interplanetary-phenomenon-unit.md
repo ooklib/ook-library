@@ -52,7 +52,7 @@ alleged "Manhattan Project 2.0" onion. *([gerb/secrecy_1](../raw/gerb/secrecy_1.
   a special radiobiological team, a Manhattan Project-era Special Engineer Detachment (SED), and a
   Sandia National Labs security detail to secure the immediate Roswell crash area.
   *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 2:08:51–2:10:32)*
-- UAP Gerb notes [[j-andrew-kner|J. Andrew Kner]]'s 1994 statement — describing AEC-lab custody of
+- UAP Gerb notes [[j-andrew-kissner|J. Andrew Kissner]]'s 1994 statement — describing AEC-lab custody of
   recovered discs — could not have derived from the IPU documents, which were not FOIA-released
   until the mid-1990s, raising (without resolving) the question of whether the two accounts
   independently corroborate each other. *([gerb/sandia](../raw/gerb/sandia.md) 39:36–39:57)*

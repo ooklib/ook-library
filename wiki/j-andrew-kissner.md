@@ -1,7 +1,7 @@
 ---
-title: J. Andrew Kner
+title: J. Andrew Kissner
 kind: person
-aliases: [Knisser, Kissner, Kisner]
+aliases: [Kner, Knisser, Kisner]
 tags: [whistleblower, researcher, 1994, roswell]
 relations:
   - relation: investigates
@@ -20,7 +20,7 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
-J. Andrew Kner, a former New Mexico State Representative (the video's ASR consistently renders
+J. Andrew Kissner, a former New Mexico State Representative (the video's ASR consistently renders
 his name "Kner"/"Knisser"/"Kissner"), authored a 1994 written statement — "Peculiar Phenomenon:
 Early United States Efforts to Collect and Analyze Flying Discs" — based on years of private
 interviews with firsthand UFO legacy-program personnel, including employees of White Sands

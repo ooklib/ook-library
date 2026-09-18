@@ -26,7 +26,7 @@ UFO technology conference in La Jolla, San Diego. *([gerb/saic](../raw/gerb/saic
 
 ## Claims
 
-- Naval Reserve Commander [[willard-miller|Willard Miller]] offered in 2002 to connect
+- Naval Reserve Commander [[will-miller|Will Miller]] offered in 2002 to connect
   [[eric-davis|Eric Davis]] and Puthoff to high-value UFO-crash-retrieval targets/information.
   *([gerb/saic](../raw/gerb/saic.md) 40:50–41:05)*
 - Authored one of the 38 leaked Defense Intelligence Reference Documents (DIRDs), on

@@ -1,8 +1,8 @@
 ---
-title: Senior Chief Wiggins
+title: Alexandro Wiggins
 kind: person
-aliases: []
-tags: [navy, witness, tic-tac]
+aliases: [Senior Chief Wiggins]
+tags: [navy, witness, tic-tac, senior-chief-petty-officer]
 relations:
   - relation: references_testimony_of
     target: 2004-nimitz-encounter
@@ -11,7 +11,7 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
 
-Senior Chief Wiggins is cited by Gerb as a witness whose testimony describes a self-luminous
+Alexandro Wiggins, a Senior Chief Petty Officer in the US Navy, is cited by Gerb as a witness whose testimony describes a self-luminous
 tic-tac-shaped object emerging from the ocean before linking up with three other similar
 objects, then all four disappearing simultaneously with synchronized, near-instantaneous
 acceleration, with no sonic boom or conventional propulsion signatures observed.

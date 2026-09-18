@@ -30,7 +30,7 @@ relations:
     target: oak-ridge-national-laboratory
     note: "board of advisers"
   - relation: board_member_of
-    target: inqtel
+    target: in-q-tel
     note: "board of trustees"
   - relation: board_member_of
     target: peraton
@@ -65,7 +65,7 @@ began (2011) and program control shifted (2017), which he calls out as likely mo
   From 1982 to 1995 she also served in the [[office-of-naval-intelligence|Office of Naval
   Intelligence]] on sensitive R&D programs. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md)
   1:41:23–1:45:21)*
-- Overlapped roughly two years at TRW (1982–1983) with [[don-meyer|Don Meyer]] (TRW technical
+- Overlapped roughly two years at TRW (1982–1983) with [[dawn-meyerriecks|Dawn Meyerriecks]] (TRW technical
   staff 1981–1993), and likely also with [[richard-haver|Richard Haver]], per Gerb.
   *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 3:16:57–3:17:21)*
 - Served as PDDNI 2011–2017, [[james-clapper|Clapper's]] "protege," managing day-to-day IC
@@ -78,7 +78,7 @@ began (2011) and program control shifted (2017), which he calls out as likely mo
   Memorial Institute]], [[booz-allen-hamilton|Booz Allen Hamilton]],
   [[huntington-ingalls-industries|Huntington Ingalls Industries]] (spun off from Northrop Grumman,
   2011), a former advisory-board seat at [[oak-ridge-national-laboratory|Oak Ridge National
-  Labs]], the board of trustees for [[inqtel|In-Q-Tel]] (CIA's venture capital firm), and (around
+  Labs]], the board of trustees for [[in-q-tel|In-Q-Tel]] (CIA's venture capital firm), and (around
   2018) [[peraton|Peraton]]. Gerb notes her In-Q-Tel executive-level colleague there is
   [[glenn-gaffney|Glenn Gaffney]] — like O'Sullivan, a former CIA DS&T deputy director — and that
   she shares Peraton's board with former NGA director [[robert-cardillo|Robert Cardillo]].
@@ -88,8 +88,8 @@ began (2011) and program control shifted (2017), which he calls out as likely mo
 
 - Held the PDDNI office under [[james-clapper]] during the alleged MITRE briefing-restriction
   and control-shift period; later joined [[aerospace-corporation]]'s board.
-- Data-masked career at [[trw]] (overlapping [[don-meyer]] and likely [[richard-haver]]) and the
+- Data-masked career at [[trw]] (overlapping [[dawn-meyerriecks]] and likely [[richard-haver]]) and the
   [[office-of-naval-intelligence]] preceded her CIA/ODNI career; extensive post-PDDNI board seats
   at [[battelle-memorial-institute]], [[booz-allen-hamilton]],
-  [[huntington-ingalls-industries]], [[oak-ridge-national-laboratory]], [[inqtel]] (alongside
+  [[huntington-ingalls-industries]], [[oak-ridge-national-laboratory]], [[in-q-tel]] (alongside
   [[glenn-gaffney]]), and [[peraton]] (alongside [[robert-cardillo]]).

@@ -16,8 +16,10 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
-SRI International originally conducted the [[project-stargate|Project Stargate]] remote-viewing
-research, sponsored at times by the NSA, CIA, DIA, and Army INSCOM, before the program moved to
+SRI International — formerly known as Stanford Research Institute, the name under which it
+operated until 1977 when it formally separated from Stanford University — originally conducted
+the [[project-stargate|Project Stargate]] remote-viewing research, sponsored at times by the NSA,
+CIA, DIA, and Army INSCOM, before the program moved to
 [[science-applications-international-corporation|SAIC]] in 1991.
 *([gerb/saic](../raw/gerb/saic.md) 1:37:52–1:38:06)*
 

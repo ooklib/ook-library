@@ -67,7 +67,7 @@ topic before the end of his life." *([gerb/mitre](../raw/gerb/mitre.md) 1:38:51�
   as CIA DS&T deputy director (2001–2005). *([gerb/saic](../raw/gerb/saic.md) 47:56–48:09)*
 - Named in notes from a 1985 "Advanced Theoretical Physics Working Group" conference (held at
   [[bdm-international|BDM]]'s McLean, VA facility, classified via DOE controls, supervised by
-  [[john-b-alexander|Col. John B. Alexander]]) taken by attendee [[oki-shannon|Oki Shannon]] —
+  [[john-b-alexander|Col. John B. Alexander]]) taken by attendee [[oke-shannon|Oke Shannon]] —
   the notes discuss "approaching Donald Kerr for influence and money," and separately list
   "Don K/et" alongside other names, which Gerb suspects also refers to Kerr.
   *([gerb/saic](../raw/gerb/saic.md) 46:09–47:21, 2:07:35–2:07:58)*
@@ -76,13 +76,13 @@ topic before the end of his life." *([gerb/mitre](../raw/gerb/mitre.md) 1:38:51�
   *([gerb/saic](../raw/gerb/saic.md) 2:07:09–2:07:27)*
 
 - Named among Gerb's 13 alleged NRO-linked gatekeepers, alongside [[paul-kaminski]],
-  [[john-m-deutch]], [[bill-perry]], [[ellen-lord]], [[doug-wolf]], [[mark-moyahan]],
+  [[john-m-deutch]], [[bill-perry]], [[ellen-lord]], [[doug-wolf]], [[mark-moynihan]],
   [[dawn-meyerriecks]], [[sean-kirkpatrick]], [[martin-faga]], [[everett-heinman]],
-  [[bobby-ray-inman]], and [[mary-sturdivant]]. *([gerb/nro](../raw/gerb/nro.md)
+  [[bobby-ray-inman]], and [[mary-sturtevant]]. *([gerb/nro](../raw/gerb/nro.md)
   2:50:59–2:51:14)*
 
 - In Gerb's Lockheed investigation, cited as the benchmark against which he compares
-  [[mary-sturdivant|Mary Sturdivant]]'s résumé — a former Lockheed Martin VP whose CIA/NRO/NSC
+  [[mary-sturtevant|Mary Sturtevant]]'s résumé — a former Lockheed Martin VP whose CIA/NRO/NSC
   career Gerb says "rivals any high-level UFO legacy program member or gatekeeper" he has
   discussed, including Kerr. *([gerb/lockheed](../raw/gerb/lockheed.md) 2:23:22–2:23:37)*
 
@@ -91,4 +91,4 @@ topic before the end of his life." *([gerb/mitre](../raw/gerb/mitre.md) 1:38:51�
 - Revolving-door figure linking [[los-alamos-national-laboratory]],
   [[science-applications-international-corporation]], CIA DS&T
   (where he founded [[cia-office-of-global-access]]), [[national-reconnaissance-office]], the
-  PDDNI office, and [[mitre-corporation]]'s board; comparable career to [[mary-sturdivant]].
+  PDDNI office, and [[mitre-corporation]]'s board; comparable career to [[mary-sturtevant]].

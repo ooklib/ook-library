@@ -5,7 +5,7 @@ aliases: [DARC, "The Darson"]
 tags: [black-project, area-51, proposed]
 relations:
   - relation: alleged_by
-    target: edgar-fuchs
+    target: edgar-fuche
   - relation: coincides_with
     target: strategic-defense-initiative
   - relation: analogous_to
@@ -17,7 +17,7 @@ sources:
 ---
 
 The Defense Advanced Research Center (DARC) — not to be confused with DARPA — is a UFO-lore
-institution [[edgar-fuchs|Edgar Fuchs]] claimed was stationed underground near Area 51/Groom
+institution [[edgar-fuche|Edgar Fuche]] claimed was stationed underground near Area 51/Groom
 Lake, working on UFO reverse engineering and material exploitation.
 *([gerb/saic](../raw/gerb/saic.md) 1:09:20–1:09:43)*
 
@@ -36,5 +36,5 @@ Lake, working on UFO reverse engineering and material exploitation.
 
 ## Relationships
 
-- Alleged by [[edgar-fuchs]]; linked in ARPA documentation to
+- Alleged by [[edgar-fuche]]; linked in ARPA documentation to
   [[army-ballistic-missile-agency]]; allegedly SDI-funded.

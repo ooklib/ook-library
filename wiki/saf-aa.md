@@ -15,7 +15,7 @@ relations:
     target: under-secretary-of-defense-for-intelligence-and-security
     note: "inverse: SAF/AAH sensitive-activities directorate operates under USD I&S classified directives"
   - relation: employed_by
-    target: russell-e-wiler
+    target: russell-e-wyler
     note: "director of SAF/AAH (sensitive activities), 2009-2024"
   - relation: employed_by
     target: william-e-mcclure
@@ -35,7 +35,7 @@ record titled *SAF/AA: A History of the Office of the Administrative Assistant t
 of the Air Force*, as involved in senior leadership of Air Force UFO legacy programs. Gerb
 connects two subcomponents to the office: SAF/AAH ("sensitive activities") and SAF/AAZ
 ("security, special program oversight, and information protection") — the latter run, per Chris
-Mellon's leaked "SCES2 gatekeeper" list, by Mr. Russell E. Wiler and Mr. William E. McClure
+Mellon's leaked "SCES2 gatekeeper" list, by Mr. Russell E. Wyler and Mr. William E. McClure
 respectively. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 59:57–1:00:48)*
 
 ## Claims
@@ -81,13 +81,13 @@ despite recent Department-of-the-Air-Force naming changes.
   Langley AFB) deploying derivative-technology-adapted airframes — a scenario Gerb connects to
   whistleblower [[dylan-borland|Dylan Borland]]'s 2012 sighting of a cloaked triangular airframe
   over Langley AFB. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:12:48–1:14:09)*
-- [[russell-e-wiler|Russell E. Wiler]] served as director of SAF/AAH from 2009 to 2024 and is
+- [[russell-e-wyler|Russell E. Wyler]] served as director of SAF/AAH from 2009 to 2024 and is
   Gerb's leading candidate (via researcher Alex Katz's analysis) for the redacted "SCES2" Air
   Force gatekeeper named in a leaked 2020 [[christopher-mellon|Christopher Mellon]] Signal
   exchange. In 2024, the Department of the Air Force's "reoptimization" morphed SAF/AAH into Air
   Force Competitive Activities (SAF/OC) under the director of plans and effects (SAF/OCX) — a
-  position Wiler continued to hold until his apparent 2025 retirement.
-  *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:20:41–1:23:15)* See [[russell-e-wiler]].
+  position Wyler continued to hold until his apparent 2025 retirement.
+  *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:20:41–1:23:15)* See [[russell-e-wyler]].
 - SAF/AAZ ("security/special program oversight/info protection") "provides a strategic policy
   focus on the Air Force security enterprise and on protection of information across the Air
   Force," manages the Air Force information-security program (including nuclear information
@@ -113,6 +113,6 @@ despite recent Department-of-the-Air-Force naming changes.
   Air Force/[[national-reconnaissance-office]] "outside activities" as cover programs, per
   testimony from [[william-a-davidson]].
 - SAF/AAH directorate operates under classified [[under-secretary-of-defense-for-intelligence-
-  and-security|USD I&S]] directives; directed by [[russell-e-wiler]], 2009–2024.
+  and-security|USD I&S]] directives; directed by [[russell-e-wyler]], 2009–2024.
 - SAF/AAZ directorate serves as the Air Force's [[special-access-program-central-office|SAPCO]];
   directed by [[william-e-mcclure]], 2019–2021.

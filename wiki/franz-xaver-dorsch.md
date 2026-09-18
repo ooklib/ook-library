@@ -1,7 +1,7 @@
 ---
-title: Xaver Dorsch
+title: Franz Xaver Dorsch
 kind: person
-aliases: [Xavier Dorsch]
+aliases: [Xaver Dorsch, Xavier Dorsch]
 tags: [nazi-germany, operation-paperclip]
 relations:
   - relation: employed_by
@@ -11,7 +11,7 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
-Xaver Dorsch, head of the [[todt-organization|Todt Organization]], was requested by Air
+Franz Xaver Dorsch, head of the [[todt-organization|Todt Organization]], was requested by Air
 Materiel Command for Operation Paperclip transfer for underground plant construction expertise.
 *([gerb/saic](../raw/gerb/saic.md) 1:11:00–1:11:13)*
 

@@ -1,7 +1,7 @@
 ---
-title: Rob How
+title: Rob Howe
 kind: person
-aliases: []
+aliases: [Rob How]
 tags: [gatekeeper, northrop-grumman, air-force]
 relations:
   - relation: board_member_of
@@ -18,7 +18,7 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
 
-Rob How served as president of [[system-high]] from 2019 to 2025. Prior to that, per Gerb, he
+Rob Howe served as president of [[system-high]] from 2019 to 2025. Prior to that, per Gerb, he
 was a manager for "special activities" at [[northrop-grumman|Northrop Grumman]], a program
 security officer for [[saf-aq|SAF/AQ]] (Air Force Acquisition), and served in the Air Force at
 the Air Force Test Center (AFTC) — a career footprint Gerb calls "all major elements within UFO

@@ -1,7 +1,7 @@
 ---
-title: Vince Divine
+title: Vince Devine
 kind: person
-aliases: [Vincent Divine]
+aliases: [Vince Divine, Vincent Divine, Vincent Devine]
 tags: [northrop-grumman, sap-security, darpa, egg]
 relations:
   - relation: employed_by
@@ -21,7 +21,7 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
-Vince Divine is director of security and SAPCO (special access program central office) for
+Vince Devine is director of security and SAPCO (special access program central office) for
 [[northrop-grumman|Northrop Grumman's]] space sector — a title Gerb reads as marking him as one
 of the executive seniors within Northrop's internal SAP security offices, working under
 [[terry-phillips|Terry Phillips]]. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md)

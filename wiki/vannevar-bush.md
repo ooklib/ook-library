@@ -17,7 +17,7 @@ relations:
     target: bell-labs
     note: "served on AT&T's board of directors 1947-1962, while AT&T/Western Electric managed Sandia via the Sandia Corporation"
   - relation: references_testimony_of
-    target: j-andrew-kner
+    target: j-andrew-kissner
   - relation: employed_by
     target: top-policy-group
     note: "member alongside FDR/Truman, Stimson, Marshall, and Conant"
@@ -65,7 +65,7 @@ Dr. Vannevar Bush is presented as the intellectual architect of the modern
   "doodlebug" device Silas Newton and Leo GeBauer allegedly used to defraud investors in
   connection with the Aztec case, though this is framed as speculative. *([gerb/mitre](../raw/gerb/mitre.md) 2:09:52–2:10:24)*
 
-- Per [[j-andrew-kner|J. Andrew Kner]]'s 1994 statement, discs downed by the US Army from May–July
+- Per [[j-andrew-kissner|J. Andrew Kissner]]'s 1994 statement, discs downed by the US Army from May–July
   1947 were processed and analyzed for Bush (chairman of the Joint Chiefs' Joint Research and
   Development Board, director of the Office of Scientific Research and Development), assisted by
   [[armed-forces-special-weapons-project|AFSWP]] personnel at [[sandia-national-laboratories|
@@ -108,7 +108,7 @@ Dr. Vannevar Bush is presented as the intellectual architect of the modern
   in 1983 he "strongly theorized" [[j-robert-oppenheimer|J. Robert Oppenheimer]]'s involvement
   alongside confirmed involvement by Dr. John von Neumann. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:55:26–1:56:06, 2:01:43–2:02:06)*
 - Bush is "almost ubiquitously" labeled by early UFO researchers — including
-  [[j-andrew-kner|J. Andrew Kner]] and William Steinman's *UFO Crash at Aztec* (1986) — as the
+  [[j-andrew-kissner|J. Andrew Kissner]] and William Steinman's *UFO Crash at Aztec* (1986) — as the
   first man to spearhead US crash-retrieval/reverse-engineering operations; a disputed 1947
   [[interplanetary-phenomenon-unit|Interplanetary Phenomenon Unit]] report separately places
   Oppenheimer (not Bush) on the retrieval team. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md)
@@ -123,7 +123,7 @@ Dr. Vannevar Bush is presented as the intellectual architect of the modern
 - Founder of the lineage leading to [[mit-lincoln-laboratory]], and by extension
   [[mitre-corporation]].
 - Alleged overseer of Atomic Energy Commission national-lab custody of recovered vehicles from
-  the [[roswell-incident-1947|Roswell incident]], per [[j-andrew-kner]]'s testimony.
+  the [[roswell-incident-1947|Roswell incident]], per [[j-andrew-kissner]]'s testimony.
 - AT&T board member during AT&T/Western Electric's management of [[sandia-national-laboratories]]
   via the Sandia Corporation.
 - Member of the Manhattan Project's [[top-policy-group]]; co-oversaw the [[alsos-mission]]; named

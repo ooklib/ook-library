@@ -49,7 +49,7 @@ programs." *([gerb/nro](../raw/gerb/nro.md) 2:02:32–2:02:50)*
   speculates Area 6 may be the physical home of "Advanced Group Six."
   *([gerb/sandia](../raw/gerb/sandia.md) 2:19:00–2:21:10, 2:26:12–2:26:29)*
 
-- [[vince-divine|Vince Divine]] (later Northrop Grumman director of security/SAPCO) served as SAP
+- [[vince-devine|Vince Devine]] (later Northrop Grumman director of security/SAPCO) served as SAP
   functional area lead for DARPA's Strategic Technology Office (via ManTech).
   *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:27:05–2:27:22)*
 - [[donald-c-winter|Donald C. Winter]] worked under DARPA in the 1980s on the
@@ -72,6 +72,6 @@ programs." *([gerb/nro](../raw/gerb/nro.md) 2:02:32–2:02:50)*
 
 - Program-protection service within [[ufo-legacy-programs]]; located near
   [[crystal-city-virginia]]; a listed government customer of [[area-6]]; Strategic Technology
-  Office staffed by [[vince-divine]]; SDI/[[talon-gold]] work performed under DARPA by
+  Office staffed by [[vince-devine]]; SDI/[[talon-gold]] work performed under DARPA by
   [[donald-c-winter]]; reports to [[under-secretary-of-defense-for-research-and-engineering]];
   internal program protection via [[darpa-security-and-intelligence-directorate]].

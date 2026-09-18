@@ -51,7 +51,7 @@ under 1954 Atomic Energy Act "transclassified foreign nuclear information" and S
   which has provided security for sensitive DOE defense-nuclear facilities including Los Alamos,
   Lawrence Livermore, and Sandia since at least the late 1990s; Gerb has separately (with low
   confidence) theorized SRT was the on-site team alongside NEST that detained
-  [[jonathan-wagant|Jonathan Wagant]] in 1997, and (with medium-to-high confidence) that SRT was
+  [[jonathan-weygandt|Jonathan Weygandt]] in 1997, and (with medium-to-high confidence) that SRT was
   the ground-based team below a triangular craft that apprehended USMC Sgt. Rodri Castle during
   the Hunter Warrior exercise. *([gerb/sandia](../raw/gerb/sandia.md) 1:41:25–1:41:37,
   1:43:06–1:44:01)*

@@ -1,7 +1,7 @@
 ---
-title: Oki Shannon
+title: Oke Shannon
 kind: person
-aliases: []
+aliases: [Oki Shannon]
 tags: [los-alamos, wilson-davis-notes]
 relations:
   - relation: employed_by
@@ -15,7 +15,7 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
-Oki Shannon, former manager of special projects at [[los-alamos-national-laboratory|Los
+Oke Shannon, former manager of special projects at [[los-alamos-national-laboratory|Los
 Alamos]] and a character in the [[wilson-davis-notes|Wilson-Davis notes]], attended the 1985
 Advanced Theoretical Physics Working Group conference at [[bdm-international|BDM]]'s McLean, VA
 facility, supervised by [[john-b-alexander|Col. John B. Alexander]].
@@ -31,7 +31,7 @@ facility, supervised by [[john-b-alexander|Col. John B. Alexander]].
   money," and a separate list entry reading "Don K/et" alongside other names, which Gerb
   suspects also refers to Kerr. *([gerb/saic](../raw/gerb/saic.md) 47:12–47:21,
   2:07:35–2:07:58)*
-- Gerb states he would "be really interested to speak to Oki Shannon" for more detail.
+- Gerb states he would "be really interested to speak to Oke Shannon" for more detail.
   *([gerb/saic](../raw/gerb/saic.md) 2:07:27–2:07:35)*
 
 ## Relationships

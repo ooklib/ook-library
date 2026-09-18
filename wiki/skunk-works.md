@@ -10,7 +10,7 @@ relations:
     target: air-force-plant-42
   - relation: contractor_for
     target: alien-reproduction-vehicle-tr3b
-    note: "alleged, per Edgar Fuchs and others"
+    note: "alleged, per Edgar Fuche and others"
   - relation: analogous_to
     target: boeing
     note: "Boeing Phantom Works, comparable classified-programs division"
@@ -36,7 +36,7 @@ Lightning II. *([gerb/lockheed](../raw/gerb/lockheed.md) 21:16–21:39, 22:47–
   involvement, and — agreeing with Dr. Steven Greer on this point — argues it operates out of
   Air Force Plant 42 and the Helendale radar cross-section (RCS) range as part of a joint
   Antelope Valley UFO legacy-program facility network. *([gerb/lockheed](../raw/gerb/lockheed.md) 21:39–22:33, 1:10:28–1:13:29)*
-- [[edgar-fuchs|Edgar Fuchs]] alleges Lockheed (via Skunk Works, implicitly) served as prime
+- [[edgar-fuche|Edgar Fuche]] alleges Lockheed (via Skunk Works, implicitly) served as prime
   contractor on the [[alien-reproduction-vehicle-tr3b|TR-3B]]. *([gerb/lockheed](../raw/gerb/lockheed.md) 39:52–40:16)*
 - Second Skunk Works director (1975–1991) [[ben-rich|Ben Rich]] allegedly made repeated
   statements at a 1993 UCLA lecture and in private conversations suggesting Lockheed possessed

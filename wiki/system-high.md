@@ -32,7 +32,7 @@ operations, and intelligence activities." Since 2012, it has held an "intimate p
 - Beyond DARPA SID, System High holds IDIQ (indefinite delivery, indefinite quantity) contract
   vehicles with the Navy, the Missile Defense Agency, and other agencies/services.
   *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 1:56:22–1:56:40)*
-- Board member [[rob-how|Rob How]], System High president from 2019 to 2025, previously managed
+- Board member [[rob-howe|Rob Howe]], System High president from 2019 to 2025, previously managed
   "special activities" at [[northrop-grumman|Northrop Grumman]], served as a program security
   officer for [[saf-aq|SAF/AQ]] (Air Force Acquisition), and served in the Air Force at the Air
   Force Test Center (AFTC) — "all major elements within UFO legacy programs," per Gerb.
@@ -41,5 +41,5 @@ operations, and intelligence activities." Since 2012, it has held an "intimate p
 ## Relationships
 
 - Long-running security-services contractor to [[darpa-security-and-intelligence-directorate]]
-  and other DoD/IC elements; board member [[rob-how]] has a Northrop Grumman/SAF-AQ/AFTC career
+  and other DoD/IC elements; board member [[rob-howe]] has a Northrop Grumman/SAF-AQ/AFTC career
   background Gerb treats as a gatekeeper pattern.

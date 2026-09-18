@@ -26,7 +26,7 @@ Aeronautics Laboratory / Air Force Space Technology Center.
   devices for [[strategic-defense-initiative|SDI]], and suggests a five-dimensional field-
   unification approach to novel propulsion. *([gerb/saic](../raw/gerb/saic.md) 1:32:11–1:32:29)*
 - Proposes anti-gravity via rotating cylinders filled with mercury, for oceanic/atmospheric
-  applications — which Gerb notes matches [[edgar-fuchs|Edgar Fuchs]]'s description of the
+  applications — which Gerb notes matches [[edgar-fuche|Edgar Fuche]]'s description of the
   reverse-engineered "Magnetic Field Disruptor" (MFD) powering the
   [[alien-reproduction-vehicle-tr3b|TR-3B]] almost exactly (mercury-based plasma pressurized at
   250,000 atmospheres, 150°K, accelerated to 60,000 RPM, generating a magnetic vortex field that

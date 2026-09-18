@@ -14,8 +14,8 @@ relations:
     target: dick-cheney
     note: "hand-selected 1989 as assistant to the SecDef for intelligence policy; recruited again for Cheney's 2000-01 intelligence transition team"
   - relation: mission_partner_of
-    target: mary-sturdivant
-    note: "Gerb: mirror-image role, VP for intelligence programs at rival prime Northrop Grumman vs. Sturdivant's equivalent post at Lockheed Martin"
+    target: mary-sturtevant
+    note: "Gerb: mirror-image role, VP for intelligence programs at rival prime Northrop Grumman vs. Sturtevant's equivalent post at Lockheed Martin"
 sources:
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
@@ -25,7 +25,7 @@ Richard L. Haver joined [[trw|TRW]] in 1999 as vice president and director for i
 programs and, following Northrop's 2002 acquisition of TRW, continued as vice president for
 intelligence programs at [[northrop-grumman|Northrop Grumman]] until his 2010 retirement. Gerb
 calls him a "labeled protege" of [[dick-cheney|Dick Cheney]] and argues his role is a near-mirror
-to [[mary-sturdivant|Mary K. Sturdivant]]'s VP for intelligence programs post at rival prime
+to [[mary-sturtevant|Mary K. Sturtevant]]'s VP for intelligence programs post at rival prime
 [[lockheed-martin|Lockheed Martin]]. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md)
 1:12:14–1:12:31, 1:46:16–1:47:12)*
 
@@ -64,4 +64,4 @@ to [[mary-sturdivant|Mary K. Sturdivant]]'s VP for intelligence programs post at
 
 - Career-long naval-intelligence officer, then VP for intelligence programs across [[trw]] and
   [[northrop-grumman]]; repeatedly hand-selected by [[dick-cheney]] for senior intelligence-policy
-  roles; a Northrop-side counterpart to [[mary-sturdivant]]'s equivalent Lockheed position.
+  roles; a Northrop-side counterpart to [[mary-sturtevant]]'s equivalent Lockheed position.

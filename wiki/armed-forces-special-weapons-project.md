@@ -10,7 +10,7 @@ relations:
     target: sandia-national-laboratories
     note: "established operations at Sandia Base, January 1947"
   - relation: alleged_by
-    target: j-andrew-kner
+    target: j-andrew-kissner
   - relation: renamed_to
     target: defense-threat-reduction-agency
     note: "AFSWP (1947-59) -> DASA (1959-71) -> Defense Nuclear Agency (1971-96) -> Defense Special Weapons Agency (1996-98) -> DTRA (1998-)"
@@ -37,7 +37,7 @@ claims. *([gerb/sandia](../raw/gerb/sandia.md) 18:19–19:30)*
 
 ## Claims
 
-- Per [[j-andrew-kner|J. Andrew Kner]]'s 1994 statement, AFSWP personnel stationed at Sandia
+- Per [[j-andrew-kissner|J. Andrew Kissner]]'s 1994 statement, AFSWP personnel stationed at Sandia
   Base supported military analysis of discs downed by the US Army from May–July 1947, alongside
   Air Materiel Command. *([gerb/sandia](../raw/gerb/sandia.md) 27:07–27:23)*
 - The Interplanetary Phenomenon Unit (IPU) report (dated July 1947, given to researcher Timothy
@@ -86,5 +86,5 @@ claims. *([gerb/sandia](../raw/gerb/sandia.md) 18:19–19:30)*
   Z Division, January 1947.
 - Directly precedes, through four organizational renamings, [[defense-threat-reduction-agency]].
 - Technical director role held by [[edward-dahl]] in 1959.
-- Named in [[j-andrew-kner]]'s testimony and the disputed Interplanetary Phenomenon Unit
+- Named in [[j-andrew-kissner]]'s testimony and the disputed Interplanetary Phenomenon Unit
   documents as present at the [[roswell-incident-1947|Roswell]] recovery.

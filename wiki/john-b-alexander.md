@@ -18,4 +18,4 @@ facility. *([gerb/saic](../raw/gerb/saic.md) 46:24–46:42)*
 
 ## Relationships
 
-- Supervised the conference documented by [[oki-shannon]] at [[bdm-international]].
+- Supervised the conference documented by [[oke-shannon]] at [[bdm-international]].

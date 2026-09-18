@@ -65,7 +65,7 @@ security." *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:56:51–1:57:13)*
   worldwide. Region 7, the only region not MAJCOM-aligned, provides "counter intelligence and
   security program management for special access programs under the Office of the Secretary of
   the Air Force." Gerb notes the AFOSI-establishment dates line up closely with a July 1948
-  classified presidential executive order that, per witness [[j-andrew-kner|J. Andrew Kner]]'s
+  classified presidential executive order that, per witness [[j-andrew-kissner|J. Andrew Kissner]]'s
   testimony, created the early skeleton of UFO legacy programs. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:52:57–1:56:26)*
 - AFOSI's Office of Special Projects (PJ) is one of several specialized AFOSI units; PJ's
   "most critical mission is preserving the most classified and sensitive technologies," delivering

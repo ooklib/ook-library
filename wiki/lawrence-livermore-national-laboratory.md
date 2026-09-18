@@ -30,13 +30,13 @@ A DOE/NSA National Laboratory FFRDC.
   [[biefeld-brown-effect|Biefeld–Brown effect]]. *([gerb/saic](../raw/gerb/saic.md)
   1:32:02–1:32:20)*
 - Along with [[sandia-national-laboratories|Sandia]], allegedly developed the reverse-engineered
-  "Magnetic Field Disruptor" (MFD) that Edgar Fuchs claims powers the
+  "Magnetic Field Disruptor" (MFD) that Edgar Fuche claims powers the
   [[alien-reproduction-vehicle-tr3b|TR-3B]]. *([gerb/saic](../raw/gerb/saic.md)
   1:32:39–1:33:10)*
 - Historically shared responsibility, alongside [[eg-and-g|EG&G]] and Raytheon, at the Nevada
   Test Site (including Nellis AFB/Area 51) for weapons development and high-tech testing.
   *([gerb/saic](../raw/gerb/saic.md) 1:21:36–1:21:52)*
-- Per [[edgar-fuchs|Edgar Fuchs]], the TR-3B's propulsion device (its "Magnetic Field
+- Per [[edgar-fuche|Edgar Fuche]], the TR-3B's propulsion device (its "Magnetic Field
   Disruptor") on both the 250 ft prototype and 600 ft operational models was reverse-engineered
   jointly by Lawrence Livermore and [[sandia-national-laboratories|Sandia]]; one of the NNSA's
   three multi-mission-laboratory FFRDCs sponsoring [[nevada-national-security-site|Nevada

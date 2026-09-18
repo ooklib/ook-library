@@ -1,7 +1,7 @@
 ---
-title: Dr. Paul Sizz
+title: Dr. Paul Czysz
 kind: person
-aliases: []
+aliases: [Paul Sizz]
 tags: [whistleblower, mcdonnell-douglas, wright-patterson]
 relations:
   - relation: alleged_by
@@ -16,7 +16,7 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
-Dr. Paul Sizz (name as heard in ASR transcript) authored a DIRD on advanced aerospace
+Dr. Paul Czysz (the ASR transcript renders this as "Sizz") authored a DIRD on advanced aerospace
 configurations, and appeared as a whistleblower on [[steven-greer|Steven Greer]]'s 2001
 disclosure briefing document. *([gerb/saic](../raw/gerb/saic.md) 1:35:44–1:35:51)*
 

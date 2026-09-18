@@ -19,7 +19,7 @@ relations:
     target: stephanie-osullivan
     note: "sensitive projects for the Navy, early 1980s"
   - relation: employed_by
-    target: don-meyer
+    target: dawn-meyerriecks
     note: "TRW technical staff, 1981-1993"
   - relation: employed_by
     target: richard-haver
@@ -81,7 +81,7 @@ TRW the entity he finds "the most value in investigating" of Northrop's acquisit
   *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 1:09:11–1:09:51)*
 - [[stephanie-osullivan|Stephanie O'Sullivan]] joined TRW around 1982, serving in a data-masked
   role overseeing "a series of sensitive projects for TRW" for the Navy, before moving to the
-  Office of Naval Intelligence in 1985; [[don-meyer|Don Meyer]] (TRW technical staff, 1981–1993)
+  Office of Naval Intelligence in 1985; [[dawn-meyerriecks|Dawn Meyerriecks]] (TRW technical staff, 1981–1993)
   overlapped with her there for roughly two years. [[richard-haver|Richard Haver]] likely crossed
   paths with O'Sullivan there or at ONI. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md)
   1:43:52–1:44:47, 3:16:57–3:17:21)*
@@ -109,6 +109,6 @@ TRW the entity he finds "the most value in investigating" of Northrop's acquisit
 
 - Parent company from which [[aerospace-corporation]] was spun off in 1960.
 - Acquired by [[northrop-grumman]] in 2002; separately acquired [[bdm-international]] in 1997.
-- Career home of [[edward-dahl]], [[stephanie-osullivan]], [[don-meyer]], [[richard-haver]], and
+- Career home of [[edward-dahl]], [[stephanie-osullivan]], [[dawn-meyerriecks]], [[richard-haver]], and
   [[donald-c-winter]]; alleged managing entity of the [[zodiac-crash-retrieval-program]]; SDI
   contractor.

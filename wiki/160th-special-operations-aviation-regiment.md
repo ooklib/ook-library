@@ -7,7 +7,7 @@ relations:
   - relation: mission_partner_of
     target: jsoc
   - relation: references_testimony_of
-    target: jonathan-wagant
+    target: jonathan-weygandt
 sources:
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
@@ -23,7 +23,7 @@ support of [[jsoc|JSOC]] tier-1 units.
   possibly recovered vehicles. He notes this doesn't imply the regiment's 2nd/3rd/4th battalions
   are aware of or involved in such missions. *([gerb/nro](../raw/gerb/nro.md) 1:11:35–1:12:23,
   1:24:13–1:25:32)*
-- Cited as consistent with two witness accounts: USMC Lance Cpl. [[jonathan-wagant|Jonathan
+- Cited as consistent with two witness accounts: USMC Lance Cpl. [[jonathan-weygandt|Jonathan
   Wagant]]'s 1997 Peru crash encounter (CH-47s arriving with DOE personnel) and an anonymous
   2024 Reddit "ex-OGA contractor" account describing CH-47s receiving a tier-1 team from a
   crash-retrieval operation. *([gerb/nro](../raw/gerb/nro.md) 1:12:23–1:12:22,
@@ -32,4 +32,4 @@ support of [[jsoc|JSOC]] tier-1 units.
 ## Relationships
 
 - Alleged transport arm for [[jsoc]]-linked UFO crash-retrieval teams; referenced in
-  [[jonathan-wagant]]'s testimony.
+  [[jonathan-weygandt]]'s testimony.

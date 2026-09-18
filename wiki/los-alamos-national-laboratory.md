@@ -40,7 +40,7 @@ Manhattan Project. *([gerb/mitre](../raw/gerb/mitre.md) 19:32–19:37)*
   executive orders. *([gerb/mitre](../raw/gerb/mitre.md) 2:06:33–2:06:47)*
 - Its Z Division (forerunner of [[sandia-national-laboratories|Sandia]]) began operations at
   Sandia Base in July 1945; transferred to AEC control 1 January 1947. Los Alamos personnel
-  reportedly supported [[j-andrew-kner|J. Andrew Kner]]'s alleged AEC-lab custody of Roswell-era
+  reportedly supported [[j-andrew-kissner|J. Andrew Kissner]]'s alleged AEC-lab custody of Roswell-era
   recovered discs, and hosted [[project-twinkle|Project Twinkle]] (1952). One of the NNSA's three
   multi-mission-laboratory FFRDCs sponsoring [[nevada-national-security-site|Nevada National
   Security Site]] experimental programs. *([gerb/sandia](../raw/gerb/sandia.md) 16:07–17:22,

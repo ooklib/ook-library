@@ -7,7 +7,7 @@ relations:
   - relation: coincides_with
     target: project-pounce
   - relation: references_testimony_of
-    target: william-a-matan
+    target: william-a-matheny
   - relation: analogous_to
     target: project-stork
 sources:
@@ -32,10 +32,10 @@ UFOs." *([gerb/saic](../raw/gerb/saic.md) 13:04–13:18)*
   ([[battelle-memorial-institute|Battelle]]'s parallel UFO investigation), Project Twinkle at
   Sandia Base, and an "outline of investigation of UFOs proposed by Kirtland Air Force Base,
   Project Pounce" — the latter traced by Gerb to
-  [[william-a-matan|Brig. Gen. William A. Matan]]'s 1952 F-94C interceptor proposal.
+  [[william-a-matheny|Brig. Gen. William A. Matheny]]'s 1952 F-94C interceptor proposal.
   *([gerb/nro](../raw/gerb/nro.md) 1:39:39–1:41:10)*
 
 ## Relationships
 
-- Allegedly references [[project-pounce]] (originated by [[william-a-matan]]) and
+- Allegedly references [[project-pounce]] (originated by [[william-a-matheny]]) and
   [[project-stork]].

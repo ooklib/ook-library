@@ -7,7 +7,7 @@ relations:
   - relation: reverse_engineers
     target: roswell-incident-1947
   - relation: alleged_by
-    target: edgar-fuchs
+    target: edgar-fuche
   - relation: alleged_by
     target: bob-lazar
   - relation: analogous_to
@@ -53,7 +53,7 @@ recovered nonhuman technology — is most associated in the UFO research communi
   [[lockheed-martin|Lockheed Martin]], [[northrop-grumman|Northrop]],
   [[science-applications-international-corporation|SAIC]], and others. *([gerb/saic](../raw/gerb/saic.md)
   1:06–1:19)*
-- [[edgar-fuchs|Master Sgt. Edgar Fuchs]] claimed the TR-3B's maiden operational flight (mid-
+- [[edgar-fuche|Master Sgt. Edgar Fuche]] claimed the TR-3B's maiden operational flight (mid-
   1990s) was administered by NRO/NSA/CIA and built primarily by Lockheed, Boeing, Northrop, and
   Teledyne Ryan, funded by [[strategic-defense-initiative|SDI]] money, and powered by a
   reverse-engineered "Magnetic Field Disruptor" (MFD) developed at
@@ -89,7 +89,7 @@ recovered nonhuman technology — is most associated in the UFO research communi
 ## Relationships
 
 - Allegedly reverse-engineered from [[roswell-incident-1947]] materials; associated claimants
-  [[edgar-fuchs]], [[bob-lazar]], [[dylan-borland]], and [[colonel-steve-wilson]]; propulsion
+  [[edgar-fuche]], [[bob-lazar]], [[dylan-borland]], and [[colonel-steve-wilson]]; propulsion
   concept analogous to the [[biefeld-brown-effect]]; contractor consortium includes
   [[lockheed-martin]], [[northrop-grumman]], [[sandia-national-laboratories]],
   [[lawrence-livermore-national-laboratory]], and alleged operator

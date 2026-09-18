@@ -96,7 +96,7 @@ firsthand experience. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 36:01–3
   experiments near Twentynine Palms, California, as an AV-8B Harrier ordnance technician — the
   triangle departed in the direction of Edwards AFB, specifically toward the restricted R-2508
   airspace complex. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 3:18:17–3:19:07)*
-- Gerb notes former Air Force Master Sergeant [[edgar-fuchs|Edgar Fuchs]]'s TR-3B disclosures
+- Gerb notes former Air Force Master Sergeant [[edgar-fuche|Edgar Fuche]]'s TR-3B disclosures
   (Sandia/Livermore-developed "magnetic field disruptor," Northrop/Lockheed/Boeing R&D
   involvement, pilots hailing from Pax River and the Edwards/AFTC Test Pilot School, craft
   allegedly flown/operated out of Edwards itself) as consonant with the Hidden Wing thesis, while

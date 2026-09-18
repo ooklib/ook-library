@@ -13,7 +13,7 @@ relations:
     target: robert-sarbacher
   - relation: alleged_by
     target: vannevar-bush
-    note: "per J. Andrew Kner and William Steinman's research, Bush allegedly led the scientific recovery team"
+    note: "per J. Andrew Kissner and William Steinman's research, Bush allegedly led the scientific recovery team"
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"

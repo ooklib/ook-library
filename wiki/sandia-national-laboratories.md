@@ -19,7 +19,7 @@ relations:
     target: alien-reproduction-vehicle-tr3b
     note: "alleged co-developer, with Lawrence Livermore, of the TR-3B's Magnetic Field Disruptor"
   - relation: alleged_by
-    target: edgar-fuchs
+    target: edgar-fuche
     note: "names Sandia and Lawrence Livermore as the FFRDCs that reverse-engineered the TR-3B's propulsion"
   - relation: contractor_for
     target: science-applications-international-corporation
@@ -52,7 +52,7 @@ relations:
     target: lawrence-livermore-national-laboratory
     note: "co-developer of the alleged TR-3B Magnetic Field Disruptor"
   - relation: references_testimony_of
-    target: j-andrew-kner
+    target: j-andrew-kissner
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -145,7 +145,7 @@ DoD/IC oversight channels. *([gerb/sandia](../raw/gerb/sandia.md) 5:44–6:03, 8
 
 ## Alleged Roswell-era custody (Kner, the Eisenhower Briefing Document, and the IPU report)
 
-- Former NM State Rep. [[j-andrew-kner|J. Andrew Kner]]'s 1994 statement describes discs downed
+- Former NM State Rep. [[j-andrew-kissner|J. Andrew Kissner]]'s 1994 statement describes discs downed
   by the US Army in mid-1947 (including Roswell) as vested by a classified 1948 executive order
   in AEC-owned, civilian-operated labs — Los Alamos and the soon-independent Sandia — assisted by
   Air Force Systems Command, the Naval Research Lab, and Vannevar Bush's Research and Development
@@ -174,7 +174,7 @@ DoD/IC oversight channels. *([gerb/sandia](../raw/gerb/sandia.md) 5:44–6:03, 8
   Gerb reviewed in full, plus a Sandia-managed facility at Area 19. *([gerb/sandia](../raw/gerb/sandia.md) 1:51:03–1:52:05, 2:13:22–2:14:32, 2:18:33–2:18:43)*
 - Gerb theorizes Sandia-managed NNSS/NNTR land — where witness [[randy-anderson|Randy Anderson]]
   described seeing advanced triangular craft near Area 51 — may lend credence to
-  [[edgar-fuchs|Edgar Fuchs]]'s TR-3B claims. *([gerb/sandia](../raw/gerb/sandia.md)
+  [[edgar-fuche|Edgar Fuche]]'s TR-3B claims. *([gerb/sandia](../raw/gerb/sandia.md)
   1:51:11–1:52:17)*
 
 ## NNSA logistics arm: NEST, OST, SRT, DTRA
@@ -199,7 +199,7 @@ DoD/IC oversight channels. *([gerb/sandia](../raw/gerb/sandia.md) 5:44–6:03, 8
 - Along with [[lawrence-livermore-national-laboratory|Lawrence Livermore]], Sandia allegedly
   developed the reverse-engineered "Magnetic Field Disruptor" (MFD) — a circular plasma-field
   accelerator ring surrounding a rotatable crew compartment — that whistleblower
-  [[edgar-fuchs|Edgar Fuchs]] says powers the [[alien-reproduction-vehicle-tr3b|TR-3B]], via
+  [[edgar-fuche|Edgar Fuche]] says powers the [[alien-reproduction-vehicle-tr3b|TR-3B]], via
   gravity reduction rather than anti-gravity. Fuchs states the propulsion device on the 250 ft
   prototype and 600 ft operational models was reverse-engineered by Sandia/Lawrence Livermore,
   while the airframe was a joint Lockheed/Boeing/Northrop/Teledyne Ryan effort overseen by the
@@ -233,8 +233,8 @@ DoD/IC oversight channels. *([gerb/sandia](../raw/gerb/sandia.md) 5:44–6:03, 8
   (1993–2017), and [[honeywell]] (2017–present, via NTESS); established and administered
   [[tonopah-test-range]] and has an operational presence at [[area-6]].
 - SAIC contractor; alleged co-developer of the [[alien-reproduction-vehicle-tr3b]] propulsion
-  system with [[lawrence-livermore-national-laboratory]], per [[edgar-fuchs]].
-- Named in [[j-andrew-kner]]'s testimony and the disputed IPU documents as an
+  system with [[lawrence-livermore-national-laboratory]], per [[edgar-fuche]].
+- Named in [[j-andrew-kissner]]'s testimony and the disputed IPU documents as an
   [[armed-forces-special-weapons-project|AFSWP]]-linked custodian in the
   [[roswell-incident-1947]] aftermath.
 - Contractor to [[office-of-secure-transportation]]; connected to

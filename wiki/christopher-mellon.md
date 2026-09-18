@@ -8,7 +8,7 @@ relations:
     target: department-of-defense
     note: "deputy assistant secretary of defense for intelligence"
   - relation: mission_partner_of
-    target: mary-sturdivant
+    target: mary-sturtevant
     note: "worked together at SSCI"
   - relation: mission_partner_of
     target: to-the-stars-academy
@@ -17,7 +17,7 @@ relations:
     note: "held the Cheney-created position 'assistant SecDef for intelligence policy,' 1997-1998, previously held by Richard Haver"
   - relation: alleged_by
     target: uap-gerb
-    note: "Gerb: possibly protecting Mary Sturdivant; associates Mellon with a 2020 Signal exchange naming an SCES2 Air Force gatekeeper"
+    note: "Gerb: possibly protecting Mary Sturtevant; associates Mellon with a 2020 Signal exchange naming an SCES2 Air Force gatekeeper"
 sources:
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
@@ -35,8 +35,8 @@ figure Gerb repeatedly discusses as possibly "knowing more than he's saying."
 
 ## Claims
 
-- Worked with [[mary-sturdivant|Mary Sturdivant]] closely for years at SSCI and shared identical
-  per-diems at various times, per Gerb; Gerb requested Mellon's help questioning Sturdivant about
+- Worked with [[mary-sturtevant|Mary Sturtevant]] closely for years at SSCI and shared identical
+  per-diems at various times, per Gerb; Gerb requested Mellon's help questioning Sturtevant about
   the [[glenn-gaffney|Kona Blue]] blockage, but Mellon reportedly did not assist.
   *([gerb/nro](../raw/gerb/nro.md) 2:50:18–2:50:35)*
 - Named an adviser to [[tom-delonge|Tom DeLonge]]'s [[to-the-stars-academy|To the Stars
@@ -53,6 +53,6 @@ figure Gerb repeatedly discusses as possibly "knowing more than he's saying."
 
 ## Relationships
 
-- SSCI colleague of [[mary-sturdivant]]; adviser to [[to-the-stars-academy]] alongside
+- SSCI colleague of [[mary-sturtevant]]; adviser to [[to-the-stars-academy]] alongside
   [[luis-elizondo]]; held the same Cheney-created assistant-SecDef-for-intelligence-policy
   position previously held by [[richard-haver]].

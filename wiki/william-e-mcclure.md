@@ -28,12 +28,12 @@ manager of the Air Force's 2,000+ member security community.
 
 - Gerb volunteers McClure as a second candidate for the redacted "SCES2" Air Force gatekeeper
   named in [[christopher-mellon|Christopher Mellon]]'s 23 April 2024 leaked Signal exchange
-  (see [[russell-e-wiler|Russell E. Wiler]] for the primary account). Researcher Alex Katz's
+  (see [[russell-e-wyler|Russell E. Wyler]] for the primary account). Researcher Alex Katz's
   analysis implied a 12-character name; "William McClure" is 14 characters and "Will McClure" 11,
   but Gerb notes McClure goes by "Bill McClure" on LinkedIn, and "Bill E. McClure" is exactly 12
   characters — leaving the character-count condition "still satisfied" under some naming
   variants. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:26:19–1:28:24)*
-- Gerb personally leans 60/40 toward Wiler over McClure for the SCES2 identification, but states
+- Gerb personally leans 60/40 toward Wyler over McClure for the SCES2 identification, but states
   both men have documented involvement in Air Force legacy-program history.
   *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 3:23:04–3:23:20)*
 - SAF/AAZ, which McClure directed, "manages the Air Force information security program to

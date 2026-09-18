@@ -3,10 +3,6 @@ title: Hermann Oberth
 kind: person
 aliases: []
 tags: [rocketry, ufo-researcher]
-relations:
-  - relation: employed_by
-    target: wernher-von-braun
-    note: "mentor"
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"

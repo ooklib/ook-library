@@ -19,7 +19,7 @@ relations:
     target: battelle-memorial-institute
     note: "inverse: Battelle allegedly studied shape-memory alloys possibly from Roswell wreckage"
   - relation: investigates
-    target: j-andrew-kner
+    target: j-andrew-kissner
     note: "inverse: Kner's 1994 statement details a 1947 Army-vs-discs engagement and AEC-lab custody"
   - relation: located_at
     target: sandia-national-laboratories
@@ -83,7 +83,7 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
 
 ## Claims (from the Sandia video)
 
-- Former NM State Rep. [[j-andrew-kner|J. Andrew Kner]]'s 1994 statement describes a series of
+- Former NM State Rep. [[j-andrew-kissner|J. Andrew Kissner]]'s 1994 statement describes a series of
   events beginning 15 May 1947 in which the US Army offensively downed two to four flying discs
   (Roswell among them), with recovered discs classified as "enemy weapons systems" and analyzed
   for [[vannevar-bush|Vannevar Bush]]; a classified 1948 executive order allegedly vested custody
@@ -130,5 +130,5 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
   or contemporaneous event.
 - Central to [[philip-j-corso]]'s claims about the Army's Foreign Technology Division.
 - Alleged subject of [[battelle-memorial-institute]] shape-memory-alloy research.
-- Central to [[j-andrew-kner]]'s testimony; alleged AEC-lab custody at
+- Central to [[j-andrew-kissner]]'s testimony; alleged AEC-lab custody at
   [[sandia-national-laboratories]] per Kner and the disputed IPU documents.

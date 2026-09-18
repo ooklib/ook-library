@@ -40,7 +40,7 @@ inferencing" to aid intelligence collection. *([gerb/nro](../raw/gerb/nro.md) 36
   severed from the company and acquired by Veritas Capital shortly after the failed 2010 Kona
   Blue transfer. *([gerb/nro](../raw/gerb/nro.md) 36:50–37:14)*
 - Gerb's Lockheed investigation names Cardillo, alongside [[glenn-gaffney|Glenn Gaffney]] and
-  possibly [[mary-sturdivant|Mary Sturdivant]], as a possible final authority blocking
+  possibly [[mary-sturtevant|Mary Sturtevant]], as a possible final authority blocking
   [[james-t-ryder|James Ryder]]'s attempted [[operation-kona-blue|Kona Blue]] material transfer,
   based on research by Rob Jones (*Subrosa*), Eric Davis's statements, and Chris Sharp's
   reporting — while noting this is alleged, not definitive.
@@ -55,5 +55,5 @@ inferencing" to aid intelligence collection. *([gerb/nro](../raw/gerb/nro.md) 36
 ## Relationships
 
 - Former [[national-geospatial-intelligence-agency]] director; alleged Kona Blue blockage
-  participant alongside [[glenn-gaffney]] and possibly [[mary-sturdivant]]; board member of
+  participant alongside [[glenn-gaffney]] and possibly [[mary-sturtevant]]; board member of
   [[peraton]] (linked to [[lockheed-martin]]).

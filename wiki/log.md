@@ -80,10 +80,10 @@ Created 27 new entity pages: organizations/programs/places
 [[deputy-director-of-national-intelligence-for-acquisition-technology-and-facilities]],
 [[to-the-stars-academy]], [[doe-nuclear-emergency-support-team]],
 [[160th-special-operations-aviation-regiment]], [[nevada-national-security-site]],
-[[pine-gap-australia]]) and people ([[doug-wolf]], [[mark-moyahan]], [[dawn-meyerriecks]],
-[[martin-faga]], [[everett-heinman]], [[glenn-gaffney]], [[mary-sturdivant]],
-[[christopher-mellon]], [[robert-cardillo]], [[albert-bruce-collins]], [[jonathan-wagant]],
-[[dylan-borland]], [[tom-delonge]], [[jim-shell]], [[william-a-matan]]).
+[[pine-gap-australia]]) and people ([[doug-wolf]], [[mark-moynihan]], [[dawn-meyerriecks]],
+[[martin-faga]], [[everett-heinman]], [[glenn-gaffney]], [[mary-sturtevant]],
+[[christopher-mellon]], [[robert-cardillo]], [[albert-bruce-collins]], [[jonathan-weygandt]],
+[[dylan-borland]], [[tom-delonge]], [[jim-shell]], [[william-a-matheny]]).
 
 Updated 24 existing pages with new relations/citations, most substantially:
 [[national-underwater-reconnaissance-office]], [[cia-office-of-global-access]],
@@ -91,7 +91,7 @@ Updated 24 existing pages with new relations/citations, most substantially:
 [[alien-reproduction-vehicle-tr3b]], [[mitre-corporation]], [[bobby-ray-inman]],
 [[colonel-steve-wilson]], [[david-grush]], [[luis-elizondo]] (identified as [[to-the-stars-
 academy|TTSA]]'s NRO/DIA/CIA liaison and possible authorized-disclosure conduit to
-[[tom-delonge]]), [[thomas-wilson]], [[chris-sharp]], [[edgar-fuchs]], [[donald-kerr]],
+[[tom-delonge]]), [[thomas-wilson]], [[chris-sharp]], [[edgar-fuche]], [[donald-kerr]],
 [[paul-kaminski]], [[john-m-deutch]], [[bill-perry]], [[ellen-lord]], [[sean-kirkpatrick]],
 [[matthew-brown]], [[leonard-stringfield]], [[raytheon]], [[darpa]], and [[jsoc]].
 
@@ -109,31 +109,31 @@ key to `CLAUDE.md`'s source registry.
 Substantially rewrote [[lockheed-martin]] as a full hub page: corporate history/structure
 (1995 merger with [[martin-marietta]], IRAD funding mechanism), defense-industrial-base/FFRDC
 administration (33-year Sandia/Tonopah administration via the Sandia Corporation subsidiary),
-[[skunk-works]] and alleged reverse-engineering claims (TR-3B per [[edgar-fuchs]], the 2004
+[[skunk-works]] and alleged reverse-engineering claims (TR-3B per [[edgar-fuche]], the 2004
 "tic tac" per [[ross-coulthart]]/Fravor, [[ben-rich]]'s alleged admissions), the 1986 GAO
 carveout-security audit theorized to have triggered the SAPOC reorganization in the
 [[wilson-davis-notes]], and the 2008-2011 [[operation-kona-blue]] material-transfer saga
-([[james-t-ryder]], blocked by [[glenn-gaffney]], possibly [[mary-sturdivant]] and
+([[james-t-ryder]], blocked by [[glenn-gaffney]], possibly [[mary-sturtevant]] and
 [[robert-cardillo]]; Lockheed's Enterprise Integration Group divestment chain to [[peraton]]).
 
 Created 12 new entity pages: organizations ([[martin-marietta]],
 [[bigelow-aerospace-advanced-space-studies]], [[peraton]], [[department-of-homeland-security]]),
-people ([[james-t-ryder]], [[ben-rich]], [[ross-coulthart]], [[carl-nell]], [[jim-lacatski]],
+people ([[james-t-ryder]], [[ben-rich]], [[ross-coulthart]], [[karl-nell]], [[jim-lacatski]],
 [[tim-phillips-aaro]] — distinct from the existing [[terry-phillips]]), places
 ([[tonopah-test-range]], [[air-force-plant-42]]), and programs ([[skunk-works]],
 [[operation-kona-blue]]).
 
 Updated 20 existing pages with new relations/citations, most substantially:
 [[sandia-national-laboratories]] (Lockheed/Tonopah administration 1993-2017),
-[[mary-sturdivant]] and [[robert-cardillo]] (Kona Blue blockage detail),
+[[mary-sturtevant]] and [[robert-cardillo]] (Kona Blue blockage detail),
 [[glenn-gaffney]] and [[eric-davis]] (Kona Blue, Ryder/Starfire relationship),
 [[wilson-davis-notes]] (Lockheed as Gerb's original unnamed-contractor suspect, 1986 GAO audit),
 [[kingman-arizona-crash-1953]] (theorized Kona Blue materials), [[chris-sharp]],
-[[richard-dolan]] (Tonopah/"Advanced Group Six" leak), [[edgar-fuchs]], [[to-the-stars-academy]]
+[[richard-dolan]] (Tonopah/"Advanced Group Six" leak), [[edgar-fuche]], [[to-the-stars-academy]]
 (Skunk Works advisers, BASS/Project Forum theory), [[operation-sand-dollar]] and [[john-craven]]
 (Tonopah connection), [[corporate-portfolio-program]], [[david-grush]] (IRAD funding claim),
 [[katherine-austin-fitts]], [[hal-puthoff]] (Starfire Project), [[william-f-raborn]],
-[[donald-kerr]] (Sturdivant comparison), and [[doug-wolf]] (added "Carl Wolf" alias, resolved as
+[[donald-kerr]] (Sturtevant comparison), and [[doug-wolf]] (added "Carl Wolf" alias, resolved as
 the same CIA DS&T deputy director who founded [[cia-office-of-global-access]] in 2003).
 
 Notable cross-source resolution: this video's "Carl Wolf" (CIA DS&T deputy director, founded
@@ -156,18 +156,18 @@ Honeywell management chain (1949–present); its role as one of the
 alongside Los Alamos and Lawrence Livermore; the 1954 Atomic Energy Act "transclassified foreign
 nuclear information"/special-nuclear-material framework Gerb argues obscures UFO materials as
 nuclear secrets; alleged AEC-lab custody of recovered Roswell-era discs per
-[[j-andrew-kner|J. Andrew Kner]]'s 1994 testimony, the disputed Eisenhower Briefing Document, and
+[[j-andrew-kissner|J. Andrew Kissner]]'s 1994 testimony, the disputed Eisenhower Briefing Document, and
 the disputed Interplanetary Phenomenon Unit report; Sandia's Nevada Test Site/[[area-6|Area 6]]
 presence; the NNSA's NEST/[[office-of-secure-transportation|OST]]/Special Response Team logistics
 apparatus and its [[defense-threat-reduction-agency|DTRA]] connection (via AFSWP lineage, per
-[[dylan-borland|Dylan Borland]]'s testimony); Edgar Fuchs's TR-3B "Magnetic Field Disruptor"
+[[dylan-borland|Dylan Borland]]'s testimony); Edgar Fuche's TR-3B "Magnetic Field Disruptor"
 reverse-engineering claim (Sandia + Lawrence Livermore); and the EG&G/Alfred O'Donnell/
 [[george-knapp|George Knapp]] recovered-disc account.
 
 Created 11 new entity pages: organizations
 ([[atomic-energy-commission]], [[national-nuclear-security-administration]],
 [[armed-forces-special-weapons-project]], [[defense-threat-reduction-agency]],
-[[office-of-secure-transportation]], [[honeywell]]), people ([[j-andrew-kner]],
+[[office-of-secure-transportation]], [[honeywell]]), people ([[j-andrew-kissner]],
 [[george-knapp]], [[james-v-forrestal]]), a place ([[area-6]]), and a program
 ([[project-twinkle]]).
 
@@ -177,8 +177,8 @@ added NNSA/OICI detail), [[los-alamos-national-laboratory]], [[lawrence-livermor
 laboratory]], [[oak-ridge-national-laboratory]] (alleged Y-12 recovered-discs claim),
 [[kirtland-air-force-base]] (Manzano/AFSWP, DTRA), [[tonopah-test-range]] and
 [[nevada-national-security-site]] (Area 6 links), [[doe-nuclear-emergency-support-team]],
-[[eg-and-g]], [[edgar-fuchs]], [[roswell-incident-1947]], [[dylan-borland]],
-[[jonathan-wagant]], [[randy-anderson]], [[darpa]], [[richard-dolan]], [[mitre-corporation]]
+[[eg-and-g]], [[edgar-fuche]], [[roswell-incident-1947]], [[dylan-borland]],
+[[jonathan-weygandt]], [[randy-anderson]], [[darpa]], [[richard-dolan]], [[mitre-corporation]]
 (Kner's "MITER, MITER, MITER, MITER" custodian quote), [[vannevar-bush]], [[majestic-12]] (EBD
 Sandia-transport detail), [[lockheed-martin]], and [[martin-marietta]].
 
@@ -191,7 +191,7 @@ the modern DOE/NNSA.
 No contradictions found between this video and the prior four; it substantially deepens the
 Sandia/Tonopah/[[operation-kona-blue|Kona Blue]] FFRDC-custody thesis first introduced in the
 Lockheed video, and extends the AFSWP/Majestic-12/Roswell thread with the first detailed
-[[j-andrew-kner|Kner]] and Interplanetary Phenomenon Unit material in the wiki.
+[[j-andrew-kissner|Kner]] and Interplanetary Phenomenon Unit material in the wiki.
 
 ## [2026-09-16] ingest | Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2
 
@@ -208,12 +208,12 @@ maintaining a far lower public profile than [[lockheed-martin|Lockheed Martin]].
 Created 19 new entity pages:
 - People: [[edward-dahl]] (1953 Kingman crash figure turned TRW Systems Group exec),
   [[richard-haver]], [[michael-dempsey]], [[donald-c-winter]], [[edward-c-aldridge]],
-  [[randall-g-walden]], [[vince-divine]], [[john-c-freestone]], [[kathy-andrews]],
+  [[randall-g-walden]], [[vince-devine]], [[john-c-freestone]], [[kathy-andrews]],
   [[william-a-davidson]], [[sumner-shapiro]].
 - Programs/concepts: [[northrop-advanced-technology-and-design-center]] (NATDC, Northrop's
   Skunk Works analog), [[zodiac-crash-retrieval-program]], [[talon-gold]], [[teal-ruby]],
   [[saf-aa]] (SAF/AA, SAF/AAH, SAF/AAZ Air Force cover-program structure).
-- Organizations: [[huntington-ingalls-industries]], [[inqtel]] (In-Q-Tel).
+- Organizations: [[huntington-ingalls-industries]], [[in-q-tel]] (In-Q-Tel).
 - Place: [[tahone-radar-cross-section-facility]] (alleged Northrop DUMB/RCS site in the
   Antelope Valley).
 
@@ -224,7 +224,7 @@ Haver, Winter, Zodiac, SDI, IRAD fraud, the 1982 CIA DS&T IRAD memo), [[aerospac
 (spinoff detail, Walden/Aldridge, Burlison/Grush interrogatory), [[terry-phillips]] (full career
 and Northrop security-apparatus allegations), [[stephanie-osullivan]] (TRW data-masked career,
 extensive post-PDDNI board catalog), [[david-grush]], [[dick-cheney]], [[james-clapper]],
-[[don-meyer]], [[christopher-mellon]], [[eric-davis]], [[richard-dolan]],
+[[dawn-meyerriecks]], [[christopher-mellon]], [[eric-davis]], [[richard-dolan]],
 [[kingman-arizona-crash-1953]] (Dahl/Stansel diary detail), [[booz-allen-hamilton]],
 [[battelle-memorial-institute]], [[oak-ridge-national-laboratory]], [[peraton]],
 [[sri-international]], [[armed-forces-special-weapons-project]], [[everett-heinman]],
@@ -256,7 +256,7 @@ Created 18 new entity pages:
   [[national-program-special-management-staff]] (NPMS).
 - Program: [[guardian-angel-program]] (1979 AFOSI/PJ-FBI counterintelligence program).
 - People: [[eric-henry-wang]] (enigmatic 1950s AFSWC scientist named in the Kingman and Aztec
-  crash-retrieval cases), [[russell-e-wiler]] and [[william-e-mcclure]] (SAF/AAH and SAF/AAZ
+  crash-retrieval cases), [[russell-e-wyler]] and [[william-e-mcclure]] (SAF/AAH and SAF/AAZ
   directors, Gerb's two candidates for Christopher Mellon's redacted "SCES2" Air Force
   gatekeeper), [[dawn-m-dunlop]] (former SAPCO director/412th Test Wing commander),
   [[lawrence-j-delaney]] (1991-92 SAF/AQ head with a contractor-heavy pre-government career),
@@ -271,7 +271,7 @@ Leidos, Northrop, DoD IG FOIA appearances), [[air-force-office-of-special-invest
 (full AMC/AFLC/ARDC/AFSC/AFSWC precursor lineage, Eric Wang, McCasland/Roswell claim, AFTC/412th
 Hidden Wing thesis), [[air-force-research-laboratory]] (AFSWC lineage, McCasland, Eric Davis
 comments), [[air-force-operational-test-and-evaluation-center]] (Kirtland HQ, four detachments),
-[[saf-aa]] (full SAF/AAH and SAF/AAZ dossier, Wiler/McClure, USD I&S tie), [[randall-g-walden]]
+[[saf-aa]] (full SAF/AAH and SAF/AAZ dossier, Wyler/McClure, USD I&S tie), [[randall-g-walden]]
 (full career dossier, 2018 Mitchell Institute speech quotes), [[air-force-plant-42]] (TPS/AFOSI-
 PJ detail), [[edwards-air-force-base]], [[wright-patterson-air-force-base]],
 [[kirtland-air-force-base]], [[crystal-city-virginia]], [[dugway-proving-ground]] (witness "MS"
@@ -295,7 +295,7 @@ deep dive, so most of the work went into substantially deepening existing founda
 pages ([[manhattan-project-2]], [[onion-secrecy-model]], [[ufo-legacy-programs]],
 [[ufo-control-group]], [[special-access-program]], [[vannevar-bush]], [[atomic-energy-commission]],
 [[national-security-council]], [[majestic-12]], [[david-grush]], [[roswell-incident-1947]],
-[[aztec-new-mexico-crash-1948]], [[armed-forces-special-weapons-project]], [[j-andrew-kner]],
+[[aztec-new-mexico-crash-1948]], [[armed-forces-special-weapons-project]], [[j-andrew-kissner]],
 [[office-of-secure-transportation]], [[national-nuclear-security-administration]],
 [[doe-nuclear-emergency-support-team]], [[department-of-energy]],
 [[special-access-program-oversight-committee]], [[john-craven]], [[operation-sand-dollar]],
@@ -320,7 +320,7 @@ executive-order-based SAP classification), and political shield (the Top Policy 
 5412 Committee -> 303 Committee lineage) between roughly 1947-1954, before fracturing during
 1980s SAP reforms (the Yellow Fruit scandal, Reagan's EO 12356) and the 1994 SAPOC/SRG
 reorganization into today's siloed structure. All claims attributed to UAP Gerb (with some
-sourced to David Grush, J. Andrew Kner, Robert Sarbacher, and disputed MJ-12/IPU documents) and
+sourced to David Grush, J. Andrew Kissner, Robert Sarbacher, and disputed MJ-12/IPU documents) and
 flagged as speculative per the schema's domain framing.
 
 ## [2026-09-17] lint | Retrofit bare mitre timestamp citations to tagged format
@@ -378,7 +378,7 @@ account).
 Created 17 new entity pages: [[content-only-special-access-program]],
 [[covert-action-program]], [[under-secretary-of-defense-for-research-and-engineering]],
 [[david-m-taylor]], [[darpa-security-and-intelligence-directorate]], [[system-high]],
-[[rob-how]], [[air-force-life-cycle-management-center]], [[terrence-l-reynolds]],
+[[rob-howe]], [[air-force-life-cycle-management-center]], [[terrence-l-reynolds]],
 [[doe-office-of-intelligence-and-counterintelligence]], [[yankee-blue]], [[yankee-white]],
 [[matthew-sullivan]], [[harry-reid]], [[condon-committee]], [[edward-j-ruppelt]], and
 [[age-of-disclosure-documentary]]. Updated ~35 existing pages with new claims, relations, and

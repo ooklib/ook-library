@@ -57,7 +57,7 @@ Wright-Patterson AFB]]. *([gerb/lockheed](../raw/gerb/lockheed.md) 45:51–46:34
   three contractors — Boeing, Lockheed Martin, and Northrop Grumman — who work there closely
   with pilots from the [[edwards-air-force-base|Edwards Test Pilot School]]. Gerb again ties this
   to witness Ed's claim that [[hidden-wing-air-force-program|Hidden Wing]] ARV pilots hailed from
-  the same Test Pilot School, and to Edgar Fuchs's TR-3B testimony naming (then) Northrop
+  the same Test Pilot School, and to Edgar Fuche's TR-3B testimony naming (then) Northrop
   Corporation, Lockheed, and Boeing as R&D contractors whose TR-3B pilots also hailed from the
   Naval Test Pilot School (Pax River) and the Air Force Flight Test Center (predecessor to
   AFTC's TPS at Edwards). *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 2:05:50–2:08:02)*

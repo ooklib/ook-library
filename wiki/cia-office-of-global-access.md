@@ -18,7 +18,7 @@ relations:
     target: doug-wolf
     note: "established OGA in 2003 as CIA DS&T deputy director"
   - relation: employed_by
-    target: mark-moyahan
+    target: mark-moynihan
     note: "director, 2000-2010"
   - relation: mission_partner_of
     target: national-reconnaissance-office
@@ -47,7 +47,7 @@ Command]]'s muscle for foreign UFO crash retrievals. *([gerb/saic](../raw/gerb/s
   *([gerb/saic](../raw/gerb/saic.md) 47:38–47:54)*
 
 - Per this source, established in 2003 (rather than 2002) by [[doug-wolf|Doug Wolf]] as CIA DS&T
-  deputy director; [[mark-moyahan|Mark Moyahan]] directed OGA 2000–2010; both men also held
+  deputy director; [[mark-moynihan|Mark Moynihan]] directed OGA 2000–2010; both men also held
   positions at the NRO and the [[deputy-director-of-national-intelligence-for-acquisition-
   technology-and-facilities|DDNI ATNF]], a pattern Gerb treats as a gatekeeper nexus.
   *([gerb/nro](../raw/gerb/nro.md) 2:28:52–2:32:03)*
@@ -61,4 +61,4 @@ Command]]'s muscle for foreign UFO crash retrievals. *([gerb/saic](../raw/gerb/s
 - Spawned by [[cia-directorate-of-science-and-technology]] under [[donald-kerr]]'s watch (per one
   account) or founded by [[doug-wolf]] in 2003 (per another); works with [[jsoc]],
   [[national-reconnaissance-office]], and [[national-underwater-reconnaissance-office]] on
-  alleged foreign crash retrievals; directed by [[mark-moyahan]].
+  alleged foreign crash retrievals; directed by [[mark-moynihan]].

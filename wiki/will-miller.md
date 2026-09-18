@@ -1,7 +1,7 @@
 ---
-title: Willard Miller
+title: Will Miller
 kind: person
-aliases: [Naval Reserve Commander Willard Miller]
+aliases: [Willard Miller, Naval Reserve Commander Willard Miller]
 tags: [navy, whistleblower, wilson-davis-notes]
 relations:
   - relation: employed_by
@@ -18,7 +18,7 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
-Naval Reserve Commander Willard Miller attended a 1997 meeting with
+Naval Reserve Commander Will Miller attended a 1997 meeting with
 [[thomas-wilson|VADM Thomas Wilson]] and [[steven-greer|Steven Greer]] (confirmed to have taken
 place). *([gerb/saic](../raw/gerb/saic.md) 40:33–40:50)*
 

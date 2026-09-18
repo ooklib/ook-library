@@ -1,7 +1,7 @@
 ---
-title: Edgar Fuchs
+title: Edgar Fuche
 kind: person
-aliases: [Edgar Fuché, Master Sergeant Edgar Fuchs]
+aliases: [Edgar Fuchs, Edgar Fuché, Master Sergeant Edgar Fuchs]
 tags: [whistleblower, usaf, tr3b]
 relations:
   - relation: alleged_by
@@ -17,7 +17,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
-Former USAF Master Sergeant Edgar Fuchs ("Fuché"), a whistleblower Gerb has covered before,
+Former USAF Master Sergeant Edgar Fuche (the ASR transcripts render this variously as "Fuchs" and
+"Fuché"), a whistleblower Gerb has covered before,
 claims knowledge of the reverse-engineered [[alien-reproduction-vehicle-tr3b|TR-3B]], though he
 could not provide material evidence for its existence. *([gerb/saic](../raw/gerb/saic.md)
 1:09:05–1:09:20)*

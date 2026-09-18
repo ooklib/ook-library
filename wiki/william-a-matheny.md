@@ -1,7 +1,7 @@
 ---
-title: William A. Matan
+title: William A. Matheny
 kind: person
-aliases: [William Matan]
+aliases: [William A. Matan, William Matan]
 tags: [air-force, 1952, robertson-panel, project-pounce]
 relations:
   - relation: founded

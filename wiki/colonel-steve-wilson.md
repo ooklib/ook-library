@@ -65,7 +65,7 @@ recommending a critical take by author Kevin Randle. *([gerb/saic](../raw/gerb/s
   CIA documents and 1976 newspaper leaks used that naming convention, and finds no corroboration
   for the equalizer/XH-7D claims themselves. Wilson also named "the Jason Society" (Gerb connects
   this to the real [[jason-advisory-group|Jason Advisory Group]], administered by MITRE) and
-  claimed Project Pounce traces to [[william-a-matan|William Matan]]'s 1952 proposal referenced in
+  claimed Project Pounce traces to [[william-a-matheny|William Matheny]]'s 1952 proposal referenced in
   the [[robertson-panel-1953|Robertson Panel]]. *([gerb/nro](../raw/gerb/nro.md)
   1:32:11–1:38:14, 1:41:10–1:43:10)*
 

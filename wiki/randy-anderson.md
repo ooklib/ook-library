@@ -31,11 +31,11 @@ considered a possible weapon. *([gerb/mitre](../raw/gerb/mitre.md) 1:13:12–1:1
   stationed at DoD installations near Area 51 on Department of Energy-controlled land — land Gerb
   identifies as [[nevada-national-security-site|Nevada Test Site]] locations largely operated by
   [[sandia-national-laboratories|Sandia]]. Gerb suggests this may lend credence to
-  [[edgar-fuchs|Edgar Fuchs]]'s TR-3B claims. *([gerb/sandia](../raw/gerb/sandia.md)
+  [[edgar-fuche|Edgar Fuche]]'s TR-3B claims. *([gerb/sandia](../raw/gerb/sandia.md)
   1:51:11–1:52:17)*
 
 ## Relationships
 
 - Testimony connects [[naval-surface-warfare-center-crane]] to [[mitre-corporation]]'s alleged
   legacy program; separately connects Sandia-managed [[nevada-national-security-site]] land to
-  [[edgar-fuchs]]'s TR-3B claims.
+  [[edgar-fuche]]'s TR-3B claims.

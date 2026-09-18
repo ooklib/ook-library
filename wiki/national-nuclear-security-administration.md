@@ -91,7 +91,7 @@ critical layer of UFO legacy-program custody, recovery, and continental-US trans
   Atomic Energy Act, assisting the FBI and other agencies with technical expertise on nuclear-
   material incidents; UAP Gerb hypothesizes "with near total certainty" that NEST was the ground-
   element team, dressed in mission-oriented protective posture (MOP) gear, that USMC Lance
-  Corporal Jonathan Wagant observed securing a 1997 Peru UFO crash site.
+  Corporal Jonathan Weygandt observed securing a 1997 Peru UFO crash site.
   *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:16:38–1:17:43)*
 
 ## Relationships

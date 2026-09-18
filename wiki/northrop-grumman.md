@@ -52,7 +52,7 @@ Lockheed) that the government would hesitate to give direct custody of recovered
   [[strategic-defense-initiative|SDI]]-related contracts than Northrop, General Dynamics,
   Raytheon, and RAND combined. *([gerb/saic](../raw/gerb/saic.md) 1:07:16–1:07:34)*
 - Named alongside Lockheed, Boeing, and Teledyne Ryan as a primary builder of the
-  [[alien-reproduction-vehicle-tr3b|TR-3B]], per Edgar Fuchs. *([gerb/saic](../raw/gerb/saic.md)
+  [[alien-reproduction-vehicle-tr3b|TR-3B]], per Edgar Fuche. *([gerb/saic](../raw/gerb/saic.md)
   1:11:31–1:11:46)*
 
 ## Claims (from the Northrop Grumman & TRW Vol.2 video)
@@ -99,7 +99,7 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
 - Gerb identifies [[terry-phillips|Terry Phillips]] (VP for security since 2023) as running the
   entire security apparatus for Northrop's alleged breakaway UFO programs, with
   [[john-c-freestone|John Freestone]], [[kathy-andrews|Kathy Andrews]], and
-  [[vince-divine|Vince Divine]] as directors of security operating under him, plus
+  [[vince-devine|Vince Devine]] as directors of security operating under him, plus
   [[michael-dempsey|Michael Dempsey]] (VP for government affairs) among the executive-level
   figures Gerb suspects engage with the UFO portfolio. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:17:28–2:17:41, 2:50:44–2:51:02)*
 - Northrop owned and operated the [[tahone-radar-cross-section-facility|Tahone RCS facility]]
@@ -119,4 +119,4 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
   [[huntington-ingalls-industries]] in 2011; ran the
   [[northrop-advanced-technology-and-design-center]] and the
   [[tahone-radar-cross-section-facility]]; security apparatus led by [[terry-phillips]] with
-  [[john-c-freestone]], [[kathy-andrews]], and [[vince-divine]] under him.
+  [[john-c-freestone]], [[kathy-andrews]], and [[vince-devine]] under him.

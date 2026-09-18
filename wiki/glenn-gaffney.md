@@ -33,7 +33,7 @@ UFO-materials transfer. *([gerb/nro](../raw/gerb/nro.md) 2:44:52–2:45:09)*
   [[national-underwater-reconnaissance-office|National Underwater Reconnaissance Office
   (NURO)]]. *([gerb/nro](../raw/gerb/nro.md) 2:44:52–2:45:09)*
 - Allegedly blocked the Kona Blue transfer at the CIA's behest; Gerb introduces
-  [[mary-sturdivant|Mary Sturdivant]] as a possible co-conspirator in the blockage.
+  [[mary-sturtevant|Mary Sturtevant]] as a possible co-conspirator in the blockage.
   *([gerb/nro](../raw/gerb/nro.md) 2:46:59–2:47:12)*
 - Photographed with [[dawn-meyerriecks|Dawn Meyerriecks]]. *([gerb/nro](../raw/gerb/nro.md)
   2:33:01–2:33:07)*
@@ -52,4 +52,4 @@ UFO-materials transfer. *([gerb/nro](../raw/gerb/nro.md) 2:44:52–2:45:09)*
 
 - Career links [[national-underwater-reconnaissance-office]] and
   [[cia-directorate-of-science-and-technology]]; alleged Kona Blue blocker alongside
-  [[mary-sturdivant]]; associate of [[dawn-meyerriecks]].
+  [[mary-sturtevant]]; associate of [[dawn-meyerriecks]].

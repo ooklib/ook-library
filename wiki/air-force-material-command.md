@@ -73,7 +73,7 @@ legacy-program crash-retrieval-era claims. *([gerb/hidden_wing](../raw/gerb/hidd
   *both* the AFSC lineage and the AFRL lineage. Gerb believes AMC/AFMC's predecessors were
   integral (alongside the US Army Corps of Engineers) in constructing early deep-underground
   military bases in the American Southwest, and connects Operation Paperclip recruitment of
-  Xaver Dorsch (Nazi Organisation Todt's director, expert in hyper-advanced subterranean
+  Franz Xaver Dorsch (Nazi Organisation Todt's director, expert in hyper-advanced subterranean
   construction) to a 1947 AMC "underground plant program" request.
   *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 2:56:30–3:02:16)*
 - [[eric-henry-wang|Dr. Eric Henry Wang]], named by witnesses in both the

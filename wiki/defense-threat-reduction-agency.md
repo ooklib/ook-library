@@ -27,7 +27,7 @@ The Defense Threat Reduction Agency (DTRA, colloquially "Ditra"), a DoD combat-s
 countering weapons of mass destruction and CBRNE threats, was formed in 1998 as the latest
 evolution of an unbroken organizational lineage running back to the 1947
 [[armed-forces-special-weapons-project|Armed Forces Special Weapons Project (AFSWP)]] — the same
-AFSWP stationed at Sandia Base and named in [[j-andrew-kner|J. Andrew Kner]]'s testimony and the
+AFSWP stationed at Sandia Base and named in [[j-andrew-kissner|J. Andrew Kissner]]'s testimony and the
 disputed Interplanetary Phenomenon Unit documents. DTRA has ~2,100+ employees (66%+ contractors)
 and an annual budget of roughly $2 billion. *([gerb/sandia](../raw/gerb/sandia.md)
 2:28:18–2:33:21)*

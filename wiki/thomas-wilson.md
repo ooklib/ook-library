@@ -30,7 +30,7 @@ controversial whistleblower discussed earlier in the same video.
 
 ## Claims
 
-- Attended a 1997 meeting with Naval Reserve Cdr. [[willard-miller|Willard Miller]] and
+- Attended a 1997 meeting with Naval Reserve Cdr. [[will-miller|Will Miller]] and
   [[steven-greer|Steven Greer]] — confirmed by Gerb to have taken place.
   *([gerb/saic](../raw/gerb/saic.md) 40:33–40:50)*
 - Told by General Michael Ward to search a special records group in the Office of the Under

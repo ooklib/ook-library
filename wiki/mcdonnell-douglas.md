@@ -5,7 +5,7 @@ aliases: [Macdonald Douglas]
 tags: [contractor, sdi]
 relations:
   - relation: employed_by
-    target: paul-sizz
+    target: paul-czysz
   - relation: contractor_for
     target: strategic-defense-initiative
 sources:
@@ -15,7 +15,7 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
 
-McDonnell Douglas Aircraft Company employed [[paul-sizz|Dr. Paul Sizz]] for 30 years on
+McDonnell Douglas Aircraft Company employed [[paul-czysz|Dr. Paul Czysz]] for 30 years on
 classified projects. *([gerb/saic](../raw/gerb/saic.md) 1:35:58–1:36:08)* Also named among
 SDI-era contractors on [[colonel-steve-wilson|Colonel Steve Wilson]]'s "Star Wars City" chart.
 *([gerb/saic](../raw/gerb/saic.md) 14:52–14:59)*
@@ -29,4 +29,4 @@ SDI-era contractors on [[colonel-steve-wilson|Colonel Steve Wilson]]'s "Star War
 
 ## Relationships
 
-- Employed [[paul-sizz]]; SDI contractor; former president [[edward-c-aldridge]].
+- Employed [[paul-czysz]]; SDI contractor; former president [[edward-c-aldridge]].

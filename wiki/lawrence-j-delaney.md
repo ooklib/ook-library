@@ -30,7 +30,7 @@ sources:
 Lawrence J. Delaney served as Assistant Secretary of the Air Force for Acquisition, Technology
 and Logistics ([[saf-aq|SAF/AQ, "SECAF ATNL"]]) from 1991 to 1992. Gerb calls his pre-government
 career history "certainly rather engaging," comparable to other gatekeeper figures he has
-covered, such as [[mary-sturdivant|Mary Sturdivant]] and [[terry-phillips|Terry Phillips]].
+covered, such as [[mary-sturtevant|Mary Sturtevant]] and [[terry-phillips|Terry Phillips]].
 *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 39:29–39:51)*
 
 ## Claims

@@ -1,7 +1,7 @@
 ---
-title: Carl Nell
+title: Karl Nell
 kind: person
-aliases: [Colonel Carl Nell]
+aliases: [Colonel Karl Nell, Carl Nell]
 tags: [whistleblower, army, northrop-grumman, lockheed]
 relations:
   - relation: employed_by
@@ -18,7 +18,7 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
 ---
 
-Colonel Carl Nell, US Army Futures Command, is a vocal advocate for [[david-grush|David Grush]]'s
+Colonel Karl Nell, US Army Futures Command, is a vocal advocate for [[david-grush|David Grush]]'s
 nonhuman-intelligence claims, stating "there is zero doubt" NHI exists and has been interacting
 with humanity. Gerb notes Nell's confidence may be informed by his 13 years as Northrop Grumman's
 deputy CTO and director of systems engineering/integration, and 2 years as a senior Lockheed

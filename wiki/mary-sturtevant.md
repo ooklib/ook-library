@@ -1,7 +1,7 @@
 ---
-title: Mary K. Sturdivant
+title: Mary K. Sturtevant
 kind: person
-aliases: [Mary Sturivant]
+aliases: [Mary Sturdivant, Mary Sturivant]
 tags: [gatekeeper, cia, nro, ssci, lockheed, kona-blue]
 relations:
   - relation: employed_by
@@ -58,7 +58,7 @@ Select Committee on Intelligence (SSCI) documents. *([gerb/nro](../raw/gerb/nro.
 - Gerb notes she and [[christopher-mellon|Christopher Mellon]] worked closely together at SSCI
   for years, but Mellon reportedly declined Gerb's request for help questioning her.
   *([gerb/nro](../raw/gerb/nro.md) 2:50:18–2:50:35)*
-- Gerb's Lockheed investigation formally identifies Sturdivant as a "high-level member of
+- Gerb's Lockheed investigation formally identifies Sturtevant as a "high-level member of
   Lockheed UFO Legacy Program Operations." In 1999, prior to joining Lockheed, she was named
   Deputy Director of the CIA's Clandestine Information Technology Office — a joint venture
   between the CIA Directorate of Operations and CIA DS&T (the same directorate whose deputy

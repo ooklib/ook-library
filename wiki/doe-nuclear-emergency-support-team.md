@@ -10,7 +10,7 @@ relations:
     target: national-reconnaissance-office
     note: "alleged on-site scientific response element of NRO-linked crash retrieval teams"
   - relation: references_testimony_of
-    target: jonathan-wagant
+    target: jonathan-weygandt
   - relation: part_of
     target: national-nuclear-security-administration
     note: "became a DOE/NNSA team after the NNSA's creation in 2000"
@@ -34,8 +34,8 @@ authority derives from the 1954 Atomic Energy Agreement. *([gerb/nro](../raw/ger
 ## Claims
 
 - Gerb identifies NEST as the likely direct-response, on-site scientific team ("men in DOE
-  mission-oriented protective posture/MOP gear") described by USMC Lance Cpl. [[jonathan-wagant|
-  Jonathan Wagant]] at his 1997 Peru UFO crash encounter, arriving via US Army CH-47s alongside
+  mission-oriented protective posture/MOP gear") described by USMC Lance Cpl. [[jonathan-weygandt|
+  Jonathan Weygandt]] at his 1997 Peru UFO crash encounter, arriving via US Army CH-47s alongside
   tier-1 direct-action personnel. *([gerb/nro](../raw/gerb/nro.md) 1:13:59–1:16:15)*
 - Gerb notes legacy programs additionally allegedly utilize DOE/NNSA Special Response Teams
   (SRTs) and the Office of Secure Transportation (OST) for crash retrievals and material
@@ -68,5 +68,5 @@ authority derives from the 1954 Atomic Energy Agreement. *([gerb/nro](../raw/ger
 
 - Operated under [[department-of-energy]]/[[national-nuclear-security-administration|NNSA]];
   alleged on-site component of [[national-reconnaissance-office]]-linked crash retrieval teams;
-  referenced in [[jonathan-wagant]]'s testimony; works with
+  referenced in [[jonathan-weygandt]]'s testimony; works with
   [[office-of-secure-transportation]].

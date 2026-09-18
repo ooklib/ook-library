@@ -1,7 +1,7 @@
 ---
-title: San Corp
+title: Sancorp
 kind: organization
-aliases: [SanCorp]
+aliases: [San Corp, SanCorp]
 tags: [contractor, counterintelligence]
 relations:
   - relation: contractor_for
@@ -11,7 +11,7 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
 ---
 
-A contractor with a specialty in "plugging whistleblower leaks," engaged by
+Sancorp Consulting, LLC, a contractor with a specialty in "plugging whistleblower leaks," engaged by
 [[aaro|AARO]] in 2022 under [[sean-kirkpatrick|Sean Kirkpatrick]]'s direction.
 *([gerb/saic](../raw/gerb/saic.md) 29:04–29:13)*
 

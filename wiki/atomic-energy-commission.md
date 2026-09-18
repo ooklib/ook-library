@@ -14,7 +14,7 @@ relations:
     target: nevada-national-security-site
     note: "established the Nevada Proving Ground / Nevada Test Site in 1951 under Truman"
   - relation: alleged_by
-    target: j-andrew-kner
+    target: j-andrew-kissner
     note: "Kner's sources describe AEC labs receiving custody of recovered discs from 1947"
   - relation: spun_off_from
     target: manhattan-engineer-district
@@ -43,7 +43,7 @@ administration|NNSA]] UFO legacy-program gatekeeping structure. *([gerb/sandia](
   transferred from Army control to AEC control, a moment Gerb calls "likely integral to
   establishing UFO legacy program gatekeeping structures." *([gerb/sandia](../raw/gerb/sandia.md)
   17:36–18:02)*
-- Per former New Mexico State Rep. [[j-andrew-kner|J. Andrew Kner]]'s 1994 statement, custody of
+- Per former New Mexico State Rep. [[j-andrew-kissner|J. Andrew Kissner]]'s 1994 statement, custody of
   discs downed by the US Army from 15 May–31 July 1947 (including Roswell) was vested by a 1948
   classified presidential executive order in civilian authorities: the AEC's contractor-operated
   labs (Los Alamos and the soon-to-be-separate Sandia), assisted by Air Force Systems Command,
@@ -103,5 +103,5 @@ administration|NNSA]] UFO legacy-program gatekeeping structure. *([gerb/sandia](
 - Took custodial control of [[sandia-national-laboratories]] and
   [[los-alamos-national-laboratory]] in 1947; established the
   [[nevada-national-security-site|Nevada Test Site]] in 1951.
-- Alleged, per [[j-andrew-kner]] and the Eisenhower Briefing Document, to have received custody
+- Alleged, per [[j-andrew-kissner]] and the Eisenhower Briefing Document, to have received custody
   of recovered discs from the [[roswell-incident-1947]] and other 1947–1950 crash retrievals.

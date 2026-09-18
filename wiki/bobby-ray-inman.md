@@ -57,7 +57,7 @@ director of the [[central-intelligence-agency|CIA]], vice director of the
 - Wilson claimed Inman was present at the alleged first successful flight of a man-made
   anti-gravity [[alien-reproduction-vehicle-tr3b|ARV]] on 18 July 1971, while still serving in
   the Navy. *([gerb/saic](../raw/gerb/saic.md) 13:18–13:33)*
-- 1985 conference notes by [[oki-shannon|Oki Shannon]] discuss "a major engineering project"
+- 1985 conference notes by [[oke-shannon|Oke Shannon]] discuss "a major engineering project"
   under Inman. *([gerb/saic](../raw/gerb/saic.md) 46:49–46:57)*
 - Went from, in 1989, discussing recovered UFOs "becoming available for technological research"
   with NASA mission specialist Bob Echler, to, by 2022 (Project Unity), saying he found

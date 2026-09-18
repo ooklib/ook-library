@@ -57,7 +57,7 @@ sidestepping congressional reporting and standard bureaucratic acquisition overs
   [[saf-aqx|AQX]], [[saf-aqr|AQR]]) use the RCO's own umbrella oversight authority and unlimited
   TOA-fund access to execute UFO legacy-program tasking — his working example of a "stripped
   oversight channel." *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 59:33–1:00:19)*
-- [[vince-divine|Vince Divine]] served as deputy director of security for the RCO under Walden
+- [[vince-devine|Vince Devine]] served as deputy director of security for the RCO under Walden
   from 2019 to 2021, before moving to Northrop Grumman's space-sector security organization.
   Cross-referenced in *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:27:57–2:28:14)*.
 

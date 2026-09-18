@@ -28,9 +28,9 @@ relations:
     note: "Skunk Works built and operates out of Plant 42, Palmdale, CA"
   - relation: contractor_for
     target: alien-reproduction-vehicle-tr3b
-    note: "alleged prime contractor per Edgar Fuchs"
+    note: "alleged prime contractor per Edgar Fuche"
   - relation: alleged_by
-    target: edgar-fuchs
+    target: edgar-fuche
     note: "alleged TR-3B prime contractor"
   - relation: alleged_by
     target: ross-coulthart
@@ -42,7 +42,7 @@ relations:
     target: james-t-ryder
     note: "VP Lockheed Martin Space Systems / head of Advanced Technology Center, 2004-2011"
   - relation: employed_by
-    target: mary-sturdivant
+    target: mary-sturtevant
     note: "VP government affairs 2006-2011; VP intelligence/joint/science & tech programs 2011-2015"
   - relation: contractor_for
     target: operation-kona-blue
@@ -72,7 +72,7 @@ Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporatio
 [[martin-marietta|Martin Marietta]]) is the largest defense contractor in the world ($64.65B
 revenue in 2024, $136.39B market cap, 122,000+ employees). Gerb argues Lockheed sits at the
 center of UFO legacy-program speculation more than any other contractor — named directly by
-whistleblowers from Edgar Fuchs to David Grush — owing to its Skunk Works advanced-programs
+whistleblowers from Edgar Fuche to David Grush — owing to its Skunk Works advanced-programs
 division, its multi-decade administration of Sandia National Laboratories and the Tonopah Test
 Range, and a well-documented 2008–2011 attempt to divest itself of recovered UFO materials.
 *([gerb/lockheed](../raw/gerb/lockheed.md) 9:46–10:03, 17:47–18:26, 4:49–5:15)*
@@ -115,7 +115,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
   subsidiary — a 22-year window Gerb treats as central to his Lockheed thesis, given Sandia's
   alleged role reverse-engineering [[alien-reproduction-vehicle-tr3b|TR-3B]] propulsion (with
   [[lawrence-livermore-national-laboratory|Lawrence Livermore]]) per
-  [[edgar-fuchs|Edgar Fuchs]]. *([gerb/lockheed](../raw/gerb/lockheed.md) 38:39–40:16,
+  [[edgar-fuche|Edgar Fuche]]. *([gerb/lockheed](../raw/gerb/lockheed.md) 38:39–40:16,
   1:06:20–1:06:28)*
 - Under Sandia's management, Lockheed by extension administered the classified
   [[tonopah-test-range|Tonopah Test Range]] (Area 52), a DOE weapons-testing site Gerb argues
@@ -140,7 +140,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
   F-22, and F-35. Gerb and Dr. Steven Greer both argue Plant 42 and Lockheed's Helendale radar
   cross-section (RCS) range form part of an Antelope Valley UFO legacy-program network.
   *([gerb/lockheed](../raw/gerb/lockheed.md) 21:39–22:47, 1:10:28–1:13:29)*
-- [[edgar-fuchs|Edgar Fuchs]] alleges Lockheed operated as prime contractor (with Boeing,
+- [[edgar-fuche|Edgar Fuche]] alleges Lockheed operated as prime contractor (with Boeing,
   Northrop, and Teledyne Ryan, managed by NRO/NSA/CIA) on the triangular
   [[alien-reproduction-vehicle-tr3b|TR-3B]], prototyped from the 1970s to operational status by
   1994 — the year before the Lockheed–Martin Marietta merger.
@@ -206,7 +206,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
   November 2024 House Oversight hearing record by Rep. Tim Burchett, corroborated by a
   declassified AARO slide deck. *([gerb/lockheed](../raw/gerb/lockheed.md) 1:58:00–2:00:13)*
 - Gerb names two additional possible participants in blocking the transfer: former Lockheed VP
-  [[mary-sturdivant|Mary Sturdivant]] (given her prior CIA DS&T/NRO career and close working
+  [[mary-sturtevant|Mary Sturtevant]] (given her prior CIA DS&T/NRO career and close working
   relationship with Ryder), and [[robert-cardillo|Robert Cardillo]] (then Deputy DNI for
   Intelligence Integration), who by 2019 sat on the board of Peraton — the successor entity to
   Lockheed's divested [[peraton|Enterprise Integration Group]].
@@ -244,10 +244,10 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 - Operates [[skunk-works]], out of [[air-force-plant-42]]; administered
   [[sandia-national-laboratories]] and [[tonopah-test-range]] via the Sandia Corporation
   subsidiary, 1993–2017.
-- Alleged prime [[alien-reproduction-vehicle-tr3b]] contractor per [[edgar-fuchs]]; alleged
+- Alleged prime [[alien-reproduction-vehicle-tr3b]] contractor per [[edgar-fuche]]; alleged
   source of the 2004 "tic tac" per [[ross-coulthart]].
 - Attempted UFO-materials divestment through [[operation-kona-blue]], via VP
-  [[james-t-ryder]]; blocked by [[glenn-gaffney]] and possibly [[mary-sturdivant]] and
+  [[james-t-ryder]]; blocked by [[glenn-gaffney]] and possibly [[mary-sturtevant]] and
   [[robert-cardillo]].
 - Sold its Enterprise Integration Group in 2010, becoming [[peraton]].
 - Contractor to [[mitre-corporation]]; connected to a reported vehicle-transfer facility at

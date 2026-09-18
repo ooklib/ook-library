@@ -10,7 +10,7 @@ relations:
   - relation: employed_by
     target: doug-wolf
   - relation: employed_by
-    target: mark-moyahan
+    target: mark-moynihan
   - relation: employed_by
     target: dawn-meyerriecks
 sources:
@@ -30,7 +30,7 @@ decision authority to the NRO director. *([gerb/nro](../raw/gerb/nro.md) 2:26:54
 
 - Gerb identifies three individuals who passed through this office and also held positions at
   the NRO, CIA DS&T, and/or [[cia-office-of-global-access|CIA OGA]] — a pattern he treats as
-  evidence of a UFO-legacy-program gatekeeper nexus: [[doug-wolf|Doug Wolf]], [[mark-moyahan|Mark
+  evidence of a UFO-legacy-program gatekeeper nexus: [[doug-wolf|Doug Wolf]], [[mark-moynihan|Mark
   Moyahan]], and [[dawn-meyerriecks|Dawn Meyerriecks]] ("Myrix"/"Merrick").
   *([gerb/nro](../raw/gerb/nro.md) 2:28:20–2:33:03)*
 
@@ -38,4 +38,4 @@ decision authority to the NRO director. *([gerb/nro](../raw/gerb/nro.md) 2:26:54
 
 - Joint acquisition oversight of [[national-reconnaissance-office]] with
   [[under-secretary-of-defense-for-acquisition-and-sustainment]]; staffed by alleged gatekeepers
-  [[doug-wolf]], [[mark-moyahan]], and [[dawn-meyerriecks]].
+  [[doug-wolf]], [[mark-moynihan]], and [[dawn-meyerriecks]].

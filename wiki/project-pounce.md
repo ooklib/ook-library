@@ -15,7 +15,7 @@ relations:
   - relation: coincides_with
     target: robertson-panel-1953
   - relation: founded
-    target: william-a-matan
+    target: william-a-matheny
     note: "originated the 1952 IMINT-collection concept later expanded (per Gerb) into Pounce"
   - relation: part_of
     target: national-reconnaissance-office
@@ -39,7 +39,7 @@ elements of JSOC/Delta Force. *([gerb/saic](../raw/gerb/saic.md) 12:49–12:56)*
 - Can allegedly be observed referenced in the disputed Majestic 12 "Project Aquarius" document
   and, oddly, the 1953 [[robertson-panel-1953|Robertson Panel]] report.
   *([gerb/saic](../raw/gerb/saic.md) 13:04–13:11)*
-- Gerb traces the "Pounce" name to Air Force Brig. Gen. [[william-a-matan|William A. Matan]]'s
+- Gerb traces the "Pounce" name to Air Force Brig. Gen. [[william-a-matheny|William A. Matheny]]'s
   1952 proposal for a dedicated F-94C interceptor unit to photograph UFOs over Albuquerque/
   Kirtland AFB — a proposal shelved for lack of spare aircraft, not credibility. He theorizes this
   IMINT-tasking concept was later revived as an NRO-era retrieval task force.
@@ -59,5 +59,5 @@ elements of JSOC/Delta Force. *([gerb/saic](../raw/gerb/saic.md) 12:49–12:56)*
 
 - Founded/spearheaded per [[colonel-steve-wilson]]; linked to [[jsoc]] and referenced in
   [[majestic-12]] lore and the [[robertson-panel-1953]]; concept originated by
-  [[william-a-matan]]; alleged umbrella authority [[national-reconnaissance-office]]; "equalizer"
+  [[william-a-matheny]]; alleged umbrella authority [[national-reconnaissance-office]]; "equalizer"
   weapon attributed to [[e-systems]].

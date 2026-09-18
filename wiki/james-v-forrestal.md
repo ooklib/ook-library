@@ -25,7 +25,7 @@ window — a death Gerb notes in passing as suspicious. *([gerb/sandia](../raw/g
 
 ## Claims
 
-- Per J. Andrew Kner's account, Forrestal (alongside [[vannevar-bush]]) was authorized by a 24
+- Per J. Andrew Kissner's account, Forrestal (alongside [[vannevar-bush]]) was authorized by a 24
   September 1947 memorandum from President Truman to proceed with Operation Majestic 12 — a
   meeting the Eisenhower Briefing Document (the first alleged MJ-12 leak) claims really occurred
   that day, per Truman's own appointment records. *([gerb/sandia](../raw/gerb/sandia.md)

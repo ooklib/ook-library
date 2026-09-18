@@ -55,8 +55,6 @@ relations:
   - relation: board_member_of
     target: susan-m-gordon
   - relation: board_member_of
-    target: don-meyer
-  - relation: board_member_of
     target: paul-kaminski
   - relation: board_member_of
     target: john-m-deutch
@@ -74,7 +72,7 @@ relations:
     note: "technical staff on the ground sensor program, before joining CIA/NRO"
   - relation: analogous_to
     target: sandia-national-laboratories
-    note: "Gerb, per J. Andrew Kner's disclosures: 'I think that's MITER, MITER, MITER, MITER' as FFRDC custodian of recovered vehicles, alongside Sandia"
+    note: "Gerb, per J. Andrew Kissner's disclosures: 'I think that's MITER, MITER, MITER, MITER' as FFRDC custodian of recovered vehicles, alongside Sandia"
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -209,7 +207,7 @@ Gerb's stated ~2 years of research and unnamed engineer/program-manager testimon
 ## Gatekeepers / personnel with government–MITRE crossover
 
 See individual pages: [[donald-kerr]] (chairman 2009–2021), [[stephanie-osullivan]],
-[[susan-m-gordon]] (board of trustees), [[don-meyer]] (board), [[paul-kaminski]] (board
+[[susan-m-gordon]] (board of trustees), [[paul-kaminski]] (board
 2017–2025), [[john-m-deutch]] (board before/during his tenure as SecDef), [[linton-wells-ii]]
 (briefed into MITRE legacy programs mid–late 2000s though not publicly employed),
 [[william-laplante]] (missile defense portfolio director 2011–2013, senior VP/GM of
@@ -230,7 +228,7 @@ Group]] of elite science advisers has been administered through MITRE since 1960
 
 ## Claim — FFRDCs as UFO-materials custodians (Sandia video)
 
-- Responding to [[j-andrew-kner|J. Andrew Kner]]'s account of recovered discs vested in AEC-lab
+- Responding to [[j-andrew-kissner|J. Andrew Kissner]]'s account of recovered discs vested in AEC-lab
   custody, Gerb restates his core thesis: "I don't think contractors per se are the ones who own
   the hangers that are housing recovered vehicles. I think that's FFRDC's. I think that's the
   national labs. I think that is MITER. And I can't stress that enough. I think that's MITER,

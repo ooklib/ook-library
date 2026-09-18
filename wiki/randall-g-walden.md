@@ -39,7 +39,7 @@ of the Air Force Rapid Capabilities Office (RCO), is a figure Gerb previously na
   2023. Gerb frames this as a pattern he sees often: senior DoD/IC legacy-program figures "trade
   in their stars and stripes for a pinstriped suit" on the corporate side, this time at an FFRDC.
   *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 57:59–58:34)*
-- From 2019 to 2021, [[vince-divine|Vince Divine]] served under Walden as deputy director of
+- From 2019 to 2021, [[vince-devine|Vince Devine]] served under Walden as deputy director of
   security for the Air Force RCO. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md)
   2:27:57–2:28:14)*
 - Gerb states Walden and [[edward-c-aldridge|Edward C. Aldridge]] both served "very senior UFO
@@ -76,6 +76,6 @@ of the Air Force Rapid Capabilities Office (RCO), is a figure Gerb previously na
 ## Relationships
 
 - Air Force RCO director/PEO; joined the [[aerospace-corporation]] board of trustees in 2023;
-  [[vince-divine]] served under him at RCO before moving to Northrop Grumman.
+  [[vince-devine]] served under him at RCO before moving to Northrop Grumman.
 - Career progression: [[saf-aql]] technical roles → director of [[aftte]] → director/PEO of
   [[rapid-capabilities-office]].

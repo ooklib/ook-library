@@ -54,7 +54,7 @@ counterintelligence role supporting [[mitre-corporation]]'s legacy activities.
   2:17:36-2:20:22, 3:08:51-3:09:07)*
 - Gerb theorizes directors of security operating under Phillips at Northrop include
   [[john-c-freestone|John C. Freestone]], [[kathy-andrews|Kathy Andrews]], and
-  [[vince-divine|Vince Divine]], along with [[michael-dempsey|Michael Dempsey]] (VP for
+  [[vince-devine|Vince Devine]], along with [[michael-dempsey|Michael Dempsey]] (VP for
   government affairs) among further executive-level figures allegedly engaging with Northrop's
   UFO portfolio. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:19:52-2:21:25,
   2:50:44-2:51:02)*
@@ -123,6 +123,6 @@ evil boogeyman" and stating explicitly he considers it a personal risk to discus
 - Associated with [[air-force-office-of-special-investigations]]; later
   [[leidos]] chief security officer, then VP for security at [[northrop-grumman]], where Gerb
   alleges he runs security for Northrop's UFO programs, with [[john-c-freestone]],
-  [[kathy-andrews]], and [[vince-divine]] operating under him.
+  [[kathy-andrews]], and [[vince-devine]] operating under him.
 - Succeeded as AFOSI/PJ executive director and Air Force SAP Security Director by
   [[lee-m-russ]].

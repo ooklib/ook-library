@@ -26,7 +26,7 @@ relations:
     target: doug-wolf
     note: "16 years, CIA component within NRO"
   - relation: employed_by
-    target: mark-moyahan
+    target: mark-moynihan
   - relation: employed_by
     target: jim-shell
   - relation: employed_by
@@ -170,8 +170,8 @@ are unverified claims from a single investigative source.**
 
 Gerb names 13 individuals with NRO ties as likely current/former legacy-program gatekeepers:
 [[paul-kaminski]], [[john-m-deutch]], [[bill-perry|William Perry]], [[ellen-lord]],
-[[doug-wolf]], [[mark-moyahan]], [[dawn-meyerriecks]], [[sean-kirkpatrick]], [[martin-faga]],
-[[donald-kerr]], [[everett-heinman]], [[bobby-ray-inman]], and [[mary-sturdivant]]. See
+[[doug-wolf]], [[mark-moynihan]], [[dawn-meyerriecks]], [[sean-kirkpatrick]], [[martin-faga]],
+[[donald-kerr]], [[everett-heinman]], [[bobby-ray-inman]], and [[mary-sturtevant]]. See
 [[under-secretary-of-defense-for-acquisition-and-sustainment]] and
 [[deputy-director-of-national-intelligence-for-acquisition-technology-and-facilities]] for the
 shared office threads Gerb draws between them. *([gerb/nro](../raw/gerb/nro.md)
@@ -194,7 +194,7 @@ shared office threads Gerb draws between them. *([gerb/nro](../raw/gerb/nro.md)
 - Alleged umbrella authority over [[project-pounce]] and a rapid-reaction team based at the
   [[nevada-national-security-site]].
 - Directed by [[donald-kerr]], [[martin-faga]], and [[everett-heinman]] (Program B); staffed by
-  gatekeepers [[paul-kaminski]], [[doug-wolf]], [[mark-moyahan]], [[sean-kirkpatrick]], and
+  gatekeepers [[paul-kaminski]], [[doug-wolf]], [[mark-moynihan]], [[sean-kirkpatrick]], and
   [[jim-shell]]; jointly overseen (acquisitions) by
   [[under-secretary-of-defense-for-acquisition-and-sustainment]] and
   [[deputy-director-of-national-intelligence-for-acquisition-technology-and-facilities]].

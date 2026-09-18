@@ -14,7 +14,7 @@ relations:
   - relation: coincides_with
     target: special-access-program-oversight-committee
   - relation: references_testimony_of
-    target: willard-miller
+    target: will-miller
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -77,7 +77,7 @@ contractor [[eg-and-g|EG&G]] in Nevada. *([gerb/saic](../raw/gerb/saic.md) 34:39
   notes 2 of 6 SAPOC personnel Wilson identified were former SAIC alumni — supporting his
   identification of SAIC as the "large defense contractor" from the notes.
   *([gerb/saic](../raw/gerb/saic.md) 39:49–40:25)*
-- A "critical third man": Naval Reserve Commander [[willard-miller|Willard Miller]] attended a
+- A "critical third man": Naval Reserve Commander [[will-miller|Will Miller]] attended a
   1997 meeting with VADM Wilson and [[steven-greer|Steven Greer]] (confirmed to have taken
   place); during the EG&G meeting, Davis showed Wilson a 2002 letter from Miller offering to aid
   Davis and [[hal-puthoff|Hal Puthoff]] with UFO crash-retrieval research, including access to a
@@ -131,7 +131,7 @@ contractor [[eg-and-g|EG&G]] in Nevada. *([gerb/saic](../raw/gerb/saic.md) 34:39
 ## Relationships
 
 - Central testimony connecting [[thomas-wilson]], [[eric-davis]], [[edgar-mitchell]],
-  [[willard-miller]], and [[eg-and-g]] to the alleged SAIC/SAPOC gatekeeping structure; Gerb's
+  [[will-miller]], and [[eg-and-g]] to the alleged SAIC/SAPOC gatekeeping structure; Gerb's
   originally suspected unnamed contractor was [[lockheed-martin]], now superseded by
   [[science-applications-international-corporation|SAIC]] as his leading candidate; its "zero
   budget" finding is treated in Vol. 2 as corroborating

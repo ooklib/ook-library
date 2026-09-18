@@ -1,7 +1,7 @@
 ---
-title: Mark Moyahan
+title: Mark Moynihan
 kind: person
-aliases: [Mark Moahan, Mark Mohan]
+aliases: [Mark Moyahan, Mark Moahan, Mark Mohan]
 tags: [gatekeeper, cia, dst, oga, nro]
 relations:
   - relation: employed_by

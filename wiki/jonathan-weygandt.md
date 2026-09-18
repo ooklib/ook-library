@@ -1,7 +1,7 @@
 ---
-title: Jonathan Wagant
+title: Jonathan Weygandt
 kind: person
-aliases: [Jonathan Want]
+aliases: [Jonathan Wagant, Jonathan Want]
 tags: [witness, usmc, 1997, peru, crash-retrieval]
 relations:
   - relation: references_testimony_of

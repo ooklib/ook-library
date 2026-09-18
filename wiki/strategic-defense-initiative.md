@@ -54,10 +54,10 @@ programs.
   diverting funds (per [[katherine-austin-fitts]] and [[denise-mckenzie]]) extends to SDI
   itself, given its scale as an SDI contractor. *([gerb/saic](../raw/gerb/saic.md)
   1:07:58–1:08:20)*
-- Edgar Fuchs ("Fuché") claimed up to 35% of SDI's funding was siphoned to support UFO black
+- Edgar Fuche ("Fuché") claimed up to 35% of SDI's funding was siphoned to support UFO black
   programs, and that the reverse-engineered [[alien-reproduction-vehicle-tr3b|TR3B]]'s first
   operational flight (mid-1990s) was funded by SDI money. *([gerb/saic](../raw/gerb/saic.md)
-  1:11:13–1:11:38)* See [[edgar-fuchs]].
+  1:11:13–1:11:38)* See [[edgar-fuche]].
 - The [[defense-advanced-research-center|Defense Advanced Research Center (DARC)]] was
   allegedly "bolstered" in the mid-1980s with SDI funding. *([gerb/saic](../raw/gerb/saic.md)
   1:11:13–1:11:22)*

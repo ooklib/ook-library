@@ -101,7 +101,7 @@ material; it is filed separately for that reason.
 [[mcdonnell-douglas]] · [[woods-hole-oceanographic-institution]] · [[todt-organization]] ·
 [[e-systems]] · [[to-the-stars-academy]] ·
 [[bigelow-aerospace-advanced-space-studies]] · [[peraton]] · [[honeywell]] ·
-[[huntington-ingalls-industries]] · [[inqtel]] · [[system-high]]
+[[huntington-ingalls-industries]] · [[in-q-tel]] · [[system-high]]
 
 ## Organizations — British power structures
 
@@ -130,33 +130,33 @@ material; it is filed separately for that reason.
 ## People — investigators & witnesses
 
 [[uap-gerb]] · [[david-grush]] · [[eric-burlison]] · [[anna-paulina-luna]] · [[chris-sharp]] ·
-[[david-fravor]] · [[senior-chief-wiggins]] · [[randy-anderson]] · [[leonard-stringfield]] ·
+[[david-fravor]] · [[alexandro-wiggins]] · [[randy-anderson]] · [[leonard-stringfield]] ·
 [[katherine-austin-fitts]] · [[richard-dolan]] · [[william-binney]] · [[denise-mckenzie]] ·
-[[4chan-whistleblower-2023]] · [[bob-lazar]] · [[edgar-fuchs]] · [[colonel-steve-wilson]] ·
-[[thomas-wilson]] · [[willard-miller]] · [[steven-greer]] · [[oki-shannon]] ·
-[[michael-herrera]] · [[jake-barber]] · [[matthew-brown]] · [[luis-elizondo]] · [[paul-sizz]] ·
-[[albert-bruce-collins]] · [[jonathan-wagant]] · [[dylan-borland]] · [[jim-shell]] ·
-[[tom-delonge]] · [[william-a-matan]] · [[ross-coulthart]] · [[carl-nell]] · [[jim-lacatski]] ·
-[[j-andrew-kner]] · [[george-knapp]] · [[sumner-shapiro]] · [[richard-doty]] ·
+[[4chan-whistleblower-2023]] · [[bob-lazar]] · [[edgar-fuche]] · [[colonel-steve-wilson]] ·
+[[thomas-wilson]] · [[will-miller]] · [[steven-greer]] · [[oke-shannon]] ·
+[[michael-herrera]] · [[jake-barber]] · [[matthew-brown]] · [[luis-elizondo]] · [[paul-czysz]] ·
+[[albert-bruce-collins]] · [[jonathan-weygandt]] · [[dylan-borland]] · [[jim-shell]] ·
+[[tom-delonge]] · [[william-a-matheny]] · [[ross-coulthart]] · [[karl-nell]] · [[jim-lacatski]] ·
+[[j-andrew-kissner]] · [[george-knapp]] · [[sumner-shapiro]] · [[richard-doty]] ·
 [[eric-henry-wang]] · [[robert-sarbacher]] · [[matthew-sullivan]] · [[harry-reid]] ·
 [[edward-j-ruppelt]]
 
 ## People — gatekeepers & officials
 
-[[donald-kerr]] · [[stephanie-osullivan]] · [[susan-m-gordon]] · [[don-meyer]] ·
+[[donald-kerr]] · [[stephanie-osullivan]] · [[susan-m-gordon]] ·
 [[paul-kaminski]] · [[john-m-deutch]] · [[linton-wells-ii]] · [[william-laplante]] ·
 [[sean-kirkpatrick]] · [[ronald-moultrie]] · [[terry-phillips]] · [[donna-shipton]] ·
 [[peter-highnam]] · [[mike-mcconnell]] · [[dan-coats]] · [[bill-clinton]] · [[bill-perry]] ·
 [[christopher-land]] · [[dick-cheney]] · [[james-clapper]] · [[bobby-ray-inman]] ·
 [[william-f-raborn]] · [[william-a-owens]] · [[michael-costanik]] · [[ellen-lord]] ·
-[[sue-c-payton]] · [[j-robert-beyster]] · [[doug-wolf]] · [[mark-moyahan]] ·
+[[sue-c-payton]] · [[j-robert-beyster]] · [[doug-wolf]] · [[mark-moynihan]] ·
 [[dawn-meyerriecks]] · [[martin-faga]] · [[everett-heinman]] · [[glenn-gaffney]] ·
-[[mary-sturdivant]] · [[robert-cardillo]] · [[christopher-mellon]] · [[james-t-ryder]] ·
+[[mary-sturtevant]] · [[robert-cardillo]] · [[christopher-mellon]] · [[james-t-ryder]] ·
 [[tim-phillips-aaro]] · [[richard-haver]] · [[michael-dempsey]] · [[edward-c-aldridge]] ·
-[[randall-g-walden]] · [[vince-divine]] · [[john-c-freestone]] · [[kathy-andrews]] ·
-[[william-a-davidson]] · [[russell-e-wiler]] · [[william-e-mcclure]] · [[lee-m-russ]] ·
+[[randall-g-walden]] · [[vince-devine]] · [[john-c-freestone]] · [[kathy-andrews]] ·
+[[william-a-davidson]] · [[russell-e-wyler]] · [[william-e-mcclure]] · [[lee-m-russ]] ·
 [[dawn-m-dunlop]] · [[lawrence-j-delaney]] · [[david-m-taylor]] · [[terrence-l-reynolds]] ·
-[[rob-how]]
+[[rob-howe]]
 
 ## People — founders, historical & researchers
 
@@ -164,7 +164,7 @@ material; it is filed separately for that reason.
 [[philip-j-corso]] · [[arthur-trudeau]] · [[john-craven]] · [[harold-edgerton]] ·
 [[albert-stubblebine]] · [[john-b-alexander]] · [[eric-davis]] · [[hal-puthoff]] ·
 [[edgar-mitchell]] · [[wernher-von-braun]] · [[hermann-oberth]] · [[hans-kammler]] ·
-[[xaver-dorsch]] · [[ronald-reagan]] · [[ben-rich]] · [[james-v-forrestal]] ·
+[[franz-xaver-dorsch]] · [[ronald-reagan]] · [[ben-rich]] · [[james-v-forrestal]] ·
 [[edward-dahl]] · [[donald-c-winter]] · [[george-c-marshall]] · [[leslie-groves]] ·
 [[j-robert-oppenheimer]]
 
