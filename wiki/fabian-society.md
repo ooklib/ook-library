@@ -19,9 +19,14 @@ relations:
   - relation: overlapping_membership_with
     target: eugenics-society
     note: "founders/leaders Shaw, the Webbs, Wells and Beveridge all had documented eugenics advocacy or Eugenics Society roles"
+  - relation: overlapping_membership_with
+    target: chatham-house
+    note: "Dennis Healey was simultaneously a Fabian Society executive-committee member and a Chatham House Counsellor (also Bilderberg and Trilateral Commission)"
 sources:
   - file: "raw/gp/Green & Pleasant - 2026-03-28 - The Secret Society Running Britain for 140 Years.md"
     label: "The Secret Society Running Britain for 140 Years (Green & Pleasant)"
+  - file: "raw/gp/Green & Pleasant - 2026-04-10 - Britain's Most Powerful Secret Organisation - Chatham House Exposed.md"
+    label: "Britain's Most Powerful Secret Organisation - Chatham House Exposed (Green & Pleasant)"
 ---
 
 The Fabian Society is Britain's oldest political think tank, founded on 4 January 1884 by nine
@@ -129,6 +134,11 @@ Blair, who said Fabian/Shaw "values would be very recognizable in today's Labour
   the Fabians).
 - Critiqued from the outside by [[george-orwell]], who gave the society one lecture in 1941 and
   broke with it after they altered it without his consent.
+- Overlapping membership with [[chatham-house]] via [[dennis-healey]], who sat simultaneously on
+  both organizations' governing bodies (plus Bilderberg and the Trilateral Commission) — per
+  Green & Pleasant's Chatham House video, the explicit personnel bridge between this page and the
+  wiki's separate British-power-structures sub-graph around Chatham House
+  *([gp/chatham-house](../raw/gp/Green & Pleasant - 2026-04-10 - Britain's Most Powerful Secret Organisation - Chatham House Exposed.md) 19:13)*.
 
 ## Speculation flag
 

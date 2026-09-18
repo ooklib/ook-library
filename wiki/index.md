@@ -9,12 +9,14 @@ tags: [meta]
 Catalog of all entity pages, grouped by kind. See [[relation-types]] for the edge-type registry
 and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `gerb/mitre`, `gerb/saic`,
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
-`gerb/secrecy_2`, `gp/secret-society`).
+`gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`).
 
-Note: as of the `gp/secret-society` ingest, the wiki spans two currently unconnected topic areas —
-the original alleged "UFO legacy programs" ecosystem (MITRE, SAIC, NRO, Lockheed, etc.) and a new
-British power-structures thread (Fabian Society and related figures/orgs) — see `raw/index.md`
-for the channel breakdown.
+Note: the wiki spans two topic areas — the original alleged "UFO legacy programs" ecosystem
+(MITRE, SAIC, NRO, Lockheed, etc.) and a British power-structures thread (Fabian Society, Chatham
+House and related figures/orgs) — see `raw/index.md` for the channel breakdown. As of the
+`gp/chatham-house` ingest, the two British-power-structures pages (Fabian Society, Chatham House)
+are themselves cross-linked via [[dennis-healey]], though the thread as a whole remains unconnected
+to the UFO-legacy-program graph.
 
 ## Hub pages (start here)
 
@@ -98,7 +100,8 @@ for the channel breakdown.
 ## Organizations — British power structures
 
 [[fabian-society]] · [[eugenics-society]] · [[labour-party]] · [[london-school-of-economics]] ·
-[[new-statesman]]
+[[new-statesman]] · [[chatham-house]] · [[round-table-movement]] ·
+[[council-on-foreign-relations]]
 
 ## Places
 
@@ -176,7 +179,8 @@ for the channel breakdown.
 ## People — British power structures
 
 [[george-bernard-shaw]] · [[sidney-webb]] · [[beatrice-webb]] · [[h-g-wells]] ·
-[[william-beveridge]] · [[julian-huxley]] · [[aldous-huxley]] · [[george-orwell]]
+[[william-beveridge]] · [[julian-huxley]] · [[aldous-huxley]] · [[george-orwell]] ·
+[[alfred-milner]] · [[lionel-curtis]] · [[robin-niblett]] · [[dennis-healey]]
 
 ## Concepts
 

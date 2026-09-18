@@ -431,3 +431,38 @@ Added four new relation types to [[relation-types]] (`member_of`, `practices`,
 British power structures"). All claims attributed to Green & Pleasant per the schema's "record
 claims, not fact" convention, despite the source's own framing as primary-document-sourced
 non-speculative history.
+
+## [2026-09-18] ingest | Britain's Most Powerful Secret Organisation - Chatham House Exposed (Green & Pleasant)
+
+Ingested `raw/gp/Green & Pleasant - 2026-04-10 - Britain's Most Powerful Secret Organisation -
+Chatham House Exposed.md` (short key `gp/chatham-house`, already registered in `raw/index.md`),
+the second video in Green & Pleasant's "Hidden Governments of Britain" series, which the source
+itself frames as "the same model as the Fabian Society, played at a higher level." The video
+covers: the 1927 Chatham House Rule of anonymity and its use by Chatham House and the Bilderberg
+Group; Chatham House's £20.2M annual income and funding by oil majors (BP, Shell, ExxonMobil),
+arms companies (BAE Systems, Northrop Grumman), and UK government departments (Foreign Office,
+MoD) despite its public claim of "no government subsidy"; its governance by former spy chiefs and
+prime ministers (Eliza Manningham-Buller, Theresa May, Mark Carney) and the "revolving door"
+exemplified by former director Robin Niblett's move to MI6-founded advisory firm Hakluyt; and its
+historical founding at a 30 May 1919 Paris Peace Conference meeting convened by Lionel Curtis, a
+protégé of Alfred Milner and member of Milner's "Kindergarten"/Round Table movement, tracing an
+imperial-era lineage (including Milner's own documented racist views and the Kindergarten's role
+formalizing racial segregation in the Transvaal, a stated "blueprint for apartheid"). The video
+draws an explicit, source-stated personnel link (not this wiki's inference) between Chatham House
+and the previously-ingested Fabian Society via Dennis Healey, who sat simultaneously on both
+organizations' governing bodies as well as Bilderberg's and the Trilateral Commission's.
+
+Created 7 new entity pages: [[chatham-house]], [[round-table-movement]], [[alfred-milner]],
+[[lionel-curtis]], [[robin-niblett]], [[dennis-healey]], and [[council-on-foreign-relations]]
+(the Round Table movement and the American "sister institute" founded from the same 1919 Paris
+meeting). Modified [[fabian-society]]: added a reciprocal `overlapping_membership_with` relation
+to [[chatham-house]] (via Dennis Healey), a new `sources` entry for `gp/chatham-house`, and a
+"Relationships" bullet documenting the cross-link. This is the first factual (source-stated, not
+inferred) connection between the wiki's two Fabian/Chatham-House pages within the British
+power-structures thread; the thread as a whole remains unconnected to the original UFO-legacy-
+program graph. Updated `wiki/index.md`'s "Organizations — British power structures" and "People —
+British power structures" sections and its topic-scope note. No new relation types were needed —
+reused `spun_off_from`, `analogous_to`, `overlapping_membership_with`, `member_of`, `founded`, and
+`employed_by` from the existing registry. All claims attributed to Green & Pleasant per the
+schema's "record claims, not fact" convention, despite the source's own framing as fully sourced
+from public/primary records.
