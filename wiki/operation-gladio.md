@@ -10,20 +10,74 @@ relations:
   - relation: sponsored_by
     target: general-development-corporation
     note: "alleged recipient of laundered Operation X narcotics proceeds, via the Sicilian mob (per ewa/mafia-allies)"
+  - relation: sponsored_by
+    target: marshall-plan
+    note: "allegedly funded in part by skimmed Marshall Plan cash ($685M), per ewa/italy-1948"
+  - relation: sponsored_by
+    target: vatican-bank
+    note: "laundered CIA/Mafia cash into 'clean holy dollars' for Gladio combatants, per ewa/italy-1948"
+  - relation: operates
+    target: office-of-policy-coordination
+    note: "the OPC, headed by Frank Wisner, ran Gladio's operations under CIA cover"
+  - relation: coincides_with
+    target: italian-election-1948
+    note: "framed by Eyes Wide Open as arguably the first Gladio operation"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
+    label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
 ---
 
-Operation Gladio, per Eyes Wide Open, was the future CIA's Cold War program of clandestine
-anti-communist "stay-behind" armies across Western Europe, seeded by [[reinhard-gehlen]]'s
-postwar "werewolf" fighters (renamed "Gladiators") and later expanded through figures like
-[[karl-wolff]] and [[junio-valerio-borghese]]. The video only introduces the operation's origins;
-Eyes Wide Open indicates it will cover it in more depth in future installments.
+Operation Gladio, per Eyes Wide Open, was the joint NATO/CIA program of clandestine anti-communist
+"stay-behind" armies across Western Europe — originally meant to repel a Soviet invasion, but
+which quickly morphed into an underground vanguard crushing leftist activity. Its documented
+origins trace to Italy in 1948, where the CIA, the Vatican, and the Sicilian Mafia allegedly
+coordinated to rig the country's first postwar democratic elections against the Communist Party;
+Eyes Wide Open frames this election as "arguably the first Gladio operation." The program was
+seeded institutionally by [[reinhard-gehlen]]'s postwar "werewolf" fighters (renamed "Gladiators")
+and expanded through figures like [[karl-wolff]] and [[junio-valerio-borghese]] in parallel with
+its Italian roots.
 
 ## Claims
+
+- Named after the Roman short sword ("gladio"), the operation was declassified in the early
+  1990s: in August 1990, Italian PM [[giulio-andreotti]] publicly admitted before parliament that
+  NATO and the CIA had operated secret anti-communist armies across Europe for most of the Cold
+  War, and that major Western attacks were likely orchestrated by these agencies; his subsequent
+  report was delivered late and heavily redacted, and parallel European investigations largely
+  went nowhere. *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 0:00-4:41)*
+- Per NSC Document 1/1 (authored by [[george-kennan]], November 1947), Italy was viewed by the
+  Truman administration and CIA as the single most important Cold War battleground, given the
+  PCI's status as the largest Communist party outside the Iron Curtain. The US/British "hearts and
+  minds" strategy paired the $13.7B [[marshall-plan]] "carrot" (over 5%, or $685 million, of which
+  was allegedly skimmed by the CIA to fund illegal European operations) with Gladio's covert
+  "stick." *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 8:10-9:37, 9:57-10:47)*
+- The alliance's Sicilian roots trace to [[operation-husky]] (the 1943 Allied invasion of Sicily),
+  in which OSS director [[william-donovan]], via [[earl-brennan]] and Vatican official
+  [[giovanni-montini]], recruited Mafia boss [[calogero-vizzini]]; postwar appointments (Vizzini as
+  Villalba mayor, [[charles-poletti]] as military governor giving [[vito-genovese]] control of
+  Italy's docks) reconstituted the Sicilian Mob as a key Gladio partner. *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 13:54-17:35)*
+- The [[vatican-bank|Vatican Bank (IOR)]] served as the laundering vehicle turning dirty Mafia/
+  CIA cash into "clean holy dollars" for Gladio combatants; the Truman administration funneled
+  $350M to establish [[christian-democracy-italy|the Christian Democratic Party]] and $30M to
+  create the [[catholic-action|Catholic Action]] propaganda network, followed by an additional
+  $65M into the Vatican Bank in 1948. *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 20:47-23:07, 28:14-28:34)*
+- The CIA's newly formed covert-operations arm, the [[office-of-policy-coordination]] (headed by
+  [[frank-wisner]]), ran its first operation abroad in the [[italian-election-1948|1948 Italian
+  election]], where a feared Communist/Socialist super-majority was defeated through Mafia terror
+  (498 leftists/labor activists allegedly killed in 1948 alone, per Peter Dale Scott; the
+  [[portella-della-ginestra-massacre-1947|1947 Portella della Ginestra massacre]] allegedly funded
+  by Donovan's [[world-commerce-corporation]]), Vatican propaganda (Cardinal
+  [[francis-spellman]]'s pamphlet/radio campaign), and direct ballot-box stuffing by
+  [[calogero-vizzini]]'s men. Future CIA director [[william-colby]] and CIA officer
+  [[miles-copeland]] both later credited the Mafia's intervention as decisive; contested,
+  allegedly exaggerated claims of Soviet counter-funding of the PCI came from CIA agent
+  [[f-mark-wyatt]]. Even a Communist win would not have been allowed to stand: per
+  [[george-kennan]]'s plans, the State Department was prepared to recommend a naval invasion of
+  Italy. *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 18:17-30:32)*
 
 - Grew out of Gehlen's "werewolf squads," renamed "Gladiators," which formed the backbone of the
   postwar European political climate and were activated at war's end to play an instrumental role
@@ -54,3 +108,9 @@ Eyes Wide Open indicates it will cover it in more depth in future installments.
 - Framed by Eyes Wide Open as part of the broader [[deep-state]] apparatus.
 - Allegedly funded in part by [[operation-x]] narcotics proceeds via
   [[general-development-corporation]] and [[lucky-luciano]]'s Sicilian mob.
+- Publicly confirmed by [[giulio-andreotti]] in 1990.
+- Allegedly funded via skimmed [[marshall-plan]] cash and the [[vatican-bank]].
+- Run under CIA cover by the [[office-of-policy-coordination]], headed by [[frank-wisner]].
+- Its Italian roots trace to [[operation-husky]] and the [[italian-election-1948]], involving
+  [[calogero-vizzini]], [[charles-poletti]], [[christian-democracy-italy]], and
+  [[francis-spellman]].

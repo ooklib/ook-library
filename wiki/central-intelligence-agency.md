@@ -37,6 +37,12 @@ relations:
   - relation: employed_by
     target: william-casey
     note: "director under Reagan, per Eyes Wide Open"
+  - relation: operates
+    target: office-of-policy-coordination
+    note: "the CIA's covert operating arm, per Eyes Wide Open"
+  - relation: participated_in
+    target: italian-election-1948
+    note: "the CIA/OPC's first operation abroad, per Eyes Wide Open"
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -48,6 +54,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
+    label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -101,6 +109,12 @@ shared organization page.
   assassinations, drug smuggling, blackmail, and extortion, beginning with the 1947 Greek Civil
   War. *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 23:57-25:47)*
 
+- Its newly formed covert-operations arm, the [[office-of-policy-coordination]] (headed by
+  [[frank-wisner]]), ran the CIA's first operation abroad in the
+  [[italian-election-1948|1948 Italian election]], allying with the Vatican and Sicilian Mafia to
+  defeat a feared Communist/Socialist super-majority — framed by Eyes Wide Open as arguably the
+  first [[operation-gladio]] operation. *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 18:17-20:15)*
+
 ## Relationships
 
 - Operates [[cia-directorate-of-science-and-technology]] and (via it)
@@ -110,3 +124,5 @@ shared organization page.
   [[central-intelligence-group]] via the [[national-security-act-1947]]; early leadership included
   [[roscoe-hillenkoetter]] and (later) [[allen-dulles]], [[george-h-w-bush]], and
   [[william-casey]].
+- Operates the [[office-of-policy-coordination]], run via the [[italian-election-1948]] and
+  [[operation-gladio]].

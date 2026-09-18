@@ -10,6 +10,8 @@ relations:
     target: central-intelligence-agency
   - relation: references_testimony_of
     target: peter-dale-scott
+  - relation: investigates
+    target: operation-gladio
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
@@ -19,6 +21,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
+    label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -69,9 +73,22 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
   Method*, David Talbot's *The Devil's Chessboard*, Tim Weiner's *Legacy of Ashes*, and Naomi
   Klein's *The Shock Doctrine*, among others. *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 1:37-2:23, 25:47-26:00, 26:29-26:52)*
 
+- Part 5.1, "Italy 1948 - How to Steal an Election," breaks from the usual single-episode format
+  as "Part 1 of a new three-part mini-series" within the larger History of the CIA series,
+  explicitly digging into [[operation-gladio]]'s origins in Italy, its ties to the Vatican, and
+  pan-European stay-behind coordination. The host frames the evidence throughout as largely
+  circumstantial ("we have very little in terms of smoking guns"), explicitly invites viewers to
+  draw their own conclusions, and separately lays out — while flagging them as dubious —
+  allegations of Soviet interference in the 1948 election for balance. Previews Part 2's coverage
+  of the New York-Vatican-FBI-CIA blackmail/corruption network behind Cardinal
+  [[francis-spellman]] and [[charles-poletti]]. Bibliography draws primarily on Daniele Ganser's
+  *NATO's Secret Armies*, Paul L. Williams's *Operation Gladio*, and Peter Dale Scott's *Deep
+  Politics and the Death of JFK*. *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 1:28-1:52, 2:44-3:16, 5:02-5:28, 30:45-31:14)*
+
 ## Relationships
 
 - Investigates the [[office-of-strategic-services]] and the [[central-intelligence-agency]] as
   the throughline of this "History of the CIA" series.
 - Draws on and cites [[peter-dale-scott]]'s deep-politics/deep-state theory as the series'
   organizing framework.
+- Investigates [[operation-gladio]] as a dedicated mini-series arc beginning with Part 5.1.

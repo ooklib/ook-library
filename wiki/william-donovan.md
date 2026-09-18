@@ -25,6 +25,15 @@ relations:
   - relation: influenced
     target: central-intelligence-group
     note: "with Dulles, drafted a 1946-47 work plan for the future agency based on Donovan's own vision (per ewa/cold-war)"
+  - relation: recruited_by
+    target: calogero-vizzini
+    note: "ordered an airdrop communique recruiting the Sicilian Mafia boss for Operation Husky (per ewa/italy-1948)"
+  - relation: associate_of
+    target: pope-pius-xii
+    note: "met at the Vatican in 1945; decorated a 'crusader against communism' and Knight of the Vatican (per ewa/italy-1948)"
+  - relation: employed_by
+    target: world-commerce-corporation
+    note: "his private company after leaving the OSS, allegedly used to fund mob associates including the 1947 Portella della Ginestra massacre (per ewa/italy-1948)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
@@ -34,6 +43,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
+    label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
 ---
 
 William "Wild Bill" Donovan was a WWI-hero-turned-Wall-Street-lawyer who became the first (and
@@ -90,6 +101,20 @@ administrator.
 - His wartime OSS network in Romania, run there by [[frank-wisner]], later formed the basis of
   the [[central-intelligence-group|Central Intelligence Group]]'s first (failed) operation. *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 17:47-17:58)*
 
+- Following orders from Donovan, OSS Italy director [[earl-brennan]] liaised with Vatican
+  official [[giovanni-montini]] to identify anti-communist allies; on Montini's (and
+  [[lucky-luciano]]'s) suggestion, Donovan ordered an airdrop communique to Sicilian Mafia boss
+  [[calogero-vizzini]] requesting his help with [[operation-husky]], the invasion of Sicily.
+  *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 15:50-16:36)*
+- Met [[pope-pius-xii]] at the Vatican in 1945; was decorated as a "crusader against communism"
+  and granted the Grand Cross of the Order of Saint Sylvester, becoming a "Knight of the Vatican"
+  — setting the pieces in motion for future Gladio money laundering through the
+  [[vatican-bank]]. *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 22:02-22:31)*
+- According to some sources, as a private citizen, allegedly funded the
+  [[portella-della-ginestra-massacre-1947|1947 Portella della Ginestra massacre]] directly via his
+  private [[world-commerce-corporation]], which he used to funnel money to mob associates.
+  *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 26:19-26:31)*
+
 ## Relationships
 
 - Directed the [[office-of-strategic-services]], appointed by [[franklin-d-roosevelt]].
@@ -105,3 +130,6 @@ administrator.
   [[operation-gladio]] forces in Italy.
 - With [[allen-dulles]], drafted the future CIA's 1946-47 work plan; his Romania stay-behind
   network (run by [[frank-wisner]]) became the [[central-intelligence-group]]'s first operation.
+- Via [[earl-brennan]] and [[giovanni-montini]], recruited [[calogero-vizzini]] for
+  [[operation-husky]]; met [[pope-pius-xii]]; allegedly funded the
+  [[portella-della-ginestra-massacre-1947]] via the [[world-commerce-corporation]].

@@ -785,3 +785,57 @@ department-of-defense` relation from [[central-intelligence-group]] since the Do
 exist until this same 1947 act — avoided an anachronistic edge with no existing "War Department"
 page as a better target. (4) Verified all new wikilinks and relation `target:` fields resolve to
 existing files before finishing.
+
+## [2026-09-18] ingest | Eyes Wide Open - Italy 1948 - How to Steal an Election [Pt. 5.1] (7m4s)
+
+Ingested `raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to
+Steal an Election [pt. 5.1].md` (key `ewa/italy-1948`, already registered in `raw/index.md`),
+Part 1 of a new three-part Gladio-focused mini-series within Eyes Wide Open's larger "History of
+the CIA" series. The video covers Operation Gladio's documented origins: the postwar rise of
+socialism across liberated Europe and the US/UK "hearts and minds" strategy (the [[marshall-plan]]
+as carrot, Gladio as stick); the Sicilian Mafia's wartime reconstitution via
+[[operation-underworld]] and [[operation-husky]] (OSS director [[william-donovan]], via
+[[earl-brennan]] and Vatican official [[giovanni-montini]], recruiting Mafia boss
+[[calogero-vizzini]], with postwar appointments including [[charles-poletti]] as military governor
+and [[vito-genovese]]'s control of Italy's docks); and the CIA/[[office-of-policy-coordination]]'s
+(headed by [[frank-wisner]]) first covert operation abroad, the [[italian-election-1948|1948
+Italian general election]] — funded via the Truman administration's cash to the [[vatican-bank]]
+and [[catholic-action]] to build [[christian-democracy-italy]], secured through Mafia terror
+(including the alleged [[portella-della-ginestra-massacre-1947]]) and Vatican propaganda
+(Cardinal [[francis-spellman]]), and capped by direct ballot-box stuffing.
+
+Substantially expanded [[operation-gladio]] (previously a thin stub flagged for deeper coverage)
+into a full account of its Italian origins, adding claims/relations for the Marshall Plan funding
+thesis, the Vatican Bank laundering pipeline, the OPC's role, and the 1948 election as "arguably
+the first Gladio operation."
+
+Created 20 new entity pages: people ([[giulio-andreotti]], [[george-kennan]], [[earl-brennan]],
+[[giovanni-montini]], [[calogero-vizzini]], [[charles-poletti]], [[vito-genovese]],
+[[pope-pius-xii]], [[george-white]], [[frank-coppola]], [[salvatore-giuliano]], [[f-mark-wyatt]],
+[[william-colby]], [[miles-copeland]], [[francis-spellman]], [[alcide-de-gasperi]]),
+organizations ([[christian-democracy-italy]], [[italian-communist-party]], [[vatican-bank]],
+[[catholic-action]], [[federal-bureau-of-narcotics]], [[world-commerce-corporation]],
+[[office-of-policy-coordination]]), and programs/events ([[marshall-plan]], [[operation-husky]],
+[[italian-election-1948]], [[portella-della-ginestra-massacre-1947]]).
+
+Updated existing pages with new claims/relations/sources: [[william-donovan]] (Vizzini
+recruitment, Pope Pius XII meeting, alleged Portella della Ginestra funding via the
+[[world-commerce-corporation]]), [[james-jesus-angleton]] (Luciano parole/Sicily desk),
+[[lucky-luciano]] (Operation Husky intelligence, Vizzini endorsement, parole), [[frank-wisner]]
+(OPC directorship), [[central-intelligence-agency]] (OPC/1948-election relations),
+[[eyes-wide-open]] (Part 5.1 summary claims). No new relation types were needed — reused
+`sponsored_by`, `recruited_by`, `participated_in`, `protected`, `associate_of`, `influenced`,
+`coincides_with`, `liaison_to`, `employed_by`, `governed_by`, and `alleged_by` from the existing
+registry.
+
+Judgment calls: (1) Treated the transcript's "NSC Document 1/1" and its George Kennan quote as a
+claim/document authored by Kennan rather than creating a separate document page, since the
+episode gives it no further independent treatment beyond this one citation. (2) Created
+individual pages for minor one-quote figures (Miles Copeland, William Colby, George White, Frank
+Coppola, Salvatore Giuliano) rather than folding them into other pages' prose, consistent with
+this wiki's practice of giving every named, attributed claimant their own page. (3) Filed the
+Vatican Bank and Catholic Action as `organization` pages (not folded into a single "Vatican" page)
+since the transcript treats them as distinct institutional actors with their own claims. (4)
+Fixed no ASR misspellings requiring alias-merges with existing pages — all named entities in this
+episode were new to the wiki. (5) Verified all new wikilinks and relation `target:` fields resolve
+to existing files before finishing.

@@ -17,9 +17,17 @@ relations:
   - relation: participated_in
     target: operation-x
     note: "organized Sicilian-mob heroin supply/distribution (per ewa/mafia-allies)"
+  - relation: influenced
+    target: calogero-vizzini
+    note: "endorsed Vizzini as OSS ally; grew up 15 minutes from Vizzini's estate (per ewa/italy-1948)"
+  - relation: recruited_by
+    target: george-white
+    note: "1946 FBN parole deal to Sicily, alongside James Jesus Angleton (per ewa/italy-1948)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
+    label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
 ---
 
 Charles "Lucky" Luciano was a Sicilian-American Mafia boss within the
@@ -50,6 +58,12 @@ CIA's later mafia alliances.
   back through [[general-development-corporation]] to the Sicilian mob, which distributed funds
   to the far-right network that made up [[operation-gladio]]. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 26:51-29:12)*
 
+- From his prison cell, shared the locations/identities of key Mafia figures who could help
+  administer Sicily for the Allies during [[operation-husky]]; along with [[giovanni-montini]],
+  endorsed [[calogero-vizzini]] as an OSS ally, having grown up 15 minutes from Vizzini's estate.
+  In 1946, FBN agent [[george-white]] struck a deal releasing Luciano on parole to Sicily,
+  coordinated with [[james-jesus-angleton]]. *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 12:47-13:19, 16:14-16:22, 25:16-25:57)*
+
 ## Relationships
 
 - Mafia boss within the [[national-crime-syndicate]]; close associate of [[meyer-lansky]].
@@ -57,3 +71,5 @@ CIA's later mafia alliances.
   and deportation to Sicily.
 - Organized the Sicily-Cuba-New York heroin pipeline for [[operation-x]], working with
   [[santo-trafficante]] and funding [[operation-gladio]] through the Sicilian mob.
+- Provided Mafia intelligence for [[operation-husky]]; endorsed [[calogero-vizzini]]; paroled to
+  Sicily via [[george-white]] and [[james-jesus-angleton]].

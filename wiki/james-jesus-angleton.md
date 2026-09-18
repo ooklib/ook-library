@@ -15,11 +15,19 @@ relations:
     note: "with Frank Wisner, developed the OSS's working relationship with Lansky (per ewa/mafia-allies)"
   - relation: participated_in
     target: operation-x
+  - relation: associate_of
+    target: george-white
+    note: "coordinated Lucky Luciano's 1946 parole/deportation to Sicily (per ewa/italy-1948)"
+  - relation: participated_in
+    target: italian-election-1948
+    note: "in charge of the CIA's Italy desk, specifically Sicily, during the 1948 elections"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
+    label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
 ---
 
 James Jesus Angleton was the OSS station chief in Rome during WWII and, per Eyes Wide Open, would
@@ -53,6 +61,11 @@ viewed [[allen-dulles]] as a mentor and personally helped extract fascist collab
   [[meyer-lansky]], central to [[paul-helliwell]]'s [[operation-x]] narcotics-funding scheme.
   *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 22:31-22:39)*
 
+- As the CIA official in charge of the Italy desk, specifically Sicily, during the 1948 elections,
+  worked with FBN agent [[george-white]] on a 1946 deal releasing [[lucky-luciano]] on parole to
+  Sicily, and allegedly ensured Luciano was deported alongside Detroit mob boss
+  [[frank-coppola|Frank Kapola]]. *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 25:16-25:57)*
+
 ## Relationships
 
 - OSS station chief in Rome; ran the OSS's X2 counterintelligence program in Italy.
@@ -61,3 +74,5 @@ viewed [[allen-dulles]] as a mentor and personally helped extract fascist collab
   [[operation-gladio]] commander in Italy, alongside [[william-donovan]].
 - With [[frank-wisner]], developed the [[meyer-lansky]] relationship underpinning
   [[operation-x]].
+- Ran the CIA's Sicily desk during the [[italian-election-1948]]; with [[george-white]], secured
+  [[lucky-luciano]]'s parole and deportation.
