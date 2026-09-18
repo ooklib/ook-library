@@ -544,3 +544,56 @@ and [[east-india-company]] for overlap: the video does not name the Tax Justice 
 mention the Remembrancer, Lloyd's, or the East India Company at all, so those pages were left
 unmodified. Updated `wiki/index.md`'s "People — British power structures" section and its
 source-key note. No new relation types were needed.
+
+## [2026-09-18] ingest | We Uncovered The Most Infamous Secret Society: And The Truth Is Shocking (More Perfect Union)
+
+Ingested `raw/mpu/More Perfect Union - 2026-02-24 - We Uncovered The Most Infamous Secret Society_
+And The Truth Is Shocking.md` (short key `mpu/secret-society`, already registered in
+`raw/index.md`), the first video in a new, parallel US power-structures thread — thematically
+similar to the wiki's existing British power-structures thread (Fabian Society, Chatham House,
+City of London Corporation) but with no source-stated institutional or personnel link to it, so
+filed under a new, separate index heading rather than folded in. The video opens with the framing
+line "the conspiracies are true" and covers the Bohemian Grove/Bohemian Club, a private
+men-only California social club whose membership and 2023 encampment attendee lists journalist
+Daniel Boguslaw obtained and shared with More Perfect Union. It traces alleged club-linked policy
+influence from the 1981-83 Reagan Social Security cuts and 1980s capital-gains tax cuts, through
+the 1976 co-founding of the Heritage Foundation (and an alleged quarter-Bohemian-Club board during
+the drafting of Project 2025), the Bechtel family/corporation's government-contracting history
+(Iraq War cleanup, 2020s Pennsylvania AI-infrastructure deals with Senator David McCormick), to a
+San Francisco-local dark-money group (Neighbors for a Better San Francisco) it calls "basically
+just an offshoot" of the Grove. Interviewees include longtime Grove-area activist Mary Moore and
+two anonymous former Grove employees.
+
+Created 9 new entity pages: [[bohemian-grove]] (main hub page for this ingest, kind organization,
+alias "Bohemian Club"), [[daniel-boguslaw]] and [[mary-moore]] (the two named investigators given
+individual biographical treatment), [[bechtel-corporation]] and [[heritage-foundation]]
+(organizations given dedicated chapters/subsections), [[edwin-feulner]] and [[david-mccormick]]
+(individuals given specific, non-list biographical claims), [[neighbors-for-a-better-san-francisco]]
+(named local dark-money group), and [[project-2025]] (kind program, since Heritage's
+Feulner-narrated policy document is a specific named artifact with its own claims, not just a
+passing mention). Did not create pages for names appearing only as list entries or single passing
+mentions (Charles Koch, the Coors family, Clarence Thomas, Harlan Crow, the Drapers, George
+Shultz, Caspar Weinberger, Edwin Meese, John McComb, Alex Jones, Colin Powell, Michael Bloomberg,
+Henry Kissinger, Paul Pelosi, etc.) per the "no stub pages for passing mentions" instruction;
+these are mentioned in prose without wiki-links.
+
+Checked [[council-on-foreign-relations]] and the existing British power-structures pages for
+overlap before creating anything — the video does not mention the CFR, Skull & Bones, Bilderberg,
+or any Fabian Society/Chatham House/City of London figure or institution, so no cross-link was
+added and none of those pages were modified. No existing wiki pages were modified other than
+`wiki/index.md`.
+
+Added two new index sections, "Organizations — US power structures" and "People — US power
+structures" (parallel to the existing British-power-structures sections), rather than folding this
+material into the British section: the video is explicitly a different national context (US vs.
+UK) with no shared personnel/institutions, and the task brief flagged this ingest as the seed of a
+planned future US-focused thread (CIA history, CFR, etc.), so a dedicated heading gives that
+future material a natural home. Also added [[project-2025]] to the "Programs / Events" section and
+updated the index's topic-scope note to describe three now-parallel topic areas (UFO legacy
+programs, British power structures, US power structures) and to state explicitly that the new US
+thread is unconnected to both of the others. No new relation types were needed — reused
+`overlapping_membership_with`, `member_of`, `investigates`, `founded`, and `authored` from the
+existing registry. All claims attributed to More Perfect Union/Daniel Boguslaw per the schema's
+"record claims, not fact" convention; the video's own "the conspiracies are true" opening line is
+recorded as its stated editorial framing, not restated as established fact anywhere in these
+pages.

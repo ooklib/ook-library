@@ -10,14 +10,19 @@ Catalog of all entity pages, grouped by kind. See [[relation-types]] for the edg
 and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `gerb/mitre`, `gerb/saic`,
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
 `gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`,
-`rjm/city-of-london`).
+`rjm/city-of-london`, `mpu/secret-society`).
 
-Note: the wiki spans two topic areas — the original alleged "UFO legacy programs" ecosystem
-(MITRE, SAIC, NRO, Lockheed, etc.) and a British power-structures thread (Fabian Society, Chatham
-House and related figures/orgs) — see `raw/index.md` for the channel breakdown. As of the
-`gp/chatham-house` ingest, the two British-power-structures pages (Fabian Society, Chatham House)
-are themselves cross-linked via [[dennis-healey]], though the thread as a whole remains unconnected
-to the UFO-legacy-program graph.
+Note: the wiki spans three topic areas — the original alleged "UFO legacy programs" ecosystem
+(MITRE, SAIC, NRO, Lockheed, etc.), a British power-structures thread (Fabian Society, Chatham
+House and related figures/orgs), and, as of the `mpu/secret-society` ingest, a parallel US
+power-structures thread (Bohemian Grove and related figures/orgs) — see `raw/index.md` for the
+channel breakdown. As of the `gp/chatham-house` ingest, the two British-power-structures pages
+(Fabian Society, Chatham House) are themselves cross-linked via [[dennis-healey]], though the
+thread as a whole remains unconnected to the UFO-legacy-program graph. The new US
+power-structures thread is likewise currently unconnected to both the UFO-legacy-program graph
+and the British power-structures thread — no source so far states a direct institutional or
+personnel link between Bohemian Grove and the Fabian Society/Chatham House/City of London
+material; it is filed separately for that reason.
 
 ## Hub pages (start here)
 
@@ -105,6 +110,11 @@ to the UFO-legacy-program graph.
 [[council-on-foreign-relations]] · [[city-of-london-corporation]] · [[remembrancer]] ·
 [[lloyds-of-london]] · [[east-india-company]] · [[tax-justice-network]]
 
+## Organizations — US power structures
+
+[[bohemian-grove]] · [[bechtel-corporation]] · [[heritage-foundation]] ·
+[[neighbors-for-a-better-san-francisco]]
+
 ## Places
 
 [[crystal-city-virginia]] · [[naval-air-station-patuxent-river]] ·
@@ -176,7 +186,7 @@ to the UFO-legacy-program graph.
 [[talon-gold]] · [[teal-ruby]] · [[saf-aa]] · [[guardian-angel-program]] ·
 [[alsos-mission]] · [[nsc-5412-committee]] · [[yellow-fruit]] ·
 [[interplanetary-phenomenon-unit]] · [[condon-committee]] · [[age-of-disclosure-documentary]] ·
-[[yankee-white]]
+[[yankee-white]] · [[project-2025]]
 
 ## People — British power structures
 
@@ -185,6 +195,10 @@ to the UFO-legacy-program graph.
 [[alfred-milner]] · [[lionel-curtis]] · [[robin-niblett]] · [[dennis-healey]] ·
 [[john-julius-angerstein]] · [[margaret-thatcher]] · [[liz-truss]] · [[rachel-reeves]] ·
 [[richard-j-murphy]]
+
+## People — US power structures
+
+[[daniel-boguslaw]] · [[mary-moore]] · [[edwin-feulner]] · [[david-mccormick]]
 
 ## Concepts
 
