@@ -10,19 +10,24 @@ Catalog of all entity pages, grouped by kind. See [[relation-types]] for the edg
 and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `gerb/mitre`, `gerb/saic`,
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
 `gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`,
-`rjm/city-of-london`, `mpu/secret-society`).
+`rjm/city-of-london`, `mpu/secret-society`, `ewa/oss`).
 
-Note: the wiki spans three topic areas — the original alleged "UFO legacy programs" ecosystem
+Note: the wiki spans four topic areas — the original alleged "UFO legacy programs" ecosystem
 (MITRE, SAIC, NRO, Lockheed, etc.), a British power-structures thread (Fabian Society, Chatham
-House and related figures/orgs), and, as of the `mpu/secret-society` ingest, a parallel US
-power-structures thread (Bohemian Grove and related figures/orgs) — see `raw/index.md` for the
-channel breakdown. As of the `gp/chatham-house` ingest, the two British-power-structures pages
-(Fabian Society, Chatham House) are themselves cross-linked via [[dennis-healey]], though the
-thread as a whole remains unconnected to the UFO-legacy-program graph. The new US
-power-structures thread is likewise currently unconnected to both the UFO-legacy-program graph
-and the British power-structures thread — no source so far states a direct institutional or
-personnel link between Bohemian Grove and the Fabian Society/Chatham House/City of London
-material; it is filed separately for that reason.
+House and related figures/orgs), a parallel US power-structures thread (Bohemian Grove and
+related figures/orgs), and, as of the `ewa/oss` ingest, a CIA/OSS institutional-history thread
+sourced from the Eyes Wide Open channel — see `raw/index.md` for the channel breakdown. As of
+the `gp/chatham-house` ingest, the two British-power-structures pages (Fabian Society, Chatham
+House) are themselves cross-linked via [[dennis-healey]], though the thread as a whole remains
+unconnected to the UFO-legacy-program graph. The US power-structures thread is likewise
+currently unconnected to both the UFO-legacy-program graph and the British power-structures
+thread — no source so far states a direct institutional or personnel link between Bohemian
+Grove and the Fabian Society/Chatham House/City of London material; it is filed separately for
+that reason. The new Eyes Wide Open CIA/OSS-history thread (`ewa/oss`) is likewise its own
+narrative arc, but it connects to the existing UFO-legacy-programs graph through the shared
+[[central-intelligence-agency]] page (pre-existing from the Gerb thread, now enriched with OSS
+origin-story claims/relations), and to the British-power-structures thread through the shared
+[[council-on-foreign-relations]] page ([[allen-dulles]] was CFR president, 1927).
 
 ## Hub pages (start here)
 
@@ -115,6 +120,10 @@ material; it is filed separately for that reason.
 [[bohemian-grove]] · [[bechtel-corporation]] · [[heritage-foundation]] ·
 [[neighbors-for-a-better-san-francisco]]
 
+## Organizations — OSS/CIA history (Eyes Wide Open)
+
+[[office-of-strategic-services]] · [[sullivan-and-cromwell]] · [[ig-farben]]
+
 ## Places
 
 [[crystal-city-virginia]] · [[naval-air-station-patuxent-river]] ·
@@ -200,6 +209,12 @@ material; it is filed separately for that reason.
 
 [[daniel-boguslaw]] · [[mary-moore]] · [[edwin-feulner]] · [[david-mccormick]]
 
+## People — OSS/CIA history (Eyes Wide Open)
+
+[[eyes-wide-open]] · [[william-donovan]] · [[allen-dulles]] · [[john-foster-dulles]] ·
+[[roscoe-hillenkoetter]] · [[j-edgar-hoover]] · [[franklin-d-roosevelt]] · [[harry-truman]] ·
+[[peter-dale-scott]]
+
 ## Concepts
 
 [[ffrdc]] · [[special-access-program]] · [[special-access-program-oversight-committee]] ·
@@ -208,5 +223,5 @@ material; it is filed separately for that reason.
 [[saf-aql]] · [[saf-aqx]] · [[saf-aqr]] · [[national-program-special-management-staff]] ·
 [[top-policy-group]] · [[presidential-emergency-action-documents]] ·
 [[atomic-energy-act-1954]] · [[content-only-special-access-program]] ·
-[[covert-action-program]] · [[yankee-blue]] · [[permeation]] ·
+[[covert-action-program]] · [[yankee-blue]] · [[permeation]] · [[deep-state]] ·
 [[relation-types]]

@@ -1,0 +1,63 @@
+---
+title: Office of Strategic Services (OSS)
+kind: organization
+aliases: [OSS]
+tags: [intelligence-community, wwii, cia-history]
+relations:
+  - relation: founded
+    target: franklin-d-roosevelt
+    note: "created by FDR in 1942 in response to Pearl Harbor"
+  - relation: employed_by
+    target: william-donovan
+    note: "first and only director, 1942-1945"
+  - relation: employed_by
+    target: allen-dulles
+    note: "OSS officer/agent during WWII, before rising to CIA director"
+sources:
+  - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
+    label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
+---
+
+The Office of Strategic Services was the United States' first dedicated foreign-intelligence
+and covert-operations agency, created by President [[franklin-d-roosevelt|Franklin D.
+Roosevelt]] in 1942 in the wake of Pearl Harbor and dissolved after WWII, with much of its
+personnel and mission later flowing into the [[central-intelligence-agency|CIA]]. Per Eyes Wide
+Open, before the OSS the entirety of US foreign-intelligence capability "could be found in a
+few disparate filing cabinets at the State Department," with the [[federal-bureau-of-investigation|FBI]]
+handling only domestic intelligence. *([ewa/oss](../raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md) 5:59-6:34)*
+
+## Claims
+
+- Created by President Roosevelt following the surprise attack on Pearl Harbor in 1941, as "an
+  innocuous sounding agency that would oversee all intelligence and covert operations during
+  World War 2." Eyes Wide Open flags this benign-sounding naming convention ("Office of
+  Strategic Services") as a recurring CIA-history pattern used to obscure the "sinister
+  undertones" of an agency or operation from the public. *([ewa/oss](../raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md) 6:37-7:21)*
+- Eyes Wide Open alleges the OSS was, from its inception, "quickly filled with members of the
+  elite ruling class" — Wall Street bankers, lawyers, business executives, and former generals
+  — rather than average soldiers, a pattern the host says recurs across the whole "deep state"
+  network he covers in the series. *([ewa/oss](../raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md) 11:56-12:33)*
+- Per a 1945 report by Colonel Park (commissioned for President Truman while he was weighing a
+  new postwar spy agency), the OSS under Donovan hired based on the "old boy network" of Wall
+  Street connections rather than merit, and racked up operational blunders (a briefcase of
+  critical intel left in a Romanian brothel and intercepted by the Gestapo; an agent stranded in
+  Liberia; OSS agents in France accidentally ordered blown up). Eyes Wide Open frames these as
+  evidence the OSS was "largely ineffectual" at actually infiltrating and sabotaging the Nazi
+  regime. *([ewa/oss](../raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md) 15:26-16:00, 27:24-28:08)*
+- Alleges the OSS's ineffectiveness against the Nazis stemmed less from incompetence than from
+  many senior OSS agents (per the host, epitomized by [[allen-dulles]]) having clear Nazi
+  sympathies, and that the OSS's main wartime "successes" — by the host's account, not real
+  anti-fascist successes — came late in the war and typically involved collaborating with Nazi
+  elements, laying groundwork for postwar CIA operations aimed at keeping communist and
+  left-leaning governments from being elected in Western Europe (teased as the subject of the
+  next installment, "Operation Sunrise/Sunset"). *([ewa/oss](../raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md) 27:24-29:35)*
+- Dissolved/superseded when Truman, dissatisfied with Donovan, replaced him with
+  [[roscoe-hillenkoetter]], described by Eyes Wide Open as becoming "the first director of the
+  CIA." *([ewa/oss](../raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md) 15:24-15:35)*
+
+## Relationships
+
+- Founded by [[franklin-d-roosevelt]] in 1942.
+- Directed by [[william-donovan]]; staffed by (among others) [[allen-dulles]].
+- Precursor to the [[central-intelligence-agency]]; leadership passed (per Eyes Wide Open's
+  simplified account) to [[roscoe-hillenkoetter]] as "first director of the CIA."

@@ -7,9 +7,14 @@ relations:
   - relation: analogous_to
     target: chatham-house
     note: "the American group formed from the same 30 May 1919 Hotel Majestic (Paris) meeting convened by Lionel Curtis; Chatham House calls it its 'US Sister Institute'"
+  - relation: employed_by
+    target: allen-dulles
+    note: "elected president, 1927, per Eyes Wide Open"
 sources:
   - file: "raw/gp/Green & Pleasant - 2026-04-10 - Britain's Most Powerful Secret Organisation - Chatham House Exposed.md"
     label: "Britain's Most Powerful Secret Organisation - Chatham House Exposed (Green & Pleasant)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
+    label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
 ---
 
 The Council on Foreign Relations (CFR) is a US foreign-policy think tank that, per Green &
@@ -25,11 +30,17 @@ after the British and American delegates split into two separate national bodies
   *([gp/chatham-house](../raw/gp/Green & Pleasant - 2026-04-10 - Britain's Most Powerful Secret Organisation - Chatham House Exposed.md) 16:00, 16:22)*.
 - Now sits on an endowment exceeding $565 million
   *([gp/chatham-house](../raw/gp/Green & Pleasant - 2026-04-10 - Britain's Most Powerful Secret Organisation - Chatham House Exposed.md) 16:22)*.
+- [[allen-dulles]], the future CIA director, was elected CFR president in 1927 and, per Eyes
+  Wide Open, used the platform to push an interventionist foreign-policy line aligned with his
+  later access to the [[office-of-strategic-services|OSS]]'s operational reach; at the CFR's
+  1946 meeting he argued against denazifying Germany too thoroughly. *([ewa/oss](../raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md) 20:17-21:22)*
 
 ## Relationships
 
 - Analogous to (Chatham House's declared "sister institute" of) [[chatham-house]]; both trace to
   [[lionel-curtis]]'s 1919 Paris meeting and, through him, the [[round-table-movement]].
+- Elected [[allen-dulles]] as its president in 1927 (per Eyes Wide Open), tying this
+  British-power-structures-adjacent org to the separate Eyes Wide Open CIA-history thread.
 
 ## Speculation flag
 

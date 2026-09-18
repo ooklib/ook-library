@@ -620,3 +620,42 @@ missing data. Left unfixed for now per user instruction (logged here so it isn't
 mechanical audit script (parse each page's `kind:` frontmatter field and flag `employed_by`
 relations whose source isn't `person` or whose target is `person`) can regenerate the full list of
 affected pages on demand.
+
+## [2026-09-18] ingest | Eyes Wide Open - The OSS and the Birth of American Intelligence [Pt. 1] (6m17s)
+
+Ingested `ewa/oss` (already registered in `raw/index.md`), Part 1 of Eyes Wide Open's "History of
+the CIA" series, covering the founding of the [[office-of-strategic-services|OSS]] under
+[[william-donovan]] and [[allen-dulles]]'s WWII-era career, framed through Peter Dale Scott's
+"deep politics"/[[deep-state]] theory.
+
+Created 13 new pages: [[eyes-wide-open]] (the channel/host, following the [[uap-gerb]] pattern of
+treating an investigator-channel as its own `person` entity), [[office-of-strategic-services]],
+[[william-donovan]], [[allen-dulles]] (alias `Alan Dulles` per the ASR transcript's misspelling),
+[[john-foster-dulles]], [[sullivan-and-cromwell]], [[ig-farben]], [[roscoe-hillenkoetter]] (alias
+`Roscoe Hillenk Oetter`), [[j-edgar-hoover]], [[franklin-d-roosevelt]], [[harry-truman]],
+[[peter-dale-scott]], and [[deep-state]] (a `concept` page for the theoretical framework the
+whole series is organized around).
+
+Enriched four pre-existing pages that this new thread touches: [[central-intelligence-agency]]
+(added `spun_off_from` [[office-of-strategic-services]], `part_of` [[deep-state]], and
+`employed_by` edges to [[roscoe-hillenkoetter]]/[[allen-dulles]] — this page is the sole
+connection point back to the original UFO-legacy-programs graph, since it pre-dates this ingest
+from the Gerb thread), [[department-of-defense]] and [[federal-bureau-of-investigation]] (both
+got a `part_of` [[deep-state]] edge, matching the video's explicit listing of them as deep-state
+components), and [[council-on-foreign-relations]] (added Allen Dulles's 1927-1946 presidency,
+which incidentally links this new thread to the existing British-power-structures thread through
+a shared org page).
+
+No new relation types were needed — reused `founded`, `employed_by`, `succeeded_by`/
+`preceded_by`, `liaison_to`, `contractor_for`, `authored`, `alleged_by`, `part_of`,
+`spun_off_from`, `investigates`, and `references_testimony_of` from the existing registry.
+
+Judgment calls: (1) treated Eyes Wide Open's claim that Truman replaced Donovan with
+Hillenkoetter "to become the first director of the CIA" as-is (a claim, not fact-checked) even
+though it simplifies the actual OSS-dissolution -> Central Intelligence Group -> 1947 CIA
+Act history — flagged explicitly on the affected pages as "per Eyes Wide Open's account." (2) Did
+not create separate pages for tangential entities mentioned only in passing with no distinct
+claims of their own (Krupp AG, the Vatican, NATO, the IMF, the "military-industrial complex" as
+a standalone concept, Colonel Park's 1945 report) — these are covered in prose on the pages they
+relate to. (3) Updated `wiki/index.md`'s intro note to describe four (not three) parallel topic
+threads and to spell out this thread's two connection points into the rest of the wiki.
