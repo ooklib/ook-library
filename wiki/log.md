@@ -597,3 +597,26 @@ existing registry. All claims attributed to More Perfect Union/Daniel Boguslaw p
 "record claims, not fact" convention; the video's own "the conspiracies are true" opening line is
 recorded as its stated editorial framing, not restated as established fact anywhere in these
 pages.
+
+## [2026-09-18] lint | ASR name-typo cleanup and known debt: reversed employed_by relations
+
+Fixed 18 ASR-mangled person/org names across the wiki (e.g. Carl Nell -> Karl Nell, Edgar Fuchs ->
+Edgar Fuche, Willard Miller -> Will Miller — see the commit for the full list), keeping each old
+rendering as an alias. Merged [[don-meyer]] into [[dawn-meyerriecks]] — both pages described the
+same person under different ASR mis-transcriptions from two different Gerb videos. Fixed the
+reversed `employed_by` relation on [[hermann-oberth]] (was incorrectly listed as employed_by
+[[wernher-von-braun]]; the correct direction, von Braun employed_by Oberth, already existed on
+Braun's page).
+
+**Known debt, not yet fixed:** while auditing that one reversed-relation case, a full scan of
+every `employed_by` relation's source/target `kind` found roughly 105 more instances of the same
+error pattern — organization pages (e.g. [[national-reconnaissance-office]],
+[[cia-directorate-of-science-and-technology]], [[mitre-corporation]], [[trw]],
+[[lockheed-martin]]) list former personnel via `employed_by` pointing from the org to the person,
+the reverse of CLAUDE.md's stated convention (`employed_by` should always run person -> org). The
+correct-direction edge usually already exists on the person's own page, so these look like
+redundant back-reference lists added in the wrong direction during the original Gerb ingests, not
+missing data. Left unfixed for now per user instruction (logged here so it isn't lost); a
+mechanical audit script (parse each page's `kind:` frontmatter field and flag `employed_by`
+relations whose source isn't `person` or whose target is `person`) can regenerate the full list of
+affected pages on demand.
