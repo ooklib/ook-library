@@ -36,6 +36,7 @@ Do not "fix" this without also touching every citing wiki page.
 | `gp` | `raw/gp/` | Green & Pleasant | British secret societies / power structures |
 | `mpu` | `raw/mpu/` | More Perfect Union | secret societies / power structures |
 | `rjm` | `raw/rjm/` | Richard J Murphy | City of London / power structures |
+| `yogsoggeth` | `raw/yogsoggeth/` | Yogsoggeth | archival re-upload of historical whistleblower talks |
 
 ## Sources
 
@@ -146,3 +147,4 @@ Do not "fix" this without also touching every citing wiki page.
 | `gp/older-than-parliament` | `raw/gp/Green & Pleasant - 2026-06-03 - The Government Inside Britain That's Older Than Parliament.md` | The Government Inside Britain That's Older Than Parliament (Green & Pleasant) |
 | `mpu/secret-society` | `raw/mpu/More Perfect Union - 2026-02-24 - We Uncovered The Most Infamous Secret Society_ And The Truth Is Shocking.md` | We Uncovered The Most Infamous Secret Society: And The Truth Is Shocking (More Perfect Union) |
 | `rjm/city-of-london` | `raw/rjm/Richard J Murphy - 2026-05-17 - The secret power behind the City of London.md` | The Secret Power Behind the City of London (Richard J Murphy) |
+| `yogsoggeth/schneider` | `raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md` | Phil Schneider - November 1995 (Full Video) (Yogsoggeth) |
