@@ -16,9 +16,26 @@ relations:
   - relation: employed_by
     target: council-on-foreign-relations
     note: "elected president, 1927"
+  - relation: recruited_by
+    target: reinhard-gehlen
+    note: "recruited Gehlen's network as a US stay-behind asset after his surrender in 1945 (per ewa/sunrise)"
+  - relation: participated_in
+    target: operation-sunrise
+    note: "devised and ran the operation out of the OSS Bern station (per ewa/sunrise)"
+  - relation: protected
+    target: karl-wolff
+    note: "secured immunity, falsified reports, and a forged psychiatric diagnosis to shield Wolff from Nuremberg prosecution (per ewa/sunrise)"
+  - relation: protected
+    target: hjalmar-schacht
+    note: "along with Donovan, saved Schacht from Nuremberg sentencing (per ewa/sunrise)"
+  - relation: influenced
+    target: james-jesus-angleton
+    note: "viewed by Angleton as a mentor/\"second father\" (per ewa/sunrise)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
+    label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -59,6 +76,29 @@ calls him "arguably one of, if not the most important person in modern American 
   "stay-behind" organizations of armed former Nazis, foreshadowing the next episode's "Operation
   Sunrise/Sunset," Dulles's alleged scheme to broker a separate peace with Nazi Germany.
   *([ewa/oss](../raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md) 25:59-29:35)*
+- Stationed at the OSS office in Bern, Switzerland for most of the war, using its neutral ground
+  to parlay with Nazis and fascists without attracting Allied attention. Met with Nazi General
+  [[reinhard-gehlen]] (at [[fort-hunt-virginia|Fort Hunt, Virginia]], after Gehlen's surrender)
+  and recruited Gehlen's network as a postwar stay-behind anti-communist asset, seeding both the
+  [[gehlen-organization]] and the future [[operation-gladio]]. *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 2:25-5:40)*
+- Worked closely in Bern with banker [[thomas-mckittrick]] of the
+  [[bank-for-international-settlements|Bank for International Settlements]]; along with his
+  brother [[john-foster-dulles]], allegedly worked to shield BIS-held Nazi client funds (IG
+  Farben, Merck KGaA) from FDR's [[operation-safe-haven|Operation Safe Haven]] confiscation
+  policy, destroying paper records of the transactions himself. *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 6:21-8:24)*
+- Along with [[william-donovan]], worked to save select Nazi war criminals from Nuremberg
+  justice: successfully securing [[hjalmar-schacht]]'s release (via Donovan circumventing
+  prosecutor Robert Jackson) while judging [[hermann-goring]] too high-profile to save.
+  *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 10:05-12:53)*
+- Devised and ran [[operation-sunrise]], the scheme to rescue and protect SS General
+  [[karl-wolff]] in exchange for blocking Soviet-aligned Italian partisans; delegated the field
+  rescue to [[gerhart-von-schulze-gaevernitz]] to avoid the appearance of insubordination
+  himself, then used destroyed evidence, falsified character reports, and a forged psychiatric
+  diagnosis to keep Wolff out of Nuremberg prosecution, eventually writing Wolff's exculpatory
+  trial affidavit personally. Wolff allegedly blackmailed Dulles over the affair, including
+  writing to President Truman. *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 13:40-21:41)*
+- Viewed by [[james-jesus-angleton]] (OSS station chief in Rome, later CIA counterintelligence
+  chief) as "a second father and a mentor." *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 23:36-23:40)*
 
 ## Relationships
 
@@ -68,3 +108,12 @@ calls him "arguably one of, if not the most important person in modern American 
 - President of the [[council-on-foreign-relations]] (1927).
 - Sullivan & Cromwell's client relationship with [[ig-farben]] is alleged to have created a
   conflict of interest with his OSS role.
+- Recruited [[reinhard-gehlen]]'s network as a US stay-behind asset, seeding the
+  [[gehlen-organization]] and [[operation-gladio]].
+- Worked closely with banker [[thomas-mckittrick]] of the
+  [[bank-for-international-settlements]]; allegedly circumvented [[operation-safe-haven]] with
+  [[john-foster-dulles]].
+- Devised and ran [[operation-sunrise]], protecting [[karl-wolff]] (rescued in the field by
+  [[gerhart-von-schulze-gaevernitz]]) and [[hjalmar-schacht]] (with [[william-donovan]]); could
+  not save [[hermann-goring]].
+- Mentor figure to [[james-jesus-angleton]].

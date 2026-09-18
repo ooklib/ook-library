@@ -13,6 +13,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/gp/Green & Pleasant - 2026-03-28 - The Secret Society Running Britain for 140 Years.md"
     label: "The Secret Society Running Britain for 140 Years (Green & Pleasant)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
+    label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
 ---
 
 Registry of directed relation types used across the wiki's `relations:` frontmatter. Most are
@@ -49,3 +51,6 @@ asymmetric (the inverse is implied, not separately stored). Symmetric ones are n
 | `practices` | org → concept | employs a named strategy/tactic as a matter of policy | no |
 | `overlapping_membership_with` | org ↔ org | two organizations share founders/leaders/members, alleged by a source | **yes** |
 | `influenced` | person/org → person/org | shaped another's thinking or policy without formal membership/employment | no |
+| `recruited_by` | person/org → person/org | recruited as an intelligence asset, agent, or stay-behind network, alleged | no |
+| `participated_in` | person → program/event | took part in a specific covert operation or event | no |
+| `protected` | person/org → person | used influence to secure another's release, immunity, or leniency, alleged | no |

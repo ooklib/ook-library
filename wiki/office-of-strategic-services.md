@@ -13,9 +13,17 @@ relations:
   - relation: employed_by
     target: allen-dulles
     note: "OSS officer/agent during WWII, before rising to CIA director"
+  - relation: employed_by
+    target: james-jesus-angleton
+    note: "station chief in Rome, ran the X2 counterintelligence program in Italy"
+  - relation: recruited_by
+    target: reinhard-gehlen
+    note: "recruited as a postwar anti-communist stay-behind asset (per ewa/sunrise)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
+    label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
 ---
 
 The Office of Strategic Services was the United States' first dedicated foreign-intelligence
@@ -55,9 +63,19 @@ handling only domestic intelligence. *([ewa/oss](../raw/ewa/Eyes Wide Open - 202
   [[roscoe-hillenkoetter]], described by Eyes Wide Open as becoming "the first director of the
   CIA." *([ewa/oss](../raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md) 15:24-15:35)*
 
+- Via [[allen-dulles]], ran [[operation-sunrise]] out of its Bern, Switzerland station, and
+  recruited [[reinhard-gehlen]]'s wartime intelligence network as a postwar anti-communist
+  stay-behind asset, seeding the [[gehlen-organization]] and the future [[operation-gladio]].
+  Also staffed OSS station chief [[james-jesus-angleton]] in Rome, who ran the OSS's X2
+  counterintelligence branch in Italy and helped extract fascist collaborators such as
+  [[junio-valerio-borghese]]. *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 2:25-5:44, 22:10-25:10)*
+
 ## Relationships
 
 - Founded by [[franklin-d-roosevelt]] in 1942.
-- Directed by [[william-donovan]]; staffed by (among others) [[allen-dulles]].
+- Directed by [[william-donovan]]; staffed by (among others) [[allen-dulles]] and
+  [[james-jesus-angleton]].
+- Recruited [[reinhard-gehlen]]'s network into US service, seeding [[operation-gladio]]; ran
+  [[operation-sunrise]] via Dulles's Bern station.
 - Precursor to the [[central-intelligence-agency]]; leadership passed (per Eyes Wide Open's
   simplified account) to [[roscoe-hillenkoetter]] as "first director of the CIA."

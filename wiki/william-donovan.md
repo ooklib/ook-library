@@ -13,9 +13,17 @@ relations:
   - relation: liaison_to
     target: central-intelligence-agency
     note: "remained an informal advisor to Allen Dulles during Dulles's CIA directorship, after returning to private law practice"
+  - relation: protected
+    target: hjalmar-schacht
+    note: "circumvented prosecutor Robert Jackson to save Schacht from Nuremberg sentencing (per ewa/sunrise)"
+  - relation: protected
+    target: junio-valerio-borghese
+    note: "with Angleton, weighed installing Borghese as king of southern Italy, then as a Gladio commander (per ewa/sunrise)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
+    label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
 ---
 
 William "Wild Bill" Donovan was a WWI-hero-turned-Wall-Street-lawyer who became the first (and
@@ -41,6 +49,16 @@ administrator.
 - Truman, lacking faith in Donovan's effectiveness, dismissed him and replaced him with
   [[roscoe-hillenkoetter]], a US naval officer, as (per Eyes Wide Open) "the first director of
   the CIA." *([ewa/oss](../raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md) 15:26-15:52)*
+- Alongside [[allen-dulles]], worked to save select Nazi war criminals from Nuremberg justice
+  under [[operation-sunrise]]: circumvented Supreme Court Justice Robert Jackson (FDR's overseer
+  of Nuremberg) to secure [[hjalmar-schacht]]'s release, allegedly fabricating sympathetic
+  stories about Schacht's supposed exile from the Nazi party and lack of antisemitism; judged
+  [[hermann-goring]] too high-profile a target to save despite considering him.
+  *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 10:05-12:44)*
+- Alongside [[james-jesus-angleton]], briefly considered installing [[junio-valerio-borghese|the
+  Black Prince]] as king of a Catholic-dominated southern Italy after his rescue from war-crimes
+  prosecution, before opting for the lower-profile plan of making him commander of
+  [[operation-gladio|Gladio]] forces in Italy. *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 25:12-25:24)*
 - Illustrates a recurring theme the host identifies in US intelligence history — "you never
   really leave the CIA" — by remaining an informal advisor to Allen Dulles throughout Dulles's
   CIA directorship even after officially returning to his law practice, and being present for
@@ -56,3 +74,7 @@ administrator.
   [[roscoe-hillenkoetter]] as CIA director.
 - Remained an informal advisor to [[allen-dulles]] during Dulles's tenure at the
   [[central-intelligence-agency]].
+- With Dulles, saved [[hjalmar-schacht]] from Nuremberg sentencing under [[operation-sunrise]];
+  could not save [[hermann-goring]].
+- With [[james-jesus-angleton]], helped install [[junio-valerio-borghese]] as a commander of
+  [[operation-gladio]] forces in Italy.

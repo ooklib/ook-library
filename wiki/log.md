@@ -659,3 +659,45 @@ claims of their own (Krupp AG, the Vatican, NATO, the IMF, the "military-industr
 a standalone concept, Colonel Park's 1945 report) — these are covered in prose on the pages they
 relate to. (3) Updated `wiki/index.md`'s intro note to describe four (not three) parallel topic
 threads and to spell out this thread's two connection points into the rest of the wiki.
+
+## [2026-09-18] ingest | Eyes Wide Open - Operation Sunrise and the Plan for a New Europe [Pt. 2] (6m59s)
+
+Ingested `raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and
+the Plan for a New Europe [pt. 2].md` (key `ewa/sunrise`), Part 2 of Eyes Wide Open's "History of
+the CIA" series, continuing directly from the `ewa/oss` ingest (commit a2ca9c6).
+
+Created 13 new entity pages: people [[reinhard-gehlen]], [[karl-wolff]], [[hjalmar-schacht]],
+[[hermann-goring]], [[james-jesus-angleton]], [[junio-valerio-borghese]] (alias "the Black
+Prince"), [[gerhart-von-schulze-gaevernitz]], [[thomas-mckittrick]]; organizations
+[[gehlen-organization]], [[bank-for-international-settlements]]; programs [[operation-sunrise]]
+(the episode's central topic), [[operation-gladio]] (introduced here, to be expanded in later
+episodes), [[operation-safe-haven]]; place [[fort-hunt-virginia]].
+
+Enriched pre-existing pages from the `ewa/oss` thread with new claims/relations/sources:
+[[allen-dulles]] (central figure — added `recruited_by` Gehlen, `participated_in` Sunrise,
+`protected` Wolff and Schacht, `influenced` Angleton), [[william-donovan]] (protected Schacht,
+Black Prince), [[john-foster-dulles]] (BIS shell-company laundering, `participated_in`
+Operation Safe Haven), [[harry-truman]] (received Wolff's blackmail letter), [[franklin-d-roosevelt]]
+(Casablanca no-separate-peace pledge, founded Operation Safe Haven), [[office-of-strategic-services]]
+(recruited Gehlen, ran Sunrise, staffed Angleton), [[eyes-wide-open]] (added Part 2 source/claims).
+
+Added 3 new relation types to [[relation-types]]: `recruited_by` (person/org → person/org,
+recruited as an intelligence asset), `participated_in` (person → program/event, took part in a
+covert operation), `protected` (person/org → person, used influence to secure release/immunity/
+leniency) — none of the existing registry cleanly covered these Sunrise-specific dynamics.
+
+Updated `wiki/index.md`: added the new pages to the existing OSS/CIA-history org/people sections,
+added a Programs/Events entry for the three new programs, added Fort Hunt to Places, and added
+`ewa/sunrise` to the intro's short-key list.
+
+Judgment calls: (1) did not create dedicated pages for minor one-off figures mentioned without
+independent claims of their own — Don Jones ("Scotty"), Eugen Dollmann, Hugh Angleton, and
+Nuremberg chief prosecutor Robert Jackson — these are covered in prose on the pages of the
+figures they interacted with (Wolff, Angleton, Sunrise), consistent with the same judgment call
+made in the `ewa/oss` ingest. (2) Did not create a standalone Nuremberg Trials event page, since
+its content here is fully covered by the Sunrise/Schacht/Göring/Wolff pages and the episode
+treats it as backdrop rather than a subject in its own right. (3) [[operation-gladio]] is created
+now (rather than deferred) since the episode explicitly names it and ties Gehlen's, Wolff's, and
+Borghese's arcs together under it, but is deliberately left thin — Eyes Wide Open signals it will
+cover Gladio in much greater depth in future episodes, which should become the page's primary
+source once ingested.

@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
+    label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -32,6 +34,12 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
   *([ewa/oss](../raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md) 8:26-9:23)*
 - Announces upcoming installments will cover "Operation Sunset/Sunrise" (Allen Dulles's alleged
   scheme to broker a separate peace with Nazi Germany). *([ewa/oss](../raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md) 29:36-29:53)*
+- Part 2, "Operation Sunrise and the Plan for a New Europe," opens with a recap of Part 1
+  (standard practice going forward, so each video "stands on its own") before covering
+  [[operation-sunrise]], and closes by previewing Part 3's coverage of OSS activity in Asia
+  (China, Southeast Asia, Burma) and its link to the French Connection and Gladio. Bibliography
+  again drawn primarily from David Talbot's *The Devil's Chessboard* and Paul L. Williams's
+  *Operation Gladio*. *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 0:09-1:04, 26:50-27:06)*
 
 ## Relationships
 
