@@ -9,7 +9,8 @@ tags: [meta]
 Catalog of all entity pages, grouped by kind. See [[relation-types]] for the edge-type registry
 and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `gerb/mitre`, `gerb/saic`,
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
-`gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`).
+`gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`,
+`rjm/city-of-london`).
 
 Note: the wiki spans two topic areas — the original alleged "UFO legacy programs" ecosystem
 (MITRE, SAIC, NRO, Lockheed, etc.) and a British power-structures thread (Fabian Society, Chatham
@@ -182,7 +183,8 @@ to the UFO-legacy-program graph.
 [[george-bernard-shaw]] · [[sidney-webb]] · [[beatrice-webb]] · [[h-g-wells]] ·
 [[william-beveridge]] · [[julian-huxley]] · [[aldous-huxley]] · [[george-orwell]] ·
 [[alfred-milner]] · [[lionel-curtis]] · [[robin-niblett]] · [[dennis-healey]] ·
-[[john-julius-angerstein]] · [[margaret-thatcher]] · [[liz-truss]] · [[rachel-reeves]]
+[[john-julius-angerstein]] · [[margaret-thatcher]] · [[liz-truss]] · [[rachel-reeves]] ·
+[[richard-j-murphy]]
 
 ## Concepts
 

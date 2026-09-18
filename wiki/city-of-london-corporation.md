@@ -22,6 +22,8 @@ relations:
 sources:
   - file: "raw/gp/Green & Pleasant - 2026-06-03 - The Government Inside Britain That's Older Than Parliament.md"
     label: "The Government Inside Britain That's Older Than Parliament (Green & Pleasant)"
+  - file: "raw/rjm/Richard J Murphy - 2026-05-17 - The secret power behind the City of London.md"
+    label: "The Secret Power Behind the City of London (Richard J Murphy)"
 ---
 
 The City of London Corporation is the local governing body of the "Square Mile" — the historic
@@ -35,6 +37,13 @@ own police force, a business-weighted electoral system, and a permanent, unelect
 shaped UK financial policy continuously across parties and decades. As with the wiki's other
 Green & Pleasant sources, all claims below are attributed to that source and its cited
 public/primary records, not independently verified by this wiki.
+
+A second, independent source, tax-justice economist [[richard-j-murphy]]'s "The secret power
+behind the City of London," covers the same institution but is explicit first-person advocacy
+rather than documentary narration: Murphy argues the Corporation is the epicenter of the global
+offshore tax haven network and calls for its abolition as a political entity. His claims are
+recorded separately below and are flagged as his own political-economy argument, not established
+fact.
 
 ## Claims
 
@@ -153,6 +162,57 @@ public/primary records, not independently verified by this wiki.
   continuous story rather than separate ones
   *([gp/older-than-parliament](../raw/gp/Green & Pleasant - 2026-06-03 - The Government Inside Britain That's Older Than Parliament.md) 1:03, 1:10, 1:18, 1:28)*.
 
+### Richard Murphy's political-economy argument (rjm/city-of-london)
+
+- Murphy frames the Corporation as "a state within a state" whose lobbying drives "the
+  anti-democratic attack by the city on the UK" more broadly than the well-known charge that
+  deregulated finance harms British industry
+  *([rjm/city-of-london](../raw/rjm/Richard J Murphy - 2026-05-17 - The secret power behind the City of London.md) 0:29, 0:37)*.
+- Murphy argues London itself, not the "tropical islands with brassplate offices," is the
+  epicenter of the global tax haven system; he names Jersey, Guernsey, an ASR-mangled place name
+  transcribed as "the Alaman" (likely the Isle of Man or Alderney — this wiki does not resolve
+  it), Cayman, Gibraltar, Bermuda, and the British Virgin Islands as outposts connected outward
+  from that London center
+  *([rjm/city-of-london](../raw/rjm/Richard J Murphy - 2026-05-17 - The secret power behind the City of London.md) 1:43, 1:56, 2:03)*.
+- Murphy claims the Lord Mayor of London is treated as if a UK cabinet minister when traveling
+  abroad, receiving honors as a consequence — offered as evidence of the Corporation's
+  "privileged access to ministers and policy makers," a specific claim not made in the gp source
+  *([rjm/city-of-london](../raw/rjm/Richard J Murphy - 2026-05-17 - The secret power behind the City of London.md) 2:40, 2:47)*.
+- Murphy's characterization: the Corporation "is simply a lobbying organization for finance while
+  pretending to be a civic body," operating "within the UK constitution and yet ... far apart
+  from it"
+  *([rjm/city-of-london](../raw/rjm/Richard J Murphy - 2026-05-17 - The secret power behind the City of London.md) 2:52, 3:00, 3:03)*.
+- Murphy argues the Corporation's historic role was never to serve the broader UK economy but "to
+  protect capital from democratic accountability" and to extend British financial power abroad;
+  he calls this continuation "colonization in action" — formal empire ended, but he argues the
+  financial structures it created evolved into today's offshore network
+  *([rjm/city-of-london](../raw/rjm/Richard J Murphy - 2026-05-17 - The secret power behind the City of London.md) 3:14, 3:22, 3:38, 3:44)*.
+- Murphy's three-function model of the offshore network: (1) permitting wealth to escape
+  taxation, (2) permitting wealth to escape regulation via opaque shell-company/trust structures,
+  and (3) undermining democratic governments by giving mobile capital a credible exit threat that
+  constrains elected policy — he calls the offshore world "the aircraft carriers of the
+  anti-democracy movement"
+  *([rjm/city-of-london](../raw/rjm/Richard J Murphy - 2026-05-17 - The secret power behind the City of London.md) 3:52, 4:14, 4:28, 4:37)*.
+- Murphy states, as a claim about his own record, that he created country-by-country reporting —
+  a system requiring large multinationals to report their tax-haven operations to tax
+  authorities — and that he was "instrumental" in lobbying for automatic information exchange
+  between tax havens and originating tax authorities; he says both measures weakened but did not
+  eliminate offshore secrecy
+  *([rjm/city-of-london](../raw/rjm/Richard J Murphy - 2026-05-17 - The secret power behind the City of London.md) 5:12, 5:18, 5:28, 5:44)*.
+- Murphy argues the City "has consistently promoted deregulation and financial liberalization"
+  and the ideology that "what is good for finance is good for Britain," which he calls
+  "demonstrably wrong"; he attributes to City dominance a broader list of economic harms —
+  weakened productive investment, deepened regional inequality, housing turned into a speculative
+  asset, abandoned industrial policy, and asset bubbles replacing real economic development
+  *([rjm/city-of-london](../raw/rjm/Richard J Murphy - 2026-05-17 - The secret power behind the City of London.md) 6:08, 6:17, 6:22, 6:34, 6:47)*.
+- Murphy claims that, at the time of this video's publication, commentary about a possible change
+  of Labour leadership included predictions that UK interest rates would be forced up by the City
+  if the leader "goes," which he cites as a live example of City leverage over government; he
+  separately calls the incumbent Labour leader "the leader of the Labor Party in the interest of
+  bankers and not in the interest of workers." (The ASR transcript renders the leader's name as
+  "Karmama"; this wiki does not resolve the reference to a specific named individual.)
+  *([rjm/city-of-london](../raw/rjm/Richard J Murphy - 2026-05-17 - The secret power behind the City of London.md) 6:56, 7:04, 7:08, 7:12)*.
+
 ### Why this stays unmentioned, and proposed reforms
 
 - Green & Pleasant's stated reason nobody in mainstream politics names the Corporation directly:
@@ -166,6 +226,21 @@ public/primary records, not independently verified by this wiki.
   implemented. Green & Pleasant argues no mainstream party will act because every party needs the
   City more than the City needs them
   *([gp/older-than-parliament](../raw/gp/Green & Pleasant - 2026-06-03 - The Government Inside Britain That's Older Than Parliament.md) 17:17, 17:23, 17:32, 17:40, 17:48, 17:56)*.
+- Murphy proposes a more radical reform than Green & Pleasant's: the Corporation "should ... be
+  abolished as a separate political entity" and its corporate voting rights removed entirely,
+  rather than merely extending the 1969 business-voting ban to the Square Mile
+  *([rjm/city-of-london](../raw/rjm/Richard J Murphy - 2026-05-17 - The secret power behind the City of London.md) 9:27, 9:49)*.
+- Murphy's other proposed reforms: public registers of beneficial ownership for both offshore
+  companies and trusts; full public accounts for all offshore-registered companies; rigorous
+  independent monitoring of the automatic information exchange system (rather than reliance on
+  local regulators he says may be "captured" by local finance industries); and sanctions —
+  specifically tax withholding on money flowing into non-compliant "secrecy jurisdictions"
+  *([rjm/city-of-london](../raw/rjm/Richard J Murphy - 2026-05-17 - The secret power behind the City of London.md) 10:01, 10:12, 10:22, 10:39, 10:44)*.
+- Murphy's closing framing: elected governments "must govern for the people who elected them and
+  not for the benefit of mobile capital," and he calls explicitly for what he terms a "revolution"
+  to suppress the City's power — presented throughout as his own normative/political argument,
+  not a claim of documented fact
+  *([rjm/city-of-london](../raw/rjm/Richard J Murphy - 2026-05-17 - The secret power behind the City of London.md) 10:51, 10:59, 11:01)*.
 
 ## Relationships
 
@@ -181,6 +256,9 @@ public/primary records, not independently verified by this wiki.
 - Fourth subject in Green & Pleasant's documentary series, after [[fabian-society]] and
   [[chatham-house]] — a shared-series framing, not a stated institutional or personnel link, per
   this wiki's convention of only recording relations the source itself asserts.
+- Investigated and argued against by tax-justice economist [[richard-j-murphy]], who frames the
+  Corporation as the epicenter of the global offshore tax haven network and calls for its
+  abolition as a political entity and the removal of its corporate voting rights.
 
 ## Speculation flag
 
@@ -190,5 +268,10 @@ the Corporation's own public statements) rather than speculation. Per this wiki'
 substantive assertions above — including causal framing (e.g. that the Big Bang directly caused
 the 2008 crash, or that "every government" has effectively answered to the City) — are
 nonetheless attributed to Green & Pleasant as claims, not independently verified by this wiki.
-This page is expected to be extended by a second, independent source
-(`rjm/city-of-london`, Richard J Murphy) covering the same institution.
+
+Richard Murphy's video, by contrast, is explicit first-person advocacy/opinion rather than
+documentary narration — he states his own political conclusions directly ("this corporation
+should then be abolished," "we need a revolution") rather than presenting them as findings of
+investigation. His claims above are recorded per this wiki's "claims, not fact" convention as his
+own political-economy argument, including his claims about his own record (country-by-country
+reporting, automatic information exchange lobbying).

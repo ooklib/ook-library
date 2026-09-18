@@ -509,3 +509,38 @@ fact" convention, despite the source's own framing as sourced from public/primar
 This page is expected to be extended immediately by a second, independent source
 (`rjm/city-of-london`, Richard J Murphy's "The secret power behind the City of London") covering
 the same institution — that ingest is a separate, subsequent step.
+
+## [2026-09-18] ingest | The Secret Power Behind the City of London (Richard J Murphy)
+
+Ingested `rjm/city-of-london`, tax-justice economist Richard Murphy's short (11.5-minute)
+first-person advocacy video arguing that the [[city-of-london-corporation]] is the epicenter of
+the global offshore tax haven network (London, Jersey, Guernsey, Cayman, Gibraltar, Bermuda, the
+British Virgin Islands and more), that "market confidence" has effectively given finance a veto
+over democratic policy, and that the Corporation should be abolished as a political entity with
+its corporate voting rights removed. Unlike Green & Pleasant's documentary framing of the same
+institution (`gp/older-than-parliament`, ingested previously), Murphy's video is explicit
+first-person opinion/advocacy, not narrated as neutral documentary — recorded per the wiki's
+"claims, not fact" convention as his own political-economy argument throughout, including his
+claims about his own record (creating country-by-country reporting, lobbying for automatic
+information exchange between tax havens and tax authorities).
+
+Merged this source into the existing [[city-of-london-corporation]] page (added a second
+`sources:` entry) rather than duplicating it: added a new "Richard Murphy's political-economy
+argument" claims subsection (framing the City as a "state within a state" and the true epicenter
+of the offshore network rather than the islands themselves, the Lord Mayor's cabinet-minister-
+level treatment abroad, a three-function model of what offshore networks do, his own
+policy-history claims, and his economic-harms argument) and appended his more radical reform
+proposals (full abolition and removal of corporate voting rights, beneficial ownership registers
+for companies and trusts, public accounts, monitored automatic information exchange, sanctions on
+non-compliant jurisdictions) to the existing reforms section. Updated the page's intro paragraph,
+Relationships section, and Speculation flag to reflect the second source and its different
+(advocacy vs. documentary) genre.
+
+Created one new entity page: [[richard-j-murphy]] (person), a named on-camera expert/claimant
+rather than an anonymous channel narrator, holding an `investigates` relation to
+[[city-of-london-corporation]] (reusing the existing relation type, as used previously for
+[[tax-justice-network]]). Checked [[tax-justice-network]], [[remembrancer]], [[lloyds-of-london]],
+and [[east-india-company]] for overlap: the video does not name the Tax Justice Network or
+mention the Remembrancer, Lloyd's, or the East India Company at all, so those pages were left
+unmodified. Updated `wiki/index.md`'s "People — British power structures" section and its
+source-key note. No new relation types were needed.
