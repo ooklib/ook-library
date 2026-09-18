@@ -23,11 +23,16 @@ relations:
   - relation: recruited_by
     target: george-white
     note: "1946 FBN parole deal to Sicily, alongside James Jesus Angleton (per ewa/italy-1948)"
+  - relation: associate_of
+    target: thomas-dewey
+    note: "Dewey imprisoned him in 1936 as state attorney, then approved his 1946 parole/extradition as governor (per ewa/red-scare)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
+    label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
 ---
 
 Charles "Lucky" Luciano was a Sicilian-American Mafia boss within the
@@ -63,6 +68,14 @@ CIA's later mafia alliances.
   endorsed [[calogero-vizzini]] as an OSS ally, having grown up 15 minutes from Vizzini's estate.
   In 1946, FBN agent [[george-white]] struck a deal releasing Luciano on parole to Sicily,
   coordinated with [[james-jesus-angleton]]. *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 12:47-13:19, 16:14-16:22, 25:16-25:57)*
+
+- [[thomas-dewey]] had originally imprisoned Luciano in 1936 as a state attorney; a decade later,
+  as New York governor, Dewey approved [[george-white]]'s request to extradite Luciano to Italy in
+  1946 as a wartime reward — a reversal the host calls "strange" given Dewey's earlier
+  organized-crime-prosecutor fame. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 47:26-47:55)*
+- In 1950, [[meyer-lansky]] took a trip to Sicily to meet with Luciano; the trip's purpose remains
+  obscure, though it coincided with CIA moves to place southern French docks under Corsican Mafia
+  control. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 55:10-55:30)*
 
 ## Relationships
 

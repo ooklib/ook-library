@@ -17,6 +17,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
+    label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
 ---
 
 Registry of directed relation types used across the wiki's `relations:` frontmatter. Most are
@@ -57,3 +59,4 @@ asymmetric (the inverse is implied, not separately stored). Symmetric ones are n
 | `participated_in` | person → program/event | took part in a specific covert operation or event | no |
 | `protected` | person/org → person | used influence to secure another's release, immunity, or leniency, alleged | no |
 | `associate_of` | person/org ↔ person/org | criminal, business, or working partnership alleged by a source, without a formal employment/membership hierarchy | **yes** |
+| `trained_by` | person → person | received tradecraft training/instruction from another individual, distinct from formal employment | no |

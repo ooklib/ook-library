@@ -23,6 +23,8 @@ sources:
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
+    label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -85,10 +87,25 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
   *NATO's Secret Armies*, Paul L. Williams's *Operation Gladio*, and Peter Dale Scott's *Deep
   Politics and the Death of JFK*. *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 1:28-1:52, 2:44-3:16, 5:02-5:28, 30:45-31:14)*
 
+- Part 5.2, "Red Scare, Blackmail, and the Blue Suite," continues the Gladio mini-series (Part 2 of
+  3), shifting from Italy to domestic 1950s American parapolitics: [[joseph-mccarthy|McCarthyism]]/
+  the Red Scare, [[richard-nixon]]'s rise via [[house-un-american-activities-committee|HUAC]] and
+  the [[alger-hiss]] case, the alleged [[blue-suite]] sexual-blackmail circle around
+  [[j-edgar-hoover]], [[francis-spellman]], [[roy-cohn]], and [[lewis-rosenstiel]], and a
+  biographical capstone on [[george-white]]. States this is "probably the most cited work" the
+  host has presented, drawing heavily on Anthony Summers's *Official and Confidential* (Hoover
+  biography), Whitney Webb's *One Nation Under Blackmail*, David Talbot's *The Devil's
+  Chessboard*, Peter Dale Scott's *Deep Politics and the Death of JFK*, and Carl Oglesby's *The
+  Yankee and Cowboys War*. Frames the alleged Blue Suite blackmail dynamic as a "passive" cohesion
+  mechanism binding elite networks together, explicitly drawing a parallel to the later Jeffrey
+  Epstein case, and previews the next episode's coverage of the French Connection and the origins
+  of Gladio in France. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 1:57-4:34, 41:20-42:24, 55:50-56:21)*
+
 ## Relationships
 
 - Investigates the [[office-of-strategic-services]] and the [[central-intelligence-agency]] as
   the throughline of this "History of the CIA" series.
 - Draws on and cites [[peter-dale-scott]]'s deep-politics/deep-state theory as the series'
   organizing framework.
-- Investigates [[operation-gladio]] as a dedicated mini-series arc beginning with Part 5.1.
+- Investigates [[operation-gladio]] as a dedicated mini-series arc beginning with Part 5.1,
+  continuing into Part 5.2's domestic blackmail/Red Scare coverage.

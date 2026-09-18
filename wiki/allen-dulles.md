@@ -40,6 +40,12 @@ relations:
   - relation: influenced
     target: central-intelligence-group
     note: "with Donovan, drafted a 1946-47 work plan for the future agency while nominally back at Sullivan & Cromwell (per ewa/cold-war)"
+  - relation: associate_of
+    target: richard-nixon
+    note: "met aboard the Queen Mary in 1947; allegedly began an alliance/campaign-funding arrangement, per David Talbot and John Loftus (per ewa/red-scare)"
+  - relation: associate_of
+    target: avery-dulles
+    note: "nephew, ordained a priest by Cardinal Francis Spellman in 1956 (per ewa/red-scare)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
@@ -49,6 +55,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
+    label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -134,6 +142,24 @@ calls him "arguably one of, if not the most important person in modern American 
   [[national-security-act-1947|National Security Act of 1947]]. Also presented the proposal to a
   June 1947 congressional committee in DC. *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 21:23-21:52, 22:57-23:11)*
 
+- Per David Talbot, met [[richard-nixon]] in 1947 aboard the Queen Mary during a European
+  fact-finding mission, allegedly convincing Nixon to support the [[marshall-plan]] and beginning
+  an alliance marrying the East Coast Republican establishment with the emerging western
+  conservative movement. Per former Justice Department Nazi-hunter John Loftus (allegations the
+  host stresses are unverifiable), Dulles's partnership with Nixon may run deeper: Loftus alleged
+  Nixon discovered documents in 1945 indicating Allen and [[john-foster-dulles]] had laundered
+  Nazi funds during the war, and that Nixon agreed to silence in exchange for secret campaign
+  funding. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 9:48-11:19)*
+- In 1948, John Foster Dulles hoped to be installed as secretary of state (and Allen as CIA
+  director) under a [[thomas-dewey]] presidential administration; the brothers backed Dewey's
+  campaign against Truman, and Nixon reportedly consulted with John Foster (who agreed the
+  [[alger-hiss]] trial should proceed so long as Foster's own prior sponsorship of Hiss to the
+  [[carnegie-endowment-for-international-peace]] presidency was not revealed). *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 18:51-19:38, 19:57-19:57)*
+- In 1956, nephew [[avery-dulles]] (son of [[john-foster-dulles]]) was ordained a Catholic priest
+  by Cardinal [[francis-spellman]], despite the Dulles family's Protestant background — a
+  synchronicity the host notes without resolving, given Spellman's simultaneous closeness to CIA
+  activities in Italy. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 35:24-36:16)*
+
 ## Relationships
 
 - OSS officer under [[william-donovan]]; future director of the
@@ -155,3 +181,6 @@ calls him "arguably one of, if not the most important person in modern American 
 - With Donovan, drafted the future CIA's 1946-47 work plan while nominally practicing at
   [[sullivan-and-cromwell]]; presented the agency's architecture to the Senate Armed Services
   Committee in 1947, feeding into the [[national-security-act-1947]].
+- Alleged 1947 alliance (and possible campaign-funding arrangement) with [[richard-nixon]]; backed
+  [[thomas-dewey]]'s 1948 presidential campaign with [[john-foster-dulles]].
+- Nephew [[avery-dulles]] ordained a priest by [[francis-spellman]] in 1956.

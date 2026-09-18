@@ -21,6 +21,12 @@ relations:
   - relation: participated_in
     target: italian-election-1948
     note: "in charge of the CIA's Italy desk, specifically Sicily, during the 1948 elections"
+  - relation: associate_of
+    target: j-edgar-hoover
+    note: "alleged, with Meyer Lansky, to have possessed compromising 1940s photos of Hoover (per ewa/red-scare)"
+  - relation: trained_by
+    target: george-white
+    note: "personally trained as a future OSS agent by White at the New York OSS staging ground during WWII (per ewa/red-scare)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
@@ -28,6 +34,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
+    label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
 ---
 
 James Jesus Angleton was the OSS station chief in Rome during WWII and, per Eyes Wide Open, would
@@ -66,9 +74,30 @@ viewed [[allen-dulles]] as a mentor and personally helped extract fascist collab
   Sicily, and allegedly ensured Luciano was deported alongside Detroit mob boss
   [[frank-coppola|Frank Kapola]]. *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 25:16-25:57)*
 
+- Trained as a future OSS agent by [[george-white]] at the New York staging ground for new OSS
+  agents during WWII; White and Angleton formed a strong working relationship, and White's
+  comfort collaborating with mobsters was, per the host, "likely noticed" by Angleton, who himself
+  became closely aligned with organized crime throughout his career. Along with [[allen-dulles]]
+  and [[richard-helms|Richard Helms]] and [[william-colby]] (also trained by White), Angleton is
+  classed by the host among the CIA's Ivy League "spies"/executive class, as opposed to
+  working-class "operators" like White, Bill Harvey, and Frank Sturgis who carried out the
+  agency's "dirty work." *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 50:17-50:57, 51:31-52:20)*
+- As early as 1946, several sources allege Angleton and [[meyer-lansky]] separately possessed
+  compromising photographs of [[j-edgar-hoover]] receiving oral sex from deputy
+  [[clyde-tolson]]; CIA affiliate Gordon Novel claimed Angleton showed him the photos in 1967 to
+  demonstrate he was not "all powerful," and former OSS officer John Weitz alleged Angleton showed
+  him the same photos at a 1950s dinner party. Authors are divided on whether Angleton gave the
+  photos to Lansky or vice versa. Eyes Wide Open frames the alleged leverage as evidence the CIA
+  and Mafia shared an interest in coercing the FBI to permit continued narcotics/organized-crime
+  activity. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 36:21-38:44)*
+
 ## Relationships
 
 - OSS station chief in Rome; ran the OSS's X2 counterintelligence program in Italy.
+- Trained by [[george-white]]; alongside [[allen-dulles]], classed by the host among the CIA's
+  "spies" (executive-class) cohort.
+- Alleged, with [[meyer-lansky]], to have held compromising photographs of [[j-edgar-hoover]] and
+  [[clyde-tolson]].
 - Viewed [[allen-dulles]] as a mentor.
 - Personally protected/released [[junio-valerio-borghese]] and helped install him as a
   [[operation-gladio]] commander in Italy, alongside [[william-donovan]].

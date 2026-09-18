@@ -15,6 +15,9 @@ relations:
   - relation: employed_by
     target: office-of-policy-coordination
     note: "headed the OPC for the beginning of its history (per ewa/italy-1948)"
+  - relation: trained_by
+    target: george-white
+    note: "personally trained as a future OSS agent by White at the New York OSS staging ground during WWII (per ewa/red-scare)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
@@ -22,6 +25,8 @@ sources:
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
+    label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
 ---
 
 Frank Wisner is introduced by Eyes Wide Open as "the head of covert operations in the future
@@ -51,8 +56,13 @@ Romania.
   arm") for the beginning of its history, overseeing the foundation of Gladio throughout Europe;
   the OPC's first operation abroad was the [[italian-election-1948]]. *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 19:42-20:15)*
 
+- Trained as a future OSS agent by [[george-white]] at the New York staging ground for new OSS
+  agents during WWII, per author Jefferson Morley, alongside [[richard-helms]],
+  [[william-colby]], and [[james-jesus-angleton]]. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 50:12-50:38)*
+
 ## Relationships
 
+- Trained by [[george-white]].
 - OSS/future-CIA head of covert operations; with [[james-jesus-angleton]], brokered the
   [[meyer-lansky]] relationship underpinning [[operation-x]].
 - Headed the [[office-of-policy-coordination]], which ran the [[italian-election-1948]] as its

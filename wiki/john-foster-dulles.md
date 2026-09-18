@@ -10,11 +10,19 @@ relations:
   - relation: participated_in
     target: operation-safe-haven
     note: "allegedly circumvented the policy via a shell-company network to shield BIS-held client funds (per ewa/sunrise)"
+  - relation: associate_of
+    target: alger-hiss
+    note: "sponsored Hiss to the Carnegie Endowment presidency in 1947 (per ewa/red-scare)"
+  - relation: associate_of
+    target: thomas-dewey
+    note: "hoped to be installed as secretary of state under a 1948 Dewey administration (per ewa/red-scare)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
+    label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
 ---
 
 John Foster Dulles was a partner at [[sullivan-and-cromwell|Sullivan & Cromwell]] and elder
@@ -37,8 +45,19 @@ Eisenhower (a role outside this video's scope, to be covered in later Eyes Wide 
   this as the earliest display of the brothers' "cunning efficiency" working as a team, foreshadowing
   their later roles as CIA director and Secretary of State under Eisenhower. *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 7:32-8:55)*
 
+- Sponsored [[alger-hiss]] to become president of the [[carnegie-endowment-for-international-peace]]
+  in 1947; when Hiss was accused of espionage the following year, Foster's own connection to Hiss
+  became a liability given the brothers' hopes to be installed as secretary of state and CIA
+  director under a [[thomas-dewey]] presidential administration. [[richard-nixon]] reportedly
+  consulted with Foster, who agreed the Hiss trial should proceed so long as his own association
+  with Hiss went unrevealed. Hiss was ultimately convicted only of perjury, preserving the
+  brothers' reputations, though Dewey's campaign was defeated by Truman regardless.
+  *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 16:29-19:57)*
+
 ## Relationships
 
 - Partner at [[sullivan-and-cromwell]]; brother of [[allen-dulles]].
 - Set up shell companies to shield [[bank-for-international-settlements]]-held client funds from
   [[operation-safe-haven]], with cover from [[allen-dulles]].
+- Sponsored [[alger-hiss]] to the [[carnegie-endowment-for-international-peace]] presidency; hoped
+  for a secretary-of-state role under [[thomas-dewey]]'s 1948 campaign.

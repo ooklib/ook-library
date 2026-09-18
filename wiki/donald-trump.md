@@ -1,0 +1,38 @@
+---
+title: Donald Trump
+kind: person
+aliases: []
+tags: [mccarthyism, blackmail, mafia]
+relations:
+  - relation: associate_of
+    target: roy-cohn
+    note: "represented and mentored by Cohn, credited with inspiring his dealmaking approach"
+  - relation: acquired_by
+    target: resorts-international
+    note: "briefly owned the company from 1986"
+sources:
+  - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
+    label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+---
+
+Donald Trump appears in this episode as a later protégé of [[roy-cohn]] — the McCarthy-era "Deep
+State Operator" the host argues connects the 1950s Blue Suite/blackmail networks to later
+American power politics — and as the brief 1986 owner of [[resorts-international]].
+
+## Claims
+
+- Was closely represented for a time by, and by many accounts mentored by, [[roy-cohn]]; the host
+  suggests Cohn could be credited with giving Trump the idea behind *The Art of the Deal*, an
+  intricate dealmaking/blackmail approach Cohn himself allegedly learned from his childhood
+  friend's father, Gene Pope Sr. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 33:39-33:52, 33:52-34:00)*
+- Acquired [[resorts-international]] in 1986, the same year [[roy-cohn]] died; [[meyer-lansky]]
+  (rumored to be behind the company) was also dead by that point — a synchronicity the host flags
+  given Cohn's closeness to both men. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 49:21-49:41)*
+- The host flags Cohn's continued closeness to Trump's political circle, alongside Nixon's and
+  Reagan's, as raising further open questions about blackmail throughout elite political networks.
+  *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 41:06-41:18)*
+
+## Relationships
+
+- Represented/mentored by [[roy-cohn]].
+- Briefly owned [[resorts-international]] from 1986.

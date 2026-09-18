@@ -839,3 +839,54 @@ since the transcript treats them as distinct institutional actors with their own
 Fixed no ASR misspellings requiring alias-merges with existing pages — all named entities in this
 episode were new to the wiki. (5) Verified all new wikilinks and relation `target:` fields resolve
 to existing files before finishing.
+
+## [2026-09-18] ingest | Eyes Wide Open - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (10m15s)
+
+Ingested `raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail,
+and the Blue Suite [pt. 5.2].md` (`ewa/red-scare`), Part 2 of the Gladio mini-series, pivoting
+from Italy to 1950s domestic American parapolitics: McCarthyism/the Red Scare,
+[[richard-nixon]]'s [[house-un-american-activities-committee|HUAC]]-era rise and the
+[[alger-hiss]] case, and the alleged [[blue-suite]] sexual-blackmail circle around
+[[j-edgar-hoover]], Cardinal [[francis-spellman]], [[roy-cohn]], and [[lewis-rosenstiel]],
+closing on a biographical capstone of [[george-white]] as "Mr. Deep Politics."
+
+Created 25 new entity pages: people ([[susan-kaufman]], [[lewis-rosenstiel]], [[roy-cohn]],
+[[joseph-mccarthy]], [[richard-nixon]], [[alger-hiss]], [[whittaker-chambers]], [[henry-luce]],
+[[john-loftus]], [[carl-oglesby]], [[avery-dulles]], [[clyde-tolson]], [[thomas-dewey]],
+[[donald-trump]], [[robert-f-kennedy]], [[joseph-kennedy]], [[richard-helms]]), organizations
+([[house-un-american-activities-committee]], [[carnegie-endowment-for-international-peace]],
+[[time-life]], [[resorts-international]], [[castle-bank-and-trust]],
+[[j-edgar-hoover-foundation]]), an event ([[blue-suite]], [[kefauver-committee]]), and a concept
+([[yankee-cowboy-thesis]]).
+
+Updated existing pages with new claims/relations/sources: [[j-edgar-hoover]] (Blue Suite
+attendance, McCarthy list-feeding, Tolson/blackmail-photo allegations, Roy Cohn's career),
+[[francis-spellman]] (1946 Hoover rally, Blue Suite attendance, Avery Dulles ordination),
+[[james-jesus-angleton]] (George White training, Hoover/Tolson blackmail photos),
+[[meyer-lansky]] (Hoover/Tolson blackmail photos, Resorts International), [[allen-dulles]]
+(Nixon Queen Mary meeting, John Loftus allegations, Dewey campaign, Avery Dulles ordination),
+[[john-foster-dulles]] (Hiss/Carnegie Endowment sponsorship, Dewey campaign), [[george-white]]
+(substantially expanded: OSS-instructor role training Wisner/Helms/Colby/Angleton, the "spies vs.
+operators" CIA-personnel framework, Dewey/Luciano extradition, Kefauver/McCarthy committee work,
+1948 Rome meeting with Donovan, MK-Ultra teaser), [[william-donovan]] (1948 Rome meeting with
+White), [[william-colby]] and [[frank-wisner]] (trained by White), [[lucky-luciano]] (Dewey
+extradition detail, 1950 Lansky-Sicily trip), [[eyes-wide-open]] (Part 5.2 summary), and
+`wiki/index.md`.
+
+Added one new relation type to [[relation-types]]: `trained_by` (person → person; tradecraft
+instruction distinct from formal employment), used for George White's alleged personal training
+of Wisner, Helms, Colby, and Angleton at the WWII-era OSS staging ground.
+
+Judgment calls: (1) Created stub pages for structurally important but lightly-sourced figures
+(Richard Helms, Robert F. Kennedy, Joseph Kennedy, Donald Trump, Carl Oglesby) since each anchors
+a named relation central to the episode's network-mapping thesis, consistent with the wiki's
+practice of giving every named claimant/relation-target its own page. (2) Did not create a
+separate page for Skull and Bones, since the host explicitly defers that topic to a future
+dedicated video. (3) Filed the "Yankee vs. Cowboy" elite-power framework as its own concept page
+([[yankee-cowboy-thesis]]) rather than folding it into Carl Oglesby's or Richard Nixon's page,
+since it is explicitly reused later by Peter Dale Scott and previewed as a recurring analytical
+lens for the series. (4) The transcript gives two inconsistent Blue Suite room numbers ("2:33"
+near the top, "3:22" later); recorded both as aliases on [[blue-suite]] and flagged the
+discrepancy rather than silently picking one. (5) No ASR misspellings required alias-merges with
+existing pages. (6) Verified all new wikilinks and relation `target:` fields resolve to existing
+files before finishing.
