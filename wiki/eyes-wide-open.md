@@ -17,6 +17,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
+    label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -53,6 +55,19 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
   bibliographically on Alfred W. McCoy's *The Politics of Heroin*, James Bradley's *The China
   Mirage*, Paul L. Williams's *Operation Gladio*, Tim Weiner's *Legacy of Ashes*, and Whitney
   Webb's *One Nation Under Blackmail*. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 0:54-2:12, 29:06-29:21)*
+
+- Part 4, "The Real Cold War and the Creation of CIA," opens a new chapter in the series (the
+  CIA's founding, rather than the OSS's WWII history) and lays out the host's organizing
+  framework for the rest of the Cold War-era episodes: dividing the postwar world into a
+  capitalist "First World," a communist "Second World," and a colonized/decolonizing "Third
+  World," and arguing the CIA's central Cold War battlefield was not Moscow or Berlin but the
+  Third World, where the agency worked to keep western capital in control of the Global South's
+  wealth against nationalist and Marxist land-reform movements. Covers the [[truman-doctrine]],
+  the [[central-intelligence-group]], and the [[national-security-act-1947|National Security Act
+  of 1947]]'s creation of the CIA, and previews the next episode's coverage of the Greek Civil War
+  as the CIA's first official operation. Bibliography draws on Vincent Bevins's *The Jakarta
+  Method*, David Talbot's *The Devil's Chessboard*, Tim Weiner's *Legacy of Ashes*, and Naomi
+  Klein's *The Shock Doctrine*, among others. *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 1:37-2:23, 25:47-26:00, 26:29-26:52)*
 
 ## Relationships
 

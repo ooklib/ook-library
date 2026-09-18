@@ -22,6 +22,9 @@ relations:
   - relation: participated_in
     target: operation-x
     note: "enthusiastically funded Helliwell's narcotics-funded covert-action plan (per ewa/mafia-allies)"
+  - relation: influenced
+    target: central-intelligence-group
+    note: "with Dulles, drafted a 1946-47 work plan for the future agency based on Donovan's own vision (per ewa/cold-war)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
@@ -29,6 +32,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
+    label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
 ---
 
 William "Wild Bill" Donovan was a WWI-hero-turned-Wall-Street-lawyer who became the first (and
@@ -76,6 +81,15 @@ administrator.
   elite were "thrilled" with Helliwell's earlier China opium-facilitation plan and immediately
   funneled funds (including looted Nazi fortunes) to his office. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 10:56-11:08, 14:27-14:41)*
 
+- After the OSS's August 1945 disbandment, returned (along with [[allen-dulles]], [[james-jesus-angleton]],
+  and other "OSS boys") to private life; his days leading American intelligence were over, though
+  he remained connected to the future CIA by drafting a 1946-47 work plan with Dulles for the
+  agency, based largely on his own vision of "a highly funded top secret unaccountable agency"
+  with unlimited global reach — the outline Dulles later presented to the Senate Armed Services
+  Committee. *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 14:09-14:38, 20:59-21:44)*
+- His wartime OSS network in Romania, run there by [[frank-wisner]], later formed the basis of
+  the [[central-intelligence-group|Central Intelligence Group]]'s first (failed) operation. *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 17:47-17:58)*
+
 ## Relationships
 
 - Directed the [[office-of-strategic-services]], appointed by [[franklin-d-roosevelt]].
@@ -89,3 +103,5 @@ administrator.
   could not save [[hermann-goring]].
 - With [[james-jesus-angleton]], helped install [[junio-valerio-borghese]] as a commander of
   [[operation-gladio]] forces in Italy.
+- With [[allen-dulles]], drafted the future CIA's 1946-47 work plan; his Romania stay-behind
+  network (run by [[frank-wisner]]) became the [[central-intelligence-group]]'s first operation.

@@ -34,6 +34,12 @@ relations:
   - relation: participated_in
     target: operation-x
     note: "loved and funded Helliwell's narcotics-funded covert-action plan (per ewa/mafia-allies)"
+  - relation: participated_in
+    target: national-security-act-1947
+    note: "presented the CIA's proposed architecture to the Senate Armed Services Committee in 1947 (per ewa/cold-war)"
+  - relation: influenced
+    target: central-intelligence-group
+    note: "with Donovan, drafted a 1946-47 work plan for the future agency while nominally back at Sullivan & Cromwell (per ewa/cold-war)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
@@ -41,6 +47,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
+    label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -107,15 +115,34 @@ calls him "arguably one of, if not the most important person in modern American 
 - Along with Donovan, "loved" [[paul-helliwell]]'s proposal to fund OSS covert action via
   narcotics trafficking — first backing his China opium-facilitation plan, then his postwar
   [[operation-x]] scheme. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 10:56-11:08, 14:27-14:41, 19:49-19:55)*
+- Sullivan & Cromwell's client list — including [[united-fruit-company|United Fruit]] and the
+  [[anglo-iranian-oil-company|Anglo Iranian Oil Company]] — is cited by Eyes Wide Open as
+  evidence of the CIA's later conflicts of interest, since Dulles (as CIA director under
+  Eisenhower) and his brother [[john-foster-dulles]] (as secretary of state) worked to overthrow
+  the governments that threatened those firms' interests: [[jacobo-arbenz]] in Guatemala (1954)
+  and, one year earlier, [[mohammad-mossadegh]] in Iran (at the British government's/AIOC's
+  request). *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 5:42-6:24)*
+- While nominally practicing law at [[sullivan-and-cromwell|Sullivan & Cromwell]] between 1945
+  and 1947, continued liaising with former OSS colleagues to plot the future CIA's course,
+  drafting a 1946-47 work plan with [[william-donovan]] largely based on Donovan's vision of "a
+  highly funded top secret unaccountable agency" with unlimited global reach. Elected president
+  of the [[council-on-foreign-relations]] in 1945 (Eyes Wide Open's Part 1 separately cites a
+  1927 CFR presidency), which the host frames as another venue for remaining connected to the
+  postwar security state. *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 20:40-21:21, 21:23-21:52)*
+- In 1947, called before the Senate Armed Services Committee to lay out the architecture of the
+  future CIA — the outline Truman ultimately approved, forming the basis of the
+  [[national-security-act-1947|National Security Act of 1947]]. Also presented the proposal to a
+  June 1947 congressional committee in DC. *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 21:23-21:52, 22:57-23:11)*
 
 ## Relationships
 
 - OSS officer under [[william-donovan]]; future director of the
   [[central-intelligence-agency]] (per later episodes of this Eyes Wide Open series).
 - Worked at [[sullivan-and-cromwell]] alongside his brother [[john-foster-dulles]].
-- President of the [[council-on-foreign-relations]] (1927).
-- Sullivan & Cromwell's client relationship with [[ig-farben]] is alleged to have created a
-  conflict of interest with his OSS role.
+- President of the [[council-on-foreign-relations]] (1927, per Part 1; 1945, per Part 4).
+- Sullivan & Cromwell's client relationship with [[ig-farben]], [[united-fruit-company]], and
+  [[anglo-iranian-oil-company]] is alleged to have created conflicts of interest with his OSS/CIA
+  roles.
 - Recruited [[reinhard-gehlen]]'s network as a US stay-behind asset, seeding the
   [[gehlen-organization]] and [[operation-gladio]].
 - Worked closely with banker [[thomas-mckittrick]] of the
@@ -125,3 +152,6 @@ calls him "arguably one of, if not the most important person in modern American 
   [[gerhart-von-schulze-gaevernitz]]) and [[hjalmar-schacht]] (with [[william-donovan]]); could
   not save [[hermann-goring]].
 - Mentor figure to [[james-jesus-angleton]].
+- With Donovan, drafted the future CIA's 1946-47 work plan while nominally practicing at
+  [[sullivan-and-cromwell]]; presented the agency's architecture to the Senate Armed Services
+  Committee in 1947, feeding into the [[national-security-act-1947]].

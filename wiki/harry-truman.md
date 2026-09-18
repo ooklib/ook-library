@@ -3,7 +3,16 @@ title: Harry Truman
 kind: person
 aliases: []
 tags: [cia-history, president]
-relations: []
+relations:
+  - relation: founded
+    target: central-intelligence-group
+    note: "reluctantly created the CIG in January 1946, per Eyes Wide Open"
+  - relation: founded
+    target: national-security-act-1947
+    note: "signed the act in 1947, per Eyes Wide Open"
+  - relation: participated_in
+    target: truman-doctrine
+    note: "declared the doctrine to Congress in March 1947, per Eyes Wide Open"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
@@ -11,6 +20,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
+    label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
 ---
 
 Harry Truman was President of the United States when, per Eyes Wide Open, he lost faith in
@@ -34,9 +45,26 @@ with [[roscoe-hillenkoetter]] as (per the host) first director of the CIA.
   "American Gestapo"; Eyes Wide Open frames this funding gap as the direct catalyst for
   [[paul-helliwell]]'s narcotics-funded [[operation-x]] scheme. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 14:15-14:27, 19:11-19:27)*
 
+- Two weeks after Japan's surrender, ordered the wartime OSS largely disbanded (August 1945).
+  Reluctantly created the [[central-intelligence-group|Central Intelligence Group]] on 24 January
+  1946 under pressure from the FBI ([[j-edgar-hoover]]) and the Pentagon, both lobbying to become
+  the sole postwar US intelligence authority; per Eyes Wide Open, Truman's own stated goal was
+  merely a daily intelligence brief, and he did not anticipate having opened the door to the
+  future CIA. His liberal leanings and fear of creating an "American Gestapo"-style unaccountable
+  agency had made him reluctant to establish any peacetime intelligence service at all.
+  *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 14:09-16:23, 17:01-17:24)*
+- In March 1947, delivered the [[truman-doctrine]] to Congress while requesting aid for
+  anti-communist forces in Greece, marking (per Eyes Wide Open) the start of the Cold War proper.
+  Later that year signed the [[national-security-act-1947|National Security Act of 1947]] after
+  years of lobbying from the FBI, the Pentagon, and former OSS agents, creating the
+  [[national-security-council|National Security Council]], the Secretary of Defense position, the
+  US Air Force, and the [[central-intelligence-agency|CIA]] itself. *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 21:52-22:39, 22:57-24:27)*
+
 ## Relationships
 
 - Dismissed [[william-donovan]] and installed [[roscoe-hillenkoetter]] in his place.
 - Received a letter from [[karl-wolff]] about [[operation-sunrise]].
 - His unfunded 1945 postwar budget is framed as the catalyst for [[paul-helliwell]]'s
   [[operation-x]].
+- Created the [[central-intelligence-group]] in 1946; declared the [[truman-doctrine]] and signed
+  the [[national-security-act-1947]] in 1947, creating the [[central-intelligence-agency]].

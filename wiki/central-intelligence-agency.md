@@ -28,6 +28,15 @@ relations:
   - relation: employed_by
     target: allen-dulles
     note: "future first civilian director, per Eyes Wide Open (covered in later episodes)"
+  - relation: spun_off_from
+    target: central-intelligence-group
+    note: "reformed into the CIA under the National Security Act of 1947, per Eyes Wide Open"
+  - relation: employed_by
+    target: george-h-w-bush
+    note: "director in the 1970s, per Eyes Wide Open"
+  - relation: employed_by
+    target: william-casey
+    note: "director under Reagan, per Eyes Wide Open"
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -37,6 +46,8 @@ sources:
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
+    label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -74,10 +85,28 @@ shared organization page.
   the CIA in 1947, since the agency's black budget still faced theoretical Treasury/congressional
   oversight risk. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 14:06-16:32)*
 
+- Eyes Wide Open argues the CIA's directors and agents were "for the most of its history"
+  pulled from Wall Street, elite law firms, and multinational corporations that benefited from
+  colonial-era "open door" economics — citing [[allen-dulles]] and [[john-foster-dulles]]
+  (Sullivan & Cromwell), [[george-h-w-bush]] (Zapata Oil), and [[william-casey]] (Hall Casey
+  Dickler and Howley) — and that this interplay drove operations such as the 1954 overthrow of
+  Guatemalan president [[jacobo-arbenz]] (lobbied by [[united-fruit-company]]) and the 1953
+  overthrow of Iranian PM [[mohammad-mossadegh]] (at the [[anglo-iranian-oil-company]]'s and
+  British government's request). *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 5:29-7:12)*
+- Created as an independent civilian intelligence agency by the
+  [[national-security-act-1947|National Security Act of 1947]], reformed out of the
+  [[central-intelligence-group]]. Per Eyes Wide Open, the act's operative "11 words" —
+  authorizing "other functions and duties related to intelligence affecting national security" —
+  became the vague legal basis the host says covered all the agency's subsequent illegal coups,
+  assassinations, drug smuggling, blackmail, and extortion, beginning with the 1947 Greek Civil
+  War. *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 23:57-25:47)*
+
 ## Relationships
 
 - Operates [[cia-directorate-of-science-and-technology]] and (via it)
   [[cia-office-of-global-access]]; sponsored [[project-stargate]]; part of
   [[ufo-legacy-programs]] and (per Eyes Wide Open) the [[deep-state]].
-- Spun off from the [[office-of-strategic-services]]; early leadership included
-  [[roscoe-hillenkoetter]] and (later) [[allen-dulles]].
+- Spun off from the [[office-of-strategic-services]] and (formally) the
+  [[central-intelligence-group]] via the [[national-security-act-1947]]; early leadership included
+  [[roscoe-hillenkoetter]] and (later) [[allen-dulles]], [[george-h-w-bush]], and
+  [[william-casey]].

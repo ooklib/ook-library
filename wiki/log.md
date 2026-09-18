@@ -741,3 +741,47 @@ intentionally thin, since the host explicitly previews deeper future coverage of
 `associate_of` rather than stretching `mission_partner_of` (documented as org↔org) onto
 person-to-person criminal partnerships. (4) Verified all new wikilinks and relation `target:`
 fields resolve to existing files before committing.
+
+## [2026-09-18] ingest | Eyes Wide Open - The Real Cold War and the Creation of CIA [Pt. 4] (7m27s)
+
+Ingested `raw/ewa/...The Real Cold War and the Creation of CIA [pt. 4].md` (`ewa/cold-war`), Part
+4 of Eyes Wide Open's "History of the CIA" series, covering the First/Second/Third World Cold War
+framing and the CIA's creation via the National Security Act of 1947.
+
+Created 11 new entity pages: events/programs [[national-security-act-1947]] (the episode's
+central legal event, creating the CIA, NSC, Secretary of Defense, and US Air Force via its "11
+words" mandate) and [[truman-doctrine]]; organization [[central-intelligence-group]] (the
+1946-47 CIA predecessor under the War Department, its failed Romania operation, reformed under
+[[hoyt-vandenberg]]); people [[hoyt-vandenberg]], [[jacobo-arbenz]], [[mohammad-mossadegh]],
+[[george-h-w-bush]], [[william-casey]]; organizations [[united-fruit-company]] and
+[[anglo-iranian-oil-company]] (the two corporate clients of [[sullivan-and-cromwell]] the host
+ties to the 1954 Guatemala and 1953 Iran coups); concept [[non-aligned-movement]].
+
+Updated 8 existing pages with new claims/relations/sources: [[central-intelligence-agency]]
+(creation via the National Security Act, the "11 words" mandate, the elite-revolving-door
+pattern via Bush/Casey/Guatemala/Iran), [[harry-truman]] (OSS disbandment, CIG creation, Truman
+Doctrine, signing the Act), [[allen-dulles]] (1946-47 work plan with Donovan, 1947 Senate
+testimony laying out the CIA's architecture, Sullivan & Cromwell's United Fruit/AIOC clients),
+[[william-donovan]] (post-OSS work plan, Romania network's fate), [[j-edgar-hoover]] (FBI bid for
+foreign intelligence, alleged doctored-report sabotage of the CIA's creation), [[frank-wisner]]
+(OSS Romania station chief backstory, Secret Society of Seven, stay-behind network later lost by
+the CIG), [[sullivan-and-cromwell]] (United Fruit/AIOC client relationships), and
+[[eyes-wide-open]] (Part 4 methodology/framing summary).
+
+No new relation types needed: reused `founded`, `renamed_to`, `spun_off_from`, `contractor_for`,
+`influenced`, `participated_in`, `employed_by`, and `coincides_with`, all already documented in
+[[relation-types]].
+
+Updated `wiki/index.md`: added new pages to the existing OSS/CIA-history org/people sections, the
+Programs/Events list, and the Concepts list; added `ewa/cold-war` to the intro's short-key list.
+
+Judgment calls: (1) Did not create a full page for the Greek Civil War (teased as "next episode"
+and covered in essentially no depth here beyond a name-check) or a standalone "Cold War" framing
+concept page — folded the First/Second/Third World framing into [[eyes-wide-open]]'s episode
+summary instead, since it's an analytical lens rather than a distinct claimed entity. (2) Kept
+[[george-h-w-bush]] and [[william-casey]] deliberately thin, since `raw/index.md` shows dedicated
+future episodes (`ewa/bush-1/2/3`) will cover Bush in depth. (3) Removed an initial `part_of
+department-of-defense` relation from [[central-intelligence-group]] since the DoD itself didn't
+exist until this same 1947 act — avoided an anachronistic edge with no existing "War Department"
+page as a better target. (4) Verified all new wikilinks and relation `target:` fields resolve to
+existing files before finishing.
