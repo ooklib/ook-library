@@ -466,3 +466,46 @@ reused `spun_off_from`, `analogous_to`, `overlapping_membership_with`, `member_o
 `employed_by` from the existing registry. All claims attributed to Green & Pleasant per the
 schema's "record claims, not fact" convention, despite the source's own framing as fully sourced
 from public/primary records.
+
+## [2026-09-18] ingest | The Government Inside Britain That's Older Than Parliament (Green & Pleasant)
+
+Ingested `raw/gp/Green & Pleasant - 2026-06-03 - The Government Inside Britain That's Older Than
+Parliament.md` (short key `gp/older-than-parliament`, already registered in `raw/index.md`), the
+fourth and final video in Green & Pleasant's "Hidden Governments of Britain" series, following
+the already-ingested Fabian Society and Chatham House videos. It covers the City of London
+Corporation: its ~958-year-old "ancient liberties" granted by William the Conqueror in 1067 and
+specifically protected by Magna Carta's Clause 13 (1215); the distinction between the modern
+Mayor of London (GLA, since 2000) and the much older Lord Mayor of London (Square Mile, since
+1189, predating the premiership by 532 years); the City's own police force, flag, and ceremonial
+statehood; its business-weighted electoral system, in which registered companies (headcount-based
+votes, picked by management, no British-ownership requirement) outvote the Square Mile's ~8,600
+residents better than two to one (13,748 business votes to 6,475 resident votes), a fossil of
+pre-1969 British business voting that a 2002 Labour Act actually expanded; the Remembrancer, a
+permanent unelected City official who has held a seat in the House of Commons since 1571; the
+City's historical role financing empire via Lloyd's of London (documented ties to the
+transatlantic slave trade, per Lloyd's own 2020 apology) and the East India Company; the postwar
+shift of that financial engine offshore into the Crown Dependencies/Overseas Territories network,
+per Tax Justice Network estimates responsible for close to a quarter of global lost corporate tax
+revenue; and a modern-day thread tying the 1986 Big Bang deregulation (Thatcher), the 2008
+bailout, the 2022 Truss mini-budget collapse, and Rachel Reeves's 2025 Mansion House "Leeds
+Reforms" speech into one continuous pattern of City influence over UK financial policy regardless
+of governing party.
+
+Created 9 new entity pages: [[city-of-london-corporation]] (main hub page for this ingest),
+[[remembrancer]], [[lloyds-of-london]], [[east-india-company]], [[john-julius-angerstein]],
+[[tax-justice-network]], [[margaret-thatcher]], [[liz-truss]], and [[rachel-reeves]]. No existing
+pages were modified beyond `wiki/index.md`. Added a new `analogous_to` relation from
+[[city-of-london-corporation]] to [[fabian-society]] documenting the shared documentary-series
+framing (fourth installment, following Fabian Society and Chatham House) — explicitly noted as a
+series link, not a personnel/institutional connection like the Dennis Healey bridge between the
+Fabian Society and Chatham House pages, since the source states no such substantive link here.
+Updated `wiki/index.md`'s "Organizations — British power structures" and "People — British power
+structures" sections and its source-key note. No new relation types were needed — reused
+`operates`, `influenced`, `analogous_to`, `located_at`, `founded`, and `investigates` from the
+existing registry. All claims attributed to Green & Pleasant per the schema's "record claims, not
+fact" convention, despite the source's own framing as sourced from public/primary records
+(charters, Magna Carta, Hansard, Charity Commission and House of Commons Library figures).
+
+This page is expected to be extended immediately by a second, independent source
+(`rjm/city-of-london`, Richard J Murphy's "The secret power behind the City of London") covering
+the same institution — that ingest is a separate, subsequent step.
