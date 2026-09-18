@@ -399,3 +399,35 @@ the `gerb/secrecy_2` source, including [[special-access-program]],
 [[relation-types]] (`governed_by`, `reports_to`). All claims attributed to UAP Gerb (heavily
 quoting David Grush's Judicial Watch interview) and flagged as speculative per the schema's
 domain framing.
+
+## [2026-09-18] ingest | The Secret Society Running Britain for 140 Years (Green & Pleasant)
+
+Ingested `raw/gp/Green & Pleasant - 2026-03-28 - The Secret Society Running Britain for 140
+Years.md` (short key `gp/secret-society`, already registered in `raw/index.md`), starting a new,
+currently unconnected wiki sub-graph on British power structures/secret societies (planned to
+extend to Chatham House, the City of London Corporation, and eventually the wiki's existing
+CIA-history material). The video traces the Fabian Society, founded 1884, its openly stated
+"permeation" strategy of infiltrating institutions (LSE, the New Statesman, the Labour Party's
+constitution and modern leadership) rather than building competing ones, and alleges deep,
+sustained influence over Labour Party policy from Clause IV to the founding of the NHS. It
+documents the founders' — George Bernard Shaw, Sidney and Beatrice Webb, H.G. Wells — published
+eugenics advocacy (including calls for lethal chambers and forced sterilization), William
+Beveridge's simultaneous authorship of the welfare state and long Eugenics Society council
+membership, Julian Huxley's Eugenics Society presidency, and George Orwell's break from the
+Fabians after they altered his 1941 lecture without consent. This is a continuous narration
+without ASR-style chapter timestamps in the old sense, but the raw transcript does carry inline
+`m:ss` timecodes per line, which are used for citations here in the same bare-timestamp style as
+the rest of the wiki's tagged citation convention (`gp/secret-society` + timestamp).
+
+Created 14 new entity pages: [[fabian-society]], [[permeation]],
+[[london-school-of-economics]], [[new-statesman]], [[labour-party]], [[eugenics-society]],
+[[george-bernard-shaw]], [[sidney-webb]], [[beatrice-webb]], [[h-g-wells]],
+[[william-beveridge]], [[julian-huxley]], [[aldous-huxley]], and [[george-orwell]]. No existing
+pages were modified — this topic has no overlap with the existing UFO-legacy-program graph.
+Added four new relation types to [[relation-types]] (`member_of`, `practices`,
+`overlapping_membership_with`, `influenced`). Added new tags (`think-tank`, `secret-society`,
+`power-structure`, `permeation`, `eugenics`, `welfare-state`, `political-party`, `media`,
+`education`) and new index sections ("Organizations — British power structures" and "People —
+British power structures"). All claims attributed to Green & Pleasant per the schema's "record
+claims, not fact" convention, despite the source's own framing as primary-document-sourced
+non-speculative history.

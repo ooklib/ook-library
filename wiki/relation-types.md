@@ -11,6 +11,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/gp/Green & Pleasant - 2026-03-28 - The Secret Society Running Britain for 140 Years.md"
+    label: "The Secret Society Running Britain for 140 Years (Green & Pleasant)"
 ---
 
 Registry of directed relation types used across the wiki's `relations:` frontmatter. Most are
@@ -43,3 +45,7 @@ asymmetric (the inverse is implied, not separately stored). Symmetric ones are n
 | `oversees` | org → org/program | joint acquisition/budget authority over another entity | no |
 | `governed_by` | concept/program → org | administered/regulated by a named governance body | no |
 | `reports_to` | org → org | administrative reporting line distinct from full `part_of` containment | no |
+| `member_of` | person → org | affiliation with a society/party distinct from paid employment or board service | no |
+| `practices` | org → concept | employs a named strategy/tactic as a matter of policy | no |
+| `overlapping_membership_with` | org ↔ org | two organizations share founders/leaders/members, alleged by a source | **yes** |
+| `influenced` | person/org → person/org | shaped another's thinking or policy without formal membership/employment | no |

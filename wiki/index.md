@@ -9,7 +9,12 @@ tags: [meta]
 Catalog of all entity pages, grouped by kind. See [[relation-types]] for the edge-type registry
 and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `gerb/mitre`, `gerb/saic`,
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
-`gerb/secrecy_2`).
+`gerb/secrecy_2`, `gp/secret-society`).
+
+Note: as of the `gp/secret-society` ingest, the wiki spans two currently unconnected topic areas —
+the original alleged "UFO legacy programs" ecosystem (MITRE, SAIC, NRO, Lockheed, etc.) and a new
+British power-structures thread (Fabian Society and related figures/orgs) — see `raw/index.md`
+for the channel breakdown.
 
 ## Hub pages (start here)
 
@@ -90,6 +95,11 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 [[bigelow-aerospace-advanced-space-studies]] · [[peraton]] · [[honeywell]] ·
 [[huntington-ingalls-industries]] · [[inqtel]] · [[system-high]]
 
+## Organizations — British power structures
+
+[[fabian-society]] · [[eugenics-society]] · [[labour-party]] · [[london-school-of-economics]] ·
+[[new-statesman]]
+
 ## Places
 
 [[crystal-city-virginia]] · [[naval-air-station-patuxent-river]] ·
@@ -163,6 +173,11 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 [[interplanetary-phenomenon-unit]] · [[condon-committee]] · [[age-of-disclosure-documentary]] ·
 [[yankee-white]]
 
+## People — British power structures
+
+[[george-bernard-shaw]] · [[sidney-webb]] · [[beatrice-webb]] · [[h-g-wells]] ·
+[[william-beveridge]] · [[julian-huxley]] · [[aldous-huxley]] · [[george-orwell]]
+
 ## Concepts
 
 [[ffrdc]] · [[special-access-program]] · [[special-access-program-oversight-committee]] ·
@@ -171,5 +186,5 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 [[saf-aql]] · [[saf-aqx]] · [[saf-aqr]] · [[national-program-special-management-staff]] ·
 [[top-policy-group]] · [[presidential-emergency-action-documents]] ·
 [[atomic-energy-act-1954]] · [[content-only-special-access-program]] ·
-[[covert-action-program]] · [[yankee-blue]] ·
+[[covert-action-program]] · [[yankee-blue]] · [[permeation]] ·
 [[relation-types]]
