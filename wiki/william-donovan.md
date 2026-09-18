@@ -19,11 +19,16 @@ relations:
   - relation: protected
     target: junio-valerio-borghese
     note: "with Angleton, weighed installing Borghese as king of southern Italy, then as a Gladio commander (per ewa/sunrise)"
+  - relation: participated_in
+    target: operation-x
+    note: "enthusiastically funded Helliwell's narcotics-funded covert-action plan (per ewa/mafia-allies)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
+    label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
 ---
 
 William "Wild Bill" Donovan was a WWI-hero-turned-Wall-Street-lawyer who became the first (and
@@ -66,9 +71,15 @@ administrator.
   as the connective "anchor" who brought together the agents who went on to run the CIA's
   formative, "most notable and criminal acts." *([ewa/oss](../raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md) 16:00-16:59)*
 
+- Alongside Dulles, "loved" [[paul-helliwell]]'s narcotics-funded covert-action plan as a way to
+  keep OSS-style operations running "without the formal ascent of the US government"; the OSS
+  elite were "thrilled" with Helliwell's earlier China opium-facilitation plan and immediately
+  funneled funds (including looted Nazi fortunes) to his office. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 10:56-11:08, 14:27-14:41)*
+
 ## Relationships
 
 - Directed the [[office-of-strategic-services]], appointed by [[franklin-d-roosevelt]].
+- Funded [[paul-helliwell]]'s narcotics-funded [[operation-x]] scheme.
 - Overshadowed by his subordinate [[allen-dulles]].
 - Dismissed by Truman; succeeded (per the host's simplified framing) by
   [[roscoe-hillenkoetter]] as CIA director.

@@ -35,6 +35,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
+    label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -65,6 +67,12 @@ shared organization page.
 - Eyes Wide Open casts the CIA as "arguably the center of th[e] deep state network," alongside
   the Department of Defense, FBI, and other institutions the host argues share interests in
   capital, US empire, and anti-communism. *([ewa/oss](../raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md) 10:54-11:49)*
+
+- Per Eyes Wide Open's Part 3, the OSS/CIA's alleged narcotics-funded covert-action model
+  ([[paul-helliwell]]'s [[operation-x]], run via [[civil-air-transport]]/[[air-america]] and the
+  [[meyer-lansky]]/[[lucky-luciano]] mafia network) persisted even after Congress formally funded
+  the CIA in 1947, since the agency's black budget still faced theoretical Treasury/congressional
+  oversight risk. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 14:06-16:32)*
 
 ## Relationships
 

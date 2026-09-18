@@ -10,7 +10,7 @@ Catalog of all entity pages, grouped by kind. See [[relation-types]] for the edg
 and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `gerb/mitre`, `gerb/saic`,
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
 `gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`,
-`rjm/city-of-london`, `mpu/secret-society`, `ewa/oss`, `ewa/sunrise`).
+`rjm/city-of-london`, `mpu/secret-society`, `ewa/oss`, `ewa/sunrise`, `ewa/mafia-allies`).
 
 Note: the wiki spans four topic areas — the original alleged "UFO legacy programs" ecosystem
 (MITRE, SAIC, NRO, Lockheed, etc.), a British power-structures thread (Fabian Society, Chatham
@@ -123,7 +123,9 @@ origin-story claims/relations), and to the British-power-structures thread throu
 ## Organizations — OSS/CIA history (Eyes Wide Open)
 
 [[office-of-strategic-services]] · [[sullivan-and-cromwell]] · [[ig-farben]] ·
-[[gehlen-organization]] · [[bank-for-international-settlements]]
+[[gehlen-organization]] · [[bank-for-international-settlements]] · [[civil-air-transport]] ·
+[[air-america]] · [[general-development-corporation]] · [[national-crime-syndicate]] ·
+[[green-gang]] · [[schiaparelli]]
 
 ## Places
 
@@ -197,7 +199,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[alsos-mission]] · [[nsc-5412-committee]] · [[yellow-fruit]] ·
 [[interplanetary-phenomenon-unit]] · [[condon-committee]] · [[age-of-disclosure-documentary]] ·
 [[yankee-white]] · [[project-2025]] · [[operation-sunrise]] · [[operation-gladio]] ·
-[[operation-safe-haven]]
+[[operation-safe-haven]] · [[operation-x]] · [[operation-underworld]]
 
 ## People — British power structures
 
@@ -217,7 +219,9 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[roscoe-hillenkoetter]] · [[j-edgar-hoover]] · [[franklin-d-roosevelt]] · [[harry-truman]] ·
 [[peter-dale-scott]] · [[reinhard-gehlen]] · [[karl-wolff]] · [[hjalmar-schacht]] ·
 [[hermann-goring]] · [[james-jesus-angleton]] · [[junio-valerio-borghese]] ·
-[[gerhart-von-schulze-gaevernitz]] · [[thomas-mckittrick]]
+[[gerhart-von-schulze-gaevernitz]] · [[thomas-mckittrick]] · [[paul-helliwell]] ·
+[[claire-chennault]] · [[chiang-kai-shek]] · [[meyer-lansky]] · [[lucky-luciano]] ·
+[[frank-wisner]] · [[santo-trafficante]] · [[jimmy-hoffa]]
 
 ## Concepts
 

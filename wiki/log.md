@@ -701,3 +701,43 @@ now (rather than deferred) since the episode explicitly names it and ties Gehlen
 Borghese's arcs together under it, but is deliberately left thin — Eyes Wide Open signals it will
 cover Gladio in much greater depth in future episodes, which should become the page's primary
 source once ingested.
+
+## [2026-09-18] ingest | Eyes Wide Open - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (6m40s)
+
+Ingested `raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the
+Beginning of the Global Drug Connection [pt. 3].md` (short key `ewa/mafia-allies`, already
+registered in `raw/index.md`). This is Part 3 of the "History of the CIA" season, covering the
+OSS's WWII-era opium facilitation for Chiang Kai-shek's KMT in China/Burma and [[paul-helliwell]]'s
+postwar "Operation X" plan tying the nascent CIA to [[meyer-lansky]]'s mafia network via the
+Harlem heroin trade and the Sicily-Cuba-New York "French Connection" pipeline.
+
+Created 15 new entity pages: people [[paul-helliwell]] (the episode's central figure),
+[[claire-chennault]], [[chiang-kai-shek]], [[meyer-lansky]], [[lucky-luciano]], [[frank-wisner]],
+[[santo-trafficante]], [[jimmy-hoffa]]; organizations [[civil-air-transport]], [[air-america]]
+(stub, fuller coverage deferred to future Vietnam-War-era episodes per `raw/index.md`'s
+`ewa/laos-*` rows), [[general-development-corporation]], [[national-crime-syndicate]],
+[[green-gang]], [[schiaparelli]]; programs [[operation-x]] (also deliberately left partly thin —
+`raw/index.md` shows two future episodes, `ewa/laos-2` and `ewa/laos-3`, explicitly revisit
+Operation X and the French Connection) and [[operation-underworld]].
+
+Updated 9 existing pages with new claims/relations/sources: [[office-of-strategic-services]],
+[[william-donovan]], [[allen-dulles]], [[james-jesus-angleton]], [[franklin-d-roosevelt]] (Warren
+Delano opium-fortune claim, Chennault funding), [[harry-truman]] (1945 unfunded budget as
+Operation X's catalyst), [[office-of-naval-intelligence]] (Operation Underworld), [[ig-farben]]
+(Bayer's 1898 heroin synthesis), [[eyes-wide-open]], [[operation-gladio]] (alleged Operation X
+funding link), and [[central-intelligence-agency]] (narcotics-funding model persisting post-1947).
+
+Added 1 new relation type to [[relation-types]]: `associate_of` (person/org ↔ person/org,
+symmetric) for criminal/business partnerships (Helliwell-Lansky, Lansky-Luciano, etc.) that don't
+fit the existing asymmetric employment/membership types.
+
+Updated `wiki/index.md`: added the new pages to the existing OSS/CIA-history org/people sections
+and the Programs/Events list, and added `ewa/mafia-allies` to the intro's short-key list.
+
+Judgment calls: (1) Did not create a dedicated page for the SS Normandie fire — folded into
+[[operation-underworld]] and [[lucky-luciano]] since it's the inciting incident for that program
+rather than an independently-claimed entity. (2) Kept [[air-america]] and [[operation-x]]
+intentionally thin, since the host explicitly previews deeper future coverage of both. (3) Used
+`associate_of` rather than stretching `mission_partner_of` (documented as org↔org) onto
+person-to-person criminal partnerships. (4) Verified all new wikilinks and relation `target:`
+fields resolve to existing files before committing.

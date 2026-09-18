@@ -31,11 +31,16 @@ relations:
   - relation: influenced
     target: james-jesus-angleton
     note: "viewed by Angleton as a mentor/\"second father\" (per ewa/sunrise)"
+  - relation: participated_in
+    target: operation-x
+    note: "loved and funded Helliwell's narcotics-funded covert-action plan (per ewa/mafia-allies)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
+    label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -99,6 +104,9 @@ calls him "arguably one of, if not the most important person in modern American 
   writing to President Truman. *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 13:40-21:41)*
 - Viewed by [[james-jesus-angleton]] (OSS station chief in Rome, later CIA counterintelligence
   chief) as "a second father and a mentor." *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 23:36-23:40)*
+- Along with Donovan, "loved" [[paul-helliwell]]'s proposal to fund OSS covert action via
+  narcotics trafficking — first backing his China opium-facilitation plan, then his postwar
+  [[operation-x]] scheme. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 10:56-11:08, 14:27-14:41, 19:49-19:55)*
 
 ## Relationships
 

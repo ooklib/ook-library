@@ -1,0 +1,32 @@
+---
+title: Santo Trafficante
+kind: person
+aliases: ["Santotroficante"]
+tags: [mafia, narcotics, cia-history]
+relations:
+  - relation: associate_of
+    target: lucky-luciano
+    note: "received Sicilian-shipped heroin at his Cuban labs for cutting/processing (per ewa/mafia-allies)"
+  - relation: participated_in
+    target: operation-x
+sources:
+  - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
+    label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+---
+
+Santo Trafficante was a Mafia figure who controlled Cuban heroin-processing labs central to
+[[operation-x]]'s supply chain. Eyes Wide Open flags him as a figure who "will continue to come
+up especially in relation to the Kennedy assassination" in later episodes.
+
+## Claims
+
+- The Sicilian mob (organized by [[lucky-luciano]]) shipped pure heroin synthesized by
+  [[schiaparelli]] in crates of fake wax oranges or sardine cans to Trafficante's Cuban labs,
+  where it was cut with sugar to increase profit margins before being shipped on to New York.
+  Cuba served as a heroin hub for this pipeline until Castro's 1959 revolution expelled the
+  Italian-American mobsters, which the host says only strengthened the bond between the US
+  security state and the Mafia. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 27:30-28:09)*
+
+## Relationships
+
+- Processed [[operation-x]] heroin at Cuban labs supplied by [[lucky-luciano]]'s Sicilian mob.

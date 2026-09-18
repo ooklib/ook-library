@@ -15,6 +15,8 @@ sources:
     label: "The Secret Society Running Britain for 140 Years (Green & Pleasant)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
+    label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
 ---
 
 Registry of directed relation types used across the wiki's `relations:` frontmatter. Most are
@@ -54,3 +56,4 @@ asymmetric (the inverse is implied, not separately stored). Symmetric ones are n
 | `recruited_by` | person/org → person/org | recruited as an intelligence asset, agent, or stay-behind network, alleged | no |
 | `participated_in` | person → program/event | took part in a specific covert operation or event | no |
 | `protected` | person/org → person | used influence to secure another's release, immunity, or leniency, alleged | no |
+| `associate_of` | person/org ↔ person/org | criminal, business, or working partnership alleged by a source, without a formal employment/membership hierarchy | **yes** |

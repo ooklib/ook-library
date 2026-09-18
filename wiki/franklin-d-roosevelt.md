@@ -15,6 +15,8 @@ sources:
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
+    label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
 ---
 
 Franklin D. Roosevelt was President of the United States when, per Eyes Wide Open, the surprise
@@ -34,9 +36,18 @@ attack on Pearl Harbor necessitated the creation of the
   bank assets worldwide, a policy the Dulles brothers allegedly circumvented for their clients'
   funds at the [[bank-for-international-settlements]]. *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 5:57-6:06, 6:56-7:00)*
 
+- Eyes Wide Open alleges FDR's maternal grandfather Warren Delano built the family's fortune
+  shipping heroin/opium from Shanghai and Hong Kong to the United States, part of a broader
+  pattern of "illustrious American families" enriched by the 19th-century opium trade.
+  [[claire-chennault]] separately lobbied FDR to fund a private mercenary air force for
+  [[chiang-kai-shek]] using covert American war funds, becoming "the Flying Tigers" and later
+  [[civil-air-transport]]. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 4:17-4:29, 11:39-11:46)*
+
 ## Relationships
 
 - Founded the [[office-of-strategic-services]]; appointed [[william-donovan]] as its director.
+- Per Eyes Wide Open, his grandfather Warren Delano's fortune came from the opium trade; approved
+  covert funding for [[claire-chennault]]'s air force, later [[civil-air-transport]].
 - Promised Stalin at Casablanca not to sign a separate peace with Germany, a policy
   [[operation-sunrise]] allegedly defied.
 - Implemented [[operation-safe-haven]], allegedly circumvented by [[allen-dulles]] and

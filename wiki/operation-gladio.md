@@ -7,9 +7,14 @@ relations:
   - relation: part_of
     target: deep-state
     note: "framed by Eyes Wide Open as a core deep-state covert program"
+  - relation: sponsored_by
+    target: general-development-corporation
+    note: "alleged recipient of laundered Operation X narcotics proceeds, via the Sicilian mob (per ewa/mafia-allies)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
+    label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
 ---
 
 Operation Gladio, per Eyes Wide Open, was the future CIA's Cold War program of clandestine
@@ -33,9 +38,19 @@ Eyes Wide Open indicates it will cover it in more depth in future installments.
   divisions) funded via US State Department "operational resources" funds and trained on
   Sardinia, drawn from hardline fascists and Italian monarchists. *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 25:21-26:07)*
 
+- Per Eyes Wide Open's Part 3, [[operation-x]] narcotics proceeds laundered through
+  [[general-development-corporation]] were diverted to the Sicilian mob (organized by
+  [[lucky-luciano]]), which in turn distributed funds to Gladio's underground network — Mafia
+  elements, former fascists, and secret armies, with Vatican officials teased as the next
+  episode's subject. Author Paul L. Williams (*Operation Gladio*) is cited as arguing the CIA
+  acted as a direct funding middleman for these operations via such shell companies, against
+  Alfred McCoy's more limited "facilitator" framing. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 16:49-18:21, 28:38-29:06)*
+
 ## Relationships
 
 - Grew out of the [[gehlen-organization]]'s "werewolf" fighters.
 - In Italy, commanded by [[junio-valerio-borghese]] with backing from [[james-jesus-angleton]] and
   [[william-donovan]].
 - Framed by Eyes Wide Open as part of the broader [[deep-state]] apparatus.
+- Allegedly funded in part by [[operation-x]] narcotics proceeds via
+  [[general-development-corporation]] and [[lucky-luciano]]'s Sicilian mob.

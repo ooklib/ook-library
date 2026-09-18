@@ -15,6 +15,8 @@ sources:
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
+    label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -40,6 +42,17 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
   (China, Southeast Asia, Burma) and its link to the French Connection and Gladio. Bibliography
   again drawn primarily from David Talbot's *The Devil's Chessboard* and Paul L. Williams's
   *Operation Gladio*. *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 0:09-1:04, 26:50-27:06)*
+
+- Part 3, "Mafia Allies and the Beginning of the Global Drug Connection," again opens recapping
+  prior parts and states this is territory "very rarely discussed even in authoritative histories
+  of the CIA." It covers the OSS's WWII-era opium facilitation for the KMT in China/Burma via
+  [[paul-helliwell]] and [[civil-air-transport]], the wartime [[operation-underworld]] precedent
+  with [[lucky-luciano]], and [[paul-helliwell]]'s postwar [[operation-x]] plan tying the future
+  CIA to [[meyer-lansky]]'s [[national-crime-syndicate]] and the Sicilian mob — teased as leading
+  into the next episode's coverage of Vatican officials and [[operation-gladio]] funding. Draws
+  bibliographically on Alfred W. McCoy's *The Politics of Heroin*, James Bradley's *The China
+  Mirage*, Paul L. Williams's *Operation Gladio*, Tim Weiner's *Legacy of Ashes*, and Whitney
+  Webb's *One Nation Under Blackmail*. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 0:54-2:12, 29:06-29:21)*
 
 ## Relationships
 

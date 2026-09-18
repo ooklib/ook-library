@@ -10,9 +10,16 @@ relations:
     target: mitre-corporation
   - relation: mission_partner_of
     target: naval-criminal-investigative-service
+  - relation: protected
+    target: lucky-luciano
+    note: "secured his early release/deportation from prison in exchange for dock security under Operation Underworld (per ewa/mafia-allies)"
+  - relation: participated_in
+    target: operation-underworld
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
+    label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
 ---
 
 The Office of Naval Intelligence, founded 1882, is described as the world's oldest intelligence
@@ -37,7 +44,16 @@ agency and the US Navy's premier intelligence arm, part of both the DoD and IC. 
   most critical Navy-side administrative components of the alleged UFO activities, with SECNAV
   possibly involved at a higher level. *([gerb/mitre](../raw/gerb/mitre.md) 1:11:01–1:11:20)*
 
+- After the 1942 SS Normandie fire in New York Harbor (blamed on Nazi sabotage but allegedly set
+  by [[lucky-luciano]]'s associates), approached Luciano's mob-controlled dock union for harbor
+  security help, striking a deal later declassified as [[operation-underworld]]: Luciano secured
+  the docks from his prison cell in exchange for early release and deportation to Sicily in 1946,
+  guaranteeing (per Eyes Wide Open) the "free flow of narcotics from European and Cuban heroin
+  labs." *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 24:52-26:06)*
+
 ## Relationships
 
 - Core mission partner and counterintelligence provider for [[mitre-corporation]]'s alleged
   reverse-engineering program.
+- Per Eyes Wide Open, recruited [[lucky-luciano]]'s dock union via [[operation-underworld]],
+  presented as the wartime precedent for the CIA's later [[operation-x]] mafia alliance.

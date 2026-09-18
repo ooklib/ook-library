@@ -19,11 +19,19 @@ relations:
   - relation: recruited_by
     target: reinhard-gehlen
     note: "recruited as a postwar anti-communist stay-behind asset (per ewa/sunrise)"
+  - relation: employed_by
+    target: paul-helliwell
+    note: "chief of special intelligence for the OSS in China; architect of the narcotics-funding scheme (per ewa/mafia-allies)"
+  - relation: participated_in
+    target: operation-x
+    note: "leadership funded and pursued Helliwell's narcotics-funded covert-action plan (per ewa/mafia-allies)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
+    label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
 ---
 
 The Office of Strategic Services was the United States' first dedicated foreign-intelligence
@@ -70,6 +78,13 @@ handling only domestic intelligence. *([ewa/oss](../raw/ewa/Eyes Wide Open - 202
   counterintelligence branch in Italy and helped extract fascist collaborators such as
   [[junio-valerio-borghese]]. *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 2:25-5:44, 22:10-25:10)*
 
+- Per [[paul-helliwell]], the OSS's China station facilitated the KMT's opium trade in Burma
+  (via [[civil-air-transport]]) to fund anti-communist forces, then, after Truman's 1945 postwar
+  budget left the agency without covert-action funding, pursued Helliwell's [[operation-x]] —
+  using a growing Harlem heroin market as a "testing ground" for a permanent narcotics-funded
+  covert-action pipeline that Eyes Wide Open says persisted even after the CIA's formal 1947
+  creation and budget, given the political risk to a taxpayer-funded black budget. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 9:08-16:32, 19:11-19:55)*
+
 ## Relationships
 
 - Founded by [[franklin-d-roosevelt]] in 1942.
@@ -79,3 +94,5 @@ handling only domestic intelligence. *([ewa/oss](../raw/ewa/Eyes Wide Open - 202
   [[operation-sunrise]] via Dulles's Bern station.
 - Precursor to the [[central-intelligence-agency]]; leadership passed (per Eyes Wide Open's
   simplified account) to [[roscoe-hillenkoetter]] as "first director of the CIA."
+- Staffed [[paul-helliwell]] as chief of special intelligence in China; funded and pursued his
+  narcotics-funded [[operation-x]] scheme.

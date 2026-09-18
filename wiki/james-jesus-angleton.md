@@ -10,9 +10,16 @@ relations:
   - relation: protected
     target: junio-valerio-borghese
     note: "personally secured the Black Prince's release from a war-crimes detention center in Milan, May 1945"
+  - relation: associate_of
+    target: meyer-lansky
+    note: "with Frank Wisner, developed the OSS's working relationship with Lansky (per ewa/mafia-allies)"
+  - relation: participated_in
+    target: operation-x
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
+    label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
 ---
 
 James Jesus Angleton was the OSS station chief in Rome during WWII and, per Eyes Wide Open, would
@@ -42,9 +49,15 @@ viewed [[allen-dulles]] as a mentor and personally helped extract fascist collab
   Catholic-dominated southern Italy, before opting for the less conspicuous plan of using him as
   commander of [[operation-gladio|Gladio]] forces in Italy. *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 25:12-25:24)*
 
+- Alongside [[frank-wisner]], developed the OSS's working relationship with Mafia boss
+  [[meyer-lansky]], central to [[paul-helliwell]]'s [[operation-x]] narcotics-funding scheme.
+  *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 22:31-22:39)*
+
 ## Relationships
 
 - OSS station chief in Rome; ran the OSS's X2 counterintelligence program in Italy.
 - Viewed [[allen-dulles]] as a mentor.
 - Personally protected/released [[junio-valerio-borghese]] and helped install him as a
   [[operation-gladio]] commander in Italy, alongside [[william-donovan]].
+- With [[frank-wisner]], developed the [[meyer-lansky]] relationship underpinning
+  [[operation-x]].
