@@ -21,7 +21,12 @@ relations:
     note: "alleged Havana contact and arms supplier, 1959 (host speculation)"
   - relation: alleged_by
     target: eyes-wide-open
+  - relation: associate_of
+    target: yoshio-kodama
+    note: "worked closely with the Yakuza boss in postwar Japan (per ewa/dallas-4)"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
@@ -87,3 +92,9 @@ Chapter 3 of [[road-to-dallas]] is his dedicated episode. Host framing: a charac
 ## Relationships (ewa/dallas-3)
 
 - Alleged weapons supplier and undercover asset in Havana alongside [[frank-sturgis]], [[gerry-patrick-hemming]] and [[loran-hall]] circles (host speculation); see [[interpen]].
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Hemming (Argosy 1993) named "Jack Cannon" among the mob's "boys" in Cuba alongside Sturgis, Johnny Devo and Herman Marx; the host reads Cannon not as a mob associate but as a roving military-intelligence officer (with past CIA work, posing as tourist police officer "Jack Shea/Sheay") likely facilitating arms from Fort Hood. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 24:49-27:20)*
+- Host argues mob comfort is in character: in postwar Japan Cannon, under [[charles-willoughby]]'s G2, worked closely with Yakuza incl. [[yoshio-kodama]], whose 1948 release from Sugamo G2 helped secure. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 27:20-29:15)*
+- Speculation: [[norman-rothman]] may have shifted gun supply to Cannon/Fort Hood after the 1958 Ohio armory theft was intercepted. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 23:00-23:35)*

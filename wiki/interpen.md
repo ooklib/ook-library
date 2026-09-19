@@ -13,6 +13,8 @@ relations:
   - relation: alleged_by
     target: eyes-wide-open
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
     label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
 ---
@@ -29,3 +31,7 @@ Interpen (International Penetration Force, also called the No-Name Key Group in 
 ## Relationships
 
 - Founded by [[gerry-patrick-hemming]]; sponsored by [[frank-sturgis]]; roster included [[loran-hall]]; related to [[cuban-revolution]] origins; the [[odio-incident]] involved its associates.
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Hemming denies that [[loran-hall]] was ever an actual Interpen member, describing him as a hanger-on after their January 1963 Los Angeles reunion; the host has doubts, to be addressed later. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 16:26-16:52)*

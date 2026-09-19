@@ -25,7 +25,12 @@ relations:
   - relation: participated_in
     target: cuban-revolution
     note: "gun-runner, paramilitary adviser and air chief for Castro's guerrillas 1957-59 (ewa/dallas-1)"
+  - relation: associate_of
+    target: norman-rothman
+    note: "Rothman was the mob-casino emissary to Sturgis as Castro gambling czar, 1959-60"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
@@ -107,3 +112,8 @@ This is the dedicated Sturgis episode of [[road-to-dallas]]; the host calls him 
 - Host: as a real combatant, Sturgis had status above the mercenary "riff raff"; Castro conferred the rank of captain on him and gave him two roles: director of security for the Cuban air force (where he met [[gerry-patrick-hemming]] at Pinar del Rio) and, from mid-1959, "minister of gambling", collecting casino taxes and renegotiating Batista-era deals with the mob owners to "make right with Cuba or get out". The host says this task ultimately turned Sturgis away from Castro and into the Florida paramilitary nexus; Chapter 4 (Lansky and Cuban gambling) follows. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 6:07-7:16, 36:19-36:56, 37:42-37:57)*
 - Major sponsor (or "popular front for sponsors") of Hemming's [[interpen]]; described as founder of its parent, the Anti-Communist International Brigade. Met [[loran-hall]] (as "Captain Frank Fiorini") in 1959. Also met Errol Flynn in Cuba, disappointed by his favorite actor's drunkenness (per *Warrior*). *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 7:02-7:31, 18:06-18:23, 32:17-32:34)*
 - Host speculates [[jack-cannon]] supplied Sturgis's planned Nicaragua invasion with Army surplus. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 24:09-24:33)*
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Per Hancock, Hunt/Risch and Peter Dale Scott, [[norman-rothman]] was the primary emissary between mafia casino interests and Castro's new gambling czar Sturgis in 1959-60; both relocated to Miami in 1960. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 23:41-24:13)*
+- Hemming (Argosy, 1993) listed Sturgis among the mob's "boys" in Cuba placed on both the Batista and Castro sides; the host notes Sturgis worked for Castro then, had mob ties via Rothman and "potential ties to US intelligence as we will come to see later". *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 24:49-26:01)*

@@ -8,6 +8,8 @@ relations:
     target: meyer-lansky
     note: "united the Jewish, Italian, and Irish mobs into this nationwide structure (per ewa/mafia-allies)"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
@@ -42,3 +44,8 @@ among its other bosses.
 - Host (citing Peter Dale Scott): gambling via the horse-racing wire service expanded local mobs nationally; wire-service wars in the 1930s; [[jimmy-hoffa]]'s Teamsters supplied a national network of union offices, cover jobs, trucking logistics and a pension fund "slush fund"; Hoffa truckers allegedly delivered guns to mob- and CIA-backed guerrillas in Florida bound for Cuba. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 51:53-55:25)*
 - Host: the syndicate acts as a "subterfuge appendage" and "slush fund and enforcement arm" for the legitimate Overworld; [[robert-f-kennedy]]'s crusade therefore threatened Overworld figures too; "emissaries" like [[robert-maheu]] and [[johnny-roselli]] bridge the worlds. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 36:16-36:42, 48:46-49:00, 55:42-56:57)*
 - Host: after Castro, Havana losses and the mob's alliance with the CIA against him; Las Vegas became the replacement and "massive money laundry". *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 33:32-33:48, 34:55-35:22)* See [[cia-mafia-assassination-plots]].
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Host: Prohibition produced the syndicate by linking Italian and Jewish gangs of the Northeast and South; formal establishment "supposedly" at the December 1946 [[havana-mob-conference-1946]], summed up as "avoid bad publicity and dissension in the ranks. No unnecessary wars", a rule the host says mostly held until at least the mid-1970s. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 0:41-0:56, 12:06-13:05)*
+- Its Cuban stake (Batista's casino monopoly from 1933) tied its financial future to Havana gambling and smuggling and cemented it as a player in later anti-Castro operations. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 2:32-2:51, 7:11-7:47)*

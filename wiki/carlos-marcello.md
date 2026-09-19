@@ -11,6 +11,8 @@ relations:
     target: central-intelligence-agency
     note: "role in future anti-Castro operations"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
@@ -45,3 +47,7 @@ Carlos Marcello (ASR "Marcelo") is the New Orleans crime boss whom [[eyes-wide-o
 
 
 - Host: a focus of RFK's organized-crime inquiries as Attorney General (with Hoffa and Giancana). *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 46:29-46:47)*
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Host: Phil Kastel (ASR "Castell") expanded the New York Syndicate into New Orleans but was forced to concede full control of Louisiana to rising boss Marcello, "another major player in plots related to the JFK assassination". *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 6:48-7:11)*

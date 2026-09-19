@@ -13,6 +13,8 @@ relations:
     target: operation-40
     note: "alleged honorary/adjunct presence; photos placing him near Op 40 and the Guatemala camp"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
     label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
@@ -42,3 +44,7 @@ Barry Seal is presented as Ferrie's teenage recruit who "eventually became a lon
 ## Additional claims (Bush and the CIA, Chapter 3)
 
 - Host: worked later as a commercial pilot for Hughes's TWA, likely as cover; speculated to have smuggled weapons possibly through the [[cay-sal]] airstrip. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 23:15-24:05)*
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Host, citing Daniel Hopsicker: the future legendary CIA pilot and narcotics trafficker was also flying guns to Cuba in the mob-run 1959 network, alongside [[edward-browder]] and [[david-ferrie]], hinting at an early Gulf Coast CIA-mafia alliance. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 20:47-21:34)*

@@ -21,7 +21,12 @@ relations:
     note: "wrongly (per host) placed at Sylvia Odio's door by an FBI report; partial confession later retracted"
   - relation: alleged_by
     target: eyes-wide-open
+  - relation: associate_of
+    target: santo-trafficante
+    note: "shared a Cuban jail cell in 1959"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
     label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
 ---
@@ -41,3 +46,8 @@ Loran Eugene Hall (ASR "Lauren Eugene Hall"; also "Lorenzo Hall", given as an al
 ## Relationships
 
 - Recruit of [[gerry-patrick-hemming]] and member of [[interpen]]; met [[frank-sturgis]] in Havana 1959; linked via [[odio-incident]] to [[lee-harvey-oswald]] and the [[kennedy-assassination]] (contested).
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Per his FBI file, shared a Cuban jail cell with [[santo-trafficante]] (1959); [[gerry-patrick-hemming]] met him there as a fellow prisoner and, per the same document, did not see him again until January 1963 in Los Angeles; Hall then followed Hemming to Florida as a "groupy" around [[interpen]]. Hemming denies Hall was a member; the host doubts that. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 15:25-17:06)*
+- Host: Hall's cell also connects him to the "gangster named Ruby" who visited Trafficante ([[jack-ruby]]); asks why the Warren Commission never asked Hall about it. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 17:13-18:35)*

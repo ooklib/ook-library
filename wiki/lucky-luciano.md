@@ -27,6 +27,8 @@ relations:
     target: thomas-dewey
     note: "Dewey imprisoned him in 1936 as state attorney, then approved his 1946 parole/extradition as governor (per ewa/red-scare)"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
@@ -92,3 +94,8 @@ CIA's later mafia alliances.
 ## Additional claims (CIA-Mafia Legend)
 
 - Host: NY Dewey prosecution, 1936 arrest on prostitution charges, deported to Sicily in 1946; in exile helped establish the French heroin connection through Corsican gangsters in Marseille, in the host's telling reflecting the mob's origin as strikebreakers; the host classifies Luciano as a prosecutable "street" figure unlike Lansky. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 40:32-40:40, 47:44-48:48)*
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Convicted on prostitution charges in 1936 by [[thomas-dewey]], leaving [[meyer-lansky]] in charge; held in Clinton Correctional Facility ("Siberia") for a decade; Dewey later released him, apparently for alleged wartime help securing New York docks and off-the-books advice on the Sicily invasion ([[operation-underworld]]). *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 1:27-2:32)*
+- Smuggled to Havana in December 1946 for the [[havana-mob-conference-1946]] to reaffirm his top-boss status from Sicily; bosses gave him cash envelopes; the host says many speculate he oversaw the Marseilles heroin connection into the early 1950s. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 9:22-10:58)*

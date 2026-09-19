@@ -14,6 +14,8 @@ relations:
     target: lee-harvey-oswald
     note: "Hemming claimed to have met Oswald in Los Angeles in 1959; host treats the account as questionable"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
@@ -43,3 +45,9 @@ Gerry Patrick Hemming (ASR: "Jerry Patrick Heming" throughout the transcript; th
 - Per Hemming's FBI file (host): Hemming joined Sturgis in Cuba around February 1959; by April 1960 the file says he "was then employed by the Cuban Revolutionary Air Force at San Julian as a parachutist and was then engaged in training Nicaraguans", showing the Nicaragua invasion plans persisted through the first two years of the regime. He met Sturgis (air-force security chief) while serving as a paratrooper at Pinar del Rio, and the link lasted through the secret war; the origins of [[interpen]] lie there. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 5:01-5:50, 6:46-7:57)*
 - In 1978 HSCA testimony he identified "Jack Sheay" as really Jack Cannon (two N's), naming him among Americans working with Camilo Cienfuegos; see [[jack-cannon]]. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 19:00-20:37)*
 - Told Senate investigators he believed [[loran-hall]] ("Lorenzo Hall") was involved in the JFK assassination, and in the 1993 Argosy interview said Hall was in Dallas that day. Host: the willingness of Hemming's men to accuse one another is why the network is "problematic" and fuels his speculation they were "distractions". *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 8:26-9:52)*
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Argosy 1993 interview with Dick Russell (via host): asked about the mafia and Ruby, said the mob in 1958 "was trying to get their boys into Cuba. Sturgis, Johnny Devo, Jack Cannon, Herman Marx", on both sides, and later tried hits on Fidel in 1959-60; when Russell noted these predate CIA attempts, Hemming: "they all know one another... Quite a few of the people who had worked for the agency and had gotten into a little trouble went to work for people that knew mob people or Howard Hughes people. Everybody gets to know everybody else." *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 24:24-25:50)* (See [[howard-hughes]].)
+- Johnny Devo (Johnny Mitchell Devo): the host notes he is alleged by many to be the man photographed impersonating Oswald in Mexico City in 1963 ([[lee-harvey-oswald]]); a Patreon-exclusive short is promised. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 26:01-26:38)*
+- Met [[loran-hall]] while imprisoned in Cuba; denies Hall was in [[interpen]]. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 15:38-16:52)*

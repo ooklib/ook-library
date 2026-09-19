@@ -9,7 +9,15 @@ relations:
     note: "received Sicilian-shipped heroin at his Cuban labs for cutting/processing (per ewa/mafia-allies)"
   - relation: participated_in
     target: operation-x
+  - relation: associate_of
+    target: norman-rothman
+    note: "Rothman managed his Havana casinos and arms procurement (per ewa/dallas-4)"
+  - relation: associate_of
+    target: lewis-mcwillie
+    note: "McWillie managed his Tropicana club"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
@@ -59,3 +67,11 @@ up especially in relation to the Kennedy assassination" in later episodes.
 
 
 - Host: reintegrated by [[william-harvey]] with Roselli in November 1961. See [[zr-rifle]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:09:55-1:10:52)*
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Moved to Cuba for a time after 1955 and became the second most prominent mob operator in Havana after [[meyer-lansky]], owning the entire Sans Souci club (ASR "Sasu Sea"), major portions of the Tropicana, and rumored to have put money into the Havana Hilton. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 13:16-13:48)*
+- Stayed after Castro took power to test a deal; arrested by Castro's forces and detained for most of 1959. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 15:06-15:25)*
+- Shared a Cuban cell with [[loran-hall]] (per Hall's FBI file: "Hall shared a cell in the Cuban jail with Santos Trafficante, well-known gambler and hoodlum of Tampa and Miami"); [[gerry-patrick-hemming]] first met Hall as a fellow prisoner around then and knew Hall as "the cellmate of the far more prominent" Trafficante. Host says the relationship carried over when both were back in Florida (promised for later). *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 15:25-17:13)*
+- Per Jim Hougan (*Spooks*), citing a CIA report, he was "frequently visited by an American gangster named Ruby"; the host infers this was [[jack-ruby]] given Ruby's closeness to [[lewis-mcwillie]]. Host asks why Hall was never asked at the Warren Commission whether he recalled Ruby. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 17:13-18:35)*
+- Ran, through [[norman-rothman]] and McWillie, the gun-running network to Cuba. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 21:57-22:30)*

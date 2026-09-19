@@ -8,6 +8,8 @@ relations:
     target: operation-x
     note: "Teamsters Union trucks distributed Operation X heroin across the US (per ewa/mafia-allies)"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
@@ -38,3 +40,7 @@ John and Robert Kennedy.
 
 
 - Davidson worked to prove Hoffa's innocence after his sentence to 13 years; per John Davis he had earlier used Hoffa to get a Teamsters pension loan for [[clint-murchison]]; Hoffa was freed Dec 23, 1971 by [[richard-nixon]]'s commutation ("time served"). Host speculates on a Nixon-Davidson link via Del Charro. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 41:24-42:41)* See [[irving-davidson]].
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Per Doc Stacher (via the host): [[meyer-lansky]] and the New York gangsters first met Hoffa through Moe Dalitz, who knew him from Detroit's Purple Gang as Hoffa began taking over the Teamsters there; Hoffa later commandeered the Teamsters Pension Fund, "one of the mob's most significant piggy banks". *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 6:15-6:48)*

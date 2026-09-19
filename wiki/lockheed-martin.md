@@ -60,6 +60,8 @@ relations:
     target: area-6
     note: "operates Area 6's aerial operations facility (UAV testing) on the NNSS"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/lockheed.md
@@ -265,3 +267,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 
 
 - Only passing mention: the host says JFK allegedly offered [[richard-bissell]] the job of developing "what would eventually become the Lockheed A12 spy plane," the U-2 replacement. No UFO link is made in this transcript. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 15:54-16:07)*
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Host: [[yoshio-kodama]] reemerged in the 1970s as an off-the-books Lockheed consultant in Japan, swaying All Nippon Airways to buy the L-1011: the Japanese component of the Lockheed bribery scandal, to be revisited in a future video. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 29:15-29:40)*

@@ -10,7 +10,15 @@ relations:
   - relation: participated_in
     target: kennedy-assassination
     note: "killed Lee Harvey Oswald"
+  - relation: associate_of
+    target: lewis-mcwillie
+    note: "friend since 1951; McWillie was his "idol""
+  - relation: associate_of
+    target: edward-browder
+    note: "Browder named as a pilot in the Ruby/McWillie gun operation"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
@@ -46,3 +54,10 @@ Jack Ruby (Rubenstein), the Dallas nightclub owner who killed [[lee-harvey-oswal
 ## Additional claims (The Road to Dallas Chapter 1, ewa/dallas-1)
 
 - Host: Ruby (called the "future Lee Harvey Oswald assassin") and [[david-ferrie]] got their start running guns to Cuba during the [[cuban-revolution]]; arms trafficking to Cuba was driven largely by organized crime and intelligence assets. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 7:01-7:32)*
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Per HSCA testimony of [[lewis-mcwillie]] (known Ruby since 1951 in Dallas) and Larry Hancock, Ruby called McWillie his "idol"; the host says his organized-crime ties went unexplored by the Warren Commission. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 14:06-14:52)*
+- Reportedly with McWillie coordinated and personally participated in 1959 gun shipments to Castro from the southern US for [[santo-trafficante]] interests; [[edward-browder]] flew for the operation. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 18:35-19:26)*
+- Per Hougan citing a CIA report, an "American gangster named Ruby" frequently visited Trafficante in Cuban detention (host's inference: Jack Ruby), where Trafficante's cellmate was [[loran-hall]]. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 17:20-18:35)*
+- Host: Ruby and McWillie were low-level "foot soldiers"; supervision came from [[norman-rothman]]. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 21:34-22:03)*

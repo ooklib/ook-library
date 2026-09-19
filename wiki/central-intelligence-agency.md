@@ -47,6 +47,8 @@ relations:
     target: cia-international-organizations-division
     note: "front-group and propaganda directorate"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/saic.md
@@ -193,3 +195,7 @@ shared organization page.
 ## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
 
 - `ewa/dallas-2`: host profiles [[david-atlee-phillips]] and describes the 1959 Havana station; see [[cuban-revolution]] and [[lebanon-crisis-1958]]. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 5:44)*
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Host: CIA-affiliated pilots ([[edward-browder]], [[barry-seal]], [[david-ferrie]]) rubbing shoulders with mob gun smuggling "hints at an earlier CIA-mafia alliance on the Gulf Coast" than the Castro assassination plots. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 20:40-21:34)*

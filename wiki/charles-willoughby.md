@@ -9,7 +9,12 @@ relations:
     note: "host: later worked closely with the Texas Raj in funding far-right causes and the militia movement"
   - relation: alleged_by
     target: eyes-wide-open
+  - relation: associate_of
+    target: yoshio-kodama
+    note: "his G2 helped secure Kodama's 1948 release from Sugamo"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
@@ -42,3 +47,7 @@ General Charles Willoughby was Douglas MacArthur's intelligence chief in the Pac
 ## Additional claims (ewa/dallas-3)
 
 - Host (via Yoshiko Yamaguchi's memoir) places [[jack-cannon]] under Willoughby in postwar Japan, leading a "Zed unit"; Willoughby is called Cannon's "former boss and mentor" and the upcoming episodes will tie his Japan work to the Cuba work. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 28:43-29:05, 32:42-33:10)*
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Host: his G2 army-intelligence contingent in postwar Japan (including [[jack-cannon]]) helped secure [[yoshio-kodama]]'s 1948 release from Sugamo prison; Willoughby "and his deputy Cannon" worked behind the scenes to bring Kodama "into the US fold". The host promises fuller coverage of Willoughby in Japan later. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 27:43-29:09)*

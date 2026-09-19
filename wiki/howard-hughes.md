@@ -8,6 +8,8 @@ relations:
     target: pan-american-airways
     note: "rival in the 1947 Senate investigation; both later Vietnam-era beneficiaries"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
     label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
@@ -77,3 +79,7 @@ page also covers his firms Hughes Aircraft Company and Transworld Airline (TWA).
 - Per a 1958 FBI memo as read by the host, Hughes leased [[cay-sal]] a year before [[zapata-offshore]] leased the adjacent plot, via middleman Clarence O. Moody, "Hughes's middleman in delivering support to the Cuban exiles"; Hughes was "completely embedded" in Zapata Offshore's South Florida operations, and a Hughes front (Panella's Fish Company, Marathon, Florida) served as a helipad for Hughes Tool Company helicopters. Host: a possibly Hughes-funded No Name Key exile group. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 20:43-22:28)*
 - Host: Hughes Enterprises and TWA provided intelligence cover for agency-linked assets, e.g. [[barry-seal]] flew for TWA. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 23:44-24:05)*
 - Host speculation: Bush may have corresponded with Hughes in the late 1940s-early 1950s while at [[dresser-industries]], which was negotiating to buy Hughes Tool's patented drill bit; the deal went nowhere. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 24:05-24:37)*
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Host: Moe Dalitz's Desert Inn was later purchased and lived in by Hughes (cf. the CIA-mafia plots video); Hemming (Argosy 1993) says ex-CIA people in trouble went to work for "people that knew mob people or Howard Hughes people". *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 6:02-6:08, 25:26-25:50)*

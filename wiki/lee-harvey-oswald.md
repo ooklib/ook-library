@@ -16,6 +16,8 @@ relations:
     target: george-de-mohrenschildt
     note: "close friendship alleged (host)"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
@@ -58,3 +60,7 @@ Lee Harvey Oswald is treated by [[eyes-wide-open]] only in his pre-assassination
 ## Additional claims (ewa/dallas-3)
 
 - Host summarizes the [[odio-incident]]: Sylvia Odio and her sister said a man introduced as "Leon Oswald" visited her Dallas apartment in September 1963 with two other men; host says the FBI later steered the Warren Commission to name [[loran-hall]], Lawrence Howard and William Seymour, and hints Oswald himself may have fed information to the FBI. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 12:07-13:20, 16:12-16:29)*
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Host: Johnny (Mitchell) Devo, named by [[gerry-patrick-hemming]] as one of the mob's boys in Cuba, is alleged by many to be the man photographed posing as Oswald in Mexico City in 1963. Also mentions [[david-ferrie]] as Oswald's suspected recruiter. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 26:01-26:20, 21:01-21:15)*

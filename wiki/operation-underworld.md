@@ -13,6 +13,8 @@ relations:
     target: operation-x
     note: "Eyes Wide Open presents this wartime deal as the precedent for Operation X's postwar mafia partnership"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
 ---
@@ -40,3 +42,7 @@ figures, struck after the 1942 SS Normandie fire, trading dock security for
 
 - ONI recruited [[lucky-luciano]] and his dock union; presented by Eyes Wide Open as the direct
   precedent for [[operation-x]]'s CIA-Mafia partnership model.
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Host recaps: Dewey released [[lucky-luciano]] in the mid-1940s apparently in return for alleged wartime support securing New York docks and off-the-books advice on the invasion of Sicily under this ONI operation, covered in episode 3 of the History of the CIA series. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 1:54-2:20)*

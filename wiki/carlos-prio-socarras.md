@@ -11,6 +11,8 @@ relations:
     target: frank-sturgis
     note: "Sturgis's Cuban aunt's family was close to Prio, per Warrior via the host"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
 ---
@@ -26,3 +28,7 @@ Carlos Prio Socarras was the Cuban president overthrown by Fulgencio Batista's 1
 ## Relationships
 
 - Financier of the [[cuban-revolution]]; overthrown by Batista (see [[cuban-revolution]]).
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Overthrown by [[fulgencio-batista]]'s 1952 military coup, beginning the "brutal dictatorship" until 1959. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 4:25-4:45)*

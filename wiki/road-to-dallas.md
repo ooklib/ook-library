@@ -11,6 +11,8 @@ relations:
     target: structural-deep-event
     note: "series applies Scott's structural-deep-event frame to the JFK case"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
     label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
@@ -66,3 +68,7 @@ sources:
 ## Chapter 3 (ewa/dallas-3): Cactus Jack Canon Does Havana
 
 Dated 2025-11-28. Covers [[jack-cannon]]'s Fort Hood court-martial and ordnance promotion, the "Jack Shea" alias theory, Havana's 1959 soldier-of-fortune scene ([[loran-hall]], [[interpen]] origins, the [[odio-incident]] preview), Cannon's alleged tourist-police cover, and the early-1959 Havana CIA station; ends with [[frank-sturgis]] as Castro's "minister of gambling". Next: chapter 4 on [[meyer-lansky]] and the Cuban gambling syndicates (host, 37:42). No UFO, Tesla, Cheney or secret-society content. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 37:42-37:57)*
+
+## Chapter 4 - Meyer Lansky (ewa/dallas-4)
+
+Published 2025-12-05 (Patreon release May 17, 2025). Covers the mob's Cuba history under [[meyer-lansky]] and [[fulgencio-batista]], the [[havana-mob-conference-1946]], [[santo-trafficante]]'s 1959 detention with [[loran-hall]] and the reported visits by "Ruby", the mob gun network ([[lewis-mcwillie]], [[jack-ruby]], [[edward-browder]], [[norman-rothman]]), and [[jack-cannon]]'s Yakuza ties ([[yoshio-kodama]]). Host: the arms-smuggling networks give "the framework for the eventual assassination". *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 30:33-30:58)* The host previews the final Cuban-segment chapter (Dec. 12): Frank Brandansteader (ASR), army-intelligence officer turned manager of the Havana Hilton. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 32:52-33:20)*

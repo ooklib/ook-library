@@ -8,6 +8,8 @@ relations:
     target: bay-of-pigs-invasion
     note: "host: bonds formed in the revolution carried into the anti-Castro exile network of the early 1960s (host thesis)"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
@@ -50,3 +52,8 @@ The Cuban Revolution as framed by [[eyes-wide-open]] in Chapter 1 of [[road-to-d
 - Host's hypothesis: Fort Hood and [[jack-cannon]] were vectors of US Army surplus weapons to Cuba, first to the revolutionary army and later to the anti-Castro underground (speculation, no smoking gun). *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 3:00-3:17, 24:33-25:05)*
 - Camilo Cienfuegos, commander of the armed forces, disappeared when his plane went missing in October 1959; circumstances unclear, with speculation of a role by Raul Castro. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 19:09-20:04)*
 - Early 1959 Havana CIA station was "loaded with top covert operations men" scouting recruits for the [[bay-of-pigs-invasion]] and later [[operation-mongoose]]; see [[david-atlee-phillips]], [[david-sanchez-morales]], [[e-howard-hunt]]. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 33:10-34:59)*
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Mob view: the [[national-crime-syndicate]] had run Havana gambling under [[fulgencio-batista]] since 1933; [[meyer-lansky]] left weeks before Castro took power, [[santo-trafficante]] stayed and was jailed in 1959. Mob-run gun-smuggling to Castro after the revolution ([[lewis-mcwillie]], [[jack-ruby]], [[norman-rothman]], pilot [[edward-browder]]) is described as the "framework" for later events. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 14:52-15:25, 30:33-30:58)*
+- Host: the mob wanted "their boys" on both the Batista and Castro sides (Hemming, via host). *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 24:49-25:14)*

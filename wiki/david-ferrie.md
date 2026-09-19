@@ -14,6 +14,8 @@ relations:
     target: civil-air-patrol
     note: "leader of Louisiana squadron"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
     label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
@@ -40,3 +42,7 @@ David Ferrie (ASR "Ferry"; source list spells Ferrie) led the Louisiana [[civil-
 ## Additional claims (The Road to Dallas Chapter 1, ewa/dallas-1)
 
 - Host: Ferrie, a "Louisiana Civil Air Patrol pilot and long-standing CIA asset", and [[jack-ruby]] both got their start running guns to Cuba during the [[cuban-revolution]], helping procure US surplus military gear for Castro through intelligence connections. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 6:44-7:19)*
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Host: described as Oswald's suspected recruiter, Civil Air Patrol leader and suspected CIA asset, flying guns to Cuba out of Louisiana in the same 1959 period as the mob gun network; one of three CIA-affiliated pilots (with [[barry-seal]], [[edward-browder]]). *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 21:01-21:34)*

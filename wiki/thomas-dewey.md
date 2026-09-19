@@ -20,6 +20,8 @@ relations:
     target: resorts-international
     note: "1950s investor in predecessor Mary Carter Paint Company"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
@@ -57,3 +59,7 @@ investment in what became [[resorts-international]].
 ## Additional claims (CIA-Mafia Legend)
 
 - Host: as NY DA in the 1930s his war on Italian mobsters led to [[lucky-luciano]]'s 1936 arrest; as governor he deported Luciano in 1946; host says Hoover's and Dewey's later dealings with the underworld undercut serious efforts against the top of the hierarchy. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 40:24-41:44, 47:52-47:58)*
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- Host: as attorney general (prosecutor) he convicted [[lucky-luciano]] in 1936, chosen as an "attack dog" against the mob by Governor Herbert Lehman (the host notes he is the son of Meyer Lehman of Lehman Brothers); as governor he later released Luciano, apparently for wartime help ([[operation-underworld]]). *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 1:34-2:20)*

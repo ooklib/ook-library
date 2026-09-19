@@ -11,7 +11,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
 `gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`,
 `rjm/city-of-london`, `mpu/secret-society`, `ewa/oss`, `ewa/sunrise`, `ewa/mafia-allies`,
-`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`, `ewa/laos-4`, `ewa/war-conspiracy-1`, `ewa/war-conspiracy-2`, `ewa/operation-40`, `ewa/cia-mafia`, `ewa/bush-1`, `ewa/bush-2`, `ewa/bush-3`, `ewa/jfk-cia`, `ewa/shackley`, `ewa/jmwave`, `ewa/dallas-0`, `ewa/dallas-1`, `ewa/dallas-2`, `ewa/dallas-3`).
+`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`, `ewa/laos-4`, `ewa/war-conspiracy-1`, `ewa/war-conspiracy-2`, `ewa/operation-40`, `ewa/cia-mafia`, `ewa/bush-1`, `ewa/bush-2`, `ewa/bush-3`, `ewa/jfk-cia`, `ewa/shackley`, `ewa/jmwave`, `ewa/dallas-0`, `ewa/dallas-1`, `ewa/dallas-2`, `ewa/dallas-3`, `ewa/dallas-4`).
 
 Note: the wiki spans four topic areas — the original alleged "UFO legacy programs" ecosystem
 (MITRE, SAIC, NRO, Lockheed, etc.), a British power-structures thread (Fabian Society, Chatham
@@ -309,3 +309,5 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[non-aligned-movement]] · [[relation-types]] · [[yankee-cowboy-thesis]] ·
 [[strategy-of-tension]] · [[pan-europa-movement]] · [[cia-drug-paradigm]] · [[narco-counterinsurgency]] · [[hmong-people]] · [[yamashita-gold]] · [[war-conspiracy]] · [[military-industrial-complex]] · [[new-look-policy]]
 [[the-third-option]] — Shackley's covert-action doctrine and books; source-reliability notes — added by `ewa/shackley`.
+
+[[norman-rothman]] — mob casino manager/arms procurer, Trafficante-Sturgis emissary · [[lewis-mcwillie]] — Havana casino man, Ruby's friend · [[edward-browder]] — CIA-linked gun-running pilot · [[fulgencio-batista]] — Cuban dictator, Lansky's casino partner · [[yoshio-kodama]] — Japanese Yakuza boss tied to Willoughby/Cannon and Lockheed · [[havana-mob-conference-1946]] — Hotel Nacional mob summit (event) — added by `ewa/dallas-4`.

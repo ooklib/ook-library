@@ -13,6 +13,8 @@ relations:
   - relation: investigates
     target: operation-gladio
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
     label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
@@ -230,3 +232,7 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 ## Additional (ewa/dallas-3)
 
 - Chapter 3 of [[road-to-dallas]] (2025-11-28): [[jack-cannon]], [[loran-hall]], [[interpen]], [[odio-incident]]. The host says the video was first available to Patreon producer-tier patrons on April 26, 2025 (as spoken), and mentions a new series on the history of modern Japan. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 37:07-37:42)*
+
+## Road to Dallas Ch. 4 (ewa/dallas-4)
+
+Host mentions a Patreon series on the history of modern Japan and that the final chapter script had reached about 60 pages; the Cuban segment of [[road-to-dallas]] ends with the following chapter (Dec. 12). *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 31:34-33:20)*

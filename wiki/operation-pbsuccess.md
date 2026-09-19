@@ -14,6 +14,8 @@ relations:
     target: civil-air-transport
     note: "CAT pilots contracted for the CIA air force"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
+    label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
@@ -62,3 +64,7 @@ Operation PBSuccess (1954) is the CIA coup that overthrew Guatemala's elected go
 - Host: PBSuccess was the blueprint for the Bay of Pigs ([[bay-of-pigs-invasion]]) and "ground zero" for the CIA Caribbean team on the Gulf Coast; many PBSuccess planners were staffed at the 1959 Havana station. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 1:06, 5:00)*
 
 - Che Guevara claim: per Guevara's own words as quoted by the host, the overthrow of [[jacobo-arbenz]] (he was in Guatemala at the time and tried in vain to organize resistance) was the definitive event that inspired him to begin guerrilla activity, ending in his support of [[fidel-castro]]. Guevara's quote names [[john-foster-dulles]] as the visible head of the aggression and as a stockholder and attorney of [[united-fruit-company]]; the host adds that Allen Dulles ran the CIA side. Host: PBSuccess thus formed the CIA team behind anti-Castro activity and also "radicalized" a key revolutionary, making it a "fundamental deep event" of Cold War Latin American history. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 11:52, 13:17)*
+
+## Additional claims (Road to Dallas Ch. 4)
+
+- A 1955 FBI file places pilot [[edward-browder]] Jr. as a gun runner for this 1954 Guatemala coup; the host says it hints at an intelligence angle in the mob's Cuba gun network. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 19:19-20:40)*
