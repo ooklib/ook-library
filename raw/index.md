@@ -102,6 +102,7 @@ Do not "fix" this without also touching every citing wiki page.
 | `gerb/weygandt` | `raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md` | 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb) |
 | `gerb/aztec` | `raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md` | The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb) |
 | `gerb/castle` | `raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md` | 1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb) |
+| `gerb/timeline` | `raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md` | 80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb) |
 | `a52/fox` | `raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md` | The Greatest Case of an Alien Encounter of our Time - James Fox \| DEBRIEFED ep. 70 (Area52) |
 | `a52/coulthart` | `raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md` | The DANGEROUS Truth About UFOs - Ross Coulthart \| DEBRIEFED ep. 76 (Area52) |
 | `a52/lazar-everything` | `raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md` | Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52) |
