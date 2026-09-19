@@ -1,7 +1,7 @@
 ---
 title: Bigot List
 kind: concept
-aliases: [[bigot list, BIGOT list]]
+aliases: [bigot list, BIGOT list]
 tags: [[sap, security, wilson-davis-notes]]
 relations:
   - relation: part_of

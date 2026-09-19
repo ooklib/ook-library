@@ -1,7 +1,7 @@
 ---
 title: James Rigney
 kind: person
-aliases: [[Rigney, James Rigny, Ry, rigny]]
+aliases: [Rigney, James Rigny, Ry, rigny]
 tags: [[leaker, wilson-davis-notes, apollo-astronauts]]
 relations:
   - relation: alleged_by

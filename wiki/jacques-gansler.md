@@ -1,7 +1,7 @@
 ---
 title: Jacques Gansler
 kind: person
-aliases: [[gansler, geler, Jacques Gansler]]
+aliases: [gansler, geler, Jacques Gansler]
 tags: [[dod, usd-at, wilson-davis-notes]]
 relations:
   - relation: alleged_by

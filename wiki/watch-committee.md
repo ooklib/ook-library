@@ -1,7 +1,7 @@
 ---
 title: Watch Committee (Wilson-Davis notes)
 kind: concept
-aliases: [[watch committee, the watch committee]]
+aliases: [watch committee, the watch committee]
 tags: [[legacy-program, sap, wilson-davis-notes, gatekeeper]]
 relations:
   - relation: alleged_by

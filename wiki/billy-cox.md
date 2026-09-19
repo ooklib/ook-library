@@ -1,7 +1,7 @@
 ---
 title: Billy Cox
 kind: person
-aliases: [[Bill Cox]]
+aliases: [Bill Cox]
 tags: [[journalist, wilson-davis-notes]]
 relations:
   - relation: investigates

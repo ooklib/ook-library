@@ -1,7 +1,7 @@
 ---
 title: H. Marshall Ward
 kind: person
-aliases: [[Marshall Ward, General Ward, Michael Ward, Mike Ward]]
+aliases: [Marshall Ward, General Ward, Michael Ward, Mike Ward]
 tags: [[usaf, sap, wilson-davis-notes]]
 relations:
   - relation: alleged_by
