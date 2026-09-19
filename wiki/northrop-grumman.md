@@ -49,6 +49,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Northrop Grumman has primary offices in [[crystal-city-virginia|Crystal City]] and is listed
@@ -165,3 +167,7 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
 - [[karl-nell]] served 13 years as Northrop's deputy CTO; the 1968 NORAIR electro-aerodynamics paper (allegedly pulled in 2002 per Nick Cook's source) and the [[b-2-stealth-bomber]] link it to [[electrogravitics]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 23:00-25:56)*
 - [[bill-hamilton]]'s Cosmic Top Secret (1992) accuses the [[tahone-radar-cross-section-facility]] and an underground installation of being a UAP facility; [[richard-sauder]] claims a high degree of certainty that Northrop and Lockheed run heavily engaged unconventional underground research. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 26:04-33:04)*
 - Whistleblower links: [[edgar-fuche]] (TR-3B primes), [[colonel-steve-wilson]] (anti-gravity disc built by Northrop northeast of Lancaster; XH-75D at [[teledyne-ryan]]), [[arnold-house]] and [[project-red-light]] (Northrop paychecks at Area 51). Gerb's thesis: Northrop, Lockheed, Boeing, Raytheon and SAIC are the project managers across service compartments, and Northrop is "up to their eyeballs" in ongoing work. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 34:49-55:44, 56:53-1:02:34)*
+
+## Additional claims (gerb/tr-3b)
+
+- Gerb defers a planned look at a Northrop-built triangle variant; the two Northrop engineers who spoke to [[bill-mcdonald]] worked at the Tejon/Tehachapi site ([[xf-131-super-sentinel]], [[tahone-radar-cross-section-facility]]), and the B-2 is claimed to carry electrogravitic mass-reduction ([[electrogravitics]], [[b-2-stealth-bomber]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 34:26-34:42, 38:38-39:54, 57:42-58:42)*

@@ -14,6 +14,8 @@ relations:
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 The Defense Advanced Research Center (DARC) — not to be confused with DARPA — is a UFO-lore
@@ -38,3 +40,7 @@ Lake, working on UFO reverse engineering and material exploitation.
 
 - Alleged by [[edgar-fuche]]; linked in ARPA documentation to
   [[army-ballistic-missile-agency]]; allegedly SDI-funded.
+
+## Additional claims (gerb/tr-3b)
+
+- Gerb notes DARC is distinct from [[darpa]]: the 1973 ARPA history (p. 82) records a DOD directive considering transfer of the [[army-ballistic-missile-agency]] (then under [[wernher-von-braun]], a Paperclip transfer whose mentor was [[hermann-oberth]]) into a proposed "Defense Advanced Research Center", linked to the [[jet-propulsion-laboratory]]. [[edgar-fuche]] claims to have been recruited from Edwards to work there in 1979, describes it as 10 underground stories near Papoose Lake with a hangar holding a TR-3B, and says it was fully realized in the mid-1980s with [[strategic-defense-initiative]] money and built by [[eg-and-g]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 11:34-13:01, 23:03-24:48)*

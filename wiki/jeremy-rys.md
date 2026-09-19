@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Jeremy Rys runs the YouTube channel Alien Scientist, which the episode description says covers UFOs and the science behind them for about 20 years. Jesse Michels introduces him at the start of the Sheehan episode as a fellow participant, and he speaks in the opening segment about the 2025 JFK document release. The name is spelled "Riss" in the ASR transcript.
@@ -22,3 +24,7 @@ Jeremy Rys runs the YouTube channel Alien Scientist, which the episode descripti
 ## Relationships
 
 - Fellow participant with [[jesse-michels]] in [[sheehan-michels-interview-2025]].
+
+## Additional claims (gerb/tr-3b)
+
+- Cited under the ASR-style spelling "Jeremy Rice" (alienscientist.com): once a friend of [[edgar-fuche]], later a critic who called the TR-3B fabricated; see [[fouche-controversy]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 45:34-47:47)*

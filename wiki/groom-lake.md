@@ -15,6 +15,8 @@ sources:
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Groom Lake is the Nevada test site commonly called Area 51. In the 1995 lecture ([[schneider-las-vegas-lecture-1995]]) [[phil-schneider]] says he worked 11 of his 17 government years at "Groom Lake, S-4, S-2", "in the Nellis Air Force Base area" *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 4:40)*. He claims the base has been extended by underground additions, that a small "sport model" flying saucer is occasionally seen there, and that he did ground-only "test piloting" (running aircraft along special runways) *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 9:50, 32:43, 1:01:40)*. He also says photographing the area can get equipment confiscated and bring up to five years and a million-dollar fine, that Nevada is 81 percent federally owned or restricted, and that nine underground mountain bases lie in the Nellis area north of Las Vegas *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 30:37, 53:38)*. He cites a Popular Science article on the "secret air base the government doesn't want you to know" and says an editor of the magazine is now in federal prison (unverified) *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 1:01:08)*. Compare [[bob-lazar]]'s S-4 claims and [[popular-mechanics-new-area-51-1997]].
@@ -26,3 +28,7 @@ Groom Lake is the Nevada test site commonly called Area 51. In the 1995 lecture 
 ## Claims (jm/sheehan)
 
 - Sheehan's [[oscar-wolf-s4-account]] places a live extraterrestrial and hovering craft at S-4 in Area 51, echoing Bob Lazar. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:50:22)*
+
+## Additional claims (gerb/tr-3b)
+
+- [[edgar-fuche]]'s 1979 Groom Lake posting (Detachment 3, AFFTC), the [[defense-advanced-research-center]] near Papoose Lake, and the alleged 1992 relocation of exotic aircraft away from Area 51; Jane's writer James Goodall reported a silent triangle among eight black programs there in 1990. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 20:38-27:04)*

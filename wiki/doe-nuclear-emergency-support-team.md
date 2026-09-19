@@ -24,6 +24,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 The US government's premier response unit for radiological/nuclear accidents or incidents,
@@ -70,3 +72,7 @@ authority derives from the 1954 Atomic Energy Agreement. *([gerb/nro](../raw/ger
   alleged on-site component of [[national-reconnaissance-office]]-linked crash retrieval teams;
   referenced in [[jonathan-weygandt]]'s testimony; works with
   [[office-of-secure-transportation]].
+
+## Additional claims (gerb/tr-3b)
+
+- Gerb notes [[eg-and-g]] supports NEST and that Sandia and Livermore are NEST partners, as part of the web of tie-ins around [[edgar-fuche]]'s [[project-red-light]] claim. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 25:11-25:20, 1:10:28-1:10:36)*

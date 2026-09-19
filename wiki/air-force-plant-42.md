@@ -20,6 +20,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Air Force Plant 42, in Palmdale, California, is a government-operated airfield complex in the
@@ -74,3 +76,7 @@ Wright-Patterson AFB]]. *([gerb/lockheed](../raw/gerb/lockheed.md) 45:51–46:34
 - Hosts [[skunk-works]] (Lockheed), Boeing Phantom Works, and Northrop's
   [[northrop-advanced-technology-and-design-center]] ([[northrop-grumman]]).
 - Permanent [[air-force-office-of-special-investigations|AFOSI/PJ]] station.
+
+## Additional claims (gerb/tr-3b)
+
+- The 1994 [[boscombe-down-crash-1994]] wreck was reportedly flown to Plant 42 at Palmdale; Gerb also groups Plant 42 and Helendale near Edwards as alleged reverse-engineering locations ([[xf-131-super-sentinel]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 40:48-40:57, 59:12-59:26)*

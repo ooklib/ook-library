@@ -19,6 +19,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Project Red Light is an alleged Area 51 program to fly and exploit recovered UFOs and alien reproduction vehicles. [[uap-gerb]] traces the name through several sources and speculates that [[northrop-grumman]] managed it. All of it is unverified.
@@ -33,3 +35,7 @@ Project Red Light is an alleged Area 51 program to fly and exploit recovered UFO
 ## Relationships
 
 - Tied to [[edwards-air-force-base]], [[antelope-valley]], [[northrop-grumman]], [[eg-and-g]]; see [[northrop-investigation-video-2025]].
+
+## Additional claims (gerb/tr-3b)
+
+- Fouche says EG&G held an indefinite DOE contract for Project Red Light covering nuclear-material recovery and security of classified sites; Gerb notes [[leonard-stringfield]]'s crash-retrieval status reports relayed a witness claim that it tested NHI and reverse-engineered craft on the Nellis range after they were shipped from [[edwards-air-force-base]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 25:03-25:38)* See [[eg-and-g]], [[edgar-fuche]].

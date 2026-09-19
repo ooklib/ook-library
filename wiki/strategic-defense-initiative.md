@@ -48,6 +48,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 President Ronald Reagan's 1983 Strategic Defense Initiative (SDI, "Star Wars") was a proposed
@@ -141,3 +143,7 @@ programs.
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video: [[northrop-grumman]] ran C4ISR and built the first space laser radar (1983), [[teledyne-ryan]] made aerial targets and sensors, and [[trw]] hosted high-powered chemical laser tests. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 6:43-7:22, 46:40-47:21)*
+
+## Additional claims (gerb/tr-3b)
+
+- Fouche's sources said up to 35% of SDI funding was siphoned to USAF black programs from 1982 and that SDI/black money built the first operational TR-3B and bolstered [[defense-advanced-research-center]] under Reagan; Gerb repeats that SDI's secondary purpose was allegedly UAP detection, and cites Project Brilliant (Boeing, electromagnetic shield) as an SDI program. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 23:36-24:25, 29:06-29:14, 34:11-34:26)*

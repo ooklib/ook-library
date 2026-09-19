@@ -26,6 +26,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Home of the 412th Test Wing and an MRTFB (Major Range and Test Facility Base), listed by Gerb
@@ -86,3 +88,7 @@ ranges. *([gerb/mitre](../raw/gerb/mitre.md) 52:21–52:55)*
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video ties Northrop and TR-3B/[[project-red-light]] claims to a joint Edwards 412th Test Group and Area 51 program described by the witness "Ed"; see [[northrop-investigation-video-2025]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 34:14-34:49, 54:33-55:36)*
+
+## Additional claims (gerb/tr-3b)
+
+- Fouche's sources include an SR-71 / Edwards test pilot and claim TR-3B pilots came from Edwards test pilot school; Gerb repeats the 412th Test Group link and the Helendale / Plant 42 / Edwards cluster ([[xf-131-super-sentinel]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 19:00-19:17, 34:42-34:57, 59:04-59:26, 1:14:22-1:14:29)*

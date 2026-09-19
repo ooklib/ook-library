@@ -14,6 +14,8 @@ sources:
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Electrogravitics is the label for coupling of electric fields to gravity, coined around [[thomas-townsend-brown]]'s work (the "lowbrow applied version" per Eric Weinstein's framing).
@@ -36,3 +38,7 @@ Electrogravitics is the label for coupling of electric fields to gravity, coined
 ## Additional claims (gerb/northrop)
 
 - Gerb ([[northrop-investigation-video-2025]]) cites a 1968 NORAIR paper on electro-aerodynamics in supersonic flow (electrostatic field to cut drag), which Nick Cook's source "Dan Marcus" says the Pentagon pulled in 2002, and Aviation Week (March 9, 1992) on the [[b-2-stealth-bomber]] charging the wing leading edge and exhaust; researchers such as Michael Schratt and Richard Boylan claim the B-2 uses reverse engineered electrogravitic technology. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 24:04-25:56)*
+
+## Additional claims (gerb/tr-3b)
+
+- Gerb links the TR-3B's MFD, the alleged TR-3A, and the B-2 to electrogravitic mass reduction (Townsend Brown lineage), and lists electrogravitics or MHD/zero-point energy as the likely ARV propulsion families. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 38:38-39:54, 1:09:04-1:09:26, 1:14:22-1:14:52)*

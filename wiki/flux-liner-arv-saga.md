@@ -21,6 +21,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Alleged 12 November 1988 sighting by designer [[brad-sorenson]] of three man-made "flux liner" flying saucers (nicknamed Mama, Papa and Baby Bear) in a classified hangar exhibit at the Norton AFB air show. Relayed for two decades second-hand by illustrator [[mark-mccandlish]]; see [[alien-reproduction-vehicle-tr3b]] and [[air-force-plant-42]] for related material from earlier Gerb videos.
@@ -40,3 +42,7 @@ Alleged 12 November 1988 sighting by designer [[brad-sorenson]] of three man-mad
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video: Hamilton's 1992 book carries the first recorded mention of the ARV and flux liner, predating Greer's 2001 event; see [[northrop-investigation-video-2025]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 26:04-27:08)*
+
+## Additional claims (gerb/tr-3b)
+
+- Gerb compares the flux liner's track-ball control sphere ([[mark-mccandlish]]'s drawing) with the control scheme in the novel "Secret Machines" for the Astra TR-3B "Locust" ([[sekret-machines-project]]), and proposes the flux liner and TR-3B are two families of ARV ([[tr3b-triangle-arv-video-2024]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 42:10-45:01, 1:14:22-1:15:39)*

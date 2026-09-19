@@ -20,6 +20,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 The Tahone (also transcribed "Toahone"/"Toon Ranch") radar cross-section (RCS) facility, in the
@@ -85,3 +87,7 @@ facility was built below ground during the Cold War to hide from Soviet satellit
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video: a radar cross-section range uses high-frequency radio waves, runways and pylons on concrete diamonds, often underground during the Cold War; Tahone reportedly has a disproportionate share of anomalous sightings versus Lockheed and McDonnell Douglas RCS sites; [[bill-hamilton]] and [[richard-sauder]] allege an underground UAP facility (rumored 42 levels with tunnels to Edwards); [[steven-greer]] calls the sister Helendale plant a staging ground for electrogravitic ARVs downed by EMP weapons; an artist's 1992 Tejon triangle drawing came from disgruntled Lockheed and Northrop engineers there and at Helendale; [[colonel-steve-wilson]] placed a Northrop anti-gravity disc site northeast of Lancaster. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 26:04-34:14, 40:38-40:53)*
+
+## Additional claims (gerb/tr-3b)
+
+- [[bill-mcdonald]]'s 1992 informants: two Northrop engineers from the "Tejon/Tehachapi Ranch" site and two Lockheed engineers from Helendale described the [[xf-131-super-sentinel]]; McDonald said Helendale was hidden in plain sight behind the radar-cross-section cover. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 58:27-1:01:07)*

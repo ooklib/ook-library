@@ -37,6 +37,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -89,3 +91,7 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video: Greer calls Lockheed's Helendale RCS plant a staging ground for electrogravitic ARVs, and [[arnold-house]] and [[bill-hamilton]] may have been among his key sources. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 29:51-31:18, 49:03-49:18)*
+
+## Additional claims (gerb/tr-3b)
+
+- Cited for his claim that [[albert-stubblebine]] offered him $2 billion in 1992 to stop investigating, for the 1997 letter tying [[hans-adam-ii]] to [[treat-tactical-reconnaissance-engineering-assessment-team]], and for his accusation that the Lockheed Helendale plant is a black-budget reverse-engineering site (see [[xf-131-super-sentinel]]); Gerb also says the term ARV did not originate with Greer in 2001 but with [[brad-sorenson]]'s 1988 account. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 3:31-3:53, 15:20-17:28, 59:19-59:34)*

@@ -87,6 +87,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -310,3 +312,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video contrasts Lockheed ("a hound dog" and opportunist that tried in 2008 to divest material to the SAP world, blocked by [[glenn-gaffney]], likely Kingman material it could not exploit) with the more secretive [[northrop-grumman]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 3:40-3:56, 59:36-1:00:44)*
+
+## Additional claims (gerb/tr-3b)
+
+- Gerb again lists Lockheed among the TR-3B primes and as the parent of the Helendale radar cross-section range tied to the [[xf-131-super-sentinel]]; Fox's X-Files reportedly rendered that craft from [[bill-mcdonald]]'s drawing. See [[tr3b-triangle-arv-video-2024]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 33:07-33:44, 58:42-1:01:47)*

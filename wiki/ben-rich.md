@@ -16,6 +16,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Ben Rich, the second director of [[skunk-works|Lockheed Skunk Works]] (1975–1991), is famous in
@@ -65,3 +67,7 @@ Lockheed possessed physics-defying, possibly nonhuman-derived technology.
 ## Claims (jm/cover-up)
 
 - Per [[jesse-michels]] and [[jason-samosa]]: near the end of his life Rich reportedly lamented that the UFO issue was governed by an international corporate board and hoped it would come under American intelligence and aerospace control; they compare this to the [[maynard-consortium]] and [[thomas-townsend-brown]]'s [[caroline-group]]. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:17:26, 1:50:27, 1:51:00)*
+
+## Additional claims (gerb/tr-3b)
+
+- [[edgar-fuche]] said the senior TR-3B designer "would have been Ben Rich" rather than Kelly Johnson, and the two Lockheed engineers who spoke to [[bill-mcdonald]] in 1992 claimed to work for Rich at Skunk Works on the Helendale range ([[xf-131-super-sentinel]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 58:42-59:12)*

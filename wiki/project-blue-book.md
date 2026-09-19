@@ -24,6 +24,8 @@ sources:
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 The historical Air Force UFO-investigation project, referenced as a comparison point: AARO was
@@ -77,3 +79,7 @@ became **Project Grudge** in 1949 (running until 1951), superseded by **Project 
 ## Claims (jm/sheehan)
 
 - Sheehan's [[oscar-wolf-s4-account]]: a clerk-typist on a special Blue Book unit reviewing about 700 unexplained cases later saw a live being at S-4. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:47:49)*
+
+## Additional claims (gerb/tr-3b)
+
+- Gerb cites Don Berliner's "Blue Book Unknowns": only four anomalous triangle sightings among Blue Book's 12,000 cases, typically colorful, unlike the dark 1980s-90s triangles ([[flying-triangle-sightings]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 5:08-5:46)*

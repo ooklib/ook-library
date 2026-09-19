@@ -33,6 +33,8 @@ sources:
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 EG&G (Edgerton, Germeshausen, and Grier, Inc.), founded in 1931 by MIT professor
@@ -93,3 +95,7 @@ EG&G (Edgerton, Germeshausen, and Grier, Inc.), founded in 1931 by MIT professor
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video: [[edgar-fuche]] says EG&G held an indefinite [[project-red-light]] contract, with nuclear-mishap recovery and site security duties. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 54:41-55:21)*
+
+## Additional claims (gerb/tr-3b)
+
+- Per [[edgar-fuche]]'s sources, EG&G provided classified R&D, built the bunkers, mountain hangars and underground facilities at Groom Lake, Papoose and Mercury (such as [[defense-advanced-research-center]]), and held a contract for [[project-red-light]], related by a witness to Leonard Stringfield to testing recovered craft on the Nellis range; Gerb also links EG&G to the [[doe-nuclear-emergency-support-team]] and a possible RAND role ([[rand-corporation]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 24:25-25:38, 1:10:20-1:10:36)*

@@ -21,6 +21,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Former USAF Master Sergeant Edgar Fuche (the ASR transcripts render this variously as "Fuchs" and
@@ -80,3 +82,11 @@ could not provide material evidence for its existence. *([gerb/saic](../raw/gerb
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video: TR-3B test flights over Edwards run by the AF Test Center under the 412th Test Group, near Northrop's Palmdale and Tahone sites; Fuche names Lockheed, Boeing, [[teledyne-ryan]] and Northrop as primes, Sandia and Livermore as propulsion; he also said Area 51 programs moved to [[dugway-proving-ground]] in the early 1990s and that EG&G held a [[project-red-light]] contract. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 34:49-36:19, 52:08-52:17, 54:41-55:21)*
+
+## Additional claims (gerb/tr-3b)
+
+- Video on his whole testimony: born 1948 in Georgia, drafted 1968, USAF 1964-74 in electronics, crypto and intelligence (3.5 years in Vietnam), later eight years a defense contractor; assigned 1979 to Detachment 3, Air Force Flight Test Center (AFFTC) at Groom Lake by blacked-out bus with restricted goggles, ten days of debriefs with terms like pulse detonation and quasi-crystals. His first public disclosures were the 1998 book "Alien Rapture" and a 1998 MUFON / International UFO Congress presentation. Gerb compares "Alien Rapture" to [[sekret-machines-project]] (fact in fiction guise). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 9:28-13:44, 20:38-23:03)*
+- Five sources: Gerald (NSA/DOE, [[treat-tactical-reconnaissance-engineering-assessment-team]], died soon after), S (NSA electronics-intelligence contractor whose company made the magnetic field disruptor), Doc (SR-71 and Edwards test pilot), Dell (Vietnam colleague whose NSA father sent MJ-12 documents), and Bud (DOD electronics contractor). Fouche himself did not work on the TR-3B; he says he saw a prototype in 1975 over Edwards, 1976 at Nellis range and 1979 at Groom Lake, and photos from a C-130. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 14:48-19:32, 29:23-30:03)*
+- Claims: [[defense-advanced-research-center]] (10 underground stories near Papoose Lake with a holographic mountain-face hangar for a TR-3B), [[eg-and-g]] built the hidden facilities, [[project-red-light]] contract, up to 35% of [[strategic-defense-initiative]] funding siphoned to black programs from 1982, 1992 contingency plan relocating exotic aircraft; TR-3B details in [[alien-reproduction-vehicle-tr3b]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 23:03-27:04, 27:22-38:16)*
+- The senior TR-3B designer, he said, would have been [[ben-rich]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 59:04-59:19)*
+- His credibility was attacked in the [[fouche-controversy]]; Gerb's view is that the main weakness is secondhand sourcing. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 45:08-50:37, 1:13:27-1:14:16)*

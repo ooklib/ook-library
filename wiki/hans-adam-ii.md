@@ -14,6 +14,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Hans-Adam II, Prince of Liechtenstein, is discussed in the `jm/cover-up` episode as a UFO-interested royal ("Likenstein" in ASR). Claims (unverified, from hearsay in the conversation):
@@ -34,3 +36,7 @@ Hans-Adam II, Prince of Liechtenstein, is discussed in the `jm/cover-up` episode
 ## Claims (jm/sheehan)
 
 - Sheehan says Laurance Rockefeller told him the Prince of Liechtenstein had seen and walked up to a UFO in the mountains, and Michels says (via John Brandenburg) the prince gathered Roswell witnesses; the prince's identity is inferred from 'Hans Adams'. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:33:00)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:33:53)*
+
+## Additional claims (gerb/tr-3b)
+
+- A 31 Aug 1997 letter to [[steven-greer]] from an unknown sender, cited by Gerb, accuses "Lenin's Crown Prince Hans Adams" (citing Tom Bower's "Nazi Gold") of supporting counterintelligence against Americans on UFOs and of funding [[treat-tactical-reconnaissance-engineering-assessment-team]]; unverified. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 15:11-16:08)*

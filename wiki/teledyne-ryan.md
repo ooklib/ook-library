@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Teledyne Ryan (San Diego), a maker of aerial targets, surveillance systems and unmanned aircraft, bought by [[northrop-grumman]] in 1999. In [[uap-gerb]]'s reading it is one of the acquisitions that carried legacy-program work into Northrop. All items are attributed claims.
@@ -31,3 +33,7 @@ Teledyne Ryan (San Diego), a maker of aerial targets, surveillance systems and u
 ## Relationships
 
 - Acquired by [[northrop-grumman]]; contractor for [[strategic-defense-initiative]] and, per Fuche, the [[alien-reproduction-vehicle-tr3b]]; see [[northrop-investigation-video-2025]].
+
+## Additional claims (gerb/tr-3b)
+
+- Named again among Fouche's TR-3B primes. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 32:57-33:16)*

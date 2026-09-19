@@ -12,6 +12,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 A Federally Funded Research and Development Center is a US government-sponsored,
@@ -67,3 +69,7 @@ outside the government itself.
 ## Additional claims (gerb/corso)
 
 - Corso video: Gerb reads Corso's plan to bring "select laboratories" and industry into Army R&D as the forerunner of UARCs/FFRDCs ([[army-foreign-technology-division]], [[corso-technology-seeding-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 23:47-24:33, 1:03:44-1:04:22)*
+
+## Additional claims (gerb/tr-3b)
+
+- Gerb: FFRDCs and University-Affiliated Research Centers (UARCs) are semi-private institutions that operate alongside DOD and corporate legacy programs for material exploitation and reverse engineering; examples named are [[lawrence-livermore-national-laboratory]], Los Alamos, [[sandia-national-laboratories]], Oak Ridge, and MITRE/RAND institutions; he ties this to the [[eric-a-walker]] / Penn State ARL role in the [[kecksburg-ufo-crash-1965]] and to [[sean-kirkpatrick]] and AARO's contracts. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 31:14-32:55)*

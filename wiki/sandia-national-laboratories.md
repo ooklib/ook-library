@@ -72,6 +72,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Sandia National Laboratories, born from [[los-alamos-national-laboratory|Los Alamos]]'s Z
@@ -270,3 +272,7 @@ DoD/IC oversight channels. *([gerb/sandia](../raw/gerb/sandia.md) 5:44–6:03, 8
 ## Additional claims (gerb/corso)
 
 - Gerb notes AT&T (owner of Bell Labs) was given managerial responsibility for Sandia by President Truman in 1949, and Sandia is a repeated site in Fuche's TR3B account and the Majestic and IPU documents; ties [[bell-labs]] to the Corso seeding story ([[corso-technology-seeding-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 29:58-30:46)*
+
+## Additional claims (gerb/tr-3b)
+
+Fouche says Sandia and Livermore reverse-engineered the TR-3B from an NHI crash and built the MFD; Gerb frames [[ffrdc]]s and University-Affiliated Research Centers as semi-private institutions serving legacy programs, and notes the Sandia mentions in MJ-12 documents ([[majestic-documents]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 30:20-32:55, 1:10:28-1:10:36)*

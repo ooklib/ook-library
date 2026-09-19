@@ -21,6 +21,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Leonard Stringfield, a UFO crash-retrieval investigator Gerb describes as "legendary," produced
@@ -62,3 +64,7 @@ a series of "Crash Retrieval Status Reports" analyzed throughout the SAIC video.
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video traces the first mention of [[project-red-light]] to his files (Crash Retrieval Status Reports), via an April 5, 1980 letter relayed by Michael Schratt. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 53:22-54:33)*
+
+## Additional claims (gerb/tr-3b)
+
+- His crash-retrieval status reports carry a witness claim that [[project-red-light]] tested NHI and reverse-engineered craft on the Nellis range. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 25:20-25:38)*

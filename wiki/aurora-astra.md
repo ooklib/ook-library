@@ -11,6 +11,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Aurora and Astra are rumored code names for a high-speed black triangle reconnaissance aircraft allegedly made by [[lockheed-martin]] and tested at Groom Lake.
@@ -24,3 +26,7 @@ Aurora and Astra are rumored code names for a high-speed black triangle reconnai
 ## Relationships
 
 - Attributed to [[lockheed-martin]]; rival to [[b-2-stealth-bomber]].
+
+## Additional claims (gerb/tr-3b)
+
+- Fouche places the TR-3B ("Astra" = Advanced Stealth Technology Reconnaissance Aircraft) as the most exotic model within the Aurora program, which also covers the pulse-detonation "Pulsar" seen by [[brad-sorenson]]; Gerb cites the DOD Aurora procurement line ($80M FY86, $2.3B FY87, double the [[b-2-stealth-bomber]] cost) and the possibly-linked TR-3A (see [[boscombe-down-crash-1994]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 27:44-29:06, 1:08:40-1:09:35)* See [[alien-reproduction-vehicle-tr3b]] and [[edgar-fuche]].

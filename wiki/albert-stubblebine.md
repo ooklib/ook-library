@@ -26,6 +26,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Major General Albert Stubblebine founded the US Army Intelligence and Security Command
@@ -67,3 +69,7 @@ Support Activity (ISA) special forces unit. *([gerb/saic](../raw/gerb/saic.md) 1
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video: replaced as INSCOM head in 1984 and became a [[bdm-international]] vice president, and BDM hosted a 1985 physics conference on UFO reverse engineering. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 19:52-20:26)*
+
+## Additional claims (gerb/tr-3b)
+
+- Cited by Gerb as the INSCOM founder implicated by a 1997 letter accusing [[hans-adam-ii]] of funding [[treat-tactical-reconnaissance-engineering-assessment-team]] (whose "Gerald" was married to a former Army intelligence head), and as the man who per [[steven-greer]] offered him $2 billion in 1992 to stop; witness 10658 in Greer's log. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 15:03-17:28)*

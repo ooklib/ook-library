@@ -31,6 +31,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 An alleged National Security Council unacknowledged Special Access Program (USAP), established in
@@ -94,3 +96,7 @@ craft and derivative technologies (parallel to, but siloed from, decades-older l
 ## Additional claims (gerb/timeline)
 
 - Timeline video: 2017 entry - an NSC unacknowledged SAP created in the sunset years of AATIP and Clapper's DNI tenure, a "catcher's mitt" siphoning UFO signatures from NGA/NRO satellite, RQ-4 Global Hawk and SIGINT feeds into a centralized repository; Gerb thinks it was an NSC legacy-program intelligence SAP to regain control and read on breakaway/foreign reproduction vehicles, and links it to the Tom DeLonge NRO-adviser prediction story and Grusch's comments on systems erasing UAP data from analysts. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:18:34-2:21:49)*
+
+## Additional claims (gerb/tr-3b)
+
+- Gerb says the report (entered into the Congressional record 13 Nov 2024) labels some triangles, seen 2009 onward by Indo-Pacific Command collection, as alien reproduction vehicles, making it the first official use of the term ARV in a hearing context; see [[flying-triangle-sightings]], [[alien-reproduction-vehicle-tr3b]], [[tr3b-triangle-arv-video-2024]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 0:58-5:08)*

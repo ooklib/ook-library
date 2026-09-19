@@ -18,6 +18,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 A DOE/NSA National Laboratory FFRDC.
@@ -47,3 +49,7 @@ A DOE/NSA National Laboratory FFRDC.
 
 - DOE-sponsored FFRDC; SDI contractor; alleged co-developer of the
   [[alien-reproduction-vehicle-tr3b]]'s propulsion system with [[sandia-national-laboratories]].
+
+## Additional claims (gerb/tr-3b)
+
+Fouche says Livermore, with [[sandia-national-laboratories]], reverse-engineered the TR-3B from an NHI crash and built its MFD; Gerb describes Livermore as one of three NNSA [[ffrdc]]s (with Los Alamos and Sandia) and links Sandia and Livermore in the NEST teams ([[doe-nuclear-emergency-support-team]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 30:20-32:55, 1:10:28-1:10:36)*

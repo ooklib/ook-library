@@ -20,6 +20,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 "Special Operations Manual: Extraterrestrial Entities and Technology, Recovery and Disposal" (SOM1-01, nicknamed "Psalm 101" in transcript ASR), an alleged 1954 "Top Secret Majic Eyes Only" manual for [[majestic-12]] units. Leaked in 1994 as undeveloped 35mm film in a green box to aviation writer Don Berliner; the Woods developed it in a darkroom. Rated by [[ryan-s-wood]], [[dr-robert-wood]] and [[stanton-friedman]] as equal or better in authenticity than the [[eisenhower-briefing-document]]. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 12:44, 14:37, 27:22)*
@@ -49,3 +51,7 @@ sources:
 ## Relationships
 
 - Authenticated by [[ryan-s-wood]]; part of [[majestic-documents]]; describes [[majestic-12]] operations; mentions [[wright-patterson-air-force-base]] and [[kirtland-air-force-base]].
+
+## Additional claims (gerb/tr-3b)
+
+- Gerb cites the manual's description of an isosceles triangle craft (longest side about 300 ft, high speeds, abrupt maneuvers, new technology) as evidence triangles were already reported in 1954; he then asks whether they were NHI, breakaway-civilization or precursor-program craft. See [[flying-triangle-sightings]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 6:47-7:37, 1:15:39-1:16:11)*

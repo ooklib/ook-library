@@ -13,6 +13,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Founded by [[albert-stubblebine|Maj. Gen. Albert Stubblebine]]. Initially commanded the
@@ -32,3 +34,7 @@ later moved to [[jsoc|JSOC]]. *([gerb/saic](../raw/gerb/saic.md) 1:43:28–1:43:
 ## Additional claims (gerb/corso)
 
 - Per Corso, INSCOM (founded by [[albert-stubblebine]]) funded the [[ufo-working-group-1987]]. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:06:33-1:06:50)*
+
+## Additional claims (gerb/tr-3b)
+
+- Gerb speculates INSCOM is likely associated with UFO crash retrievals and, via the one public mention of TREAT (1997 letter naming the wife of the INSCOM founder), that [[treat-tactical-reconnaissance-engineering-assessment-team]] may be INSCOM's Men in Black under [[albert-stubblebine]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 16:15-17:36, 1:10:45-1:10:53)*

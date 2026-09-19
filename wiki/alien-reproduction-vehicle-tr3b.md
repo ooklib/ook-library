@@ -41,6 +41,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 The "Alien Reproduction Vehicle" (ARV) concept — a human-built craft reverse-engineered from
@@ -112,3 +114,11 @@ recovered nonhuman technology — is most associated in the UFO research communi
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video: Northrop's Palmdale and Tahone sites sit near the alleged TR-3B test area; [[teledyne-ryan]] is a named prime. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 35:07-36:19)*
+
+## Additional claims (gerb/tr-3b)
+
+- Immaculate Constellation ([[immaculate-constellation]]) reportedly labels some triangles as ARVs (Indo-Pacific Command collection, 2009 onward); see [[flying-triangle-sightings]] and [[tr3b-triangle-arv-video-2024]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 0:58-5:08)*
+- Fuche's TR-3B (code name Astra, "Advanced Stealth Technology Reconnaissance Aircraft"; TR = tactical reconnaissance) sits under the [[aurora-astra]] umbrella: 200 ft test models and 300/600 ft operational models, crew of four, two nuclear reactors, three multimode thrusters plus a large diffuse light underneath, near-silent with magnetic hum, electrochromatic skin, first operational flight in the early 1990s, at least three by 1994, and prototypes from the early 1970s. Aurora budget: $80 million in FY86, $2.3 billion in FY87. Gerb also mentions the SR-33A from Michael Wolf and Project Brilliant (Boeing, per John Joseph). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 27:13-30:03, 34:11-35:42)*
+- Propulsion: a circular plasma accelerator ring, the magnetic field disruptor (MFD), spins mercury-based plasma (250,000 atm, 150 K, 60,000 rpm) around a rotatable crew compartment, reducing local mass and gravity effects by 89%; Fouche says this is not repulsive anti-gravity, allows Mach 9, and hence apparent right-angle turns. Reverse-engineered from a crash by [[sandia-national-laboratories]] and [[lawrence-livermore-national-laboratory]] (both [[ffrdc]]s); managed by [[national-reconnaissance-office]], CIA and NSA; built by Lockheed, Boeing, Northrop, Teledyne Ryan. Gerb sees parallels with [[electrogravitics]] claims about the [[b-2-stealth-bomber]] and with a University-Affiliated Research Center model (cf. [[eric-a-walker]] at Penn State ARL in the [[kecksburg-ufo-crash-1965]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 30:20-40:02)*
+- TR-3A vs TR-3B: see [[boscombe-down-crash-1994]]; a control-ball scheme in the novel "Secret Machines" (the Astra 3B "Locust") matches the trackball [[mark-mccandlish]] and [[brad-sorenson]] describe for the flux liner, so Gerb suggests the flux liner and TR-3B may share origins ([[flux-liner-arv-saga]], [[sekret-machines-project]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 42:10-45:01)*
+- Separate triangle lead: [[xf-131-super-sentinel]]. Gerb's distinction of two ARV families: [[tr3b-triangle-arv-video-2024]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 1:14:16-1:15:39)*

@@ -25,6 +25,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 US Representative Eric Burlison (ASR-transcribed throughout as "Berles"/"Burles") is a
@@ -78,3 +80,7 @@ from Burlison; not otherwise detailed in this source.
 ## Additional claims (rc/grusch)
 
 - NewsNation's 2025 editor's note says Burlison hired [[david-grush]] onto his staff in March 2025 to advise on UFO investigations. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 0:00)*
+
+## Additional claims (gerb/tr-3b)
+
+- Quoted in a clip saying he had heard the term ARV before, from people in the UFO community who say there are truly extraterrestrial craft and craft that were reverse engineered and reproduced, which Gerb ties to the Immaculate Constellation triangle claims ([[immaculate-constellation]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 1:14-2:09)*

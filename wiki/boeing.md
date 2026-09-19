@@ -21,6 +21,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Boeing has primary offices in [[crystal-city-virginia|Crystal City]] and is listed with less
@@ -41,3 +43,7 @@ confidence among contractors Gerb suspects are involved in MITRE's UFO work. *([
 ## Additional claims (gerb/timeline)
 
 - Timeline video: acquired Rockwell and McDonnell Douglas in 1996-97, one of the "big five" after the [[defense-industrial-base-last-supper]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:45:32-1:46:00)*
+
+## Additional claims (gerb/tr-3b)
+
+- Fouche names Boeing as a TR-3B contractor; Gerb cites John Joseph's 2013 claim that Boeing was prime contractor on Project Brilliant (SDI electromagnetic shield, boomerang craft), and the CIA-operated Boeing 737 at [[boscombe-down-crash-1994]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 33:44-34:26, 40:40-40:57)*

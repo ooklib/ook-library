@@ -28,6 +28,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 Musician who founded [[to-the-stars-academy|To the Stars Academy]], publicly launched on Joe
@@ -87,3 +89,7 @@ Rogan Experience episode 1029 (26 October 2017). ASR-transcribed as "Tom Dong" i
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda says DeLonge contacted him in November 2014, pitched "knocking on doors", and asked for a short document that became the [[cargo-cult-contact-thesis]]; DeLonge relayed emails from an unnamed adviser pointing at Prometheus. He hosted the [[austin-to-the-stars-meeting]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 1:13:24, 1:38:06, 1:48:14)*
+
+## Additional claims (gerb/tr-3b)
+
+- Gerb cites the DeLonge / Hartley novel "Secret Machines" (see [[sekret-machines-project]]) for an "Astra 3B" triangle ("the Locust") and its red-sphere control, paralleling [[edgar-fuche]]'s TR-3B. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 42:10-44:38)*

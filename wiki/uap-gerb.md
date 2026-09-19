@@ -41,6 +41,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
+    label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -112,3 +114,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Additional claims (gerb/northrop)
 
 - Video: [[northrop-investigation-video-2025]] (2025-01-27), the first Northrop Grumman investigation, on acquisitions ([[trw]], [[teledyne-ryan]], [[bdm-international]]), Antelope Valley sites and whistleblowers ([[colonel-steve-wilson]], [[arnold-house]]). Gerb calls it more conclusive than his Lockheed or Battelle work despite the thinner paper trail. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 0:00-5:13, 1:03:20-1:03:28)*
+
+## Additional claims (gerb/tr-3b)
+
+- November 2024 video on triangles, TR-3B, and Fouche: [[tr3b-triangle-arv-video-2024]]; mentions upcoming interviews with Jesse Michels and [[eric-davis]] and future projects on DUMBs, Boeing, and Army INSCOM. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 1:06:42-1:07:14, 24:40-24:48, 33:52-34:02)*
