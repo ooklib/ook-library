@@ -35,6 +35,8 @@ relations:
     target: pan-europa-movement
     note: "pan-European integration built consensus for Gladio"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md"
+    label: "America’s Fascist Spymaster - Willoughby 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
@@ -139,3 +141,7 @@ its Italian roots.
 ## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
 
 - Host previews that the false-flag angle will explore "the potential links to the development of Gladio" within the JFK assassination canon, and that "potential Gladio elements" tie into the international-conspiracy angle alongside Israeli and French Algerian secret army (OAS) angles. Preview only. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 11:12-11:18, 12:03-12:16)*
+
+## Ewa/willoughby-1
+
+- Host argues [[charles-willoughby]] worked to bring "Gladio concepts back to the United States" in the 1950s-60s and was a godfather of "domestic Gladio" as the term is used in conspiracy circles; specifics deferred to later episodes. *([ewa/willoughby-1](../raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md) 2:02-2:23)*

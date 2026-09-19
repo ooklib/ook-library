@@ -44,6 +44,8 @@ relations:
     target: willis-bird
     note: "told Bird to contact the future CIA; Thai ambassador 1953-54"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md"
+    label: "America’s Fascist Spymaster - Willoughby 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
@@ -177,3 +179,7 @@ administrator.
 ## Additional claims (The CIA's Blond Ghost, ewa/shackley)
 
 - Host: the 1953 private law admitting [[lauri-torni]] was obtained by lawyers at Donovan and Associates, "the law firm of none other than Wild Bill Donovan." *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 1:08:56-1:09:22)*
+
+## Ewa/willoughby-1
+
+- Host (citing Dick Russell): Donovan served on the 1916-17 [[pancho-villa-expedition]] alongside [[charles-willoughby]] and Walter "Beetle" Smith ([[walter-bedell-smith]]); he later received a Distinguished Service Cross from Pershing (photo the host shows). Host says a "quiet rivalry" developed in WWII between Donovan's OSS and Willoughby's G-2 as MacArthur stonewalled OSS involvement in the Pacific. *([ewa/willoughby-1](../raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md) 13:40-14:39, 17:19-17:33)*

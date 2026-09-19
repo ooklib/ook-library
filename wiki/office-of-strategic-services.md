@@ -26,6 +26,8 @@ relations:
     target: operation-x
     note: "leadership funded and pursued Helliwell's narcotics-funded covert-action plan (per ewa/mafia-allies)"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md"
+    label: "America’s Fascist Spymaster - Willoughby 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
@@ -112,3 +114,7 @@ handling only domestic intelligence. *([ewa/oss](../raw/ewa/Eyes Wide Open - 202
 ## Additional claims (Bush the Father, Chapter 1)
 
 - Host: after Truman abolished the OSS, [[allen-dulles]] allegedly kept top OSS staff on payroll in a private Manhattan intelligence agency until the CIA formed in 1947. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 16:57-17:34)*
+
+## Ewa/willoughby-1
+
+- Host: in WWII a rivalry brewed between [[william-donovan]]'s OSS and [[charles-willoughby]]'s Army G-2 in the Pacific because [[douglas-macarthur]] "stonewalled" OSS efforts to involve themselves in the Pacific War; more promised later. *([ewa/willoughby-1](../raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md) 14:14-14:39)*

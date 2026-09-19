@@ -13,6 +13,8 @@ relations:
   - relation: investigates
     target: operation-gladio
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md"
+    label: "America’s Fascist Spymaster - Willoughby 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
     label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
@@ -242,3 +244,5 @@ Host mentions a Patreon series on the history of modern Japan and that the final
 ## Additional (ewa/dallas-5)
 
 - Chapter 5 of [[road-to-dallas]] (2025-12-12): [[frank-brandstetter]], [[havana-hilton]]. Host thanks Patreon patrons (producer tier got it May 26, 2025), mentions a modern-Japan series, returns to the series later in 2026 with the No Name Key camps, and announces a two-part [[charles-willoughby]] biography as the last videos of season 3. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 49:41-51:53)*
+
+- Willoughby series part 1 (2025-12-19, `ewa/willoughby-1`): [[charles-willoughby]] biography opening; new pages [[francisco-franco]], [[philippe-petain]], [[rif-war]], [[pancho-villa-expedition]], [[douglas-macarthur]]. Host says the series is the product of about nine months of research, promises Japan/Cannon material in part 3, and mentions a Patreon "history of modern Japan" series and that Willoughby 2 is a MacArthur documentary airing Dec 25. *([ewa/willoughby-1](../raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md) 3:26-3:53, 35:20-36:56)*

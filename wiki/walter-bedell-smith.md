@@ -14,6 +14,8 @@ relations:
     target: operation-paper
     note: "opposed it (bureaucratic and logistical reasons per host)"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md"
+    label: "America’s Fascist Spymaster - Willoughby 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
@@ -39,3 +41,7 @@ Walter Bedell Smith became CIA director in 1950 (serving Truman's last two years
 
 
 - Planned the failed PB Fortune before Dulles; later on [[united-fruit-company]]'s board. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 10:03-10:11)*
+
+## Ewa/willoughby-1
+
+- Host (citing Dick Russell): "Beetle" Smith served on the 1916-17 [[pancho-villa-expedition]] with [[charles-willoughby]] and [[william-donovan]]; the host describes him as Eisenhower's WWII chief of staff and "arguably the first major director of CIA" after three short terms by mostly military men. *([ewa/willoughby-1](../raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md) 14:39-15:13)*

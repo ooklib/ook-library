@@ -25,6 +25,8 @@ relations:
     target: yoshio-kodama
     note: "worked closely with the Yakuza boss in postwar Japan (per ewa/dallas-4)"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md"
+    label: "America’s Fascist Spymaster - Willoughby 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
     label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
@@ -106,3 +108,7 @@ Chapter 3 of [[road-to-dallas]] is his dedicated episode. Host framing: a charac
 - Host, crediting Patreon subscriber "Riley Ken": [[frank-brandstetter]] and Cannon had parallel Texas trajectories: Brandstetter was at Fort Sam Houston on reserve duty each year 1955-58 (provost marshal of the Fourth Army Area Intelligence School in Aug. 1957), while Cannon was provost marshal at Fort Hood in 1958; in Aug. 1958 Brandstetter was again at Fort Sam Houston, and in Oct. 1958 Cannon was brought there as a "mental patient" after being accused of stealing gear and shooting cattle. Host asks whether Brandstetter trained him and infers they likely met in Havana. Speculative. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 25:15-33:40)*
 - Finegan deposition (29 July 1961): Cannon described as close to [[manuel-ray]], operating a rebel radio transmitter and having "the goodies" (high-speed boats, arms); Finegan says "Cannon" may not be his real name and calls him a July 26th veteran, which the host doubts. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 34:49-38:00)*
 - Host recalls Cannon and [[david-atlee-phillips]] were both later Middle East-based after Suez and calls a Brandstetter link "likely just a coincidence." *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 26:03-26:33)*
+
+## Ewa/willoughby-1
+
+- Series preview: host says Willoughby part 3 covers Willoughby's time in Japan, "setting up underground networks with the help of one Colonel Jack Cannon". *([ewa/willoughby-1](../raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md) 3:13-3:34)*

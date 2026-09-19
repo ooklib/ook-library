@@ -11,6 +11,8 @@ relations:
     target: structural-deep-event
     note: "series applies Scott's structural-deep-event frame to the JFK case"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md"
+    label: "America’s Fascist Spymaster - Willoughby 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
     label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
@@ -78,3 +80,7 @@ Published 2025-12-05 (Patreon release May 17, 2025). Covers the mob's Cuba histo
 ## Chapter 5 - The Secret History of the Havana Hilton (ewa/dallas-5)
 
 Published 2025-12-12 (Patreon release May 26, 2025); final chapter of the Cuba segment. Recaps [[frank-sturgis]]'s 1959 flip and flight to Miami, then profiles [[frank-brandstetter]], manager of the [[havana-hilton]] and long-time Army-intelligence informant, with links to [[jack-cannon]], [[david-atlee-phillips]], [[manuel-ray]], [[philippe-thyraud-de-vosjoli]], Dallas's 488th reserve unit ([[jack-crichton]], Col. George Lumpkin), [[henry-crown]] and [[operation-paperclip]] speculation. Host thesis: Army intelligence networks in Cuba founded the later Gulf Coast paramilitary network. Next in the series (returning later in 2026): No Name Key. The host announces the last two videos of season 3 are the first two chapters of a biography of [[charles-willoughby]] (chapter 1 the next Friday). No UFO, Tesla, Cheney or secret-society content, though Brandstetter's NASA/Apollo and Paperclip ties are aerospace-adjacent. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 48:07-49:31, 50:39-51:44)*
+
+## Interlude - Willoughby series (ewa/willoughby-1)
+
+Published 2025-12-19 (Patreon June 24 2025). The host pauses Road to Dallas for a Willoughby biography series: part 1 ([[charles-willoughby]] origins, Pancho Villa expedition, Rif War, [[francisco-franco]]) is ingested; part 4 is billed as the return to the Road to Dallas as Willoughby becomes "facilitator of a massive private intelligence network". New pages: [[rif-war]], [[pancho-villa-expedition]], [[douglas-macarthur]], [[francisco-franco]], [[philippe-petain]]. *([ewa/willoughby-1](../raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md) 3:34-3:53)*

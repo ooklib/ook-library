@@ -292,6 +292,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[frank-brandstetter]] — Army-intel reservist, Havana Hilton and Las Brisas manager · [[havana-hilton]] — Conrad Hilton hotel, Castro's Jan. 1959 HQ (place) · [[philippe-thyraud-de-vosjoli]] — SDECE Americas liaison, Brandstetter's refuge-seeker on 22 Nov. 1963 · [[manuel-ray]] — Hilton engineer, Castro saboteur, later CIA-backed exile leader · [[henry-crown]] — General Dynamics majority shareholder, Las Brisas investor · [[operation-paperclip]] — German rocket-scientist program (light stub) — added by `ewa/dallas-5`.
 [[thomas-clines]] — Shackley's JM/WAVE lieutenant (ASR "Klein") · [[grayston-lynch]] — paramilitary trainer and eyewitness — added by `ewa/jmwave`; [[alfred-cox]], [[paul-helliwell]], [[william-pawley]], [[william-harvey]], [[ted-shackley]] enriched.
 
+[[francisco-franco]] — Spanish dictator, Willoughby's first idol · [[philippe-petain]] — French marshal, Rif War/Vichy · [[douglas-macarthur]] — Pacific supreme commander, Willoughby's patron · [[rif-war]] — 1920s Moroccan colonial war (event) · [[pancho-villa-expedition]] — 1916-17 US Army expedition (event) — added by `ewa/willoughby-1`.
+
 ## Concepts
 
 [[texas-raj]] — East Texas oil-independent class behind the "Cowboys" (`ewa/bush-2`)
