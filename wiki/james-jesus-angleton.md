@@ -36,6 +36,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
+    label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
 ---
 
 James Jesus Angleton was the OSS station chief in Rome during WWII and, per Eyes Wide Open, would
@@ -90,6 +92,7 @@ viewed [[allen-dulles]] as a mentor and personally helped extract fascist collab
   photos to Lansky or vice versa. Eyes Wide Open frames the alleged leverage as evidence the CIA
   and Mafia shared an interest in coercing the FBI to permit continued narcotics/organized-crime
   activity. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 36:21-38:44)*
+- Allegedly helped cover up details of the murder of Mary Pinchot Meyer, wife of [[cord-meyer]] and JFK's alleged mistress; deferred to a later episode. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 27:22-27:48)*
 
 ## Relationships
 
@@ -105,3 +108,4 @@ viewed [[allen-dulles]] as a mentor and personally helped extract fascist collab
   [[operation-x]].
 - Ran the CIA's Sicily desk during the [[italian-election-1948]]; with [[george-white]], secured
   [[lucky-luciano]]'s parole and deportation.
+- Alleged Mary Pinchot Meyer cover-up; see [[cord-meyer]].

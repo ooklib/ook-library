@@ -37,6 +37,9 @@ relations:
   - relation: associate_of
     target: george-white
     note: "met in Rome, 1948, per White's diary; White also had allegations of funding Mafia elements in Italy before the election (per ewa/red-scare)"
+  - relation: founded
+    target: american-committee-on-united-europe
+    note: "1948, as chairman"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
@@ -50,6 +53,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
+    label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
 ---
 
 William "Wild Bill" Donovan was a WWI-hero-turned-Wall-Street-lawyer who became the first (and
@@ -122,6 +127,7 @@ administrator.
 - Per [[george-white]]'s own diary, met with White in Rome in 1948, while Donovan was a private
   citizen; White separately had allegations of funding Mafia elements in Italy shortly before that
   year's election. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 54:43-55:03)*
+- Founded the [[american-committee-on-united-europe]] in 1948 as chairman while legally a private Wall Street lawyer but still working with the CIA, hiring [[allen-dulles]] and [[walter-bedell-smith]] and other ex-OSS figures. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 22:58-23:50)*
 
 ## Relationships
 
@@ -141,3 +147,4 @@ administrator.
 - Via [[earl-brennan]] and [[giovanni-montini]], recruited [[calogero-vizzini]] for
   [[operation-husky]]; met [[pope-pius-xii]]; allegedly funded the
   [[portella-della-ginestra-massacre-1947]] via the [[world-commerce-corporation]].
+- Founder/chairman of [[american-committee-on-united-europe]].

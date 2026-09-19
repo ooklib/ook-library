@@ -16,9 +16,14 @@ relations:
   - relation: recruited_by
     target: allen-dulles
     note: "alleged 1947 Nazi-funds/campaign-funding deal per John Loftus, unverified"
+  - relation: member_of
+    target: le-cercle
+    note: "alleged member after leaving office"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
+    label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
 ---
 
 Richard Nixon appears in this episode as a junior California congressman who built his
@@ -52,6 +57,7 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
   case may have been staged partly to give Nixon legitimacy as a rising anti-communist star while
   Nixon in turn agreed with [[john-foster-dulles]] not to expose Dulles's own prior sponsorship of
   Hiss. Hiss was convicted only of perjury. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 15:35-19:51, 21:04-22:15)*
+- Named as an alleged [[le-cercle]] member after his time in office. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 36:22-36:37)*
 
 ## Relationships
 
@@ -59,3 +65,4 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
 - Alleged 1947 alliance (and possible campaign-funding arrangement) with [[allen-dulles]].
 - Cast by the host as an exemplar of Carl Oglesby's "Cowboy" faction — see
   [[yankee-cowboy-thesis]].
+- Alleged member of [[le-cercle]].

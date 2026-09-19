@@ -13,9 +13,14 @@ relations:
   - relation: founded
     target: gehlen-organization
     note: "built from his wartime military-intelligence network, run under US handlers post-war"
+  - relation: associate_of
+    target: jean-violet
+    note: "allegedly paid him 6,000 DM a year; alleged Le Cercle funding via Violet"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
+    label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
 ---
 
 Reinhard Gehlen was the head of German military intelligence on the Eastern Front during WWII
@@ -45,6 +50,7 @@ Gladio]].
   Prince]], as one of the three men who would go on to recruit the future "Gladiators" to fight
   European leftists, run false-flag operations, and keep European fascism alive in a hidden
   network. *([ewa/sunrise](../raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md) 26:13-26:27)*
+- Allegedly paid [[jean-violet]] ~6,000 DM annually as a 'special connection' and, per whistleblower [[hans-langemann]], 30,000 DM once for [[le-cercle]]; also a component of the CIA-BND [[operation-zipper]]. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 34:34-35:41, 42:22-42:39)*
 
 ## Relationships
 
@@ -54,3 +60,4 @@ Gladio]].
   US handlers.
 - His "werewolf" fighters were renamed "Gladiators," seeding the future [[operation-gladio]].
 - Reinstated as head of the BND (West German intelligence) in the 1950s.
+- Link to [[jean-violet]] and [[le-cercle]]; [[operation-zipper]].

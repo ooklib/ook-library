@@ -46,6 +46,9 @@ relations:
   - relation: associate_of
     target: avery-dulles
     note: "nephew, ordained a priest by Cardinal Francis Spellman in 1956 (per ewa/red-scare)"
+  - relation: member_of
+    target: american-committee-on-united-europe
+    note: "vice chairman"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
@@ -57,6 +60,8 @@ sources:
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
+    label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -159,6 +164,7 @@ calls him "arguably one of, if not the most important person in modern American 
   by Cardinal [[francis-spellman]], despite the Dulles family's Protestant background — a
   synchronicity the host notes without resolving, given Spellman's simultaneous closeness to CIA
   activities in Italy. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 35:24-36:16)*
+- Vice chairman of the CIA-cutout [[american-committee-on-united-europe]] (1948) under [[william-donovan]]; as deputy director was persuaded by [[thomas-braden]] to create the [[cia-international-organizations-division]]. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 22:58-23:32, 25:51-26:10)*
 
 ## Relationships
 
@@ -184,3 +190,4 @@ calls him "arguably one of, if not the most important person in modern American 
 - Alleged 1947 alliance (and possible campaign-funding arrangement) with [[richard-nixon]]; backed
   [[thomas-dewey]]'s 1948 presidential campaign with [[john-foster-dulles]].
 - Nephew [[avery-dulles]] ordained a priest by [[francis-spellman]] in 1956.
+- Vice chairman of [[american-committee-on-united-europe]]; created [[cia-international-organizations-division]] at [[thomas-braden]]'s urging.

@@ -43,6 +43,9 @@ relations:
   - relation: participated_in
     target: italian-election-1948
     note: "the CIA/OPC's first operation abroad, per Eyes Wide Open"
+  - relation: operates
+    target: cia-international-organizations-division
+    note: "front-group and propaganda directorate"
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -56,6 +59,8 @@ sources:
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
+    label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -114,6 +119,7 @@ shared organization page.
   [[italian-election-1948|1948 Italian election]], allying with the Vatican and Sicilian Mafia to
   defeat a feared Communist/Socialist super-majority — framed by Eyes Wide Open as arguably the
   first [[operation-gladio]] operation. *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 18:17-20:15)*
+- Per Part 5.3, the CIA funded [[american-committee-on-united-europe]], [[le-cercle]] (alleged) and the French [[rose-des-vents]] stay-behind, and consolidated front funding in the [[cia-international-organizations-division]] under [[thomas-braden]]. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 22:58-27:16)*
 
 ## Relationships
 
@@ -126,3 +132,4 @@ shared organization page.
   [[william-casey]].
 - Operates the [[office-of-policy-coordination]], run via the [[italian-election-1948]] and
   [[operation-gladio]].
+- See [[cia-international-organizations-division]], [[american-committee-on-united-europe]], [[rose-des-vents]].

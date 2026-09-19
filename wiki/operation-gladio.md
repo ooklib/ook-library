@@ -22,6 +22,18 @@ relations:
   - relation: coincides_with
     target: italian-election-1948
     note: "framed by Eyes Wide Open as arguably the first Gladio operation"
+  - relation: coincides_with
+    target: plan-bleu-1947
+    note: "first confirmed French Gladio operation, per ewa/pan-europa"
+  - relation: operates
+    target: rose-des-vents
+    note: "French stay-behind network"
+  - relation: influenced
+    target: strategy-of-tension
+    note: "core component"
+  - relation: influenced
+    target: pan-europa-movement
+    note: "pan-European integration built consensus for Gladio"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
@@ -29,6 +41,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
+    label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
 ---
 
 Operation Gladio, per Eyes Wide Open, was the joint NATO/CIA program of clandestine anti-communist
@@ -99,6 +113,10 @@ its Italian roots.
   episode's subject. Author Paul L. Williams (*Operation Gladio*) is cited as arguing the CIA
   acted as a direct funding middleman for these operations via such shell companies, against
   Alfred McCoy's more limited "facilitator" framing. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 16:49-18:21, 28:38-29:06)*
+- **France.** Per Eyes Wide Open's Part 5.3 the French Gladio lineage runs from the pre-war fascist [[la-cagoule]] (whose cell structure was the blueprint) through the foiled [[plan-bleu-1947]] (organized by the [[sdece]] with CIA/SAS collaborators) to the [[rose-des-vents]] stay-behind network, which was reportedly shut down by [[charles-de-gaulle]] in 1959, after which he created the [[service-d-action-civique]]. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 0:00-8:40, 14:54-19:34, 39:48-47:47)*
+- **Strategy of tension.** Plan Bleu papers allegedly contained an early mention of the [[strategy-of-tension]] (false-flag terror blamed on the left); its main evidence is Army Field Manual 30-31B, whose authenticity is disputed. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 17:00-18:28)*
+- **Pan-European soft power.** The CIA-funded [[american-committee-on-united-europe]] and [[le-cercle]] allegedly created a unified political-security community that made a Gladio stay-behind acceptable to both right and center-left parties, per the host's synthesis of the mini-series. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 22:58-29:15, 47:57-48:33)*
+- **Cell structure.** Gladio networks were pyramids of decentralized cells with little knowledge of who was above or below, per [[edward-barnes]], [[francois-de-grossouvre]] and the [[operation-zipper]] diagram. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 41:21-43:55)*
 
 ## Relationships
 
@@ -114,3 +132,4 @@ its Italian roots.
 - Its Italian roots trace to [[operation-husky]] and the [[italian-election-1948]], involving
   [[calogero-vizzini]], [[charles-poletti]], [[christian-democracy-italy]], and
   [[francis-spellman]].
+- French chapter: [[la-cagoule]], [[plan-bleu-1947]], [[rose-des-vents]], [[sdece]], [[strategy-of-tension]]; pan-European front groups [[american-committee-on-united-europe]] and [[le-cercle]].

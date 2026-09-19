@@ -11,7 +11,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
 `gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`,
 `rjm/city-of-london`, `mpu/secret-society`, `ewa/oss`, `ewa/sunrise`, `ewa/mafia-allies`,
-`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`).
+`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`).
 
 Note: the wiki spans four topic areas — the original alleged "UFO legacy programs" ecosystem
 (MITRE, SAIC, NRO, Lockheed, etc.), a British power-structures thread (Fabian Society, Chatham
@@ -132,7 +132,10 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[world-commerce-corporation]] · [[federal-bureau-of-narcotics]] ·
 [[house-un-american-activities-committee]] · [[carnegie-endowment-for-international-peace]] ·
 [[time-life]] · [[resorts-international]] · [[castle-bank-and-trust]] ·
-[[j-edgar-hoover-foundation]]
+[[j-edgar-hoover-foundation]] · [[la-cagoule]] · [[corvignolles]] · [[loreal]] · [[sdece]] ·
+[[american-committee-on-united-europe]] · [[cia-international-organizations-division]] ·
+[[le-cercle]] · [[bilderberg-group]] · [[safari-club]] · [[western-goals-foundation]] ·
+[[service-d-action-civique]]
 
 ## Places
 
@@ -209,7 +212,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[operation-safe-haven]] · [[operation-x]] · [[operation-underworld]] ·
 [[national-security-act-1947]] · [[truman-doctrine]] · [[marshall-plan]] · [[operation-husky]] ·
 [[italian-election-1948]] · [[portella-della-ginestra-massacre-1947]] · [[blue-suite]] ·
-[[kefauver-committee]]
+[[kefauver-committee]] · [[plan-bleu-1947]] · [[rose-des-vents]] · [[operation-zipper]]
 
 ## People — British power structures
 
@@ -241,7 +244,13 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[richard-nixon]] · [[alger-hiss]] · [[whittaker-chambers]] · [[henry-luce]] ·
 [[john-loftus]] · [[carl-oglesby]] · [[avery-dulles]] · [[clyde-tolson]] ·
 [[thomas-dewey]] · [[donald-trump]] · [[robert-f-kennedy]] · [[joseph-kennedy]] ·
-[[richard-helms]]
+[[richard-helms]] · [[eugene-deloncle]] · [[georges-loustaunau-lacau]] ·
+[[eugene-schueller]] · [[edouard-depreux]] · [[walter-bedell-smith]] · [[thomas-braden]] ·
+[[cord-meyer]] · [[richard-aldrich]] · [[daniele-ganser]] · [[david-teacher]] ·
+[[antoine-pinay]] · [[konrad-adenauer]] · [[jean-violet]] · [[hans-langemann]] ·
+[[hennie-van-vuuren]] · [[brian-crozier]] · [[jonathan-aitken]] · [[edward-barnes]] ·
+[[jonathan-kwitny]] · [[constantin-melnik]] · [[francois-de-grossouvre]] ·
+[[charles-de-gaulle]] · [[jacques-foccart]] · [[francois-mitterrand]]
 
 ## Concepts
 
@@ -252,4 +261,5 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[top-policy-group]] · [[presidential-emergency-action-documents]] ·
 [[atomic-energy-act-1954]] · [[content-only-special-access-program]] ·
 [[covert-action-program]] · [[yankee-blue]] · [[permeation]] · [[deep-state]] ·
-[[non-aligned-movement]] · [[relation-types]] · [[yankee-cowboy-thesis]]
+[[non-aligned-movement]] · [[relation-types]] · [[yankee-cowboy-thesis]] ·
+[[strategy-of-tension]] · [[pan-europa-movement]]
