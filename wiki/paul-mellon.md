@@ -12,6 +12,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Paul Mellon appears in the transcript via a host-relayed anecdote.
@@ -28,3 +30,7 @@ Paul Mellon appears in the transcript via a host-relayed anecdote.
 ## Additional claims (jm/townsend-brown)
 
 - Grandson John Warner IV says Mellon and Allen Dulles saw a German flying disc in a Pilsen hangar in May 1945. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 56:39-57:11)*
+
+## Claims (jm/cover-up)
+
+- [[jesse-michels]] repeats an apocryphal story via his grandson John Warner IV that Mellon and [[allen-dulles]] stood atop a huge saucer in Pilsen, Czechoslovakia during a WWII tech-retrieval operation. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:13:32, 1:13:41)*

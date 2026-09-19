@@ -37,6 +37,8 @@ sources:
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Luis Elizondo (ASR-transcribed "Lou Alzando"/"Luis Alzando") claimed to direct, work for, or
@@ -132,3 +134,7 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
 ## Additional claims (gerb/mj12)
 
 - Gerb notes "Lou Elizondo" (ASR "Lou alzando") stated in his 2024 book *Imminent* that a Dec 1950 crash occurred near El Indio/Guerrero on the Texas-Mexico border, matching the EBD's crash. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 0:33, 9:57)*
+
+## Claims (jm/cover-up)
+
+- Cited by [[jason-samosa]] for the ten-course-menu analogy for staged disclosure, and as expected to talk about hybrids (per [[john-ramirez]]); his book Imminent reportedly says people with Cherokee blood have more experiences. See [[alien-human-hybridization-claims]]. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:07:48, 2:09:16, 2:11:43)*

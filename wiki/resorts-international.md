@@ -19,9 +19,14 @@ relations:
   - relation: acquired_by
     target: donald-trump
     note: "briefly owned by Trump beginning 1986, the same year Roy Cohn and (separately) Meyer Lansky died"
+  - relation: associate_of
+    target: international-intelligence-inc
+    note: "subsidiary Intertel"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Resorts International — originally the obscure Mary Carter Paint Company, in which
@@ -49,3 +54,8 @@ Bahamas casinos/resorts and briefly passing through [[donald-trump]]'s hands.
 - Tied to [[castle-bank-and-trust]]; rumored (per Whitney Webb) to be controlled by
   [[meyer-lansky]].
 - Briefly owned by [[donald-trump]] from 1986.
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: Axel Wenner-Gren bought Hog Island in the Bahamas and rebranded it Paradise Island; the Mary Carter Paint Company, said to be a CIA-front-like entity, was converted into Resorts International, which ran the island and casinos (presumably used for laundering), and spun up [[international-intelligence-inc]]. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:41:39, 1:41:52, 1:42:02, 1:42:23)*
+- Donald Trump became controller of Resorts International for a short period; Samosa says "mid-70s" while the intro clip says mid-80s (the earlier wiki text says 1986). Samosa thinks Trump is not thinking deeply about UFOs. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:43:43, 1:21:15, 2:30:02)*

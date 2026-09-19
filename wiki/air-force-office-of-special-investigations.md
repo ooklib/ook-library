@@ -34,6 +34,8 @@ sources:
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 AFOSI's Office of Special Projects (PJ) is named as a "program protection and exposure
@@ -123,3 +125,7 @@ architecture." *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 34:09–35:08)*
   [[guardian-angel-program]] with the FBI; one of three program-protection "antibody" offices
   alongside [[darpa-security-and-intelligence-directorate]] and
   [[doe-office-of-intelligence-and-counterintelligence]].
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: says the founding director was a devout Catholic who wanted seminary and was steered to intelligence; AFOSI is said to have overseen the very beginnings of the [[collins-elite]] theory; AFOSI appears in UFO lore at nuclear bases demanding radar data and NDAs. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:25:13, 2:25:22, 2:25:46)*

@@ -35,6 +35,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Prescott Bush (born 1895, Columbus, Ohio) is [[eyes-wide-open]]'s "Bush the Father" Chapter 1 anchor
@@ -116,3 +118,7 @@ not established fact.
 - Associates: [[allen-dulles]], [[neil-mallon]], [[averell-harriman]], [[robert-lovett]], [[william-pawley]].
 - Father of [[george-h-w-bush]].
 - Participant in the [[draft-eisenhower-movement]]; alleged sponsor of [[richard-nixon]].
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]] claims (unverified) Bush was president of the Union Bank that funded Nazis, and that the Maison Rouge circle depended on such bankers. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:21:13, 1:21:15)*

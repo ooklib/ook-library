@@ -21,6 +21,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Ross Coulthart, Australian investigative journalist (host of *Need to Know* with Bryce Sable),
@@ -59,3 +61,7 @@ privately told him the 2004 Nimitz "tic tac" originated from Lockheed Skunk Work
 ## Additional claims (rc/grusch)
 
 - Conducted and narrated the June 2023 NewsNation interview with [[david-grush]] (see [[grusch-newsnation-interview-2023]]), pressing him on credibility, mental health, why the secret has not leaked and whether people were killed; closes by saying the allegations, if true, answer the biggest question in human history, while acknowledging Grusch has no documents or photos. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 33:20-33:46,)*
+
+## Claims (jm/cover-up)
+
+- Cited by [[jason-samosa]] for the observation that Republican presidents seem to receive UFO information while Democratic ones do not; see [[presidential-ufo-briefing-claims]]. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 46:22, 46:30)*

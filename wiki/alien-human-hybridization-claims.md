@@ -1,0 +1,29 @@
+---
+title: Alien-human hybridization claims
+kind: concept
+aliases: ["Hybrid program"]
+tags: [hybrids, abduction, disclosure, speculative]
+relations:
+  - relation: alleged_by
+    target: jesse-michels
+  - relation: references_testimony_of
+    target: luis-elizondo
+sources:
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+---
+
+Claims about a hybridization program collected by [[jason-samosa]] in a personal notebook and discussed in the `jm/cover-up` episode. The wiki records them as anecdotal hearsay.
+
+## Claims
+
+- [[luis-elizondo]] reportedly likened disclosure to a ten-course menu served piece by piece; the "hybrids" course is expected late. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:07:48)*
+- Many people were allegedly warned off: [[tom-delonge]] said his advisers went quiet when he asked about hybrids; [[jacques-vallee]]'s journals recount [[diana-pasulka]] relaying that [[tim-taylor-nasa]] said not to discuss it; [[john-ramirez]] in 2022 said everyone was waiting for Elizondo to talk about hybrids. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:08:38, 2:08:58, 2:09:06)*
+- Samosa argues it is dangerous to release the idea that some people have more non-human DNA, given the risk of ranking humans; he says one Secret Machines adviser (McCasland or General Hayden) said genocides may be a function of the phenomenon eliminating genetic strands, and that Elizondo's book Imminent says people with Cherokee blood have more experiences. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:09:30, 2:10:40, 2:11:43)*
+- [[jim-semivan]] reportedly told Ryan Bledsoe "we think you're hybrids". *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:11:24)*
+- Michels suggests senior ex-CIA figures saying such things is a deliberate slow seeding of ideas. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:13:15, 2:14:22)*
+- DeLonge allegedly said early on that some Iraq activity related to groups connected with non-human entities. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:15:32)*
+
+## Relationships
+
+- Related: [[non-human-intelligence]].

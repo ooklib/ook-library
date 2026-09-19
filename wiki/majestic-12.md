@@ -49,6 +49,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
@@ -184,3 +186,7 @@ Full treatment of the episode: [[mj12-disinformation-hypothesis]], [[cutler-twin
 - Coulthart notes the "first annual report" MJ-12 document carries the CIA/SI 28-55 designation, see [[goudsmit-letter]]. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 59:44-1:00:31)*
 
 Comparison with Gerb: rc/mj12 agrees that MJ-12 personnel/dates line up with real Truman/Forrestal records (cf. gerb/sandia, gerb/secrecy_1, gerb/mj12) but differs on the [[cutler-twining-memo]] (Gerb/Wood: near-certainly genuine; Davis: plant). Gerb's timeline places a "real MJ-12" under [[nsc-10-2]] (1948); rc/mj12 does not discuss NSC 10/2 and treats 1947 as formation. *(see [[legacy-program-timeline]])*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]] thinks the MJ-12 documents were "probably some counterintel ploy" but contain real elements, such as the document about Francis Spellman getting Roswell access. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:23:01, 2:23:16)*

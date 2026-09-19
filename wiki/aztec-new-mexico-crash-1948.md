@@ -21,6 +21,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 An alleged additional 1940s UFO crash retrieval near Aztec, New Mexico, which Gerb speculates
@@ -68,3 +70,7 @@ alongside [[roswell-incident-1947|Roswell]]. *([gerb/mitre](../raw/gerb/mitre.md
 ## Additional claims (gerb/sarbacher)
 
 - Sarbacher told Smith [[frank-scully]]'s book was fundamentally correct; Gerb says he has reservations about Aztec and is saving judgment. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 6:47-7:33)*
+
+## Claims (jm/cover-up)
+
+- [[jesse-michels]] says he and his editor visited Aztec, New Mexico, arrived skeptical, and left "pretty sure there was a crash there"; he argues the crashes are real, implying reverse engineering. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:00:46, 1:01:36)*

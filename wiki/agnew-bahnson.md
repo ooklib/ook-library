@@ -12,6 +12,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Agnew Bahnson (ASR: "bonson"), an air-conditioning magnate and physics patron, ran the Institute of Field Physics at UNC Chapel Hill and bankrolled [[thomas-townsend-brown]]. 
@@ -30,3 +32,7 @@ Agnew Bahnson (ASR: "bonson"), an air-conditioning magnate and physics patron, r
 ## Additional claims (jm/kissinger)
 
 - [[jesse-michels]]: head of UNC's Institute of Field Physics under [[gordon-gray]], funded [[thomas-townsend-brown]]; the institute hosted the 1956 Chapel Hill gravity conference sponsored by Wright Airfield. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 23:33, 23:41, 23:49)*
+
+## Claims (jm/cover-up)
+
+- Per [[jesse-michels]]: Bahnson funded top theoretical physicists and Brown, wrote the book The Stars Are Too High about rogue Nazi scientists collaborating with Americans to build man-made UFOs and stage an alien invasion, and died in a bizarre plane crash his family thinks was murder (power lines put up at his landing strip). *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:31:23, 1:31:41, 1:32:04)*

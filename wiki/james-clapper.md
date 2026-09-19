@@ -29,6 +29,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Former Director of National Intelligence (DNI), USDI, and DIA Director. Gerb casts Clapper as
@@ -110,3 +112,7 @@ succeeding [[dick-cheney]]. *([gerb/mitre](../raw/gerb/mitre.md) 5:11–5:18)*
 ## Additional claims (gerb/timeline)
 
 - Timeline video: after Cheney, Clapper (DNI) with PDDNI [[stephanie-osullivan]], [[michael-dempsey]] and DNRO Betty Sapp is described as "mob boss in a severely diminished capacity"; Gerb says AATIP (2009/12-2017) was a cover for NSC activities with Clapper's top cover for a partial-disclosure initiative and that AATIP personnel refused to answer questions about Clapper without him present; [[immaculate-constellation]] arose in Clapper's "sunset years". *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:05:26-2:05:51, 2:16:46-2:18:34)*
+
+## Claims (jm/cover-up)
+
+- [[jesse-michels]]: appears with John Brennan in a movie that tacitly endorses UFO reality, Area 51 tracking programs Clapper says he helped set up, and a multigenerational legacy program. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 53:10, 53:19)*

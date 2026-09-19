@@ -22,6 +22,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 The Advanced Aerospace Weapon System Applications Program (AAWSAP, "OAP"), discussed alongside
@@ -56,3 +58,7 @@ Gerb's earlier (SAIC video) theory suggested AATIP was likely a "white world cov
   contracted via [[bigelow-aerospace-advanced-space-studies]]; per Grush, intended recipient of
   [[operation-kona-blue]]'s material transfer; distinguished from (not a parent SAP of)
   [[advanced-aerospace-threat-identification-program]] per Gerb's Vol. 2 revision.
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: the AAWSAP scientists worked on a DIA-funded program with Bigelow Aerospace that studied about 260,000 cases with seven levels of analysis (the biggest UFO-data study); [[jacques-vallee]]'s journals hint an existential threat was detected; the program ran 2007 to 2012 under [[harry-reid]] then AATIP; the publicly known budgets (about $22 million) are tiny compared with what real reverse engineering would cost, implying a hidden legacy program. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 43:52, 44:07, 54:38, 55:17)*

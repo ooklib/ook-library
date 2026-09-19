@@ -31,6 +31,8 @@ sources:
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
     label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Peter Dale Scott is a researcher credited by Eyes Wide Open as the originator of the "deep
@@ -84,3 +86,7 @@ series on the history of the CIA.
 ## Additional (ewa/dallas-5)
 
 - Host discovered [[frank-brandstetter]] through a passing mention and footnote in *Dallas 63* (p. 140-145 cited). Scott, citing European sources and an Italian Piazza Fontana source, says [[philippe-thyraud-de-vosjoli]] turned double agent for the CIA and the OAS and was an intermediary between CIA leaders including [[richard-helms]] and OAS organizer Jacques Soustelle; Scott also quotes the French spy's autobiography on his flight to Las Brisas on 22 Nov. 1963. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 11:24-11:42, 42:27-43:38, 45:55-46:12)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: Scott (who wrote on JFK and coined "deep state") described the [[world-commerce-corporation]] as a private intelligence agency for the Rockefeller-circle finance elite. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:26:41, 1:26:49, 1:43:26)*

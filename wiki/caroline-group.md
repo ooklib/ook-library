@@ -12,6 +12,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 The "Caroline group", per Paul Schatzkin's book as relayed by the host, is a consortium of international elites and private financiers who met on Eldridge Reeves Johnson's yacht Caroline, a private-enterprise intelligence operation. Alleged, unverified.
@@ -26,3 +28,7 @@ The "Caroline group", per Paul Schatzkin's book as relayed by the host, is a con
 ## Relationships
 
 - Alleged network around [[thomas-townsend-brown]], [[william-stevenson]] and [[robert-sarbacher]].
+
+## Claims (jm/cover-up)
+
+- [[jesse-michels]]: Townsend Brown reportedly ran into this international group of industrialists that soaked up exotic technology; compared with the [[maynard-consortium]]. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:17:46)*

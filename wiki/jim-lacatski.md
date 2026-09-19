@@ -14,6 +14,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Dr. Jim Lacatski, one of the founders of the DIA's [[aawsap|OAP/AAWSAP]] program, claimed in a
@@ -36,3 +38,7 @@ exhaust, wings, or control surfaces." *([gerb/lockheed](../raw/gerb/lockheed.md)
 ## Additional claims (jm/nasa-pagan)
 
 - Michels cites DIA physicist James Lacatski as saying his team accessed a non-human craft and entered it, and that human capabilities are "not fully revealed". *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 57:25-58:05)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]] (ASR "Latsky"): Lacatski writes about the craft like a "platonic puzzle", more mystical than physics; [[eric-davis]] reportedly said there were no physicists on the program. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:01:52, 1:02:00, 1:02:16)*

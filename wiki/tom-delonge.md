@@ -9,6 +9,12 @@ relations:
   - relation: alleged_by
     target: luis-elizondo
     note: "Gerb theorizes Elizondo (an NRO/DIA/CIA liaison for TTSA) informed DeLonge of episodic UFO visit data"
+  - relation: associate_of
+    target: neil-mccasland
+    note: "adviser, per Samosa"
+  - relation: associate_of
+    target: jim-semivan
+    note: "adviser"
 sources:
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
@@ -18,6 +24,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Musician who founded [[to-the-stars-academy|To the Stars Academy]], publicly launched on Joe
@@ -65,4 +73,11 @@ Rogan Experience episode 1029 (26 October 2017). ASR-transcribed as "Tom Dong" i
 
 ## Additional claims (jm/nasa-pagan)
 
-- Michels: co-author with [[peter-levenda]] of *Secret Machines*; Levenda suggests figures near the [[nrol-16-launch-2005]] encouraged him to study Greek myth (Prometheus). See [[secret-machines-project]]. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 50:56-51:31, 58:43-59:26)*
+- Michels: co-author with [[peter-levenda]] of *Sekret Machines*; Levenda suggests figures near the [[nrol-16-launch-2005]] encouraged him to study Greek myth (Prometheus). See [[sekret-machines-project]]. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 50:56-51:31, 58:43-59:26)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: DeLonge began a media/music project in 2013; [[peter-levenda]] said 10 advisers were already in place when he joined in November 2014; a Lockheed Skunk Works contact asked him to MC an event, he insisted on speaking to the person running it, and a piece on cargo cults got the Skunk Works people interested; meetings followed at the Pentagon and NASA, with General Mike Kerry introducing him to [[neil-mccasland]]. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 34:04, 35:03, 35:29, 37:50, 38:06)*
+- Samosa cites the hacked Podesta emails (about 35 exchanges) and a meeting with McCasland, Kerry, Robert Vice and [[john-podesta]], and says [[jacques-vallee]]'s journals validate the contacts; DeLonge had been on Coast to Coast with [[george-knapp]] in 2011. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 39:59, 40:06, 45:11)*
+- DeLonge reportedly said his advisers went quiet when he asked about hybrids, and early on tied some Iraq activity to groups connected with non-human entities. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:08:38, 2:15:32)*
+- Samosa suspects the project reflected confluence of DeLonge's organic interest and government interest, tied to 2013 White House "confirmation" rumors. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 41:25, 43:19)*

@@ -83,6 +83,8 @@ sources:
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -199,3 +201,7 @@ shared organization page.
 ## Additional claims (Road to Dallas Ch. 4)
 
 - Host: CIA-affiliated pilots ([[edward-browder]], [[barry-seal]], [[david-ferrie]]) rubbing shoulders with mob gun smuggling "hints at an earlier CIA-mafia alliance on the Gulf Coast" than the Castro assassination plots. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 20:40-21:34)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]] (via [[nick-redfern]]): the Directorate of Plans allegedly funded the [[collins-elite]] program from 1952, with about 12 full-time staff; CIA's "weird desk" ([[ron-pandolfi]]) handled the Clinton-era briefing request. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 17:15, 17:31, 49:04)*

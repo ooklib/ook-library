@@ -27,6 +27,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 To the Stars Academy, founded by musician [[tom-delonge|Tom DeLonge]] ("Tom Dong" per ASR),
@@ -83,3 +85,7 @@ EVP Rob Weiss, and 30+-year Skunk Works veteran Steve Justice. *([gerb/nro](../r
 ## Additional claims (gerb/timeline)
 
 - Timeline video: named with [[john-podesta]], Gen. McAlant and Lockheed Skunk Works personnel in the alleged AATIP-era partial-disclosure effort. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:17:06-2:17:21)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: [[jim-semivan]] is described as an adviser and senior CIA executive; the [[tom-delonge]] story is reviewed with Podesta emails. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 35:03, 1:15:32)*

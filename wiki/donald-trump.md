@@ -15,6 +15,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Donald Trump appears in this episode as a later protégé of [[roy-cohn]] — the McCarthy-era "Deep
@@ -42,3 +44,7 @@ American power politics — and as the brief 1986 owner of [[resorts-internation
 ## Additional claims (jm/malmgren)
 
 - Host: his uncle [[john-trump]] was [[carl-compton]]'s top technical aide at MIT and reviewed Tesla's confiscated papers. *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 21:07-21:28)**)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: Trump became controller of [[resorts-international]] briefly (year stated inconsistently in the episode), while Samosa's gut says he is not thinking deeply about UFOs; Michels says [[neil-mccasland]] vanished days after Trump's disclosure announcement; Samosa notes Trump's Fordham education, Catholic appointees, and Pope Leo's public spat with him. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:43:43, 1:16:25, 2:29:00, 2:30:02)*

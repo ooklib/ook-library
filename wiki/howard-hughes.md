@@ -18,6 +18,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Howard Hughes is the aviation billionaire [[eyes-wide-open]] uses to illustrate wartime
@@ -83,3 +85,7 @@ page also covers his firms Hughes Aircraft Company and Transworld Airline (TWA).
 ## Additional claims (Road to Dallas Ch. 4)
 
 - Host: Moe Dalitz's Desert Inn was later purchased and lived in by Hughes (cf. the CIA-mafia plots video); Hemming (Argosy 1993) says ex-CIA people in trouble went to work for "people that knew mob people or Howard Hughes people". *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 6:02-6:08, 25:26-25:50)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: Hughes was "suddenly brought down" to the Bahamas after the 1960s build-up, either voluntarily or, in another story, to be held; he says he has not dug deeply into it. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:40:43, 1:40:47)*

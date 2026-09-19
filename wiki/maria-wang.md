@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Maria Wang was the widow of [[eric-henry-wang]], the Wright-Patterson "Special Studies" chief. In the account [[jesse-michels]] relays from [[william-steinman]]'s 1980s research, she is the source of the claim that her husband reported directly to [[henry-kissinger]].
@@ -28,3 +30,7 @@ Maria Wang was the widow of [[eric-henry-wang]], the Wright-Patterson "Special S
 ## Relationships
 
 - Widow of [[eric-henry-wang]]; interviewed by [[william-steinman]]; her claim is the hinge of [[henry-kissinger]]'s alleged role in the UFO legacy program.
+
+## Claims (jm/cover-up)
+
+- Cited again by [[jason-samosa]]: she reportedly told William Steinman her husband worked on UFOs and his boss was Henry Kissinger. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:32:17, 1:32:24)*

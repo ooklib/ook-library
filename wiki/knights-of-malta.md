@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 The Sovereign Military Order of Malta, a Vatican-linked order with sovereign-state status. In the Malmgren interview it is put forward, as speculation, as a hidden guardian of UFO secrecy. This wiki records the claims only.
@@ -27,3 +29,7 @@ The Sovereign Military Order of Malta, a Vatican-linked order with sovereign-sta
 ## Relationships
 
 - Overlaps in membership with [[council-on-foreign-relations]] (per Malmgren); linked in the host's framing to [[jsoc]], [[pope-pius-xii]] and [[magenta-italy-crash-1933]].
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: the Vatican, the Knights of Malta and monarchies colluded at the 1815 Congress of Vienna under Metternich to systematize their response to revolutions; the "ultimate revolution" would be UFO disclosure breaking biblical doctrine. Catholics, including many CIA directors (Knights of Malta) and the founding director of [[air-force-office-of-special-investigations]], allegedly give the Vatican "a seat at the board of directors of the UFO issue". He stresses the groups are not one monolith, mentions Pope Francis reining in the Knights, and Trump's Fordham and Catholic ties. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:18:56, 2:19:21, 2:25:46, 2:27:02, 2:29:27)*

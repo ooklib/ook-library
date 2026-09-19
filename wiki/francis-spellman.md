@@ -29,6 +29,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Cardinal Francis Spellman of New York worked as an American propagandist against the PCI during
@@ -77,3 +79,7 @@ teases deeper New York-connection coverage in Part 2.
   [[blue-suite]] attendee.
 - Ordained [[avery-dulles]] as a priest in 1956.
 - LAOS 3: promoted [[ngo-dinh-diem]] within the [[vietnam-lobby]].
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: cited in the Majestic 12 documents as given access to Roswell material; a cardinal and Grand Protector of the Knights of Malta, deeply tied to the Vatican; Bishop McIntyre is separately said to have loitered around Edwards AFB in 1954 when Eisenhower supposedly made his deal. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:22:46, 2:23:16, 2:23:32, 2:23:39)*

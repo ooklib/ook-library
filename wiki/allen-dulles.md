@@ -61,6 +61,9 @@ relations:
   - relation: associate_of
     target: jay-patrick-coyne
     note: "alleged tip-off before the 28 June 1961 JFK meeting"
+  - relation: associate_of
+    target: world-commerce-corporation
+    note: "legal counsel per Samosa"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
     label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
@@ -106,6 +109,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -312,3 +317,7 @@ calls him "arguably one of, if not the most important person in modern American 
 - [[geoffrey-cruickshank]] calls Dulles "the common theme" linking [[operation-paperclip]] and UAP programs: he says in a 27 June 1947 congressional exchange Rep. Walter Judd asked Dulles whether Canaris was his agent; that Dulles received Ciano's diary from Edda Mussolini (Ciano was on [[rs-33]]); helped Nazis escape via Knights of Malta passports; and "controlled the UFO files in the CIA with James Angleton". *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 12:52-14:17)*
 - Coulthart repeats [[david-grush]]'s claim that Dulles, [[james-jesus-angleton]] and OSS staff moved the Magenta craft to the US around 1944 with Vatican help. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 16:11-16:59)*
 - Davis: Dec 1946 New York three-day meeting of Dulles, [[william-donovan]], [[hoyt-vandenberg]] and [[vannevar-bush]]; Cruickshank: JFK's alleged 28 June 1961 MJ-12 question to Dulles (see [[jay-patrick-coyne]]); implies Dulles-sponsored coup if MJ-12 is real. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 15:12-15:59, 58:02-59:01, 1:12:32-1:13:04)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: Dulles was legal counsel of the [[world-commerce-corporation]], helped with Nazi financing in Switzerland, and per an apocryphal story via John Warner IV from Paul Mellon stood atop a saucer in Pilsen, Czechoslovakia on a tech-retrieval operation. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:13:41, 1:21:19, 1:24:37)*

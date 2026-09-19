@@ -60,6 +60,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Richard Nixon appears in this episode as a junior California congressman who built his
@@ -157,3 +159,7 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
 ## Additional claims (rc/mj12)
 
 - [[geoffrey-cruickshank]]: Nixon's "fingerprints are all over" MJ-12 as 1950s vice president, and his firing of [[richard-helms]] and desire to have documents burned prompted [[scotty-miller]] to save and leak the [[burned-memo]] material. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 48:18-48:58, 1:08:53-1:09:19)*
+
+## Claims (jm/cover-up)
+
+- [[jesse-michels]] considers Nixon an outsider (Whittier, chip on shoulder, wanted CIA force reductions, ousted artificially); [[jason-samosa]] counts him among presidents briefed. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 45:56, 47:12)*

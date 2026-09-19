@@ -18,6 +18,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Laurance Rockefeller (spelled "Lawrence" throughout the ASR; normalization is my inference, alias kept) is presented by [[eyes-wide-open]] as the Rockefeller brother who managed the family's inherited wealth through [[rockefeller-brothers-inc]] and led the Rockefeller Brothers Fund. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 21:55-22:11, 25:45-26:01)*
@@ -32,3 +34,7 @@ Laurance Rockefeller (spelled "Lawrence" throughout the ASR; normalization is my
 ## Relationships
 
 - Founder of [[rockefeller-brothers-inc]]; member of [[rockefeller-family]]; Panel II member in [[special-studies-project]]; RBI partners founded [[itek]].
+
+## Claims (jm/cover-up)
+
+- [[jesse-michels]]: he was very close to the Clintons and kept pushing them toward UFO disclosure. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 48:18, 48:26)*

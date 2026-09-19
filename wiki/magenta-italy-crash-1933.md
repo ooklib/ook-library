@@ -36,6 +36,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Cited by Gerb as an example of a prior alleged UFO crash retrieval before Roswell; he assesses
@@ -96,3 +98,7 @@ Gerb's full video on the case, positioned as "the Roswell before Roswell", with 
 ## Additional claims (rc/grusch)
 
 - [[david-grush]]'s 2023 NewsNation account: a partially intact vehicle recovered at Magenta in 1933, moved to a secure Italian air base under the fascist regime until 1944-45; [[pope-pius-xii]] back-channelled it to the Americans who "scooped it". Coulthart's narration shows an Italian secret-service memo with crude UAP drawings. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 14:59-15:58)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: says the Magenta crash was probably held by, or known to, the Vatican, stored at the Soratte bunker, with information relayed via Pius XII to FDR. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:22:46, 2:23:01)*

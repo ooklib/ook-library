@@ -12,6 +12,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 The Bank for International Settlements (BIS), headquartered in Bern, was founded in the 1920s to
@@ -48,3 +50,7 @@ described in this episode.
 
 
 - Host: first president was Gates W. McGarrah (1930-33), maternal grandfather of [[richard-helms]]; founded to facilitate German reparations, "most known for its work after McGarrah's leadership laundering Nazi loot" under [[thomas-mckittrick]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 18:34-19:18)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: representatives allegedly attended the [[maison-rouge-meeting-1944]]. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:19:33)*

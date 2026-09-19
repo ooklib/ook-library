@@ -18,6 +18,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 The Vatican Bank (Istituto per le Opere di Religione, IOR), per Eyes Wide Open, served as the
@@ -55,3 +57,7 @@ public yearly financial disclosures.
 ## Additional claims (jm/malmgren)
 
 - [[harald-malmgren]] says that in 1973, with Pete Peterson, he met "Archbishop Minkus", former archbishop of Chicago and head of the Vatican bank, who described a tripartite way of defending against communism (Pope/Vatican, elected government, Sicilian mafia) and knew of Malmgren's boyhood mafia-dominated Rhode Island community. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 3:09:25-3:10:57)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: per Paul Williams, [[michele-sindona]]'s acquired banks had the remaining shares taken by the Vatican bank and [[charles-hambro]]. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:38:36, 1:38:44)*

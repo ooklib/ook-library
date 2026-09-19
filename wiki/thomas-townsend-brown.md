@@ -39,6 +39,9 @@ relations:
   - relation: authored
     target: winter-haven-proposal
     note: "1953"
+  - relation: associate_of
+    target: william-stevenson
+    note: "close friend and yacht/Bahamas companion, per Samosa"
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
@@ -46,6 +49,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Thomas Townsend Brown, associated with the [[biefeld-brown-effect]] and alleged antigravity research. In the Malmgren interview he is central to Malmgren's late-life research.
@@ -87,3 +92,9 @@ Jesse Michels' 2024 documentary, based on Paul Schatzkin's biography *The Man Wh
 ## Additional claims (jm/nasa-pagan)
 
 - Michels: a Caltech student in the 1930s whose earlier spaceflight ideas were ignored by professors such as Millikan; alleged by [[tim-taylor-nasa]] (via Ryan Bledsoe) to have presided over a secret time-travel group in Nassau; Michels says Brown was obsessed with time travel and spent much time in the Bahamas with William Stevenson. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 15:19-15:33, 55:06-56:13)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]] / [[jesse-michels]]: Brown allegedly took part in a 1958 Hartford, Connecticut crash retrieval (documented by Michael Swords, involving Project Moonwatch and Blue Book contacts Robert Friend and J. Allen Hynek) by flashing credentials and taking material; see [[hartford-ufo-crash-1960]]. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:09:44, 1:10:13, 1:10:20)*
+- [[william-stevenson]] reportedly sent Brown's wife a telegram that Brown was okay after a WWII behind-the-lines tech retrieval; Brown and Stevenson went on Bahamas trips on the yacht of RCA's Eldridge Johnson, and [[agnew-bahnson]] funded Brown. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:30:03, 1:30:24, 1:31:23)*
+- Michels: Brown claimed to be communicating with "space brothers" and is a key example of "parallel engineering" alongside [[bob-lazar]]. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:09:12, 1:10:54)*

@@ -18,6 +18,8 @@ sources:
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Pope Pius XII met with [[william-donovan]] at the Vatican in 1945 as the war ended, and per Eyes
@@ -48,3 +50,7 @@ and Vatican worked to secure a Christian Democratic victory.
 ## Additional claims (rc/grusch)
 
 - [[david-grush]] (NewsNation, 2023): Pius XII back-channelled to the Americans what the Italians held from the Magenta recovery, so the Vatican knew of NHI. Coulthart pushes: the Church "know[s] about the existence of non-human intelligence"; Grusch answers "Certainly". *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 15:31-15:58)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: information on the Magenta crash was allegedly back-channeled through Pope Pius XII to FDR, with the craft held at the Soratte bunker outside Rome. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:22:46, 2:22:53)*

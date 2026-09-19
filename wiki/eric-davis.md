@@ -32,6 +32,8 @@ sources:
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Dr. Eric Davis is the physicist who transcribed the [[wilson-davis-notes|Wilson-Davis notes]],
@@ -97,3 +99,7 @@ the estate of the late astronaut [[edgar-mitchell|Edgar Mitchell]].
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb explains Davis's statement (no ARV/derivation success) as referring to the Ryder-era metallurgy program, per a Third Eye Drops/Michael Phillip podcast; the CIA-like "three-letter agency" handed out material pieces so contractor engineers could not identify a recovered craft; Gerb disagrees that no successful reverse engineering has occurred. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:12:06-2:16:15)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: named as part of the [[lone-stars-group]] with Vallee and Puthoff; also cited for saying there were no physicists on the retrieval program. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:02:16, 2:02:28)*

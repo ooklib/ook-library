@@ -47,6 +47,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Henry Kissinger appears in War Conspiracy 2 as the then-little-known Harvard professor who co-directed the Rockefeller [[special-studies-project]] and personally directed Panel II; the host adds that he later became Nixon's "bloodthirsty" National Security Advisor and an architect of the Southeast Asian bombing campaign (host's characterization, "clearly reassessed as war crimes"). *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 27:12-27:35, 27:44-27:59)*
@@ -98,3 +100,7 @@ Henry Kissinger appears in War Conspiracy 2 as the then-little-known Harvard pro
 ## Relationships (jm/kissinger)
 
 - Employed by [[counter-intelligence-corps]] (1945-47); consultant to [[psychological-strategy-board]]; associate of [[gordon-gray]], [[allen-dulles]], [[eric-henry-wang]] (alleged reporting line), [[don-carter]]; sender of [[kissinger-moon-dust-telegram-1977]]; subject of [[jesse-michels]]'s episode.
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: Eric Henry Wang's widow Maria Wang told William Steinman that her husband's boss was Henry Kissinger; Samosa (in a video essay) thinks Kissinger may be tied to the UFO topic and was more beholden to [[nelson-rockefeller]] than to Nixon. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:32:12, 1:32:17, 1:32:42)*

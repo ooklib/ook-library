@@ -48,6 +48,8 @@ relations:
     note: "listed as a Knight, per host"
   - relation: associate_of
     target: william-stevenson
+  - relation: board_member_of
+    target: world-commerce-corporation
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md"
     label: "America’s Fascist Spymaster - Willoughby 1 (Eyes Wide Open)"
@@ -83,6 +85,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 William "Wild Bill" Donovan was a WWI-hero-turned-Wall-Street-lawyer who became the first (and
@@ -212,3 +216,7 @@ administrator.
 ## Additional claims (rc/mj12)
 
 - [[geoffrey-cruickshank]]: on 19 Jan 2017 (per a document found by Kelly Hughes at Carlisle Barracks) the CIA checked Donovan's OSS microfilms for anything on UFOs, allegedly because Gen. Michael Flynn was pressuring the CIA in the transition about a decades-old program; he ties this to Flynn's mentor Ron Burgess and [[operation-kona-blue]]. Donovan also met Bush, Dulles and Vandenberg in Dec 1946 (per [[jed-davis]]). *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 15:12-15:59, 49:21-50:44)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: Donovan ran the OSS with [[allen-dulles]] and sat on the [[world-commerce-corporation]] board after the war, for a network he suggests could relocate Nazi technology. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:22:43, 1:24:37)*

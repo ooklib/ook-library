@@ -26,6 +26,8 @@ sources:
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Nelson Rockefeller, per [[eyes-wide-open]]'s War Conspiracy 2, was brought in by [[dwight-d-eisenhower]] as special assistant on foreign policy in 1954, then led the private [[special-studies-project]] after resigning in 1955. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 10:20-10:28, 26:34-27:12)*
@@ -55,3 +57,7 @@ Nelson Rockefeller, per [[eyes-wide-open]]'s War Conspiracy 2, was brought in by
 ## Additional claims (jm/kissinger)
 
 - [[jesse-michels]]: as Eisenhower's psychological-warfare adviser formed a Quantico panel including [[henry-kissinger]], then the [[special-studies-project]]; Kissinger wrote speeches and advised Rockefeller's presidential runs. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 28:06, 28:13, 28:42, 28:51, 42:31)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: ran the Office for the Coordination of Interamerican Affairs, a wartime South American intelligence agency; [[henry-kissinger]] was more beholden to him than to Nixon; Rockefeller circles allegedly invested in the [[world-commerce-corporation]]. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:22:52, 1:23:11, 1:32:40)*

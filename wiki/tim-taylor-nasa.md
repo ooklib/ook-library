@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Tim Taylor is described by [[jesse-michels]] and [[diana-pasulka]] as a NASA mission controller at Kennedy Space Center who appears pseudonymously ("Tyler D.") in Pasulka's *American Cosmic*. The transcript sometimes says "Timothy Taylor".
@@ -29,3 +31,7 @@ Tim Taylor is described by [[jesse-michels]] and [[diana-pasulka]] as a NASA mis
 ## Relationships
 
 - Works at [[nasa]]; linked by claim to [[thomas-townsend-brown]]; interviewed by [[diana-pasulka]]; see [[nasa-occult-symbolism-claims]].
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]], via Vallee's journals and [[diana-pasulka]]: Taylor reportedly warned against talking about hybrids. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:08:58, 2:09:06)*

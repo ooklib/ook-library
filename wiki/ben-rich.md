@@ -14,6 +14,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Ben Rich, the second director of [[skunk-works|Lockheed Skunk Works]] (1975–1991), is famous in
@@ -59,3 +61,7 @@ Lockheed possessed physics-defying, possibly nonhuman-derived technology.
 ## Additional claims (jm/townsend-brown)
 
 - John Andrews of Testors allegedly received his deathbed remark: "we already have the means to travel among the stars" but locked in black projects; also worried about an international corporate board (see [[caroline-group]]). *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:08:15-1:09:13)*
+
+## Claims (jm/cover-up)
+
+- Per [[jesse-michels]] and [[jason-samosa]]: near the end of his life Rich reportedly lamented that the UFO issue was governed by an international corporate board and hoped it would come under American intelligence and aerospace control; they compare this to the [[maynard-consortium]] and [[thomas-townsend-brown]]'s [[caroline-group]]. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:17:26, 1:50:27, 1:51:00)*

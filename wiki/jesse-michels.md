@@ -13,6 +13,9 @@ relations:
   - relation: investigates
     target: henry-kissinger
     note: "2025 episode on possible role in UFO legacy program"
+  - relation: associate_of
+    target: jason-samosa
+    note: "host of the 2026-07-14 interview"
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
@@ -22,6 +25,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 Jesse Michels is the host of the American Alchemy YouTube channel (registry channel `jm`), which conducts long-form interviews on UFO/UAP, deep politics and secret science. The channel's sponsor/advertisement segments are not recorded in this wiki.
@@ -50,4 +55,9 @@ Jesse Michels is the host of the American Alchemy YouTube channel (registry chan
 
 ## Additional claims (jm/nasa-pagan)
 
-- Presents the September 2025 episode "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel", on mysticism in rocketry and NASA: [[jack-parsons]], [[nazi-occultism-claims]], [[russian-cosmism]], [[nasa-occult-symbolism-claims]], [[tim-taylor-nasa]], [[secret-machines-project]]. He warns the launch-date material is "highly speculative" and raises pareidolia. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 0:07, 47:57-48:18, 53:38-54:05)*
+- Presents the September 2025 episode "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel", on mysticism in rocketry and NASA: [[jack-parsons]], [[nazi-occultism-claims]], [[russian-cosmism]], [[nasa-occult-symbolism-claims]], [[tim-taylor-nasa]], [[sekret-machines-project]]. He warns the launch-date material is "highly speculative" and raises pareidolia. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 0:07, 47:57-48:18, 53:38-54:05)*
+
+## Claims (jm/cover-up)
+
+- Hosted [[jason-samosa]] in an episode ("The UFO Cover-Up Leads to One Secret Society - and One Final Event", 2026-07-14, about 2h31m) covering Vallee, the [[collins-elite]], the [[the-family-fellowship]], [[tom-delonge]]'s story, [[presidential-ufo-briefing-claims]], the [[world-commerce-corporation]] and [[maynard-consortium]], Nazi disc craft, [[alien-human-hybridization-claims]], and the Vatican. Michels contributes host commentary such as the Nixon-as-outsider view, the Epstein/Maxwell science-suppression thread, and [[thomas-townsend-brown]]'s 1958 Hartford retrieval. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 0:00, 47:12, 1:09:44, 1:46:26)*
+- States that Neil McCasland ([[neil-mccasland]]) vanished from his New Mexico home days after [[donald-trump]] announced UFO disclosure. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:16:25)*

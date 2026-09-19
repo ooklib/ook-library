@@ -11,6 +11,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 IG Farben was a German chemical/pharmaceutical conglomerate formed in the 1920s that became one
@@ -46,3 +48,7 @@ the Dulles brothers' Nazi-era business entanglements.
 ## Additional claims (Bush the Father, Chapter 1)
 
 - Host: the "German chemical cartel IG Farben" (ASR "IG farbin") was the major client of [[sullivan-and-cromwell]], where the Dulles brothers profited from deals with German business during the war; the host speculates this shared secret bound them with [[prescott-bush]]. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 16:00-16:24)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: its representative (Hermann Schmidt) allegedly attended the [[maison-rouge-meeting-1944]], and it had mutual-monopoly arrangements with Standard Oil. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:19:16, 1:20:05)*

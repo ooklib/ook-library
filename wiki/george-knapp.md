@@ -16,6 +16,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
+    label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
 ---
 
 George Knapp, Las Vegas investigative journalist (KLAS-TV), has reported for decades on Area 51,
@@ -51,3 +53,7 @@ George Knapp, Las Vegas investigative journalist (KLAS-TV), has reported for dec
 ## Additional claims (jm/townsend-brown)
 
 - Broke the Lazar story after John Lear's 1987-89 introductions; per Knapp, Lear may have flown for the CIA into the 1980s. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 34:04-34:55)*
+
+## Claims (jm/cover-up)
+
+- [[jason-samosa]]: DeLonge appeared on Coast to Coast with Knapp in 2011, and Knapp used the "Collins Elite" label. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 16:19, 45:11)*

@@ -73,4 +73,4 @@ recovered UFO materials via the [[operation-kona-blue|Kona Blue]] PAP. Ryder die
 
 ## Additional claims (jm/nasa-pagan)
 
-- Michels: former Lockheed Martin VP and Skunk Works director who in 2018 gave a talk called "The Garment of God" on mysticism, consciousness and technological progress, and a separate UAP lecture discussing ritual altered states. See [[secret-machines-project]]. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 56:56-57:25)*
+- Michels: former Lockheed Martin VP and Skunk Works director who in 2018 gave a talk called "The Garment of God" on mysticism, consciousness and technological progress, and a separate UAP lecture discussing ritual altered states. See [[sekret-machines-project]]. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 56:56-57:25)*
