@@ -8,6 +8,8 @@ relations:
     target: robert-maxwell
     note: "Michels calls him Maxwell's protege"
 sources:
+  - file: "raw/lei/Lei's Real Talk - 2026-02-23 - Epstein’s Backchannel - The Secret Pipeline Between Wall Street and Beijing.md"
+    label: "Epstein’s Backchannel: The Secret Pipeline Between Wall Street and Beijing (Lei's Real Talk)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
@@ -37,3 +39,7 @@ Jeffrey Epstein appears in the `jm/cover-up` episode only through [[jesse-michel
 - The host says it is "becoming clearer" Epstein was "some form of an intelligence asset" rubbing shoulders with spies (his own assertion, unsourced), and calls Epstein-Maxwell the heel of a conspiracy theory "that turned out true". *([oompa/maxwells](<../raw/oompa/oompaville - 2026-07-08 - The Maxwells Weren't Spies. They Were Something Worse.md>) 3:29, 4:35)*
 - [[whitney-webb]]: the black book, wired cameras, flight logs and surveillance gear were leverage, continuing [[robert-maxwell]]'s information business; [[ari-ben-menashe]] says he saw a young Epstein in Maxwell's office in the 1980s (disputed reliability). *([oompa/maxwells](<../raw/oompa/oompaville - 2026-07-08 - The Maxwells Weren't Spies. They Were Something Worse.md>) 22:21, 23:14, 23:39)*
 - Cited sources on custody include a DOJ OIG report and a 4chan post appearing early, listed in the description only. See [[maxwells-data-dynasty-video-2026]].
+
+## From Lei's Real Talk on China (lei/epstein-backchannel)
+
+- Lei alleges emails in the DOJ Epstein release show him coaching [[jes-staley]] of [[jpmorgan-chase]] on guanxi, scripted meeting lines and disguised gifts for CCP officials, proposing the roots of the [[sons-and-daughters-hiring-program]], and discussing (in a redacted 2019 email, sender unknown) removing [[xi-jinping]] and [[wang-qishan]]. Interpretive, unverified. See [[epstein-guanxi-coaching-claims]] and [[epstein-backchannel-video-2026]]. *([lei/epstein-backchannel](<../raw/lei/Lei's Real Talk - 2026-02-23 - Epstein’s Backchannel - The Secret Pipeline Between Wall Street and Beijing.md>) 0:00, 1:24, 14:10)*
