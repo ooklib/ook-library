@@ -23,6 +23,8 @@ sources:
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
   - file: "raw/finaius/FINAiUS - 2023-11-18 - Empire of Shadows - True Story of the Richest Family in History.md"
     label: "Empire of Shadows: True Story of the Richest Family in History (FINAiUS)"
+  - file: "raw/mm/MagnatesMedia - 2022-05-06 - The Most BRUTAL Businessman In History.md"
+    label: "The Most BRUTAL Businessman In History (MagnatesMedia)"
 ---
 
 In [[eyes-wide-open]]'s War Conspiracy 2 the Rockefeller family is presented as a second elite network ("what I'll be calling the Rockefeller Network") operating alongside the [[china-lobby]], with long involvement in both Asia and Latin America, oil interests, and CIA-linked technology finance. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 17:26-17:48)*
@@ -48,3 +50,7 @@ In [[eyes-wide-open]]'s War Conspiracy 2 the Rockefeller family is presented as 
 ## From FINAiUS on the Rothschilds (finaius/rothschild)
 
 - The documentary lists John D. Rockefeller and Standard Oil among the American industrial titans (with Vanderbilt in railroads and Carnegie in steel) whose rise shifted the financial centre to Wall Street and led the [[rothschild-family]] to move into America and the [[house-of-morgan]] to rise. *([finaius/rothschild](<../raw/finaius/FINAiUS - 2023-11-18 - Empire of Shadows - True Story of the Richest Family in History.md>) 24:35, 24:42, 25:15)*
+
+## Additional mention (mm/vanderbilt)
+
+MagnatesMedia's Vanderbilt documentary says "before there was Rockefeller or Henry Ford, there was Cornelius Vanderbilt", the "original robber baron", placing the Rockefellers as a later generation of ruthless industrialists: see [[cornelius-vanderbilt]]. *([mm/vanderbilt](<../raw/mm/MagnatesMedia - 2022-05-06 - The Most BRUTAL Businessman In History.md>) 0:21)*

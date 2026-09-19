@@ -173,7 +173,7 @@ which transcripts still await ingestion.
 | `brof_stein/nazi-brands` | `raw/brof_stein/Brofessor Stein - 2025-07-23 - Every Major Brand with Nazi Ties Explained By a German.md` | Every Major Brand with Nazi Ties Explained By a German (Brofessor Stein) | false |
 | `finaius/rothschild` | `raw/finaius/FINAiUS - 2023-11-18 - Empire of Shadows - True Story of the Richest Family in History.md` | Empire of Shadows: True Story of the Richest Family in History (FINAiUS) | true |
 | `lei/epstein-backchannel` | `raw/lei/Lei's Real Talk - 2026-02-23 - Epstein’s Backchannel - The Secret Pipeline Between Wall Street and Beijing.md` | Epstein's Backchannel: The Secret Pipeline Between Wall Street and Beijing (Lei's Real Talk) | false |
-| `mm/vanderbilt` | `raw/mm/MagnatesMedia - 2022-05-06 - The Most BRUTAL Businessman In History.md` | The Most BRUTAL Businessman In History (MagnatesMedia) | false |
+| `mm/vanderbilt` | `raw/mm/MagnatesMedia - 2022-05-06 - The Most BRUTAL Businessman In History.md` | The Most BRUTAL Businessman In History (MagnatesMedia) | true |
 | `mm/jp-morgan` | `raw/mm/MagnatesMedia - 2023-06-24 - J.P. Morgan - The Man Who Owned America.md` | J.P. Morgan: The Man Who Owned America (MagnatesMedia) | false |
 | `mm/rockefeller` | `raw/mm/MagnatesMedia - 2023-11-19 - Rockefeller - The World’s First Billionaire.md` | Rockefeller: The World's First Billionaire (MagnatesMedia) | false |
 | `oompa/maxwells` | `raw/oompa/oompaville - 2026-07-08 - The Maxwells Weren't Spies. They Were Something Worse.md` | The Maxwells Weren't Spies. They Were Something Worse. (oompaville) | false |
