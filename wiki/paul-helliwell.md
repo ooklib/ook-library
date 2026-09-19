@@ -33,6 +33,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
+    label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
 ---
 
 Colonel Paul E. Helliwell served as chief of special intelligence for the
@@ -77,6 +79,8 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
 - A Thai consulate was allegedly housed in his Miami law firm offices in 1953-54. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 45:20-45:53)*
 - Named in LAOS 1 as a member of the 1945 [[deer-mission]] to [[ho-chi-minh]], described as 'the future American architect of the French Connection'. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 18:46-19:06)*
 
+- LAOS 2 correction: the host retracts calling the China/Burma narco-smuggling operation "Operation X" (see [[operation-x]] for the flagged discrepancy with *ewa/mafia-allies*), saying it was likely an early iteration of [[operation-paper]]. He still names Helliwell, with his "shadow banking empire", as an example of the sophisticated CIA paymasters who would supersede the French black box. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 19:30-19:57, 27:11-27:18)*
+
 ## Relationships
 
 - OSS chief of special intelligence in China; presented Operation X to [[william-donovan]],
@@ -91,3 +95,4 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
 - Led [[oss-detachment-202]]'s intelligence unit; alumni include [[e-howard-hunt]], [[john-singlaub]], [[lucien-conein]], [[mitchell-werbell]]; see [[cia-drug-paradigm]], [[golden-triangle]].
 - Created [[sea-supply-corporation]] for [[operation-paper]].
 - Member of the [[deer-mission]].
+- LAOS 2: attribution of [[operation-x]] retracted; see that page.

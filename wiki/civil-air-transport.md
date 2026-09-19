@@ -19,11 +19,16 @@ relations:
   - relation: participated_in
     target: operation-paper
     note: "airlift/evacuation vehicle for Li Mi's KMT force"
+  - relation: participated_in
+    target: battle-of-dien-bien-phu
+    note: "French-contracted airlift, 1954 (per ewa/laos-2)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
+    label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
 ---
 
 Civil Air Transport was a nominally commercial airline run by the Nationalist Chinese government
@@ -51,9 +56,12 @@ Helliwell's first opium-smuggling route and the direct ancestor of [[air-america
 - Flew the [[operation-paper]] airlift, built-up airstrip traffic between Bangkok, Burma and Taiwan, the 700-man Taiwanese reinforcement, and the 1953-54 evacuation of [[li-mi]]'s troops. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 38:46-39:04, 44:07-44:22)*
 - Host cites the declassified 1967 [[alfred-cox]] CIA history of CAT; cited as an example of a proprietary firm that kept operating after official missions ended. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 19:27-20:16, 49:12-49:31)*
 
+- LAOS 2: contracted by the French in 1954 to bring troops and supplies to [[battle-of-dien-bien-phu]] (per McCoy); the host says the CIA shifted CAT from northern Thailand/Burma ([[operation-paper]], to 1952) to aiding the French. CAT C-119 pilot James McGovern and crew crashed 6 May 1954 near "bot La", killing five of six; host: the first US casualties of the Indochina wars, CIA contractors in Laos. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 33:26-35:32)* The host also says CAT would become [[air-america]]. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 33:33-33:42)*
+
 ## Relationships
 
 - Founded by [[paul-helliwell]] and [[claire-chennault]]; flew for [[chiang-kai-shek]]'s KMT.
 - Contracted to the [[office-of-strategic-services]] and later the CIA.
 - Renamed/reformed into [[air-america]].
 - Operated for [[operation-paper]]; CIA-owned from August 1950.
+- LAOS 2: airlift for the French at [[battle-of-dien-bien-phu]].

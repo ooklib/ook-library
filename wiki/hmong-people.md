@@ -7,9 +7,14 @@ relations:
   - relation: located_at
     target: laos
     note: "northern highlands; migrated from southern China"
+  - relation: associate_of
+    target: operation-x
+    note: "recruited as maquis mercenaries by French intelligence (per ewa/laos-2)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
+    label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
 ---
 
 The Hmong are the northern-highland opium-growing people of [[laos]] whom the French colonial administration encountered as "their newest clients in the opium business". The ASR consistently renders them as "Hong" (my normalization to Hmong, inferred from context and from the existing [[golden-triangle]] and [[vang-pao]] pages, which use Hmong). *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 14:44-14:54)*
@@ -22,6 +27,11 @@ The Hmong are the northern-highland opium-growing people of [[laos]] whom the Fr
 - Enjoyed 40 years (1893 to WWII) of "continued cooperation" with French authority while the opium trade grew gradually. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 16:04-16:20)*
 - Highland farmers generally saw opium as economic reality, not an addictive narcotic. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 11:05-11:21)*
 
+- LAOS 2 (ASR "Hong"): the French [[operation-x]] recruited Hmong tribes into "maquis" war bands, paid for from the opium they sold; the Hmong had sold opium to the [[binh-xuyen]] and Chinese mafia remnants after the wartime collapse of the legal trade. About 40,000 maquis fighters by 1954, mostly Hmong, in three maquis (two in Tonkin, one Hmong in Laos). *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 18:26-19:13, 29:53-30:25)*
+- Leaders: [[touby-lyfoung]] (Lao maquis) and [[vang-pao]]. They fought at [[battle-of-dien-bien-phu]] and returned to Laos "defeated and exhausted". *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 36:34-37:45)*
+- The host says the Hmong were "future allies of the CIA" (episode description); the French reportedly never compensated them from the leftover black-box funds per [[roger-trinquier]]. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 44:17-44:49)*
+
 ## Relationships
 
 - Live in [[laos]]; customers of the [[french-indochina]] opium monopoly; part of the [[golden-triangle]] story; later led by [[vang-pao]] per [[eyes-wide-open]] (not developed in LAOS 1).
+- LAOS 2: recruited by [[operation-x]] under [[roger-trinquier]]; leaders [[touby-lyfoung]], [[vang-pao]].

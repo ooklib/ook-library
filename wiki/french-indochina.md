@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
+    label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
 ---
 
 French Indochina (Vietnam, Cambodia, [[laos]]) was the French colonial holding into which Laos was added in 1893; per [[eyes-wide-open]] it ran an opium monopoly and later hosted the first Western intelligence contacts with Ho Chi Minh. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 13:32-13:37)*
@@ -23,6 +25,10 @@ French Indochina (Vietnam, Cambodia, [[laos]]) was the French colonial holding i
 - After the war, Chiang Kai-shek's KMT, not the US, "liberated" Indochina: General Lu Han's (ASR "luhan") army of 200,000 from Yunnan expelled the Japanese; in 1946 France and the KMT signed a deal by which France regained the colony and renounced its concessions and extraterritorial privileges in China. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 20:22-20:58)*
 - Host says the French "would not let go" despite the tide of Third World revolution, leading into the French Indochina War (LAOS 2). *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 22:55-23:13)*
 
+- LAOS 2: the [[first-indochina-war]] ran 1946-54; the French ran [[operation-x]] in Laos/Tonkin; [[geneva-conference-1954]] ended French rule and gave independence to Cambodia, Laos and a divided Vietnam. Saigon was "the French pearl of the Orient" with a large Corsican expatriate community. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 0:21-3:56, 38:49-39:41)*
+- The host says the French formally disbanded the opium monopoly in 1946 under international pressure, but the trade merely passed to Corsican and Vietnamese organized crime, dens renamed detox clinics. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 23:22-24:06)*
+
 ## Relationships
 
 - Contains [[laos]]; opium customers include the [[hmong-people]]; nationalist opponent [[ho-chi-minh]]; visited by the [[deer-mission]]; KMT deal with [[chiang-kai-shek]].
+- LAOS 2: see [[first-indochina-war]], [[operation-x]], [[geneva-conference-1954]].

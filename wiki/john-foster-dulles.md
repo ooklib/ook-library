@@ -16,6 +16,9 @@ relations:
   - relation: associate_of
     target: thomas-dewey
     note: "hoped to be installed as secretary of state under a 1948 Dewey administration (per ewa/red-scare)"
+  - relation: participated_in
+    target: geneva-conference-1954
+    note: "led the American delegation (per ewa/laos-2)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
@@ -23,6 +26,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
+    label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
 ---
 
 John Foster Dulles was a partner at [[sullivan-and-cromwell|Sullivan & Cromwell]] and elder
@@ -54,6 +59,8 @@ Eisenhower (a role outside this video's scope, to be covered in later Eyes Wide 
   brothers' reputations, though Dewey's campaign was defeated by Truman regardless.
   *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 16:29-19:57)*
 
+- LAOS 2: led the American delegation at [[geneva-conference-1954]]; brother of CIA director [[allen-dulles]]. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 38:26-38:34)*
+
 ## Relationships
 
 - Partner at [[sullivan-and-cromwell]]; brother of [[allen-dulles]].
@@ -61,3 +68,4 @@ Eisenhower (a role outside this video's scope, to be covered in later Eyes Wide 
   [[operation-safe-haven]], with cover from [[allen-dulles]].
 - Sponsored [[alger-hiss]] to the [[carnegie-endowment-for-international-peace]] presidency; hoped
   for a secretary-of-state role under [[thomas-dewey]]'s 1948 campaign.
+- LAOS 2: US delegation leader at [[geneva-conference-1954]].

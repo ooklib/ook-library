@@ -136,7 +136,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[american-committee-on-united-europe]] · [[cia-international-organizations-division]] ·
 [[le-cercle]] · [[bilderberg-group]] · [[safari-club]] · [[western-goals-foundation]] ·
 [[service-d-action-civique]] · [[oss-detachment-202]] · [[environmental-industries]] ·
-[[corsican-mafia]] · [[drug-enforcement-administration]]
+[[corsican-mafia]] · [[drug-enforcement-administration]] · [[binh-xuyen]] · [[mixed-airborne-commando-group]]
 
 ## Places
 
@@ -214,7 +214,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[national-security-act-1947]] · [[truman-doctrine]] · [[marshall-plan]] · [[operation-husky]] ·
 [[italian-election-1948]] · [[portella-della-ginestra-massacre-1947]] · [[blue-suite]] ·
 [[kefauver-committee]] · [[plan-bleu-1947]] · [[rose-des-vents]] · [[operation-zipper]] · [[operation-pbsuccess]] · [[bay-of-pigs-invasion]] ·
-[[kennedy-assassination]] · [[watergate-scandal]] · [[secret-war-in-laos]] · [[deer-mission]]
+[[kennedy-assassination]] · [[watergate-scandal]] · [[secret-war-in-laos]] · [[deer-mission]] · [[first-indochina-war]] · [[battle-of-dien-bien-phu]] · [[geneva-conference-1954]]
 
 ## People — British power structures
 
@@ -256,7 +256,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[mitchell-werbell]] · [[edward-lansdale]] · [[vang-pao]] · [[nelson-bunker-hunt]] ·
 [[ngo-dinh-diem]] · [[john-mccone]] · [[li-mi]] · [[willis-bird]] · [[alfred-cox]] ·
 [[phao-sriyanon]] · [[plaek-phibunsongkhram]] · [[sarit-thanarat]] · [[khun-sa]] · [[alfred-mccoy]] ·
-[[ho-chi-minh]] · [[dwight-d-eisenhower]]
+[[ho-chi-minh]] · [[dwight-d-eisenhower]] · [[roger-trinquier]] · [[antoine-savani]] · [[touby-lyfoung]]
 
 ## Concepts
 

@@ -64,6 +64,8 @@ sources:
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
+    label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -170,6 +172,8 @@ calls him "arguably one of, if not the most important person in modern American 
 
 - Per David Talbot (Detachment 202 episode), after being fired by JFK over the Bay of Pigs, Dulles hosted [[e-howard-hunt]], [[james-jesus-angleton]], [[richard-helms]], [[cord-meyer]] and [[john-mccone]] at his home in 1962-63; Hunt sought his help for a private intelligence career and helped on his memoirs; researchers speculate a sinister purpose tied to the assassination (speculation). Also called the 'big three coups' director ([[operation-pbsuccess]]). *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 5:37-5:47, 7:35-9:07)*
 
+- LAOS 2: after Lansdale and Conein's briefing by Trinquier, Dulles was "initially skeptical" of narco funding per Lansdale's account but the host says he was "particularly impressed" by Trinquier's cunning and saw that the French reached the same conclusion as the CIA did with [[operation-paper]]. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 47:48-48:31)*
+
 ## Relationships
 
 - OSS officer under [[william-donovan]]; future director of the
@@ -196,3 +200,4 @@ calls him "arguably one of, if not the most important person in modern American 
 - Nephew [[avery-dulles]] ordained a priest by [[francis-spellman]] in 1956.
 - Vice chairman of [[american-committee-on-united-europe]]; created [[cia-international-organizations-division]] at [[thomas-braden]]'s urging.
 - See [[e-howard-hunt]], [[bay-of-pigs-invasion]], [[operation-pbsuccess]], [[kennedy-assassination]].
+- LAOS 2: impressed by French [[operation-x]].

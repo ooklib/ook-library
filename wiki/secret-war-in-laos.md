@@ -15,6 +15,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
+    label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
 ---
 
 The "secret war" in [[laos]] is the nearly two-decade conflict that [[eyes-wide-open]] begins to chronicle in the Season 2 series LAOS 1-4. This page holds the overview claims from the introduction (LAOS 1); later episodes will add detail. The host dedicates the project to the people of Laos and to Vietnamese, Lao, Thai, Cambodian, Burmese and American victims of the Southeast Asian wars. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 0:00-0:44)*
@@ -29,6 +31,9 @@ The "secret war" in [[laos]] is the nearly two-decade conflict that [[eyes-wide-
 - Even before the CIA and before independence, the French colonial administration set up "some of the first narco counterinsurgency programs ever", later repurposed by the CIA "to much more effective and devastating effect" (previewing [[operation-x]] and the French Indochina War in LAOS 2). See [[narco-counterinsurgency]]. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 4:38-4:58, 24:38-24:57)*
 - Framing: a place "where wars had no rules, where opium could buy armies and where the CIA became an agency of war". *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 5:00-5:12)*
 
+- LAOS 2 supplies the precursor: the French [[operation-x]] ([[roger-trinquier]], [[antoine-savani]]) recruited the Hmong, and [[vang-pao]] emerged at [[battle-of-dien-bien-phu]] as the man who would be the CIA's chosen asset in Laos. [[geneva-conference-1954]] left the French a training role and bases in Laos. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 21:04-22:28, 37:38-38:10, 39:41-40:38)*
+
 ## Relationships
 
 - Set in [[laos]]; run by the [[central-intelligence-agency]] with the Pentagon; see [[cia-drug-paradigm]], [[narco-counterinsurgency]], [[vang-pao]], [[hmong-people]].
+- LAOS 2: precursor in [[operation-x]], [[first-indochina-war]], [[geneva-conference-1954]].

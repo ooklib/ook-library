@@ -24,6 +24,8 @@ sources:
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
+    label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
 ---
 
 Lucien Conein, the "Operator," was a French-born, Kansas City-raised OSS Detachment 202 alumnus who, per Eyes Wide Open, became a main CIA point man in Vietnam under Edward Lansdale, is alleged to have connected Corsican mobsters in Saigon with Vang Pao's army in Laos, and ended as chief of covert operations for the DEA. (ASR spells him 'Kunai'/'Kane'.) *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 14:48-15:11)*
@@ -37,7 +39,10 @@ Lucien Conein, the "Operator," was a French-born, Kansas City-raised OSS Detachm
 - Host: shows the importance of narcotics smuggling to counter-insurgency work ([[cia-drug-paradigm]]). *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 17:10-17:26)*
 - Named in LAOS 1 as a member of the 1945 [[deer-mission]], described as 'counterinsurgency expert and future Ho Chi Minh Trail strategist' (ASR 'Lucien K'). *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 18:46-19:06)*
 
+- LAOS 2: accompanied [[edward-lansdale]] to Trinquier's Saigon briefing on [[operation-x]] (ASR "Lucien K"/"Cane"), described as a "short intelligence officer with a Corsican name" who had supported the Corsican mob in southern France in WWII, Lansdale's "devious mob associated sidekick" and the parallel of [[antoine-savani]]. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 46:49-47:22)*
+
 ## Relationships
 
 - Alumnus of [[oss-detachment-202]] under [[paul-helliwell]]; aide to [[edward-lansdale]]; connected to [[corsican-mafia]], [[vang-pao]], [[ngo-dinh-diem]] coup; recommended by [[e-howard-hunt]]; served [[drug-enforcement-administration]].
 - Member of the [[deer-mission]].
+- LAOS 2: mirror of [[antoine-savani]]; briefed by [[roger-trinquier]].
