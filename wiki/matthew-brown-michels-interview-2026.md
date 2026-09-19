@@ -25,6 +25,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Jesse Michels interviews [[matthew-brown]] for about 3h29m on American Alchemy, published 2026-08-29 (video: https://www.youtube.com/watch?v=yGtVzBbUvx4). Brown, a former Pentagon counter-WMD policy contractor who says he found an [[immaculate-constellation]] briefing while cleaning up a classified file system and later became a whistleblower to Congress, retells the discovery, describes what the program did, and then moves into speculation about agreements with a "third party", psionic assets, hybrid breeding, elite families, occult history and a "constructed reality". The episode follows the [[borland-michels-interview-2026]] with Brown's friend and [[vanguard-enterprise]] co-founder [[dylan-borland]], and Michels repeatedly cross-references it. All statements are attributed claims; Brown repeatedly separates what was "on the page" from his own speculation, says he is bound by secrecy obligations and limits himself to his State Department cleared report and inferences from it.
@@ -55,3 +57,7 @@ Michels credits [[uap-gerb]] for mapping how FFRDCs and prime contractors carve 
 
 - Guest: [[matthew-brown]]. Host: [[jesse-michels]]. Companion interview: [[borland-michels-interview-2026]].
 - Others discussed: [[jeremy-corbell]], [[george-knapp]], [[michael-shellenberger]], [[luis-elizondo]], [[david-grush]], [[jake-barber]], [[michael-herrera]], [[kirk-mcconnell]], [[jeffrey-nuccetelli]], [[robert-hastings]], [[robert-salas]], [[jim-lacatski]], [[eric-davis]].
+
+## Claims (jm/censored-book)
+
+- The Barber novel and P3 assets Brown declined to confirm are treated at length in [[sentinels-of-ether-michels-episode-2026]] and [[psychic-joystick-brain-interface-claims]].

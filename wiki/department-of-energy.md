@@ -28,6 +28,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 The Department of Energy (created 1977, successor via ERDA to the
@@ -80,3 +82,7 @@ authority that evades unilateral oversight from the standard US classification s
 ## Additional claims (gerb/nukes)
 
 - Gerb says the DOE and [[nuclear-regulatory-commission]] both descend from the [[atomic-energy-commission]], and that the DOE has probably had an active hand in crash retrieval and reverse engineering. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 12:33-12:49)*
+
+## Claims (jm/censored-book)
+
+- Michels notes DOE protective forces (recruited by private companies, commanded by Defense Nuclear Security under the NNSA, legal authority under the Atomic Energy Act) as a candidate for unmarked paramilitary units, and mentions psychic kids allegedly tested at DOE national labs. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 44:13-44:53, 1:01:08)* See [[michael-herrera-indonesia-encounter-2009]], [[atomic-energy-act-1954]].

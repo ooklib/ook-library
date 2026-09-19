@@ -26,6 +26,8 @@ sources:
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Deep underground military bases (DUMBs), also called subterranean facilities ("STFs", or "stiffs" in ASR), are the subject of a ~1h38m [[uap-gerb]] survey. Gerb's framing: acknowledged DUMBs undeniably exist (NORAD's Cheyenne Mountain, Raven Rock), so the live question is whether some unacknowledged ones host UFO legacy program RDT&E, crash-material storage and reverse engineering, and whether they are linked by tunnels and maglev trains. Everything below is Gerb's argument or the claims of his sources, not established fact. He leans heavily on [[richard-sauder]]'s three books and on [[bill-hamilton]]'s 1990s work, and says he has spoken with "nearly half a dozen" veterans who traveled to STFs. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 0:00, 1:31, 3:33, 3:41, 3:49)*
@@ -131,3 +133,7 @@ Gerb wagers large DUMB networks exist in the Southwest (NM, AZ, S. California, p
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says the sites (Nellis, Area 51, Edwards, Dugway, Lockheed and Northrop undergrounds) are joined by tunnels made with a nuclear-powered vitrifying device; he prefers the term SUBTERRANEAN facilities rather than "military" bases. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 2:27:41-2:28:41)*
+
+## Claims (jm/censored-book)
+
+- Michels points to Richard Sauder's book on DUMBs ([[richard-sauder]]) and cites [[bradshaw-ranch-sedona]] and the Coyame mountain of [[sentinels-of-ether]] as examples. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:25:35-1:25:52)* See [[mountain-base-network-claims]].

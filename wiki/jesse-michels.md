@@ -45,6 +45,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Jesse Michels is the host of the American Alchemy YouTube channel (registry channel `jm`), which conducts long-form interviews on UFO/UAP, deep politics and secret science. The channel's sponsor/advertisement segments are not recorded in this wiki.
@@ -118,3 +120,8 @@ Interviewed [[peter-levenda]] for a 4h40m episode: [[levenda-michels-interview-2
 
 - Hosts [[pines-michels-interview-2024]] with [[matthew-pines]] (about 4h12m, published 2024-11-15), covering Trump-era disclosure leverage, CIA privatization, the Simons physics-network fact pattern ([[simons-secret-physics-network-claims]]), hypergraph physics and consciousness, and AI and NHI communication ([[ai-and-nhi-communication-claims]]). *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 0:00-1:27, 55:54-59:51)*
 - Frames the UFO field as thieftdoms and gatekeepers running a "cargo cult" for 70 years, retells the [[mark-mccandlish]]/[[brad-sorenson]] flux liner story with a [[frank-carlucci]] guess, and retells the [[harald-malmgren]] briefing story. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 31:18-31:34, 50:51-52:23, 2:42:24-2:44:34)*
+
+## Claims (jm/censored-book)
+
+- Solo episode [[sentinels-of-ether-michels-episode-2026]] (published 2026-05-21) on [[jake-barber]]'s novel [[sentinels-of-ether]], part of his "American Alchemist" series; covers the [[department-of-war-ufo-release-2026]], [[foglets-and-programmable-matter]], [[psychic-joystick-brain-interface-claims]] and [[mountain-base-network-claims]]. He argues "the real secret" is that human consciousness is the technology and disclosure will be spoon-fed in fiction, citing [[tom-delonge]]'s *Sekret Machines* tradition ([[sekret-machines-project]]). *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:32:46-1:34:17)*
+- He says he interviewed Barber (with a Logan Paul cameo that drew roasting in the comments) and that his claims were "so ahead of the curve" that many people's brains bounced off them. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 8:04-8:20)*

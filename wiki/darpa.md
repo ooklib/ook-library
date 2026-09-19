@@ -31,6 +31,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 DARPA's Security and Intelligence Directorate is listed among the program-protection/
@@ -75,3 +77,7 @@ programs." *([gerb/nro](../raw/gerb/nro.md) 2:02:32–2:02:50)*
   Office staffed by [[vince-devine]]; SDI/[[talon-gold]] work performed under DARPA by
   [[donald-c-winter]]; reports to [[under-secretary-of-defense-for-research-and-engineering]];
   internal program protection via [[darpa-security-and-intelligence-directorate]].
+
+## Claims (jm/censored-book)
+
+- Michels cites DARPA's smart dust funding (field tests by 2001) and the 2018 [[darpa-n3-program]] as documented steps toward [[foglets-and-programmable-matter]] and brain-machine flight control. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 55:42-56:28, 1:18:56-1:20:32)*

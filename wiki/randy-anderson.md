@@ -18,6 +18,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 18 Bravo (Special Forces weapons sergeant) Randy Anderson claimed that in the mid-2010s he was
@@ -51,3 +53,7 @@ considered a possible weapon. *([gerb/mitre](../raw/gerb/mitre.md) 1:13:12–1:1
 ## Additional claims (gerb/timeline)
 
 - Timeline video: recap of his early-to-mid-2010s Crane account (underground "off-world technologies division", a basketball-sized sphere that reacts to consciousness, a glyphic gauntlet weapon); Gerb thinks the unnamed contractor was SAIC and says CIA "spooks" contacted him to be wary of discussing Crane. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:37:56-1:39:29)*
+
+## Claims (jm/censored-book)
+
+- Michels cites Anderson's account of being taken underground at Crane Naval Surface Warfare Center and shown a metallic gauntlet with a crystalline screen and holographic-looking symbols "integrated into reality itself" as support for advanced hologram or programmable-matter ideas. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 47:15-47:53)* See [[coyame-mountain-base-narrative]] and [[naval-surface-warfare-center-crane]].

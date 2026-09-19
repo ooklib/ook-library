@@ -36,6 +36,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Battelle Memorial Institute is a contractor that administers multiple FFRDCs on behalf of the
@@ -98,3 +100,7 @@ DOE and other agencies, and is described by Gerb as "no stranger to this channel
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - A government source told Michels that Battelle is linked to gifted-and-talented programs feeding the cabal; Greer says it is among institutions on his list and manages nuclear sites. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:42:39-1:43:11)*
+
+## Claims (jm/censored-book)
+
+- Battelle led a [[darpa-n3-program]] team (BrainSTORMS, injectable nanoscale neural interface, with [[air-force-research-laboratory]] and Carnegie Mellon), reaching phase 2 per its 2020 press release; Michels says Battelle is "all over" legacy-program research. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:19:25-1:20:32)*

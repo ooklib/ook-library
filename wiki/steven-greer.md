@@ -41,6 +41,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -101,3 +103,9 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 ## Additional claims (jm/nasa-chief)
 
 - [[charles-buhler]] says Greer takes his groups to a beach near Cocoa Beach to summon lights like those the Buhlers saw ([[cocoa-beach-lights-encounter]]). *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:20:24-1:20:44)*
+
+## Claims (jm/censored-book)
+
+- Michels describes Greer as notorious for drawing out insiders and hosting the [[national-press-club-disclosure-event-2023]] where [[jake-barber]] went to red-team whistleblowers. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 37:37-37:55)*
+- Michels compares Barber's consciousness-based attraction method to Greer's CE5 coherent thought sequencing ("Greer can be polarizing ... self-aggrandizing and just plain wrong about a whole lot, but he's stayed remarkably consistent", "his contributions to UFO disclosure are incontrovertible"), and walks through the visualization steps. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:01:13-1:04:47)* See [[ce5-contact-protocols]].
+- Michels relays Greer's claim of a whistleblower who saw a Raytheon-projected holographic triangle at Fort Irwin as part of a possible false-invasion scenario, and that he and his wife were later abducted and tortured. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 46:35-47:15)*

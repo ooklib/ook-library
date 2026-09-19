@@ -16,6 +16,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 NASA, established 29 July 1958, is the US civilian space agency. In [[jesse-michels]]'s 2025 episode it appears as the public face of a program with a hidden, secrecy-enabled side (alongside the [[national-reconnaissance-office]]) and an "esoteric dimension" of symbols, dates and personnel. See [[nasa-occult-symbolism-claims]].
@@ -44,3 +46,7 @@ NASA, established 29 July 1958, is the US civilian space agency. In [[jesse-mich
 ## Claims (jm/pines)
 
 - Pines and Michels note [[nasa-uap-independent-study-team]]'s chair David Spergel headed the Simons Foundation; see [[simons-secret-physics-network-claims]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 58:07-59:27)*
+
+## Claims (jm/censored-book)
+
+- Michels claims NASA has "been gaslighting the public" since 1958 about astronaut sightings, now put in a bind by the [[department-of-war-ufo-release-2026]] listing [[gene-cernan]]'s sightings as unresolved. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 4:25-4:55)*

@@ -17,6 +17,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Danny Sheehan is an American public-interest lawyer and the founder of the New Paradigm Institute, appearing as the main guest of Jesse Michels's 2025 JFK episode. In the interview he presents a detailed, chronologically ordered narrative of the Kennedy assassination as an operation by the CIA-trained "S force" of Cuban exiles, rooted in a Nixon-Hughes-mafia plot against Castro and activated by a Dulles-centered China-lobby network; he also recounts his work with John Mack, a claimed deathbed account of a live extraterrestrial at S-4, a Scientology file on Ingo Swan, and his current lobbying for UAP disclosure legislation. This wiki records his statements as attributed claims. Speaker labels are absent from the transcript, so some attributions to him (versus Michels or Jeremy Rys) are inferred from first-person references such as his Jesuit-headquarters and Watergate-law-office anecdotes.
@@ -40,3 +42,7 @@ Danny Sheehan is an American public-interest lawyer and the founder of the New P
 ## Claims (jm/pines)
 
 - Pines calls Sheehan's history of the CIA and Dulles-era events "fascinating" but doubts his account of James McCord at Watergate; Michels retells the Sheehan Carter-era Blue Book skiff story and wonders about AI decoding the hieroglyph-like symbols. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 40:51-41:32, 2:38:26-2:39:59, 3:54:50-3:55:25)*
+
+## Claims (jm/censored-book)
+
+- Mentioned as having spent time with [[philip-corso-jr]], who discusses the mind-steered UFO helmet. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:09:53-1:10:08)*

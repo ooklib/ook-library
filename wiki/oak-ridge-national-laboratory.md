@@ -26,6 +26,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Oak Ridge National Laboratory is a DOE-sponsored FFRDC founded during the Manhattan Project era,
@@ -59,3 +61,7 @@ administered by [[battelle-memorial-institute|Battelle Memorial Institute]].
 ## Additional claims (jm/malmgren)
 
 - [[harald-malmgren]] says Senator Howard Baker sent him for days at Oak Ridge; the lab claimed to know more about filters than anyone; Malmgren received an early letter from Oak Ridge about atomic bomb engineering. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 2:51:31-2:53:46, 20:07-20:16)*
+
+## Claims (jm/censored-book)
+
+- Bradshaw Ranch was reportedly sold to the US National Forest for climate research in partnership with DOE and Oak Ridge. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:23:11-1:23:24)* See [[bradshaw-ranch-sedona]].

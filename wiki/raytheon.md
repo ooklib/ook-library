@@ -22,6 +22,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Raytheon is named among the defense-industrial contractors Gerb alleges are involved (via
@@ -51,3 +53,7 @@ program. *([gerb/mitre](../raw/gerb/mitre.md) 12:55–13:03, 1:19:59–1:20:16)*
 ## Additional claims (gerb/corso)
 
 - Received divisions of [[sperry-rand]] after 1986. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 38:03-38:19)*
+
+## Claims (jm/censored-book)
+
+- Michels relays Greer's claim of a whistleblower who saw Raytheon holographically projecting triangles at Fort Irwin as part of a possible false-invasion scenario. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 46:35-47:15)* See [[coyame-mountain-base-narrative]].

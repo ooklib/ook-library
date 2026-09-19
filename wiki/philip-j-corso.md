@@ -24,6 +24,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Lieutenant Colonel Philip J. Corso, author of *The Day After Roswell* and (per Gerb, the more
@@ -78,3 +80,7 @@ amount of fluff inserted by the book's co-writer." *([gerb/mitre](../raw/gerb/mi
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video argues that if Corso is right, Northrop's legacy operations trace to the Army golden age of R&D (1958-1962), which also saw [[mitre-corporation]], [[aerospace-corporation]] and [[bdm-international]] founded, and through [[sperry-rand]] divisions inherited by Northrop. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 10:56-11:43, 21:38-22:09)*
+
+## Claims (jm/censored-book)
+
+- Per Michels, Corso claimed to be at the Pentagon in the 1950s distributing UFO material to private-sector companies (including Bell Labs); he and his son [[philip-corso-jr]] have described a helmet that steers a UFO by thought. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:09:40-1:10:25)* See [[psychic-joystick-brain-interface-claims]].

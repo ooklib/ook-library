@@ -20,6 +20,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Ben Rich, the second director of [[skunk-works|Lockheed Skunk Works]] (1975–1991), is famous in
@@ -77,3 +79,7 @@ Lockheed possessed physics-defying, possibly nonhuman-derived technology.
 ## Claims (jm/pines)
 
 - Michels cites Ben Rich lamenting a runaway of control with an international board of directors on the UFO topic; Pines has no evidence either way. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 1:01:14-1:01:43)*
+
+## Claims (jm/censored-book)
+
+- Quoted repeatedly in [[sentinels-of-ether-michels-episode-2026]]: "We already have the means to travel among the stars ... locked up in black projects", "we have things out in the desert that are 50 years beyond what you could possibly comprehend", some in intelligence want breakthrough technology to stay black, and exotic propulsion "work[s] the same way ESP works. All points in time and space are connected. Mind, body, and craft integrated as one." Michels uses these for [[foglets-and-programmable-matter]] and [[psychic-joystick-brain-interface-claims]]. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 57:16-57:57, 1:02:06-1:02:22, 1:08:44-1:08:59)*

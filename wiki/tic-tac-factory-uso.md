@@ -28,6 +28,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 The "Tic Tac Factory" is Gerb's name (given to him by an unnamed source) for an alleged, several
@@ -94,3 +96,7 @@ semi-permanently resides in the Atlantic near the Bahamas.
 ## Claims (jm/matthew-brown)
 
 - In Brown's report, a Tic Tac was detected by a space asset near a vessel (SOUTHCOM), with MASINT signatures. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 42:03-42:51)*
+
+## Claims (jm/censored-book)
+
+- In [[sentinels-of-ether-michels-episode-2026]] Coulthart is quoted saying he knows "categorically that the Tic Tac is Lockheed Martin technology"; Michels ties this to [[john-norseen]]. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:14:46-1:14:59)*

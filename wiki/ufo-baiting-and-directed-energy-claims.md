@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Speculative claims in [[borland-michels-interview-2026]] that US programs bait non-human craft with nuclear material and bring them down with directed energy and high-power radar. Speculative and attributed.
@@ -27,3 +29,7 @@ Speculative claims in [[borland-michels-interview-2026]] that US programs bait n
 ## Relationships
 
 - Related: [[ufo-nuclear-connection]], [[legacy-program-claims-borland]].
+
+## Claims (jm/censored-book)
+
+- Per an "insider leak" cited by Michels, Toughbook-documented programs used temporary flight restrictions to clear skies, lure UFOs and down them with EMP, with civilian aircraft allegedly also downed; the same EMP mechanism appears in [[sentinels-of-ether]]'s F-18 sequence. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 14:46-15:26, 35:29-36:24)* See [[barber-toughbooks-operation-claims]].

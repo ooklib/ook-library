@@ -151,7 +151,7 @@ which transcripts still await ingestion.
 | `jm/jorjani-hitler` | `raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md` | I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels) | true |
 | `jm/levenda` | `raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md` | CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels) | true |
 | `jm/nasa-chief` | `raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md` | NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels) | true |
-| `jm/censored-book` | `raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md` | Why The Pentagon Tried To Censor This UFO Book (Jesse Michels) | false |
+| `jm/censored-book` | `raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md` | Why The Pentagon Tried To Censor This UFO Book (Jesse Michels) | true |
 | `jm/cover-up` | `raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md` | The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels) | true |
 | `jm/borland` | `raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md` | A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels) | true |
 | `jm/matthew-brown` | `raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md` | Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels) | true |

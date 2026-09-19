@@ -20,6 +20,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 *Sekret Machines* is the [[tom-delonge]] / [[peter-levenda]] book and project whose thesis, per [[jesse-michels]], is that UAP are "mystical machines" and human consciousness is central. Michels says senior Skunk Works figures Robert Weiss, Steve Justice and Eric Schrock, and Air Force Research Lab commander Neil McCasland, advised it, and that these defense technologists keep returning to consciousness in conversation. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 58:34-59:26)*
@@ -53,3 +55,7 @@ Levenda discusses the cargo-cult prologue and the alleged Prometheus hint: [[car
 ## Claims (jm/pines)
 
 - In jm/pines the [[tom-delonge]] narrative (as told by Michels and Pines) of legacy programs run by a boardroom of about 12 people, akin to the [[maynard-consortium]] story, is discussed and judged by Pines a less plausible scenario than fragmentation. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 1:01:59-1:02:31)*
+
+## Claims (jm/censored-book)
+
+- [[jesse-michels]] invokes "the tradition Tom DeLonge established with his book Secret Machines" (Sekret Machines) when suggesting that [[jake-barber]]'s [[sentinels-of-ether]] may encode real truth in fiction and use Pentagon redactions as authentication ([[dopsr-prepublication-review-claims]]). *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:32:46-1:33:16)* See [[sentinels-of-ether-michels-episode-2026]].

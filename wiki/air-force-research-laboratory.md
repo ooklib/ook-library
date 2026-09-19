@@ -24,6 +24,8 @@ sources:
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 AFRL, under [[air-force-material-command|Air Force Material Command]] at Edwards AFB, is where
@@ -69,3 +71,7 @@ uncovered "irrefutable evidence of UFO legacy program operations."
 ## Additional claims (gerb/timeline)
 
 - Timeline video: in the AFMC lineage (AFSWC to AFRL), "a notorious center" per Gerb, and one of the AFMC pieces active in the legacy programs. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 46:33-46:52, 1:40:52-1:41:44)*
+
+## Claims (jm/censored-book)
+
+- Named as working with Battelle and Carnegie Mellon on the [[darpa-n3-program]] BrainSTORMS interface. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:19:41-1:20:12)*

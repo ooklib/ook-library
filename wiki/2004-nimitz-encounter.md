@@ -16,6 +16,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 A widely publicized 2004 encounter off San Diego in which US Navy personnel from the USS Nimitz
@@ -44,3 +46,7 @@ maneuvers, following two weeks of radar/sensor detections of objects descending 
 ## Additional claims (rc/grusch)
 
 - [[david-grush]] calls the Tic Tac "absolutely a technical vehicle... something that we didn't make. Not of this world, most likely"; he says the 2015 Roosevelt video is "certainly not a jet" and that only three videos were declassified. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 20:44-23:23)*
+
+## Claims (jm/censored-book)
+
+- Michels cites [[ross-coulthart]] as saying the Tic Tac involved Lockheed Martin technology, and notes the San Diego Navy ties of the N66001 contract behind [[john-norseen]]'s Biofusion work. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:14:31-1:14:59)*

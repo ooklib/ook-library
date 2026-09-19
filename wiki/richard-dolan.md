@@ -23,6 +23,8 @@ sources:
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Author of *UFOs and the National Security State*, praised by
@@ -74,3 +76,7 @@ mechanisms behind the black-budget infrastructure. *([gerb/saic](../raw/gerb/sai
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda met Dolan and Timothy Good at the Amsterdam secret-space-program symposium; Michels calls Dolan a credible advocate of MJ-12's authenticity. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 1:15:32, 3:48:43)*
+
+## Claims (jm/censored-book)
+
+- Michels attributes the "breakaway civilization" framing to Dolan when concluding that human and non-human mountain bases with separate chains of command may exist. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:30:25-1:30:38)* See [[mountain-base-network-claims]].

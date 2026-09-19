@@ -25,6 +25,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Ross Coulthart, Australian investigative journalist (host of *Need to Know* with Bryce Sable),
@@ -71,3 +73,7 @@ privately told him the 2004 Nimitz "tic tac" originated from Lockheed Skunk Work
 ## Claims (jm/pines)
 
 - Michels and Pines cite Ross Coulthart and Jeremy Corbell as hearing from legacy-program insiders that "if you knew what I know you wouldn't be pro-disclosure"; Pines says Coulthart reports Jake Sullivan was in at least one Senate briefing. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:53:11-2:53:27, 4:07:59-4:08:35)*
+
+## Claims (jm/censored-book)
+
+- Quoted in [[sentinels-of-ether-michels-episode-2026]] on a US portal and a guarded Bradshaw Ranch facility "under US Forest Service cover", on the Secret Mountain bunker and golden orb escorted by helicopters ([[bradshaw-ranch-sedona]]), and saying he "now know[s] categorically that the Tic Tac is Lockheed Martin technology" ([[john-norseen]]). *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 58:14-58:40, 1:23:24-1:24:23, 1:14:46-1:14:59)*

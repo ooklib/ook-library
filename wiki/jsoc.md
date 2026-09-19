@@ -23,6 +23,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Joint Special Operations Command. Gerb and journalist [[chris-sharp]] have accused JSOC
@@ -66,3 +68,7 @@ elements of participating in foreign UFO crash-retrieval operations alongside th
 ## Additional claims (gerb/corso)
 
 - Corso video: alleged to have worked with the [[cia-office-of-global-access]] on UAP crash retrieval and received the ISA in 2003 ([[ufo-working-group-1987]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:06:17-1:07:39)*
+
+## Claims (jm/censored-book)
+
+- In [[sentinels-of-ether]], JSOC's operations center at Pope Air Force Base and its commander (named as General Dale Steinmaker) react to the black-on-black killing at Coyame; the CIA's Office of Global Access is rumored to coordinate closely with JSOC and NEST on crash retrievals. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 26:26-28:00, 43:57-44:13)* See [[coyame-mountain-base-narrative]].

@@ -26,6 +26,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 The US government's premier response unit for radiological/nuclear accidents or incidents,
@@ -76,3 +78,7 @@ authority derives from the 1954 Atomic Energy Agreement. *([gerb/nro](../raw/ger
 ## Additional claims (gerb/tr-3b)
 
 - Gerb notes [[eg-and-g]] supports NEST and that Sandia and Livermore are NEST partners, as part of the web of tie-ins around [[edgar-fuche]]'s [[project-red-light]] claim. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 25:11-25:20, 1:10:28-1:10:36)*
+
+## Claims (jm/censored-book)
+
+- Michels notes rumors that CIA's Office of Global Access coordinates with JSOC and NEST on UFO crash retrievals, and asks whether DOE-protective-force-like units threatened [[michael-herrera]]. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 43:57-44:53)*

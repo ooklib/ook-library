@@ -16,6 +16,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Robert Bigelow is the Las Vegas hotel-and-aerospace billionaire behind [[bigelow-aerospace-advanced-space-studies]]. [[steven-greer]] says he knew him at the 1993 [[laurance-rockefeller]] ranch gathering and that Bigelow wanted access to the secret technology. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 44:04-44:14, 2:10:20-2:11:03)*
@@ -37,3 +39,7 @@ Robert Bigelow is the Las Vegas hotel-and-aerospace billionaire behind [[bigelow
 ## Claims (jm/borland)
 
 - Cited by [[george-knapp]] as negotiating with [[lockheed-martin]] for a stashed quantity of unusual material; Borland asks why no lawsuit followed and says [[glenn-gaffney]] stepped in. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 2:28:26-2:29:29)*
+
+## Claims (jm/censored-book)
+
+- Cited in [[sentinels-of-ether-michels-episode-2026]] for Bob Lazar's holographic "alien Kindle" book (via [[bob-lazar]]) and as a former Skywatcher owner telling of a craft shooting into a mountain without an explosion ([[skinwalker-ranch]]). *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 46:08-46:35, 1:28:07-1:28:46)*

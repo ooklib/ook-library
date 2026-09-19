@@ -95,6 +95,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -334,3 +336,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Claims (jm/pines)
 
 - Pines cites the "stuff in Lockheed's basement" reading of Senate language and distinguishes Lockheed as a company from loose networks of individuals. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 27:34-27:41, 34:32-34:47)*
+
+## Claims (jm/censored-book)
+
+- In [[sentinels-of-ether-michels-episode-2026]] [[jesse-michels]] builds a Lockheed lineage for brain-machine flight control: [[john-norseen]]'s Biofusion neuro-cockpit work, the later Chase and Yonas "cognitive enhancement using feedback" patent, and quotes from [[ben-rich]] and [[don-phillips]]. He calls the Tic Tac "Lockheed Martin technology" (citing [[ross-coulthart]]) and notes that Barber's unnamed employer is guessable "in two guesses". *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:10:55-1:18:56, 1:14:40-1:14:59, 7:50-8:04)* See [[psychic-joystick-brain-interface-claims]].

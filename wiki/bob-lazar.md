@@ -25,6 +25,8 @@ sources:
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Bob Lazar claimed to have been hired by [[eg-and-g|EG&G]] to reverse-engineer UFO propulsion
@@ -59,3 +61,7 @@ Levenda says Lazar's Bendix Field Engineering badge raises his credence, because
 ## Claims (jm/matthew-brown)
 
 - Michels notes Lazar's claim that the craft came from an archaeological dig on the ocean floor via the Navy, and asks Brown about bismuth; Brown finds an archaeological component plausible and thinks it more common than crashes. Lazar got a job at EG&G. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:03:13-1:04:00, 1:58:20-1:58:23, 3:05:33-3:06:34)*
+
+## Claims (jm/censored-book)
+
+- Michels relays Robert Bigelow's account that Lazar described a holographic book at S4 (Area 51) whose pages became a hologram, as background for holographic-mountain speculation in [[coyame-mountain-base-narrative]]. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 46:08-46:35)*

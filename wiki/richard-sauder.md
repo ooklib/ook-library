@@ -19,6 +19,8 @@ sources:
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Researcher and author of three books on underground bases, which [[uap-gerb]] calls "masterpieces" and cites throughout his DUMB video (ASR renders the name "Solder"). Gerb says Sauder's work is fact-based, built on FOIA, declassified and public records, plus occasional witness testimony, and that he plans a joint "part 2" project with him. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 1:54, 2:03, 2:10, 1:29:38)*
@@ -42,3 +44,7 @@ Researcher and author of three books on underground bases, which [[uap-gerb]] ca
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video cites Underground Bases and Tunnels as claiming with a high degree of certainty that Northrop and Lockheed run underground unconventional research centers in California, including the [[tahone-radar-cross-section-facility]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 31:35-32:40)*
+
+## Claims (jm/censored-book)
+
+- Michels recommends Sauder's book on deep underground military bases when discussing the Bradshaw Ranch tunnel claims. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:25:35-1:25:44)*

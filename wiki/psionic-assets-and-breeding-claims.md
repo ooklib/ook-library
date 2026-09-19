@@ -22,6 +22,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 The discussion in the [[matthew-brown-michels-interview-2026]] of alleged use of humans with psionic potential to lure craft, and the hypothesis that this is cover for selective breeding. Note the framing: the breeding hypothesis is speculation floated mainly by [[jesse-michels]], with [[matthew-brown]] engaging but saying he has no evidence and only "N of one, N of two" stories.
@@ -37,3 +39,7 @@ The discussion in the [[matthew-brown-michels-interview-2026]] of alleged use of
 ## Relationships
 
 - Related: [[alien-human-hybridization-claims]], [[nhi-control-and-simulation-claims]], [[ufo-baiting-and-directed-energy-claims]], [[dan-sherman]], [[peter-levenda]] (the "celestial ascent" comparison).
+
+## Claims (jm/censored-book)
+
+- [[sentinels-of-ether-michels-episode-2026]] is the richest source for [[jake-barber]]'s own P3 claims: refugees as "psionic cargo" in shipping containers, prospecting abroad, chipped and drugged "pink assets", and a psychic-joystick pilot interface; see [[psychic-joystick-brain-interface-claims]] and [[michael-herrera-indonesia-encounter-2009]]. Unlike the breeding hypothesis, these are Barber's claims via Michels. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 22:04-23:13, 42:07-43:24, 1:05:08-1:08:44)*

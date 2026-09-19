@@ -32,6 +32,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Project Stargate was a joint, secret Army/DIA/CIA/SRI-International-contractor program (begun
@@ -102,3 +104,7 @@ Centerlane (DIA). *([gerb/saic](../raw/gerb/saic.md) 1:42:34–1:43:21)*
 ## Claims (jm/pines)
 
 - Michels mentions the Air Force funded a Stargate movie and wonders about deeper links to space programs; see [[secret-physics-program-claims-pines]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:20:18-3:20:24)*
+
+## Claims (jm/censored-book)
+
+- Michels cites the CIA remote viewing program (Pat Price's mountain bases, [[joe-mcmoneagle]]) and the "Gateway" documents as showing psionic claims were taken seriously, in support of [[jake-barber]]'s psionic-asset story. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 58:47-59:11, 1:28:46-1:29:41)* See [[mountain-base-network-claims]].

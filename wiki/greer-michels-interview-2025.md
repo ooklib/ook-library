@@ -12,6 +12,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 A roughly 3h38m interview (published 2025-04-10) in which [[jesse-michels]] hosts [[steven-greer]] on American Alchemy, recorded the day after Greer's emergency appendix surgery. Michels frames it as "panning for gold": he credits Greer's [[disclosure-project]] archive and whistleblower work but disclaims many of Greer's ad hominem attacks and says he does not agree with him on many things. Everything below is Greer's claim unless stated; Michels pushes back in places (on zero-point energy, [[thomas-townsend-brown]], [[david-fravor]] and [[jacques-vallee]]). *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 2:15, 2:32)*
@@ -31,3 +33,7 @@ A roughly 3h38m interview (published 2025-04-10) in which [[jesse-michels]] host
 ## Relationships
 
 - Host: [[jesse-michels]]. Guest: [[steven-greer]]. Compare [[jake-barber]] and [[michael-herrera]], whom Greer says he debriefed first.
+
+## Claims (jm/censored-book)
+
+- Follow-up context: [[sentinels-of-ether-michels-episode-2026]] retells how [[jake-barber]] attended Greer's [[national-press-club-disclosure-event-2023]] to red-team whistleblowers. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 37:20-38:44)*

@@ -9,6 +9,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 CE5 is [[steven-greer]]'s method of "initiating" peaceful contact with non-human intelligence by coherent thought and meditation rather than technology. He says it was co-created in an October 1973 experience on a Blue Ridge mountain near Boone, North Carolina, where after a disc sighting he met a roughly 5-foot being with deer-like eyes and lost about four hours. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 36:04-41:31)*
@@ -26,3 +28,7 @@ CE5 is [[steven-greer]]'s method of "initiating" peaceful contact with non-human
 ## Relationships
 
 - Practiced by [[steven-greer]]; presented as the alternative to [[man-made-ufo-and-false-flag-claims]] fear narratives; see also [[alien-human-hybridization-claims]].
+
+## Claims (jm/censored-book)
+
+- [[jesse-michels]] compares [[jake-barber]]'s consciousness-based method of attracting UAP (via trained psionic "man-based" systems versus machine "dog whistle" systems) to CE5's coherent thought sequencing, with a step-by-step "cosmic Google Maps" visualization from galaxy to your chair, optionally tagging your location with a low-power laser only with safe line of sight and no aircraft. He warns your internal state matters and negative emotions may be amplified, and that collective focus can amplify the signal ("multiple minds, one address"). *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:00:30-1:04:47)* See [[psychic-joystick-brain-interface-claims]] and [[steven-greer]].

@@ -34,6 +34,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Musician who founded [[to-the-stars-academy|To the Stars Academy]], publicly launched on Joe
@@ -105,3 +107,7 @@ Levenda says DeLonge contacted him in November 2014, pitched "knocking on doors"
 ## Claims (jm/pines)
 
 - Michels references the DeLonge narrative of a boardroom-style legacy program; Pines disagrees on plausibility ([[legacy-program-decay-and-accountability-claims]]). *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 1:01:59-1:02:31)*
+
+## Claims (jm/censored-book)
+
+- Michels credits DeLonge's *Secret Machines* (see [[sekret-machines-project]]) with establishing a tradition of encoding truth in fiction, which he suggests [[jake-barber]] follows with [[sentinels-of-ether]]. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:32:46-1:33:01)*

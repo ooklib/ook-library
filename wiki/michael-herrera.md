@@ -16,6 +16,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Michael Herrera's official AARO Memorandum for Record allegedly shows he did not claim to
@@ -38,3 +40,7 @@ was represented in [[aaro|AARO]]'s Historical Report Volume 1 under
 ## Claims (jm/matthew-brown)
 
 - Michels retells Herrera's Indonesian disaster-zone account (a 300-foot craft, human cargo, American voices); Brown cannot support it. See [[psionic-assets-and-breeding-claims]]. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:44:54-2:46:14)*
+
+## Claims (jm/censored-book)
+
+- Barber-related: Herrera's 2009 Indonesia account, first told at [[national-press-club-disclosure-event-2023]], is retold in [[michael-herrera-indonesia-encounter-2009]]; [[jake-barber]] joined forces with him rather than continue red-teaming him, and per Michels the "pink assets" leak was relayed through Herrera from an insider assumed to be Barber. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 38:44-43:49, 1:06:07-1:06:23)*

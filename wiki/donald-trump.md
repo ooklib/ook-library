@@ -21,6 +21,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Donald Trump appears in this episode as a later protégé of [[roy-cohn]] — the McCarthy-era "Deep
@@ -60,3 +62,7 @@ American power politics — and as the brief 1986 owner of [[resorts-internation
 ## Claims (jm/pines)
 
 - Pines believes Trump has been briefed on legacy programs and would treat disclosure as leverage; see [[trump-disclosure-leverage-claims]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 24:04-26:34)*
+
+## Claims (jm/censored-book)
+
+- Michels says Trump ordered the release of government files on ET life and UFOs, leading to the 8 May 2026 [[department-of-war-ufo-release-2026]]. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:38-2:03)*

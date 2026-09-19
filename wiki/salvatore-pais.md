@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
+    label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
 
 Navy engineer whose 2018 patents from [[naval-air-station-patuxent-river]] describe technologies such as room-temperature superconductivity, mass reduction and a device breaking the Schwinger limit; discussed by [[jesse-michels]] and [[dylan-borland]] on [[borland-michels-interview-2026]] (transcribed "Salvatore Py", "Paise").
@@ -23,3 +25,7 @@ Navy engineer whose 2018 patents from [[naval-air-station-patuxent-river]] descr
 ## Relationships
 
 - Worked at [[naval-air-station-patuxent-river]]. Related concepts: [[electrogravitics]], [[thomas-townsend-brown]].
+
+## Claims (jm/censored-book)
+
+- Michels cites the 2016 Navy patent by Pais for a "craft using an inertial mass reduction device", noting its need for real-time control of electromagnetic field geometry, and links it (layer two) with Lockheed brain-machine interfaces (layer one) and psionic assets (layer three) as a speculative stack behind [[jake-barber]]'s claims. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:20:32-1:21:57)* See [[psychic-joystick-brain-interface-claims]].
