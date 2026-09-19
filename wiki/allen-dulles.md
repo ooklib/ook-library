@@ -58,6 +58,9 @@ relations:
   - relation: associate_of
     target: paul-mellon
     note: "saucer anecdote per host"
+  - relation: associate_of
+    target: jay-patrick-coyne
+    note: "alleged tip-off before the 28 June 1961 JFK meeting"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
     label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
@@ -101,6 +104,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -301,3 +306,9 @@ calls him "arguably one of, if not the most important person in modern American 
 ## Additional claims (jm/kissinger)
 
 - [[jesse-michels]]: [[henry-kissinger]] maintained direct contact with Dulles while at Harvard; a leaked MJ-12 document (1995) has JFK asking Dulles on 28 June 1961 for an MJ-12 review, a date matching two meetings revealed in 2022; the Bay of Pigs led to Dulles's ouster in November 1961. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 18:07, 24:30, 34:16, 34:27, 34:46, 44:10, 44:19)*
+
+## Additional claims (rc/mj12)
+
+- [[geoffrey-cruickshank]] calls Dulles "the common theme" linking [[operation-paperclip]] and UAP programs: he says in a 27 June 1947 congressional exchange Rep. Walter Judd asked Dulles whether Canaris was his agent; that Dulles received Ciano's diary from Edda Mussolini (Ciano was on [[rs-33]]); helped Nazis escape via Knights of Malta passports; and "controlled the UFO files in the CIA with James Angleton". *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 12:52-14:17)*
+- Coulthart repeats [[david-grush]]'s claim that Dulles, [[james-jesus-angleton]] and OSS staff moved the Magenta craft to the US around 1944 with Vatican help. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 16:11-16:59)*
+- Davis: Dec 1946 New York three-day meeting of Dulles, [[william-donovan]], [[hoyt-vandenberg]] and [[vannevar-bush]]; Cruickshank: JFK's alleged 28 June 1961 MJ-12 question to Dulles (see [[jay-patrick-coyne]]); implies Dulles-sponsored coup if MJ-12 is real. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 15:12-15:59, 58:02-59:01, 1:12:32-1:13:04)*

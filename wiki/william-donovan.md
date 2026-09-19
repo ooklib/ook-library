@@ -81,6 +81,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 William "Wild Bill" Donovan was a WWI-hero-turned-Wall-Street-lawyer who became the first (and
@@ -206,3 +208,7 @@ administrator.
 ## Additional claims (jm/townsend-brown)
 
 - Alleged co-leader with [[william-stevenson]] of the 1945 Germany mission Brown joined. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 52:48-53:13)*
+
+## Additional claims (rc/mj12)
+
+- [[geoffrey-cruickshank]]: on 19 Jan 2017 (per a document found by Kelly Hughes at Carlisle Barracks) the CIA checked Donovan's OSS microfilms for anything on UFOs, allegedly because Gen. Michael Flynn was pressuring the CIA in the transition about a decades-old program; he ties this to Flynn's mentor Ron Burgess and [[operation-kona-blue]]. Donovan also met Bush, Dulles and Vandenberg in Dec 1946 (per [[jed-davis]]). *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 15:12-15:59, 49:21-50:44)*

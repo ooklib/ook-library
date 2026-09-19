@@ -18,9 +18,17 @@ relations:
     note: "recipient of the mailbox drops"
   - relation: investigates
     target: majestic-12
+  - relation: alleged_by
+    target: jed-davis
+    note: "partial authenticity case (except Cutler-Twining)"
+  - relation: alleged_by
+    target: geoffrey-cruickshank
+    note: "authenticity case, leaked by disgruntled CIA officers"
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 The corpus of allegedly leaked documents about [[majestic-12]] and related bodies, held by [[ryan-s-wood]] and [[dr-robert-wood]] at majesticdocuments.com (over 30 documents discussed in the video; Gerb says 33-35 of the reports are listed). Gerb's framing: the group and documents cannot be judged without studying origins, content, provenance and links to acknowledged declassified files. The FBI declared the first document "bogus"; skeptics include Philip Klass, and Jan Aldrich criticized the manual. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 0:00, 0:48, 57:25)*
@@ -55,3 +63,13 @@ Gerb does not argue every document is valid but concludes MJ-12 "likely was and 
 ## Relationships
 
 - Corpus about [[majestic-12]], its members and the [[interplanetary-phenomenon-unit]]; curated by [[ryan-s-wood]].
+
+## Additional claims (rc/mj12)
+
+Coulthart's episode (guests [[geoffrey-cruickshank]], [[jed-davis]]) opens with the 1984 Shandera envelope story and official denials; its new material for this page:
+
+- Origin story: [[jaime-shandera]] received a film roll in Dec 1984 and worked with [[william-moore]]; Coulthart recites the FBI/OSI "completely bogus" finding, ISOO and archives searches, and calls the [[cutler-twining-memo]] declared a forgery. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 1:11-6:28)*
+- New authenticity argument, not in Gerb/Wood: MJ-12 papers contain CIA numbers (834021 and CIA/SI 28-55) that match CIA files declassified in 2022 and 2000-2001, see [[cia-file-834021]], [[goudsmit-letter]]. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 9:10-11:50, 1:00:15-1:05:19)*
+- New provenance claim: the later leaks (the [[burned-memo]] letter, the postcard to Box 189) came from [[scotty-miller]], an Angleton counterintelligence officer, per Cruickshank. Gerb's video calls the burned-memo sender an anonymous "Source S-1". *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 26:02-27:14, 48:18-48:58, 57:31-57:46)*
+- The "first annual report" (title: review of the president's special panel to investigate the capture of unidentified platform space vehicles) is called the smoking-gun document by Coulthart. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 59:44-1:00:15)*
+- Hoax/CI theories: see [[mj12-disinformation-hypothesis]].

@@ -46,6 +46,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -157,3 +159,7 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Roswell is "the impetus" of the legacy programs; Gerb judges that one or more (likely several) manned craft were recovered around Roswell/White Sands, processed at Roswell Army Airfield (509th Bomb Group) and biologics/materials taken to Wright Field, with a press blackout after retracted press releases. He believes it was among the first retrievals with humanoid biologics and somewhat comprehensible technology, and that the Truman-era secrecy was to avoid panic and to seek asymmetric advantage; real reverse engineering only began in the late 1950s. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 25:09-28:23)* He speculates powerful triangulated Southwest radar sites (e.g. the 76th AC&W site at Alvord, per Scott and Suzanne Ramsey) interfered with the craft, and rejects Chris Sharp's reported sources (and Annie Jacobsen) claiming Roswell was man-made. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:33:07-2:33:42, 2:31:54-2:32:11)* The 1995 [[gao-roswell-report-1995]] and Gerb's "Roswell as impetus" are collected in the [[legacy-program-timeline]].
+
+## Additional claims (rc/mj12)
+
+- Coulthart: based on his own sources he believes at least one, possibly two, craft were recovered at Roswell. [[jed-davis]]: DDCI E. K. Wright's diary shows a trip to the West Coast on 4 July 1947; Truman met Air Force leaders 8-9 July; and the [[nia-meeting-1947-06-26]] preceded it. Early on, officials wondered if Roswell was a Russian device (Davis). *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 32:15-33:38, 36:08-36:53, 39:10-39:57)*

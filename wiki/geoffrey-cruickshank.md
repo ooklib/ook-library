@@ -10,9 +10,16 @@ relations:
   - relation: associate_of
     target: harald-malmgren
     note: "conferred with him to confirm the research"
+  - relation: associate_of
+    target: jed-davis
+    note: "co-guest"
+  - relation: investigates
+    target: majestic-documents
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 Geoffrey Cruickshank (ASR: "Jeffrey Krookshank") is an Australian intelligence analyst credited by the host with the deepest analysis of [[bluegill-triple-prime]].
@@ -25,3 +32,9 @@ Geoffrey Cruickshank (ASR: "Jeffrey Krookshank") is an Australian intelligence a
 ## Relationships
 
 - Researcher of [[bluegill-triple-prime]]; source associate of [[harald-malmgren]].
+
+## Additional claims (rc/mj12)
+
+- Introduced by Coulthart as an Australian former intelligence official with top-secret clearance, critical-infrastructure contractor and independent UAP researcher, known for the [[bluegill-triple-prime]] work. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 6:57-7:55)*
+- Believes the [[majestic-documents]] authentic and leaked by disgruntled CIA officers; cites [[cia-file-834021]], [[goudsmit-letter]], [[scotty-miller]] as the leaker and disagrees with [[jed-davis]] about the [[cutler-twining-memo]]. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 9:10-9:56, 26:02-27:14, 56:51-57:40)*
+- Links Dulles to Paperclip and to the legacy UFO files, Magenta/RS-33/Marconi/Fermi (speculative) and the JFK-MJ-12 link. See [[mj12-disinformation-hypothesis]]. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 12:52-14:17, 1:05:23-1:07:40)*

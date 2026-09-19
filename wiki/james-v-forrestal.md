@@ -21,6 +21,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 James V. Forrestal, Secretary of the Navy (and later first US Secretary of Defense), co-founded
@@ -56,3 +58,7 @@ window — a death Gerb notes in passing as suspicious. *([gerb/sandia](../raw/g
 
 - Wood says Forrestal (with a drinking problem) wanted more openness and was thrown or fell from a high floor of Bethesda naval hospital; a Majestic document says his loss was "necessary and regrettable" and Wood dedicates *Majic Eyes Only* to those who lost their lives for UFO secrecy. Gerb: "so much more work to be done". *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:19:06, 1:19:43, 1:37:36)*
 - Truman-to-Forrestal memo (24 Sept 1947) among the documents. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 7:55)*
+
+## Additional claims (rc/mj12)
+
+- [[jed-davis]]: Forrestal, David Lilienthal, [[george-c-marshall]] and Robert Patterson met [[harry-truman]] off record on 27 June 1947, the day after the [[nia-meeting-1947-06-26]], with another off-record meeting the next Monday; he registered a Smith & Wesson revolver on 24 Sept 1947 and sent a dossier packet to the White House on 28 Aug 1947. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 34:38-35:28, 1:16:30-1:17:24)*

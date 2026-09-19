@@ -23,6 +23,9 @@ relations:
   - relation: alleged_by
     target: ryan-s-wood
     note: "authenticity case"
+  - relation: investigates
+    target: mj12-disinformation-hypothesis
+    note: "rc/mj12 debate"
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -44,6 +47,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
@@ -147,3 +152,17 @@ Full treatment in [[majestic-documents]], [[eisenhower-briefing-document]], [[sp
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb states "there was a real Majestic 12", established under [[nsc-10-2]] (June 1948) inside the NSC covert-activities oversight structure, later continued as the [[nsc-5412-committee]] special group and the 303 Committee; the leaked [[eisenhower-briefing-document]] (formed 24 Sept 1947) "could very much still be real". He does not know what happened to the named MAG 12 after [[executive-order-12036]] (1978), and says "MJ12" persists as a legacy term. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 31:54-33:38, 1:01:30-1:01:59, 1:17:07-1:17:23)* [[eric-a-walker]] allegedly confirmed MJ-12's existence. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:35:02)*
+
+## Additional claims (rc/mj12)
+
+Full treatment of the episode: [[mj12-disinformation-hypothesis]], [[cutler-twining-memo]], [[cia-file-834021]], [[goudsmit-letter]], [[nia-meeting-1947-06-26]]. Speakers: host [[ross-coulthart]]; guests [[geoffrey-cruickshank]] (believes the documents authentic) and [[jed-davis]] (believes them real except the Cutler-Twining memo).
+
+- Coulthart frames MJ-12 as a covert 12-member committee of scientists, military officers and officials formed by Truman in 1947 to handle recovery, study and cover-up of crashed craft and "EBEs", operating above top secret under presidential oversight; he began as a skeptic and ends "not so sure". *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 2:06-3:25, 1:15:40-1:15:49)*
+- Coulthart says he believes from his own sources that at least one, possibly two, craft were recovered at Roswell. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 32:25-32:38)*
+- Cruickshank: Truman was given the [[twining-white-hot-report]] on 19 Sept 1947 (delivered for weekend reading), wrote of "all sorts of things facing me" in his diary, and on 24 Sept wrote on the document that he approved it and was keeping the copy; Twining's separate 23 Sept secret-level memo ("flying saucer phenomena is real and not fictitious") was distributed to allies as a "limited hangout", citing Harry Turner's 1971 document. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 40:56-45:25)*
+- Davis: Dec 1946-Jan 1947 [[vannevar-bush]]/Dulles/Donovan/Vandenberg agreements and the [[nia-meeting-1947-06-26]] show an intelligence framework built around 1946-47; he notes MJ-12 personnel (Bush, Hillenkoetter, Bronk, Forrestal, Berkner, Menzel) matched the archival record. Bronk's dossier went to Truman aide John Steelman on 24 Sept 1947; Forrestal registered a Smith & Wesson that day; his 28 Aug 1947 dossier packet lists Hillenkoetter first then Bush, the same order as the [[eisenhower-briefing-document]]; the DCI was at the White House at 11:00 on 24 Sept per his diary (declassified 2001). *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 1:11:39-1:11:56, 1:16:08-1:18:11)*
+- Cruickshank: if MJ-12 is real then [[kennedy-assassination]] was carried out by members of his own government and exobiological organisms were used in bio-warfare programs; the Majestic docs reference Project Palladium (false UFO radar signals fed into Soviet air defenses during [[curtis-lemay]]'s SAC era) before it was declassified. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 31:06-31:41, 1:13:09-1:14:23)*
+- Cruickshank on a program now: the CIA and legacy-program gatekeepers would resist disclosure of the MJ-12 secrets; he expects an amnesty request because a president would have to be reinterred. Coulthart: the president has pledged more UAP openness. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 1:14:23-1:15:28)*
+- Coulthart notes the "first annual report" MJ-12 document carries the CIA/SI 28-55 designation, see [[goudsmit-letter]]. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 59:44-1:00:31)*
+
+Comparison with Gerb: rc/mj12 agrees that MJ-12 personnel/dates line up with real Truman/Forrestal records (cf. gerb/sandia, gerb/secrecy_1, gerb/mj12) but differs on the [[cutler-twining-memo]] (Gerb/Wood: near-certainly genuine; Davis: plant). Gerb's timeline places a "real MJ-12" under [[nsc-10-2]] (1948); rc/mj12 does not discuss NSC 10/2 and treats 1947 as formation. *(see [[legacy-program-timeline]])*

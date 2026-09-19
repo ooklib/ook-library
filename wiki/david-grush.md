@@ -42,6 +42,8 @@ sources:
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -219,3 +221,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 ## Additional claims (gerb/timeline)
 
 - Timeline video: used as the [[modern-era-1994-present]] estimate of the situation: Grusch (July 2023 testimony, 40+ first-hand witnesses) is credited with establishing that the programs began after Roswell modeled on the Manhattan Project, that they reverse engineer/derive technology (inspiration rather than copying), 25-100 recovered craft, multiple NHI taxonomies (bipeds, grays, sentinel plasmoids; vehicles: saucers, sunfish, boots, boomerangs, crescents, tic tacs, eggs), FFRDC/contractor involvement; also cited on Magenta, OPC, 1994 shredding, IRAD breakaways and the "SAP-like" erasure of UAP data. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:21:52-2:25:47, 16:34-16:48, 3:45-4:00)*
+
+## Additional claims (rc/mj12)
+
+- Coulthart recalls that in June 2023 Grusch told him of the 1933 Magenta crash and a 1944 OSS/Dulles/Angleton effort, with Vatican help, to transfer the craft to the US. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 16:11-16:59)*

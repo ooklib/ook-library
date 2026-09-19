@@ -49,6 +49,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 Dr. Vannevar Bush is presented as the intellectual architect of the modern
@@ -154,3 +156,8 @@ Dr. Vannevar Bush is presented as the intellectual architect of the modern
 ## Additional claims (gerb/timeline)
 
 - Timeline video: pivotal Manhattan Project to UFO-effort figure heading the "small group" in Smith's 1950 memo and the science teams in Kissner's statement; Gerb: "Dr. Vannevar Bush always pops up here". *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 23:47-23:56, 36:27-36:39, 40:04-40:11, 1:48:39-1:48:47)*
+
+## Additional claims (rc/mj12)
+
+- [[jed-davis]]: in Dec 1946 Bush, [[allen-dulles]], [[william-donovan]] and [[hoyt-vandenberg]] met in New York for three days, leading (Jan 1947) to an agreement between the [[central-intelligence-group]] and the [[research-and-development-board]] leveraging Bush's contacts; Davis says the R&DB in May 1947 created its own intelligence panels, alarming CIG. Bush was "the most powerful scientist in the US" to whom Oppenheimer and Groves ultimately reported. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 15:12-16:11, 18:34-19:39)*
+- Hillenkoetter tells the [[nia-meeting-1947-06-26]] he is working with Bush on scientific intelligence. Bush's MIT oral history credits [[lloyd-berkner]] with the scientific-attache idea. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 20:18-20:58)*

@@ -23,6 +23,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 The Interplanetary Phenomenon Unit (IPU) is a disputed but partially Army-corroborated 1940s–1950s
@@ -82,3 +84,7 @@ alleged "Manhattan Project 2.0" onion. *([gerb/secrecy_1](../raw/gerb/secrecy_1.
 - IPU field order (4 July 1947) requests personnel including an aeronautical engineer and medical doctor cleared "need to know". The report (public 16 July 1995), authorized by Lt. Gen. John Samford and approved by CIA director Allen Dulles, says some RAAF investigators at the debris field thought it might be a Mogul balloon until Los Alamos personnel said it was "out of this world"; [[sandia-national-laboratories]] radiobiological team summoned by Col. Hasbrouck ("Howbrook"); scientists incl. [[j-robert-oppenheimer]], [[wernher-von-braun]]; "some of the recovery operation was shared with Representative John F. Kennedy". *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 19:33, 19:48, 20:06, 21:19, 21:49)*
 - Cantwheel claimed IPU service 1942-58; see [[thomas-cantwheel]]. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:12:52)*
 - Gerb says Mogul Flight 4 never launched on 4 June 1947 per project director Dr. Alan Crer (2024). *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 20:55)*
+
+## Additional claims (rc/mj12)
+
+- [[jed-davis]] (Cruickshank agrees): a 5 March 1942 memo by George Marshall created the IPU within G-2, and the Army admitted its existence in the 1980s via FOIA; Davis places a Marshall memo to FDR after the Battle of Los Angeles (Feb 1942) saying Navy and Army had each recovered a craft, and says the late-July 1947 IPU report mentions Paperclip scientists at Los Alamos. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 17:17-18:26, 38:06-38:21)*

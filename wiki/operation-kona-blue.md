@@ -20,6 +20,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 Kona Blue was a prospective special access program (PAP) proposed to operate as a waived USAP
@@ -65,3 +67,7 @@ subsequently declassified AARO slide deck. *([gerb/lockheed](../raw/gerb/lockhee
 ## Additional claims (gerb/timeline)
 
 - Timeline video (2011 entry): PSAP via DHS S&T for Lockheed VP [[james-t-ryder]] to divest UFO materials to the OAP and [[bigelow-aerospace-advanced-space-studies]]; blocked by [[glenn-gaffney]] and [[mary-sturtevant]]; DHS security officers who went looking for gatekeepers "found them" but lacked SAP access because it never became an SAP (per Puthoff to Gerb). Gerb says on good authority the materials came from the 1953 [[kingman-arizona-crash-1953]] and that Puthoff refused to comment. Gerb reconciles [[eric-davis]]'s "no reverse engineering success" claim: the Ryder program covered only metallurgy/metamaterials, with engineers not told the origin. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:07:52-2:16:15)* Falls in the same 2009-2012 window as the [[air-force-go-public-campaign]] and [[mitre-briefing-restriction]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:16:23-2:16:39)*
+
+## Additional claims (rc/mj12)
+
+- [[geoffrey-cruickshank]] links the DIA's Ron Burgess (mentor of Michael Flynn) to the attempt to shop Kona Blue to DHS, part of a claimed pressure campaign on the CIA before the 2017 inauguration (see [[william-donovan]]). *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 50:00-50:36)*

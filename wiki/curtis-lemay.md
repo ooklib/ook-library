@@ -18,6 +18,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 General Curtis "Bombs Away" LeMay, head of Strategic Air Command, appears in the transcript as the aggressive general [[harald-malmgren]] faced down in the 1962 [[cuban-missile-crisis]], and as an alleged UAP-aware insider.
@@ -35,3 +37,7 @@ General Curtis "Bombs Away" LeMay, head of Strategic Air Command, appears in the
 ## Additional claims (jm/townsend-brown)
 
 - Named among Brown's high-level contacts (1967 meetings with RAND, [[bill-lear]]) and angrily refused access to a Wright-Patterson secret room. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 2:01-2:18, 25:35-25:48, 58:46-59:05)*
+
+## Additional claims (rc/mj12)
+
+- [[geoffrey-cruickshank]]: Project Palladium (false UFO signals put into Soviet air defenses in the 1950s) is referenced in a Majestic document before declassification; LeMay was "chomping at the bit" to attack the USSR. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 1:13:09-1:13:57)*

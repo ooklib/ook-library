@@ -35,6 +35,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the president who inherited [[laos]] from [[dwight-d-eisenhower]], approved and then cancelled the planned bombing ([[operation-milpond]]), and pursued a diplomatic settlement. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 52:54-53:18, 1:08:52-1:09:10)*
@@ -96,3 +98,7 @@ US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the presi
 ## Additional claims (gerb/mj12)
 
 - Majestic documents allege JFK learned of a recovery before becoming president (IPU), a 1961 note asked the CIA director for MJ-12 psychological warfare plans, NSAM 271 (a week before his death) asked NASA's James Webb to share knowns and unknowns with the Soviets, and the [[burned-memo]] says "Lancer has made some inquiries ... we cannot allow". Gerb also cites a retyped NSA intercept of a hotline call. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:00:29, 1:01:00, 1:02:02, 1:03:17)*
+
+## Additional claims (rc/mj12)
+
+- [[geoffrey-cruickshank]]: as a congressman JFK wrote [[roscoe-hillenkoetter]] (declassified 2001) complaining about junior CIA staff; may have been told about Roswell by Stuart Symington; the alleged 28 June 1961 MJ-12 question to [[allen-dulles]] with [[jay-patrick-coyne]] present; and MJ-12 as motive for the assassination. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 45:25-46:18, 58:02-59:01, 1:12:32-1:13:04)*

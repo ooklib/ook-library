@@ -11,7 +11,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
 `gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`,
 `rjm/city-of-london`, `mpu/secret-society`, `ewa/oss`, `ewa/sunrise`, `ewa/mafia-allies`,
-`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`, `ewa/laos-4`, `ewa/war-conspiracy-1`, `ewa/war-conspiracy-2`, `ewa/operation-40`, `ewa/cia-mafia`, `ewa/bush-1`, `ewa/bush-2`, `ewa/bush-3`, `ewa/jfk-cia`, `ewa/shackley`, `ewa/jmwave`, `ewa/dallas-0`, `ewa/dallas-1`, `ewa/dallas-2`, `ewa/dallas-3`, `ewa/dallas-4`, `ewa/dallas-5`, `jm/malmgren`, `gerb/nukes`, `gerb/sarbacher`, `gerb/dugway`, `gerb/timeline`).
+`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`, `ewa/laos-4`, `ewa/war-conspiracy-1`, `ewa/war-conspiracy-2`, `ewa/operation-40`, `ewa/cia-mafia`, `ewa/bush-1`, `ewa/bush-2`, `ewa/bush-3`, `ewa/jfk-cia`, `ewa/shackley`, `ewa/jmwave`, `ewa/dallas-0`, `ewa/dallas-1`, `ewa/dallas-2`, `ewa/dallas-3`, `ewa/dallas-4`, `ewa/dallas-5`, `jm/malmgren`, `gerb/nukes`, `gerb/sarbacher`, `gerb/dugway`, `gerb/timeline`, `rc/grusch`, `rc/mj12`).
 
 Note: the wiki spans four topic areas — the original alleged "UFO legacy programs" ecosystem
 (MITRE, SAIC, NRO, Lockheed, etc.), a British power-structures thread (Fabian Society, Chatham
@@ -349,3 +349,5 @@ origin-story claims/relations), and to the British-power-structures thread throu
 - Organizations: [[national-air-and-space-intelligence-center]] · [[air-force-systems-command]] · [[air-materiel-command]]
 - People: [[brad-sorenson]] · [[bob-oechsler]] · [[steven-schiff]] · [[jimmy-carter]] · [[john-podesta]]
 - Existing pages extended with a "gerb/timeline" section: roswell, magenta, Kingman/Stansel/Dahl/Wang, NSC 5412, AEA 1954, Corso, MITRE, Kona Blue, AATIP, Immaculate Constellation, control group, Grusch, Kissner, and ~75 more.
+
+**Added by `rc/mj12`** (NewsNation "Reality Check", Coulthart with Cruickshank and Davis): [[mj12-disinformation-hypothesis]] — hoax/CI/leak debate · [[cutler-twining-memo]] — disputed 1954 Archives memo · [[cia-file-834021]] — CIA Paperclip file number match · [[goudsmit-letter]] — CIA/SI 28-55 UFO-file match · [[nia-meeting-1947-06-26]] — Hillenkoetter's scientific-intelligence "urgent problem" · people: [[jed-davis]] · [[scotty-miller]] (alleged leaker) · [[samuel-goudsmit]] · [[jay-patrick-coyne]] · [[jaime-shandera]] · [[william-moore]] · [[lloyd-berkner]]. Also enriched [[majestic-12]], [[majestic-documents]], [[geoffrey-cruickshank]], [[ross-coulthart]] and others (source key `rc/mj12`).

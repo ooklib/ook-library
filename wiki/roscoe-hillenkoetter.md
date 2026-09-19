@@ -23,6 +23,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 Roscoe Hillenkoetter (rendered "Hillenk Oetter" in Eyes Wide Open's ASR captions) was a US naval
@@ -53,3 +55,7 @@ effectiveness.
 - 11 Feb 1948 Hillenkoetter memo (Truman "Majic black book summaries") mentions "magic"; 19 Sept 1947 memo to the Joint Intelligence Committee (subject "military assessment of the JIC" - Gerb equates with MAGIC) requests a classified intelligence project, says one craft recovered and one entity captured (ASR garbled), no clear scientific examination possible until a directive from the president, and cites Wright Field's biological lab, the Research and Development Board, FBI, MI5 and MI6. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 11:23, 11:55, 12:03)*
 - 1963 memo from CIA director Hillenkoetter to [[donald-menzel]]. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 11:39)*
 - Friedman rebutted the claim that he was in Korea; he was in New York in late 1952. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 10:58)*
+
+## Additional claims (rc/mj12)
+
+- Per [[jed-davis]]: at the [[nia-meeting-1947-06-26]] he said the CIG lacked collectors for scientific intelligence and outlined two proposals (scientific attaches; giving scientists an intelligence course). He was at the White House at 11:00 on 24 Sept 1947, per his diary (declassified 2001). Coulthart/Cruickshank: JFK, as a young congressman, wrote him a declassified letter (2001) complaining about junior CIA officers. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 20:10-22:16, 45:58-46:18, 1:17:33-1:17:55)*

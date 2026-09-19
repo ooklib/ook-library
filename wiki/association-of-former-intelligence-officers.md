@@ -11,6 +11,8 @@ sources:
     label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 AFIO is, per [[eyes-wide-open]] in chapter 2 of [[road-to-dallas]], the Association of Former Intelligence Officers, founded in 1975 by [[david-atlee-phillips]] in response to the scrutiny of the 1975 "year of intelligence" hearings ([[church-committee]]); host notes it "still exists to this day." *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 7:33)*
@@ -28,3 +30,7 @@ AFIO is, per [[eyes-wide-open]] in chapter 2 of [[road-to-dallas]], the Associat
 ## Additional claims (ewa/dallas-5)
 
 - [[frank-brandstetter]] asked [[david-atlee-phillips]] to open AFIO to non-CIA intelligence officers (Army, Navy) and became its first non-CIA member, acting as a recruiter for the new organization. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 39:01-39:27)*
+
+## Additional claims (rc/mj12)
+
+- [[geoffrey-cruickshank]] says [[scotty-miller]] was president of the New Mexico chapter and observed [[timothy-cooper]] at meetings before leaking to him. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 26:40-27:14)*

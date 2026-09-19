@@ -27,6 +27,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 Richard Helms, future CIA director, is noted by Eyes Wide Open (citing Jefferson Morley) as one
@@ -69,3 +71,7 @@ ground during WWII, alongside [[frank-wisner]], [[william-colby]], and [[james-j
 ## Additional (ewa/dallas-5)
 
 - Per Peter Dale Scott quoting an Italian source, [[philippe-thyraud-de-vosjoli]] was an intermediary between CIA leaders including Helms and OAS organizer Jacques Soustelle in the early 1960s. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 43:13-43:38)*
+
+## Additional claims (rc/mj12)
+
+- [[geoffrey-cruickshank]] says Helms, in office only two weeks in 1973 (as stated), ordered documents burned, and that he was a friend of Angleton, Ray Rocca and [[scotty-miller]]; loyalty to Helms after [[richard-nixon]] fired him allegedly motivated the leaks. [[jed-davis]] adds that Helms's MK-Ultra destruction order failed only because 20,000 files were misfiled. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 48:18-48:49, 1:08:53-1:10:51)*

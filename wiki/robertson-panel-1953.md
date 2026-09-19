@@ -15,6 +15,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 A 1953 panel that, per Gerb, "served as a debunking panel to reduce public concern regarding
@@ -39,3 +41,7 @@ UFOs." *([gerb/saic](../raw/gerb/saic.md) 13:04–13:18)*
 
 - Allegedly references [[project-pounce]] (originated by [[william-a-matheny]]) and
   [[project-stork]].
+
+## Additional claims (rc/mj12)
+
+- The [[goudsmit-letter]] (CIA, released 2001, addressee redacted till 2 April 2026) says [[samuel-goudsmit]] did not recall [[lloyd-berkner]] on the panel but did recall an Ohio State astronomer, presumably Hynek; the panel met 14-17 Jan 1953. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 1:01:17-1:02:40)*

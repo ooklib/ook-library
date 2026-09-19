@@ -58,6 +58,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 Richard Nixon appears in this episode as a junior California congressman who built his
@@ -151,3 +153,7 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
 ## Additional claims (gerb/timeline)
 
 - Timeline video: [[executive-order-11652]] (1972) as the "first domino"; Gerb says Nixon was "well-versed and involved" in the programs; the 303 Committee continued into his administration. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:04:39-1:05:58, 2:35:55)*
+
+## Additional claims (rc/mj12)
+
+- [[geoffrey-cruickshank]]: Nixon's "fingerprints are all over" MJ-12 as 1950s vice president, and his firing of [[richard-helms]] and desire to have documents burned prompted [[scotty-miller]] to save and leak the [[burned-memo]] material. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 48:18-48:58, 1:08:53-1:09:19)*

@@ -32,6 +32,8 @@ sources:
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 Cited by Gerb as an example of a prior alleged UFO crash retrieval before Roswell; he assesses
@@ -84,3 +86,7 @@ Gerb's full video on the case, positioned as "the Roswell before Roswell", with 
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb uses Magenta as the "preliminary entry", restating Grusch's 2023 NewsNation claim, the Pinotti documents, the RS33 body (Marconi, with his family saying Enrico Fermi actually led it) and the Pius XII/OSS/FDR back-channel; he judges the vehicle a lenticular disc that was unmanned and that the US shelved a dedicated effort until Roswell in 1947. He also says maritime recoveries by ONI before and during WWII are possible. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 16:34-20:43, 2:30:51-2:32:52)* Gerb adds Chris Sharp's recent article on Nazi UFO study programs and reported Nazi collaboration with a "Nordic" species, on which Gerb says he has no information. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:31:05-2:31:29)*
+
+## Additional claims (rc/mj12)
+
+- Coulthart repeats [[david-grush]]'s June 2023 claim that Dulles, Angleton and OSS staff moved the craft to the US around 1944 with Vatican help. [[geoffrey-cruickshank]] adds Dulles received Ciano's diary from Edda Mussolini and, speculatively, a fusion-device link through [[rs-33]] leadership passing from Marconi (d. 1937) to Fermi (see [[samuel-goudsmit]]). *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 12:52-13:40, 16:11-16:59, 1:05:23-1:07:40)*

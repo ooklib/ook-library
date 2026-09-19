@@ -38,6 +38,8 @@ sources:
     label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 Harry Truman was President of the United States when, per Eyes Wide Open, he lost faith in
@@ -98,3 +100,7 @@ with [[roscoe-hillenkoetter]] as (per the host) first director of the CIA.
 ## Additional claims (gerb/timeline)
 
 - Timeline video: signed the [[national-security-act-1947]] and [[nsc-10-2]] (1948); Gerb credits him with laying the groundwork (including the MAG 12) that Eisenhower completed, and says Truman was heavily involved in classified executive orders. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 29:29-30:33, 30:45-31:54, 34:13-34:23, 2:35:02-2:35:10)*
+
+## Additional claims (rc/mj12)
+
+- [[geoffrey-cruickshank]] and [[jed-davis]]: Truman held a press conference 10 July 1947 and dismissed flying saucers as a "moon hoax"; hosted the Air Force chiefs on 8-9 July 1947 (officially for Air Force Day); read the [[twining-white-hot-report]] on 21 Sept 1947 per his diary (Cruickshank says the 20th) and wrote on the document on 24 Sept. Claims rest on disputed MJ-12 documents plus real diaries. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 36:08-36:53, 39:10-39:57, 40:31-45:25)*

@@ -59,6 +59,8 @@ sources:
     label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 James Jesus Angleton was the OSS station chief in Rome during WWII and, per Eyes Wide Open, would
@@ -153,3 +155,7 @@ viewed [[allen-dulles]] as a mentor and personally helped extract fascist collab
 ## Additional claims (jm/malmgren)
 
 - [[harald-malmgren]] says the relationship between Angleton's father Hugh and the [[knights-of-malta]] "needs to be uncovered" and speculates James Jesus Angleton may have been involved in the Magenta retrieval kept at the Vatican. The host lists both Hugh and James as Knights, calls Angleton a Dulles protege and the CIA counterintelligence figure over UFO matters from the 1950s-80s, and cites Angleton within George Marshall's team. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:35:09-1:35:44, 1:39:13-1:39:30, 1:42:16-1:43:06, 1:56:56-1:57:38)*
+
+## Additional claims (rc/mj12)
+
+- [[geoffrey-cruickshank]]: [[scotty-miller]] was his counterintelligence agent, and Angleton, Ray Rocca and Miller all admired [[richard-helms]]; Angleton with Dulles allegedly controlled CIA UFO files. Coulthart raises but doubts the theory that Angleton wrote the MJ-12 documents as a counterintelligence foil against the Soviets. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 14:00-14:17, 26:12-26:22, 46:59-47:30, 1:09:02-1:09:19)*

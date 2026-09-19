@@ -7,6 +7,9 @@ relations:
   - relation: alleged_by
     target: david-fravor
     note: "cites Fravor's account of a private conversation with Ben Rich"
+  - relation: investigates
+    target: majestic-documents
+    note: "Reality Check episode"
 sources:
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
@@ -14,6 +17,8 @@ sources:
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 Ross Coulthart, Australian investigative journalist (host of *Need to Know* with Bryce Sable),
@@ -43,3 +48,8 @@ privately told him the 2004 Nimitz "tic tac" originated from Lockheed Skunk Work
 ## Additional claims (gerb/nukes)
 
 - Gerb cites his NewsNation interview in which [[david-grush]] confirmed the [[malmstrom-minuteman-incident-1967]]. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 8:17-8:25)*
+
+## Additional claims (rc/mj12)
+
+- Host of NewsNation "Reality Check"; in this episode he interviews [[geoffrey-cruickshank]] and [[jed-davis]] on [[majestic-12]], playing devil's advocate but concluding he is "not so sure" the documents are hoaxes. Notes his own sources say at least one craft was recovered at Roswell and refers to his June 2023 interview with [[david-grush]] on Magenta. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 1:11-1:19, 16:11-17:06, 32:25-32:38, 1:15:40-1:15:49)*
+- Recites official denials of MJ-12 (FBI, USAF OSI, ISOO, GAO, National Archives) and admits he had accepted them until now. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 3:44-6:40)*

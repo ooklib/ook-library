@@ -38,6 +38,8 @@ sources:
     label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
+    label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
 
 The 22 November 1963 assassination of President John F. Kennedy in Dallas. In this episode Eyes Wide Open covers only [[e-howard-hunt]]'s alleged presence and deathbed confession; the host says his own research indicates a fundamental mob element in the conspiracy. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:48-11:00)*
@@ -119,3 +121,7 @@ The 22 November 1963 assassination of President John F. Kennedy in Dallas. In th
 ## Additional claims (gerb/mj12)
 
 - Gerb notes CIA agent Ruben Efron (intercepted Oswald mail per 2023 releases) appears in a 1955 Central Intelligence Bulletin as witnessing UFOs from a train near the Caspian Sea, and [[boris-dimitri-tasov]]'s Mexico City translations. Wood: JFK's UFO-sharing initiative is one more possible motive. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:01:32, 1:03:34, 1:16:22)*
+
+## Additional claims (rc/mj12)
+
+- [[geoffrey-cruickshank]] says if the MJ-12 documents are real then Kennedy was killed by members of his own government (treason) and Dulles is implicated; a "crisis" (reburial from Arlington) explains why he thinks amnesty is sought. Coulthart raises this as an implication, not a finding. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 31:06-31:41, 1:12:32-1:15:28)*
