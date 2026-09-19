@@ -42,6 +42,8 @@ sources:
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
     label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
+    label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
 ---
 
 The Office of Strategic Services was the United States' first dedicated foreign-intelligence
@@ -124,3 +126,7 @@ handling only domestic intelligence. *([ewa/oss](../raw/ewa/Eyes Wide Open - 202
 ## Ewa/willoughby-2
 
 - Host expands the Pacific rivalry: the [[allied-intelligence-bureau]] was "MacArthur's OSS"; [[douglas-macarthur]] rejected a 1941 approach and blocked a July 1942 request to establish OSS in Australia, and the "monopolization of intelligence gathering, dissemination, and covert ops" extended into postwar Japan, where the CIA "only really inserted itself in 1948 and 49". Also: [[edward-lansdale]] as a young OSS officer in Northern California. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:00:20-1:02:16, 1:19:04-1:19:23)*
+
+## Additional claims (gerb/magenta)
+
+- Gerb's intro says OSS agents recovered the Magenta craft from the fallen Fascist state in 1944-45 (contrast the Vatican-route account). *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 3:22-3:48)* See [[magenta-italy-crash-1933]].

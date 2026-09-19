@@ -12,6 +12,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
+    label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
 ---
 
 Operation Sunrise (per Eyes Wide Open's account, also referred to in Part 1 as "Operation
@@ -57,3 +59,7 @@ is the episode this operation is named for.
 - Centered on the protection of [[karl-wolff]]; also encompassed saving [[hjalmar-schacht]] and
   the failed attempt to save [[hermann-goring]].
 - Alleged by [[eyes-wide-open]].
+
+## Additional claims (gerb/magenta)
+
+- Gerb mentions, without endorsing, another researcher's theory that Sunrise, Galeazzo Ciano's diaries and Edda Mussolini were a front to retrieve the Magenta craft. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 9:58-10:27)* See [[magenta-italy-crash-1933]].

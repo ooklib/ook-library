@@ -19,6 +19,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
+    label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
 ---
 
 Chris Sharp, a journalist with the Liberation Times, is cited by Gerb for his article "UFO
@@ -49,3 +51,7 @@ reported sources describing a vehicle or vehicles of unknown origin stored at
 - Reported on alleged vehicle storage at [[naval-air-station-patuxent-river]]; source for Gerb's
   crash-retrieval-team model involving [[cia-office-of-global-access]] and [[jsoc]]; reported the
   [[lockheed-martin]]–[[operation-kona-blue]] material-transfer attempts.
+
+## Additional claims (gerb/magenta)
+
+- Gerb cites his 2021 Liberation Times article "All UFO Disclosure Roads Lead to Rome" as the source for the Mussolini-Pius XII confiding and the leak to the US, calling him well-respected. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 20:04-21:04)* See [[magenta-italy-crash-1933]], [[pope-pius-xii]].

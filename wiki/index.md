@@ -209,11 +209,13 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[j-robert-oppenheimer]] · [[carl-compton]] · [[john-trump]] · [[thomas-townsend-brown]] ·
 [[nikola-tesla]] · [[curtis-lemay]] · [[robert-mcnamara]] · [[paul-mellon]] · [[anatoly-dobrynin]] (added by `jm/malmgren`) · [[bill-lear]] · [[william-stevenson]] · [[edward-teller]] · [[agnew-bahnson]] · [[victor-schauberger]] (added by `jm/townsend-brown`)
 
+[[benito-mussolini]] · [[galeazzo-ciano]] · [[italo-balbo]] · [[guglielmo-marconi]] · [[roberto-pinotti]] · [[tomaso-david]] (added by `gerb/magenta`, all Magenta-case figures)
+
 ## Programs / Events
 
 [[draft-eisenhower-movement]] — 1952 Yankee-Republican push (`ewa/bush-1`) · [[cia-mafia-assassination-plots]] — alleged 1960-61+ CIA/mob Castro plots (`ewa/cia-mafia`) · [[jeddah-agreements]]
 
-[[bluegill-triple-prime]] — 1962 high-altitude test with alleged UFO "tagalong" shootdown (`jm/malmgren`) · [[operation-dominic]] — 1962 Fishbowl test series (`jm/malmgren`) · [[cuban-missile-crisis]] — Malmgren's war-room account (`jm/malmgren`) · [[knights-of-malta]] — Vatican-linked order tied to UFO secrecy by Malmgren/host (`jm/malmgren`)
+[[bluegill-triple-prime]] — 1962 high-altitude test with alleged UFO "tagalong" shootdown (`jm/malmgren`) · [[operation-dominic]] — 1962 Fishbowl test series (`jm/malmgren`) · [[cuban-missile-crisis]] — Malmgren's war-room account (`jm/malmgren`) · [[knights-of-malta]] — Vatican-linked order tied to UFO secrecy by Malmgren/host (`jm/malmgren`) · [[rs-33]] — alleged 1933 Italian fascist UFO study group (`gerb/magenta`) · [[agenzia-stefani]] — fascist news agency, alleged cover-up channel (`gerb/magenta`) · [[siai-marchetti]] · [[mount-soratte-bunker]] — alleged Magenta craft storage sites (`gerb/magenta`)
 
 [[ufo-legacy-programs]] · [[sage-semi-automatic-ground-environment]] ·
 [[project-whirlwind]] · [[tic-tac-factory-uso]] · [[roswell-incident-1947]] ·

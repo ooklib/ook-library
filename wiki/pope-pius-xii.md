@@ -14,6 +14,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
+    label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
 ---
 
 Pope Pius XII met with [[william-donovan]] at the Vatican in 1945 as the war ended, and per Eyes
@@ -36,3 +38,7 @@ and Vatican worked to secure a Christian Democratic victory.
 ## Additional claims (jm/malmgren)
 
 - Host summary of Grush's account: Pius XII learned of the Magenta retrieval and, fearing Nazi acquisition, back-channelled the craft's existence and location to the Allies. *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:37:37-1:37:54, 1:32:01-1:32:14)**)*
+
+## Additional claims (gerb/magenta)
+
+- Per [[david-grush]] and [[chris-sharp]]'s 2021 reporting, Mussolini confided the retrieved craft to Pius XII, who leaked its existence to the US, leading to the housing facility being spared from Allied bombing; Gerb has no paper trail. Gerb's description spells it "Pope Pius XXII" (error). *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 0:23-0:40, 20:12-20:49)* See [[magenta-italy-crash-1933]].

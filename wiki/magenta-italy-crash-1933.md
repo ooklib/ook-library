@@ -12,6 +12,13 @@ relations:
   - relation: alleged_by
     target: harald-malmgren
     note: "says Bissell mentioned it in a 1960s CIA briefing"
+  - relation: alleged_by
+    target: roberto-pinotti
+    note: "documents received 1996"
+  - relation: references_testimony_of
+    target: luis-elizondo
+  - relation: references_testimony_of
+    target: david-grush
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -21,6 +28,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
+    label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
 ---
 
 Cited by Gerb as an example of a prior alleged UFO crash retrieval before Roswell; he assesses
@@ -51,3 +60,21 @@ from the more consequential [[roswell-incident-1947|Roswell]] event. *([gerb/mit
 - [[harald-malmgren]] says [[richard-bissell]] mentioned "1933 Magenta" to him, which the host calls corroboration of [[david-grush]]'s account. Malmgren says the steps to bring the object to US hands were arranged by [[allen-dulles]] (Truman is named as having transferred it). *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:31:24-1:32:45)*
 - Host summary: Grush and others describe a 10-12 m disc coming down near Magenta in June 1933; Mussolini imposed a media blackout with a meteor cover story; a study group ("Gabinetto RS/33") reportedly included Mussolini, Italo Balbo and Marconi (who believed it non-human); craft and possibly two bodies went to SIAI-Marchetti hangars; a nine-step protocol was drawn up; Pius XII learned of it in the late 1930s, feared Nazi acquisition and quietly informed the Allies; OSS "McGregor" targeted it, and by 1945 it was reportedly moved to [[wright-patterson-air-force-base]] where Paperclip scientists worked on it. Malmgren's speculation: Italy's Axis alignment may have been driven by an Italian belief the craft was German. Host adds Mussolini-Hitler collaboration hearsay. *(All host or speculative:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:36:01-1:38:45, 1:44:20-1:44:44, 1:47:17-1:47:40)**)*
 - Malmgren links the [[knights-of-malta]] and Angleton's father Hugh to the Vatican custody of the retrieval (speculation). *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:35:09-1:36:01, 1:42:59-1:43:10)*
+
+## Additional claims (gerb/magenta — dedicated video)
+
+Gerb's full video on the case, positioned as "the Roswell before Roswell", with a "rich paper trail" unlike most crash-retrieval stories.
+
+- **Story:** in June 1933 (Gerb dates it 13 June) an unknown craft crashed or landed at Magenta, west of Milan; described as bell-like, a mix of saucer and "Die Glocke" ([[the-bell]]), about 10 m across. [[benito-mussolini]] thought it a vehicle from France, Britain or Germany. The [[rs-33]] group (Mussolini, [[galeazzo-ciano]], [[italo-balbo]], astronomer Gino Cecchini, possibly [[guglielmo-marconi]] who thought it extraterrestrial) studied it; craft and debris reportedly stored in [[siai-marchetti]] hangars at Vergiate. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 1:50-3:22)*
+- **Documents:** [[roberto-pinotti]] received the papers in 1996 from an anonymous senator "Mr X"; forensic testing dated paper and ink to the 1930s. Three 13 June 1933 [[agenzia-stefani]] telegrams order silence, a meteor cover story, then a halt to the news; a nine-step protocol memo addressed to "De Santi" ([[tomaso-david]]). Reddit users also noted the style and templates fit 1930s fascist telegrams. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 3:48-12:28, 18:07-18:55)*
+- **Cover story evidence:** newspapers of that month reported severe lightning and hail storms near Magenta, which Gerb reads as the disinformation in action. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 19:05-19:53)*
+- **Sighting notes 1933-1940:** handwritten notes with the Senate seal describe a metallic disc 10-12 m long that two fighters could not catch, plus a cigar-shaped "aerial torpedo" followed by two "priest hat" saucers (drawing); Gerb compares it to the Jacobs saucer and the 1948 Chiles-Whitted encounter. Mussolini was said to be worried it was British or French. Prefect telegrams 1933-38 mention "unconventional flying vehicles", including over Valona, Albania. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 14:37-18:07)*
+- **Craft fate (Gerb, no hard trail):** per Mr X the Nazis took control in 1943 and dissolved RS/33; the craft possibly went to the [[mount-soratte-bunker]]; Germans seized the bunker in September 1943. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 13:23-14:37)*
+- **Vatican:** citing [[chris-sharp]]'s 2021 Liberation Times piece "All UFO Disclosure Roads Lead to Rome", Mussolini confided in [[pope-pius-xii]], who, uneasy over the Nazi alliance, leaked to the US; the housing facility was spared from Allied bombing; the craft reached the US around end of 1944. Gerb has no paper trail for this. Elsewhere Gerb says [[office-of-strategic-services]] agents recovered it in 1944-45. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 3:31-3:48, 19:57-21:04)*
+- **Testimony:** [[david-grush]] (opening clip) says the recovery was real, the Italian government moved it to a secure airbase until 1944-45, and the pope "back channeled" that to the Americans. [[luis-elizondo]] says he saw validated documentation from "Mussolini himself", proven authentic, and that parts were brought to the US after the war. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 0:00-1:10, 21:13-23:02)*
+- **Caveats by Gerb:** no evidence of bodies in the original documentation; he excludes later claims by a William Brophy (ASR "William broy") grandson about bodies and says that man was involved in other hoaxes. An unnamed researcher has mapped how the US retrieved it (possibly via [[operation-sunrise]] with the Ciano diaries); Gerb declines to summarize his work and hopes to interview him. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 9:58-10:27, 24:05-24:54)*
+- **Analogies:** RS/33 protocol resembles USAF Regulation 200-2 and [[majestic-12]]. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 12:28-13:23)*
+
+## Relationships (added by gerb/magenta)
+
+- Documents from [[roberto-pinotti]]; group [[rs-33]]; people [[benito-mussolini]], [[galeazzo-ciano]], [[italo-balbo]], [[guglielmo-marconi]], [[tomaso-david]]; places [[siai-marchetti]], [[mount-soratte-bunker]]; press [[agenzia-stefani]].

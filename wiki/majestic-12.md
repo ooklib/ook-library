@@ -28,6 +28,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
+    label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
@@ -101,3 +103,7 @@ MJ1 if you use Majestic 12 terminology." *([gerb/mitre](../raw/gerb/mitre.md) 1:
 
 - Host: [[harald-malmgren]], a four-president adviser, uses "majestic" in the video: he says he was told his name went "in all the important books of talent" kept by the CIA and "all the majestic ... guardians" who "protect the world" (ASR garbled; the speaker appears to be Christian Herter). Host judges he used it casually and probably meant a continuity-of-government contingency committee (5412, 303 Committee, Committee of 40) rather than only an extraterrestrial group, while noting the possibility that it is the counter-intelligence usage. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 3:40:52-3:43:06, 4:06-4:39)*
 - Host repeats that [[james-v-forrestal]] was supposedly on MJ-12, and that MJ-12 as an elite advisory board for Truman and Eisenhower is disputed. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:57:38-1:57:53)*
+
+## Additional claims (gerb/magenta)
+
+- Gerb compares the Italian [[rs-33]] group, its secrecy and autonomy, to MJ-12 and calls it an Italian precursor of the US body. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 12:36-13:23)*

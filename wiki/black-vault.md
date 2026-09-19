@@ -13,6 +13,8 @@ sources:
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
+    label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
 ---
 
 The Black Vault, a FOIA-focused transparency site/organization, received the list of 38
@@ -30,3 +32,7 @@ The Black Vault, a FOIA-focused transparency site/organization, received the lis
 ## Additional claims (gerb/nukes)
 
 - Gerb cites a Black Vault document for the NRC incident file on a black triangle over Cooper Nuclear Station, Nebraska ([[indian-point-ufo-incident-1984]]). *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 13:00-13:16)*
+
+## Additional claims (gerb/magenta)
+
+- Gerb credits the Black Vault for transcribing the handwritten 1930s Italian sighting note and for Magenta case-file coverage. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 15:57-16:04)*

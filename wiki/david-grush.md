@@ -38,6 +38,8 @@ sources:
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
+    label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -207,3 +209,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 ## Additional claims (gerb/nukes)
 
 - Gerb says Grusch directly confirmed the [[malmstrom-minuteman-incident-1967]] in his [[ross-coulthart]] interview and a 2023 Newsweek article. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 8:17-8:25)*
+
+## Additional claims (gerb/magenta)
+
+- Gerb opens with Grush's statement (to [[ross-coulthart]], NewsNation) that 1933 Magenta was the first European recovery; the Italian government moved a partly intact vehicle to a secure airbase until 1944-45 and the Vatican back-channelled this to the Americans, "and we ended up scooping it". *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 0:00-1:10, 23:32-23:48)* See [[magenta-italy-crash-1933]].

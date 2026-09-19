@@ -33,6 +33,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
+    label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
 ---
 
 Luis Elizondo (ASR-transcribed "Lou Alzando"/"Luis Alzando") claimed to direct, work for, or
@@ -120,3 +122,7 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
 ## Claims (from "The Wilson Davis Memo" video)
 
 - Quoted (as "Lou Alzando", ASR) on the Wilson memo: "that thing isn't going to die... that is going to start a firestorm... DOD should have saw this coming." Gerb says Elizondo also once described AATIP discovering a DoD black program focused on UFOs from which it was denied access. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 24:16-24:33, 29:55-30:11)*
+
+## Additional claims (gerb/magenta)
+
+- Quoted ("Lue Alzando", ASR) saying he saw compelling documentation from a foreign country, which he first misnamed and then said was Italy, about a vehicle recovery studied scientifically, with parts allegedly brought to the US after the war; documentation "from Mussolini himself", "proven to be authentic". *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 21:13-23:02)* See [[magenta-italy-crash-1933]].

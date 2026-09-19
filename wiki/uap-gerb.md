@@ -22,6 +22,8 @@ sources:
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
+    label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -61,3 +63,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Additional claims (gerb/nukes)
 
 - Video on UFO-nuclear cases (Jacobs, Malmstrom, Indian Point): [[ufo-nuclear-connection]]; Gerb floats a part two and a future NRC video. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 13:16-13:39)*
+
+## Additional claims (gerb/magenta)
+
+- Video 2024-03-18 on the [[magenta-italy-crash-1933]] paper trail; he says he avoids repeating another researcher's work on the US retrieval and wants him on the show, and mentions upcoming coverage of the AARO report and the Dean Johnson FOIA request. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 10:12-10:27, 24:30-25:18)*
