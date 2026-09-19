@@ -28,6 +28,8 @@ sources:
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
     label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Lee Harvey Oswald is treated by [[eyes-wide-open]] only in his pre-assassination context: allegedly a Louisiana [[civil-air-patrol]] cadet under [[david-ferrie]] in 1955 alongside [[barry-seal]], and later a Marine posted at a top-secret U-2 spy plane base in Japan around 1957, "an unusual assignment for an allegedly mediocre soldier and pilot." *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 43:04-44:25)*
@@ -64,3 +66,7 @@ Lee Harvey Oswald is treated by [[eyes-wide-open]] only in his pre-assassination
 ## Additional claims (Road to Dallas Ch. 4)
 
 - Host: Johnny (Mitchell) Devo, named by [[gerry-patrick-hemming]] as one of the mob's boys in Cuba, is alleged by many to be the man photographed posing as Oswald in Mexico City in 1963. Also mentions [[david-ferrie]] as Oswald's suspected recruiter. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 26:01-26:20, 21:01-21:15)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says Oswald was trained by the Office of Naval Intelligence, worked in a private political-spying operation with [[guy-banister]] in New Orleans, infiltrated the Free Cuba group as a fake Marxist, and was set up to fire a miss at the motorcade before real shots killed Kennedy; the CIA had a file on him since 1959 and Ruben Efron's mail intercept read his mail. See [[sheehan-jfk-assassination-claims]], [[ruth-paine]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:14:50)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:18:30)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 11:11)*

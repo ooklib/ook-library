@@ -16,6 +16,8 @@ sources:
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Operation Mongoose was the Kennedy White House's post-Bay of Pigs anti-Castro program, described by [[eyes-wide-open]] as "a primarily non-lethal regime change operation" meant to spur a popular uprising inside Cuba, devised by the Kennedy brothers with [[edward-lansdale]] as their "self-appointed covert action guru." It is the White House track of what the host calls Kennedy's "two-track" Cuba policy, the other track being the CIA's own, largely unauthorized operations out of [[jm-wave-station]]. This page holds the `ewa/jfk-cia` primer's account only. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:03-1:47, 2:25-2:48)*
@@ -44,3 +46,7 @@ Operation Mongoose was the Kennedy White House's post-Bay of Pigs anti-Castro pr
 - Launched February 1962 jointly under [[robert-f-kennedy]] and [[edward-lansdale]]; the host says it directly caused the massive expansion of [[jm-wave-station]] personnel and activity over two years, and that funds flowed "to seemingly any and all Cuban exiles" for eight months (February-October 1962). Lansdale's timetable slated a Cuban uprising for October 1962; the host calls it a pipe dream even without the missile crisis. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 0:50-1:25, 5:42-6:41)*
 - The White House Special Group Augmented (RFK, Lansdale, [[mcgeorge-bundy]]) competed with CIA's Task Force W under [[william-harvey]]; the "10,000 small pinprick strategy" of sabotage raids (e.g., the Matahambre mine) mostly counterproductive. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 38:56-39:35, 42:20-44:49)*
 - Missile crisis "largely signaled its end"; on January 4, 1963 Bundy said "There is well-universal agreement that Mongoose is at a dead end." *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 53:29-56:00)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says Kennedy, after promising Khrushchev to stop, converted Operation 40 into Mongoose, run from JM/WAVE. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 34:53)*

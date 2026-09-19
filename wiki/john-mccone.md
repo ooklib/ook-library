@@ -21,6 +21,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Successor to [[allen-dulles]] as CIA director; per David Talbot via Eyes Wide Open, one of the CIA guests hosted at Dulles's house in 1962-63. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 8:50-8:57)*
@@ -47,3 +49,7 @@ Successor to [[allen-dulles]] as CIA director; per David Talbot via Eyes Wide Op
 ## Additional (ewa/dallas-5)
 
 - A 1987 internal CIA biography of McCone, unredacted under the 2025 JFK Files Act (p. 40 per the description), says the French embassy in Cuba agreed to act as the CIA's "Cuban eyes and ears" with [[philippe-thyraud-de-vosjoli]] as SDECE's Washington representative reporting directly to McCone. Host asks why this stayed a rare redaction in a 53-page document and speculates about concealing a French element of the [[kennedy-assassination]]. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 43:52-44:50)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says Kennedy asked McCone on June 5, 1963 for a UFO briefing, and notes McCone had headed the Atomic Energy Commission and would have known nuclear-UFO secrets. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 49:14)*

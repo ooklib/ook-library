@@ -40,6 +40,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 The 22 November 1963 assassination of President John F. Kennedy in Dallas. In this episode Eyes Wide Open covers only [[e-howard-hunt]]'s alleged presence and deathbed confession; the host says his own research indicates a fundamental mob element in the conspiracy. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:48-11:00)*
@@ -125,3 +127,8 @@ The 22 November 1963 assassination of President John F. Kennedy in Dallas. In th
 ## Additional claims (rc/mj12)
 
 - [[geoffrey-cruickshank]] says if the MJ-12 documents are real then Kennedy was killed by members of his own government (treason) and Dulles is implicated; a "crisis" (reburial from Arlington) explains why he thinks amnesty is sought. Coulthart raises this as an implication, not a finding. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 31:06-31:41, 1:12:32-1:15:28)*
+
+## Claims (jm/sheehan)
+
+- [[danny-sheehan]]'s narrative (2025): the shot from the grassy knoll was fired by [[david-sanchez-morales]] of the [[s-force]], the Nixon-Hughes-Trafficante assassination team repurposed after Kennedy's disarmament turn, with Dulles and the China-lobby network behind it; [[lee-harvey-oswald]] was an intelligence-linked patsy meant to fire a miss to blame Cuba. See [[sheehan-jfk-assassination-claims]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 5:15)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:18:30)*
+- Michels and Rys describe the 2025 JFK file release as confusing, and cite Priscilla Johnson McMillan as a witting CIA asset revealed there. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 4:32)*

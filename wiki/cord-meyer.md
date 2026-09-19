@@ -14,6 +14,8 @@ sources:
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Cord Meyer replaced [[thomas-braden]] in 1954 as head of the [[cia-international-organizations-division]] and, per Eyes Wide Open, was the husband of Mary Pinchot Meyer, JFK's alleged mistress. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 27:16-27:36)*
@@ -33,3 +35,7 @@ Cord Meyer replaced [[thomas-braden]] in 1954 as head of the [[cia-international
 ## Additional claims (Operation 40)
 
 - Host: at Georgetown parties as top CIA propaganda staff under Angleton's IOD; set up Radio Free Europe and allegedly coined "compatible left". *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 18:11-18:57)*
+
+## Claims (jm/sheehan)
+
+- Michels and Rys describe Cord Meyer as a former pacifist turned Dulles-circle hawk and Mockingbird figure, and say his wife [[mary-pinchot-meyer]] had an affair with Kennedy. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 43:26)*

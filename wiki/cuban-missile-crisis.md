@@ -12,6 +12,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 The October 1962 nuclear standoff over Soviet missiles in Cuba. In this transcript it is the setting of [[harald-malmgren]]'s war-room account.
@@ -27,3 +29,7 @@ The October 1962 nuclear standoff over Soviet missiles in Cuba. In this transcri
 ## Relationships
 
 - Related to [[bay-of-pigs-invasion]]; involved [[curtis-lemay]], [[robert-mcnamara]], [[john-f-kennedy]].
+
+## Claims (jm/sheehan)
+
+- Sheehan says LeMay and the Joint Chiefs acted contrary to orders (DEFCON 2, U-2 flight), that they came within two minutes of exchange on October 26, and that this horror pushed Kennedy toward disarmament. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 32:37)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 37:38)*

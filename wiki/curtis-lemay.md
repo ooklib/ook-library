@@ -20,6 +20,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 General Curtis "Bombs Away" LeMay, head of Strategic Air Command, appears in the transcript as the aggressive general [[harald-malmgren]] faced down in the 1962 [[cuban-missile-crisis]], and as an alleged UAP-aware insider.
@@ -41,3 +43,7 @@ General Curtis "Bombs Away" LeMay, head of Strategic Air Command, appears in the
 ## Additional claims (rc/mj12)
 
 - [[geoffrey-cruickshank]]: Project Palladium (false UFO signals put into Soviet air defenses in the 1950s) is referenced in a Majestic document before declassification; LeMay was "chomping at the bit" to attack the USSR. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 1:13:09-1:13:57)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says LeMay moved forces into place for the Bay of Pigs against orders, put the US at DEFCON 2 without presidential approval, and pushed a first strike; Michels adds LeMay's ties to D. H. Byrd. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 32:37)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:12:06)*

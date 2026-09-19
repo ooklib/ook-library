@@ -113,6 +113,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -327,3 +329,7 @@ calls him "arguably one of, if not the most important person in modern American 
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer calls Dulles one of the founders of the alleged cabal, and says [[john-f-kennedy]] fired him because Eisenhower had lost control to him. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 8:16-8:26, 1:35:23-1:35:30, 3:29:56)*
+
+## Claims (jm/sheehan)
+
+- [[danny-sheehan]] says Dulles, as Brown Brothers Harriman and Sullivan and Cromwell counsel (with brother John Foster, grandsons of John W. Foster, drafting Versailles reparations that made Germany dependent on the loans), stayed in Georgetown after Kennedy fired him, was told by Bissell of Kennedy's UFO-briefing demand, and greenlit the [[s-force]]; he also allegedly ran the Warren Commission and knew of the [[anderson-trust]]. See [[sheehan-jfk-assassination-claims]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 35:41)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 54:00)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:25:23)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:45:30)*

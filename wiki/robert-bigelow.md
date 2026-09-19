@@ -12,6 +12,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Robert Bigelow is the Las Vegas hotel-and-aerospace billionaire behind [[bigelow-aerospace-advanced-space-studies]]. [[steven-greer]] says he knew him at the 1993 [[laurance-rockefeller]] ranch gathering and that Bigelow wanted access to the secret technology. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 44:04-44:14, 2:10:20-2:11:03)*
@@ -25,3 +27,7 @@ Robert Bigelow is the Las Vegas hotel-and-aerospace billionaire behind [[bigelow
 ## Relationships
 
 - Linked to [[bigelow-aerospace-advanced-space-studies]], [[john-b-alexander]], [[harry-reid]].
+
+## Claims (jm/sheehan)
+
+- Sheehan says Bigelow later tried to hire him as his lawyer, and that Bigelow appears in the story of the burned 555 Camp Street office (no further explanation given). *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:17:06)*

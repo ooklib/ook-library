@@ -22,6 +22,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 The historical Air Force UFO-investigation project, referenced as a comparison point: AARO was
@@ -71,3 +73,7 @@ became **Project Grudge** in 1949 (running until 1951), superseded by **Project 
 ## Additional claims (gerb/nukes)
 
 - Gerb says a 1977 FOIA release of a NORAD log showing 33 UFO-nuclear incidents in a two-week span of 1975 contradicts Blue Book's 1969 conclusion to Congress that UFOs were no national-security threat. See [[ufo-nuclear-connection]]. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 11:16-11:39)*
+
+## Claims (jm/sheehan)
+
+- Sheehan's [[oscar-wolf-s4-account]]: a clerk-typist on a special Blue Book unit reviewing about 700 unexplained cases later saw a live being at S-4. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:47:49)*

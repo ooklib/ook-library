@@ -39,6 +39,8 @@ sources:
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
     label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Edward Lansdale is described by Eyes Wide Open as a legendary CIA counter-insurgency expert and, per Alfred McCoy, Allen Dulles's main liaison in southern Vietnam, under whom [[lucien-conein]] served as top aide from 1954. The host defers fuller coverage to the First Indochina War episode. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 15:37-16:15)*
@@ -90,3 +92,7 @@ Edward Lansdale is described by Eyes Wide Open as a legendary CIA counter-insurg
 
 - Host: a young former advertising executive and OSS officer posted in Northern California for most of WWII, working on domestic wartime propaganda and psychological operations in Asia from San Francisco. Host speculates (explicitly no official record) that he met [[charles-willoughby]] there in July 1944, and asks whether Lansdale was later sent to the Philippines, nominally under Willoughby's G-2, because of that relationship. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:19:04-1:20:13)*
 - Host: he "put down the Hukbalahap rebellion" ([[hukbalahap]]) right after WWII, and his pacification/psychological-operations approach echoes [[arthur-macarthur-jr]]'s 1900 Philippines outreach ("the same ideas as future counterinsurgency guru Edward Lansdale would four decades later"). Willoughby opposed the Huks. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 14:39-14:53, 1:19:31-1:20:13)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says Lansdale was photographed in Dealey Plaza and that, as OSS/G-2 in Manila, he had Yamashita's driver tortured to locate 12 treasure caches; see [[anderson-trust]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:22:27)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:41:22)*

@@ -22,6 +22,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Sullivan & Cromwell was a prestigious Wall Street law firm employing both
@@ -63,3 +65,7 @@ intelligence careers.
 
 - Host: the Dulles brothers' major client was the German chemical cartel [[ig-farben]]; S&C became the legal representatives of [[brown-brothers-harriman]], probably how [[prescott-bush]] met them. The host cites a 2021 S&C news release showing the two firms "still work together." *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 15:59-16:48)*
 - Host clarifies that [[allen-dulles]]'s postwar private intelligence agency was based not in S&C's offices but at 44 Wall Street, Brown Brothers Harriman's address (Trento, alleged). *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 17:34-17:49)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says the 'real power' behind the plot sat at Sullivan and Cromwell, the Dulles brothers' firm and counsel to Brown Brothers Harriman, and calls it not a normal law firm. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:24:17)*

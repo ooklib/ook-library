@@ -27,6 +27,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Jack Ruby (Rubenstein), the Dallas nightclub owner who killed [[lee-harvey-oswald]], is presented by [[eyes-wide-open]] as a late-1950s gunrunner to Cuba, first to Batista's forces for mob friends (Havana casino manager Lewis McWillie, who managed [[meyer-lansky]]'s Tropicana, per the host), also to Castro. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 39:29-39:53)*
@@ -61,3 +63,7 @@ Jack Ruby (Rubenstein), the Dallas nightclub owner who killed [[lee-harvey-oswal
 - Reportedly with McWillie coordinated and personally participated in 1959 gun shipments to Castro from the southern US for [[santo-trafficante]] interests; [[edward-browder]] flew for the operation. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 18:35-19:26)*
 - Per Hougan citing a CIA report, an "American gangster named Ruby" frequently visited Trafficante in Cuban detention (host's inference: Jack Ruby), where Trafficante's cellmate was [[loran-hall]]. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 17:20-18:35)*
 - Host: Ruby and McWillie were low-level "foot soldiers"; supervision came from [[norman-rothman]]. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 21:34-22:03)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says Ruby was a mob made man; Michels raises Jolly West's unfilmed 24 hours with Ruby; Sheehan rejects MK-Ultra as unnecessary. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:26:35)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:27:10)*

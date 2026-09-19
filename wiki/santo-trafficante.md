@@ -28,6 +28,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Santo Trafficante was a Mafia figure who controlled Cuban heroin-processing labs central to
@@ -75,3 +77,7 @@ up especially in relation to the Kennedy assassination" in later episodes.
 - Shared a Cuban cell with [[loran-hall]] (per Hall's FBI file: "Hall shared a cell in the Cuban jail with Santos Trafficante, well-known gambler and hoodlum of Tampa and Miami"); [[gerry-patrick-hemming]] first met Hall as a fellow prisoner around then and knew Hall as "the cellmate of the far more prominent" Trafficante. Host says the relationship carried over when both were back in Florida (promised for later). *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 15:25-17:13)*
 - Per Jim Hougan (*Spooks*), citing a CIA report, he was "frequently visited by an American gangster named Ruby"; the host infers this was [[jack-ruby]] given Ruby's closeness to [[lewis-mcwillie]]. Host asks why Hall was never asked at the Warren Commission whether he recalled Ruby. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 17:13-18:35)*
 - Ran, through [[norman-rothman]] and McWillie, the gun-running network to Cuba. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 21:57-22:30)*
+
+## Claims (jm/sheehan)
+
+- [[danny-sheehan]] says Trafficante told him directly about the 1960 Nixon/Hughes request, agreed at the Fontainebleau in September 1960 after Sheffield Edwards confirmed, and hand-picked about 15 gunmen for the [[s-force]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 17:41)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 22:28)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 25:05)*

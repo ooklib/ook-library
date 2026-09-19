@@ -12,6 +12,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Brown Brothers Harriman (ASR: "Brown Brothers Herman") is the Wall Street "white shoe" bank formed
@@ -47,3 +49,7 @@ of Secrets* and Joseph Trento's *Prelude to Terror*.
 
 - Partners: [[prescott-bush]], [[averell-harriman]], [[robert-lovett]].
 - Legal counsel: [[sullivan-and-cromwell]]. Owned [[dresser-industries]].
+
+## Claims (jm/sheehan)
+
+- Sheehan says the firm's investor families (Rockefellers, Harrimans, Carnegies, Mellons) financed German rearmament after Versailles, later fed the CIA (Robert Lovett's memo to Truman), formed the China lobby, and that Dulles acted as its consigliere in the JFK plot; Lovett and Robert Anderson, senior partners, sat with Stimson when Truman set up the [[anderson-trust]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 54:00)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:43:53)*

@@ -38,6 +38,8 @@ sources:
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Cited by Gerb as an example of a prior alleged UFO crash retrieval before Roswell; he assesses
@@ -102,3 +104,7 @@ Gerb's full video on the case, positioned as "the Roswell before Roswell", with 
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]]: says the Magenta crash was probably held by, or known to, the Vatican, stored at the Soratte bunker, with information relayed via Pius XII to FDR. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:22:46, 2:23:01)*
+
+## Claims (jm/sheehan)
+
+- Michels cites the Magenta crash as part of Bissell's briefing of Malmgren, and asks Sheehan about a supposed Vatican transfer to the US via Pope Pius XI (Sheehan: he learned of it only recently, has not been told anything; the head of the Vatican archives 'just smiles'). *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 52:39)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:16:28)*

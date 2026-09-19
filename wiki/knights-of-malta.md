@@ -15,6 +15,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 The Sovereign Military Order of Malta, a Vatican-linked order with sovereign-state status. In the Malmgren interview it is put forward, as speculation, as a hidden guardian of UFO secrecy. This wiki records the claims only.
@@ -33,3 +35,7 @@ The Sovereign Military Order of Malta, a Vatican-linked order with sovereign-sta
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]]: the Vatican, the Knights of Malta and monarchies colluded at the 1815 Congress of Vienna under Metternich to systematize their response to revolutions; the "ultimate revolution" would be UFO disclosure breaking biblical doctrine. Catholics, including many CIA directors (Knights of Malta) and the founding director of [[air-force-office-of-special-investigations]], allegedly give the Vatican "a seat at the board of directors of the UFO issue". He stresses the groups are not one monolith, mentions Pope Francis reining in the Knights, and Trump's Fordham and Catholic ties. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:18:56, 2:19:21, 2:25:46, 2:27:02, 2:29:27)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says an 'element' of the Knights has something to do with everything, citing a 'Monte Carlo group' at the top of the order that included non-Catholics like Kissinger and George H. W. Bush, and members like Reinhard Gehlen and Otto Skorzeny; he offers no specific UFO link. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:13:22)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:15:32)*

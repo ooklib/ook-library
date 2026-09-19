@@ -22,6 +22,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Laurance Rockefeller (spelled "Lawrence" throughout the ASR; normalization is my inference, alias kept) is presented by [[eyes-wide-open]] as the Rockefeller brother who managed the family's inherited wealth through [[rockefeller-brothers-inc]] and led the Rockefeller Brothers Fund. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 21:55-22:11, 25:45-26:01)*
@@ -44,3 +46,7 @@ Laurance Rockefeller (spelled "Lawrence" throughout the ASR; normalization is my
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says Rockefeller hosted a 1993 UFO gathering at his Wyoming ranch (JY Ranch), initially funded Greer, was a "philosopher king" surrounded by CIA cutouts, and told him that David and Jay Rockefeller were "jumping up and down" over the meeting. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 44:04-44:20, 44:35-45:45, 47:32-49:08)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says Rockefeller told him and Mack that his friend, the Prince of Liechtenstein, walked up to a landed UFO in the mountains, which convinced him; Michels says Rockefeller funded Mack and Greer. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:32:35)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:33:53)*

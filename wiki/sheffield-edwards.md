@@ -18,6 +18,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Sheffield Edwards is the CIA Office of Security official [[eyes-wide-open]] names as the working-level manager of the [[cia-mafia-assassination-plots]], picked by [[richard-bissell]] from "a somewhat obscure section of the agency".
@@ -36,3 +38,7 @@ Sheffield Edwards is the CIA Office of Security official [[eyes-wide-open]] name
 
 
 - Per the 1967 IG report as read by the host, [[richard-helms]] appears as an observer of the Harvey and Edwards plots, not a prime mover. See [[zr-rifle]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:05:23-1:05:43)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says Edwards (as 'Mr. Ed') attended the third Fontainebleau meeting in September 1960 and gave the CIA green light to the mob-run assassination plan. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 22:28)*

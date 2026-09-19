@@ -28,6 +28,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Reinhard Gehlen was the head of German military intelligence on the Eastern Front during WWII
@@ -77,3 +79,7 @@ Gladio]].
 ## Additional claims (The CIA's Blond Ghost, ewa/shackley)
 
 - Host (via Cookridge, Loftus, Simpson): from 1951 the CIA under Dulles and Wisner directed Gehlen to form a commando "special forces" of East European collaborators (see [[galen-commando-program]]), recruited by a triumvirate including [[franz-six]]; Gehlen's Pullach base near Munich; the host argues the US Army Special Forces trace back to it ([[us-army-special-forces]]). *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 43:01-47:23, 1:03:08-1:03:25)* ASR renders him "Galen" throughout.
+
+## Claims (jm/sheehan)
+
+- Sheehan says Gehlen was a Knights of Malta member and that Ted Shackley worked directly with him. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:15:39)*

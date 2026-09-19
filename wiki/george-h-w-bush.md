@@ -65,6 +65,8 @@ sources:
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 
@@ -196,3 +198,7 @@ Trento, Anthony Kimery and Whitney Webb. *([ewa/bush-1](../raw/ewa/Eyes Wide Ope
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says Bush, with [[dick-cheney]] and by extension W., was among the few presidents allowed control of the programs. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:35:23-1:35:48)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says Bush Sr. (an Episcopalian) was on the Knights of Malta's Monte Carlo group executive council. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:13:48)*

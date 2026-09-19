@@ -31,6 +31,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 The China Lobby is the informal grouping of American (and Chinese) business, media and political
@@ -89,3 +91,7 @@ mid-19th century and hardened into a political vehicle in the late 1930s-40s aro
 
 
 - Host: [[william-pawley]] as prominent member; the "old China lobby crowd" opened their wallets in 1963 to the "newly orphaned" exile paramilitary groups. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 24:10-24:17, 56:39-56:46)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says the China lobby was the Brown Brothers Harriman-centered group (including Henry Luce and Clare Booth Luce) that ran heroin-for-weapons support to Chiang Kai-shek and later, in his telling, feared losing its nuclear option against China. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 54:00)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 8:50)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:04:26)*

@@ -34,6 +34,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 The 1961 CIA-organized invasion of Cuba by anti-Castro exiles. Per Eyes Wide Open, [[e-howard-hunt]] organized it as political liaison to exile groups and trained exile mercenaries in Guatemala; many speculate it was partly financed by [[paul-helliwell]]'s secret banking network, and researchers consider it the Hunt/CIA grievance behind later JFK-plot speculation. The host plans several episodes on it. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:21-6:46, 12:14-12:31)*
@@ -95,3 +97,7 @@ The 1961 CIA-organized invasion of Cuba by anti-Castro exiles. Per Eyes Wide Ope
 
 
 - Host: after the failure, over a thousand exiles were taken prisoner; [[william-pawley]] reportedly acted as a Bay of Pigs paymaster along with [[paul-helliwell]] (Washington Post per host); [[grayston-lynch]] landed with the brigade. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 4:52-5:06, 18:54-19:06, 30:35-31:00)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says Kennedy refused air cover, the Nicaragua-based bombers arrived late (time-zone error), and Kennedy took responsibility and apologized to Khrushchev and the Brigade. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 30:51)*

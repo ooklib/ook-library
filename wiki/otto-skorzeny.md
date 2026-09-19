@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Otto Skorzeny, the Nazi commando (Mussolini's rescuer, with a facial scar), appears in the `jm/cover-up` episode as a figure tied to the [[world-commerce-corporation]]. [[jason-samosa]] says Skorzeny lived in the same Spanish building as [[ricardo-sicre]] and oil magnate Jake Hamon, and that his wife was well connected with Hjalmar Schacht ([[hjalmar-schacht]]); he later went to South America and reportedly partnered with the Mossad. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:34:01, 1:34:16)*
@@ -23,3 +25,7 @@ Otto Skorzeny, the Nazi commando (Mussolini's rescuer, with a facial scar), appe
 ## Relationships
 
 - Alleged WCC operator per [[alene-griffith]]; neighbor of [[ricardo-sicre]].
+
+## Claims (jm/sheehan)
+
+- Sheehan says Skorzeny ran the ratline using Knights of Malta passports. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:16:11)*

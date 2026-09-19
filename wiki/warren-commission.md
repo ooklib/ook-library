@@ -11,6 +11,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 The Warren Commission was the Johnson-convened 1964 investigation of JFK's murder that
@@ -28,3 +30,7 @@ Bush-chapter-1 mentions of its membership.
 ## Relationships
 
 - Investigated the [[kennedy-assassination]]; members include [[allen-dulles]].
+
+## Claims (jm/sheehan)
+
+- Sheehan says LBJ persuaded Earl Warren to chair it by warning a revealed Kennedy-run Castro assassination team could trigger war, and that Dulles ran it. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:25:23)*

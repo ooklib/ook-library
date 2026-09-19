@@ -20,6 +20,8 @@ sources:
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 The early-1970s Watergate burglary and scandal. Eyes Wide Open notes only that [[e-howard-hunt]] was one of Nixon's "plumbers", a secret group of White House political fixers, planned and executed the burglary, testified to the Senate Watergate committee and served 33 months. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 9:10-9:42)*
@@ -51,3 +53,7 @@ The early-1970s Watergate burglary and scandal. Eyes Wide Open notes only that [
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says Watergate was used to remove [[richard-nixon]] because he was about to disclose UFO information, and that Woodward was naval intelligence. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 2:15:38-2:18:00)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says the burglary was aimed at Larry O'Brien, ex-Hughes lobbyist, because Nixon feared O'Brien would reveal that Nixon had commissioned the [[s-force]]; McCord (Dulles's protege) refused to plead guilty, and Sheehan says the lawyer Bailey who brought him onto the defense was on the CIA's 'index 4'. See [[sheehan-jfk-assassination-claims]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:28:44)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:29:54)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:30:59)*

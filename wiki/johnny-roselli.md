@@ -22,6 +22,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Johnny Roselli ("handsome Johnny") is the Chicago-outfit mobster [[eyes-wide-open]] names as the mob's counterpart in the 1960 Brown Derby meeting with [[robert-maheu]]. The host calls him "an operator", not merely a mobster, and one of the major liaisons between the [[national-crime-syndicate]] and the "respectable American establishment".
@@ -54,3 +56,7 @@ Johnny Roselli ("handsome Johnny") is the Chicago-outfit mobster [[eyes-wide-ope
 
 
 - Church Committee timeline (host): in late April 1962 Harvey and Shackley loaded arms and equipment into a U-Haul left in a parking lot for Roselli, who delivered it to a Cuban contact; Harvey's last recorded contact with Roselli was June 1963. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 43:05-43:32, 48:00-48:18)*
+
+## Claims (jm/sheehan)
+
+- Sheehan: Roselli, as the mob's bagman for casino skims, was approached by Hughes's lawyer [[robert-maheu]] in 1960 and took the request to Sam Giancana and then Trafficante. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 20:03)*

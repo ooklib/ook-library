@@ -68,6 +68,8 @@ sources:
     label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
     label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 General Charles Willoughby was Douglas MacArthur's intelligence chief in the Pacific in WWII, during the occupation of Japan and the first year of the Korean War. [[eyes-wide-open]] flags him as a coming "main character" and "maybe the most overlooked critical player in the private paramilitary networks surrounding Kennedy's death." *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 28:10-28:39)*
@@ -170,3 +172,7 @@ Source: "The MacArthur Legacy: 50 Years of Empire Building in the Pacific - Will
 - Cross-link: the "let Nazism mellow" remark is the only Nazi-related statement in this episode; this episode does not mention [[reinhard-gehlen]] or [[operation-paperclip]] (those are not connected in this transcript).
 - Willoughby's Falangist/Franco networks in Manila ([[andres-soriano]]) reinforce part 1's Franco thesis; the Spanish Club claim rests on a 1952 article named only as "an article on Willoughby" (likely the Kluckhohn piece cited in part 1, wiki-internal guess).
 - The host says only that Willoughby married again in 1951 (no name given); part 1 does not cover his marriages.
+
+## Claims (jm/sheehan)
+
+- Sheehan says Willoughby (MacArthur's G-2) accompanied Lansdale to brief Truman on the Yamashita gold, and later funded a private political-spying operation that Oswald worked in. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:42:41)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:15:15)*

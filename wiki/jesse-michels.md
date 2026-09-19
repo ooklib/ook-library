@@ -29,6 +29,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Jesse Michels is the host of the American Alchemy YouTube channel (registry channel `jm`), which conducts long-form interviews on UFO/UAP, deep politics and secret science. The channel's sponsor/advertisement segments are not recorded in this wiki.
@@ -67,3 +69,7 @@ Jesse Michels is the host of the American Alchemy YouTube channel (registry chan
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Hosted [[steven-greer]] in April 2025 ([[greer-michels-interview-2025]]); he says he disagrees with Greer on many points and that he was warned not to have him on. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 2:15-2:32)*
+
+## Claims (jm/sheehan)
+
+- Hosted [[sheehan-michels-interview-2025]] with guest [[danny-sheehan]] and [[jeremy-rys]].

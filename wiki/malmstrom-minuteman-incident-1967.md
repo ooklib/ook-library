@@ -19,6 +19,8 @@ sources:
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 # Malmstrom Minuteman Missile Shutdown (1967)
@@ -41,3 +43,7 @@ Alleged 24 March 1967 event at [[malmstrom-air-force-base]] in which a hovering 
 ## Additional claims (rc/grusch)
 
 - [[david-grush]] describes the incident as a craft hovering over a silo and shutting down ten ICBMs, and reads it as "preparatory probing" or ISR of US nuclear capability. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 18:27-19:07)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says Col. Arie Arnoldson (ASR), the Malmstrom-area missile commander, insisted on filing a UFO report to NORAD after ten nuclear missiles shut down and was sent to Mack for a psychiatric exam. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:29:44)*

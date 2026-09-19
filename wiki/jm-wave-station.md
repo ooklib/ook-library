@@ -34,6 +34,8 @@ sources:
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 JM/WAVE is the CIA Miami station opened in the early 1960s, per [[eyes-wide-open]] "their largest spy station on domestic soil and at the time in the entire world." *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 51:51-52:15)*
@@ -99,3 +101,7 @@ The dedicated Season 3 episode on the station. Everything below is [[eyes-wide-o
 
 ### Aftermath
 - By 1963 the White House shifted to shutting down exile activity; the host argues the CIA, "rogue military intelligence elements" and private interests (Texas oil, the old [[china-lobby]] crowd) filled the void and gave the anti-Kennedy coalition its exile foot soldiers. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 55:41-57:03)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says JM/WAVE was the Miami-campus hub of Mongoose and that psychological-warfare chief George Joannides later lied to Congress about it. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 34:53)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 10:16)*

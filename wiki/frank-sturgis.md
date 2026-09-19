@@ -45,6 +45,8 @@ sources:
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
     label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Frank Sturgis (born Frank Fiorini) is introduced as an unofficial CIA-asset gunrunner who armed and trained Castro's guerrillas in the late 1950s, later a Bay of Pigs operative and Watergate burglar. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 36:45-37:09)*
@@ -126,3 +128,7 @@ This is the dedicated Sturgis episode of [[road-to-dallas]]; the host calls him 
 - Host asks when Sturgis was "flipped"; says from mid-1959 he was at least cooperating with US intelligence, perhaps as a witting CIA asset, and that end of March 1959 he made an unofficial trip to Washington to brief two FBI agents. In April 1959, travelling with Castro to New York, he says two mob associates offered him $1 million to kill Castro; he declined and told Nichols. Authors imply this fed the CIA-mob plots; the host doubts that causality (the plots came out of the CIA Office of Security) but notes the mob was already targeting Fidel in April 1959, echoing Lansky's bounty talk. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 3:05-5:40)*
 - Pre-1959 intel work is "hard to tell" (host recalls the late-40s Israeli courier role); later Operation 40 trainer (alleged) and Watergate burglar under [[e-howard-hunt]]. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 5:40-7:03)*
 - Mid-1959: assembled Americans ostensibly for a Nicaragua invasion including [[gerry-patrick-hemming]] and [[jack-cannon]]; leased a Coral Gables house in June (same neighborhood as [[jm-wave-station]] before its 1962 move); warned 29 June 1959 by Cuban Army intelligence head (cousin of Operation 40's Sam Senes, ASR) he was on Raul's arrest list, and flew his B-25 out on 30 June. He carried out cash from casino taxes: told the Rockefeller Commission in 1975 it was $3-4,000, later admitted about $750,000. He formed the International Anti-Communist Brigade, which funded groups including Hemming's [[interpen]] (some sources: its paratroop wing). Based in Miami by July 1959. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 7:03-10:25)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says Sturgis, CIA liaison to the Noma Key exiles, sank a Russian ship in December 1962 defying Kennedy and was arrested by US marshals for Neutrality Act violations. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 39:28)*

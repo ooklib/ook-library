@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Sidney Gottlieb is described by [[eyes-wide-open]] as the CIA's "master chemist", head of the Technical Services Division (the agency's R&D branch), architect of its mind-control programs (Bluebird, Artichoke, later MK Ultra) and main producer of poisons for the Castro plots. The ASR spells the name variously ("Sydney got Le", "gotle"); normalization is my inference. The host says he "deserves his own episode".
@@ -25,3 +27,7 @@ Sidney Gottlieb is described by [[eyes-wide-open]] as the CIA's "master chemist"
 ## Relationships
 
 - Worked under [[richard-bissell]]'s programs; see [[cia-mafia-assassination-plots]], [[sheffield-edwards]].
+
+## Claims (jm/sheehan)
+
+- Michels cites Jolly West's letters with Gottlieb in connection with West's unfilmed session with Jack Ruby. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:27:19)*

@@ -55,6 +55,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Colonel Paul E. Helliwell served as chief of special intelligence for the
@@ -144,3 +146,7 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
 - Washington Post (host): a primary paymaster for the 1961 Bay of Pigs invasion; opened [[castle-bank-and-trust]] in the Bahamas in the early 1960s with mob-associated Chicago tax attorney Burton Kanter ("Caner" in ASR); shown in Kwitny's photo shaking hands with Frank Nugan, "passing the torch" to [[nugan-hand-bank]]. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 18:48-22:09)*
 - Hosted the Thai consulate from his Miami law offices; the host suggests laundered narco profits from Burma and Thailand "could have been used to fund anti-Castro operations." *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 22:39-22:58)*
 - Host aside: Helliwell, Melrose and DeWolf were hired by Walt and Roy Disney in 1964-66 for the Disney World land deal near Orlando. The host calls it a surprising link and speculates, flagged as "pure speculation," about what intelligence agencies could derive from the park in "social engineering and mass surveillance." *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 17:34-18:48)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says Helliwell ran the Sea Supply Corporation as a full-time CIA employee, using heroin profits to buy weapons for the Kuomintang. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 7:44)*

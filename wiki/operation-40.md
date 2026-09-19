@@ -27,6 +27,8 @@ sources:
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Operation 40 is, per [[eyes-wide-open]], the shorthand for an elite group of Cuban exile assets that CIA trainers split off from [[brigade-2506]] in 1960-61. The host uses "Operation 40" as a catch-all label (he says the name never appears in declassified or official CIA material, but exiles have referred to it) for a group he presents as simultaneously a would-be post-Castro intelligence service, an assassination and "purge" unit, and a private, deniable pool of contract operators for later CIA operations. This is the host's argument, not established fact. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 32:16-32:46)*
@@ -90,3 +92,7 @@ Host's summary: Op 40 was the CIA's first foreign-intelligence-apparatus attempt
 ## Additional claims (The Road to Dallas Chapter 1, ewa/dallas-1)
 
 - Chapter 1 does not mention Op 40 by name; it sets up the Gulf Coast exile ecosystem from the [[cuban-revolution]] that later chapters connect to it, and adds Sturgis's pre-Castro-break background (see [[frank-sturgis]]). Wiki-internal observation, not a transcript claim.
+
+## Claims (jm/sheehan)
+
+- Sheehan says Nixon first set up 'operation 40' from the 5412 Committee to attack Castro, staffed with Batista supporters, and that the S force was drawn from that pool. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 12:44)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 24:00)*

@@ -39,6 +39,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the president who inherited [[laos]] from [[dwight-d-eisenhower]], approved and then cancelled the planned bombing ([[operation-milpond]]), and pursued a diplomatic settlement. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 52:54-53:18, 1:08:52-1:09:10)*
@@ -108,3 +110,8 @@ US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the presi
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says Kennedy was killed over UFOs and the constellation of programs behind them, cites Bill Holden (Air Force One chief steward) hearing Kennedy say the matter was "out of my hands", a 12 November 1963 memo to John McCone (provenance uncertain), and a 1968 letter from [[robert-f-kennedy]]. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 6:08-6:24, 1:33:43-1:35:23)*
+
+## Claims (jm/sheehan)
+
+- [[danny-sheehan]] says Kennedy was killed by the [[s-force]] after he secretly negotiated with Khrushchev to destroy nuclear warheads, proposed a joint space program, and on June 5, 1963 asked CIA director [[john-mccone]] for a full UFO briefing to share with Khrushchev; see [[sheehan-jfk-assassination-claims]] and [[jfk-khrushchev-disarmament-claims]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 48:53)*
+- Sheehan says Kennedy blamed the CIA for the Bay of Pigs, forced out Allen Dulles in fall 1961, converted Operation 40 into [[operation-mongoose]] while lying to Khrushchev, and in December 1962 sent marshals to burn exile bases. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 30:51)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 34:53)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 39:28)*

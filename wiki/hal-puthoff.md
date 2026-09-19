@@ -26,6 +26,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Physicist Hal Puthoff sponsored Ferris Williams's propulsion research presented at a June 2001
@@ -74,3 +76,7 @@ UFO technology conference in La Jolla, San Diego. *([gerb/saic](../raw/gerb/saic
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says Puthoff's job is to divert people on energy, claims one of Puthoff's closest friends is on Greer's team and knows what was done to push him, and says he was once brought into Greer's office. Michels says he hopes this is not true. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:27:23-1:27:53, 2:12:14-2:12:37)*
+
+## Claims (jm/sheehan)
+
+- Sheehan says Puthoff is more knowledgeable than almost anyone, has probably worked on or seen a craft, and does not say everything he knows; see [[scientology-remote-viewing-claims]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:57:47)*

@@ -29,6 +29,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Robert Maheu is the private-intelligence operative whom [[eyes-wide-open]] presents as the CIA's cutout to the mob in 1960 and, simultaneously, as [[howard-hughes]]'s political fixer. The ASR transcript renders the name "Mayhew" / "Mayu"; the normalization to Maheu is my inference from the description text, which spells it "Maheu" and from the previous episode's preview (see [[operation-40]]). The host frames him as an "emissary" bridging the legitimate "Overworld" and the underworld.
@@ -69,3 +71,7 @@ Robert Maheu is the private-intelligence operative whom [[eyes-wide-open]] prese
 - ASR "Mayhew": joined the FBI in December 1940 (same month as [[william-harvey]]) and left in 1947; per the host he "retired" to start a business with his wife, Dairy Dream Farms, then founded Robert A. Mayhew and Associates and was "immediately put on retainer by the CIA"; described as a Howard Hughes private operator, middleman between the agency and the mafia, and a phase-one cutout. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:11:37-1:12:29, 1:14:03-1:14:17)*
 - Flagged discrepancy: `ewa/cia-mafia` (per Hougan) dates the CIA retainer to 1954; this episode implies it began right after the firm was founded, with the FBI departure in 1947, without giving a date.
 - Host's speculation that he and Harvey may have been Hoover "moles" placed in the new CIA is on the [[william-harvey]] page. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:13:19-1:14:04)*
+
+## Claims (jm/sheehan)
+
+- Sheehan calls him 'Bob Mayhew' (ASR), Hughes's lawyer, who carried the 1960 assassination request to Roselli, Giancana and Trafficante. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 19:22)*

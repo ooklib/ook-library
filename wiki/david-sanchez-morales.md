@@ -31,6 +31,8 @@ sources:
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
     label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 David Sanchez Morales ("El Indio") is described by [[eyes-wide-open]] as one of the CIA's most ruthless early assassination experts and the assassination trainer of [[operation-40]]. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 43:25-43:48)*
@@ -61,3 +63,7 @@ David Sanchez Morales ("El Indio") is described by [[eyes-wide-open]] as one of 
 ## Additional claims (ewa/dallas-3)
 
 - Host: in early 1959 Morales was at the Havana CIA base with [[david-atlee-phillips]] (former Guatemalan-coup colleague, "renowned assassination expert"); the same Morales trained the [[operation-40]] hit squad for the Bay of Pigs and later followed [[ted-shackley]] to Southeast Asia in the mid-60s and back to the Western Hemisphere. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 34:24-34:59)*
+
+## Claims (jm/sheehan)
+
+- [[danny-sheehan]] identifies Morales ('the Mexican') as the S force's crack shot and the man who fired the fatal shot from the grassy knoll. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 5:15)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:07:28)*

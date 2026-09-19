@@ -64,6 +64,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Richard Nixon appears in this episode as a junior California congressman who built his
@@ -169,3 +171,7 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says Nixon chaired the space council under Eisenhower, was allegedly shown UFO technology (the Jackie Gleason story is "100% true"), and that [[watergate-scandal]] was engineered to remove him as he planned to disclose. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 2:15:38-2:17:53)*
+
+## Claims (jm/sheehan)
+
+- [[danny-sheehan]] says as Vice President and 5412 Committee chair Nixon ran Operation 40, told Castro not to deal with China or Russia, then in June 1960 (as presumptive nominee, after Nelson Rockefeller withdrew) used [[howard-hughes]] to commission an assassination team against Castro; the [[s-force]] later killed JFK, and Watergate was driven by Nixon's fear that Larry O'Brien would expose this. See [[sheehan-jfk-assassination-claims]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 12:04)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 18:24)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:29:12)*

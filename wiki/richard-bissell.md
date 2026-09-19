@@ -38,6 +38,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
+    label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
 ---
 
 Richard Bissell is described by [[eyes-wide-open]] as an OSS "old boy" and covert operator from the former [[office-of-policy-coordination]] whom [[frank-wisner]] put in charge of planning [[operation-pbsuccess]] in 1954; he entrusted [[e-howard-hunt]] with a major covert role there. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 13:38-14:19)*
@@ -81,3 +83,7 @@ Richard Bissell is described by [[eyes-wide-open]] as an OSS "old boy" and cover
 ## Additional claims (jm/kissinger)
 
 - [[jesse-michels]]: a 1949-era CFR Marshall Plan study group alumnus with Eisenhower and [[allen-dulles]]; spearheaded U-2/SR-71; after the Bay of Pigs ouster (1961) rumor says he left CIA on Friday and returned Monday because he was indispensable; per [[harald-malmgren]] he briefed Malmgren on other-world technology. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 26:21, 26:25, 26:59, 27:10, 27:21, 43:33, 43:43, 43:55)*
+
+## Claims (jm/sheehan)
+
+- Sheehan and Michels say Bissell ('mayor of Area 51') briefed Harald Malmgren on otherworld technologies and past crashes including Magenta, and that Bissell told Dulles about Kennedy's June 1963 UFO briefing request. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 52:23)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 53:43)*
