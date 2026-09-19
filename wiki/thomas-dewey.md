@@ -26,6 +26,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
+    label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
 ---
 
 Thomas Dewey, governor of New York and twice a Republican presidential candidate, both prosecuted
@@ -63,3 +65,7 @@ investment in what became [[resorts-international]].
 ## Additional claims (Road to Dallas Ch. 4)
 
 - Host: as attorney general (prosecutor) he convicted [[lucky-luciano]] in 1936, chosen as an "attack dog" against the mob by Governor Herbert Lehman (the host notes he is the son of Meyer Lehman of Lehman Brothers); as governor he later released Luciano, apparently for wartime help ([[operation-underworld]]). *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 1:34-2:20)*
+
+## Additional claims (ewa/willoughby-2)
+
+- Host: as New York governor he won the 1944 Republican nomination with 1,056 votes, against a single vote for [[douglas-macarthur]], ending the MacArthur-for-president push run through [[charles-willoughby]]. Host tags him as "famous for locking up and later releasing Lucky Luciano". *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:10:17-1:10:37)*

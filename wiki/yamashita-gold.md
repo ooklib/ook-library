@@ -10,9 +10,14 @@ relations:
   - relation: associate_of
     target: paul-helliwell
     note: "named as a possible banker of the recovered funds"
+  - relation: associate_of
+    target: jack-cannon
+    note: "speculative: Biak cave discovery (host, citing the Seagraves)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
+    label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
 ---
 
 The alleged Japanese war loot hoard ("Golden Lily", plundered across Asia under Prince Chichibu) that, per Sterling and Peggy Seagrave's *Gold Warriors* as summarized by [[eyes-wide-open]], was recovered by the Americans after WWII and converted into a secret worldwide covert political-action fund. The host offers it as a speculative, admittedly hard-to-substantiate explanation of how [[edward-lansdale]] rose so fast in US intelligence and how early covert operations were funded. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 19:08-19:20, 20:07-20:33)*
@@ -29,3 +34,7 @@ The alleged Japanese war loot hoard ("Golden Lily", plundered across Asia under 
 
 - Alleged funding source linked to [[edward-lansdale]] and possibly [[paul-helliwell]].
 - Host's framing: a possible pre-CIA covert slush fund, compare [[cia-drug-paradigm]] self-funding logic.
+
+## Additional claims (ewa/willoughby-2)
+
+- Host, citing Sterling and Peggy Seagrave (*Gold Warriors*, ch. 8 notes): the Japanese hid looted gold across the Pacific as a slush fund under "Golden Lily", administered by Hirohito's younger brother Prince Chichibu. On Biak (summer 1944) [[jack-cannon]], a CIC officer, earned a Silver Star for recovering "more than 11 cases of enemy documents" from Japanese caves; the Seagraves speculate he found stowed gold and that the document story was cover. Host: "purely speculation" with no further information about New Guinea gold; no Philippine link asserted for this incident. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:15:10-1:16:24)*

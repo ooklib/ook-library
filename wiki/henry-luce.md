@@ -20,6 +20,9 @@ relations:
     note: "most effective American propagandist for the KMT (per ewa/war-conspiracy-1)"
   - relation: associate_of
     target: t-v-soong
+  - relation: associate_of
+    target: clare-boothe-luce
+    note: "wife; open marriage per host"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
@@ -27,6 +30,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
+    label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
 ---
 
 Henry Luce, owner/publisher of [[time-life|Time Life]], is presented by Eyes Wide Open as an
@@ -63,3 +68,7 @@ film out of public view for years.
 
 
 - Named as a Skull and Bones member on Panel II of the [[special-studies-project]] (host also calls a China lobbyist). *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 27:51-28:07)*
+
+## Additional claims (ewa/willoughby-2)
+
+- Host: "China-born Skull and Bones inducted media tycoon" and founder of the Time-Life empire; his wife [[clare-boothe-luce]] had an affair with [[charles-willoughby]] from 1940, and the host infers this gave Willoughby a line into Time-Life for glowing MacArthur coverage. Host also says Luce had grown up in China and had deep ties to the Far East. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 47:52-48:34, 50:26-51:05, 1:11:05-1:11:17)*

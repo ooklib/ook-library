@@ -16,6 +16,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
+    label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
 ---
 
 Joseph Kennedy, father of John and Robert Kennedy and, like [[lewis-rosenstiel]], a bootlegger
@@ -44,3 +46,5 @@ a connection the host calls "strange and fascinating."
 ## Additional claims (Bush the Father, Chapter 1)
 
 - Member of Eisenhower's first [[presidents-intelligence-advisory-board]] (1956) with [[robert-lovett]]; host: his seat could plausibly have leaked Bay of Pigs invasion planning to JFK's 1960 campaign, "as has been speculated by many researchers." *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 29:53-30:32)*
+
+- ewa/willoughby-2: host, citing Sylvia Jukes Morris, lists him among [[clare-boothe-luce]]'s affairs while he was ambassador in London, adding that Clare's daughter Ann was seeing a young [[john-f-kennedy]] at the same time. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 48:48-49:09, 1:18:37-1:18:50)*

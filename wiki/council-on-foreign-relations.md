@@ -17,6 +17,8 @@ sources:
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
+    label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
 ---
 
 The Council on Foreign Relations (CFR) is a US foreign-policy think tank that, per Green &
@@ -54,3 +56,7 @@ researched or ingested from CFR-focused sources.
 
 
 - Host: the Rockefellers provided the majority of its funding from the 1930s; membership is a "who's who" of business, intelligence and military-industrial spheres; central to theories of elite domination. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 18:03-18:45)*
+
+## Additional claims (ewa/willoughby-2)
+
+- Host: created in 1918 by [[elihu-root]] (Secretary of War/State under the Taft-Roosevelt-Root "triumvirate"), "arguably the most influential US think tank of the 20th century", "beating heart of US internationalism", a policy and lobbying organ of the Wall Street establishment especially after Rockefeller interests adopted it in the 1930s. The host promises to return to it in later videos. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 20:18-21:05)*

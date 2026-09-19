@@ -294,6 +294,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 
 [[francisco-franco]] — Spanish dictator, Willoughby's first idol · [[philippe-petain]] — French marshal, Rif War/Vichy · [[douglas-macarthur]] — Pacific supreme commander, Willoughby's patron · [[rif-war]] — 1920s Moroccan colonial war (event) · [[pancho-villa-expedition]] — 1916-17 US Army expedition (event) — added by `ewa/willoughby-1`.
 
+[[arthur-macarthur-jr]] — MacArthur's father, China-market memo, Philippine governor · [[william-howard-taft]] — first civilian Philippine governor, Bones family · [[elihu-root]] — war/state secretary, CFR founder · [[philippine-american-war]] — US conquest of the Philippines (event) · [[courtney-whitney]] — MacArthur's lawyer/fixer, Willoughby's rival · [[hukbalahap]] — Filipino resistance/Huk org · [[clare-boothe-luce]] — Willoughby's lover, Time-Life link · [[robert-e-wood]] — Sears chairman, America First founder · [[arthur-vandenberg]] — senator, 1944 MacArthur backer · [[allied-intelligence-bureau]] — "MacArthur's OSS" in Brisbane · [[andres-soriano]] — Falangist Manila magnate — added by `ewa/willoughby-2` (also expanded: [[douglas-macarthur]], [[charles-willoughby]]).
+
 ## Concepts
 
 [[texas-raj]] — East Texas oil-independent class behind the "Cowboys" (`ewa/bush-2`)

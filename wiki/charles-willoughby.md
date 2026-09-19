@@ -30,6 +30,27 @@ relations:
   - relation: associate_of
     target: walter-bedell-smith
     note: "also on the Mexican expedition per Dick Russell"
+  - relation: associate_of
+    target: courtney-whitney
+    note: "rival within MacArthur's circle"
+  - relation: associate_of
+    target: clare-boothe-luce
+    note: "affair from 1940"
+  - relation: associate_of
+    target: andres-soriano
+    note: "friend; Manila Spanish Club/Falangist circle"
+  - relation: associate_of
+    target: robert-e-wood
+    note: "political allies from 1943"
+  - relation: associate_of
+    target: arthur-vandenberg
+    note: "recruited him to the 1944 MacArthur campaign"
+  - relation: participated_in
+    target: allied-intelligence-bureau
+    note: "ran G-2 offices under it in Brisbane"
+  - relation: associate_of
+    target: jack-cannon
+    note: "host: Cannon's Biak Silver Star likely brought him to Willoughby's attention"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md"
     label: "America’s Fascist Spymaster - Willoughby 1 (Eyes Wide Open)"
@@ -45,6 +66,8 @@ sources:
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
     label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
+    label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
 ---
 
 General Charles Willoughby was Douglas MacArthur's intelligence chief in the Pacific in WWII, during the occupation of Japan and the first year of the Korean War. [[eyes-wide-open]] flags him as a coming "main character" and "maybe the most overlooked critical player in the private paramilitary networks surrounding Kennedy's death." *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 28:10-28:39)*
@@ -116,3 +139,34 @@ David Foy, *Loyalty First - The Life and Times of Charles Willoughby*; Dick Russ
 ### Wiki-internal observations
 - No UFO, secret-society, Tesla, or Nazi-Germany (Gehlen/Paperclip) content appears in this part; the fascist ties are Franco, Pétain (Vichy) and Mussolini only.
 - Host's "domestic Gladio" framing connects this thread to [[operation-gladio]]; the transcript gives no specifics yet.
+
+## Willoughby biography, part 2 (ewa/willoughby-2)
+
+Source: "The MacArthur Legacy: 50 Years of Empire Building in the Pacific - Willoughby 2" (2025-12-25). First half is MacArthur family background (see [[douglas-macarthur]], [[arthur-macarthur-jr]]); second half is Willoughby in the interwar years and WWII. All claims are [[eyes-wide-open]]'s.
+
+### Fort Leavenworth to Manila
+- Mid-1930s: full-time instructor at Fort Leavenworth's Command and General Staff School (where Eisenhower, Bradley and Patton trained); "almost unanimously cited as a brilliant instructor" in civil affairs (languages, history, politics); per Foy remembered as a gifted amateur actor, sometimes wearing a monocle "cultivating his image as a European noble in an American army uniform". *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 34:02-35:09)*
+- Willoughby's own 1971 account (Naples, Florida; host warns "could be embellished"): MacArthur wandered into his 1935 lecture on military history, sat through it, and later said he had decided then that Willoughby would join his Far East staff. In 1940 he was plucked from a New York military-dictionary project to serve in Manila, first as assistant chief of staff for intelligence, then G-2 head for the Far East. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 35:22-36:50)*
+- In Manila he became a fixture at the Spanish Club, a nexus of Franco-admiring Falangist sympathizers, and befriended [[andres-soriano]]; his own Franco loyalty ([[francisco-franco]]) eased entry. Host frames MacArthur's staff selection: "atypical" officers strong in language, civil affairs and covert work rather than West Pointers. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 42:35-44:59)*
+- Rivalry with [[courtney-whitney]], MacArthur's lawyer/fixer, whose mandate overlapped his; Willoughby later complained Whitney's influence over MacArthur was "mysterious to us to this day". *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 45:44-46:35, 1:21:52-1:22:16)*
+- Separated from his first wife Hanna in 1940 (age 48) and began an affair with [[clare-boothe-luce]] (see her page); the host argues he also used her Time-Life connection ([[henry-luce]]) for PR for MacArthur -- host inference, not evidence. Remarried in 1951 per host. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 47:40-51:25)*
+
+### Prediction of the Japan war
+- 1939 *Maneuver in War* passage (host reads it as one of his most famous): Japan is strong in food but lacks oil, scrap iron, copper, lead, nickel; an embargo would not bring quick results and Japan would "strike out for Netherlands India, French Indo-China, the Philippines, Malaysia". Host notes the US scrap-metal embargo (1940) and the July-August 1941 asset freeze and oil embargo followed. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 51:32-53:45)*
+
+### Pacific War
+- Named intelligence chief around MacArthur's elevation in November 1941 (host); on Bataan, awarded a Silver Star per Foy; escaped Corregidor with MacArthur by PT boat (11 March 1942) as one of the "Bataan Boys" with Gen. Marquat and Gen. Sutherland; the "Bataan Gang" thereafter worked together until 1951, Marquat later a key adviser in occupied Japan. Whitney's absence "must have pleased" him. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 54:20-55:43, 56:50-57:51)*
+- Had earlier sent deputy G-2 Joseph McMicking (Filipino businessman/Ayala Corp; see [[douglas-macarthur]]) ahead to Australia to set up a backup HQ. In Brisbane he ran G-2 under the [[allied-intelligence-bureau]], "MacArthur's OSS". *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 58:02-1:00:08)*
+- Fought a continuing feud with [[william-donovan]]'s [[office-of-strategic-services]]; MacArthur backed him against OSS entry into the theater. Host: CIA only entered postwar Japan in 1948-49, so G-2 monopolized intelligence and covert ops. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:00:20-1:02:41)*
+- March 1943 lifeboat documents from the Tao Maru led to a translation section under G-2 (a Japanese American master sergeant) and ATIS publication no. 2, a 683-page alphabetical list of Japanese officers (May 1943). Host: this "provided him with a solid list of Japanese high-value army officers", and his postwar Tokyo intelligence outfit would "rehabilitate several key Japanese officers, maybe first identified in the ATIS publication", and "bring several former Imperial Japanese military men into Western intelligence circles" -- detail promised in part 3 (see [[yoshio-kodama]]). *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:03:13-1:04:59)*
+- Summer 1943: sent stateside not for the war effort but to test the waters for MacArthur's presidential ambitions: met Sen. [[arthur-vandenberg]] (who founded a MacArthur for President committee) and Gen. [[robert-e-wood]] (America First founder; "first of many meetings", allies through the 1950s-60s); stayed a block from [[clare-boothe-luce]]. Host: MacArthur wanted post-war authority "from the position of president". *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:05:06-1:11:05)*
+- **Nazi-related statement:** the host says that in 1943 Willoughby told a British lieutenant colonel that the Allies should "let Nazism mellow" and encourage the Germans and Russians to kill each other off, and that Japan was "the main enemy". *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:07:42-1:07:55)*
+- On Biak (summer 1944) the CIC detachment under Lt. [[jack-cannon]] ([[counter-intelligence-corps]]; memoir by Duval Edwards) reported ultimately to Willoughby's G-2 in Brisbane; Cannon's Silver Star (first for a CIC agent in the Pacific) "likely brought him to the attention of General Willoughby"; host says Cannon became "one of Willoughby's main stooges" specializing in postwar Japan dirty work. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:12:37-1:13:03, 1:16:24-1:16:43)*
+- July 1944 San Francisco trip (Foy omits it): Willoughby saw Clare Luce and her 18-year-old daughter (both infatuated, per Morris; the three read a play aloud). Host speculates -- explicitly no record -- that he met OSS officer [[edward-lansdale]] there (Lansdale in propaganda/psychological operations from San Francisco), and that Lansdale's later Philippines posting under G-2 could stem from it; Willoughby then opposed working with the [[hukbalahap]], whom he called communists. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:17:26-1:20:16)*
+- Battlefield errors: October 1944 estimate of 172,000 Japanese troops on Luzon (actual roughly 275,000; Col. Horton White's 234,000 was set aside); a garrison estimated at 21,000 actually 35,000. Host: "conventional military intelligence was not necessarily his specialty"; he "thrived in the world of black ops" and was sidelined in the Philippines in favor of Whitney. Host says these were his most egregious estimates until the Korean War. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:22:23-1:23:21)*
+- Host's closing setup: postwar Japan (part 3) will show "Willoughby's war was simply beginning"; the host's Patreon series on modern Japan is context for it. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:24:03-1:25:10)*
+
+### Wiki-internal observations
+- Cross-link: the "let Nazism mellow" remark is the only Nazi-related statement in this episode; this episode does not mention [[reinhard-gehlen]] or [[operation-paperclip]] (those are not connected in this transcript).
+- Willoughby's Falangist/Franco networks in Manila ([[andres-soriano]]) reinforce part 1's Franco thesis; the Spanish Club claim rests on a 1952 article named only as "an article on Willoughby" (likely the Kluckhohn piece cited in part 1, wiki-internal guess).
+- The host says only that Willoughby married again in 1951 (no name given); part 1 does not cover his marriages.

@@ -16,11 +16,16 @@ relations:
   - relation: employed_by
     target: top-policy-group
     note: "member alongside FDR/Truman, Stimson, Bush, and Conant"
+  - relation: associate_of
+    target: douglas-macarthur
+    note: "rivalry; controlled his divisions as chief of staff (host)"
 sources:
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
+    label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
 ---
 
 General George C. Marshall — Army Chief of Staff (1939–1945), Secretary of State (1947–1949),
@@ -82,3 +87,7 @@ UFO legacy-program apparatus. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 20:21
 
 
 - Host, citing Millegan: listed as a protege of Henry Stimson's "kindergarten"; Lt. Gen. Marshall Carter, Kennedy's deputy DCI (April 1962-April 1965), had been his aide. See [[skull-and-bones]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 37:23-37:34, 14:25-14:43)*
+
+## Additional claims (ewa/willoughby-2)
+
+- Host: as Pershing's aide in WWI (then Major) his relationship with [[douglas-macarthur]] soured; the "genuine rivalry" peaked when Marshall, as Army chief of staff in WWII, held "ultimate control of MacArthur's divisions in the Pacific". *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 26:48-27:12)*

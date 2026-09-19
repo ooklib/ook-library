@@ -22,6 +22,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
+    label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
 ---
 
 Franklin D. Roosevelt was President of the United States when, per Eyes Wide Open, the surprise
@@ -60,3 +62,5 @@ attack on Pearl Harbor necessitated the creation of the
 - Implemented [[operation-safe-haven]], allegedly circumvented by [[allen-dulles]] and
   [[john-foster-dulles]].
 - War Conspiracy 1: [[flying-tigers]], [[thomas-corcoran]].
+
+- ewa/willoughby-2: host notes he created US Army Forces in the Far East under [[douglas-macarthur]] on 26 July 1941, a week before the oil embargo, and reads that as anticipating Japanese retaliation; ordered MacArthur out of Corregidor on 22 Feb 1942. Host groups FDR among "Atlanticist Yankees". *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 53:45-54:14, 55:49-56:01, 1:06:44-1:07:04)*

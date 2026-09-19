@@ -15,6 +15,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
+    label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
 ---
 
 W. Averell Harriman, older brother of Roland Harriman (Roland is folded in here, no page), is
@@ -36,3 +38,5 @@ presented by [[eyes-wide-open]] as the Democratic counterpart to Republican [[pr
 
 - Partner at [[brown-brothers-harriman]]; [[skull-and-bones]] member; associate of [[prescott-bush]]
   and [[robert-lovett]] (whose father ran Harriman-family railroads).
+
+- ewa/willoughby-2: host calls him "banker and Skull and Bones alumnus", son of railroad tycoon E. H. Harriman, who was a client of [[elihu-root]]. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 11:22-11:33)*

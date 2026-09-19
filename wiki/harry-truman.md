@@ -34,6 +34,8 @@ sources:
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
+    label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
 ---
 
 Harry Truman was President of the United States when, per Eyes Wide Open, he lost faith in
@@ -88,3 +90,5 @@ with [[roscoe-hillenkoetter]] as (per the host) first director of the CIA.
 - Approved [[operation-paper]].
 - See [[ho-chi-minh]].
 - War Conspiracy 1: [[nsc-68]], [[korean-war]], [[china-lobby]] pressure.
+
+- ewa/willoughby-2: host: ordered atomic bombs on Hiroshima and Nagasaki on 6 and 9 August 1945, ending planning for Operation Downfall (MacArthur's invasion plan). *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:23:21-1:23:51)*

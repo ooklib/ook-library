@@ -70,6 +70,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
+    label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
 ---
 
 William "Wild Bill" Donovan was a WWI-hero-turned-Wall-Street-lawyer who became the first (and
@@ -183,3 +185,7 @@ administrator.
 ## Ewa/willoughby-1
 
 - Host (citing Dick Russell): Donovan served on the 1916-17 [[pancho-villa-expedition]] alongside [[charles-willoughby]] and Walter "Beetle" Smith ([[walter-bedell-smith]]); he later received a Distinguished Service Cross from Pershing (photo the host shows). Host says a "quiet rivalry" developed in WWII between Donovan's OSS and Willoughby's G-2 as MacArthur stonewalled OSS involvement in the Pacific. *([ewa/willoughby-1](../raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md) 13:40-14:39, 17:19-17:33)*
+
+## Ewa/willoughby-2
+
+- Host: commanded the Fighting 69th in the Rainbow Division under [[douglas-macarthur]] in WWI; pictured together receiving the Distinguished Service Cross; Donovan's Medal of Honor (which MacArthur lacked until WWII) may have caused underlying tension. In 1941 a Coordinator of Information journalist met MacArthur about creating a spy agency for an eastern war and MacArthur "saw no reason" for it; in July 1942 the Pentagon was supportive of an OSS presence in Australia but MacArthur stalled it. See [[allied-intelligence-bureau]]. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:00:34-1:02:16)*

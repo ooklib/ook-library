@@ -73,6 +73,8 @@ sources:
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
     label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
+    label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -246,3 +248,5 @@ Host mentions a Patreon series on the history of modern Japan and that the final
 - Chapter 5 of [[road-to-dallas]] (2025-12-12): [[frank-brandstetter]], [[havana-hilton]]. Host thanks Patreon patrons (producer tier got it May 26, 2025), mentions a modern-Japan series, returns to the series later in 2026 with the No Name Key camps, and announces a two-part [[charles-willoughby]] biography as the last videos of season 3. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 49:41-51:53)*
 
 - Willoughby series part 1 (2025-12-19, `ewa/willoughby-1`): [[charles-willoughby]] biography opening; new pages [[francisco-franco]], [[philippe-petain]], [[rif-war]], [[pancho-villa-expedition]], [[douglas-macarthur]]. Host says the series is the product of about nine months of research, promises Japan/Cannon material in part 3, and mentions a Patreon "history of modern Japan" series and that Willoughby 2 is a MacArthur documentary airing Dec 25. *([ewa/willoughby-1](../raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md) 3:26-3:53, 35:20-36:56)*
+
+- Willoughby series part 2 (2025-12-25, `ewa/willoughby-2`, season 3 finale): MacArthur family and Willoughby in WWII. New pages [[arthur-macarthur-jr]], [[william-howard-taft]], [[elihu-root]], [[philippine-american-war]], [[courtney-whitney]], [[hukbalahap]], [[clare-boothe-luce]], [[robert-e-wood]], [[arthur-vandenberg]], [[allied-intelligence-bureau]], [[andres-soriano]]; [[douglas-macarthur]] and [[charles-willoughby]] greatly expanded. Host announces season 4 in 2026, finishing the Willoughby series and 5-6 more [[road-to-dallas]] parts in H1 2026; a Patreon series on modern Japan is context for Willoughby 3. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:24:14-1:26:13)*

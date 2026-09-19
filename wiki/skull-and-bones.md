@@ -13,6 +13,9 @@ relations:
   - relation: associate_of
     target: mcgeorge-bundy
     note: "Bundy brothers and father alleged members"
+  - relation: associate_of
+    target: william-howard-taft
+    note: "Taft family among founders/members (host)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
@@ -24,6 +27,8 @@ sources:
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
+    label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
 ---
 
 Skull and Bones is the Yale secret society that [[eyes-wide-open]] uses in this episode as an
@@ -73,3 +78,8 @@ mentions on [[henry-luce]] and [[george-h-w-bush]] were passing).
 
 
 - Host: all three Bundys (Harvey Hollister, McGeorge, William) were Bonesmen, and Bones was "a key gateway to the CIA and spycraft" for young spooks; Henry L. Stimson was also a Bonesman and mentored "Stimson's Kindergarten" (Kris Millegan's phrase/2000 article; Millegan's PDF is in the video bibliography), whose members the host lists as [[george-c-marshall]], John J. McCloy, Dean Acheson, [[robert-lovett]] (called a "fellow Bonesman") and the Bundy brothers. William Bundy went from Bones to the CIA; see [[mcgeorge-bundy]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 35:56-38:34)*
+
+## Additional claims (ewa/willoughby-2)
+
+- Host: Alfonso Taft co-founded Skull and Bones at Yale in 1832 with William Huntington Russell, of the family behind Russell and Co., "the most significant American opium distributor in China"; his son [[william-howard-taft]] and grandson Robert were members; the host says East Asia links are "baked into" both Bones and the Tafts, and that Bones produced dozens of top administrators, lawyers and bankers "not to mention large parts of the early cadre of the CIA". *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 9:43-10:38)*
+- Host also names E. H. Harriman's son [[averell-harriman]] as a Bones alumnus (via [[elihu-root]]'s client list) and [[henry-luce]] as "China-born Skull and Bones inducted". *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 11:22-11:33, 48:27-48:34)*

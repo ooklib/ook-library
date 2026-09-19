@@ -13,6 +13,9 @@ relations:
   - relation: associate_of
     target: nelson-rockefeller
     note: "special assistant, 1954"
+  - relation: associate_of
+    target: douglas-macarthur
+    note: "served as his aide 1935-39; lifelong rivalry"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
@@ -26,6 +29,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
+    label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
 ---
 
 Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arthur Schlesinger, briefed President-elect John F. Kennedy that [[laos]], not Vietnam, was his chief Southeast Asian worry. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 0:44-1:07)*
@@ -62,3 +67,7 @@ Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arth
 
 - Host: [[prescott-bush]] was a longtime personal friend and golf partner; the [[draft-eisenhower-movement]] (Bush, the Dulles brothers, the Rockefellers) swayed him to run as a Republican in 1952. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 23:18-23:51)*
 - Created the [[presidents-intelligence-advisory-board]] in 1956; [[robert-lovett]] and [[joseph-kennedy]] were early members. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 29:06-30:10)*
+
+## Additional claims (ewa/willoughby-2)
+
+- Host: as a major he served as [[douglas-macarthur]]'s main aide in the Philippines from 1935 to 1939 and was "oil and water" with him; Eisenhower said MacArthur "desired to guide the destiny of the Philippines" (per Schaller). The rivalry peaked at the 1952 Republican convention where both sought the nomination. Host also places Eisenhower among the "Atlanticist Yankees" (with Wilson and FDR) versus MacArthur's "Asia Cowboys". *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 40:53-42:35, 1:06:44-1:07:36)*

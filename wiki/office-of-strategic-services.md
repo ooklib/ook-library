@@ -40,6 +40,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
+    label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
 ---
 
 The Office of Strategic Services was the United States' first dedicated foreign-intelligence
@@ -118,3 +120,7 @@ handling only domestic intelligence. *([ewa/oss](../raw/ewa/Eyes Wide Open - 202
 ## Ewa/willoughby-1
 
 - Host: in WWII a rivalry brewed between [[william-donovan]]'s OSS and [[charles-willoughby]]'s Army G-2 in the Pacific because [[douglas-macarthur]] "stonewalled" OSS efforts to involve themselves in the Pacific War; more promised later. *([ewa/willoughby-1](../raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md) 14:14-14:39)*
+
+## Ewa/willoughby-2
+
+- Host expands the Pacific rivalry: the [[allied-intelligence-bureau]] was "MacArthur's OSS"; [[douglas-macarthur]] rejected a 1941 approach and blocked a July 1942 request to establish OSS in Australia, and the "monopolization of intelligence gathering, dissemination, and covert ops" extended into postwar Japan, where the CIA "only really inserted itself in 1948 and 49". Also: [[edward-lansdale]] as a young OSS officer in Northern California. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:00:20-1:02:16, 1:19:04-1:19:23)*

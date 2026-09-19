@@ -24,6 +24,9 @@ relations:
   - relation: associate_of
     target: yoshio-kodama
     note: "worked closely with the Yakuza boss in postwar Japan (per ewa/dallas-4)"
+  - relation: associate_of
+    target: charles-willoughby
+    note: "wartime CIC officer reporting to Willoughby's G-2; later postwar Japan operator"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md"
     label: "America’s Fascist Spymaster - Willoughby 1 (Eyes Wide Open)"
@@ -35,6 +38,8 @@ sources:
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
     label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
+    label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
 ---
 
 Lieutenant Colonel Jack Y. Cannon is, per [[eyes-wide-open]], the third and "by far the most obscure" of the three figures the host originally planned to trace through post-revolution Havana (the other two being [[frank-sturgis]] and [[gerry-patrick-hemming]]). He is introduced at the end of chapter 2 of [[road-to-dallas]]; the host defers his Japan-era career to the coming Willoughby episodes. The sections up to "Additional claims" hold what chapter 2 says; chapter 3 ([[road-to-dallas]]) is his dedicated episode. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 21:16)*
@@ -112,3 +117,9 @@ Chapter 3 of [[road-to-dallas]] is his dedicated episode. Host framing: a charac
 ## Ewa/willoughby-1
 
 - Series preview: host says Willoughby part 3 covers Willoughby's time in Japan, "setting up underground networks with the help of one Colonel Jack Cannon". *([ewa/willoughby-1](../raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md) 3:13-3:34)*
+
+## Additional claims (ewa/willoughby-2)
+
+- Wartime: commanded the CIC detachment on Biak (summer 1944; Duval Edwards's account in *Spy Catchers of the US Army*, the "only account" the host found). Edwards portrays him as a psychopathic gun-nut (live-grenade pranks, unauthorized jeep patrols). Cannon was awarded a Silver Star, the first CIC agent in the Pacific, for recovering "more than 11 cases of enemy documents" from Japanese caves. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:11:37-1:14:53)*
+- Host, citing the Seagraves' *Gold Warriors*, gives an alternate reading: he may have found hidden Japanese "Golden Lily" gold ([[yamashita-gold]]) and the documents story covered it -- "purely speculation". Host: the award probably brought him to [[charles-willoughby]]'s attention; he would become "one of Willoughby's main stooges" in postwar Japan. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:15:10-1:16:43)*
+- Edwards later visited Cannon at the Fort Sam Houston stockade after the cattle-shooting episode (see [[road-to-dallas]] chapter 3), but Cannon had little to say. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:16:48-1:17:19)*
