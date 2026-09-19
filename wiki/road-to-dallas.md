@@ -17,6 +17,8 @@ sources:
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
+    label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
 ---
 
 "The Road to Dallas" is Eyes Wide Open's long-form Season 3 series on the [[kennedy-assassination]] network. Chapter 0 (`ewa/dallas-0`, published 2025-11-13) is a thesis and methodology episode; Chapter 1 (Frank Sturgis) followed 2025-11-14 at 5:00 p.m. Eastern. This page records the host's stated thesis and preview, as the host's claims.
@@ -60,3 +62,7 @@ sources:
 - Published 2025-11-21; first Patreon release April 1, 2025. Introduces [[david-atlee-phillips]] (Chile, Guatemala, Cuba 1955-56, Lebanon 1957-58, Havana 1959) as the "archetypal" CIA officer paired with [[e-howard-hunt]], and 1959 Havana as the "origin point of the secret war against Castro." Contains no Mexico City or Oswald material; the host notes only that the anti-Castro bonds formed "would lead all the way to Dallas in 1963." *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 0:20, 26:11)*
 - New pages: [[david-atlee-phillips]], [[jack-cannon]] (third of the host's original three Havana figures, after [[frank-sturgis]] and [[gerry-patrick-hemming]]), [[lebanon-crisis-1958]], [[association-of-former-intelligence-officers]]. Host says [[charles-willoughby]] and Cannon come next; the next chapter (3) is due the following Friday. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 21:16, 27:56)*
 - Host also announces a YouTube playlist of his videos in chronological (historical) order, and mentions a Patreon series on modern Japan (chapter 3 in progress). *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 27:29)*
+
+## Chapter 3 (ewa/dallas-3): Cactus Jack Canon Does Havana
+
+Dated 2025-11-28. Covers [[jack-cannon]]'s Fort Hood court-martial and ordnance promotion, the "Jack Shea" alias theory, Havana's 1959 soldier-of-fortune scene ([[loran-hall]], [[interpen]] origins, the [[odio-incident]] preview), Cannon's alleged tourist-police cover, and the early-1959 Havana CIA station; ends with [[frank-sturgis]] as Castro's "minister of gambling". Next: chapter 4 on [[meyer-lansky]] and the Cuban gambling syndicates (host, 37:42). No UFO, Tesla, Cheney or secret-society content. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 37:42-37:57)*

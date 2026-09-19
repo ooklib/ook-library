@@ -30,6 +30,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
+    label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
 ---
 
 David Atlee Phillips (born Fort Worth, Texas, 1923) was, per [[eyes-wide-open]], a CIA officer for about 25 years, almost exclusively in Latin America, retiring in 1975, and "a key player in nearly every CIA-JFK assassination theory." Chapter 2 of [[road-to-dallas]] introduces him as the "archetypal" CIA officer, a "spy's spy": a company man whose loyalty was to the agency first and the country second. This page records only what that episode says about his early career (Chile, Guatemala, Cuba, Lebanon, Cuba again). The episode does not reach any Mexico City or Oswald-related claim about him. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 5:44)*
@@ -82,3 +84,7 @@ David Atlee Phillips (born Fort Worth, Texas, 1923) was, per [[eyes-wide-open]],
 
 - Employed by [[central-intelligence-agency]]; took part in [[operation-pbsuccess]] and [[lebanon-crisis-1958]]; associate of [[e-howard-hunt]] and [[david-sanchez-morales]]; alleged possible contact of [[jack-cannon]]; founder of [[association-of-former-intelligence-officers]].
 - Series context: [[road-to-dallas]], [[kennedy-assassination]].
+
+## Additional claims (ewa/dallas-3)
+
+- Host: in 1959 Phillips was "fresh back" from Lebanon and posted at his old Havana desk (his earlier Cuba stint was 1956-57 during Batista's rule, per this chapter; compare the 1955-56 dating in earlier pages, flagged); alongside him at the US embassy base were David Morales ([[david-sanchez-morales]], described as a former PBSuccess colleague and assassination expert) with [[e-howard-hunt]] separately reporting on a short Havana visit (see his page). Host speculation that [[jack-cannon]] might have met Phillips remains unresolved in this chapter. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 33:42-34:59)*

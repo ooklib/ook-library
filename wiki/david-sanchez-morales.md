@@ -29,6 +29,8 @@ sources:
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
+    label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
 ---
 
 David Sanchez Morales ("El Indio") is described by [[eyes-wide-open]] as one of the CIA's most ruthless early assassination experts and the assassination trainer of [[operation-40]]. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 43:25-43:48)*
@@ -55,3 +57,7 @@ David Sanchez Morales ("El Indio") is described by [[eyes-wide-open]] as one of 
 ## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
 
 - Host calls Morales a "Phillips colleague in Cuba" and suggests a photo of him and Thomas Clines shown in the JM/WAVE episode may have been taken at an [[association-of-former-intelligence-officers]] event (speculative). See [[david-atlee-phillips]]. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 9:04)*
+
+## Additional claims (ewa/dallas-3)
+
+- Host: in early 1959 Morales was at the Havana CIA base with [[david-atlee-phillips]] (former Guatemalan-coup colleague, "renowned assassination expert"); the same Morales trained the [[operation-40]] hit squad for the Bay of Pigs and later followed [[ted-shackley]] to Southeast Asia in the mid-60s and back to the Western Hemisphere. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 34:24-34:59)*

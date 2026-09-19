@@ -36,6 +36,8 @@ sources:
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
+    label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
 ---
 
 Frank Sturgis (born Frank Fiorini) is introduced as an unofficial CIA-asset gunrunner who armed and trained Castro's guerrillas in the late 1950s, later a Bay of Pigs operative and Watergate burglar. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 36:45-37:09)*
@@ -98,3 +100,10 @@ This is the dedicated Sturgis episode of [[road-to-dallas]]; the host calls him 
 ## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
 
 - Host notes Sturgis, the "Castro-aiding soldier of fortune" and later Nixon plumber, was roaming Cuba in 1959 when [[david-atlee-phillips]] and (for a time) [[e-howard-hunt]] were active there. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 6:15)*
+
+## Additional claims (The Road to Dallas Chapter 3, ewa/dallas-3)
+
+- Per *Warrior* (as cited by the host), Sturgis told the US legal attache and undercover FBI asset "James Havery" (ASR, also rendered "James Hy"; name left as heard) shortly after the revolution that known communists in the Cuban army like Guevara were plotting to overthrow governments in the Dominican Republic, Panama and Nicaragua. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 4:28-5:01)*
+- Host: as a real combatant, Sturgis had status above the mercenary "riff raff"; Castro conferred the rank of captain on him and gave him two roles: director of security for the Cuban air force (where he met [[gerry-patrick-hemming]] at Pinar del Rio) and, from mid-1959, "minister of gambling", collecting casino taxes and renegotiating Batista-era deals with the mob owners to "make right with Cuba or get out". The host says this task ultimately turned Sturgis away from Castro and into the Florida paramilitary nexus; Chapter 4 (Lansky and Cuban gambling) follows. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 6:07-7:16, 36:19-36:56, 37:42-37:57)*
+- Major sponsor (or "popular front for sponsors") of Hemming's [[interpen]]; described as founder of its parent, the Anti-Communist International Brigade. Met [[loran-hall]] (as "Captain Frank Fiorini") in 1959. Also met Errol Flynn in Cuba, disappointed by his favorite actor's drunkenness (per *Warrior*). *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 7:02-7:31, 18:06-18:23, 32:17-32:34)*
+- Host speculates [[jack-cannon]] supplied Sturgis's planned Nicaragua invasion with Army surplus. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 24:09-24:33)*

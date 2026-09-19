@@ -65,6 +65,8 @@ sources:
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
+    label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -224,3 +226,7 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 ## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
 
 - `ewa/dallas-2` (published 2025-11-21; first on Patreon April 1, 2025): Road to Dallas chapter 2 on [[david-atlee-phillips]]; host announces a chronological-order playlist and a Japan series on Patreon. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 27:04, 27:40)*
+
+## Additional (ewa/dallas-3)
+
+- Chapter 3 of [[road-to-dallas]] (2025-11-28): [[jack-cannon]], [[loran-hall]], [[interpen]], [[odio-incident]]. The host says the video was first available to Patreon producer-tier patrons on April 26, 2025 (as spoken), and mentions a new series on the history of modern Japan. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 37:07-37:42)*

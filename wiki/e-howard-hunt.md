@@ -46,6 +46,8 @@ sources:
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
+    label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
 ---
 
 E. Howard Hunt, the "Spook," is presented by Eyes Wide Open as a founding CIA member who began under Helliwell's OSS Detachment 202 in China, ran CIA operations from Mexico, helped organize the 1954 Guatemala coup and the Bay of Pigs, became a Nixon "plumber" in Watergate, and left a disputed deathbed confession about the Kennedy assassination. He wrote spy novels under pen names. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 4:48-5:29)*
@@ -98,3 +100,7 @@ E. Howard Hunt, the "Spook," is presented by Eyes Wide Open as a founding CIA me
 ## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
 
 - Host equates Hunt with [[david-atlee-phillips]]: both PBSuccess vets who rose together, worked Latin America and appear "wherever there was smoke" around controversial operations as visible faces for the higher planners; Hunt reemerged in the mid-1970s as a Nixon plumber and was a personal friend of the more senior [[allen-dulles]]; Hunt reportedly active in Havana in the same milieu in 1959, "for a time." Host says Hunt's later plumber colleague [[frank-sturgis]] was also in Cuba in 1959. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 5:49, 6:20)*
+
+## Additional claims (ewa/dallas-3)
+
+- Host quotes Hunt's 1999 National Security Archive interview: Langley ordered him to Havana for three or four days after the revolution to gauge Castro's street popularity and whether the populace would rise against him in an invasion; he found "a lot of enthusiasm for Fidel Castro". Host calls him "the everywhere man", an equal to Phillips. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 35:06-35:56)*

@@ -12,6 +12,8 @@ sources:
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
+    label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
 ---
 
 The Cuban Revolution as framed by [[eyes-wide-open]] in Chapter 1 of [[road-to-dallas]]: the host's argument is that the roots of the JFK assassination lie "as much in Dallas in 1963 as ... in Havana in 1959 and 60", because the Gulf Coast anti-Castro groups of the early 1960s trace their origins to bonds formed between disillusioned Cuban revolutionaries, American adventurers, spies and mercenaries in and after the revolution. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 0:00-1:17)*
@@ -41,3 +43,10 @@ The Cuban Revolution as framed by [[eyes-wide-open]] in Chapter 1 of [[road-to-d
 - Host: [[david-atlee-phillips]] returned to Havana in 1959 after Lebanon (he had also been in Cuba 1955-56 under Batista); [[e-howard-hunt]] is said to have been active there "for a time"; [[frank-sturgis]] was also roaming Cuba in 1959; David Morales was a Phillips colleague; and Army intelligence officer [[jack-cannon]] is claimed by [[peter-dale-scott]] to have penetrated Castro's guerrilla operation in the late 1950s. Host frames 1959 Havana as the origin point of the secret war against Castro and "ground zero for the future assassination of JFK." *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 0:20, 6:20, 25:25)*
 
 - Host's Guatemala/Che note: see [[operation-pbsuccess]]. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 12:00)*
+
+## Additional claims (ewa/dallas-3)
+
+- Host: after January 1, 1959 the island became "a soldier of fortune Woodstock"; the demand for arms stayed steady; ambitions turned to Hispaniola (Trujillo's Dominican Republic, Haiti) and to Nicaragua; the host says the CIA, FBI and Army intelligence all had a significant presence, making Havana in 1959-60 "a real mecca for intelligence asset recruitment". *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 3:08-4:28, 14:39-14:55)*
+- Host's hypothesis: Fort Hood and [[jack-cannon]] were vectors of US Army surplus weapons to Cuba, first to the revolutionary army and later to the anti-Castro underground (speculation, no smoking gun). *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 3:00-3:17, 24:33-25:05)*
+- Camilo Cienfuegos, commander of the armed forces, disappeared when his plane went missing in October 1959; circumstances unclear, with speculation of a role by Raul Castro. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 19:09-20:04)*
+- Early 1959 Havana CIA station was "loaded with top covert operations men" scouting recruits for the [[bay-of-pigs-invasion]] and later [[operation-mongoose]]; see [[david-atlee-phillips]], [[david-sanchez-morales]], [[e-howard-hunt]]. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 33:10-34:59)*

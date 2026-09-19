@@ -16,6 +16,8 @@ sources:
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
+    label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
 ---
 
 General Charles Willoughby was Douglas MacArthur's intelligence chief in the Pacific in WWII, during the occupation of Japan and the first year of the Korean War. [[eyes-wide-open]] flags him as a coming "main character" and "maybe the most overlooked critical player in the private paramilitary networks surrounding Kennedy's death." *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 28:10-28:39)*
@@ -36,3 +38,7 @@ General Charles Willoughby was Douglas MacArthur's intelligence chief in the Pac
 ## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
 
 - Host describes him as the "forgotten spy master" and "in my opinion a major suspect in the JFK hit"; [[jack-cannon]] was his subordinate in Japan (Yakuza collaboration, stay-behind networks), to be covered in the coming Willoughby episodes. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 22:15)*
+
+## Additional claims (ewa/dallas-3)
+
+- Host (via Yoshiko Yamaguchi's memoir) places [[jack-cannon]] under Willoughby in postwar Japan, leading a "Zed unit"; Willoughby is called Cannon's "former boss and mentor" and the upcoming episodes will tie his Japan work to the Cuba work. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 28:43-29:05, 32:42-33:10)*

@@ -27,6 +27,8 @@ sources:
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
+    label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
 ---
 
 Peter Dale Scott is a researcher credited by Eyes Wide Open as the originator of the "deep
@@ -72,3 +74,7 @@ series on the history of the CIA.
 ## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
 
 - Quoted on [[jack-cannon]] (*Deep Politics and the Death of JFK*, p. 178): a Willoughby Yakuza-operations veteran who "penetrated Castro's guerilla operation against Batista" in the late 1950s. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 23:02)*
+
+## Additional (ewa/dallas-3)
+
+- Host re-cites Scott's *Deep Politics* line that Cannon "penetrated Castro's guerilla operations" as the basis for equating [[jack-cannon]] with "Jack Shea", and Scott's note that Castro tolerated Yankee interlopers for their ability to procure US Army surplus gear. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 21:42-21:54, 24:24-24:33)*

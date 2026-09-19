@@ -24,6 +24,8 @@ sources:
     label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
+    label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
 ---
 
 Lee Harvey Oswald is treated by [[eyes-wide-open]] only in his pre-assassination context: allegedly a Louisiana [[civil-air-patrol]] cadet under [[david-ferrie]] in 1955 alongside [[barry-seal]], and later a Marine posted at a top-secret U-2 spy plane base in Japan around 1957, "an unusual assignment for an allegedly mediocre soldier and pilot." *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 43:04-44:25)*
@@ -52,3 +54,7 @@ Lee Harvey Oswald is treated by [[eyes-wide-open]] only in his pre-assassination
 - Host: Oswald served in Japan as a Marine radar operator at Atsugi Air Base (outskirts of Yokohama) from 1957 until November 1958, overlapping with [[gerry-patrick-hemming]]'s Marine service there (Hemming discharged October 17, 1958). *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 25:36-26:37)*
 - Hemming's claim (Argosy, 1976, Dick Russell): he met a Marine Oswald in Los Angeles in 1959 at the Cuban consulate, offering to defect to Castro, and thought he was "a penetrator ... on the naval intelligence payroll". The host says this fits Oswald's reported timeline but treats Hemming as questionable. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 26:37-28:43)*
 - Note: the host's "radar operator" description here differs from the "U-2 base" emphasis on this page's earlier section; both are the host's/Hemming's framing of the same Japan posting and are not contradictory.
+
+## Additional claims (ewa/dallas-3)
+
+- Host summarizes the [[odio-incident]]: Sylvia Odio and her sister said a man introduced as "Leon Oswald" visited her Dallas apartment in September 1963 with two other men; host says the FBI later steered the Warren Commission to name [[loran-hall]], Lawrence Howard and William Seymour, and hints Oswald himself may have fed information to the FBI. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 12:07-13:20, 16:12-16:29)*

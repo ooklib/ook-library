@@ -32,6 +32,8 @@ sources:
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
+    label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
 ---
 
 The 22 November 1963 assassination of President John F. Kennedy in Dallas. In this episode Eyes Wide Open covers only [[e-howard-hunt]]'s alleged presence and deathbed confession; the host says his own research indicates a fundamental mob element in the conspiracy. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:48-11:00)*
@@ -101,3 +103,7 @@ The 22 November 1963 assassination of President John F. Kennedy in Dallas. In th
 ## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
 
 - Host (`ewa/dallas-2`) calls [[david-atlee-phillips]] "a key player in nearly every CIA-JFK assassination theory" (video description) and 1959 Havana "ground zero for the future assassination of JFK"; this chapter covers only his pre-1960 career. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 0:20)*
+
+## Additional (ewa/dallas-3)
+
+- Chapter 3 of [[road-to-dallas]] adds the [[odio-incident]], [[loran-hall]] and [[interpen]]'s role as alleged suspects/distractions, and [[gerry-patrick-hemming]]'s claim that Hall was in Dallas that day. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 8:26-9:52, 12:07-14:09)*

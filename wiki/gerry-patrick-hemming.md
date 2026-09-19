@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
+    label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
 ---
 
 Gerry Patrick Hemming (ASR: "Jerry Patrick Heming" throughout the transcript; the normalization to Hemming is my inference from the wiki's usual spelling and the video's cited "Hemming and Oswald document 1977") is introduced by [[eyes-wide-open]] as the second American "soldier of fortune" of the [[road-to-dallas]] series, a longtime collaborator of [[frank-sturgis]] and founder of the mercenary group Interpen (covered in later chapters). *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 22:40-23:00)*
@@ -35,3 +37,9 @@ Gerry Patrick Hemming (ASR: "Jerry Patrick Heming" throughout the transcript; th
 
 - Collaborator of [[frank-sturgis]]; met him amid the soldiers-of-fortune influx of the [[cuban-revolution]]. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 22:22-22:40)*
 - Alleged early contact with [[lee-harvey-oswald]] (Hemming's own account).
+
+## Additional claims (ewa/dallas-3)
+
+- Per Hemming's FBI file (host): Hemming joined Sturgis in Cuba around February 1959; by April 1960 the file says he "was then employed by the Cuban Revolutionary Air Force at San Julian as a parachutist and was then engaged in training Nicaraguans", showing the Nicaragua invasion plans persisted through the first two years of the regime. He met Sturgis (air-force security chief) while serving as a paratrooper at Pinar del Rio, and the link lasted through the secret war; the origins of [[interpen]] lie there. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 5:01-5:50, 6:46-7:57)*
+- In 1978 HSCA testimony he identified "Jack Sheay" as really Jack Cannon (two N's), naming him among Americans working with Camilo Cienfuegos; see [[jack-cannon]]. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 19:00-20:37)*
+- Told Senate investigators he believed [[loran-hall]] ("Lorenzo Hall") was involved in the JFK assassination, and in the 1993 Argosy interview said Hall was in Dallas that day. Host: the willingness of Hemming's men to accuse one another is why the network is "problematic" and fuels his speculation they were "distractions". *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 8:26-9:52)*
