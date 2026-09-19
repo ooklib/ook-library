@@ -37,6 +37,15 @@ Do not "fix" this without also touching every citing wiki page.
 | `mpu` | `raw/mpu/` | More Perfect Union | secret societies / power structures |
 | `rjm` | `raw/rjm/` | Richard J Murphy | City of London / power structures |
 | `yogsoggeth` | `raw/yogsoggeth/` | Yogsoggeth | archival re-upload of historical whistleblower talks |
+| `911mmry` | `raw/911mmry/` | 911MmRy | 9/11 / political-connection clip compilations |
+| `banijay` | `raw/banijay/` | Banijay Documentaries | investigative documentaries on secret societies / Nazi elite |
+| `brof_stein` | `raw/brof_stein/` | Brofessor Stein | corporate history / Nazi-era business ties |
+| `finaius` | `raw/finaius/` | FINAiUS | dynastic wealth / banking family history |
+| `lei` | `raw/lei/` | Lei's Real Talk | finance / geopolitics commentary (Epstein, Wall Street, China) |
+| `mm` | `raw/mm/` | MagnatesMedia | business tycoon / robber-baron biographies |
+| `oompa` | `raw/oompa/` | oompaville | intelligence / Epstein-Maxwell network commentary |
+| `va` | `raw/va/` | Video Advice | elite-system / prediction commentary |
+| `wm` | `raw/wm/` | Winston Marshall | interviews on WEF / Great Reset / power structures |
 
 ## Sources
 
@@ -97,6 +106,7 @@ Do not "fix" this without also touching every citing wiki page.
 | `a52/coulthart` | `raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md` | The DANGEROUS Truth About UFOs - Ross Coulthart \| DEBRIEFED ep. 76 (Area52) |
 | `a52/lazar-everything` | `raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md` | Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52) |
 | `a52/lazar-secret` | `raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md` | Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87 (Area52) |
+| `a52/icke` | `raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md` | The Alien Plan is in FULL Motion - David Icke \| DEBRIEFED ep. 81 (Area52) |
 | `ewa/oss` | `raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md` | The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open) |
 | `ewa/sunrise` | `raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md` | The History of the CIA - Operation Sunrise and the Plan for a New Europe [pt. 2] (Eyes Wide Open) |
 | `ewa/mafia-allies` | `raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md` | The History of the CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3] (Eyes Wide Open) |
@@ -141,6 +151,10 @@ Do not "fix" this without also touching every citing wiki page.
 | `jm/borland` | `raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md` | A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels) |
 | `jm/matthew-brown` | `raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md` | Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels) |
 | `jm/cameron` | `raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md` | I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels) |
+| `jm/pines` | `raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md` | UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels) |
+| `jm/nell-pasulka` | `raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md` | The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels) |
+| `jm/greer` | `raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md` | "UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels) |
+| `jm/nasa-pagan` | `raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md` | NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels) |
 | `rc/grusch` | `raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md` | UFO whistleblower David Grusch: 'We are not alone' \| Official Ross Coulthart NewsNation interview (NewsNation) |
 | `gp/secret-society` | `raw/gp/Green & Pleasant - 2026-03-28 - The Secret Society Running Britain for 140 Years.md` | The Secret Society Running Britain for 140 Years (Green & Pleasant) |
 | `gp/chatham-house` | `raw/gp/Green & Pleasant - 2026-04-10 - Britain's Most Powerful Secret Organisation - Chatham House Exposed.md` | Britain's Most Powerful Secret Organisation - Chatham House Exposed (Green & Pleasant) |
@@ -148,3 +162,14 @@ Do not "fix" this without also touching every citing wiki page.
 | `mpu/secret-society` | `raw/mpu/More Perfect Union - 2026-02-24 - We Uncovered The Most Infamous Secret Society_ And The Truth Is Shocking.md` | We Uncovered The Most Infamous Secret Society: And The Truth Is Shocking (More Perfect Union) |
 | `rjm/city-of-london` | `raw/rjm/Richard J Murphy - 2026-05-17 - The secret power behind the City of London.md` | The Secret Power Behind the City of London (Richard J Murphy) |
 | `yogsoggeth/schneider` | `raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md` | Phil Schneider - November 1995 (Full Video) (Yogsoggeth) |
+| `911mmry/carlyle` | `raw/911mmry/911MmRy - 2008-02-12 - Carlyle Group - Bush connection to Bin Laden.md` | Carlyle Group - Bush connection to Bin Laden (911MmRy) |
+| `banijay/nazi-elite` | `raw/banijay/Banijay Documentaries - 2023-07-20 - Secrets of the Nazi Elite - Inside Secret Societies - S01 EP1 - Investigative Documentary.md` | Secrets of the Nazi Elite - Inside Secret Societies - S01 EP1 - Investigative Documentary (Banijay Documentaries) |
+| `brof_stein/nazi-brands` | `raw/brof_stein/Brofessor Stein - 2025-07-23 - Every Major Brand with Nazi Ties Explained By a German.md` | Every Major Brand with Nazi Ties Explained By a German (Brofessor Stein) |
+| `finaius/rothschild` | `raw/finaius/FINAiUS - 2023-11-18 - Empire of Shadows - True Story of the Richest Family in History.md` | Empire of Shadows: True Story of the Richest Family in History (FINAiUS) |
+| `lei/epstein-backchannel` | `raw/lei/Lei's Real Talk - 2026-02-23 - Epstein’s Backchannel - The Secret Pipeline Between Wall Street and Beijing.md` | Epstein's Backchannel: The Secret Pipeline Between Wall Street and Beijing (Lei's Real Talk) |
+| `mm/vanderbilt` | `raw/mm/MagnatesMedia - 2022-05-06 - The Most BRUTAL Businessman In History.md` | The Most BRUTAL Businessman In History (MagnatesMedia) |
+| `mm/jp-morgan` | `raw/mm/MagnatesMedia - 2023-06-24 - J.P. Morgan - The Man Who Owned America.md` | J.P. Morgan: The Man Who Owned America (MagnatesMedia) |
+| `mm/rockefeller` | `raw/mm/MagnatesMedia - 2023-11-19 - Rockefeller - The World’s First Billionaire.md` | Rockefeller: The World's First Billionaire (MagnatesMedia) |
+| `oompa/maxwells` | `raw/oompa/oompaville - 2026-07-08 - The Maxwells Weren't Spies. They Were Something Worse.md` | The Maxwells Weren't Spies. They Were Something Worse. (oompaville) |
+| `va/1994-system` | `raw/va/Video Advice - 2026-01-25 - In 1994, He Exposed Their Entire System… and Predicted 2026 Perfectly.md` | In 1994, He Exposed Their Entire System… and Predicted 2026 Perfectly. (Video Advice) |
+| `wm/wef-insider` | `raw/wm/Winston Marshall - 2025-12-13 - I Helped Build It! A WEF-Davos Insider EXPOSES The Great Reset.md` | "I Helped Build It!" A WEF-Davos Insider EXPOSES The Great Reset (Winston Marshall) |
