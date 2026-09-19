@@ -13,9 +13,18 @@ relations:
   - relation: associate_of
     target: george-h-w-bush
     note: "fellow Skull and Bones member and close personal friend"
+  - relation: member_of
+    target: skull-and-bones
+  - relation: associate_of
+    target: china-lobby
+    note: "most effective American propagandist for the KMT (per ewa/war-conspiracy-1)"
+  - relation: associate_of
+    target: t-v-soong
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 Henry Luce, owner/publisher of [[time-life|Time Life]], is presented by Eyes Wide Open as an
@@ -39,8 +48,11 @@ film out of public view for years.
 - Employed [[whittaker-chambers]], the main witness against [[alger-hiss]] in the HUAC case — flagged
   by the host as suspicious given Luce's closeness to the Dulles brothers. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 18:15-18:35)*
 
+- War Conspiracy 1: born in Shanghai to a missionary; "the christianization of China was the supreme effort of Luce's life" (his biographer, per the host); at 14 moved to the US and in 1916 enrolled at Yale, joining [[skull-and-bones]]; founded Time Inc. and used it to propagandize for the KMT; reconnected in 1940 with [[t-v-soong]]; Time named Chiang and Soong Mei-ling "people of the year" in 1937. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 10:54-13:17)*
+
 ## Relationships
 
 - Owner/publisher of [[time-life]]; close friend of [[allen-dulles]].
 - Skull and Bones member alongside [[george-h-w-bush]].
 - Employer of [[whittaker-chambers]].
+- War Conspiracy 1: [[china-lobby]] propagandist; Skull and Bones member ([[skull-and-bones]]).

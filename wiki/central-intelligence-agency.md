@@ -67,6 +67,8 @@ sources:
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -133,6 +135,8 @@ shared organization page.
 - LAOS 4: host's typology of CIA personnel: Georgetown old boys (Dulles, Helms, Angleton), operators, then paramilitary "Laos cowboys" such as [[bill-lair]]; after the Bay of Pigs a pool of Cuban exiles. Claims the CIA moved from spycraft to warcraft and used proprietaries to fund itself. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 56:47-59:32, 55:13-55:19, 1:02:40-1:04:38)*
 - LAOS 4: host claims the CIA and State Department engineered the 1958-1960 Lao coups ([[laos-coups-1958-1960]]) and launched [[operation-momentum]]. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 28:16-29:56, 1:11:47-1:12:02)*
 
+- War Conspiracy 1: host: the CIA bought [[civil-air-transport]] in 1950 and through it began pushing rollback via [[operation-paper]]; it is characterized as depending on an "illicit budget" from narcotics for "unapproved operations" (see [[cia-drug-paradigm]]); the "old boys" welcomed Eisenhower in January 1953 as a sympathetic president ([[dwight-d-eisenhower]]). In the [[war-conspiracy]] frame, intelligence personnel are the key actors in the buildup to Vietnam. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 2:00-2:21, 43:54-44:35, 47:48-48:01, 48:46-49:09)*
+
 ## Relationships
 
 - Operates [[cia-directorate-of-science-and-technology]] and (via it)
@@ -148,3 +152,4 @@ shared organization page.
 - See [[secret-war-in-laos]].
 - LAOS 3: [[saigon-military-mission]], [[michigan-state-university-vietnam-advisory-group]].
 - LAOS 4: LAOS 4: [[bill-lair]], [[operation-momentum]], [[paru]], [[laos-coups-1958-1960]].
+- War Conspiracy 1: [[war-conspiracy]], [[civil-air-transport]], [[military-industrial-complex]].

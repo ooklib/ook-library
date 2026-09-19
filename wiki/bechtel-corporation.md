@@ -7,9 +7,14 @@ relations:
   - relation: overlapping_membership_with
     target: bohemian-grove
     note: "multiple generations of the Bechtel family and senior executives alleged as club members/attendees; family has been involved for generations"
+  - relation: associate_of
+    target: john-mccone
+    note: "McCone headed the company in the early 1940s (ewa/war-conspiracy-1); ASR 'Beckel' normalized by inference"
 sources:
   - file: "raw/mpu/More Perfect Union - 2026-02-24 - We Uncovered The Most Infamous Secret Society_ And The Truth Is Shocking.md"
     label: "We Uncovered The Most Infamous Secret Society: And The Truth Is Shocking (More Perfect Union)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 The Bechtel Corporation is a large, privately held US construction/engineering conglomerate.
@@ -45,6 +50,8 @@ government contracts.
   discussed seizing, and has been floated as a beneficiary of a Kushner/Trump plan to rebuild Gaza
   *([mpu/secret-society](../raw/mpu/More Perfect Union - 2026-02-24 - We Uncovered The Most Infamous Secret Society_ And The Truth Is Shocking.md) 15:18, 15:28, 15:31, 15:38, 15:44, 15:50, 15:56, 16:00)*.
 
+- War Conspiracy 1 ("Beckel"): host: in the early 1940s a significant shipbuilder headed by [[john-mccone]]; lobbyist [[thomas-corcoran]] won it government contracts through FDR-administration contacts. Famous, per the host, for post-Gulf War contracts: cleaning up the Kuwaiti oil fields (1991) and rebuilding Iraqi utilities (2003-2006). *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 15:42-16:48)*
+
 ## Relationships
 
 - Overlapping membership with [[bohemian-grove]] across multiple generations of the Bechtel
@@ -59,3 +66,4 @@ editorial argument connecting separately documented contracts to separately docu
 attendance; the video does not claim a specific contract was negotiated at the Grove itself
 (unlike its Social Security/Reagan claim on the [[bohemian-grove]] page), and this wiki records
 the connection as an alleged pattern, not a proven causal link.
+- War Conspiracy 1: [[thomas-corcoran]], [[john-mccone]] (early 1940s).

@@ -64,6 +64,8 @@ sources:
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 William "Wild Bill" Donovan was a WWI-hero-turned-Wall-Street-lawyer who became the first (and
@@ -144,6 +146,8 @@ administrator.
 
 - LAOS 4: host calls Donovan "in a sense the first CIA cowboy" and links him to [[world-commerce-corporation]] and SEA Supply; [[desmond-fitzgerald]] was reportedly his friend. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 1:03:12-1:03:26, 1:10:43-1:10:54)*
 
+- War Conspiracy 1: host: had a "particular fixation" on Southeast Asia, set up in Thailand after the war and briefly served as US ambassador to Thailand in the 1950s; OSS Detachment 202 under [[paul-helliwell]] was his China-hand operation. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 20:40-21:07)*
+
 ## Relationships
 
 - Directed the [[office-of-strategic-services]], appointed by [[franklin-d-roosevelt]].
@@ -166,3 +170,4 @@ administrator.
 - See [[willis-bird]], [[operation-paper]].
 - LAOS 3: see [[vietnam-lobby]], [[yamashita-gold]].
 - LAOS 4: LAOS 4: [[desmond-fitzgerald]].
+- War Conspiracy 1: Southeast Asia fixation; [[oss-detachment-202]].

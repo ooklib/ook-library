@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 The Green Gang was a Chinese secret society that became a powerful opium-smuggling crime
@@ -24,7 +26,10 @@ China's opium industry.
   such as the Rockefellers, who established the China Medical Board in 1910, aiding the Green
   Gang with "legitimate" shipments of opium to American heroin labs. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 9:46-10:26)*
 
+- War Conspiracy 1: host: Chiang used Green Gang thugs as enforcers crushing Shanghai unions in the 1927 White Terror (5,000-10,000 killed), fracturing the KMT-CCP united front and indirectly aiding Japan's 1931 Manchuria invasion; the KMT-organized crime meld stayed tied to opium after 1949. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 7:41-9:15)*
+
 ## Relationships
 
 - Funded [[chiang-kai-shek]]'s rise to power and consolidated China's opium industry under his
   control.
+- War Conspiracy 1: 1927 White Terror; [[china-lobby]].

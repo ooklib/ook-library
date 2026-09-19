@@ -35,6 +35,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 Northrop Grumman has primary offices in [[crystal-city-virginia|Crystal City]] and is listed
@@ -110,6 +112,8 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
   largest US shipbuilder, in 2011. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md)
   1:37:33–1:37:49)*
 
+- War Conspiracy 1 ("Northrup"; the pre-merger Northrop): named with Boeing and Lockheed as a "crown jewel" of the postwar military-industrial complex. No UFO claim is made in this episode. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 41:27-41:33)*
+
 ## Relationships
 
 - Lower-confidence alleged contractor to [[mitre-corporation]]; joint-ventured (via Newport News
@@ -120,3 +124,4 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
   [[northrop-advanced-technology-and-design-center]] and the
   [[tahone-radar-cross-section-facility]]; security apparatus led by [[terry-phillips]] with
   [[john-c-freestone]], [[kathy-andrews]], and [[vince-devine]] under him.
+- War Conspiracy 1: [[military-industrial-complex]].

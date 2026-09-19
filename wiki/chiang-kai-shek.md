@@ -16,6 +16,11 @@ relations:
   - relation: associate_of
     target: li-mi
     note: "CIA-armed KMT remnant in Burma; Taipei airlifted troops out 1953-54"
+  - relation: associate_of
+    target: china-lobby
+  - relation: associate_of
+    target: t-v-soong
+    note: "brother-in-law and foreign agent (ewa/war-conspiracy-1)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
@@ -25,6 +30,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 Generalissimo Chiang Kai-shek led the Nationalist Chinese (KMT) forces in China's WWII-era dual
@@ -51,6 +58,8 @@ a policy that drew [[paul-helliwell]] and the OSS into narcotics facilitation.
 - After fleeing to Taiwan in 1949, his China Lobby pushed US involvement; Taipei was pressured (Burma, UN, US) to withdraw [[li-mi]]'s force, agreeing in Sept 1953. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 11:36-13:38, 43:17-44:22)*
 - LAOS 1: his KMT sent Gen. Lu Han's (ASR 'luhan') 200,000-man army from Yunnan to expel the Japanese from Indochina; in 1946 France and the KMT agreed that France regained its colony while renouncing its concessions in China. Host says he was uninterested in Indochina, focused on the civil war. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 20:22-20:58)*
 
+- War Conspiracy 1: host: he had deep ties to the Chinese opium industry and the [[green-gang]], using its thugs as enforcers in Shanghai's 1927 White Terror (5,000-10,000 union members killed); rallying point of the [[china-lobby]]; Time named him and his wife "people of the year" in 1937; his KMT after 1949 exile stayed tied to narcotics. Brother-in-law [[t-v-soong]] was his foreign agent in Washington; Roosevelt covertly aided him via [[flying-tigers]]. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 7:41-9:15, 12:54-13:23, 14:12-14:47)*
+
 ## Relationships
 
 - Opium trade facilitated by [[paul-helliwell]] and the OSS; opium industry consolidated via the
@@ -59,3 +68,4 @@ a policy that drew [[paul-helliwell]] and the OSS into narcotics facilitation.
 - See [[oss-detachment-202]].
 - See [[operation-paper]], [[li-mi]].
 - See [[french-indochina]].
+- War Conspiracy 1: [[china-lobby]], [[t-v-soong]], [[flying-tigers]].

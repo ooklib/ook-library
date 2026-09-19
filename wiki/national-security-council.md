@@ -22,6 +22,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 The National Security Council historically housed the covert-activities oversight structure for
@@ -58,9 +60,12 @@ evolving into the "committee of 27" [[ufo-control-group]] formed in 1994. *([ger
   Technology and select primes/FFRDCs — a role he argues the *Age of Disclosure* documentary
   understated to protect [[james-clapper|James Clapper]]. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:34:34–1:35:04)*
 
+- War Conspiracy 1: [[nsc-68]] (April 1950) is presented as a National Security Council memo by State Department policy planning director [[paul-nitze]] recommending rollback and permanently higher military spending. Unrelated to the UFO-thread NSC pages beyond the shared institution. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 35:15-35:41)*
+
 ## Relationships
 
 - Oversaw the [[ufo-control-group]]; alleged home of the modern crash-retrieval portfolio and
   [[immaculate-constellation]] under [[james-clapper]].
 - Founded 1947 as the alleged successor venue to the [[top-policy-group]]; operated the
   [[nsc-5412-committee]] from 1954.
+- War Conspiracy 1: [[nsc-68]].

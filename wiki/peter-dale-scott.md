@@ -7,11 +7,16 @@ relations:
   - relation: authored
     target: deep-state
     note: "developed the theory of 'deep politics'/the deep state; author of Deep Politics and the Death of JFK"
+  - relation: authored
+    target: war-conspiracy
+    note: "1972 book/meta-theory used as War Conspiracy series framework"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 Peter Dale Scott is a researcher credited by Eyes Wide Open as the originator of the "deep
@@ -29,7 +34,10 @@ series on the history of the CIA.
 
 - His article "Operation Paper: The United States and Drugs in Thailand and Burma" is a main source for the ep. 6; it says Dean Acheson and the Thai/Burma embassies did not know of [[operation-paper]]. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 22:36-22:50)*
 
+- War Conspiracy 1: his 1972 *The War Conspiracy: The Secret Road to the Second Indochina War* (2013 edition used) supplies the [[war-conspiracy]] meta-theory; the host quotes his definition. Also cited (per host) that early CAT funding likely came from [[t-v-soong]], and that PanAm's Southeast Asia monopoly contributed to its 1960s-70s growth ([[pan-american-airways]]). *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 1:27-2:21, 26:24-26:30, 30:06-30:20)*
+
 ## Relationships
 
 - Originated the [[deep-state]] concept used throughout this Eyes Wide Open series.
 - See [[operation-paper]].
+- Authored the [[war-conspiracy]] thesis; see [[military-industrial-complex]], [[china-lobby]].

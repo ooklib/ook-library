@@ -17,6 +17,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 General Li Mi (ASR: "Lee Me", "Lei Me") commanded a KMT remnant (93rd Division, 26th and 8th Army
@@ -40,7 +42,10 @@ Open, his largely Hui-Muslim troops became the first CIA-armed "narco army" unde
 
 - LAOS 4: host: KMT guerrillas ("Lee Mi's lost army", CIA proxy until at least 1970) were allegedly sent across into western Laos in March 1959, supplied by civil transport planes, as pretext for the coup. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 9:15-9:27, 40:11-40:43)*
 
+- War Conspiracy 1 ("General lei"): his KMT troops in Shan State funded themselves through opium; in 1951-52 they made at least three failed cross-border raids into China; they stayed in Burma as a CIA proxy force ready to activate in Laos. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 45:57-46:27, 48:01-48:46)*
+
 ## Relationships
 
 - Client of [[operation-paper]]; associated with [[chiang-kai-shek]]'s KMT; flown by [[civil-air-transport]].
 - LAOS 4: LAOS 4: [[laos-coups-1958-1960]].
+- War Conspiracy 1: rollback raids ([[operation-paper]]).

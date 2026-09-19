@@ -24,6 +24,8 @@ relations:
     note: "set up Sea Supply Corp as the Bangkok shell"
   - relation: founded
     target: sea-supply-corporation
+  - relation: associate_of
+    target: whiting-willauer
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
@@ -39,6 +41,8 @@ sources:
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 Colonel Paul E. Helliwell served as chief of special intelligence for the
@@ -89,6 +93,8 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
 
 - LAOS 4: host: founder of SEA Supply (a CIA cutout under Donovan's [[world-commerce-corporation]]) which funded [[bill-lair]] and the Thai [[paru]] (about $35M/yr to Phao's police) and "founder of the CIA Narco complex". *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 1:01:32-1:02:05, 1:03:07-1:03:19)*
 
+- War Conspiracy 1 ("helwell"): as OSS Detachment 202 commander he supported Chiang in Yunnan and found the KMT funded operations from opium, a discovery the host says spiraled into decades of CIA compliance with narcotics smuggling; postwar Miami pay master linking Southeast Asian opium fields to Florida/Caribbean organized crime; in 1950 he introduced [[whiting-willauer]] to [[frank-wisner]] and brokered the CIA's purchase of [[civil-air-transport]]; created the [[sea-supply-corporation]] ("C Supply Company") for [[operation-paper]]. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 20:57-22:30, 44:06-44:35, 45:57-46:08)*
+
 ## Relationships
 
 - OSS chief of special intelligence in China; presented Operation X to [[william-donovan]],
@@ -106,3 +112,4 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
 - LAOS 2: attribution of [[operation-x]] retracted; see that page.
 - LAOS 3: [[yamashita-gold]].
 - LAOS 4: LAOS 4: [[paru]], [[bill-lair]].
+- War Conspiracy 1: [[whiting-willauer]], [[civil-air-transport]] broker.

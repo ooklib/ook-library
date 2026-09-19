@@ -26,9 +26,14 @@ relations:
   - relation: practices
     target: narco-counterinsurgency
     note: "called by the host the blueprint of the model"
+  - relation: associate_of
+    target: china-lobby
+    note: "host: CAT/Paper delivered the lobby's rollback aim (ewa/war-conspiracy-1)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 Operation PAPER was, per Eyes Wide Open, a little-known CIA operation run mainly from Bangkok
@@ -75,6 +80,8 @@ became a self-sustaining opium-funded army, which he calls the blueprint for
   Rica for Nicaragua and Pakistan for Afghanistan); (3) proprietary firms ([[civil-air-transport]],
   [[sea-supply-corporation]]) that keep operating after official support ends. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 47:54-49:51)*
 
+- War Conspiracy 1: host frames it as the CIA's first rollback attempt through [[civil-air-transport]]: planning began in late 1950; Helliwell's Miami/Bangkok "C Supply Company" ([[sea-supply-corporation]]) fed US Army depot weapons to [[li-mi]]'s KMT troops in Shan State; opium was brought to market by the Thai Border Police; Li's forces made at least three cross-border raids into China in 1951-52, failing; the operation largely ended by 1953 but the KMT remained a CIA proxy in Burma through Vietnam; Scott and McCoy are the cited sources. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 45:36-48:39)*
+
 ## Relationships
 
 - Proposed via [[frank-wisner]]'s [[office-of-policy-coordination]]; approved by [[harry-truman]];
@@ -82,3 +89,4 @@ became a self-sustaining opium-funded army, which he calls the blueprint for
 - Armed [[li-mi]]'s forces; flown by [[civil-air-transport]]; supplied via [[sea-supply-corporation]].
 - Its aftermath fed the [[golden-triangle]] opium economy, incl. [[khun-sa]].
 - Model for [[narco-counterinsurgency]] and the [[cia-drug-paradigm]].
+- War Conspiracy 1: rollback framing; [[china-lobby]], [[civil-air-transport]].

@@ -19,6 +19,9 @@ relations:
   - relation: member_of
     target: le-cercle
     note: "alleged member after leaving office"
+  - relation: associate_of
+    target: china-lobby
+    note: "host: aligned himself with the lobby in 1950"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
@@ -28,6 +31,8 @@ sources:
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 Richard Nixon appears in this episode as a junior California congressman who built his
@@ -66,6 +71,8 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
 - Per the Detachment 202 episode, [[e-howard-hunt]] served as one of his "plumbers" ([[watergate-scandal]]), and Hunt recommended [[lucien-conein]] to him as White House narcotics advisor. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 9:10-9:42, 16:47-16:55)*
 - LAOS 1: the bombing of [[laos]] that began under Johnson was 'massively expanded' under Nixon; see [[secret-war-in-laos]]. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 2:26-2:33)*
 
+- War Conspiracy 1: recruited by the [[china-lobby]]; in the 1950 California Senate race he echoed its line (citing Stephen Ambrose, vol. 1) that "communism requires a worldwide resistance," won, and as Eisenhower's vice president was, at least rhetorically, an advocate of rollback and "the archetypal cold warrior." The host says the China Lobby elevated him and [[lyndon-b-johnson]]. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 32:05-33:03, 33:49-34:06)*
+
 ## Relationships
 
 - Built his career via [[house-un-american-activities-committee]], prosecuting [[alger-hiss]].
@@ -75,3 +82,4 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
 - Alleged member of [[le-cercle]].
 - See [[watergate-scandal]], [[e-howard-hunt]].
 - See [[secret-war-in-laos]].
+- War Conspiracy 1: [[china-lobby]] protege; see [[lyndon-b-johnson]].

@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 The "deep state" (or "deep politics") is a theoretical framework, credited by Eyes Wide Open to
@@ -45,6 +47,8 @@ lens for its whole "History of the CIA" series, distancing it from the term's mo
   empire, and anti-communism — that cause them to move "in unison" as a network he calls "the
   blob." *([ewa/oss](../raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md) 10:59-11:49)*
 
+- War Conspiracy 1: [[peter-dale-scott]]'s [[war-conspiracy]] thesis (private capital, MIC and intelligence collusion driving Asian wars) is presented as a companion meta-theory; the host does not equate it with the deep state in this episode. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 1:35-3:11)*
+
 ## Relationships
 
 - Originated by [[peter-dale-scott]]; adopted by [[eyes-wide-open]] as this series' framing
@@ -58,3 +62,4 @@ lens for its whole "History of the CIA" series, distancing it from the term's mo
 This is an explicitly theoretical/interpretive framework, not an entity in the ordinary sense —
 the wiki records it because it structures how Eyes Wide Open frames every claim in this CIA
 history series.
+- Companion frame: [[war-conspiracy]].

@@ -32,6 +32,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 Frank Wisner is introduced by Eyes Wide Open as "the head of covert operations in the future
@@ -67,6 +69,8 @@ Romania.
 
 - Met Chennault at the George Washington Hotel, agreed to fund [[civil-air-transport]], and pushed [[operation-paper]] through; host says the OPC was created 1948 under NSC 10/2 (ASR: "NSC 102") and consolidated under the CIA hierarchy by [[walter-bedell-smith]] by 1952. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 14:28-19:03, 23:11-23:31)*
 
+- War Conspiracy 1: introduced to CAT's [[whiting-willauer]] via Helliwell in 1950 as head of [[office-of-policy-coordination]]; the CIA bought CAT. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 44:06-44:35)*
+
 ## Relationships
 
 - Trained by [[george-white]].
@@ -77,3 +81,4 @@ Romania.
 - OSS station chief in Romania; his stay-behind fascist network, foreshadowing
   [[operation-gladio]], was activated and lost by the [[central-intelligence-group]].
 - See [[operation-paper]].
+- War Conspiracy 1: [[whiting-willauer]], [[civil-air-transport]].

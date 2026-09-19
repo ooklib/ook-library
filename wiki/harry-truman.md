@@ -16,6 +16,9 @@ relations:
   - relation: sponsored_by
     target: operation-paper
     note: "signed approval late 1950; unclear if he grasped the narcotics element"
+  - relation: participated_in
+    target: korean-war
+    note: "ordered US troops to South Korea, June 1950"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
@@ -29,6 +32,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 Harry Truman was President of the United States when, per Eyes Wide Open, he lost faith in
@@ -70,6 +75,8 @@ with [[roscoe-hillenkoetter]] as (per the host) first director of the CIA.
 - Approved [[operation-paper]] in late 1950 on Joint Chiefs/OPC advice over DCI Smith's objection; NSC 342 was approved 3 March 1949. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 20:16-22:17)*
 - LAOS 1: largely ignored [[ho-chi-minh]]'s Feb 1946 cable requesting support for Vietnamese independence, focused on the Cold War; host calls this a 'massive foreign policy mistake'. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 21:15-22:51)*
 
+- War Conspiracy 1: his administration committed to anti-communism in Europe (overt Marshall Plan; covert campaigns in the Greek civil war and the 1948 Italian election) while "turning attention away" from Asia, so per the anticommunist press "allowed China to go red" in 1949; hawks pushed rollback ([[nsc-68]]); he entered the [[korean-war]] in June 1950, and his $50B first post-entry defense budget began peacetime military spending ([[military-industrial-complex]]). He left office in January 1953. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 30:41-31:13, 38:21-39:07, 48:46-48:52)*
+
 ## Relationships
 
 - Dismissed [[william-donovan]] and installed [[roscoe-hillenkoetter]] in his place.
@@ -80,3 +87,4 @@ with [[roscoe-hillenkoetter]] as (per the host) first director of the CIA.
   the [[national-security-act-1947]] in 1947, creating the [[central-intelligence-agency]].
 - Approved [[operation-paper]].
 - See [[ho-chi-minh]].
+- War Conspiracy 1: [[nsc-68]], [[korean-war]], [[china-lobby]] pressure.

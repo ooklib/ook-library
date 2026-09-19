@@ -39,6 +39,8 @@ sources:
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -126,6 +128,8 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 
 - LAOS 4: LAOS 4 (final of the Laos arc; first aired on Patreon April 24, 2024): frames the secret war and previews the War Conspiracy series (Peter Dale Scott, military-industrial complex), a Cuba/JM WAVE series featuring Ted Shockley (ASR), and a Louisiana/JFK build-up; return to Laos midway through 2025. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 1:18:52-1:22:03)*
 
+- War Conspiracy 1 ("The Origins of the Military-Industrial Complex"; first aired on Patreon 22 May 2024, YouTube 2024-11-29): opens Season 2's War Conspiracy series on [[peter-dale-scott]]'s [[war-conspiracy]], covering the [[china-lobby]], [[flying-tigers]], [[civil-air-transport]], [[skull-and-bones]], [[nsc-68]], [[howard-hughes]] and the [[military-industrial-complex]]. Host says he earns nothing from YouTube ads. Previews: Guatemala ([[operation-pbsuccess]]) and "Rockefeller funding of CIA spy satellites" next, then a Cuba/JM WAVE series, and a closing Johnson/MIC episode. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 0:00-0:32, 49:16-51:39)*
+
 ## Relationships
 
 - Investigates the [[office-of-strategic-services]] and the [[central-intelligence-agency]] as
@@ -140,3 +144,4 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 - LAOS 2: on-air self-correction on [[operation-x]].
 - LAOS 3: [[ngo-dinh-diem]], [[ngo-dinh-nhu]], [[edward-lansdale]], [[wesley-fishell]], [[saigon-military-mission]], [[battle-of-saigon-1955]], [[strategic-hamlet-program]], [[air-laos-commerce]], [[vietnam-lobby]], [[yamashita-gold]], [[michigan-state-university-vietnam-advisory-group]].
 - LAOS 4: LAOS 4: [[laos-coups-1958-1960]], [[bill-lair]], [[operation-momentum]], [[operation-milpond]], [[operation-white-star]], [[phoumi-nosavan]], [[souvanna-phouma]], [[kong-le]], [[pathet-lao]], [[paru]], [[operation-brotherhood]], [[ouane-rattikone]], [[desmond-fitzgerald]], [[john-f-kennedy]].
+- War Conspiracy 1: see [[war-conspiracy]], [[military-industrial-complex]].

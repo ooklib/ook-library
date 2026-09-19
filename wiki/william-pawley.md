@@ -1,0 +1,41 @@
+---
+title: William Pawley
+kind: person
+aliases: ["William Paulie", "Paulie", "Pauley"]
+tags: [aviation, china-lobby, panam]
+relations:
+  - relation: employed_by
+    target: pan-american-airways
+    note: "president of the China National Aviation Company, described as PanAm's Chinese branch"
+  - relation: associate_of
+    target: thomas-corcoran
+    note: "fellow partner in China Defense Supplies"
+  - relation: associate_of
+    target: flying-tigers
+    note: "diverted the first ~100 P-40s"
+  - relation: associate_of
+    target: civil-air-transport
+    note: "later supplied decommissioned PanAm planes and off-duty PanAm pilots"
+sources:
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+---
+
+William Pawley (ASR: "William Paulie"; normalization is my inference from the aviation-executive
+context and the source list's China Lobby material) was Corcoran's partner in the China Defense
+Supplies company and a link between PanAm and the CIA's airline.
+
+## Claims
+
+- Born in South Carolina and raised in Cuba, son of a wealthy businessman; aviation background;
+  president of the China National Aviation Company, "the Chinese branch of the one and only
+  PanAm." *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 18:18-18:41)*
+- Through Corcoran's firm redirected over 100 Curtiss-Wright P-40 fighters in Burma, originally
+  destined for the UK, to [[claire-chennault]] in southwestern China as the first [[flying-tigers]]
+  contingent. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 18:41-19:00)*
+- Later "ensured the continued supply" of decommissioned PanAm planes and off-duty PanAm pilots to
+  [[civil-air-transport]] as "a courtesy to his former colleagues in the CIA." *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 44:35-44:53)*
+
+## Relationships
+
+- PanAm-linked executive ([[pan-american-airways]]); partner of [[thomas-corcoran]]; supplier to [[civil-air-transport]].

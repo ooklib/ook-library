@@ -12,11 +12,18 @@ relations:
     note: "formed a private mercenary air force for Chiang using covert American war funds"
   - relation: participated_in
     target: operation-paper
+  - relation: associate_of
+    target: thomas-corcoran
+  - relation: associate_of
+    target: whiting-willauer
+    note: "co-founded CAT, 1946"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 Claire Chennault was a former US Army Air Force captain who formed a private mercenary air force
@@ -34,8 +41,11 @@ Claire Chennault was a former US Army Air Force captain who formed a private mer
 
 - Per McCoy, approached State (rebuffed) then [[paul-helliwell]], who referred him to [[frank-wisner]] at a George Washington Hotel meeting; later said [[operation-paper]] aimed to trap China in "giant pincers". *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 15:09-16:31, 22:17-22:36)*
 
+- War Conspiracy 1: hired in mid-1941 by Chiang as private air-force adviser; the host calls him a "retired US Air Force lieutenant general" (**discrepancy** with the page's earlier "former Army Air Force captain" from ewa/mafia-allies; not resolved); met [[thomas-corcoran]], got the [[flying-tigers]] approved; in 1946 founded [[civil-air-transport]] with [[whiting-willauer]]; his wife Anna later publicized the airlines after his death in 1958. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 14:54-15:29, 17:40-18:18, 28:58-29:58)*
+
 ## Relationships
 
 - Formed the "Flying Tigers" air force for [[chiang-kai-shek]]; it became [[civil-air-transport]]
   with [[paul-helliwell]]'s backing.
 - See [[operation-paper]].
+- War Conspiracy 1: [[flying-tigers]], [[thomas-corcoran]], [[whiting-willauer]].

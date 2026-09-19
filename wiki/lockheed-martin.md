@@ -66,6 +66,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -238,6 +240,8 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
   extension [[tonopah-test-range|Tonopah]]). *([gerb/sandia](../raw/gerb/sandia.md)
   2:23:22–2:28:04)*
 
+- War Conspiracy 1 ("lock heat"; the pre-1995 Lockheed): named with Boeing and Northrop as a "crown jewel" of the Cold War military-industrial complex; Hughes Aircraft manufactured Lockheed planes during WWII (per host). No UFO claim is made in this episode. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 25:22-25:29, 41:27-41:33)*
+
 ## Relationships
 
 - Formed by the 1995 merger of the Lockheed Corporation and [[martin-marietta]].
@@ -253,3 +257,4 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 - Contractor to [[mitre-corporation]]; connected to a reported vehicle-transfer facility at
   [[naval-air-station-patuxent-river]].
 - Advised [[to-the-stars-academy]] via Skunk Works personnel.
+- War Conspiracy 1: [[military-industrial-complex]] origins of the prime contractor.

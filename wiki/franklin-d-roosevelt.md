@@ -10,6 +10,9 @@ relations:
   - relation: founded
     target: operation-safe-haven
     note: "administration policy to confiscate Nazi assets from banks worldwide (per ewa/sunrise)"
+  - relation: sponsored_by
+    target: flying-tigers
+    note: "approved the AVG and its secret executive order (per ewa/war-conspiracy-1)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
@@ -17,6 +20,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
+    label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
 ---
 
 Franklin D. Roosevelt was President of the United States when, per Eyes Wide Open, the surprise
@@ -43,6 +48,8 @@ attack on Pearl Harbor necessitated the creation of the
   [[chiang-kai-shek]] using covert American war funds, becoming "the Flying Tigers" and later
   [[civil-air-transport]]. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 4:17-4:29, 11:39-11:46)*
 
+- War Conspiracy 1: the host notes his maternal grandfather Warren Delano's fortune came from the opium trade ([[china-lobby]]); in 1941 he tasked [[thomas-corcoran]] with secret aid channels to [[chiang-kai-shek]], approved the [[flying-tigers]] and signed a secret executive order letting them recruit US reserve officers. *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 6:24-6:49, 17:08-17:34, 19:00-19:14)*
+
 ## Relationships
 
 - Founded the [[office-of-strategic-services]]; appointed [[william-donovan]] as its director.
@@ -52,3 +59,4 @@ attack on Pearl Harbor necessitated the creation of the
   [[operation-sunrise]] allegedly defied.
 - Implemented [[operation-safe-haven]], allegedly circumvented by [[allen-dulles]] and
   [[john-foster-dulles]].
+- War Conspiracy 1: [[flying-tigers]], [[thomas-corcoran]].
