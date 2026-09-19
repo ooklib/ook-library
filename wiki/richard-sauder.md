@@ -43,7 +43,7 @@ Researcher and author of three books on underground bases, which [[uap-gerb]] ca
 
 ## Additional claims (gerb/northrop)
 
-- Gerb's Northrop video cites Underground Bases and Tunnels as claiming with a high degree of certainty that Northrop and Lockheed run underground unconventional research centers in California, including the [[tahone-radar-cross-section-facility]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 31:35-32:40)*
+- Gerb's Northrop video cites Underground Bases and Tunnels as claiming with a high degree of certainty that Northrop and Lockheed run underground unconventional research centers in California, including the [[tejon-radar-cross-section-facility]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 31:35-32:40)*
 
 ## Claims (jm/censored-book)
 

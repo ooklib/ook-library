@@ -34,8 +34,8 @@ Gerb notes Hamilton's map source "TA" is partly Thomas Castillo of the controver
 
 ## Relationships
 
-- Mapped in [[hamilton-dumb-network-map]]; see [[deep-underground-military-bases]], [[richard-sauder]], [[tahone-radar-cross-section-facility]].
+- Mapped in [[hamilton-dumb-network-map]]; see [[deep-underground-military-bases]], [[richard-sauder]], [[tejon-radar-cross-section-facility]].
 
 ## Additional claims (gerb/northrop)
 
-- Gerb credits his 1992 Cosmic Top Secret with the first recorded use of "ARV" (misquoted as alien replicated vehicle) and the flux liner, and says Hamilton passed [[brad-sorenson]] and [[mark-mccandlish]] to [[steven-greer]]; Hamilton flagged the Antelope Valley plants and accused the Northrop [[tahone-radar-cross-section-facility]] and its underground installation, citing a 1988 giant boomerang sighting and a saucer seen leaving a building. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 26:04-28:55)*
+- Gerb credits his 1992 Cosmic Top Secret with the first recorded use of "ARV" (misquoted as alien replicated vehicle) and the flux liner, and says Hamilton passed [[brad-sorenson]] and [[mark-mccandlish]] to [[steven-greer]]; Hamilton flagged the Antelope Valley plants and accused the Northrop [[tejon-radar-cross-section-facility]] and its underground installation, citing a 1988 giant boomerang sighting and a saucer seen leaving a building. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 26:04-28:55)*

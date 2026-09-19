@@ -54,7 +54,7 @@ Gerb traces US DUMBs to Nazi underground factories (Ohrdruf-area "subterranean t
 - [[los-alamos-national-laboratory]]: DOE repeatedly told Sauder no underground facilities existed, then supplied a blurred article on a late-1940s underground lab; a businessman claimed 75% of Los Alamos facilities are underground, down to one mile. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 34:33, 34:50, 35:20, 35:27)*
 - AT&T and Standard Oil emergency underground centers are offered as precedent for "corporate DUMBs"; AT&T ran Sandia 1949-1993. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 39:36, 40:18)*
 - China Lake, Yuma Proving Ground (Greer's DPI witness 10773) and Edwards claims: see [[china-lake]], [[antelope-valley]], [[edwards-air-force-base]]. Gerb explicitly sets aside Lazar's S-4, the Dulce base, Thomas Castillo and Phil Schneider as too controversial. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 20:40, 25:31, 25:56, 1:32:56)*
-- The [[dugway-deep-underground-military-base]] (witness MS, [[witness-gp]]) is Gerb's main worked example, and a "Northrop Tejon / Lockheed Helendale" RCS network is his most consequential candidate: [[antelope-valley]], [[tahone-radar-cross-section-facility]].
+- The [[dugway-deep-underground-military-base]] (witness MS, [[witness-gp]]) is Gerb's main worked example, and a "Northrop Tejon / Lockheed Helendale" RCS network is his most consequential candidate: [[antelope-valley]], [[tejon-radar-cross-section-facility]].
 
 ## Networks, tunnels and maglev
 
@@ -66,10 +66,10 @@ See [[dumb-tunnel-and-maglev-network]] for the tunneling-technology, Bechtel/BDM
 
 - Mount Shasta
 - [[vandenberg-air-force-base]] (Vandenberg Air Force Base / Vandenberg Space Force Base)
-- Tejon Pass (cf. [[tahone-radar-cross-section-facility]], aliased "Tejon")
+- Tejon Pass (cf. [[tejon-radar-cross-section-facility]], aliased "Tejon")
 - [[antelope-valley]]
 - [[edwards-air-force-base]]
-- Ant Hill (cf. [[tahone-radar-cross-section-facility]])
+- Ant Hill (cf. [[tejon-radar-cross-section-facility]])
   - 35°58'07.4"N 117°55'21.4"W
   - The Cindercone is also called the Red Hill. It's close to [[china-lake]].
 - [[china-lake]]

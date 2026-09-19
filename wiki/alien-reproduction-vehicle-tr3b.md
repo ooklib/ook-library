@@ -119,7 +119,7 @@ recovered nonhuman technology — is most associated in the UFO research communi
 
 ## Additional claims (gerb/northrop)
 
-- Gerb's Northrop video: Northrop's Palmdale and Tahone sites sit near the alleged TR-3B test area; [[teledyne-ryan]] is a named prime. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 35:07-36:19)*
+- Gerb's Northrop video: Northrop's Palmdale and Tejon sites sit near the alleged TR-3B test area; [[teledyne-ryan]] is a named prime. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 35:07-36:19)*
 
 ## Additional claims (gerb/tr-3b)
 

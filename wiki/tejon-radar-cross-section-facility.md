@@ -1,7 +1,7 @@
 ---
-title: Tahone Radar Cross-Section Facility
+title: Tejon Radar Cross-Section Facility
 kind: place
-aliases: [Toahone, Toon Ranch, Tohone, Tejon]
+aliases: [Tejon, Tahone, Toahone, Toon Ranch, Tohone]
 tags: [northrop-grumman, antelope-valley, dumb, rcs-range, stiff]
 relations:
   - relation: part_of
@@ -24,24 +24,24 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
 
-The Tahone (also transcribed "Toahone"/"Toon Ranch") radar cross-section (RCS) facility, in the
+The Tejon radar cross-section (RCS) facility, in the
 Antelope Valley near Palmdale, California, is a former Northrop Grumman-operated RCS test range
 Gerb has discussed repeatedly across his channel, alongside its sister Lockheed Martin site,
 Helendale. RCS ranges used high-frequency radio waves to test aircraft radar signatures, aiding
-stealth-technology development (Tahone was instrumental in B-2 Spirit bomber stealth testing) via
+stealth-technology development (Tejon was instrumental in B-2 Spirit bomber stealth testing) via
 large runways and pylons raised from underground on concrete "diamonds" to expose craft/materials
-to radar. Much of the infrastructure at Tahone, Helendale, and the former McDonnell Douglas RCS
+to radar. Much of the infrastructure at Tejon, Helendale, and the former McDonnell Douglas RCS
 facility was built below ground during the Cold War to hide from Soviet satellite observation.
 *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:33:52–2:35:10)*
 
 ## Claims
 
-- Gerb has stated with confidence, in prior projects, that Tahone and Helendale "exist within a
+- Gerb has stated with confidence, in prior projects, that Tejon and Helendale "exist within a
   larger network of deep underground military bases" (DUMBs) beneath the Antelope Valley focused
   on UFO retrieval and RDT&E, with major stations also under Edwards AFB and China Lake.
   *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 29:02–29:39, 2:37:02–2:37:24)*
 - The Center for Land Use Interpretation has described the RCS range as housing "elaborate
-  underground facilities." Northrop leased the land from the Tahone Ranch Company from the 1980s
+  underground facilities." Northrop leased the land from the Tejon Ranch Company from the 1980s
   until purchasing the full 1,415-acre property outright in 1998; the site was officially closed
   in 2011 (Northrop claimed nearby photovoltaic/wind installations interfered with RCS testing).
   *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:36:17–2:39:03)*
@@ -59,7 +59,7 @@ facility was built below ground during the Cold War to hide from Soviet satellit
   *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:40:44–2:43:56)*
 - Wasteland by Wednesday found a locked, heavily secured executive building containing scattered
   UFO documents, including copies of Project Blue Book records — which Gerb calls "shockingly
-  darkly comical." The one building Wasteland could not access, the "Tahone generator room," had
+  darkly comical." The one building Wasteland could not access, the "Tejon generator room," had
   large air-filtration/cooling stacks and a gated ventilation shaft leading toward underground
   infrastructure; Gerb argues this was never a true generator building but an air supply for an
   underground facility. Separately, Anders encountered a bolted-down cover blocking a ladder shaft
@@ -68,7 +68,7 @@ facility was built below ground during the Cold War to hide from Soviet satellit
   a derelict surface cover, including a CIA facility beneath the US Army training center at
   Warrenton, Virginia, and an NSA facility beneath the Sugar Grove Naval Communications Center,
   West Virginia. Unverified online accounts describe a Blackhawk-type helicopter landing near
-  Tahone's hangar in 2020, and a witness reporting a "burst of light" and subsequent skin-burning/
+  Tejon's hangar in 2020, and a witness reporting a "burst of light" and subsequent skin-burning/
   nausea near the security fence — which Gerb tentatively connects to non-lethal directed-energy
   ("discombobulator"/microwave) crowd-control weapon testimony. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:48:08–2:50:44)*
 - Gerb personally believes this "derelict yet maintained" facility, soon to become a wind farm
@@ -86,7 +86,7 @@ facility was built below ground during the Cold War to hide from Soviet satellit
 
 ## Additional claims (gerb/northrop)
 
-- Gerb's Northrop video: a radar cross-section range uses high-frequency radio waves, runways and pylons on concrete diamonds, often underground during the Cold War; Tahone reportedly has a disproportionate share of anomalous sightings versus Lockheed and McDonnell Douglas RCS sites; [[bill-hamilton]] and [[richard-sauder]] allege an underground UAP facility (rumored 42 levels with tunnels to Edwards); [[steven-greer]] calls the sister Helendale plant a staging ground for electrogravitic ARVs downed by EMP weapons; an artist's 1992 Tejon triangle drawing came from disgruntled Lockheed and Northrop engineers there and at Helendale; [[colonel-steve-wilson]] placed a Northrop anti-gravity disc site northeast of Lancaster. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 26:04-34:14, 40:38-40:53)*
+- Gerb's Northrop video: a radar cross-section range uses high-frequency radio waves, runways and pylons on concrete diamonds, often underground during the Cold War; Tejon reportedly has a disproportionate share of anomalous sightings versus Lockheed and McDonnell Douglas RCS sites; [[bill-hamilton]] and [[richard-sauder]] allege an underground UAP facility (rumored 42 levels with tunnels to Edwards); [[steven-greer]] calls the sister Helendale plant a staging ground for electrogravitic ARVs downed by EMP weapons; an artist's 1992 Tejon triangle drawing came from disgruntled Lockheed and Northrop engineers there and at Helendale; [[colonel-steve-wilson]] placed a Northrop anti-gravity disc site northeast of Lancaster. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 26:04-34:14, 40:38-40:53)*
 
 ## Additional claims (gerb/tr-3b)
 

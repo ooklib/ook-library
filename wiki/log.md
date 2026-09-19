@@ -214,11 +214,11 @@ Created 19 new entity pages:
   Skunk Works analog), [[zodiac-crash-retrieval-program]], [[talon-gold]], [[teal-ruby]],
   [[saf-aa]] (SAF/AA, SAF/AAH, SAF/AAZ Air Force cover-program structure).
 - Organizations: [[huntington-ingalls-industries]], [[in-q-tel]] (In-Q-Tel).
-- Place: [[tahone-radar-cross-section-facility]] (alleged Northrop DUMB/RCS site in the
+- Place: [[tejon-radar-cross-section-facility]] (alleged Northrop DUMB/RCS site in the
   Antelope Valley).
 
 Updated 30 existing pages with new claims, relations, and this source, most substantially:
-[[northrop-grumman]] (TRW acquisition, IRAD/False Claims Act history, NATDC, Tahone, HII
+[[northrop-grumman]] (TRW acquisition, IRAD/False Claims Act history, NATDC, Tejon, HII
 spinoff, Terry Phillips security apparatus), [[trw]] (full corporate history, Dahl, O'Sullivan,
 Haver, Winter, Zodiac, SDI, IRAD fraud, the 1982 CIA DS&T IRAD memo), [[aerospace-corporation]]
 (spinoff detail, Walden/Aldridge, Burlison/Grush interrogatory), [[terry-phillips]] (full career
@@ -236,7 +236,7 @@ page).
 No contradictions found with prior sources; this video substantially extends the
 Cheney/Clapper/O'Sullivan "head of the snake" gatekeeper thread, the CIA DS&T IRAD-
 misappropriation thesis (now spanning TRW, Lockheed, and E-Systems), and the Antelope Valley
-DUMB/RCS-facility thesis (Tahone as Northrop's counterpart to Lockheed's Helendale).
+DUMB/RCS-facility thesis (Tejon as Northrop's counterpart to Lockheed's Helendale).
 
 ## [2026-09-16] ingest | The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)
 
@@ -1123,11 +1123,11 @@ Judgment calls: (1) No new relation types. (2) ASR: "Doug way"=Dugway, "C Martin
 
 ## [2026-09-19] ingest | Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (4m50s)
 
-Source: raw/gerb/ (key `gerb/dumbs`), https://www.youtube.com/watch?v=7Ats0lIy3Lo by UAP Gerb, dated 2025-03-17; ~1h38m. Created 8 pages: [[deep-underground-military-bases]] (includes the "Sites on Gerb's map" list from the wiki owner's notes/dumbs.md), [[dumb-tunnel-and-maglev-network]], [[hamilton-dumb-network-map]], [[deep-underground-command-center]], [[antelope-valley]], [[china-lake]], [[richard-sauder]], [[bill-hamilton]]. Updated: [[dugway-deep-underground-military-base]], [[dugway-proving-ground]], [[edwards-air-force-base]], [[tahone-radar-cross-section-facility]], [[kirtland-air-force-base]], [[sandia-national-laboratories]], [[los-alamos-national-laboratory]], [[wright-patterson-air-force-base]], [[vandenberg-air-force-base]], [[tonopah-test-range]], [[leonard-stringfield]], [[steven-greer]], [[uap-gerb]], [[albert-stubblebine]], [[jake-barber]], [[randy-anderson]], [[crystal-city-virginia]], [[bechtel-corporation]], [[trw]], [[bdm-international]], [[rand-corporation]], [[hans-kammler]], [[operation-paperclip]], [[battelle-memorial-institute]], [[relation-types]] (source only), [[index]].
+Source: raw/gerb/ (key `gerb/dumbs`), https://www.youtube.com/watch?v=7Ats0lIy3Lo by UAP Gerb, dated 2025-03-17; ~1h38m. Created 8 pages: [[deep-underground-military-bases]] (includes the "Sites on Gerb's map" list from the wiki owner's notes/dumbs.md), [[dumb-tunnel-and-maglev-network]], [[hamilton-dumb-network-map]], [[deep-underground-command-center]], [[antelope-valley]], [[china-lake]], [[richard-sauder]], [[bill-hamilton]]. Updated: [[dugway-deep-underground-military-base]], [[dugway-proving-ground]], [[edwards-air-force-base]], [[tejon-radar-cross-section-facility]], [[kirtland-air-force-base]], [[sandia-national-laboratories]], [[los-alamos-national-laboratory]], [[wright-patterson-air-force-base]], [[vandenberg-air-force-base]], [[tonopah-test-range]], [[leonard-stringfield]], [[steven-greer]], [[uap-gerb]], [[albert-stubblebine]], [[jake-barber]], [[randy-anderson]], [[crystal-city-virginia]], [[bechtel-corporation]], [[trw]], [[bdm-international]], [[rand-corporation]], [[hans-kammler]], [[operation-paperclip]], [[battelle-memorial-institute]], [[relation-types]] (source only), [[index]].
 
 Summary: Survey of acknowledged and alleged deep underground military bases as UFO legacy program sites: Army Corps/RAND documents, Nazi/Paperclip origins, Stringfield's 1970s letters (Fort Hood, Wright-Patterson, Kirtland), Antelope Valley/Ant Hill and Hamilton's informants, China Lake/Edwards, the never-built-officially DUC under the Pentagon, tunneling (TBM, nuclear subterrene) and maglev history, and Hamilton's 1990 map overlaid on RAND's VHST and DoD lab maps.
 
-Judgment calls: (1) No new relation types. (2) ASR: "Solder"=Sauder, "stiffs"=STFs, "Ducc/Duc"=DUC, "tahon/tahachapi"=Tejon (existing page tahone-radar-cross-section-facility), "Kemper/keer"=Hermann Kemper, "Dua"=Duscha; map-derived spellings resolved via notes/dumbs.md. (3) Site list is from the video's map (owner-compiled), not the transcript; only sites with transcript claims got pages, others left unlinked. (4) Kinsley (owner's list) vs "Kingsley, Nebraska" (spoken) flagged as discrepant; Riverton WY, Peterson AFB, 29 Palms, Catalina, Anza appear in transcript only. (5) Generic DUMB concept given new page; Dugway-specific page kept. (6) Cheyenne Mountain, Fort Huachuca, White Sands, Area 51 left as unlinked mentions (only acknowledged/thin claims).
+Judgment calls: (1) No new relation types. (2) ASR: "Solder"=Sauder, "stiffs"=STFs, "Ducc/Duc"=DUC, "tahon/tahachapi"=Tejon (existing page tejon-radar-cross-section-facility), "Kemper/keer"=Hermann Kemper, "Dua"=Duscha; map-derived spellings resolved via notes/dumbs.md. (3) Site list is from the video's map (owner-compiled), not the transcript; only sites with transcript claims got pages, others left unlinked. (4) Kinsley (owner's list) vs "Kingsley, Nebraska" (spoken) flagged as discrepant; Riverton WY, Peterson AFB, 29 Palms, Catalina, Anza appear in transcript only. (5) Generic DUMB concept given new page; Dugway-specific page kept. (6) Cheyenne Mountain, Fort Huachuca, White Sands, Area 51 left as unlinked mentions (only acknowledged/thin claims).
 
 ## [2026-09-19] ingest | Did Henry Kissinger Oversee A UFO Crash Retrieval Program (3m45s)
 
@@ -1328,15 +1328,15 @@ Judgment calls: (1) No new relation types. (2) ASR: "STM Thurman"=Strom Thurmond
 
 ## [2026-09-19] ingest | UFO Legacy Programs - Northrop Grumman (3m46s)
 
-Source: raw/gerb/ (key `gerb/northrop`), https://www.youtube.com/watch?v=E-GleS2aGj0 by UAP Gerb, dated 2025-01-27; ~1h04m. Created 4 pages: [[northrop-investigation-video-2025]], [[teledyne-ryan]], [[project-red-light]], [[arnold-house]]. Updated 33 existing pages with a "gerb/northrop" section, notably [[northrop-grumman]], [[trw]], [[aerospace-corporation]], [[bdm-international]], [[sperry-rand]], [[colonel-steve-wilson]], [[bill-hamilton]], [[tahone-radar-cross-section-facility]], [[edgar-fuche]], [[karl-nell]], [[electrogravitics]], [[lockheed-martin]], [[uap-gerb]], [[index]].
+Source: raw/gerb/ (key `gerb/northrop`), https://www.youtube.com/watch?v=E-GleS2aGj0 by UAP Gerb, dated 2025-01-27; ~1h04m. Created 4 pages: [[northrop-investigation-video-2025]], [[teledyne-ryan]], [[project-red-light]], [[arnold-house]]. Updated 33 existing pages with a "gerb/northrop" section, notably [[northrop-grumman]], [[trw]], [[aerospace-corporation]], [[bdm-international]], [[sperry-rand]], [[colonel-steve-wilson]], [[bill-hamilton]], [[tejon-radar-cross-section-facility]], [[edgar-fuche]], [[karl-nell]], [[electrogravitics]], [[lockheed-martin]], [[uap-gerb]], [[index]].
 
-Summary: Gerb's Vol.1 on Northrop Grumman (the later gerb/northrop_trw is Vol.2): argues Northrop bought companies with legacy programs (TRW, Teledyne Ryan, BDM, Sperry Rand divisions), links the 2003 TRW overcharging settlement to the 1990s audit in the Wilson-Davis notes, and reviews Antelope Valley/Tahone claims (Hamilton, Sauder), Col. Steve Wilson, Arnold House and Project Red Light. Concludes Northrop is a project-managing prime, all attributed and unverified.
+Summary: Gerb's Vol.1 on Northrop Grumman (the later gerb/northrop_trw is Vol.2): argues Northrop bought companies with legacy programs (TRW, Teledyne Ryan, BDM, Sperry Rand divisions), links the 2003 TRW overcharging settlement to the 1990s audit in the Wilson-Davis notes, and reviews Antelope Valley/Tejon claims (Hamilton, Sauder), Col. Steve Wilson, Arnold House and Project Red Light. Concludes Northrop is a project-managing prime, all attributed and unverified.
 
 Judgment calls: (1) No new relation types. (2) ASR: "Northrup"=Northrop, "Ted/Tadine Ryan"=Teledyne Ryan, "Shrat"=Schratt, "Doug way"=Dugway, "Elizondo"=transcribed "Lou alzando", "Arnold House" spelling from Gerb's on-screen archive listing. (3) Sekret Machines not mentioned in this source. (4) Fitts/Black Budget paper, Bill McDonald's Tejon triangle, XH-75D, Star Wars City chart, Alon Science and Technologies, Michael Schratt kept inline.
 
 ## [2026-09-19] ingest | Alien Reproduction Vehicle - TR-3B and the Flying Triangles (4m21s)
 
-Source: raw/gerb/ (key `gerb/tr-3b`), https://www.youtube.com/watch?v=B7JP0uX0GwY by UAP Gerb, dated 2024-11-30; ~1h17m. Created 8 pages: [[tr3b-triangle-arv-video-2024]], [[xf-131-super-sentinel]], [[bill-mcdonald]], [[treat-tactical-reconnaissance-engineering-assessment-team]], [[fouche-controversy]], [[boscombe-down-crash-1994]], [[belgian-ufo-wave-1989]], [[flying-triangle-sightings]]. Updated ~38 existing pages with a "gerb/tr-3b" section, notably [[edgar-fuche]], [[alien-reproduction-vehicle-tr3b]], [[aurora-astra]], [[defense-advanced-research-center]], [[eg-and-g]], [[project-red-light]], [[sekret-machines-project]], [[albert-stubblebine]], [[hans-adam-ii]], [[steven-greer]], [[tahone-radar-cross-section-facility]], [[ben-rich]], [[jeremy-rys]], [[uap-gerb]], [[index]].
+Source: raw/gerb/ (key `gerb/tr-3b`), https://www.youtube.com/watch?v=B7JP0uX0GwY by UAP Gerb, dated 2024-11-30; ~1h17m. Created 8 pages: [[tr3b-triangle-arv-video-2024]], [[xf-131-super-sentinel]], [[bill-mcdonald]], [[treat-tactical-reconnaissance-engineering-assessment-team]], [[fouche-controversy]], [[boscombe-down-crash-1994]], [[belgian-ufo-wave-1989]], [[flying-triangle-sightings]]. Updated ~38 existing pages with a "gerb/tr-3b" section, notably [[edgar-fuche]], [[alien-reproduction-vehicle-tr3b]], [[aurora-astra]], [[defense-advanced-research-center]], [[eg-and-g]], [[project-red-light]], [[sekret-machines-project]], [[albert-stubblebine]], [[hans-adam-ii]], [[steven-greer]], [[tejon-radar-cross-section-facility]], [[ben-rich]], [[jeremy-rys]], [[uap-gerb]], [[index]].
 
 Summary: Gerb's full treatment of Edgar Fouche's TR-3B testimony (five sources, DARC, EG&G, MFD propulsion, Aurora/Astra, TR-3A vs TR-3B), the 2010s Fouche controversy, a survey of 1980s-2000 triangle sightings including the Belgian wave, and the XF-131 Super Sentinel relayed by illustrator Bill McDonald and used by the X-Files. Framed by the Immaculate Constellation report's labeling of some triangles as ARVs; concludes two ARV families (flux-liner saucers and triangles). All claims attributed and unverified.
 

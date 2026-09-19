@@ -67,7 +67,7 @@ architecture had already proven effective for atomic-bomb secrecy. *(2:32–2:53
   Manhattan Project's Chicago Pile-1 (built under a squash court at the University of Chicago, so
   secret the Chicago mayor was not informed) — a technique he says persists in modern legacy-
   program sites disguised as ordinary corporate parks, office buildings, or derelict facilities
-  (e.g. the [[tahone-radar-cross-section-facility|Tahone radar cross-section facility]]).
+  (e.g. the [[tejon-radar-cross-section-facility|Tejon radar cross-section facility]]).
   *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:04:11–1:07:14)*
 - **Classification and information control**: the 1946 Atomic Energy Act's "restricted data" and
   the 1954 [[atomic-energy-act-1954|Atomic Energy Act]]'s expanded "special nuclear material" and

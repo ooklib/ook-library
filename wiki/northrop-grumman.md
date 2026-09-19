@@ -21,8 +21,8 @@ relations:
     target: huntington-ingalls-industries
     note: "spun off HII in 2011"
   - relation: located_at
-    target: tahone-radar-cross-section-facility
-    note: "owned/operated the Tahone RCS range 1998-2024"
+    target: tejon-radar-cross-section-facility
+    note: "owned/operated the Tejon RCS range 1998-2024"
   - relation: operates
     target: northrop-advanced-technology-and-design-center
   - relation: provides_counterintelligence_for
@@ -128,7 +128,7 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
   [[vince-devine|Vince Devine]] as directors of security operating under him, plus
   [[michael-dempsey|Michael Dempsey]] (VP for government affairs) among the executive-level
   figures Gerb suspects engage with the UFO portfolio. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:17:28–2:17:41, 2:50:44–2:51:02)*
-- Northrop owned and operated the [[tahone-radar-cross-section-facility|Tahone RCS facility]]
+- Northrop owned and operated the [[tejon-radar-cross-section-facility|Tejon RCS facility]]
   (purchased outright 1998, officially closed 2011, sold by late 2024), which Gerb believes still
   houses active underground UFO-legacy-program infrastructure behind a staged-derelict surface.
   *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:36:35–2:40:10)*
@@ -146,7 +146,7 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
 - Acquired [[trw]] in 2002 (crown-jewel acquisition forming mission/space systems); spun off
   [[huntington-ingalls-industries]] in 2011; ran the
   [[northrop-advanced-technology-and-design-center]] and the
-  [[tahone-radar-cross-section-facility]]; security apparatus led by [[terry-phillips]] with
+  [[tejon-radar-cross-section-facility]]; security apparatus led by [[terry-phillips]] with
   [[john-c-freestone]], [[kathy-andrews]], and [[vince-devine]] under him.
 - War Conspiracy 1: [[military-industrial-complex]].
 
@@ -175,12 +175,12 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
 - Audit hypothesis: TRW's overcharging, traced to 1994, became the 2003 settlement (about $111M) that Gerb reads as the paper trail of the 1990s audit which, per [[wilson-davis-notes]], forced reorganization under the [[special-access-program-oversight-committee]] senior review group; Gerb notes Northrop paid it a year after buying TRW for roughly $6-7B. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 16:53-18:26, 56:53-57:19)*
 - C4ISR: Northrop ran C4ISR for the [[strategic-defense-initiative]] (first space laser radar, 1983); Gerb has a thesis that select contractors' C4ISR programs host deep-buried special access programs for crash retrieval and ARV data, like [[science-applications-international-corporation]] at [[naval-surface-warfare-center-crane]] and a Lockheed system at Nellis. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 6:09-9:05)*
 - [[karl-nell]] served 13 years as Northrop's deputy CTO; the 1968 NORAIR electro-aerodynamics paper (allegedly pulled in 2002 per Nick Cook's source) and the [[b-2-stealth-bomber]] link it to [[electrogravitics]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 23:00-25:56)*
-- [[bill-hamilton]]'s Cosmic Top Secret (1992) accuses the [[tahone-radar-cross-section-facility]] and an underground installation of being a UAP facility; [[richard-sauder]] claims a high degree of certainty that Northrop and Lockheed run heavily engaged unconventional underground research. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 26:04-33:04)*
+- [[bill-hamilton]]'s Cosmic Top Secret (1992) accuses the [[tejon-radar-cross-section-facility]] and an underground installation of being a UAP facility; [[richard-sauder]] claims a high degree of certainty that Northrop and Lockheed run heavily engaged unconventional underground research. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 26:04-33:04)*
 - Whistleblower links: [[edgar-fuche]] (TR-3B primes), [[colonel-steve-wilson]] (anti-gravity disc built by Northrop northeast of Lancaster; XH-75D at [[teledyne-ryan]]), [[arnold-house]] and [[project-red-light]] (Northrop paychecks at Area 51). Gerb's thesis: Northrop, Lockheed, Boeing, Raytheon and SAIC are the project managers across service compartments, and Northrop is "up to their eyeballs" in ongoing work. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 34:49-55:44, 56:53-1:02:34)*
 
 ## Additional claims (gerb/tr-3b)
 
-- Gerb defers a planned look at a Northrop-built triangle variant; the two Northrop engineers who spoke to [[bill-mcdonald]] worked at the Tejon/Tehachapi site ([[xf-131-super-sentinel]], [[tahone-radar-cross-section-facility]]), and the B-2 is claimed to carry electrogravitic mass-reduction ([[electrogravitics]], [[b-2-stealth-bomber]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 34:26-34:42, 38:38-39:54, 57:42-58:42)*
+- Gerb defers a planned look at a Northrop-built triangle variant; the two Northrop engineers who spoke to [[bill-mcdonald]] worked at the Tejon/Tehachapi site ([[xf-131-super-sentinel]], [[tejon-radar-cross-section-facility]]), and the B-2 is claimed to carry electrogravitic mass-reduction ([[electrogravitics]], [[b-2-stealth-bomber]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 34:26-34:42, 38:38-39:54, 57:42-58:42)*
 
 ## Additional claims (jm/nasa-chief)
 

@@ -81,7 +81,7 @@ could not provide material evidence for its existence. *([gerb/saic](../raw/gerb
 
 ## Additional claims (gerb/northrop)
 
-- Gerb's Northrop video: TR-3B test flights over Edwards run by the AF Test Center under the 412th Test Group, near Northrop's Palmdale and Tahone sites; Fuche names Lockheed, Boeing, [[teledyne-ryan]] and Northrop as primes, Sandia and Livermore as propulsion; he also said Area 51 programs moved to [[dugway-proving-ground]] in the early 1990s and that EG&G held a [[project-red-light]] contract. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 34:49-36:19, 52:08-52:17, 54:41-55:21)*
+- Gerb's Northrop video: TR-3B test flights over Edwards run by the AF Test Center under the 412th Test Group, near Northrop's Palmdale and Tejon sites; Fuche names Lockheed, Boeing, [[teledyne-ryan]] and Northrop as primes, Sandia and Livermore as propulsion; he also said Area 51 programs moved to [[dugway-proving-ground]] in the early 1990s and that EG&G held a [[project-red-light]] contract. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 34:49-36:19, 52:08-52:17, 54:41-55:21)*
 
 ## Additional claims (gerb/tr-3b)
 

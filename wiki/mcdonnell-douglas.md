@@ -25,7 +25,7 @@ SDI-era contractors on [[colonel-steve-wilson|Colonel Steve Wilson]]'s "Star War
 - [[edward-c-aldridge|Edward C. Aldridge]] served as McDonnell Douglas's president, one entry in
   a legendary CV that also included Under Secretary/Secretary of the Air Force, NRO director, and
   Aerospace Corporation CEO. Also noted as one of the RCS-range operators in the Antelope Valley
-  network alongside Northrop's [[tahone-radar-cross-section-facility|Tahone]] and Lockheed's
+  network alongside Northrop's [[tejon-radar-cross-section-facility|Tejon]] and Lockheed's
   Helendale sites. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 58:44–59:19,
   2:34:58–2:35:10)*
 
