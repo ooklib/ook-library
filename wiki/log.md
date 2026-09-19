@@ -1277,3 +1277,11 @@ Source: raw/lei/ (key `lei/epstein-backchannel`), https://www.youtube.com/watch?
 Summary: Commentary reading DOJ-released Epstein emails as showing Epstein coaching JPMorgan's Jes Staley on guanxi (scripted lines, disguised gifts, a China advisory board that became the sons-and-daughters hiring practice), Staley's 2010 Beijing meetings with Wang Qishan and "the prince" (Xi), a 2012 exchange about purging the Wen Jiabao family's assets, and a redacted 2019 email about removing Xi. All attributed interpretation; no UFO content.
 
 Judgment calls: (1) No new relation types. (2) ASR: "Jess Staley"=Jes Staley, "Wangi Shan/Wishan"=Wang Qishan, "Duian/Leuancha" (organization department head, unnamed; left inline), "Jang Zaming" (uncertain, likely Zeng Qinghong or Jiang Zemin; flagged), "Guangshi"=guanxi. (3) Left inline: David Stern, Desmond Shum, Wen Jiabao, Jamie Dimon. (4) Shen Yun/shop promos ignored; the raw file's trailing "Summary" block is stray text about a J.P. Morgan documentary and was ignored.
+
+## [2026-09-19] ingest | Carlyle Group - Bush connection to Bin Laden | 911MmRy (1m28s)
+
+Source: raw/911mmry/ (key `911mmry/carlyle`), https://www.youtube.com/watch?v=9_qBtOGnAAo by 911MmRy, dated 2008-02-12; ~6m. Created 8 pages: [[carlyle-group-video-2008]], [[carlyle-group]], [[united-defense-industries]], [[bin-laden-family]], [[shafik-bin-laden]], [[osama-bin-laden]], [[george-w-bush]], [[bush-saudi-financial-ties-claims]]. Updated: [[george-h-w-bush]], [[james-baker]], [[index]].
+
+Summary: A partisan clip compilation (speakers unnamed) asking who benefited from 9/11: the Carlyle Group, on which both Bushes worked and whose investors included the bin Laden family, held its investor conference at the Ritz-Carlton on the morning of 9/11 (Bush Sr., Baker, John Major, Shafik bin Laden named as attendees); Carlyle's United Defense IPO earned $237M in a day; Bush Sr. stayed as Asia board adviser; the White House denies any ethical conflict; and a closing clip alleges $1.4 billion in Saudi money to the Bush family. One commentator says Carlyle is about money, not conspiracy. No UFO content.
+
+Judgment calls: (1) No new relation types. (2) ASR: "Carlile"=Carlyle, "Shafik" spelling kept as in the source. (3) John Major left inline without a page. (4) Music/lyrics segment (4:53-5:44) ignored.

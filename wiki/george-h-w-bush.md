@@ -69,6 +69,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/911mmry/911MmRy - 2008-02-12 - Carlyle Group - Bush connection to Bin Laden.md"
+    label: "Carlyle Group - Bush connection to Bin Laden (911MmRy)"
 ---
 
 
@@ -208,3 +210,11 @@ Trento, Anthony Kimery and Whitney Webb. *([ewa/bush-1](../raw/ewa/Eyes Wide Ope
 ## Additional claims (jm/jorjani-hitler)
 
 - Jorjani blames Bush, allegedly briefed on the UFO file, for the deliberate destruction of the Soviet Union as part of a worldview war. See [[thousand-year-reich-worldview-war-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 2:50:01, 2:55:52)*
+
+## Claims (911mmry/carlyle)
+
+The 911mmry clip compilation is partisan and its speakers are unnamed.
+
+- Worked for the [[carlyle-group]] (as did [[george-w-bush]]), which counted the [[bin-laden-family]] among its investors; he was at Carlyle's 9/11-morning investor conference but left that morning. *(*([911mmry/carlyle](<../raw/911mmry/911MmRy - 2008-02-12 - Carlyle Group - Bush connection to Bin Laden.md>) 0:16,)*)*
+- Stayed on as senior adviser to Carlyle's Asia board for two more years after the bin Laden family withdrew. *(*([911mmry/carlyle](<../raw/911mmry/911MmRy - 2008-02-12 - Carlyle Group - Bush connection to Bin Laden.md>) 2:06)*)*
+- A commentator says he met the bin Laden family while Osama was a wanted terrorist, and visited the Saudi royal family on Carlyle's behalf; he receives daily CIA briefings as an ex-president. See [[bush-saudi-financial-ties-claims]]. *(*([911mmry/carlyle](<../raw/911mmry/911MmRy - 2008-02-12 - Carlyle Group - Bush connection to Bin Laden.md>) 2:14,)*)*

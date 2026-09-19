@@ -168,7 +168,7 @@ which transcripts still await ingestion.
 | `mpu/secret-society` | `raw/mpu/More Perfect Union - 2026-02-24 - We Uncovered The Most Infamous Secret Society_ And The Truth Is Shocking.md` | We Uncovered The Most Infamous Secret Society: And The Truth Is Shocking (More Perfect Union) | true |
 | `rjm/city-of-london` | `raw/rjm/Richard J Murphy - 2026-05-17 - The secret power behind the City of London.md` | The Secret Power Behind the City of London (Richard J Murphy) | true |
 | `yogsoggeth/schneider` | `raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md` | Phil Schneider - November 1995 (Full Video) (Yogsoggeth) | true |
-| `911mmry/carlyle` | `raw/911mmry/911MmRy - 2008-02-12 - Carlyle Group - Bush connection to Bin Laden.md` | Carlyle Group - Bush connection to Bin Laden (911MmRy) | false |
+| `911mmry/carlyle` | `raw/911mmry/911MmRy - 2008-02-12 - Carlyle Group - Bush connection to Bin Laden.md` | Carlyle Group - Bush connection to Bin Laden (911MmRy) | true |
 | `banijay/nazi-elite` | `raw/banijay/Banijay Documentaries - 2023-07-20 - Secrets of the Nazi Elite - Inside Secret Societies - S01 EP1 - Investigative Documentary.md` | Secrets of the Nazi Elite - Inside Secret Societies - S01 EP1 - Investigative Documentary (Banijay Documentaries) | false |
 | `brof_stein/nazi-brands` | `raw/brof_stein/Brofessor Stein - 2025-07-23 - Every Major Brand with Nazi Ties Explained By a German.md` | Every Major Brand with Nazi Ties Explained By a German (Brofessor Stein) | false |
 | `finaius/rothschild` | `raw/finaius/FINAiUS - 2023-11-18 - Empire of Shadows - True Story of the Richest Family in History.md` | Empire of Shadows: True Story of the Richest Family in History (FINAiUS) | true |
