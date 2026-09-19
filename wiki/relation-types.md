@@ -88,3 +88,4 @@ asymmetric (the inverse is implied, not separately stored). Symmetric ones are n
 | `accuses` | person → person/org | publicly alleges wrongdoing, co-option or disinformation by the target, as the source's own claim (not fact); distinct from `alleged_by`, which points at the claimant | no |
 | `child_of` | person → person | parent-child kinship, child to parent; used by `oompa/maxwells` | no |
 | `founded_by` | org → person | founder of an organization, from the org's point of view (inverse of `founded`, used where the org page is the subject) | no |
+| `collaborated_with` | org/person → org/concept/regime | business or operational cooperation with a named regime or program, alleged by a source (used by `brof_stein/nazi-brands`) | no |

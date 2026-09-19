@@ -1309,3 +1309,11 @@ Source: raw/banijay/ (key `banijay/nazi-elite`), https://www.youtube.com/watch?v
 Summary: Documentary on Nazi occult secret societies: Himmler's Wewelsburg castle rituals and black sun, the Thule and Vril societies (a Bavarian seance with a channelled Aldebaran saucer blueprint, Foo Fighters), Dietrich Eckart as Hitler's mentor, the Lebensborn program, and Himmler's Templar/Ark/Grail relic quest. Interviewees are Theo Paijmans, Michael Fitzgerald, Andrew Gough, Ross Andrews; all attributed claims.
 
 Judgment calls: (1) No new relation types. (2) ASR: "bevelsberg/devilsburg"=Wewelsburg, "Brill/real/thrill"=Vril, "Eckhart"=Eckart, "Lebensborg/laban's born"=Lebensborn, "pymans"=Paijmans (spelling uncertain). (3) Hess, Bormann, Schacht, Bush and Paperclip are not mentioned in this source, so those pages were not touched. (4) Left inline: Alfred Rosenberg, Maria Orsic, Gisela Heidenreich, expert interviewees, Royston Cave.
+
+## [2026-09-19] ingest | Every Major Brand with Nazi Ties Explained By a German | Brofessor Stein (2m6s)
+
+Source: raw/brof_stein/ (key `brof_stein/nazi-brands`), https://www.youtube.com/watch?v=e_CwbFsTsoA by Brofessor Stein, dated 2025-07-23; ~21m. Created 13 pages: [[nazi-brands-video-2025]], [[nazi-era-corporate-collaboration-claims]], [[ibm]], [[deutsche-bank]], [[general-motors]], [[ford-motor-company]], [[itt-corporation]], [[daimler-benz]], [[volkswagen]], [[quandt-family]], [[loreal]], [[kodak]], [[coca-cola-company]]. Updated: [[jpmorgan-chase]], [[ig-farben]], [[standard-oil]], [[hjalmar-schacht]], [[relation-types]], [[index]].
+
+Summary: Rapid-fire video on 24 companies with alleged Nazi-era ties (forced labor, financing, arms and vehicle production, postwar reparations funds), with a disclaimer that details may be oversimplified. No UFO content; useful background for the Nazi-era and business-elite threads.
+
+Judgment calls: (1) New relation type `collaborated_with`. (2) ASR: "Yalma Shakt"=Hjalmar Schacht, "Rukandra"=Rueckwanderer/Registered Mark scheme (spelling kept), "Kwand"=Quandt, "Meredus Ben"=Mercedes-Benz, "Ziggnalba" unclear. (3) Adidas/Puma, Siemens, Hugo Boss, AP, Dr. Oetker, Continental, Lufthansa, Nestle, Bayer kept inline on the concept/hub pages without own pages. (4) Prescott Bush and Paperclip are not mentioned in this source.

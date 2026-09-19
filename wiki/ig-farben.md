@@ -13,6 +13,8 @@ sources:
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/brof_stein/Brofessor Stein - 2025-07-23 - Every Major Brand with Nazi Ties Explained By a German.md"
+    label: "Every Major Brand with Nazi Ties Explained By a German (Brofessor Stein)"
 ---
 
 IG Farben was a German chemical/pharmaceutical conglomerate formed in the 1920s that became one
@@ -52,3 +54,7 @@ the Dulles brothers' Nazi-era business entanglements.
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]]: its representative (Hermann Schmidt) allegedly attended the [[maison-rouge-meeting-1944]], and it had mutual-monopoly arrangements with Standard Oil. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:19:16, 1:20:05)*
+
+## From Brofessor Stein (nazi-brands)
+
+- The video calls IG Farben a key industrial backer of the regime: Zyklon B, a synthetic rubber plant near Auschwitz with 35,000 forced laborers, a direct SS deal for slave labor (over 83,000 at Auschwitz), experiments on prisoners tied to Josef Mengele, the IG Farben war crimes trial (Fritz ter Meer sentenced to seven years, later chairman of Bayer's supervisory board), dissolution in 1952 into Bayer, BASF and other successors. *([brof_stein/nazi-brands](<../raw/brof_stein/Brofessor Stein - 2025-07-23 - Every Major Brand with Nazi Ties Explained By a German.md>) 9:08-10:23)* It also allegedly had close ties to [[standard-oil]] and a proposed cartel, and was financed via [[deutsche-bank]] loans for the Auschwitz facilities. *([brof_stein/nazi-brands](<../raw/brof_stein/Brofessor Stein - 2025-07-23 - Every Major Brand with Nazi Ties Explained By a German.md>) 13:02-13:52)* See [[nazi-brands-video-2025]].

@@ -14,6 +14,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/brof_stein/Brofessor Stein - 2025-07-23 - Every Major Brand with Nazi Ties Explained By a German.md"
+    label: "Every Major Brand with Nazi Ties Explained By a German (Brofessor Stein)"
 ---
 
 Hjalmar Schacht was Hitler's personal banker, saved from Nuremberg sentencing by
@@ -46,3 +48,7 @@ preserve useful Nazi elements after the war.
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda says Schacht visited Sukarno urging a Muslim bloc and an anti-IMF fund tied to Nazi gold. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:13:40)*
+
+## From Brofessor Stein (nazi-brands)
+
+- The video says the Reich Ministry of Economics under Schacht launched schemes like the Rukandra program to raise dollars to cover a trade deficit from rearmament imports; [[jpmorgan-chase]]'s predecessor Chase National Bank allegedly facilitated it. *([brof_stein/nazi-brands](<../raw/brof_stein/Brofessor Stein - 2025-07-23 - Every Major Brand with Nazi Ties Explained By a German.md>) 0:08-0:37)* See [[nazi-era-corporate-collaboration-claims]].

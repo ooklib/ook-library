@@ -170,7 +170,7 @@ which transcripts still await ingestion.
 | `yogsoggeth/schneider` | `raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md` | Phil Schneider - November 1995 (Full Video) (Yogsoggeth) | true |
 | `911mmry/carlyle` | `raw/911mmry/911MmRy - 2008-02-12 - Carlyle Group - Bush connection to Bin Laden.md` | Carlyle Group - Bush connection to Bin Laden (911MmRy) | true |
 | `banijay/nazi-elite` | `raw/banijay/Banijay Documentaries - 2023-07-20 - Secrets of the Nazi Elite - Inside Secret Societies - S01 EP1 - Investigative Documentary.md` | Secrets of the Nazi Elite - Inside Secret Societies - S01 EP1 - Investigative Documentary (Banijay Documentaries) | true |
-| `brof_stein/nazi-brands` | `raw/brof_stein/Brofessor Stein - 2025-07-23 - Every Major Brand with Nazi Ties Explained By a German.md` | Every Major Brand with Nazi Ties Explained By a German (Brofessor Stein) | false |
+| `brof_stein/nazi-brands` | `raw/brof_stein/Brofessor Stein - 2025-07-23 - Every Major Brand with Nazi Ties Explained By a German.md` | Every Major Brand with Nazi Ties Explained By a German (Brofessor Stein) | true |
 | `finaius/rothschild` | `raw/finaius/FINAiUS - 2023-11-18 - Empire of Shadows - True Story of the Richest Family in History.md` | Empire of Shadows: True Story of the Richest Family in History (FINAiUS) | true |
 | `lei/epstein-backchannel` | `raw/lei/Lei's Real Talk - 2026-02-23 - Epstein’s Backchannel - The Secret Pipeline Between Wall Street and Beijing.md` | Epstein's Backchannel: The Secret Pipeline Between Wall Street and Beijing (Lei's Real Talk) | true |
 | `mm/vanderbilt` | `raw/mm/MagnatesMedia - 2022-05-06 - The Most BRUTAL Businessman In History.md` | The Most BRUTAL Businessman In History (MagnatesMedia) | true |

@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/mm/MagnatesMedia - 2023-11-19 - Rockefeller - The World’s First Billionaire.md"
     label: "Rockefeller: The World's First Billionaire (MagnatesMedia)"
+  - file: "raw/brof_stein/Brofessor Stein - 2025-07-23 - Every Major Brand with Nazi Ties Explained By a German.md"
+    label: "Every Major Brand with Nazi Ties Explained By a German (Brofessor Stein)"
 ---
 
 Oil-refining company built by [[john-d-rockefeller]] into the dominant US monopoly, nicknamed "The Octopus" for its pipeline network. MagnatesMedia presents it as the archetype of predatory monopoly, ended by a federal antitrust suit in 1911 ([[standard-oil-dissolution-1911]]).
@@ -34,3 +36,7 @@ Oil-refining company built by [[john-d-rockefeller]] into the dominant US monopo
 ## Relationships
 
 - Founded by [[john-d-rockefeller]] with [[henry-flagler]]; adversary of [[thomas-a-scott]]; attacked by [[ida-tarbell]] and [[theodore-roosevelt]]. See [[rockefeller-family]] and [[rockefeller-first-billionaire-documentary-2023]].
+
+## From Brofessor Stein (nazi-brands)
+
+- The video says Standard Oil, via a German subsidiary in which it held 50%, dominated Germany's fuel market by 1935, had close ties to [[ig-farben]] and tried to form a cartel (Standard over oil, Farben over chemicals), allegedly withheld synthetic rubber technology from the US, used forced labor including at a Stutthof sub camp, and was party to a blocked $24 million deal to transfer Hungarian plants to Nazi control; it is today Exxon Mobil. *([brof_stein/nazi-brands](<../raw/brof_stein/Brofessor Stein - 2025-07-23 - Every Major Brand with Nazi Ties Explained By a German.md>) 12:46-13:37)* See [[nazi-era-corporate-collaboration-claims]].

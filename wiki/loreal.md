@@ -1,20 +1,25 @@
 ---
-title: L’Oréal
+title: L'Oreal
 kind: organization
-aliases: [L Oreal, L'Oreal]
-tags: [france, cosmetics, industry]
-relations: []
+aliases: [L'Oréal, Lural]
+tags: [french-company, nazi-era, cosmetics]
+relations:
+  - relation: collaborated_with
+    target: nazi-era-corporate-collaboration-claims
+    note: "founder Eugene Schueller alleged Nazi collaborator and La Cagoule financier"
 sources:
-  - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
-    label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
+  - file: "raw/brof_stein/Brofessor Stein - 2025-07-23 - Every Major Brand with Nazi Ties Explained By a German.md"
+    label: "Every Major Brand with Nazi Ties Explained By a German (Brofessor Stein)"
 ---
 
-L'Oréal, the French cosmetics company founded by [[eugene-schueller]], is cited by Eyes Wide Open (via a 2011 New Yorker article) as having hosted meetings of [[la-cagoule]] and its associated collaborationist party at its offices and hired former members after the war. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 4:56-5:16)*
+L'Oreal is the world's largest cosmetics company. The video alleges its founder Eugene Schueller collaborated with the Nazis.
 
 ## Claims
 
-- Alleged venue for La Cagoule meetings and post-war employer of its members. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 4:56-5:16)*
+- Schueller, grandfather of current heiress Francoise Bettencourt Meyers (transcribed 'Aris Franis Betonur mayors'), was a known anti-semite who financed the violent fascist group La Cagoule, hosted meetings at L'Oreal HQ and was linked to its crimes, including synagogue bombings and political assassinations. *([brof_stein/nazi-brands](<../raw/brof_stein/Brofessor Stein - 2025-07-23 - Every Major Brand with Nazi Ties Explained By a German.md>) 2:49-3:13)*
+- Through his Valentine paint company he partnered with German firm Dukab to supply the German Navy; his income allegedly rose nearly tenfold from 1940 to 1943; he collaborated with SS commander Helmut Knochen and was involved in the deportation of French Jews and execution of resistance fighters. *([brof_stein/nazi-brands](<../raw/brof_stein/Brofessor Stein - 2025-07-23 - Every Major Brand with Nazi Ties Explained By a German.md>) 3:13-3:35)*
+- Charged with collaboration but never convicted; after the war L'Oreal hired several La Cagoule members, including Jacques Corrèze, who became CEO of L'Oreal USA. *([brof_stein/nazi-brands](<../raw/brof_stein/Brofessor Stein - 2025-07-23 - Every Major Brand with Nazi Ties Explained By a German.md>) 3:35-3:49)*
 
 ## Relationships
 
-- Founded by [[eugene-schueller]], alleged funder of [[la-cagoule]].
+- Part of [[nazi-brands-video-2025]] and [[nazi-era-corporate-collaboration-claims]].
