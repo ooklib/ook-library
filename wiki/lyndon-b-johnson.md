@@ -27,6 +27,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
     label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Lyndon Johnson appears in War Conspiracy 1 as one of the two politicians (with [[richard-nixon]])
@@ -78,3 +80,7 @@ whom [[eyes-wide-open]] says the [[china-lobby]] "effectively elevated," and who
 ## Additional (ewa/dallas-5)
 
 - Host: with LBJ's and McNamara's help General Dynamics ([[henry-crown]]) won the 1962 TFX contract; the ensuing scandal haunted LBJ and McNamara until it vanished after JFK's death. LBJ and family also stayed at Las Brisas ([[frank-brandstetter]]). *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 14:56-15:58, 13:54-14:09)*
+
+## Additional claims (jm/malmgren)
+
+- [[harald-malmgren]] says that in October 1964 (arriving from DoD) he was sent secretly to Tokyo to see PM Sato with a message asking Japanese textile-export restraint, the origin of voluntary export restraints, and that LBJ went to Los Alamos after Bluegill. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 3:26:59-3:31:11, 1:11:32-1:11:56)*

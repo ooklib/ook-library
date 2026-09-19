@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 The Vatican Bank (Istituto per le Opere di Religione, IOR), per Eyes Wide Open, served as the
@@ -49,3 +51,7 @@ public yearly financial disclosures.
 - Laundering vehicle used by the [[office-of-strategic-services]]/CIA-linked network and the
   Mafia to fund [[operation-gladio]]; accountable to [[pope-pius-xii]]; funded
   [[christian-democracy-italy]] via [[catholic-action]].
+
+## Additional claims (jm/malmgren)
+
+- [[harald-malmgren]] says that in 1973, with Pete Peterson, he met "Archbishop Minkus", former archbishop of Chicago and head of the Vatican bank, who described a tripartite way of defending against communism (Pope/Vatican, elected government, Sicilian mafia) and knew of Malmgren's boyhood mafia-dominated Rhode Island community. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 3:09:25-3:10:57)*

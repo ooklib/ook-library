@@ -28,11 +28,16 @@ relations:
   - relation: coincides_with
     target: saf-aa
     note: "Gerb: SDI's 1981-1986 founding window parallels the alleged Aldridge-era SAF/AA 'outside activities' cover reforms"
+  - relation: alleged_by
+    target: harald-malmgren
+    note: "host ties to Bluegill via Teller/Excalibur"
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 President Ronald Reagan's 1983 Strategic Defense Initiative (SDI, "Star Wars") was a proposed
@@ -102,3 +107,7 @@ programs.
   [[project-brilliant-buzzard]] and the [[defense-advanced-research-center]]; also a major
   contract vehicle for [[trw]] ([[talon-gold]], led by [[donald-c-winter]]); temporally
   coincides with the alleged [[saf-aa]] reform period.
+
+## Additional claims (jm/malmgren)
+
+- Host speculation: [[bluegill-triple-prime]] inspired Edward Teller's X-ray Excalibur designs, the basis of Reagan's SDI; SDI's satellite tracking network is likened to an "immaculate constellation" for UFO shootdown/tracking; and, if the shootdown idea came from the Roswell survivor (per Malmgren via his daughter), SDI may have been dual-use. *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:28:18-1:29:13)**)*

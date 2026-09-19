@@ -24,6 +24,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Oak Ridge National Laboratory is a DOE-sponsored FFRDC founded during the Manhattan Project era,
@@ -53,3 +55,7 @@ administered by [[battelle-memorial-institute|Battelle Memorial Institute]].
 
 - DOE FFRDC administered by [[battelle-memorial-institute]]; employs [[sean-kirkpatrick]]; former
   advisory-board seat held by [[stephanie-osullivan]].
+
+## Additional claims (jm/malmgren)
+
+- [[harald-malmgren]] says Senator Howard Baker sent him for days at Oak Ridge; the lab claimed to know more about filters than anyone; Malmgren received an early letter from Oak Ridge about atomic bomb engineering. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 2:51:31-2:53:46, 20:07-20:16)*

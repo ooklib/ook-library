@@ -10,6 +10,9 @@ relations:
   - relation: influenced
     target: operation-mongoose
     note: "devised the White House Cuba program with RFK and Lansdale"
+  - relation: alleged_by
+    target: harald-malmgren
+    note: "claims JFK knew of UFOs via Naval Intelligence and Forrestal"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
@@ -25,6 +28,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
     label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the president who inherited [[laos]] from [[dwight-d-eisenhower]], approved and then cancelled the planned bombing ([[operation-milpond]]), and pursued a diplomatic settlement. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 52:54-53:18, 1:08:52-1:09:10)*
@@ -76,3 +81,9 @@ US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the presi
 - Host claims that JFK and RFK diverged from the "hawkish Cold War security blob" around them: the Kennedy White House was actively seeking a thaw with the Soviet Union and, taking JFK at his word, an end to the Cold War; JFK backed decolonial movements (Algeria 1957, Congo 1960, de-escalation in Laos and Vietnam); and the Kennedys stood against foreign interference and the "burgeoning Zionist lobby" (host cites his earlier video on the Israeli nuclear controversy and JFK's opposition to a nuclearized Middle East). Host's characterization, presented as his research conclusion. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 3:04-4:21)*
 - Host: the ruling class understood these positions were not superfluous, so JFK and later RFK were "untenable figures in the US Empire" who "had to be dealt with." *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 4:21-4:33)*
 - Host rejects the "dark Camelot" revisionist reading. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 3:04-3:11)*
+
+## Additional claims (jm/malmgren)
+
+- [[harald-malmgren]]: JFK "fully knew all about UFOs long before he became president" from naval intelligence and [[james-v-forrestal]]; JFK and LBJ went to Los Alamos to be briefed after [[bluegill-triple-prime]]; JFK wanted to share UFO knowledge with Russia, alarming some officials; UFOs were "probably the number one issue" behind his death (pure speculation); Malmgren never spoke to him about UFOs, and JFK's brother-in-law (Shriver) was in touch with Malmgren. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 2:17:18-2:17:41, 2:19:17-2:20:00, 2:21:11-2:21:44, 1:11:32-1:11:56)*
+- Host: a disputed 2005-FOIA letter from JFK to acting CIA director [[john-mccone]] asks for NASA's UAP data to coordinate with the Russians; host says the 1971 SALT language reflects similar deconfliction. Host also cites Douglas Caddy saying Howard Hunt finally told him the JFK murder was "about the alien presence". *(Host; unverified:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 2:16:05-2:17:16, 2:18:42-2:19:13)**)*
+- Host relays a Gorbachev anecdote (Charlie Rose interview) of Reagan whispering an offer of mutual help against an attack from outer space. *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 2:24:59-2:25:49)**)*

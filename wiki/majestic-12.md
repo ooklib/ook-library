@@ -14,6 +14,9 @@ relations:
     note: "Gerb: MJ-12 (or its successor) allegedly continued as the control group hidden within the 5412 Committee"
   - relation: coincides_with
     target: interplanetary-phenomenon-unit
+  - relation: associate_of
+    target: harald-malmgren
+    note: "first person 'of this caliber' to use the name, per host"
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -23,6 +26,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
@@ -91,3 +96,8 @@ MJ1 if you use Majestic 12 terminology." *([gerb/mitre](../raw/gerb/mitre.md) 1:
 - Alleged to have continued as a control group through the [[nsc-5412-committee]]; overlaps with
   the disputed [[interplanetary-phenomenon-unit]] documents, which independently name
   [[george-c-marshall]] and [[james-v-forrestal]].
+
+## Additional claims (jm/malmgren)
+
+- Host: [[harald-malmgren]], a four-president adviser, uses "majestic" in the video: he says he was told his name went "in all the important books of talent" kept by the CIA and "all the majestic ... guardians" who "protect the world" (ASR garbled; the speaker appears to be Christian Herter). Host judges he used it casually and probably meant a continuity-of-government contingency committee (5412, 303 Committee, Committee of 40) rather than only an extraterrestrial group, while noting the possibility that it is the counter-intelligence usage. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 3:40:52-3:43:06, 4:06-4:39)*
+- Host repeats that [[james-v-forrestal]] was supposedly on MJ-12, and that MJ-12 as an elite advisory board for Truman and Eisenhower is disputed. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:57:38-1:57:53)*

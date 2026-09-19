@@ -24,6 +24,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 The Department of Energy (created 1977, successor via ERDA to the
@@ -68,3 +70,7 @@ authority that evades unilateral oversight from the standard US classification s
 - Present throughout the [[ufo-legacy-programs]] pyramid; statutory sponsor of
   [[los-alamos-national-laboratory]] and [[sandia-national-laboratories]]; successor (via ERDA)
   to the [[atomic-energy-commission]]; operates the [[national-nuclear-security-administration]].
+
+## Additional claims (jm/malmgren)
+
+- [[harald-malmgren]] says DOE-run national labs, successor to the AEC, hold the country's most advanced science (e.g. filtration research at Oak Ridge, told to him by Senator Howard Baker's contacts) with no mechanism to commercialise it. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 2:50:39-2:53:46)*

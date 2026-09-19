@@ -30,6 +30,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 The National Nuclear Security Administration (NNSA), established in 2000 as a semi-autonomous
@@ -101,3 +103,7 @@ critical layer of UFO legacy-program custody, recovery, and continental-US trans
   [[lawrence-livermore-national-laboratory]] as its three multi-mission-laboratory FFRDCs.
 - Operates the [[nevada-national-security-site]], [[office-of-secure-transportation]], and
   [[doe-nuclear-emergency-support-team]]; mission partner to [[defense-threat-reduction-agency]].
+
+## Additional claims (jm/malmgren)
+
+- Host: a June 2022 NNSA FOIA response on Starfish Prime/UFO records said an additional subject-matter-expert review was required, read by the host as a tacit admission of responsive records. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:06:56-1:07:55)*

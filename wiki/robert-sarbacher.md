@@ -15,6 +15,8 @@ relations:
 sources:
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Dr. Robert Sarbacher, a respected physicist and 1950s consultant to the DoD's Research and
@@ -52,3 +54,7 @@ case. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:54:24–1:54:42)*
 
 - Sourced claims to Wilbert B. Smith (1950) and William Steinman (1980s) naming
   [[vannevar-bush]] and [[j-robert-oppenheimer]] as likely UFO crash-retrieval participants.
+
+## Additional claims (jm/malmgren)
+
+- Host: Sarbacher told Stanton Friedman that MIT president [[carl-compton]] was briefed on UFO technology at Wright Field in 1950, and is cited saying UFO secrecy ranks above the hydrogen bomb. *(Host, second-hand:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 21:47-22:26)**)*

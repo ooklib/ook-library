@@ -21,6 +21,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Registry of directed relation types used across the wiki's `relations:` frontmatter. Most are
@@ -63,3 +65,4 @@ asymmetric (the inverse is implied, not separately stored). Symmetric ones are n
 | `associate_of` | person/org ↔ person/org | criminal, business, or working partnership alleged by a source, without a formal employment/membership hierarchy | **yes** |
 | `worked_at` | person → place | employed at a specific hotel/site where the place (not an org) is the node; used instead of `employed_by` | no |
 | `trained_by` | person → person | received tradecraft training/instruction from another individual, distinct from formal employment | no |
+| `briefed_by` | person → person | received a claimed private briefing (UFO/legacy-program or otherwise) from another individual, alleged; distinct from `trained_by` (tradecraft instruction) | no |

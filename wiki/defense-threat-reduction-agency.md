@@ -21,6 +21,8 @@ relations:
 sources:
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 The Defense Threat Reduction Agency (DTRA, colloquially "Ditra"), a DoD combat-support agency for
@@ -70,3 +72,7 @@ and an annual budget of roughly $2 billion. *([gerb/sandia](../raw/gerb/sandia.m
 - Mission partner to the [[national-nuclear-security-administration]] and
   [[sandia-national-laboratories]]; named by [[dylan-borland]] as holding old AEC UFO-related
   files; a listed government customer of [[area-6]].
+
+## Additional claims (jm/malmgren)
+
+- Host: in 1998 the Defense Special Weapons Agency (DTRA's predecessor), led by Dr. Byron Ristvet, sanitized the declassified [[bluegill-triple-prime]] footage with a white triangle. *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:05:37-1:05:58)**)*

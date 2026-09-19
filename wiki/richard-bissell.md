@@ -22,6 +22,9 @@ relations:
   - relation: associate_of
     target: mcgeorge-bundy
     note: "former Yale professor of Bundy; private talks on assassination per Hinckle and Turner"
+  - relation: associate_of
+    target: harald-malmgren
+    note: "alleged Friday-afternoon 'otherworld technologies' briefings, per Malmgren"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
@@ -31,6 +34,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Richard Bissell is described by [[eyes-wide-open]] as an OSS "old boy" and covert operator from the former [[office-of-policy-coordination]] whom [[frank-wisner]] put in charge of planning [[operation-pbsuccess]] in 1954; he entrusted [[e-howard-hunt]] with a major covert role there. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 13:38-14:19)*
@@ -64,3 +69,9 @@ Richard Bissell is described by [[eyes-wide-open]] as an OSS "old boy" and cover
 - Wiki-internal observations (not made in this transcript): the IDA and NRO pages elsewhere in this wiki come from the UFO-legacy-program thread ([[institute-for-defense-analyses]], [[national-reconnaissance-office]], [[lockheed-martin]]), so Bissell's post-CIA landing spot and his spy plane/satellite portfolio are a bridge to that thread.
 - Replaced by [[richard-helms]] on February 17, 1962. Taught [[mcgeorge-bundy]] at Yale and, per Hinckle and Turner, spoke privately with him about assassination programs. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 17:18-17:25, 34:50-35:38)*
 - Per the 1967 IG report he asked [[william-harvey]] in February 1961 to establish [[zr-rifle]]; per the Church timeline he said he was "twice urged by the White House." *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:06:22-1:06:43, 1:07:41-1:08:01)*
+
+## Additional claims (jm/malmgren)
+
+- [[harald-malmgren]] claims Bissell, then CIA deputy director for plans, phoned him a few months after the missile crisis and, over Friday-afternoon whiskey, briefed him on "otherworld technologies" (they still called them UFOs). Bissell allegedly said the phenomena "presented forces that were beyond CIA's knowledge or control", interfered with the CIA's dealings with private industry (Lockheed Martin around atomic tests), are "generically attracted to the tip of the spear" of technology development, that "this didn't start last week", and named the 1933 [[magenta-italy-crash-1933]]. He allegedly said [[allen-dulles]] arranged the steps to move the object, and described conflicting power centres worldwide, including the intelligence community which funds itself. Malmgren says Bissell avoided discussing Bay of Pigs or overthrown governments. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:20:34-1:27:04, 1:31:24-1:32:45, 2:02:42-2:03:39)*
+- Host (second hand, from Malmgren's off-air statements to his daughter, Cruickshank and Senate staffer Kirk McConnell): Bissell told him a UFO monitoring [[bluegill-triple-prime]] was downed and picked up by the Navy; host also notes Bissell founded Area 51 in 1955 next to the Nevada test site and speculates he knew the UFO-nuclear link and the Roswell-survivor story. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:17:31-1:18:10, 1:29:20-1:29:57)*
+- Malmgren calls him "very spiritual", looking for someone connected to "otherworldly forces"; Pippa says Bissell told her father he would need to pass it on "at the right time". *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:30:35-1:31:03, Description)*

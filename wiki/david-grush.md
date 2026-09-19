@@ -30,6 +30,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -183,3 +185,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
   central named source for [[covert-action-program]], [[content-only-special-access-program]],
   and [[yankee-blue]] rebuttal; friend of [[matthew-sullivan]]; reported alleged criminal
   enterprise funding legacy programs to the DOJ.
+
+## Additional claims (jm/malmgren)
+
+- Host: [[harald-malmgren]]'s claim that [[richard-bissell]] mentioned the 1933 [[magenta-italy-crash-1933]] is presented as corroboration of Grush's account. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 3:52-4:01, 1:31:37-1:31:59)*

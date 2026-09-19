@@ -15,6 +15,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Wright-Patterson Air Force Base in Dayton, Ohio, was headquarters of Air Materiel Command (AMC)
@@ -55,3 +57,7 @@ and Air Research and Development Command (ARDC) — forerunners of the modern
   [[air-force-material-command]] (originally Air Materiel Command).
 - Site of [[eric-henry-wang]]'s Special Studies Office role before his 1956 move to
   [[kirtland-air-force-base]].
+
+## Additional claims (jm/malmgren)
+
+- [[harald-malmgren]] says he asked [[curtis-lemay]] about a room at Wright-Patterson where secret material was stored, and LeMay cursed him; host says the Magenta craft went there by 1945; the Bluegill report came from the Flight Dynamics Laboratory there. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 2:33:06-2:33:30, 1:38:21-1:38:45, 1:05:13-1:05:37)*

@@ -26,6 +26,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
     label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 General George C. Marshall — Army Chief of Staff (1939–1945), Secretary of State (1947–1949),
@@ -91,3 +93,7 @@ UFO legacy-program apparatus. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 20:21
 ## Additional claims (ewa/willoughby-2)
 
 - Host: as Pershing's aide in WWI (then Major) his relationship with [[douglas-macarthur]] soured; the "genuine rivalry" peaked when Marshall, as Army chief of staff in WWII, held "ultimate control of MacArthur's divisions in the Pacific". *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 26:48-27:12)*
+
+## Additional claims (jm/malmgren)
+
+- Host and [[harald-malmgren]] observe that many alleged figures in the UFO story (Angleton, Kennedy, Forrestal) appear in Marshall's team and the Marshall Plan, and that Marshall was allegedly briefed on the 1942 Battle of Los Angeles UFO; Malmgren calls it strange but hard to prove. *(Speculative:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:47:40-1:48:16, 1:56:56-1:58:04)**)*

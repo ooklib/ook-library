@@ -36,11 +36,16 @@ relations:
   - relation: participated_in
     target: philippine-american-war
     note: "served 1903 in the Moro-rebellion years"
+  - relation: member_of
+    target: knights-of-malta
+    note: "listed as a Knight with his staff, per host"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md"
     label: "America’s Fascist Spymaster - Willoughby 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
     label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 General Douglas MacArthur was Supreme Commander of Allied forces in the Pacific in WWII and chose [[charles-willoughby]] as his intelligence chief. Willoughby 1 (Dec 19 2025) touches him only briefly; the MacArthur-focused episode Willoughby 2 (Dec 25 2025, "50 Years of Empire Building in the Pacific") supplies the family, career and WWII Pacific detail below, all as [[eyes-wide-open]]'s account and opinion rather than verified fact.
@@ -91,3 +96,7 @@ Source: "The MacArthur Legacy: 50 Years of Empire Building in the Pacific - Will
 ### Wiki-internal notes and discrepancies
 - Willoughby 1 quotes MacArthur in ebullient terms as Willoughby's "second hero"; Willoughby 2's "rubber stampers" and "sycophants" framing is the host's more critical counterpoint, not a contradiction.
 - Host's timing: he says Willoughby was elevated intelligence chief when MacArthur was made supreme commander "in November" 1941 -- I record it as spoken.
+
+## Additional claims (jm/malmgren)
+
+- Host: MacArthur and his intelligence staff were Knights of Malta, displayed interest in "interplanetary war", and MacArthur told West Point cadets in 1955 that "the next war will be an interplanetary war" (quoted by the host). *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:40:08-1:40:35)**)*

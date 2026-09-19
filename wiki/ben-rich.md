@@ -10,6 +10,8 @@ relations:
 sources:
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Ben Rich, the second director of [[skunk-works|Lockheed Skunk Works]] (1975–1991), is famous in
@@ -47,3 +49,7 @@ Lockheed possessed physics-defying, possibly nonhuman-derived technology.
 
 - Director of [[skunk-works]] (Lockheed) 1975–1991; source of the most-cited alleged
   admission-style quotes in [[lockheed-martin]] UFO speculation.
+
+## Additional claims (jm/malmgren)
+
+- Host: [[rand-corporation]]'s long-time president Michael Rich is Ben Rich's son, evidence of "a small group of people that are all interconnected". *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 2:34:21-2:34:43)**)*

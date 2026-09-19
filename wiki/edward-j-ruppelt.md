@@ -13,6 +13,8 @@ relations:
 sources:
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Air Force Captain Edward J. Ruppelt served as director of Project Grudge and, later,
@@ -30,3 +32,7 @@ depicts sensitive material regarding non-human technical vehicles.
 
 - Directed [[project-blue-book]] (and its predecessor, Project Grudge); authored the 1956 book
   documenting the destroyed 1948 Project Sign memo.
+
+## Additional claims (jm/malmgren)
+
+- Host: a 1952 *Look* article quotes Ruppelt saying many sightings originated at one atomic-weapons site or another. *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:00:35-1:00:59)**)*

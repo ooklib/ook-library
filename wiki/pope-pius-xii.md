@@ -12,6 +12,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Pope Pius XII met with [[william-donovan]] at the Vatican in 1945 as the war ended, and per Eyes
@@ -30,3 +32,7 @@ and Vatican worked to secure a Christian Democratic victory.
 
 - Met with [[william-donovan]] in 1945; presided over the [[vatican-bank]] during the alleged
   1948 election interference.
+
+## Additional claims (jm/malmgren)
+
+- Host summary of Grush's account: Pius XII learned of the Magenta retrieval and, fearing Nazi acquisition, back-channelled the craft's existence and location to the Allies. *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:37:37-1:37:54, 1:32:01-1:32:14)**)*

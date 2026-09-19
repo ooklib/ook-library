@@ -10,6 +10,9 @@ relations:
   - relation: employed_by
     target: allen-dulles
     note: "elected president, 1927, per Eyes Wide Open"
+  - relation: overlapping_membership_with
+    target: knights-of-malta
+    note: "some overlap, no connection, per Malmgren"
 sources:
   - file: "raw/gp/Green & Pleasant - 2026-04-10 - Britain's Most Powerful Secret Organisation - Chatham House Exposed.md"
     label: "Britain's Most Powerful Secret Organisation - Chatham House Exposed (Green & Pleasant)"
@@ -19,6 +22,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
     label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 The Council on Foreign Relations (CFR) is a US foreign-policy think tank that, per Green &
@@ -60,3 +65,7 @@ researched or ingested from CFR-focused sources.
 ## Additional claims (ewa/willoughby-2)
 
 - Host: created in 1918 by [[elihu-root]] (Secretary of War/State under the Taft-Roosevelt-Root "triumvirate"), "arguably the most influential US think tank of the 20th century", "beating heart of US internationalism", a policy and lobbying organ of the Wall Street establishment especially after Rockefeller interests adopted it in the 1930s. The host promises to return to it in later videos. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 20:18-21:05)*
+
+## Additional claims (jm/malmgren)
+
+- [[harald-malmgren]], a CFR member for about 50 years, says it was "not really them" but a select group "through Brown Brothers Harriman" that set up the CIA, that the CFR has since diluted and become defensive of whoever is in power. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:50:44-1:52:26)*

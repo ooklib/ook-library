@@ -11,6 +11,8 @@ relations:
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 An electrogravitic propulsion concept discussed in a 1988–90
@@ -41,3 +43,7 @@ Aeronautics Laboratory / Air Force Space Technology Center.
 - Propulsion theory Gerb treats as effectively describing the
   [[alien-reproduction-vehicle-tr3b]]'s alleged MFD; authored under
   [[science-applications-international-corporation]].
+
+## Additional claims (jm/malmgren)
+
+- See [[thomas-townsend-brown]] and [[nikola-tesla]] for [[harald-malmgren]]'s claimed Tesla/Brown antigravity collaboration. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 2:34:43-2:35:15)*

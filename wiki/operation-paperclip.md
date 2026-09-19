@@ -12,6 +12,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
     label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Operation Paperclip is described by [[eyes-wide-open]] in chapter 5 of [[road-to-dallas]] as "the oft-discussed US counterintelligence corps directed program that sought to smuggle out German rocket scientists in the immediate post-war period and to install them in positions in the nascent military-industrial complex and eventually at NASA." *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 19:38-19:56)* This page is a light stub scoped to that video; other wiki pages ([[wernher-von-braun]], [[counter-intelligence-corps]], [[hans-kammler]]) discuss Paperclip from other sources.
@@ -25,3 +27,7 @@ Operation Paperclip is described by [[eyes-wide-open]] in chapter 5 of [[road-to
 ## Relationships
 
 - Involved von Braun ([[wernher-von-braun]]); speculative link to [[frank-brandstetter]].
+
+## Additional claims (jm/malmgren)
+
+- Host: many Paperclip Nazi scientists, including exotic-propulsion specialists, allegedly worked on the Magenta craft at [[wright-patterson-air-force-base]]; [[philip-j-corso]] helped create "rat lines". [[harald-malmgren]] says his friend Tom Farmer, a former CIA general counsel, was involved in picking Germans for Paperclip. *(Host/second-hand:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:38:32-1:38:45, 1:39:37-1:40:08, 1:58:35-1:59:40)**)*

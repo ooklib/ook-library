@@ -11,7 +11,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
 `gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`,
 `rjm/city-of-london`, `mpu/secret-society`, `ewa/oss`, `ewa/sunrise`, `ewa/mafia-allies`,
-`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`, `ewa/laos-4`, `ewa/war-conspiracy-1`, `ewa/war-conspiracy-2`, `ewa/operation-40`, `ewa/cia-mafia`, `ewa/bush-1`, `ewa/bush-2`, `ewa/bush-3`, `ewa/jfk-cia`, `ewa/shackley`, `ewa/jmwave`, `ewa/dallas-0`, `ewa/dallas-1`, `ewa/dallas-2`, `ewa/dallas-3`, `ewa/dallas-4`, `ewa/dallas-5`).
+`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`, `ewa/laos-4`, `ewa/war-conspiracy-1`, `ewa/war-conspiracy-2`, `ewa/operation-40`, `ewa/cia-mafia`, `ewa/bush-1`, `ewa/bush-2`, `ewa/bush-3`, `ewa/jfk-cia`, `ewa/shackley`, `ewa/jmwave`, `ewa/dallas-0`, `ewa/dallas-1`, `ewa/dallas-2`, `ewa/dallas-3`, `ewa/dallas-4`, `ewa/dallas-5`, `jm/malmgren`).
 
 Note: the wiki spans four topic areas — the original alleged "UFO legacy programs" ecosystem
 (MITRE, SAIC, NRO, Lockheed, etc.), a British power-structures thread (Fabian Society, Chatham
@@ -178,7 +178,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[tom-delonge]] · [[william-a-matheny]] · [[ross-coulthart]] · [[karl-nell]] · [[jim-lacatski]] ·
 [[j-andrew-kissner]] · [[george-knapp]] · [[sumner-shapiro]] · [[richard-doty]] ·
 [[eric-henry-wang]] · [[robert-sarbacher]] · [[matthew-sullivan]] · [[harry-reid]] ·
-[[edward-j-ruppelt]]
+[[edward-j-ruppelt]] · [[harald-malmgren]] · [[pippa-malmgren]] · [[lawrence-preston-gise]] ·
+[[geoffrey-cruickshank]] · [[jesse-michels]]
 
 ## People — gatekeepers & officials
 
@@ -205,11 +206,14 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[edgar-mitchell]] · [[wernher-von-braun]] · [[hermann-oberth]] · [[hans-kammler]] ·
 [[franz-xaver-dorsch]] · [[ronald-reagan]] · [[ben-rich]] · [[james-v-forrestal]] ·
 [[edward-dahl]] · [[donald-c-winter]] · [[george-c-marshall]] · [[leslie-groves]] ·
-[[j-robert-oppenheimer]]
+[[j-robert-oppenheimer]] · [[carl-compton]] · [[john-trump]] · [[thomas-townsend-brown]] ·
+[[nikola-tesla]] · [[curtis-lemay]] · [[robert-mcnamara]] · [[paul-mellon]] · [[anatoly-dobrynin]] (added by `jm/malmgren`)
 
 ## Programs / Events
 
 [[draft-eisenhower-movement]] — 1952 Yankee-Republican push (`ewa/bush-1`) · [[cia-mafia-assassination-plots]] — alleged 1960-61+ CIA/mob Castro plots (`ewa/cia-mafia`) · [[jeddah-agreements]]
+
+[[bluegill-triple-prime]] — 1962 high-altitude test with alleged UFO "tagalong" shootdown (`jm/malmgren`) · [[operation-dominic]] — 1962 Fishbowl test series (`jm/malmgren`) · [[cuban-missile-crisis]] — Malmgren's war-room account (`jm/malmgren`) · [[knights-of-malta]] — Vatican-linked order tied to UFO secrecy by Malmgren/host (`jm/malmgren`)
 
 [[ufo-legacy-programs]] · [[sage-semi-automatic-ground-environment]] ·
 [[project-whirlwind]] · [[tic-tac-factory-uso]] · [[roswell-incident-1947]] ·

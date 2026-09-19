@@ -12,6 +12,8 @@ relations:
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Lieutenant Colonel Philip J. Corso, author of *The Day After Roswell* and (per Gerb, the more
@@ -42,3 +44,7 @@ amount of fluff inserted by the book's co-writer." *([gerb/mitre](../raw/gerb/mi
 - Sourced claims to the Army's Foreign Technology Division under [[arthur-trudeau]], contrasted
   by Gerb with MITRE/[[mit-lincoln-laboratory]]'s more "conservative" Air Force/Navy approach to
   [[roswell-incident-1947]] exploitation.
+
+## Additional claims (jm/malmgren)
+
+- [[harald-malmgren]], asked whether advanced technology benefited from retrieved craft (Corso narrative), says yes in two ways (novel propulsion; higher knowledge), and "could be" that Bell Labs received Roswell material; host adds Corso was a Knight of Malta and liaison to a future pope. *(Speculative:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:59:46-2:00:41, 2:55:37-2:56:16, 1:39:30-1:40:08)**)*

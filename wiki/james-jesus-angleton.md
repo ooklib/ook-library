@@ -33,6 +33,9 @@ relations:
   - relation: associate_of
     target: william-harvey
     note: "Harvey's first CIA role was in Angleton's counterintelligence shop"
+  - relation: associate_of
+    target: knights-of-malta
+    note: "father Hugh a Knight; James alleged to be one, per host"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
@@ -54,6 +57,8 @@ sources:
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
     label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 James Jesus Angleton was the OSS station chief in Rome during WWII and, per Eyes Wide Open, would
@@ -144,3 +149,7 @@ viewed [[allen-dulles]] as a mentor and personally helped extract fascist collab
 ## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
 
 - Host: "at least according to recent materials," Angleton, "the ghost," longtime head of CIA counterintelligence, was "the CIA man most clued into the JFK assassination." Cited as context for why an asset's true loyalty is hard to determine. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 8:15-8:29)*
+
+## Additional claims (jm/malmgren)
+
+- [[harald-malmgren]] says the relationship between Angleton's father Hugh and the [[knights-of-malta]] "needs to be uncovered" and speculates James Jesus Angleton may have been involved in the Magenta retrieval kept at the Vatican. The host lists both Hugh and James as Knights, calls Angleton a Dulles protege and the CIA counterintelligence figure over UFO matters from the 1950s-80s, and cites Angleton within George Marshall's team. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:35:09-1:35:44, 1:39:13-1:39:30, 1:42:16-1:43:06, 1:56:56-1:57:38)*

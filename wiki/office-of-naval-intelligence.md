@@ -20,6 +20,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 The Office of Naval Intelligence, founded 1882, is described as the world's oldest intelligence
@@ -57,3 +59,7 @@ agency and the US Navy's premier intelligence arm, part of both the DoD and IC. 
   reverse-engineering program.
 - Per Eyes Wide Open, recruited [[lucky-luciano]]'s dock union via [[operation-underworld]],
   presented as the wartime precedent for the CIA's later [[operation-x]] mafia alliance.
+
+## Additional claims (jm/malmgren)
+
+- [[harald-malmgren]] says [[lawrence-preston-gise]] told him the [[bluegill-triple-prime]] test details were controlled by ONI, the oldest US intelligence agency (1890s), an autonomous entity "more secure than any other", with the CIA not on its approved circulation list, and that ONI still "lives in its own world". *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:12:16-1:13:04, 1:17:13-1:17:31)*

@@ -72,6 +72,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -271,3 +273,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Additional claims (Road to Dallas Ch. 4)
 
 - Host: [[yoshio-kodama]] reemerged in the 1970s as an off-the-books Lockheed consultant in Japan, swaying All Nippon Airways to buy the L-1011: the Japanese component of the Lockheed bribery scandal, to be revisited in a future video. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 29:15-29:40)*
+
+## Additional claims (jm/malmgren)
+
+- [[harald-malmgren]] claims [[richard-bissell]] said there was "a lot of interaction between Lockheed Martin and the CIA" around specific atomic tests and technology development where the UFO phenomenon showed up. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:24:32-1:24:49)*

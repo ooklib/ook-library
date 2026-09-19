@@ -43,6 +43,9 @@ relations:
   - relation: associate_of
     target: willis-bird
     note: "told Bird to contact the future CIA; Thai ambassador 1953-54"
+  - relation: member_of
+    target: knights-of-malta
+    note: "listed as a Knight, per host"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md"
     label: "America’s Fascist Spymaster - Willoughby 1 (Eyes Wide Open)"
@@ -72,6 +75,8 @@ sources:
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
     label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 William "Wild Bill" Donovan was a WWI-hero-turned-Wall-Street-lawyer who became the first (and
@@ -189,3 +194,7 @@ administrator.
 ## Ewa/willoughby-2
 
 - Host: commanded the Fighting 69th in the Rainbow Division under [[douglas-macarthur]] in WWI; pictured together receiving the Distinguished Service Cross; Donovan's Medal of Honor (which MacArthur lacked until WWII) may have caused underlying tension. In 1941 a Coordinator of Information journalist met MacArthur about creating a spy agency for an eastern war and MacArthur "saw no reason" for it; in July 1942 the Pentagon was supportive of an OSS presence in Australia but MacArthur stalled it. See [[allied-intelligence-bureau]]. *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:00:34-1:02:16)*
+
+## Additional claims (jm/malmgren)
+
+- Host: journalist Chris Sharp notes Donovan was likely involved in the Magenta retrieval and in setting up UFO crash-retrieval protocols; Donovan is listed as a Knight of Malta. *(Host, speculative:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:40:35-1:40:51)**)*

@@ -18,6 +18,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Physicist Hal Puthoff sponsored Ferris Williams's propulsion research presented at a June 2001
@@ -50,3 +52,7 @@ UFO technology conference in La Jolla, San Diego. *([gerb/saic](../raw/gerb/saic
 - Sponsor of Biefeld–Brown-related propulsion research ([[biefeld-brown-effect]]); collaborator
   with [[eric-davis]] and [[james-t-ryder]] on the Starfire Project; disputed "ATIP scientist"
   label per [[age-of-disclosure-documentary]].
+
+## Additional claims (jm/malmgren)
+
+- Host says it is now public through Puthoff that George W. Bush contemplated UFO disclosure with Stephen Hadley. *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 5:20-5:30)**)*

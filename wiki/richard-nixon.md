@@ -52,6 +52,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Richard Nixon appears in this episode as a junior California congressman who built his
@@ -133,3 +135,7 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
 
 - Alleged Texas-oil ties: [[clint-murchison]] became a major donor and "favorite son of the Texas oil elite" as the oil men moved from Democrats to Republicans over the depletion allowance; Nixon was a frequent guest as vice president at the Hotel del Charro ([[del-charro-set]]); oil men boosted him in 1960 and 1968. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 9:24-9:55, 38:46-39:00)*
 - Freed [[jimmy-hoffa]] on Dec 23, 1971; host says Nixon was an acquaintance of lobbyist [[irving-davidson]] and speculates on a role for Davidson. Davidson allegedly told Nixon's 1960 campaign manager that "Israeli military intelligence hopes Nixon would become president." *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 41:41-42:41, 43:29-43:44)*
+
+## Additional claims (jm/malmgren)
+
+- Host summary of Danny Sheehan's narrative: Nixon, as head of the 5412 Committee, worked with [[howard-hughes]] to create an "S force" of Cuban exiles that Dulles later allegedly recommissioned to kill JFK; [[harald-malmgren]] replies with mafia anecdotes rather than endorsement. Malmgren also says he advised Nixon and Ford. *(Host, second hand:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 3:01:36-3:03:21)**)*

@@ -24,6 +24,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Los Alamos National Laboratory is a DOE/NSA National Laboratory FFRDC founded during the
@@ -51,3 +53,7 @@ Manhattan Project. *([gerb/mitre](../raw/gerb/mitre.md) 19:32–19:37)*
 - DOE-sponsored [[ffrdc|FFRDC]]; [[donald-kerr]] directed it before his later IC/MITRE career.
 - One of the [[national-nuclear-security-administration]]'s three multi-mission laboratories,
   alongside [[sandia-national-laboratories]] and [[lawrence-livermore-national-laboratory]].
+
+## Additional claims (jm/malmgren)
+
+- [[harald-malmgren]] says he was briefed at Los Alamos by [[lawrence-preston-gise]] with UFO debris handled, and that JFK and LBJ went there after [[bluegill-triple-prime]]; host says a Los Alamos-Livermore rivalry explains why Kettle 1 footage was declassified and Kettle 2 not. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:11:05-1:12:16, 1:06:03-1:06:20)*

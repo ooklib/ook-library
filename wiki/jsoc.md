@@ -19,6 +19,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Joint Special Operations Command. Gerb and journalist [[chris-sharp]] have accused JSOC
@@ -54,3 +56,7 @@ elements of participating in foreign UFO crash-retrieval operations alongside th
   received the [[intelligence-support-activity]] from [[army-intelligence-and-security-
   command]]; works with [[160th-special-operations-aviation-regiment]] and
   [[national-reconnaissance-office]] on alleged crash-retrieval teams.
+
+## Additional claims (jm/malmgren)
+
+- Host: per Seymour Hersh, JSOC head Stanley McChrystal and many JSOC members are Knights of Malta; a DOE official confirms in a clip that DOE works with JSOC. *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:41:14-1:41:59)**)* See [[knights-of-malta]].

@@ -14,6 +14,8 @@ relations:
 sources:
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 James V. Forrestal, Secretary of the Navy (and later first US Secretary of Defense), co-founded
@@ -40,3 +42,7 @@ window — a death Gerb notes in passing as suspicious. *([gerb/sandia](../raw/g
 
 - Co-founded [[armed-forces-special-weapons-project]] with Robert P. Patterson, January 1947.
 - Alleged original [[majestic-12]] member alongside [[vannevar-bush]].
+
+## Additional claims (jm/malmgren)
+
+- [[harald-malmgren]] says [[john-f-kennedy]] learned about UFOs from Forrestal in naval intelligence, and that he found several references to Forrestal going to Paris with questions and getting answers; he thinks Forrestal's death "probably" had to do with UFOs but will not speculate. Host cites Admiral Byrd's Operation Highjump as Forrestal-linked and repeats the MJ-12 membership rumor. *(Speculation:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 2:19:17-2:20:40, 2:22:50-2:23:42, 1:57:38-1:57:53)**)*

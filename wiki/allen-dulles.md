@@ -55,6 +55,9 @@ relations:
   - relation: member_of
     target: georgetown-set
     note: "known to drop by; host"
+  - relation: associate_of
+    target: paul-mellon
+    note: "saucer anecdote per host"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
     label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
@@ -92,6 +95,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
+    label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -279,3 +284,8 @@ calls him "arguably one of, if not the most important person in modern American 
 ## Additional claims (The CIA's Blond Ghost, ewa/shackley)
 
 - Host: as deputy director then director (Feb 1953) with Wisner, he pushed [[reinhard-gehlen]] to prioritize agents for Russia and to form the commando force ([[galen-commando-program]]); the host wonders whether he arranged [[franz-six]]'s early release via McCloy ("we'll never know"). *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 42:22-42:54, 44:51-45:05, 52:15-52:37)*
+
+## Additional claims (jm/malmgren)
+
+- [[harald-malmgren]] says Bissell told him Dulles arranged the steps by which the Magenta object reached the US and that Dulles ran the OSS from Switzerland; on visiting Dulles's Bern-era apartment as a US trade official Malmgren was told Dulles wanted to be beyond US law, "to allow him a free hand to do the most terrible things if needed". Malmgren calls him "a creepy guy". *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:32:25-1:34:59)*
+- Host: after Bay of Pigs Dulles and LeMay were at loggerheads with JFK, and Dulles (fired) was at Brown Brothers Harriman plotting revenge, per the Danny Sheehan narrative Malmgren neither endorses nor denies (see [[john-f-kennedy]]). Host also relays [[paul-mellon]]'s anecdote of standing on a saucer with Dulles in Czechoslovakia. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 50:06-50:51, 3:00:39-3:03:13, 1:43:10-1:44:39)*
