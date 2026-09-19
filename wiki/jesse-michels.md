@@ -27,6 +27,8 @@ sources:
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Jesse Michels is the host of the American Alchemy YouTube channel (registry channel `jm`), which conducts long-form interviews on UFO/UAP, deep politics and secret science. The channel's sponsor/advertisement segments are not recorded in this wiki.
@@ -61,3 +63,7 @@ Jesse Michels is the host of the American Alchemy YouTube channel (registry chan
 
 - Hosted [[jason-samosa]] in an episode ("The UFO Cover-Up Leads to One Secret Society - and One Final Event", 2026-07-14, about 2h31m) covering Vallee, the [[collins-elite]], the [[the-family-fellowship]], [[tom-delonge]]'s story, [[presidential-ufo-briefing-claims]], the [[world-commerce-corporation]] and [[maynard-consortium]], Nazi disc craft, [[alien-human-hybridization-claims]], and the Vatican. Michels contributes host commentary such as the Nixon-as-outsider view, the Epstein/Maxwell science-suppression thread, and [[thomas-townsend-brown]]'s 1958 Hartford retrieval. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 0:00, 47:12, 1:09:44, 1:46:26)*
 - States that Neil McCasland ([[neil-mccasland]]) vanished from his New Mexico home days after [[donald-trump]] announced UFO disclosure. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:16:25)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Hosted [[steven-greer]] in April 2025 ([[greer-michels-interview-2025]]); he says he disagrees with Greer on many points and that he was warned not to have him on. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 2:15-2:32)*

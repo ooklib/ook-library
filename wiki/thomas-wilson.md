@@ -22,6 +22,8 @@ sources:
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Vice Admiral Thomas Wilson, former DIA director, is the central figure (with
@@ -66,3 +68,8 @@ controversial whistleblower discussed earlier in the same video.
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb's 1997 entry; he thinks Wilson met a specific legacy activity with USD(A&S) authority likely involving the Air Force and an unnamed aerospace company (guess: TRW), not the whole portfolio, since the watch committee said "something recovered years ago" (singular) versus Grusch's 25-100 craft. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:58:23-2:00:45)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says he briefed Adm. Wilson as head of J2 (intelligence, Joint Staff) in April 1997; the briefing ran two or three hours and Wilson had been denied access ("no need to know"), was threatened with losing a star, and was "furious and scared". Greer says the Davis memo leaked from this. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:21:04-1:23:59, 3:22:24-3:22:36)*
+- Greer adds Wilson said the B-2 was no answer to man-made UFOs that could circle it ("checkmate"). *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:51:47-1:52:33)*

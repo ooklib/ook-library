@@ -111,6 +111,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -321,3 +323,7 @@ calls him "arguably one of, if not the most important person in modern American 
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]]: Dulles was legal counsel of the [[world-commerce-corporation]], helped with Nazi financing in Switzerland, and per an apocryphal story via John Warner IV from Paul Mellon stood atop a saucer in Pilsen, Czechoslovakia on a tech-retrieval operation. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:13:41, 1:21:19, 1:24:37)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer calls Dulles one of the founders of the alleged cabal, and says [[john-f-kennedy]] fired him because Eisenhower had lost control to him. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 8:16-8:26, 1:35:23-1:35:30, 3:29:56)*

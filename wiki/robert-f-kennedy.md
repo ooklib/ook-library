@@ -29,6 +29,8 @@ sources:
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
     label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Robert F. Kennedy appears briefly in this episode as a young Justice Department attorney who lost
@@ -74,3 +76,7 @@ anti-Mafia campaign as Attorney General.
 ## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
 
 - Host groups RFK with JFK as "untenable figures in the US Empire" who had to be "dealt with" because of their positions on the Soviet Union, decolonization and Israel. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 4:21-4:33)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says he holds a letter from RFK dated a month before his death calling himself a card-carrying member of the Amalgamated Flying Saucer Association of America, which he says shows he knew JFK was killed over UFOs; Michels adds RFK Jr.'s claim about Eugene Cesar. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:31:54-1:33:50)*

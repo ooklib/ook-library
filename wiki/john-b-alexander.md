@@ -15,6 +15,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Colonel John B. Alexander supervised the 1985 "Advanced Theoretical Physics Working Group"
@@ -28,3 +30,7 @@ facility. *([gerb/saic](../raw/gerb/saic.md) 46:24–46:42)*
 ## Additional claims (gerb/mj12)
 
 - Gerb quotes him on MJ-12: "MJ-12 was real had absolutely nothing to do with UFOs ... super secret and parts of it still are". In *UFOs: Myths, Conspiracies and Realities* he writes that Dr. Bob Wood told him the SOM1-01 was made in 1954 to be leaked to Soviet spies; Ryan Wood calls this senseless and thinks Alexander wanted to curry favor, noting Alexander's Vietnam/Cambodia Special Forces history. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 48:43, 49:37, 50:08)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says Alexander ("Colonel Alexander") is a career debunker whose job is to deflect, that he was [[robert-bigelow]]'s counsel and mentor of [[luis-elizondo]], and that he steered the $22 million [[harry-reid]] helped fund. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 43:14-43:26, 2:08:37-2:09:52)*

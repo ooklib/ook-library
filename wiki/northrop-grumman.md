@@ -43,6 +43,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Northrop Grumman has primary offices in [[crystal-city-virginia|Crystal City]] and is listed
@@ -139,3 +141,7 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
 ## Additional claims (gerb/timeline)
 
 - Timeline video: acquired [[trw]] in December 2002 (Gerb's "most crucial" Last Supper deal); TRW Systems Group and its special projects division went into Mission Systems, where Gerb believes much of Northrop's UFO portfolio sits; Northrop and Lockheed are the modern era's most important legacy contractors; see [[gwot-breakaway-programs]] and [[defense-industrial-base-last-supper]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 44:19-45:00, 2:00:55-2:01:47, 2:03:11-2:04:57)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says his uncle, a senior Grumman project manager on the lunar module, heard of special projects hermetically sealed from normal work and says Northrop Grumman has "wet works" people. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 29:30-30:17, 1:25:17-1:25:25)*

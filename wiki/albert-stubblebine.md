@@ -20,6 +20,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Major General Albert Stubblebine founded the US Army Intelligence and Security Command
@@ -49,3 +51,7 @@ Support Activity (ISA) special forces unit. *([gerb/saic](../raw/gerb/saic.md) 1
 - Founded [[army-intelligence-and-security-command]]; key sponsor of [[project-stargate]];
   worked at [[bdm-international]]; accused by [[philip-j-corso]] and [[steven-greer]] of UFO
   program involvement.
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says that in 1992 "General Stubble" (Stubblebine) offered him $2 billion to join his "little cabal", that he witnessed it via his wife, and that Stubblebine's UFO work dates to the 1960s. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 24:52-25:41, 43:38-43:57)*

@@ -35,6 +35,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arthur Schlesinger, briefed President-elect John F. Kennedy that [[laos]], not Vietnam, was his chief Southeast Asian worry. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 0:44-1:07)*
@@ -83,3 +85,7 @@ Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arth
 ## Additional claims (yogsoggeth/schneider)
 
 - [[phil-schneider]] alleges an Eisenhower-era 1954 alien-human treaty ([[greada-treaty-1954]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 8:08)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says Eisenhower's farewell warning applies to the cabal, that he was pushed aside in the late 1950s by the 5412 committee and Nixon, and that he had a 1954 or 1956 contact meeting ([[eisenhower-et-meeting-claims]]). *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 5:44-6:16, 2:16:24-2:16:50, 3:28:53-3:31:20)*

@@ -39,6 +39,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Registry of directed relation types used across the wiki's `relations:` frontmatter. Most are
@@ -82,5 +84,4 @@ asymmetric (the inverse is implied, not separately stored). Symmetric ones are n
 | `worked_at` | person → place | employed at a specific hotel/site where the place (not an org) is the node; used instead of `employed_by` | no |
 | `trained_by` | person → person | received tradecraft training/instruction from another individual, distinct from formal employment | no |
 | `briefed_by` | person → person | received a claimed private briefing (UFO/legacy-program or otherwise) from another individual, alleged; distinct from `trained_by` (tradecraft instruction) | no |
-
-
+| `accuses` | person → person/org | publicly alleges wrongdoing, co-option or disinformation by the target, as the source's own claim (not fact); distinct from `alleged_by`, which points at the claimant | no |

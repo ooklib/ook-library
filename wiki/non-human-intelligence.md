@@ -11,6 +11,8 @@ sources:
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
   - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 "Non-human intelligence" (NHI) is the term used by [[david-grush]] and others in the disclosure community for the alleged intelligent originators of recovered craft, preferred over "extraterrestrial" because origin is unknown. Grusch says he does not want to "denote origin" and floats a higher-dimensional, collocated source as a theory. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 7:42-8:13,)*
@@ -28,3 +30,7 @@ sources:
 ## Additional claims (yogsoggeth/schneider)
 
 - [[phil-schneider]] claims 11 alien civilizations visit Earth, 9 hostile ([[new-world-order-alien-agenda-claims]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 55:53)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says every crash-retrieval veteran he has met describes living NHI as peaceful, and that some ETs are unhappy about Earth's biosphere; he also says some "extradimensional" beings are hostile and not extraterrestrial. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 2:01:16-2:01:44, 3:26:12-3:28:11, 52:09-52:19)*

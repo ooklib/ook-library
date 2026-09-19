@@ -12,6 +12,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Jake Barber's more recent claims have been associated with psionics and programs focused on
@@ -27,3 +29,7 @@ older claims (e.g. [[philip-j-corso|Corso]]'s) about consciousness-linked UFO gu
 
 - Modern claimant in the consciousness/UFO-guidance theme also explored via
   [[project-stargate]].
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says he has debriefed Barber's guests, that Barber first came to red-team him, that CE5 and Barber's contact concept align, and that most of what Barber's private team meets is human technology. He advises "non-kinetic" contact. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 59:41-59:48, 1:59:34-1:59:47, 3:00:14-3:00:49, 3:04:33-3:05:14)*

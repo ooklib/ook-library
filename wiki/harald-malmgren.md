@@ -48,6 +48,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Harald Malmgren (13 July 1935 - 13 February 2025) was, per the host, a "whiz kid" aide to Defense Secretary [[robert-mcnamara]] and presidential adviser to [[john-f-kennedy]], [[lyndon-b-johnson]], [[richard-nixon]] and Gerald Ford, later an adviser to many foreign leaders (every Japanese prime minister since Tanaka, per [[pippa-malmgren]]). In this final interview (recorded days before he was hospitalised, with a follow-up phone call three days before his death) he claims to have directly handled UFO debris in 1962 after the [[bluegill-triple-prime]] nuclear test and to have been briefed on "otherworld technologies" by [[richard-bissell]]. Everything below is his uncorroborated account or the host's/daughter's relay of it.
@@ -106,3 +108,7 @@ See [[richard-bissell]]: Malmgren claims Bissell said "this didn't start last we
 ## Additional claims (jm/kissinger)
 
 - In [[jesse-michels]]'s Kissinger episode: Malmgren, brought into the Nixon administration in 1971, is said by [[matthew-pines]] to have been used by Nixon to check [[henry-kissinger]]; [[richard-bissell]] is identified as the man who briefed Malmgren on other-world technology; he headed White House efforts around [[bluegill-triple-prime]] and met [[lawrence-preston-gise]] in New Mexico, who per Malmgren's tweets was reverse engineering recovered craft. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 27:10, 27:21, 32:15, 32:22, 32:47, 33:02, 50:28, 51:07, 51:36, 51:44)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Michels tells Greer about Malmgren's tweets about a Tesla-Brown submarine collaboration via Richard Bissell; Greer says his own version came from foreign intelligence. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:16:53-1:17:56)*

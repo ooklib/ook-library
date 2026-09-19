@@ -14,6 +14,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Gerb alleges the "committee of 27" [[ufo-control-group]] was formed in 1994 specifically to hide
@@ -32,3 +34,7 @@ the legacy programs from President Bill Clinton's "disclosure appetite." *([gerb
 ## Claims (jm/cover-up)
 
 - [[jesse-michels]] / [[jason-samosa]]: Clinton was interested in UFOs, used many angles to get information, and was pushed by [[laurance-rockefeller]]; the outcome was the [[bruce-maccabee]] briefing to his science adviser; Hillary was seen with Paul Davies's book Are We Alone. See [[presidential-ufo-briefing-claims]]. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 47:34, 48:18, 48:40, 49:04)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says Clinton tried to fix the problem in his first term, and that his DOJ friend Webster Hubbell wrote that he and Clinton wanted to learn about the JFK killing and UFOs; he says Monica Lewinsky's exposure was set up by Linda Tripp. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 5:08-5:19, 1:35:48-1:36:10, 2:18:00-2:18:28)*

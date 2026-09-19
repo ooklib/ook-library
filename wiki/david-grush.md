@@ -49,6 +49,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -234,3 +236,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 ## Additional claims (rc/grusch)
 
 - In the June 2023 NewsNation interview (see [[grusch-newsnation-interview-2023]]), Grusch says he co-led the UAP portfolio at the [[national-geospatial-intelligence-agency]] until April 2023, joined the [[uap-task-force]] in 2019, was denied access to a crash retrieval program, and filed a complaint with the [[intelligence-community-inspector-general]] that was found urgent and credible; he states he has never personally seen NHI or a craft. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 4:34-6:44,)* A March 2025 editor's note says Rep. [[eric-burlison]] hired him. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 0:00)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says he met Grusch while undercover, that his bosses set it up, that Grusch is honest but second-hand and was attached to [[luis-elizondo]], and criticizes the House Oversight hearings for lacking a first-hand witness. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 26:19-27:53)*

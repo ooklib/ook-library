@@ -25,6 +25,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Gerb alleges former Vice President Dick Cheney "last ruled with an iron fist" over the
@@ -69,3 +71,7 @@ before leaving office in 2009. *([gerb/mitre](../raw/gerb/mitre.md) 5:03–5:18)
 ## Additional claims (gerb/timeline)
 
 - Timeline video: January 2009 departure marks "the last great leader to rule the legacy programs with an iron fist"; Gerb says only a "Machiavellian statesman" like Cheney kept the post-1994 factions "even slightly under control". *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:05:15-2:05:26, 2:41:12-2:41:25)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer includes Cheney among those linked to the organization who had control. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:35:23-1:35:48)*

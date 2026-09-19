@@ -14,6 +14,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 The alleged 1943 US Navy experiment to make USS Eldridge invisible or teleport it, treated in this source as a cover story with a real incident behind it.
@@ -31,3 +33,7 @@ The alleged 1943 US Navy experiment to make USS Eldridge invisible or teleport i
 ## Additional claims (yogsoggeth/schneider)
 
 - [[phil-schneider]] cites the 1943 event as an example of military technology far ahead of the public ([[schneider-las-vegas-lecture-1995]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 1:07:17)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says he knew [[bob-beckwith]], who claimed to be involved in 1942, and hears via foreign intelligence of Tesla-Brown submarine work; he says Michels's Malmgren source (via Richard Bissell) is separate. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:16:16-1:18:06)*

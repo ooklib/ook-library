@@ -17,6 +17,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Donald Trump appears in this episode as a later protégé of [[roy-cohn]] — the McCarthy-era "Deep
@@ -48,3 +50,7 @@ American power politics — and as the brief 1986 owner of [[resorts-internation
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]]: Trump became controller of [[resorts-international]] briefly (year stated inconsistently in the episode), while Samosa's gut says he is not thinking deeply about UFOs; Michels says [[neil-mccasland]] vanished days after Trump's disclosure announcement; Samosa notes Trump's Fordham education, Catholic appointees, and Pope Leo's public spat with him. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:43:43, 1:16:25, 2:29:00, 2:30:02)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says he has spoken to "senior" advisers and funders of the Trump team, that Trump has virtually no knowledge and risks being shown false evidence, and hands Michels a briefing document for him. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 4:06-4:38, 1:35:38-1:35:48, 3:19:09-3:19:27)*

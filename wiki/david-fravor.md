@@ -9,6 +9,8 @@ relations:
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Commander David Fravor, US Navy (ret.), is the pilot whose 2004 "Tic Tac" encounter off San
@@ -29,3 +31,7 @@ Diego is one of the most widely publicized UAP sighting cases.
 
 - Primary witness of the [[2004-nimitz-encounter]], cited as corroborating evidence for
   [[tic-tac-factory-uso]].
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says Fravor is a straight-up guy whose 2004 encounter was a Skunk Works craft and who has been told so by a Lockheed executive; he says Fravor "probably has by now" corrected the record, and Michels hopes so. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:03:26-1:05:31, 1:10:20-1:11:11)*

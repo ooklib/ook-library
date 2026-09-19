@@ -61,6 +61,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 James Jesus Angleton was the OSS station chief in Rome during WWII and, per Eyes Wide Open, would
@@ -159,3 +161,7 @@ viewed [[allen-dulles]] as a mentor and personally helped extract fascist collab
 ## Additional claims (rc/mj12)
 
 - [[geoffrey-cruickshank]]: [[scotty-miller]] was his counterintelligence agent, and Angleton, Ray Rocca and Miller all admired [[richard-helms]]; Angleton with Dulles allegedly controlled CIA UFO files. Coulthart raises but doubts the theory that Angleton wrote the MJ-12 documents as a counterintelligence foil against the Soviets. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 14:00-14:17, 26:12-26:22, 46:59-47:30, 1:09:02-1:09:19)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says an Angleton-signed document about a 1962 wiretap of Marilyn Monroe threatening a press conference is in the DPI briefing and was taken from a vault by an NSA source; Michels suggests Angleton pushed MJ12 as counterintelligence. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 58:35-58:50, 1:36:10-1:36:44)*

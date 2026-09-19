@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 John G. Trump was an MIT radar expert and the uncle of [[donald-trump]]. The Malmgren video mentions him as the man charged with reviewing Nikola Tesla's papers after the FBI seized them.
@@ -28,3 +30,7 @@ John G. Trump was an MIT radar expert and the uncle of [[donald-trump]]. The Mal
 ## Relationships
 
 - Nephew relation to [[donald-trump]]; aide to [[carl-compton]]; reviewed [[nikola-tesla]] files.
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Michels raises Trump's uncle John Trump reviewing Tesla's papers at MIT; Greer doubts he shared any knowledge with Donald Trump. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:24:13-1:24:56)*

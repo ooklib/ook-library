@@ -24,6 +24,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Deep underground military bases (DUMBs), also called subterranean facilities ("STFs", or "stiffs" in ASR), are the subject of a ~1h38m [[uap-gerb]] survey. Gerb's framing: acknowledged DUMBs undeniably exist (NORAD's Cheyenne Mountain, Raven Rock), so the live question is whether some unacknowledged ones host UFO legacy program RDT&E, crash-material storage and reverse engineering, and whether they are linked by tunnels and maglev trains. Everything below is Gerb's argument or the claims of his sources, not established fact. He leans heavily on [[richard-sauder]]'s three books and on [[bill-hamilton]]'s 1990s work, and says he has spoken with "nearly half a dozen" veterans who traveled to STFs. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 0:00, 1:31, 3:33, 3:41, 3:49)*
@@ -125,3 +127,7 @@ Gerb wagers large DUMB networks exist in the Southwest (NM, AZ, S. California, p
 ## Additional claims (yogsoggeth/schneider)
 
 - [[phil-schneider]] claimed in 1995 to have worked on 13 DUMBs and says there are 131 in the US (127 in the lower 48), averaging 4.25 cubic miles and 5,700 feet deep, costing 17 to 31 billion dollars each, linked by roads and maglev trains, with nine at Nellis and a Dulce base (see [[dulce-underground-base-incident-1979]], [[denver-international-airport]], [[schneider-las-vegas-lecture-1995]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 9:36, 19:46, 51:27)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says the sites (Nellis, Area 51, Edwards, Dugway, Lockheed and Northrop undergrounds) are joined by tunnels made with a nuclear-powered vitrifying device; he prefers the term SUBTERRANEAN facilities rather than "military" bases. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 2:27:41-2:28:41)*

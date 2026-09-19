@@ -14,6 +14,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Paul Mellon appears in the transcript via a host-relayed anecdote.
@@ -34,3 +36,7 @@ Paul Mellon appears in the transcript via a host-relayed anecdote.
 ## Claims (jm/cover-up)
 
 - [[jesse-michels]] repeats an apocryphal story via his grandson John Warner IV that Mellon and [[allen-dulles]] stood atop a huge saucer in Pilsen, Czechoslovakia during a WWII tech-retrieval operation. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:13:32, 1:13:41)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says Mellon was a WWII-era billionaire and with [[allen-dulles]] a founder of the cabal; he says Mellon's grandson John Warner IV said the family was fascist and that Mellon saw a Nazi disc. Greer says Mellon and Dulles refused Eisenhower's ET-contact path ([[eisenhower-et-meeting-claims]]). *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 8:16-10:05, 3:29:56-3:30:05)*

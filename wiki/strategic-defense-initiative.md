@@ -42,6 +42,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 President Ronald Reagan's 1983 Strategic Defense Initiative (SDI, "Star Wars") was a proposed
@@ -123,3 +125,7 @@ programs.
 ## Additional claims (yogsoggeth/schneider)
 
 - [[phil-schneider]] says a friend, Ron Rummel, was murdered after they published a spoof tying "Star Wars" to the New World Order ([[new-world-order-alien-agenda-claims]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 14:44)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says SDI was a black-budget front, and that Colonel Homeman told him the alien threat was added to sell SDI to Reagan though "we knew that was false". *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:13:59-1:14:19, 3:18:26-3:19:09)*

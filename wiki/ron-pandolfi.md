@@ -17,6 +17,8 @@ sources:
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Ron Pandolfi is a CIA scientist in the Office of Scientific and Weapons Research, described by [[jesse-michels]] as a mysterious long-standing figure in the UFO topic who worked on exotic physics, was connected to the Jasons ([[jason-advisory-group]]) and the [[mitre-corporation]], and whom "a lot of people say" runs the CIA's "weird desk". Per [[john-ramirez]], his aviary code name was Pelican, and he was directly involved in the [[nrol-16-launch-2005]]. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 49:31-50:02)* The transcript spells the name "Pandalfi".
@@ -28,3 +30,7 @@ Ron Pandolfi is a CIA scientist in the Office of Scientific and Weapons Research
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]]: Pandolfi ran the CIA "weird desk" when the Clinton science adviser sought a UFO briefing and arranged [[bruce-maccabee]] to give it with a day's notice; his uncle Louis Pandolfi was allegedly an OSS founder, per Jack Sarfatti on Danny Jones's show; Samosa asks who can say no to a president. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 47:34, 49:04, 49:14, 50:42, 51:05)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer calls Pandolfi knowledgeable, read in early, and sincere about wanting a correct outcome. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 2:23:43-2:24:36)*

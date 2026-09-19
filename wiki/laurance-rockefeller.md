@@ -20,6 +20,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Laurance Rockefeller (spelled "Lawrence" throughout the ASR; normalization is my inference, alias kept) is presented by [[eyes-wide-open]] as the Rockefeller brother who managed the family's inherited wealth through [[rockefeller-brothers-inc]] and led the Rockefeller Brothers Fund. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 21:55-22:11, 25:45-26:01)*
@@ -38,3 +40,7 @@ Laurance Rockefeller (spelled "Lawrence" throughout the ASR; normalization is my
 ## Claims (jm/cover-up)
 
 - [[jesse-michels]]: he was very close to the Clintons and kept pushing them toward UFO disclosure. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 48:18, 48:26)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says Rockefeller hosted a 1993 UFO gathering at his Wyoming ranch (JY Ranch), initially funded Greer, was a "philosopher king" surrounded by CIA cutouts, and told him that David and Jay Rockefeller were "jumping up and down" over the meeting. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 44:04-44:20, 44:35-45:45, 47:32-49:08)*

@@ -62,6 +62,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Richard Nixon appears in this episode as a junior California congressman who built his
@@ -163,3 +165,7 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
 ## Claims (jm/cover-up)
 
 - [[jesse-michels]] considers Nixon an outsider (Whittier, chip on shoulder, wanted CIA force reductions, ousted artificially); [[jason-samosa]] counts him among presidents briefed. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 45:56, 47:12)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says Nixon chaired the space council under Eisenhower, was allegedly shown UFO technology (the Jackie Gleason story is "100% true"), and that [[watergate-scandal]] was engineered to remove him as he planned to disclose. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 2:15:38-2:17:53)*

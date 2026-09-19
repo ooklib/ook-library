@@ -12,6 +12,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Jim Semivan is described in the `jm/cover-up` episode as a To The Stars Academy adviser and a senior CIA executive ("two people under the CIA director"). Attributed claims:
@@ -24,3 +26,7 @@ Jim Semivan is described in the `jm/cover-up` episode as a To The Stars Academy 
 ## Relationships
 
 - Adviser to [[tom-delonge]] and [[to-the-stars-academy]].
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says Semivan and [[luis-elizondo]] gaslight Congress by blending the three categories; Michels says Chris Bledsoe (Hal Puthoff's contact) was intercepted by Semivan. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 52:19-52:33, 2:38:27-2:38:53)*

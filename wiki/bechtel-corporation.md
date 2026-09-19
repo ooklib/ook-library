@@ -17,6 +17,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 The Bechtel Corporation is a large, privately held US construction/engineering conglomerate.
@@ -73,3 +75,7 @@ attendance; the video does not claim a specific contract was negotiated at the G
 (unlike its Social Security/Reagan claim on the [[bohemian-grove]] page), and this wiki records
 the connection as an alleged pattern, not a proven causal link.
 - War Conspiracy 1: [[thomas-corcoran]], [[john-mccone]] (early 1940s).
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says Bechtel has built many deep underground bases using a nuclear-powered tunneling device (a 1960s patent in the DPI archive) that vitrifies bedrock. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 2:27:41-2:28:41)*

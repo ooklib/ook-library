@@ -37,6 +37,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the president who inherited [[laos]] from [[dwight-d-eisenhower]], approved and then cancelled the planned bombing ([[operation-milpond]]), and pursued a diplomatic settlement. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 52:54-53:18, 1:08:52-1:09:10)*
@@ -102,3 +104,7 @@ US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the presi
 ## Additional claims (rc/mj12)
 
 - [[geoffrey-cruickshank]]: as a congressman JFK wrote [[roscoe-hillenkoetter]] (declassified 2001) complaining about junior CIA staff; may have been told about Roswell by Stuart Symington; the alleged 28 June 1961 MJ-12 question to [[allen-dulles]] with [[jay-patrick-coyne]] present; and MJ-12 as motive for the assassination. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 45:25-46:18, 58:02-59:01, 1:12:32-1:13:04)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says Kennedy was killed over UFOs and the constellation of programs behind them, cites Bill Holden (Air Force One chief steward) hearing Kennedy say the matter was "out of my hands", a 12 November 1963 memo to John McCone (provenance uncertain), and a 1968 letter from [[robert-f-kennedy]]. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 6:08-6:24, 1:33:43-1:35:23)*

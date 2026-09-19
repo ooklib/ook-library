@@ -63,6 +63,8 @@ sources:
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 
@@ -190,3 +192,7 @@ Trento, Anthony Kimery and Whitney Webb. *([ewa/bush-1](../raw/ewa/Eyes Wide Ope
 
 
 - Host: Zapata Offshore's Marathon, Florida offices sat in [[jm-wave-station]]'s backyard; Bush is "likely a CIA business asset" who would almost certainly have met [[ted-shackley]] on the Gulf Coast; Shackley was elevated to his highest CIA role under Bush's directorship in the mid-1970s; the host likens both to men who "elevate those [they] trust." Host inference, flagged as circumstantial. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 27:16-29:36, 31:43-31:56)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says Bush, with [[dick-cheney]] and by extension W., was among the few presidents allowed control of the programs. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:35:23-1:35:48)*

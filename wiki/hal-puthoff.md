@@ -24,6 +24,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Physicist Hal Puthoff sponsored Ferris Williams's propulsion research presented at a June 2001
@@ -68,3 +70,7 @@ UFO technology conference in La Jolla, San Diego. *([gerb/saic](../raw/gerb/saic
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb reports "credible rumors and indirect confirmation" from Puthoff that the Kona Blue materials were Kingman wreckage, and Puthoff's "cheeky look" when asked. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 47:25-47:43, 2:11:11-2:11:18)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says Puthoff's job is to divert people on energy, claims one of Puthoff's closest friends is on Greer's team and knows what was done to push him, and says he was once brought into Greer's office. Michels says he hopes this is not true. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:27:23-1:27:53, 2:12:14-2:12:37)*

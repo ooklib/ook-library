@@ -11,6 +11,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Claims in the `jm/cover-up` episode that some presidents were briefed on UFO matters and others were shut out. All of this is [[jason-samosa]]'s research-based speculation and [[jesse-michels]]' commentary.
@@ -26,3 +28,7 @@ Claims in the `jm/cover-up` episode that some presidents were briefed on UFO mat
 ## Relationships
 
 - Related: [[ufo-legacy-programs]], [[collins-elite]].
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer's claims: Clinton was blocked; the CIA director, Defense Secretary Cohen, Adm. [[thomas-wilson]] and Gen. Hughes were denied; [[donald-trump]] has virtually no knowledge; and the JFK and Nixon cases. See [[greer-michels-interview-2025]]. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:21:04-1:24:07, 1:35:23-1:35:48, 2:42:37-2:43:05)*

@@ -19,6 +19,8 @@ sources:
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Bob Lazar claimed to have been hired by [[eg-and-g|EG&G]] to reverse-engineer UFO propulsion
@@ -41,3 +43,7 @@ systems at Area 51's S4 site. *([gerb/saic](../raw/gerb/saic.md) 1:21:52–1:22:
 ## Claims (jm/cover-up)
 
 - [[jesse-michels]]: going deep with Lazar shows it is "parallel engineering", recreating the thing with prosaic human means rather than reverse engineering; [[jason-samosa]] notes Lazar is the only person who says he worked on the craft itself, at S4 in 1989. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:09:12, 56:17)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says he has found no one to corroborate Lazar's presence at S4 and thinks he saw something but was given a mix of true and false information in a controlled leak, like Rick Doty's operation on Linda Moulton Howe and Paul Bennewitz. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 56:33-58:13)*

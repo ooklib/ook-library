@@ -14,6 +14,8 @@ sources:
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Late Apollo 14 astronaut Edgar Mitchell, from whose estate the
@@ -32,3 +34,7 @@ Late Apollo 14 astronaut Edgar Mitchell, from whose estate the
 ## Additional claims (jm/nasa-pagan)
 
 - Apollo 14 astronaut who ran a private ESP card experiment on the way to the Moon (results "better than chance" per colleagues) and told the New York Times in 1971 about telepathy; per Mitchell, [[wernher-von-braun]] supported him and urged him to find a NASA site to study consciousness, and attended an early fundraising dinner of his Institute of Noetic Sciences (transcript: "Knowic"). Michels also lists him among alleged Freemasons at NASA. See [[nasa-occult-symbolism-claims]]. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 3:25-5:00, 41:30-41:45)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says Mitchell was at the 1997 briefing with Adm. Wilson and invited him to brief the Institute of Noetic Sciences board. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 53:32-53:43, 1:00:29-1:00:43)*

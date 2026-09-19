@@ -14,6 +14,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Inventor Nikola Tesla. In the Malmgren interview he is the subject of a claimed antigravity collaboration with [[thomas-townsend-brown]] and of a suppressed-papers narrative.
@@ -34,3 +36,7 @@ Inventor Nikola Tesla. In the Malmgren interview he is the subject of a claimed 
 ## Additional claims (yogsoggeth/schneider)
 
 - [[phil-schneider]] notes Tesla's laboratories were in Colorado Springs, an area with underground bases, and leaves the rest to [[al-bielek]]. *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 53:30)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer calls Tesla and Townsend Brown the real geniuses, says Tesla's material was seized by the FBI and reviewed by [[john-trump]], and describes "scalar" waves as Tesla's. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 15:15-15:45, 1:13:06-1:13:31, 1:24:13-1:24:42)*

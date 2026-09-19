@@ -60,6 +60,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 The National Reconnaissance Office develops, acquires, launches, and operates US intelligence
@@ -218,3 +220,7 @@ shared office threads Gerb draws between them. *([gerb/nro](../raw/gerb/nro.md)
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb repeats that funds were misappropriated in 2017 for joint NRO-Air Force legacy activity and cites Aldridge's dual NRO/Air Force role; NRO satellite data feeds figure in [[immaculate-constellation]]; DNRO Betty Sapp named among Clapper's associates. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:25:21-1:25:47, 2:05:35-2:05:51, 2:19:26-2:19:42)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says the NRO seized [[bob-beckwith]]'s neutrino-light detector for satellites and that Senate Intelligence staff overseeing NRO/CIA/NSA did not know of it ([[neutrino-light-detector-claims]]). *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:19:14-1:19:51, 2:29:02-2:29:23)*

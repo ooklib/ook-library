@@ -34,6 +34,8 @@ sources:
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Battelle Memorial Institute is a contractor that administers multiple FFRDCs on behalf of the
@@ -92,3 +94,7 @@ DOE and other agencies, and is described by Gerb as "no stranger to this channel
 - Personnel crossovers with [[west-desert-test-center]] leadership (Ryan W. Harris, Greg Frank, Anders Weborg). *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 1:01:13, 1:02:17, 1:03:26)*)*
 - Gerb recalls earlier work on Battelle's Project Stork and nickel-titanium alloys possibly linked to the 1947 Roswell wreck; Fort Detrick as a rumored non-human-biologics site, and a Reddit "exo-organism" whistleblower (not examined). *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 58:00, 58:07, 58:15, 58:38, 58:44)*)*
 - Gerb suspects Battelle/ATEC scientists were the "white coats" around the craft [[witness-ms]] saw. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 44:15, 44:23)*)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- A government source told Michels that Battelle is linked to gifted-and-talented programs feeding the cabal; Greer says it is among institutions on his list and manages nuclear sites. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:42:39-1:43:11)*

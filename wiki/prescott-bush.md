@@ -37,6 +37,8 @@ sources:
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Prescott Bush (born 1895, Columbus, Ohio) is [[eyes-wide-open]]'s "Bush the Father" Chapter 1 anchor
@@ -122,3 +124,7 @@ not established fact.
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]] claims (unverified) Bush was president of the Union Bank that funded Nazis, and that the Maison Rouge circle depended on such bankers. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:21:13, 1:21:15)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says Prescott Bush, Henry Ford, Watson of IBM and Paul Mellon supported fascism. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 9:25-9:48)*

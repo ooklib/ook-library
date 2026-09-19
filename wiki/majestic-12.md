@@ -51,6 +51,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
@@ -190,3 +192,7 @@ Comparison with Gerb: rc/mj12 agrees that MJ-12 personnel/dates line up with rea
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]] thinks the MJ-12 documents were "probably some counterintel ploy" but contain real elements, such as the document about Francis Spellman getting Roswell access. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:23:01, 2:23:16)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer calls MJ-12 the old name of his alleged transnational organization, cites "Magic/Magi" from a 1990s NRO document and Detlev Bronk's role, and warns MJ-12 documents may have been seeded by [[james-jesus-angleton]]-style counterintelligence. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 23:21-23:48, 54:18-54:32, 58:35-58:59)*

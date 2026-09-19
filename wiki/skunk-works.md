@@ -24,6 +24,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Skunk Works (formally the Advanced Development Programs division) is Lockheed's highly
@@ -66,3 +68,7 @@ Lightning II. *([gerb/lockheed](../raw/gerb/lockheed.md) 21:16–21:39, 22:47–
 ## Additional claims (jm/townsend-brown)
 
 - Brown was at Martin the year Skunk Works was founded; Nick Cook spoke with multiple Skunk Works presidents. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 2:12-2:18, 4:53-5:13)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says the 2004 Tic Tac was a Skunk Works craft, a Lockheed executive later told [[david-fravor]] so, and a witness saw one offloaded in 1991; he also relays Jim Goodall's account of [[ben-rich]]'s deathbed line and says he photographed a Skunk Works underground site from a helicopter. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:04:12-1:05:24, 3:09:39-3:10:35, 3:10:43-3:11:03)*

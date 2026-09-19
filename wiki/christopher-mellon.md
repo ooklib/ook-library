@@ -29,6 +29,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Former deputy assistant secretary of defense for intelligence and a UFO-disclosure-advocate
@@ -62,3 +64,7 @@ figure Gerb repeatedly discusses as possibly "knowing more than he's saying."
 ## Claims (from "The Wilson Davis Memo" video)
 
 - Former deputy assistant secretary of defense for intelligence under Clinton and George W. Bush; per Gerb, his 2022 website post "Unprecedented UAP legislation" cites the [[wilson-davis-notes]] as "lending credence" to reports of an official US program exploiting recovered non-human technology. Gerb says he spoke to Mellon, raising his confidence in the memo's authenticity. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 23:09-24:08, 30:35-30:43)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says Mellon and Elizondo are told "to tell part of the truth"; Michels asks how that squares with [[paul-mellon]], whom Greer names as a CIA founder-era figure; Greer does not directly answer. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 21:25-21:58, 1:27:23-1:27:28)*

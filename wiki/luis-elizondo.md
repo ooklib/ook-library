@@ -39,6 +39,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
+    label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
 ---
 
 Luis Elizondo (ASR-transcribed "Lou Alzando"/"Luis Alzando") claimed to direct, work for, or
@@ -138,3 +140,7 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
 ## Claims (jm/cover-up)
 
 - Cited by [[jason-samosa]] for the ten-course-menu analogy for staged disclosure, and as expected to talk about hybrids (per [[john-ramirez]]); his book Imminent reportedly says people with Cherokee blood have more experiences. See [[alien-human-hybridization-claims]]. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:07:48, 2:09:16, 2:11:43)*
+
+## From Steven Greer on American Alchemy (jm/greer)
+
+- Greer says Elizondo ("Alzando") deliberately mixes partial truth with disinformation, that his "we don't know what these are" and "threat to national security" lines serve the alien-threat narrative, that his mentor is [[john-b-alexander]], and that Elizondo has walked some of it back. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 27:53-28:16, 1:02:43-1:03:26, 2:09:44-2:09:52, 3:07:53-3:08:12)*
