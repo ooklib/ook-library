@@ -36,6 +36,8 @@ sources:
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
     label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
+    label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
 ---
 
 The 22 November 1963 assassination of President John F. Kennedy in Dallas. In this episode Eyes Wide Open covers only [[e-howard-hunt]]'s alleged presence and deathbed confession; the host says his own research indicates a fundamental mob element in the conspiracy. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:48-11:00)*
@@ -113,3 +115,7 @@ The 22 November 1963 assassination of President John F. Kennedy in Dallas. In th
 ## Additional (ewa/dallas-5)
 
 - Host: [[frank-brandstetter]] "figures into the French aspect" through [[philippe-thyraud-de-vosjoli]]'s flight to Acapulco on 22 Nov. 1963, with OAS veteran Captain Jean Souetre (ASR "Suet") said to be caught in Dallas that day; Col. George Lumpkin (Dallas deputy police chief, pilot car driver of the motorcade) and [[jack-crichton]] are named as later debriefing Marina Oswald in a "suspicious" way, promised for later. The TFX scandal around [[lyndon-b-johnson]] and General Dynamics ([[henry-crown]]) vanished after JFK's death. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 15:35-15:58, 30:46-31:23, 45:10-46:40)*
+
+## Additional claims (gerb/mj12)
+
+- Gerb notes CIA agent Ruben Efron (intercepted Oswald mail per 2023 releases) appears in a 1955 Central Intelligence Bulletin as witnessing UFOs from a train near the Caspian Sea, and [[boris-dimitri-tasov]]'s Mexico City translations. Wood: JFK's UFO-sharing initiative is one more possible motive. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:01:32, 1:03:34, 1:16:22)*

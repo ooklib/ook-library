@@ -32,6 +32,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
+    label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
 ---
 
 Dr. Robert Sarbacher, a respected physicist and 1950s consultant to the DoD's Research and
@@ -88,3 +90,7 @@ Dedicated deep-dive video. Sarbacher: physicist, Einstein student, Harvard gradu
 - 1983 letter to [[william-steinman]]: no association with recovery personnel; invited to discussions but not allowed to attend; Bush, [[john-von-neumann]] and [[j-robert-oppenheimer]] definitely involved; saw reports at the Pentagon of very light, tough materials and beings "constructed like certain insects" with low mass, hence low inertial forces; puzzled why so classified. Gerb links the light materials to [[roswell-incident-1947]] and [[battelle-memorial-institute]]'s 1949 shape-metal (nitinol) work (his own earlier video). *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 8:47-11:19)*
 - 1983 [[stanton-friedman]] interview: recounts a Wright Field crash meeting ([[wright-field-crash-retrieval-meeting-1950]]) with beings without skin, said "very likely" the crash was 1947, and recalled a smug Philadelphia attendee, identified as [[eric-a-walker]]; assumed gravity manipulation. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 11:22-13:52)*
 - Gerb's conclusion: this gives a rare look at the 1950s crash retrieval/reverse engineering effort, versus the usual focus on Blue Book, Grudge and Sign. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 21:05-21:55)*
+
+## Additional claims (gerb/mj12)
+
+- Gerb: Sarbacher's naming of Vannevar Bush as directing UFO study dates to about 1950; insect-like beings echo the [[bowen-manuscript]]. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:35:29, 1:36:42)*

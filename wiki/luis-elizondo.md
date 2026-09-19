@@ -35,6 +35,8 @@ sources:
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
+    label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
 ---
 
 Luis Elizondo (ASR-transcribed "Lou Alzando"/"Luis Alzando") claimed to direct, work for, or
@@ -126,3 +128,7 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
 ## Additional claims (gerb/magenta)
 
 - Quoted ("Lue Alzando", ASR) saying he saw compelling documentation from a foreign country, which he first misnamed and then said was Italy, about a vehicle recovery studied scientifically, with parts allegedly brought to the US after the war; documentation "from Mussolini himself", "proven to be authentic". *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 21:13-23:02)* See [[magenta-italy-crash-1933]].
+
+## Additional claims (gerb/mj12)
+
+- Gerb notes "Lou Elizondo" (ASR "Lou alzando") stated in his 2024 book *Imminent* that a Dec 1950 crash occurred near El Indio/Guerrero on the Texas-Mexico border, matching the EBD's crash. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 0:33, 9:57)*

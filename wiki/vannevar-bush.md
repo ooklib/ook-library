@@ -33,6 +33,9 @@ relations:
   - relation: alleged_by
     target: j-robert-oppenheimer
     note: "co-named in disputed IPU and Steinman/Sarbacher crash-retrieval-team claims"
+  - relation: member_of
+    target: majestic-12
+    note: "head of the group per the documents"
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -42,6 +45,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
+    label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
 ---
 
 Dr. Vannevar Bush is presented as the intellectual architect of the modern
@@ -136,3 +141,10 @@ Dr. Vannevar Bush is presented as the intellectual architect of the modern
 ## Additional claims (gerb/sarbacher)
 
 - Per [[robert-sarbacher]] via [[wilbert-b-smith]] (1950), a small group headed by Bush was studying UFOs; Bush chaired the [[research-and-development-board]] and NACA. Sarbacher (1983) and [[eric-a-walker]] (1990) both allegedly confirmed Bush's involvement. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 0:33-0:49, 7:33-7:59, 9:17-9:25, 17:07-17:17)*
+
+## Additional claims (gerb/mj12)
+
+- EBD and SOM1-01 name Bush and Forrestal as recommending MJ-12 on 24 Sept 1947; Ryan Wood describes Bush as head of OSRD-linked MJ-12 with Eric Walker in his organization. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 7:55, 23:17, 29:02)*
+- Bush marginalia on the [[bowen-manuscript]] allegedly hint at anti-gravity craft and read "this should not get out"; Bush underlines the 1942 Mussolini/Hitler craft passage. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:28:21, 1:37:05)*
+- Bush also allegedly wrote Eisenhower about "celestial gifts" of crashed UFOs and was told to be quiet and win the war. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:07:06)*
+- Gerb's 1950 Sarbacher link: Bush directing UFO study since c. 1950. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:35:37)*

@@ -19,6 +19,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
+    label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
 ---
 
 Wright-Patterson Air Force Base in Dayton, Ohio, was headquarters of Air Materiel Command (AMC)
@@ -67,3 +69,7 @@ and Air Research and Development Command (ARDC) — forerunners of the modern
 ## Additional claims (jm/townsend-brown)
 
 - Sponsored the [[chapel-hill-conference-1957]]; alleged home to Project Y / [[avro-avrocar]]; Curtis LeMay reportedly guarded a "secret room". *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 13:39-13:55, 58:40-59:05)*
+
+## Additional claims (gerb/mj12)
+
+- SOM1-01 sends deceased entities to the Wright-Patterson "Blue Room"; Gerb recalls Barry Goldwater being refused entry by [[curtis-lemay]]. Wood: Blue Lab. Gerb also notes the IPU field order and Twining's Army Air Materiel Command at Wright Field. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 38:59, 39:07, 36:41, 1:14:18)*

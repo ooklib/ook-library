@@ -17,6 +17,12 @@ relations:
   - relation: associate_of
     target: harald-malmgren
     note: "first person 'of this caliber' to use the name, per host"
+  - relation: investigates
+    target: majestic-documents
+    note: "full corpus and provenance in the mj12 video"
+  - relation: alleged_by
+    target: ryan-s-wood
+    note: "authenticity case"
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -32,6 +38,8 @@ sources:
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
+    label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
@@ -114,3 +122,16 @@ MJ1 if you use Majestic 12 terminology." *([gerb/mitre](../raw/gerb/mitre.md) 1:
 
 - Gerb says the MJ-12 origin can be traced to [[vannevar-bush]]'s 12-member Joint [[research-and-development-board]] (1941) and that the briefing document names Bush on Truman's crash team; the docs look like a mishmash of forgeries with possibly real data spliced in, and he promises a future video. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 7:49-8:37, 20:44-21:05)*
 - [[eric-a-walker]] told [[william-steinman]] he had known of MJ-12 for 40 years and was "fighting windmills"; told [[armen-victorian]] MJ-12 exists but the documents are likely forgeries. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 15:37-16:46)*
+
+## Additional claims (gerb/mj12)
+
+Full treatment in [[majestic-documents]], [[eisenhower-briefing-document]], [[special-operations-manual-som1-01]].
+
+- Gerb (with guest [[ryan-s-wood]]): MJ-12 is a top secret R&D and intelligence organization of six civilians and six military members (two each from Army, Navy, Air Force), formed by executive order on 24 Sept 1947 on the advice of [[vannevar-bush]] and [[james-v-forrestal]], with roots around 1941-42 per Friedman; original members include [[nathan-twining]], [[donald-menzel]], [[roscoe-hillenkoetter]], [[walter-bedell-smith]], [[hoyt-vandenberg]], [[detlev-bronk]]. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 2:46, 3:34, 22:35)*
+- "Magic" theories: from the 1945 May-Johnson atomic energy bill (blocked epistemology); a continuation of WWII "magic" classification (Harry is white hot); or Gerb's own view, a joint intelligence committee abbreviation ("Majority Joint Intelligence Committee 12"). *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 4:31, 4:54, 5:02)*
+- Ryan Wood: Dr. [[eric-a-walker]] took over Bush's OSRD organization and was understood to be familiar with MJ-12 or leading it; Gerb ties this to the Sarbacher video. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 23:17, 25:02)*
+- The [[special-operations-manual-som1-01]] says MJ-12 works with CIA, has special teams and secret facilities, and treats NHI as benign in 1954. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 28:24, 30:34)*
+- Forrestal's death: Wood says Forrestal wanted more openness and lost his life over it; a Majestic document allegedly calls it "necessary and regrettable". Gerb: many suspect conspiracy. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:19:06, 1:19:43, 1:37:36)*
+- Gerb says MJ-12 likely was and possibly is real; Wood suspects it survives under the same name with hardware and bodies sub-compartments and links to [[aerospace-corporation]], Carlyle Group, [[eg-and-g]] and [[rand-corporation]]. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:22:59, 1:23:59, 1:38:24)*
+- JFK link: a claimed IPU line says Kennedy was told of a recovery; NSAM 271 asks NASA's James Webb to share with the Soviets; the [[burned-memo]] uses code word Lancer. Wood: another possible reason for [[kennedy-assassination]]. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:00:29, 1:01:00, 1:03:02)*
+- Alexander [[john-b-alexander]] says MJ-12 was real but nothing to do with UFOs; see Alexander's Soviet-disinformation claim about the manual. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 48:43)*

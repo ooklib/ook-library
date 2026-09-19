@@ -15,6 +15,9 @@ relations:
     target: david-grush
   - relation: references_testimony_of
     target: eric-burlison
+  - relation: investigates
+    target: majestic-documents
+    note: "interviews Ryan S. Wood, 2024-08-25"
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -26,6 +29,8 @@ sources:
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
+    label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -73,3 +78,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Additional coverage (gerb/sarbacher)
 
 2024-04-08 video on [[robert-sarbacher]], [[eric-a-walker]] and the [[wright-field-crash-retrieval-meeting-1950]]. Gerb notes he was ill while recording, and promises future videos on MJ-12 documents and Kecksburg ([[kecksburg-ufo-crash-1965]]). *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 19:41-19:56, 17:32-17:47, 20:44-20:51)*
+
+## Additional claims (gerb/mj12)
+
+- Gerb's 2024-08-25 video with [[ryan-s-wood]] shifts him from "mix of information and disinformation" to holding that MJ-12 likely was, and possibly is, real. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:34:05, 1:38:24)*

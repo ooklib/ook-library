@@ -179,11 +179,11 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[j-andrew-kissner]] · [[george-knapp]] · [[sumner-shapiro]] · [[richard-doty]] ·
 [[eric-henry-wang]] · [[robert-sarbacher]] · [[matthew-sullivan]] · [[harry-reid]] ·
 [[edward-j-ruppelt]] · [[harald-malmgren]] · [[pippa-malmgren]] · [[lawrence-preston-gise]] ·
-[[geoffrey-cruickshank]] · [[jesse-michels]] · [[john-lear]] · [[paul-schatzkin]] · [[nick-cook]] (last three added by `jm/townsend-brown`)
+[[ryan-s-wood]] · [[dr-robert-wood]] · [[timothy-cooper]] · [[thomas-cantwheel]] · [[boris-dimitri-tasov]] (added by `gerb/mj12`) · [[geoffrey-cruickshank]] · [[jesse-michels]] · [[john-lear]] · [[paul-schatzkin]] · [[nick-cook]] (last three added by `jm/townsend-brown`)
 
 ## People — gatekeepers & officials
 
-[[donald-kerr]] · [[stephanie-osullivan]] · [[susan-m-gordon]] ·
+[[nathan-twining]] · [[donald-menzel]] · [[detlev-bronk]] (MJ-12 named members, `gerb/mj12`) · [[donald-kerr]] · [[stephanie-osullivan]] · [[susan-m-gordon]] ·
 [[paul-kaminski]] · [[john-m-deutch]] · [[linton-wells-ii]] · [[william-laplante]] ·
 [[sean-kirkpatrick]] · [[ronald-moultrie]] · [[terry-phillips]] · [[donna-shipton]] ·
 [[peter-highnam]] · [[mike-mcconnell]] · [[dan-coats]] · [[bill-clinton]] · [[bill-perry]] ·
@@ -212,6 +212,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[benito-mussolini]] · [[galeazzo-ciano]] · [[italo-balbo]] · [[guglielmo-marconi]] · [[roberto-pinotti]] · [[tomaso-david]] (added by `gerb/magenta`, all Magenta-case figures)
 
 ## Programs / Events
+
+[[project-moon-dust]] — 1961 USAF recovery group, Blue Fly (`gerb/mj12`)
 
 [[draft-eisenhower-movement]] — 1952 Yankee-Republican push (`ewa/bush-1`) · [[cia-mafia-assassination-plots]] — alleged 1960-61+ CIA/mob Castro plots (`ewa/cia-mafia`) · [[jeddah-agreements]]
 
@@ -303,6 +305,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[arthur-macarthur-jr]] — MacArthur's father, China-market memo, Philippine governor · [[william-howard-taft]] — first civilian Philippine governor, Bones family · [[elihu-root]] — war/state secretary, CFR founder · [[philippine-american-war]] — US conquest of the Philippines (event) · [[courtney-whitney]] — MacArthur's lawyer/fixer, Willoughby's rival · [[hukbalahap]] — Filipino resistance/Huk org · [[clare-boothe-luce]] — Willoughby's lover, Time-Life link · [[robert-e-wood]] — Sears chairman, America First founder · [[arthur-vandenberg]] — senator, 1944 MacArthur backer · [[allied-intelligence-bureau]] — "MacArthur's OSS" in Brisbane · [[andres-soriano]] — Falangist Manila magnate — added by `ewa/willoughby-2` (also expanded: [[douglas-macarthur]], [[charles-willoughby]]).
 
 ## Concepts
+
+[[majestic-documents]] — corpus/provenance of MJ-12 leaks (`gerb/mj12`) · [[eisenhower-briefing-document]] · [[special-operations-manual-som1-01]] · [[bowen-manuscript]] · [[burned-memo]] · [[twining-white-hot-report]] · [[aquarius-document]] (all `gerb/mj12`)
 
 [[texas-raj]] — East Texas oil-independent class behind the "Cowboys" (`ewa/bush-2`)
 

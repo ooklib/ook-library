@@ -42,6 +42,8 @@ sources:
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
+    label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -144,3 +146,8 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
 ## Additional claims (gerb/sarbacher)
 
 - Gerb speculates that the light, tough materials and insectoid beings in [[robert-sarbacher]]'s 1983 letter, the Wright Field meeting, and the [[hottel-memo-1950]] may concern Roswell (unverified). *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 10:23-10:57, 12:06-12:15, 19:27-19:34)*
+
+## Additional claims (gerb/mj12)
+
+- Majestic documents (EBD, IPU report, White Hot report) center on Roswell: IPU report notes 23:32 MST loss of radar, two sites, deaths of Sandia technicians from contamination, and an early Mogul-balloon theory dropped after Los Alamos assessment. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 17:01, 20:13, 21:19, 22:03)*
+- Gerb cites Brig. Gen. Steven Lovekin observing Roswell debris in a classified Blue Book portion. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 9:43)*

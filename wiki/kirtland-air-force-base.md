@@ -20,6 +20,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
+    label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
 ---
 
 Kirtland AFB, New Mexico, hosts a deep underground military installation and
@@ -66,3 +68,7 @@ Kirtland AFB, New Mexico, hosts a deep underground military installation and
 - Hosted the [[air-force-special-weapons-center]] (employer of [[eric-henry-wang]]); permanent
   [[air-force-office-of-special-investigations|AFOSI/PJ]] station and base for
   [[richard-doty]].
+
+## Additional claims (gerb/mj12)
+
+- The SOM1-01 change-control page carries "Kirtland Air Force Base, N.MEX", unit KB 88, Building 21 (now Building 40 per Wood); media and maps from crash sites are to go there. Ryan Wood matched initials to residents of Kirtland's Perimeter Road. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 13:33, 38:52, 44:38)*

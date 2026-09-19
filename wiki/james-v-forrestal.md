@@ -11,11 +11,16 @@ relations:
     note: "alleged original MJ-12 member"
   - relation: mission_partner_of
     target: vannevar-bush
+  - relation: member_of
+    target: majestic-12
+    note: "named original member; replaced by Walter Bedell Smith"
 sources:
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
+    label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
 ---
 
 James V. Forrestal, Secretary of the Navy (and later first US Secretary of Defense), co-founded
@@ -46,3 +51,8 @@ window — a death Gerb notes in passing as suspicious. *([gerb/sandia](../raw/g
 ## Additional claims (jm/malmgren)
 
 - [[harald-malmgren]] says [[john-f-kennedy]] learned about UFOs from Forrestal in naval intelligence, and that he found several references to Forrestal going to Paris with questions and getting answers; he thinks Forrestal's death "probably" had to do with UFOs but will not speculate. Host cites Admiral Byrd's Operation Highjump as Forrestal-linked and repeats the MJ-12 membership rumor. *(Speculation:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 2:19:17-2:20:40, 2:22:50-2:23:42, 1:57:38-1:57:53)**)*
+
+## Additional claims (gerb/mj12)
+
+- Wood says Forrestal (with a drinking problem) wanted more openness and was thrown or fell from a high floor of Bethesda naval hospital; a Majestic document says his loss was "necessary and regrettable" and Wood dedicates *Majic Eyes Only* to those who lost their lives for UFO secrecy. Gerb: "so much more work to be done". *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:19:06, 1:19:43, 1:37:36)*
+- Truman-to-Forrestal memo (24 Sept 1947) among the documents. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 7:55)*
