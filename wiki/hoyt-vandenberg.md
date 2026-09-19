@@ -1,7 +1,7 @@
 ---
 title: Hoyt Vandenberg
 kind: person
-aliases: []
+aliases: [General Hoy Vandenberg, Hoyt S. Vandenberg]
 tags: [cia-history, air-force, cold-war]
 relations:
   - relation: employed_by
@@ -13,6 +13,9 @@ relations:
   - relation: associate_of
     target: arthur-vandenberg
     note: "nephew of the senator (host)"
+  - relation: member_of
+    target: majestic-12
+    note: "named original member in the Eisenhower Briefing Document roster (per Gerb)"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
@@ -20,6 +23,10 @@ sources:
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
     label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
+  - file: "raw/gerb/secrecy_1.md"
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
+    label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
 ---
 
 Air Marshal Hoyt Vandenberg was, per Eyes Wide Open, the second director of the
@@ -43,3 +50,8 @@ US Air Force under the [[national-security-act-1947|National Security Act of 194
 - Memo on French Communist strength preceding [[plan-bleu-1947]].
 
 - ewa/willoughby-2: host notes in passing that Senator [[arthur-vandenberg]]'s nephew was Air Force general Hoyt Vandenberg, "the second director of CIA from 1947 to 48". *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:08:39-1:08:52)*
+
+## MJ-12
+
+- Named as an original [[majestic-12]] member on the Eisenhower Briefing Document roster (ASR "Hoy Vandenberg"). *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:30:54-1:31:26)*
+- Named among the first six members by Gerb and Wood *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 2:46, 3:34, 22:35)*

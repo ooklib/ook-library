@@ -39,6 +39,10 @@ Debate, on Coulthart's "Reality Check", over why anyone would fabricate or plant
 
 - Gerb (and Alexander in gerb/mj12) discuss Soviet-disinformation origins; Wood defends authenticity via calendar matches. rc/mj12 adds the CIA-number arguments and an identified leaker (Scotty Miller). See [[majestic-12]].
 
+## Wiki owner's working hypothesis (not a source claim)
+
+This section is the wiki owner's own hypothesis, not something asserted in any ingested source. The FBI/USAF/GAO "hoax" verdict (see above, and Wikipedia's treatment) was likely itself a desperate cover-up. Some real information probably leaked, and the legacy-program apparatus likely ran a counterintelligence operation mixing real and fake material so as to discredit the whole topic (compare the Davis "make the whole thing radioactive" argument). In that light every name on the [[majestic-12]] roster is plausible: each is a plausible real-world figure for a 1947-52 program overseeing the scientific, intelligence and military aspects of the problem. See the roster in [[majestic-12#Alleged members]].
+
 ## Relationships
 
 - Part of [[majestic-documents]] discourse; see [[jed-davis]], [[geoffrey-cruickshank]], [[james-jesus-angleton]].

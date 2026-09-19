@@ -55,6 +55,28 @@ Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for
 most-senior tier of legacy-program leadership; he calls [[donald-kerr]] "what you would consider
 MJ1 if you use Majestic 12 terminology." *([gerb/mitre](../raw/gerb/mitre.md) 1:38:51–1:39:06)*
 
+## Alleged members
+
+The alleged original roster per the [[eisenhower-briefing-document]] (Eisenhower briefing, 18 Nov 1952), as read out by UAP Gerb *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:30:54-1:31:26)*. Wikipedia's "Majestic 12" article lists the same twelve (general background, not from a transcript). Per the wiki-wide convention, each member page has a `## MJ-12` section with citations. Every entry is an alleged membership from disputed documents, not established fact; see [[mj12-disinformation-hypothesis]].
+
+| Name | Role / background (as given in sources) | Page | Notes and sources |
+|---|---|---|---|
+| Vannevar Bush | scientist, head of the OSRD and chair of the Joint [[research-and-development-board]]; the group is said to originate on his advice | [[vannevar-bush]] | Named with Forrestal in the 24 Sept 1947 Truman memo; gerb/secrecy_1, gerb/sandia, gerb/mj12, jm/kissinger, rc/mj12 |
+| James Forrestal | Secretary of Defense, NSC member; died May 1949 | [[james-v-forrestal]] | Replaced by Walter Bedell Smith (EBD, 1 Aug 1950); gerb/secrecy_1, gerb/sandia, gerb/mj12, rc/mj12 |
+| Walter Bedell Smith | general, later CIA director; Forrestal's replacement | [[walter-bedell-smith]] | Not in the original twelve; EBD says appointed 1 Aug 1950; gerb/secrecy_1, gerb/sandia, gerb/mj12 |
+| Roscoe Hillenkoetter | admiral, third DCI (first CIA director) | [[roscoe-hillenkoetter]] | gerb/secrecy_1, gerb/mj12, rc/mj12 |
+| Sidney Souers | civilian (Mr.), intelligence official | [[sidney-souers]] | Named only in gerb/secrecy_1 (ASR "Sydney Sour") |
+| Hoyt Vandenberg | general, USAF Chief of Staff, earlier DCI | [[hoyt-vandenberg]] | gerb/secrecy_1, gerb/mj12 |
+| Nathan Twining | USAF general, Project Sign, Wright Field, author of the [[twining-white-hot-report]] | [[nathan-twining]] | gerb/secrecy_1, gerb/mj12; also [[cutler-twining-memo]] |
+| Robert M. Montague | general | [[robert-m-montague]] | Named only in gerb/secrecy_1 (ASR "Robert H. Montigue") |
+| Detlev Bronk | physiologist, alleged autopsy performer | [[detlev-bronk]] | gerb/secrecy_1, gerb/mj12, jm/kissinger, rc/mj12; alleged Aztec team member per Steinman |
+| Jerome Hunsaker | scientist (Dr.) | [[jerome-hunsaker]] | gerb/secrecy_1 (ASR "Hunaker"); alleged Aztec team member per Steinman |
+| Lloyd Berkner | scientist, scientific-attache idea | [[lloyd-berkner]] | gerb/secrecy_1, rc/mj12; alleged Aztec team member per Steinman |
+| Donald Menzel | Harvard astronomer, security consultant | [[donald-menzel]] | gerb/secrecy_1, gerb/mj12, jm/kissinger, rc/mj12 |
+| Gordon Gray | Secretary of the Army, later Eisenhower's national security adviser | [[gordon-gray]] | gerb/secrecy_1, jm/kissinger |
+
+Roster composition per gerb/mj12: six civilians and six military members (two each from Army, Navy, Air Force). *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 2:46, 3:34)*
+
 ## Claims (from the SAIC video)
 
 - [[colonel-steve-wilson|Colonel Steve Wilson]]'s "map of Star Wars City" and claimed
@@ -81,12 +103,8 @@ MJ1 if you use Majestic 12 terminology." *([gerb/mitre](../raw/gerb/mitre.md) 1:
 
 - The Eisenhower Briefing Document (EBD, dated 18 November 1952) — the first alleged MJ-12 leak
   to surface, and one UAP Gerb finds "somewhat convincing" owing to authentication work by the
-  late Stanton Friedman — names the full original MJ-12 roster: Forrestal (replaced by General
-  Walter Bedell Smith after Forrestal's 1949 death), Admiral Roscoe Hillenkoetter,
-  [[vannevar-bush|Vannevar Bush]], General Nathan Twining, General Hoyt Vandenberg, Dr. Detlev
-  Bronk, Dr. Jerome Hunsaker, Mr. Sidney Souers, Mr. Gordon Gray, Dr. Donald Menzel, General
-  Robert Montague, and Dr. Lloyd Berkner. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md)
-  1:28:58–1:31:26)*
+  late Stanton Friedman — names the full original MJ-12 roster; see [[#Alleged members]] for the
+  table. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:28:58–1:31:26; roster itself at 1:30:54–1:31:26)*
 - The EBD contains a memorandum allegedly from Truman to Forrestal dated 24 September 1947
   authorizing Forrestal and Bush to proceed with "Operation Majestic 12" — a meeting date Truman's
   real appointment records confirm occurred. The EBD's account of Walter Bedell Smith replacing

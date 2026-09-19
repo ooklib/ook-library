@@ -1,7 +1,7 @@
 ---
 title: Donald H. Menzel
 kind: person
-aliases: [Don Menzel, Menzel]
+aliases: [Don Menzel, Menzel, Donald Menel, Dr. Donald Menel]
 tags: [astronomer, mj-12, harvard]
 relations:
   - relation: member_of
@@ -14,6 +14,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/gerb/secrecy_1.md"
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 Harvard astronomer and high-security consultant to NSA and CIA, a named original [[majestic-12]] member. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 3:34)*
@@ -30,3 +32,8 @@ Harvard astronomer and high-security consultant to NSA and CIA, a named original
 ## Additional claims (rc/mj12)
 
 - [[jed-davis]] reads Hillenkoetter's proposal to give scientists a "course of intelligence" as consistent with Menzel's career as a scientist with a secret second identity, discovered only after his death. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 22:16-22:32)*
+
+## MJ-12
+
+- Named as an original [[majestic-12]] member on the Eisenhower Briefing Document roster (ASR "Menel"). *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:30:54-1:31:26)*
+- Named among the first six members *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 2:46, 3:34, 22:35)*; listed by Michels *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 34:09-36:27)*; personnel match per Davis *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 1:11:39-1:11:56)*

@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/gerb/secrecy_1.md"
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 USAF general, leader of Project Sign (aka Project Saucer) in 1948 and a named original [[majestic-12]] member. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 3:34)*
@@ -25,3 +27,8 @@ USAF general, leader of Project Sign (aka Project Saucer) in 1948 and a named or
 - Named by the [[eisenhower-briefing-document]] for craft and body recovery with [[vannevar-bush]]. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 8:52)*
 - Author of the [[twining-white-hot-report]]; named in the IPU report as aiding recovery. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 21:41)*
 - Stationed at Wright Field, home of the Army Air Materiel Command. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:14:18)*
+
+## MJ-12
+
+- Named as an original [[majestic-12]] member on the Eisenhower Briefing Document roster. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:30:54-1:31:26)*
+- Named among the first six members by Gerb and Wood *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 2:46, 3:34, 22:35)*; see also [[twining-white-hot-report]] and [[cutler-twining-memo]].

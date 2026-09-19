@@ -51,6 +51,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
+    label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program? (Jesse Michels)"
 ---
 
 Dr. Vannevar Bush is presented as the intellectual architect of the modern
@@ -161,3 +163,8 @@ Dr. Vannevar Bush is presented as the intellectual architect of the modern
 
 - [[jed-davis]]: in Dec 1946 Bush, [[allen-dulles]], [[william-donovan]] and [[hoyt-vandenberg]] met in New York for three days, leading (Jan 1947) to an agreement between the [[central-intelligence-group]] and the [[research-and-development-board]] leveraging Bush's contacts; Davis says the R&DB in May 1947 created its own intelligence panels, alarming CIG. Bush was "the most powerful scientist in the US" to whom Oppenheimer and Groves ultimately reported. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 15:12-16:11, 18:34-19:39)*
 - Hillenkoetter tells the [[nia-meeting-1947-06-26]] he is working with Bush on scientific intelligence. Bush's MIT oral history credits [[lloyd-berkner]] with the scientific-attache idea. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 20:18-20:58)*
+
+## MJ-12
+
+- Named on the Eisenhower Briefing Document as the person Truman authorized, with [[james-v-forrestal]], to proceed with Operation Majestic 12 (24 Sept 1947), and as an original member. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:30:54-1:31:26)*
+- Gerb traces MJ-12's origin to Bush's 12-member Joint [[research-and-development-board]]. See also *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 2:46, 3:34, 22:35)*, *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 34:09-36:27)*, *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 1:11:39-1:11:56)*

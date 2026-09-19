@@ -183,6 +183,10 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[edward-j-ruppelt]] · [[harald-malmgren]] · [[pippa-malmgren]] · [[lawrence-preston-gise]] ·
 [[ryan-s-wood]] · [[dr-robert-wood]] · [[timothy-cooper]] · [[thomas-cantwheel]] · [[boris-dimitri-tasov]] (added by `gerb/mj12`) · [[geoffrey-cruickshank]] · [[jesse-michels]] · [[john-lear]] · [[paul-schatzkin]] · [[nick-cook]] (last three added by `jm/townsend-brown`)
 
+## People — alleged MJ-12 members
+
+**Alleged MJ-12 members** (roster in [[majestic-12]]): [[vannevar-bush]] · [[james-v-forrestal]] · [[walter-bedell-smith]] (Forrestal's replacement) · [[roscoe-hillenkoetter]] · [[sidney-souers]] · [[hoyt-vandenberg]] · [[nathan-twining]] · [[robert-m-montague]] · [[detlev-bronk]] · [[jerome-hunsaker]] · [[lloyd-berkner]] · [[donald-menzel]] · [[gordon-gray]]
+
 ## People — gatekeepers & officials
 
 [[nathan-twining]] · [[donald-menzel]] · [[detlev-bronk]] (MJ-12 named members, `gerb/mj12`) · [[donald-kerr]] · [[stephanie-osullivan]] · [[susan-m-gordon]] ·

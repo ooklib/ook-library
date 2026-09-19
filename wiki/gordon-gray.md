@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/gerb/secrecy_1.md"
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 Gordon Gray was a former Secretary of the Army, head of the [[psychological-strategy-board]], later Eisenhower's national security adviser and president of the University of North Carolina. In jm/kissinger he is presented as a plausible read-in to high-level UFO programs and as Kissinger's direct patron.
@@ -26,3 +28,9 @@ Gordon Gray was a former Secretary of the Army, head of the [[psychological-stra
 - Gravity-research link: a November 1955 New York Herald Tribune article ("Conquest of gravity aim of top scientists in United States") says a UNC institute of pure physics, later the Institute of Field Physics of [[agnew-bahnson]], had been sanctioned by trustees under Gray's final approval; it hosted the 1956 Chapel Hill Conference on gravity (sponsored by Wright Airfield) while Bahnson funded [[thomas-townsend-brown]]. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 22:38, 22:45, 22:53, 23:09, 23:16, 23:23, 23:33, 23:41, 23:49)*
 - Named as an adviser in the leaked [[majestic-12]] documentation; Michels concludes it is a "very plausible case" he was read in. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 23:57, 24:05, 24:14)*
 - Kissinger's circle at that time (Dulles correspondence, Gray at the PSB) is asserted to have been the elite context for his later UFO-program role. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 24:24, 24:30)*
+
+## MJ-12
+
+- Named as an original [[majestic-12]] member on the Eisenhower Briefing Document roster. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:30:54-1:31:26)*
+- Michels lists him among named members of the leaked MJ-12 documents. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 34:09-36:27)*
+- Gerb reads Gray's 1958-61 role as Eisenhower's national security adviser (a seat on the [[nsc-5412-committee]]) as evidence MJ-12 or its successor continued. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:31:26-1:34:21)*

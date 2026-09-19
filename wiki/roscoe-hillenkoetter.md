@@ -1,7 +1,7 @@
 ---
 title: Roscoe Hillenkoetter
 kind: person
-aliases: ["Roscoe Hillenk Oetter"]
+aliases: ["Roscoe Hillenk Oetter", "Admiral Roscoe Henencoder", "Rosco Henencoder"]
 tags: [cia-history, navy]
 relations:
   - relation: preceded_by
@@ -25,6 +25,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/gerb/secrecy_1.md"
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 Roscoe Hillenkoetter (rendered "Hillenk Oetter" in Eyes Wide Open's ASR captions) was a US naval
@@ -59,3 +61,8 @@ effectiveness.
 ## Additional claims (rc/mj12)
 
 - Per [[jed-davis]]: at the [[nia-meeting-1947-06-26]] he said the CIG lacked collectors for scientific intelligence and outlined two proposals (scientific attaches; giving scientists an intelligence course). He was at the White House at 11:00 on 24 Sept 1947, per his diary (declassified 2001). Coulthart/Cruickshank: JFK, as a young congressman, wrote him a declassified letter (2001) complaining about junior CIA officers. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 20:10-22:16, 45:58-46:18, 1:17:33-1:17:55)*
+
+## MJ-12
+
+- Named as an original [[majestic-12]] member on the Eisenhower Briefing Document roster. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:30:54-1:31:26)*
+- Named among the first six members by Gerb and Wood *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 2:46, 3:34, 22:35)*; Davis notes the dossier packet lists him first, then Bush, as in the EBD *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 1:11:39-1:11:56)*

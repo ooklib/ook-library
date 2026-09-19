@@ -23,6 +23,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/gerb/secrecy_1.md"
+    label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
 ---
 
 James V. Forrestal, Secretary of the Navy (and later first US Secretary of Defense), co-founded
@@ -62,3 +64,8 @@ window — a death Gerb notes in passing as suspicious. *([gerb/sandia](../raw/g
 ## Additional claims (rc/mj12)
 
 - [[jed-davis]]: Forrestal, David Lilienthal, [[george-c-marshall]] and Robert Patterson met [[harry-truman]] off record on 27 June 1947, the day after the [[nia-meeting-1947-06-26]], with another off-record meeting the next Monday; he registered a Smith & Wesson revolver on 24 Sept 1947 and sent a dossier packet to the White House on 28 Aug 1947. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 34:38-35:28, 1:16:30-1:17:24)*
+
+## MJ-12
+
+- Named as an original [[majestic-12]] member; the EBD's Truman memo (24 Sept 1947) authorizes him and [[vannevar-bush]] to proceed. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:30:54-1:31:26)*
+- Per the EBD, replaced by [[walter-bedell-smith]] on 1 Aug 1950 after his May 1949 death. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:30:20-1:30:54)*; also *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 2:46, 3:34, 22:35)*, *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 1:11:39-1:11:56)*
