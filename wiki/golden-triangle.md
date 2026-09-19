@@ -16,6 +16,8 @@ sources:
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
+    label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
 ---
 
 The Golden Triangle is the Southeast Asian opium-producing region (including China's Yunnan province, Laos and Burma). Per Eyes Wide Open, Yunnan became the world's largest poppy producer between the 1950s and 1980s; a deeper dive is promised in the next episode on CIA operations in Burma. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 3:06-3:19, 23:25-23:32)*
@@ -31,9 +33,12 @@ The Golden Triangle is the Southeast Asian opium-producing region (including Chi
 
 - LAOS 3: host says the Golden Triangle fell quiet for a couple of years after Geneva as new regimes outlawed the trade, before opium flowed again; it would overtake Turkey as the most important opium region by the early 1970s. He calls the 1958 restart the "Cold War opium boom" via [[alfred-mccoy]]. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 4:09-4:48, 47:39-48:37)*
 
+- LAOS 4: Plain of Jars as centre of the Golden Triangle and main opium-producing region; Laos-to-Bangkok and Laos-to-Saigon opium routes; Thai border police involvement in the opium trade from Burma's Shan state. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 9:52-10:20, 51:51-52:30, 55:40-56:16)*
+
 ## Relationships
 
 - See [[oss-detachment-202]], [[cia-drug-paradigm]], [[civil-air-transport]].
 - See [[operation-paper]], [[li-mi]], [[khun-sa]], [[phao-sriyanon]].
 - See [[laos]], [[hmong-people]], [[secret-war-in-laos]].
 - LAOS 3: [[air-laos-commerce]].
+- LAOS 4: LAOS 4: [[paru]], [[laos-coups-1958-1960]].

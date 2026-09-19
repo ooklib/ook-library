@@ -19,6 +19,8 @@ sources:
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
+    label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
 ---
 
 The "secret war" in [[laos]] is the nearly two-decade conflict that [[eyes-wide-open]] begins to chronicle in the Season 2 series LAOS 1-4. This page holds the overview claims from the introduction (LAOS 1); later episodes will add detail. The host dedicates the project to the people of Laos and to Vietnamese, Lao, Thai, Cambodian, Burmese and American victims of the Southeast Asian wars. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 0:00-0:44)*
@@ -37,8 +39,13 @@ The "secret war" in [[laos]] is the nearly two-decade conflict that [[eyes-wide-
 
 - LAOS 3: the host frames the interwar decade as the run-up: CIA coups and counter-coups in Laos to install a pro-Western client who would let the protected narcotics trade flourish, igniting the Lao civil war (covered next, LAOS 4). *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 0:43-1:09, 1:00:45-1:01:08)*
 
+- LAOS 4: framing: the host distinguishes the Ho Chi Minh Trail counterinsurgency war (south, from 1959) from the secret war in the north (roughly 1961-1972), fought by the CIA and its Hmong clients, which he says set the CIA's playbook for Nicaragua and Afghanistan, brought a privatized model of black ops, and whose personnel re-emerged as the Iran-Contra "Enterprise" group. Speculative/host framing. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 0:38-3:49)*
+- LAOS 4: origins: 1958-1960 CIA-backed coups ([[laos-coups-1958-1960]]); [[operation-brotherhood]] and USAID cover; [[operation-white-star]]; [[paru]] and [[bill-lair]]; [[operation-momentum]] (about 40,000 Hmong fighters); the cancelled [[operation-milpond]] bombing; and the 1962 Geneva agreement that handed the war to the CIA. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 27:37-29:56, 1:11:47-1:12:02, 1:17:31-1:18:45)*
+- LAOS 4: the host says the opium trade funded the war, with Royal Lao Army and Hmong profits letting the CIA fight without official US military presence. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 10:33-11:03)*
+
 ## Relationships
 
 - Set in [[laos]]; run by the [[central-intelligence-agency]] with the Pentagon; see [[cia-drug-paradigm]], [[narco-counterinsurgency]], [[vang-pao]], [[hmong-people]].
 - LAOS 2: precursor in [[operation-x]], [[first-indochina-war]], [[geneva-conference-1954]].
 - LAOS 3: [[ngo-dinh-nhu]], [[air-laos-commerce]].
+- LAOS 4: LAOS 4: [[laos-coups-1958-1960]], [[operation-momentum]], [[operation-milpond]], [[operation-white-star]], [[operation-brotherhood]], [[bill-lair]], [[paru]], [[john-f-kennedy]].

@@ -68,6 +68,8 @@ sources:
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
+    label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -178,6 +180,8 @@ calls him "arguably one of, if not the most important person in modern American 
 
 - LAOS 3: sent the [[saigon-military-mission]] on 1 June 1954; the host says it was his personal project and Lansdale reported only to him; impressed by Lansdale's Philippines results. A 1954 remark to the NSC, quoted, says a majority of Vietnamese supported the Viet Minh after Dien Bien Phu. Host finds Dulles compelling as the authority "higher than Nixon" behind the MSU program. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 14:29-15:18, 18:08-18:21, 29:32-29:55, 56:47-57:05)*
 
+- LAOS 4: Dec 28, 1958 NSC statement that "drastic changes" in the Lao government were needed; per [[bill-lair]] visited his Thai training camp in 1953; authorized [[operation-momentum]] by short cable in early 1961; then fired after the [[bay-of-pigs-invasion]]. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 37:07-37:32, 1:00:50-1:01:13, 1:11:19-1:11:47, 1:16:28-1:16:42)*
+
 ## Relationships
 
 - OSS officer under [[william-donovan]]; future director of the
@@ -206,3 +210,4 @@ calls him "arguably one of, if not the most important person in modern American 
 - See [[e-howard-hunt]], [[bay-of-pigs-invasion]], [[operation-pbsuccess]], [[kennedy-assassination]].
 - LAOS 2: impressed by French [[operation-x]].
 - LAOS 3: [[saigon-military-mission]], [[wesley-fishell]].
+- LAOS 4: LAOS 4: [[laos-coups-1958-1960]], [[operation-momentum]], [[desmond-fitzgerald]].

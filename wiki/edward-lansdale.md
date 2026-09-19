@@ -20,6 +20,8 @@ sources:
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
+    label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
 ---
 
 Edward Lansdale is described by Eyes Wide Open as a legendary CIA counter-insurgency expert and, per Alfred McCoy, Allen Dulles's main liaison in southern Vietnam, under whom [[lucien-conein]] served as top aide from 1954. The host defers fuller coverage to the First Indochina War episode. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 15:37-16:15)*
@@ -39,8 +41,11 @@ Edward Lansdale is described by Eyes Wide Open as a legendary CIA counter-insurg
 - Kennedy-assassination link: the host says a "reliable source" identified Lansdale as the man walking in the photo of the three tramps in Dallas on 22 November 1963, deferring it; see [[kennedy-assassination]]. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 52:58-53:17)*
 - His influence on Diem was outweighed by [[wesley-fishell]]'s, who had Diem's trust "that Diem never really provided to Lansdale or Conein". *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 53:29-54:01)*
 
+- LAOS 4: host cites [[operation-brotherhood]]'s Filipino staff as parallel to Lansdale's Filipino assets in Vietnam; the Philippines is described as a provider of mercenaries and counterinsurgency training. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 7:01-7:19, 25:39-25:57)*
+
 ## Relationships
 
 - Superior of [[lucien-conein]]; liaison for [[allen-dulles]] in Vietnam (per McCoy).
 - LAOS 2: briefed by [[roger-trinquier]] on [[operation-x]]; see [[ngo-dinh-diem]].
 - LAOS 3: [[saigon-military-mission]], [[battle-of-saigon-1955]], [[yamashita-gold]], [[wesley-fishell]].
+- LAOS 4: LAOS 4: [[operation-brotherhood]].

@@ -37,6 +37,8 @@ sources:
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
+    label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -122,6 +124,8 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 
 - LAOS 3 (published 2024-11-15; first released to Patreon 3 April 2024) is the interwar-Vietnam episode, covering the Ngo regime, Lansdale, the Corsican/CIA opium nexus and MSU; the host says next week's LAOS 4 covers interwar Laos (about 1h20m). Bibliography includes Morgan's *The Vietnam Lobby*, Ahern's *The CIA and the House of Ngo*, Fall, Ernst, the Seagraves' *Gold Warriors*, Jacobsen's *Surprise, Kill, Vanish*, the Pentagon Papers, Valentine and McCoy. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 0:00-1:01, 1:02:33-1:02:51)*
 
+- LAOS 4: LAOS 4 (final of the Laos arc; first aired on Patreon April 24, 2024): frames the secret war and previews the War Conspiracy series (Peter Dale Scott, military-industrial complex), a Cuba/JM WAVE series featuring Ted Shockley (ASR), and a Louisiana/JFK build-up; return to Laos midway through 2025. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 1:18:52-1:22:03)*
+
 ## Relationships
 
 - Investigates the [[office-of-strategic-services]] and the [[central-intelligence-agency]] as
@@ -135,3 +139,4 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 - LAOS 1 overview: [[secret-war-in-laos]], [[laos]], [[french-indochina]], [[hmong-people]], [[ho-chi-minh]], [[deer-mission]], [[dwight-d-eisenhower]].
 - LAOS 2: on-air self-correction on [[operation-x]].
 - LAOS 3: [[ngo-dinh-diem]], [[ngo-dinh-nhu]], [[edward-lansdale]], [[wesley-fishell]], [[saigon-military-mission]], [[battle-of-saigon-1955]], [[strategic-hamlet-program]], [[air-laos-commerce]], [[vietnam-lobby]], [[yamashita-gold]], [[michigan-state-university-vietnam-advisory-group]].
+- LAOS 4: LAOS 4: [[laos-coups-1958-1960]], [[bill-lair]], [[operation-momentum]], [[operation-milpond]], [[operation-white-star]], [[phoumi-nosavan]], [[souvanna-phouma]], [[kong-le]], [[pathet-lao]], [[paru]], [[operation-brotherhood]], [[ouane-rattikone]], [[desmond-fitzgerald]], [[john-f-kennedy]].

@@ -62,6 +62,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
+    label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
 ---
 
 William "Wild Bill" Donovan was a WWI-hero-turned-Wall-Street-lawyer who became the first (and
@@ -140,6 +142,8 @@ administrator.
 
 - LAOS 3: introduced to [[ngo-dinh-diem]] in spring 1951; the host speculates that as a fellow Catholic he could have recommended Diem to [[allen-dulles]], and says some speculate he had a role in Diem's 1954 appointment as he (then ambassador to Thailand) arrived in Saigon alongside [[edward-lansdale]]. In 1945 he also sent 50 OSS men to the Pentagon to be posted to the Philippines under a military-intelligence G2 designation, Lansdale among them. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 11:47-12:11, 18:44-19:08, 27:36-27:53)*
 
+- LAOS 4: host calls Donovan "in a sense the first CIA cowboy" and links him to [[world-commerce-corporation]] and SEA Supply; [[desmond-fitzgerald]] was reportedly his friend. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 1:03:12-1:03:26, 1:10:43-1:10:54)*
+
 ## Relationships
 
 - Directed the [[office-of-strategic-services]], appointed by [[franklin-d-roosevelt]].
@@ -161,3 +165,4 @@ administrator.
 - Founder/chairman of [[american-committee-on-united-europe]].
 - See [[willis-bird]], [[operation-paper]].
 - LAOS 3: see [[vietnam-lobby]], [[yamashita-gold]].
+- LAOS 4: LAOS 4: [[desmond-fitzgerald]].

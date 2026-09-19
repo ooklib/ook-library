@@ -29,6 +29,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
+    label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
 ---
 
 Civil Air Transport was a nominally commercial airline run by the Nationalist Chinese government
@@ -58,6 +60,8 @@ Helliwell's first opium-smuggling route and the direct ancestor of [[air-america
 
 - LAOS 2: contracted by the French in 1954 to bring troops and supplies to [[battle-of-dien-bien-phu]] (per McCoy); the host says the CIA shifted CAT from northern Thailand/Burma ([[operation-paper]], to 1952) to aiding the French. CAT C-119 pilot James McGovern and crew crashed 6 May 1954 near "bot La", killing five of six; host: the first US casualties of the Indochina wars, CIA contractors in Laos. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 33:26-35:32)* The host also says CAT would become [[air-america]]. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 33:33-33:42)*
 
+- LAOS 4: host: CAT was incorporated and headquartered in Taiwan; renamed Air America in August 1959; used in [[laos-coups-1958-1960]] (Operation Booster Shot airdrops, alleged KMT resupply); Lima sites and helicopters were the effective way to operate in Laos. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 7:38-7:50, 32:22-33:39, 40:11-40:30)*
+
 ## Relationships
 
 - Founded by [[paul-helliwell]] and [[claire-chennault]]; flew for [[chiang-kai-shek]]'s KMT.
@@ -65,3 +69,4 @@ Helliwell's first opium-smuggling route and the direct ancestor of [[air-america
 - Renamed/reformed into [[air-america]].
 - Operated for [[operation-paper]]; CIA-owned from August 1950.
 - LAOS 2: airlift for the French at [[battle-of-dien-bien-phu]].
+- LAOS 4: LAOS 4: [[laos-coups-1958-1960]].

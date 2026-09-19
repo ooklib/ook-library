@@ -37,6 +37,8 @@ sources:
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
+    label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
 ---
 
 Colonel Paul E. Helliwell served as chief of special intelligence for the
@@ -85,6 +87,8 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
 
 - LAOS 3: named, in the Yamashita-gold discussion, as a possible CIA banker of the recovered loot ("possibly by CIA bankers such as former OSS agent and narco counterinsurgency mastermind Paul Helliwell", who was also posted in East Asia with the OSS at war's end), and as Conein's chief in Detachment 202. Host presents the Helliwell link only as speculation. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 22:51-23:20, 39:25-39:37)*
 
+- LAOS 4: host: founder of SEA Supply (a CIA cutout under Donovan's [[world-commerce-corporation]]) which funded [[bill-lair]] and the Thai [[paru]] (about $35M/yr to Phao's police) and "founder of the CIA Narco complex". *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 1:01:32-1:02:05, 1:03:07-1:03:19)*
+
 ## Relationships
 
 - OSS chief of special intelligence in China; presented Operation X to [[william-donovan]],
@@ -101,3 +105,4 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
 - Member of the [[deer-mission]].
 - LAOS 2: attribution of [[operation-x]] retracted; see that page.
 - LAOS 3: [[yamashita-gold]].
+- LAOS 4: LAOS 4: [[paru]], [[bill-lair]].

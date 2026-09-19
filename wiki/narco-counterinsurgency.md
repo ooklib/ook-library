@@ -16,6 +16,8 @@ sources:
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
+    label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
 ---
 
 Eyes Wide Open's term for a CIA strategy in which armed proxies are given a short initial injection of
@@ -35,9 +37,13 @@ oversight; the host says [[operation-paper]] is its blueprint. *([ewa/operation-
 
 - LAOS 3: the host extends the model to South Vietnam: the Ngo brothers, with CIA and Corsican help, tapped Laos opium to fund the counterinsurgency and secret police; Laos opium is described as "an untraceable and openly accessible cash source" that whichever power needed covert funds, first the French, then Nhu, could tap. Lansdale and Conein are contrasted as public and shadow sides of the same policy. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 48:44-49:57, 41:08-41:39)*
 
+- LAOS 4: host argues Lao opium profits funded the Royal Lao Army and Hmong army, letting the CIA run a war with no on-the-books US military personnel; in 1962 [[phoumi-nosavan]] assigned covert opium funding to [[ouane-rattikone]] ($35,000 a month, per McCoy). *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 10:33-11:03, 50:16-50:56)*
+- LAOS 4: proprietaries (SEA Supply and [[world-commerce-corporation]]) as the earlier template for the privatized CIA institutionalized by the secret-war men. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 1:02:40-1:03:38)*
+
 ## Relationships
 
 - See [[cia-drug-paradigm]], [[operation-paper]], [[golden-triangle]].
 - See [[secret-war-in-laos]], [[french-indochina]].
 - LAOS 2: French origin in [[operation-x]] ([[roger-trinquier]], [[antoine-savani]]).
 - LAOS 3: [[ngo-dinh-nhu]], [[air-laos-commerce]].
+- LAOS 4: LAOS 4: [[ouane-rattikone]], [[paru]], [[operation-momentum]].

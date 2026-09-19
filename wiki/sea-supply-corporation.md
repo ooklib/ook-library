@@ -15,6 +15,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
+    label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
 ---
 
 Sea Supply Corporation (ASR: "SE Supply", "CE Supply") was, per Eyes Wide Open, an American-
@@ -30,6 +32,9 @@ incorporated shell company created by [[paul-helliwell]] to route weapons and eq
 - Remained active after official aid ended; [[phao-sriyanon]] allegedly picked up weapons from it and
   exchanged them at the Thai-Burma border for opium. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 41:16-41:39)*
 
+- LAOS 4: host: funded Bill Lair's Thai [[paru]] (Lair on its payroll), dispersing about $35 million a year to Phao's police; cited as an early proprietary that the secret war made routine. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 1:01:32-1:02:19, 1:02:40-1:03:19)*
+
 ## Relationships
 
 - Created by [[paul-helliwell]]; vehicle of [[operation-paper]]; paired with [[civil-air-transport]] as a proprietary firm.
+- LAOS 4: LAOS 4: [[paru]], [[bill-lair]].
