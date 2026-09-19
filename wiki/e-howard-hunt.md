@@ -25,11 +25,19 @@ relations:
   - relation: associate_of
     target: frank-sturgis
     note: "close partners in anti-Castro ops and Watergate"
+  - relation: participated_in
+    target: operation-40
+    note: "trainer of the Cuban exile Op 40 group (host)"
+  - relation: associate_of
+    target: david-sanchez-morales
+    note: "reunited in Miami to train Op 40"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 E. Howard Hunt, the "Spook," is presented by Eyes Wide Open as a founding CIA member who began under Helliwell's OSS Detachment 202 in China, ran CIA operations from Mexico, helped organize the 1954 Guatemala coup and the Bay of Pigs, became a Nixon "plumber" in Watergate, and left a disputed deathbed confession about the Kennedy assassination. He wrote spy novels under pen names. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 4:48-5:29)*
@@ -55,3 +63,12 @@ E. Howard Hunt, the "Spook," is presented by Eyes Wide Open as a founding CIA me
 
 - Put in charge of a PB Success role by [[richard-bissell]]; earlier under [[paul-helliwell]] in China in WWII; ran Mexico City propaganda radio; back in Guatemala City in 1958 for the anti-Communist Federation conference. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 14:05-14:41, 16:16-16:40)*
 - Partner of [[frank-sturgis]]; both speculated as JFK "tramps" and Watergate plumbers. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 37:51-39:21)*
+
+## Additional claims (Operation 40)
+
+- Host opens with Nixon's June 23, 1972 "smoking gun" tape: Nixon says of Hunt "he knows too damn much", that it could "blow the whole Bay of Pigs thing", and that Hunt should "tough it and lay it on them"; the host reads this as a mutually-assured-destruction threat to the CIA and asks what the "whole Bay of Pigs thing" was (Haldeman later speculated it concerned the CIA's role in the JFK assassination). *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 0:00-2:59)* See [[richard-nixon]], [[watergate-scandal]].
+- Bay of Pigs: "quintessential political officer" running early recruitment out of JM/WAVE, liaison to exile groups and weapons/cash coordinator; known to exiles as "Eduardo". *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 28:19-28:49)*
+- Frank Sheeran (per *I Heard You Paint Houses*) alleges he took part in a gun shipment in Miami as early as 1960 to a CIA figure "going by Hunt"; host says take it with a grain of salt. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 28:56-29:37)*
+- Trained [[operation-40]] members (per Felipe de Diego and others) as the spycraft/regime-change expert; brought many Op 40 operators into the Nixon-era White House plumbers unit; Felipe de Diego, an Op 40 alumnus, was caught in the Fielding break-in. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 40:46-41:16, 42:54-43:25)*
+- Worked alongside [[david-sanchez-morales]] and David Atlee Phillips in Latin America. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 44:19-44:39)*
+- 1968 Bosch-trial tape: Ricardo Morales alleged a "fellow named Hunt" gave $15,000 to Cuban representatives to place bombs (host: likely Hunt); see [[orlando-bosch]]. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 52:55-53:33)*

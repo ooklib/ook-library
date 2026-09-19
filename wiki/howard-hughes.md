@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 Howard Hughes is the aviation billionaire [[eyes-wide-open]] uses to illustrate wartime
@@ -51,3 +53,7 @@ page also covers his firms Hughes Aircraft Company and Transworld Airline (TWA).
 
 - Rival of [[pan-american-airways]]; a named beneficiary in the [[military-industrial-complex]].
 - Manufactured airframes for [[boeing]] and [[lockheed-martin]]'s predecessor (per the host).
+
+## Additional claims (Operation 40)
+
+- Host: Barry Seal received a TWA (owned by Hughes) cover as "youngest commercial jet pilot", an example of Hughes "helping CIA assets"; next episode to cover Robert Maheu, "a private intelligence asset of Howard Hughes", in the CIA-mob link. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 56:47-57:11, 59:35-59:46)* See [[barry-seal]].

@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 Robert F. Kennedy appears briefly in this episode as a young Justice Department attorney who lost
@@ -32,3 +34,7 @@ anti-Mafia campaign as Attorney General.
 ## Relationships
 
 - Lost the McCarthy chief-counsel role to [[roy-cohn]]; served in a junior role on the committee.
+
+## Additional claims (Operation 40)
+
+- Host: after the Bay of Pigs the guerrilla operations were reorganized under Operation Mongoose, "Bobby Kennedy's show and his obsession"; Morales allegedly claimed a role in killing both Kennedys. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 5:10-5:29, 46:12-46:32)*

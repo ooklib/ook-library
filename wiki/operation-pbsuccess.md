@@ -18,6 +18,8 @@ sources:
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 Operation PBSuccess (1954) is the CIA coup that overthrew Guatemala's elected government of [[jacobo-arbenz]]; per Eyes Wide Open it was the second of the "big three" coups under [[allen-dulles]] (after Iran 1953, before Lumumba 1960), largely at the behest of [[united-fruit-company]], and put [[e-howard-hunt]] on the map. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 5:29-6:16)*
@@ -40,3 +42,7 @@ Operation PBSuccess (1954) is the CIA coup that overthrew Guatemala's elected go
 - [[richard-bissell]] planned it; [[e-howard-hunt]] ran propaganda from the Mexico City station. The host calls it an "unofficial dry run" for the [[bay-of-pigs-invasion]]; force of ~150 Guatemalan exiles. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 13:23-14:41, 53:03-53:17)*
 - Aftermath: Castillo Armas installed, later assassinated by his guard in 1957; civil war from 1960; Guatemala City mob casinos and [[carlos-marcello]]'s second base in 1958. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 14:48-17:12)*
 - Host's thesis: the China Lobby was "only one cog" in an amorphous American ruling class; PBSuccess overlapped China Lobby aviation, [[rockefeller-family]] oil and banana interests. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 9:00-9:16, 14:56-15:21)*
+
+## Additional claims (Operation 40)
+
+- Bissell was its main Langley planner; Esterline reportedly its paramilitary adviser; host: PBSuccess group largely transferred to the Bay of Pigs six years later; Morales, Hunt and Phillips worked Latin America postings. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 13:11-13:19, 22:52-23:11, 44:19-44:33)*

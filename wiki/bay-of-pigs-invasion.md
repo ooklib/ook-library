@@ -7,6 +7,12 @@ relations:
   - relation: associate_of
     target: richard-bissell
     note: "planner"
+  - relation: associate_of
+    target: operation-40
+    note: "side project of elite Cuban assets"
+  - relation: associate_of
+    target: brigade-2506
+    note: "the invasion force"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
@@ -14,6 +20,8 @@ sources:
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 The 1961 CIA-organized invasion of Cuba by anti-Castro exiles. Per Eyes Wide Open, [[e-howard-hunt]] organized it as political liaison to exile groups and trained exile mercenaries in Guatemala; many speculate it was partly financed by [[paul-helliwell]]'s secret banking network, and researchers consider it the Hunt/CIA grievance behind later JFK-plot speculation. The host plans several episodes on it. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:21-6:46, 12:14-12:31)*
@@ -35,3 +43,11 @@ The 1961 CIA-organized invasion of Cuba by anti-Castro exiles. Per Eyes Wide Ope
 - Host: PBSuccess was an "unofficial dry run" with the same men and corporate interests; [[william-pawley]] funded both; [[e-howard-hunt]] trained Cuban exiles; Cuban exiles became the CIA's main later contractors. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 13:16-14:48, 46:41-47:06)*
 - Planning began without Eisenhower's knowledge per the host's sources, then green-lit March 17, 1960; planning under Nixon and Dulles. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 52:15-53:32)*
 - See [[fidel-castro]], [[jm-wave-station]].
+
+## Additional claims (Operation 40)
+
+- Episode framing: the host argues the Bay of Pigs and Mongoose are only the surface of "the Cuba show" (1960-64), which had a parallel assassination/paramilitary track that foreshadowed Phoenix and the Contras; see [[operation-40]]. Mongoose was "Bobby Kennedy's show". *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 3:44-7:57)* See [[robert-f-kennedy]].
+- Origin: [[joseph-caldwell-king]]'s December 11, 1959 memo; WH/4 formed after Jan 18, 1960; joint CIA-White House venture with Dulles and Nixon (political liaison) at top, [[richard-bissell]] below, [[jacob-esterline]] as task force chief. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 8:23-12:37, 22:10-22:29)*
+- Organization: [[e-howard-hunt]] political officer; camp in Guatemala ([[brigade-2506]]); [[manuel-artime]]'s MRR as "government in arms" so a wider US intervention (Marines, air) could follow; force reached only ~1,500 not 10,000. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 26:16-28:19)*
+- Host: an "open secret" by April 17, 1961, possibly somewhat intentionally. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 25:03-25:31)* Kennedy campaigned on arming exiles while Nixon, bound by the secret, could not respond. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 21:07-21:44)*
+- [[operation-40]] as critical side project. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 32:09-32:16)*

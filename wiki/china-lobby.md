@@ -27,6 +27,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 The China Lobby is the informal grouping of American (and Chinese) business, media and political
@@ -76,3 +78,7 @@ mid-19th century and hardened into a political vehicle in the late 1930s-40s aro
 
 
 - Host: after Asia, the China Lobby "reemerged" in Guatemala via Corcoran, Willauer, Pawley. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 8:44-9:16, 14:56-15:21)*
+
+## Additional claims (Operation 40)
+
+- Joseph Alsop, host of many Georgetown parties, is called "the journalist of choice of the China Lobby"; see [[georgetown-set]]. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 17:03-17:15)*

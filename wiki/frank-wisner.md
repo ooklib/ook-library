@@ -21,6 +21,9 @@ relations:
   - relation: participated_in
     target: operation-paper
     note: "OPC proposal pushed through over DCI Smith's objection"
+  - relation: member_of
+    target: georgetown-set
+    note: "center of the set until 1958"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
@@ -36,6 +39,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 Frank Wisner is introduced by Eyes Wide Open as "the head of covert operations in the future
@@ -89,3 +94,7 @@ Romania.
 
 
 - Deputy director of plans who ran the covert operations arm; put [[richard-bissell]] in charge of PBSuccess planning. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 7:17-7:41, 13:38-13:47)*
+
+## Additional claims (Operation 40)
+
+- Host: center of the [[georgetown-set]] until his 1958 breakdown, electroshock, and 1965 suicide; Bissell replaced him as DDP. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 15:26-15:46, 13:31-13:45)*

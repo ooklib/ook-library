@@ -43,6 +43,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -152,3 +154,7 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 
 
 - War Conspiracy 2 (2024-12-06); first aired to Patreon subscribers June 5, 2024. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 1:02:43-1:02:52)*
+
+## Additional claims (Operation 40)
+
+- Season 2 "Cuba show" episode: [[operation-40]] (first of the CIA-Cuba parts; next episode on the CIA-Mafia plots). Host mentions Season 3 premieres in 2025. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 0:00-0:10, 59:35-59:52)*

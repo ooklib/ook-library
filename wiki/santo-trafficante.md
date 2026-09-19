@@ -14,6 +14,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 Santo Trafficante was a Mafia figure who controlled Cuban heroin-processing labs central to
@@ -37,3 +39,7 @@ up especially in relation to the Kennedy assassination" in later episodes.
 
 
 - Host: the CIA's major Mafia connection for dope smuggling from Laos and Burma in the 1960s; rumored to bring in Southeast Asian heroin; tied to [[jack-ruby]] and [[charles-rebozo]]. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 40:09-40:25, 50:08-50:31)*
+
+## Additional claims (Operation 40)
+
+- Host: it has been alleged Trafficante was a double agent for both Castro and the CIA; more promised next episode. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 29:56-30:16)*

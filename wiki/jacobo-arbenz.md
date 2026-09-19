@@ -11,6 +11,8 @@ sources:
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 Jacobo Arbenz (transcribed "Yacobo Arbens" in Eyes Wide Open's ASR captions) was the
@@ -36,3 +38,7 @@ at the lobbying of [[united-fruit-company|United Fruit]] and under the direction
 
 
 - Host: "by no means a hardened communist," more a third-world nationalist; pushed nationalization and redistribution of United Fruit's holdings. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 8:27-8:44)*
+
+## Additional claims (Operation 40)
+
+- PBSuccess overthrew him in 1954 (host's recap while introducing Bissell/Esterline). *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 13:11-13:19)*

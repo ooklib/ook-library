@@ -15,6 +15,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 Lyndon Johnson appears in War Conspiracy 1 as one of the two politicians (with [[richard-nixon]])
@@ -40,3 +42,7 @@ whom [[eyes-wide-open]] says the [[china-lobby]] "effectively elevated," and who
 
 
 - In Lady Bird Johnson's 1955 footage with Corcoran, Helliwell and James Rowe. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 51:28-51:51)*
+
+## Additional claims (Operation 40)
+
+- Joseph Alsop recommended Johnson as running mate at the 1960 convention; host calls Johnson not a Georgetown member. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 19:51-20:36)*

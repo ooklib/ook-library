@@ -3,12 +3,17 @@ title: Cord Meyer
 kind: person
 aliases: [Cord Meyer Jr.]
 tags: [cia-history, propaganda]
-relations: []
+relations:
+  - relation: member_of
+    target: georgetown-set
+    note: "attendee, CIA propaganda chief"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 Cord Meyer replaced [[thomas-braden]] in 1954 as head of the [[cia-international-organizations-division]] and, per Eyes Wide Open, was the husband of Mary Pinchot Meyer, JFK's alleged mistress. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 27:16-27:36)*
@@ -24,3 +29,7 @@ Cord Meyer replaced [[thomas-braden]] in 1954 as head of the [[cia-international
 
 - Headed [[cia-international-organizations-division]] after [[thomas-braden]]; linked to [[james-jesus-angleton]] via his wife's death.
 - See [[kennedy-assassination]].
+
+## Additional claims (Operation 40)
+
+- Host: at Georgetown parties as top CIA propaganda staff under Angleton's IOD; set up Radio Free Europe and allegedly coined "compatible left". *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 18:11-18:57)*

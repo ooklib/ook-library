@@ -7,9 +7,14 @@ relations:
   - relation: employed_by
     target: central-intelligence-agency
     note: "head of the International Organizations Division from spring 1951"
+  - relation: member_of
+    target: georgetown-set
+    note: "CIA-sponsored journalist attendee"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 Thomas Braden, per Eyes Wide Open, persuaded [[allen-dulles]] to create the [[cia-international-organizations-division]] and headed it from spring 1951, funding the [[american-committee-on-united-europe]] and associated pan-European groups. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 25:51-26:20)*
@@ -23,3 +28,7 @@ Thomas Braden, per Eyes Wide Open, persuaded [[allen-dulles]] to create the [[ci
 ## Relationships
 
 - Headed [[cia-international-organizations-division]]; predecessor of [[cord-meyer]]; worked under [[allen-dulles]].
+
+## Additional claims (Operation 40)
+
+- Listed among Georgetown Set journalists. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 16:34-16:47)*

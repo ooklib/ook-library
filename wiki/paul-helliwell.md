@@ -48,6 +48,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 Colonel Paul E. Helliwell served as chief of special intelligence for the
@@ -125,3 +127,7 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
 - CIA's Caribbean banker and paymaster; hosted the Thai consulate in his Miami law offices; per Penny Lernoux he helped Thai generals and Taiwanese interests launder Burmese opium money into Miami real estate. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 50:39-51:11)*
 - Called "Mr. Republican" in Florida (per Alan Block); credited with helping Eisenhower win Florida 1952 and 1956; chaired the 1958 Miami convention committee with [[charles-rebozo]]. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 56:52-58:29)*
 - JM/WAVE paymaster: [[jm-wave-station]]. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 51:58-52:06)*
+
+## Additional claims (Operation 40)
+
+- Host: shell companies financing Base Trax likely overseen by "Miami CIA paymaster" Helliwell; Esterline cleared the way for Helliwell's OSS Detachment 202 men in Miami. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 22:29-22:45, 31:33-31:40)*

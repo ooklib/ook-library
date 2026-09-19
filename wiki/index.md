@@ -138,7 +138,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[service-d-action-civique]] · [[oss-detachment-202]] · [[environmental-industries]] ·
 [[corsican-mafia]] · [[drug-enforcement-administration]] · [[binh-xuyen]] · [[mixed-airborne-commando-group]] · [[air-laos-commerce]] ·
 [[michigan-state-university-vietnam-advisory-group]] · [[vietnam-lobby]] ·
-[[pathet-lao]] · [[paru]] · [[china-lobby]] · [[flying-tigers]] · [[skull-and-bones]] · [[pan-american-airways]] · [[rockefeller-family]] · [[rockefeller-brothers-inc]] · [[itek]] · [[asia-society]] · [[civil-air-patrol]] · [[jm-wave-station]]
+[[pathet-lao]] · [[paru]] · [[china-lobby]] · [[flying-tigers]] · [[skull-and-bones]] · [[pan-american-airways]] · [[rockefeller-family]] · [[rockefeller-brothers-inc]] · [[itek]] · [[asia-society]] · [[civil-air-patrol]] · [[jm-wave-station]] · [[georgetown-set]] · [[brigade-2506]]
 
 ## Places
 
@@ -215,7 +215,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[operation-safe-haven]] · [[operation-x]] · [[operation-underworld]] ·
 [[national-security-act-1947]] · [[truman-doctrine]] · [[marshall-plan]] · [[operation-husky]] ·
 [[italian-election-1948]] · [[portella-della-ginestra-massacre-1947]] · [[blue-suite]] ·
-[[kefauver-committee]] · [[plan-bleu-1947]] · [[rose-des-vents]] · [[operation-zipper]] · [[operation-pbsuccess]] · [[bay-of-pigs-invasion]] ·
+[[kefauver-committee]] · [[plan-bleu-1947]] · [[rose-des-vents]] · [[operation-zipper]] · [[operation-pbsuccess]] · [[bay-of-pigs-invasion]] · [[operation-40]] ·
 [[kennedy-assassination]] · [[watergate-scandal]] · [[secret-war-in-laos]] · [[laos-coups-1958-1960]] · [[operation-brotherhood]] · [[operation-white-star]] · [[operation-momentum]] · [[operation-milpond]] · [[deer-mission]] · [[first-indochina-war]] · [[battle-of-dien-bien-phu]] · [[geneva-conference-1954]] · [[saigon-military-mission]] · [[battle-of-saigon-1955]] · [[strategic-hamlet-program]] · [[nsc-68]] · [[korean-war]] · [[special-studies-project]]
 
 ## People — British power structures
@@ -258,7 +258,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[mitchell-werbell]] · [[edward-lansdale]] · [[vang-pao]] · [[bill-lair]] · [[phoumi-nosavan]] · [[souvanna-phouma]] · [[kong-le]] · [[ouane-rattikone]] · [[desmond-fitzgerald]] · [[john-f-kennedy]] · [[nelson-bunker-hunt]] ·
 [[ngo-dinh-diem]] · [[john-mccone]] · [[li-mi]] · [[willis-bird]] · [[alfred-cox]] ·
 [[phao-sriyanon]] · [[plaek-phibunsongkhram]] · [[sarit-thanarat]] · [[khun-sa]] · [[alfred-mccoy]] ·
-[[ho-chi-minh]] · [[dwight-d-eisenhower]] · [[roger-trinquier]] · [[antoine-savani]] · [[touby-lyfoung]] · [[wesley-fishell]] · [[ngo-dinh-nhu]] · [[thomas-corcoran]] · [[whiting-willauer]] · [[william-pawley]] · [[t-v-soong]] · [[paul-nitze]] · [[howard-hughes]] · [[lyndon-b-johnson]] · [[nelson-rockefeller]] · [[laurance-rockefeller]] · [[henry-kissinger]] · [[richard-bissell]] · [[frank-sturgis]] · [[jack-ruby]] · [[david-ferrie]] · [[barry-seal]] · [[lee-harvey-oswald]] · [[carlos-marcello]] · [[charles-rebozo]] · [[fidel-castro]]
+[[ho-chi-minh]] · [[dwight-d-eisenhower]] · [[roger-trinquier]] · [[antoine-savani]] · [[touby-lyfoung]] · [[wesley-fishell]] · [[ngo-dinh-nhu]] · [[thomas-corcoran]] · [[whiting-willauer]] · [[william-pawley]] · [[t-v-soong]] · [[paul-nitze]] · [[howard-hughes]] · [[lyndon-b-johnson]] · [[nelson-rockefeller]] · [[laurance-rockefeller]] · [[henry-kissinger]] · [[richard-bissell]] · [[frank-sturgis]] · [[jack-ruby]] · [[david-ferrie]] · [[barry-seal]] · [[lee-harvey-oswald]] · [[carlos-marcello]] · [[charles-rebozo]] · [[fidel-castro]] · [[felix-rodriguez]] · [[david-sanchez-morales]] · [[ted-shackley]] · [[joseph-caldwell-king]] · [[jacob-esterline]] · [[manuel-artime]] · [[orlando-bosch]]
 
 ## Concepts
 

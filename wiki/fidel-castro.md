@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 Fidel Castro's 1958-59 overthrow of Batista is cast by [[eyes-wide-open]] as the trigger for the Bay of Pigs planning and the formal CIA-mafia alliance. The host calls him a "closeted communist" and calls the CIA's assisting him unrealistic to explain by ignorance. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 35:28-35:53, 46:11-46:19)*
@@ -24,3 +26,7 @@ Fidel Castro's 1958-59 overthrow of Batista is cast by [[eyes-wide-open]] as the
 ## Relationships
 
 - See [[bay-of-pigs-invasion]], [[jm-wave-station]], [[united-fruit-company]], [[national-crime-syndicate]], [[richard-nixon]].
+
+## Additional claims (Operation 40)
+
+- Host: first CIA proposal against him was [[joseph-caldwell-king]]'s Dec 11, 1959 "elimination" memo; Castro knew of the CIA's role via Miami spies and camp informants; alleged double agent [[santo-trafficante]]. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 8:23-8:45, 24:43-24:57, 29:49-30:16)*

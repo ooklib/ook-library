@@ -38,6 +38,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 Richard Nixon appears in this episode as a junior California congressman who built his
@@ -94,3 +96,8 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
 
 - As vice president headed the first secret Cuba task force in late 1959 with Dulles; his friendship with [[charles-rebozo]] and Miami ties; host's speculation on a blackmail scenario (rumor). *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 52:15-55:40)*
 - Kissinger later served him as National Security Advisor; see [[henry-kissinger]]. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 27:19-27:35)*
+
+## Additional claims (Operation 40)
+
+- The June 23, 1972 Oval Office "smoking gun" tape: Nixon on [[e-howard-hunt]] "knows too damn much... likely to blow the whole Bay of Pigs thing"; host reads it as Nixon threatening the CIA (which he believes orchestrated Watergate to remove Nixon) with mutual destruction, and notes speculation (Haldeman) that it referred to CIA involvement in the JFK killing. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 0:00-2:59)*
+- As vice president was political liaison on the Bay of Pigs planning and had to "feign weakness" on Cuba in the 1960 campaign to protect the secret. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 12:23-12:37, 21:07-21:44)*

@@ -13,9 +13,14 @@ relations:
   - relation: associate_of
     target: william-donovan
     note: "host: good friends per Lair"
+  - relation: member_of
+    target: georgetown-set
+    note: "attendee per the host"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 Chief of the CIA's Far East Division in early 1961, per [[eyes-wide-open]] LAOS 4; "a longtime CIA agent and an entrenched member of the old boys network". *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 1:10:32-1:10:54)*
@@ -28,3 +33,7 @@ Chief of the CIA's Far East Division in early 1961, per [[eyes-wide-open]] LAOS 
 ## Relationships
 
 - Friend of [[allen-dulles]] and [[william-donovan]]; approved [[bill-lair]]'s proposal.
+
+## Additional claims (Operation 40)
+
+- Named as a Georgetown Set attendee, "future overseer of the CIA's early incursions into Laos"; host also says he was later involved in anti-Cuba activities in Miami. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 15:59-16:22)*

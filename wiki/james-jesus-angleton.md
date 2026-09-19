@@ -27,6 +27,9 @@ relations:
   - relation: trained_by
     target: george-white
     note: "personally trained as a future OSS agent by White at the New York OSS staging ground during WWII (per ewa/red-scare)"
+  - relation: member_of
+    target: georgetown-set
+    note: "known to drop by"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
@@ -40,6 +43,8 @@ sources:
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 James Jesus Angleton was the OSS station chief in Rome during WWII and, per Eyes Wide Open, would
@@ -113,3 +118,7 @@ viewed [[allen-dulles]] as a mentor and personally helped extract fascist collab
 - Ran the CIA's Sicily desk during the [[italian-election-1948]]; with [[george-white]], secured
   [[lucky-luciano]]'s parole and deportation.
 - Alleged Mary Pinchot Meyer cover-up; see [[cord-meyer]].
+
+## Additional claims (Operation 40)
+
+- Bissell's close confidant and part of the East Coast old-boy set. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 14:27-14:33, 16:22-16:28)*

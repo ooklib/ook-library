@@ -10,11 +10,16 @@ relations:
   - relation: influenced
     target: military-industrial-complex
     note: "host: NSC 68 laid its foundation"
+  - relation: member_of
+    target: georgetown-set
+    note: "named among top bureaucrat attendees"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 Paul Nitze is presented by [[eyes-wide-open]] as an "obscure" figure whose [[nsc-68]] made the
@@ -38,3 +43,7 @@ aliases.
 
 
 - ASR "Paul nits": his 1950 NSC 68 reaffirmed by Panel II. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 29:52-30:09)*
+
+## Additional claims (Operation 40)
+
+- Named with Acheson, Harriman and McCloy at Georgetown parties; author of [[nsc-68]]. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 19:03-19:24)*

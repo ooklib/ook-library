@@ -21,6 +21,8 @@ sources:
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
+    label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
 
 The "secret war" in [[laos]] is the nearly two-decade conflict that [[eyes-wide-open]] begins to chronicle in the Season 2 series LAOS 1-4. This page holds the overview claims from the introduction (LAOS 1); later episodes will add detail. The host dedicates the project to the people of Laos and to Vietnamese, Lao, Thai, Cambodian, Burmese and American victims of the Southeast Asian wars. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 0:00-0:44)*
@@ -49,3 +51,7 @@ The "secret war" in [[laos]] is the nearly two-decade conflict that [[eyes-wide-
 - LAOS 2: precursor in [[operation-x]], [[first-indochina-war]], [[geneva-conference-1954]].
 - LAOS 3: [[ngo-dinh-nhu]], [[air-laos-commerce]].
 - LAOS 4: LAOS 4: [[laos-coups-1958-1960]], [[operation-momentum]], [[operation-milpond]], [[operation-white-star]], [[operation-brotherhood]], [[bill-lair]], [[paru]], [[john-f-kennedy]].
+
+## Additional claims (Operation 40)
+
+- Host: the Cuba show's paramilitary component became "the core team of paramilitary experts in charge of the secret war in Laos half a decade later"; [[david-sanchez-morales]] trained Hmong guerrillas under USAID cover there under [[ted-shackley]]. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 5:52-6:05, 46:57-47:15)*
