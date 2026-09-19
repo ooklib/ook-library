@@ -17,6 +17,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
+    label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
 ---
 
 The military-industrial complex (MIC) is the nexus of arms industry, aviation and aerospace firms,
@@ -83,3 +85,7 @@ arms economy.
 
 
 - Host places [[richard-bissell]] (spy plane and Corona satellite programs) "at a crossroads between the covert action of the CIA and the burgeoning military-industrial complex." *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 16:15-16:27)*
+
+## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
+
+- Host claims the JFK assassination was significant in entrenching the military-industrial complex and permanent war economy in the US; a future [[war-conspiracy]] video will look at General Dynamics, [[lyndon-b-johnson]] and Robert McNamara. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 2:33-2:43, 13:04-14:04)*

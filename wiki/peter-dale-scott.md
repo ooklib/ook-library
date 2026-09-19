@@ -21,6 +21,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
+    label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
 ---
 
 Peter Dale Scott is a researcher credited by Eyes Wide Open as the originator of the "deep
@@ -54,3 +56,7 @@ series on the history of the CIA.
 ## Additional claims (CIA-Mafia Legend)
 
 - Host cites *Deep Politics and the Death of JFK* on the wire-service expansion, Jack Ruby and Roselli's LA posting, gambling as a mob-nationalizing vector, and a quoted line that the CIA gave Giancana and Trafficante protection by involving them in the plots; the host says the "throwaway line" is a key to the plots' nature. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 52:10-53:53, 1:14:27-1:15:14)*
+
+## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
+
+- Host credits Scott with the concept of "structural deep events" and quotes his definition: an event "large enough to affect the whole fabric of society." The host lists JFK's assassination, Watergate, Iran-Contra, 9/11 and (most recently) the COVID pandemic in this category. See [[structural-deep-event]]. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 4:36-5:36)*

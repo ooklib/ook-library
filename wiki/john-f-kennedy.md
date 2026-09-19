@@ -23,6 +23,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
+    label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
 ---
 
 US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the president who inherited [[laos]] from [[dwight-d-eisenhower]], approved and then cancelled the planned bombing ([[operation-milpond]]), and pursued a diplomatic settlement. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 52:54-53:18, 1:08:52-1:09:10)*
@@ -68,3 +70,9 @@ US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the presi
 - Host: some White House aides "potentially knew about and hid" the CIA's continued executive-action work, possibly including [[robert-f-kennedy]], who was more lenient than JFK on assassination and "may have even sanctioned" continued mob use; the host says RFK's stance is "unfairly projected" on JFK. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 33:11-34:36)*
 - Named Lansdale to run [[operation-mongoose]] from November 1961, and made RFK head of the White House Cuba task force. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 45:43-45:56, 47:17-47:30)*
 - Host mentions speculation of an "Israeli element" in the assassination motivated by JFK's attempts to rein in the Israeli nuclear program (to be covered "quite a bit later"); the McCone appointment is tied to Israeli-nuclear reporting. See [[john-mccone]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 12:47-13:13)*
+
+## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
+
+- Host claims that JFK and RFK diverged from the "hawkish Cold War security blob" around them: the Kennedy White House was actively seeking a thaw with the Soviet Union and, taking JFK at his word, an end to the Cold War; JFK backed decolonial movements (Algeria 1957, Congo 1960, de-escalation in Laos and Vietnam); and the Kennedys stood against foreign interference and the "burgeoning Zionist lobby" (host cites his earlier video on the Israeli nuclear controversy and JFK's opposition to a nuclearized Middle East). Host's characterization, presented as his research conclusion. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 3:04-4:21)*
+- Host: the ruling class understood these positions were not superfluous, so JFK and later RFK were "untenable figures in the US Empire" who "had to be dealt with." *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 4:21-4:33)*
+- Host rejects the "dark Camelot" revisionist reading. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 3:04-3:11)*

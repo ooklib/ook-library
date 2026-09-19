@@ -15,6 +15,8 @@ sources:
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
+    label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
 ---
 
 The "deep state" (or "deep politics") is a theoretical framework, credited by Eyes Wide Open to
@@ -63,3 +65,7 @@ This is an explicitly theoretical/interpretive framework, not an entity in the o
 the wiki records it because it structures how Eyes Wide Open frames every claim in this CIA
 history series.
 - Companion frame: [[war-conspiracy]].
+
+## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
+
+- Host links the concept to "deep events" and describes clandestine/deep political history as a "parallel power structure" and parallel series of events below the surface; ignoring it gives "only half the story." Host claims structural deep events are a "look behind the curtain" when the "so-called deep state" briefly must make itself visible to cover its tracks. See [[structural-deep-event]]. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 6:00-6:48, 14:04-14:48)*

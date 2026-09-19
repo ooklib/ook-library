@@ -291,6 +291,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 
 [[cia-mafia-legend]] — host's thesis that the bungling-CIA story is a cover legend (`ewa/cia-mafia`)
 
+[[road-to-dallas]] — Season 3 JFK series thesis and five-angle preview (`ewa/dallas-0`) · [[structural-deep-event]] — Peter Dale Scott's category of society-wide deep events (`ewa/dallas-0`)
+
 [[ffrdc]] · [[special-access-program]] · [[special-access-program-oversight-committee]] ·
 [[onion-secrecy-model]] · [[seventh-veil-analogy]] · [[ufo-control-group]] · [[majestic-12]] ·
 [[manhattan-project-2]] · [[biefeld-brown-effect]] · [[black-vault]] ·

@@ -26,6 +26,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
+    label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
 ---
 
 The 22 November 1963 assassination of President John F. Kennedy in Dallas. In this episode Eyes Wide Open covers only [[e-howard-hunt]]'s alleged presence and deathbed confession; the host says his own research indicates a fundamental mob element in the conspiracy. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:48-11:00)*
@@ -79,3 +81,11 @@ The 22 November 1963 assassination of President John F. Kennedy in Dallas. In th
 
 
 - Host: by 1963 the White House pulled back from the anti-Castro programme, and in the host's thesis the "coalition of forces opposing the Kennedys" (CIA elements, rogue military intelligence, Texas oil, China-lobby money, radical exiles) had "their foot soldiers in the plot against JFK"; the Harvey-in-Rome angle rests on Dan Hardway's account via Talbot. Framing and speculation by the host. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 46:15-48:42, 55:41-57:14)* See [[william-harvey]].
+
+## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
+
+- Host thesis: he takes a "structural and materialist" view and will focus on the networks around the crime, not the logistics in Dealey Plaza; he says the combination of political, business, intelligence and criminal elements that coalesced around it is "almost a more interesting subject" than the event, and that he will not try to "solve" it and doubts the shooters can ever be convincingly proven. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 1:10-2:26)*
+- Host's "elevator pitch": impartial on who did it, but if forced to guess, the plot was undertaken by the CIA "in combination with Cuban exiles and possibly an international gunman or assassin"; the CIA angle is "almost undeniable" because the agency "appears all over the material" with the best motive and means. Framed as the host's guess. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 8:31-9:05)*
+- Host describes it as the first of Peter Dale Scott's "structural deep events" ([[structural-deep-event]]) and claims that many interest groups (intelligence agencies, paramilitaries, foreign governments) likely had prior knowledge of plots before they occurred. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 4:36-4:41, 7:19-7:29)*
+- Host claims it entrenched the [[military-industrial-complex]] and permanent war economy, empowered "out-of-control" intelligence agencies, increased international paramilitary operations, and cemented US-Israel ties that the Kennedys had been questioning. Host's assessment. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 2:33-2:58)*
+- Host previews five angles for the series (false flag, militia, international conspiracy, army intelligence deception, military-industrial complex/Texas/LBJ); detail on [[road-to-dallas]]. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 10:37-14:04)*

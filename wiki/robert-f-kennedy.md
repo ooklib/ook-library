@@ -27,6 +27,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
+    label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
 ---
 
 Robert F. Kennedy appears briefly in this episode as a young Justice Department attorney who lost
@@ -68,3 +70,7 @@ anti-Mafia campaign as Attorney General.
 
 - Host: co-headed [[operation-mongoose]] with Lansdale, "overeager godfather" (Corn), wanted to be apprised of everything and dropped by [[jm-wave-station]] unannounced; met Cuban exile leaders privately, some at the family estate; per [[grayston-lynch]], staff said "Bobby says this, Bobby says that." Feuded with [[william-harvey]], [[j-edgar-hoover]] and [[lyndon-b-johnson]], "all three" of whom "would figure in some ways into the theory surrounding the assassination" of JFK (host). *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 39:35-42:13)*
 - Blamed Harvey for Mongoose's failure and reportedly called for his transfer; Shackley reportedly cultivated RFK opportunistically. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 45:38-45:51, 50:47-50:54, 40:46-41:37)*
+
+## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
+
+- Host groups RFK with JFK as "untenable figures in the US Empire" who had to be "dealt with" because of their positions on the Soviet Union, decolonization and Israel. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 4:21-4:33)*

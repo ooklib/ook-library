@@ -52,6 +52,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
+    label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
 ---
 
 James Jesus Angleton was the OSS station chief in Rome during WWII and, per Eyes Wide Open, would
@@ -138,3 +140,7 @@ viewed [[allen-dulles]] as a mentor and personally helped extract fascist collab
 ## Additional claims (The CIA's Blond Ghost, ewa/shackley)
 
 - Per researcher Joseph Trento (via host), [[ted-shackley]] became the CIA's lead on the Israeli file beside Angleton in the early 1970s. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 8:05-8:36)*
+
+## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
+
+- Host: "at least according to recent materials," Angleton, "the ghost," longtime head of CIA counterintelligence, was "the CIA man most clued into the JFK assassination." Cited as context for why an asset's true loyalty is hard to determine. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 8:15-8:29)*

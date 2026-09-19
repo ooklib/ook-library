@@ -23,6 +23,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
+    label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
 ---
 
 Lyndon Johnson appears in War Conspiracy 1 as one of the two politicians (with [[richard-nixon]])
@@ -66,3 +68,7 @@ whom [[eyes-wide-open]] says the [[china-lobby]] "effectively elevated," and who
 
 
 - Host: LBJ, "an insider in his own right," elevated [[richard-helms]] to DCI in 1966 replacing McCone; the Gulf of Tonkin incident gave his administration "just cause" to enter Vietnam unilaterally. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 27:13-27:25, 39:41-40:03)*
+
+## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
+
+- Host previews a "military-industrial complex and Texas" angle: he says "LBJ Did It" theories, pushed by Roger Stone, Glenn Beck and Alex Jones, make him skeptical, but there are compelling links among LBJ, Texas oil interests, arms manufacturer General Dynamics and organized crime in Texas. Host believes LBJ was likely not a central planner but "clearly had some role in the coverup" and likely had some indication the hit would happen. To be covered in a future War Conspiracy video on General Dynamics, LBJ and Robert McNamara. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 13:04-14:04)*

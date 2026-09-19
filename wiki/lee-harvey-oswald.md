@@ -20,6 +20,8 @@ sources:
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
+    label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
 ---
 
 Lee Harvey Oswald is treated by [[eyes-wide-open]] only in his pre-assassination context: allegedly a Louisiana [[civil-air-patrol]] cadet under [[david-ferrie]] in 1955 alongside [[barry-seal]], and later a Marine posted at a top-secret U-2 spy plane base in Japan around 1957, "an unusual assignment for an allegedly mediocre soldier and pilot." *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 43:04-44:25)*
@@ -37,3 +39,8 @@ Lee Harvey Oswald is treated by [[eyes-wide-open]] only in his pre-assassination
 
 
 - Host: [[george-de-mohrenschildt]] and his wife had a "close friendship with the alleged killer of JFK Lee Harvey Oswald," which later brought de Mohrenschildt to national attention. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 17:38-17:56)*
+
+## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
+
+- Host says Oswald was "likely framed" and that one could "convincingly" argue he was simultaneously an asset (wittingly or unwittingly) of the CIA, military intelligence, the FBI and Soviet intelligence; he generalizes that key players in the nexus shifted allegiances. Host's speculation. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 7:32-8:15)*
+- Host says that in the false-flag angle, retired army intelligence figures with a network of activists and think tanks mobilized before and after the assassination to paint Oswald as a Soviet agent and the plot as coming from Moscow or Havana. Preview only; details deferred. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 10:57-11:15)*

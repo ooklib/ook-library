@@ -43,6 +43,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
+    label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
 ---
 
 Operation Gladio, per Eyes Wide Open, was the joint NATO/CIA program of clandestine anti-communist
@@ -133,3 +135,7 @@ its Italian roots.
   [[calogero-vizzini]], [[charles-poletti]], [[christian-democracy-italy]], and
   [[francis-spellman]].
 - French chapter: [[la-cagoule]], [[plan-bleu-1947]], [[rose-des-vents]], [[sdece]], [[strategy-of-tension]]; pan-European front groups [[american-committee-on-united-europe]] and [[le-cercle]].
+
+## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
+
+- Host previews that the false-flag angle will explore "the potential links to the development of Gladio" within the JFK assassination canon, and that "potential Gladio elements" tie into the international-conspiracy angle alongside Israeli and French Algerian secret army (OAS) angles. Preview only. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 11:12-11:18, 12:03-12:16)*

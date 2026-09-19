@@ -59,6 +59,8 @@ sources:
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
+    label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -205,3 +207,7 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 
 
 - Season 3, video 3 (`ewa/jmwave`, dated 2025-11-07; first released to Patreon producer-tier patrons March 12, 2025). Covers [[jm-wave-station]] under [[ted-shackley]] and the Kennedy-CIA tension; announces five Friday "Road to Dallas" episodes beginning with Frank Sturgis ([[frank-sturgis]]) and a Japan series. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 57:14-59:31)*
+
+## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
+
+- Preview episode ("Chapter 0") of the Season 3 series [[road-to-dallas]], published 2025-11-13 with Chapter 1 following on 2025-11-14. The host states his "structural and materialist view of history" and the series' goal: to show that "assassination studies" deserves to be a respectable area of modern historical research. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 0:00-0:45, 1:10-1:16, 9:41-10:24)*
