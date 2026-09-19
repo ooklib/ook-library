@@ -1293,3 +1293,11 @@ Source: raw/wm/ (key `wm/wef-insider`), https://www.youtube.com/watch?v=iVYzoGYg
 Summary: Interview with ex-DWS (Deutsche Bank) chief sustainability officer Desiree Fixler: ESG as a marketing scam and post-2008 Wall Street rebranding, her internal warning about inflated ESG asset figures, firing and the resulting US/German ESG-fraud findings, the consultant/regulator "industrial complex", and her claim from inside a WEF futures council that the WEF agenda is top-down control of the West. Host adds views on Schwab's books and his departure. All attributed claims; no UFO content.
 
 Judgment calls: (1) No new relation types. (2) ASR: "WF"/"W" = WEF, "Claus"/"Klash Robb" = Klaus Schwab/Klaus Schwab, "Desire" = Desiree, "Jamie Diamond" = Jamie Dimon, "Ian Hirsty Alley" uncertain, left inline. (3) Left inline: Jamie Dimon, Mark Carney, Keir Starmer, Nick Clegg, Milton Friedman, BlackRock, McKinsey, Ed Miliband. (4) Sponsor/Substack promos ignored.
+
+## [2026-09-19] ingest | In 1994, He Exposed Their Entire System… and Predicted 2026 Perfectly. | Video Advice (1m17s)
+
+Source: raw/va/ (key `va/1994-system`), https://www.youtube.com/watch?v=nvPFzFddIzE by Video Advice, dated 2026-01-25; ~15m. Created 5 pages: [[committee-of-300-video-2026]], [[john-coleman]], [[committee-of-300]], [[club-of-rome]], [[aurelio-peccei]]. Updated [[chatham-house]].
+
+Summary: Narrated excerpts of John Coleman's claims about a supranational Committee of 300 ("Olympians") ruling via Chatham House, the Club of Rome and other executive arms, choosing US Secretaries of State since 1919, and using a zero-growth plan to destroy the US middle class. The "predicted 2026" is only title framing.
+
+Judgment calls: (1) New relation type `controls`. (2) ASR: "Rathnau"=Rathenau, "Orurelio Pekky"=Aurelio Peccei, "Montelleran"=Mont Pelerin, "Seni Foundation" unclear (left unlinked). (3) Rathenau 1934 quote date flagged (he died 1922). (4) Left inline: Gorbachev, Sam Donaldson, Alexander King, Italian families. The [[national-reconnaissance-office]] priority claim is recorded on [[john-coleman]] only.

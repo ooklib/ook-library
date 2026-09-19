@@ -71,6 +71,7 @@ asymmetric (the inverse is implied, not separately stored). Symmetric ones are n
 | `acquired_by` / `renamed_to` | org → org | corporate acquisition or name-change identity chain | no |
 | `liaison_to` | person → org | served as an official go-between for another org | no |
 | `oversees` | org → org/program | joint acquisition/budget authority over another entity | no |
+| `controls` | org/concept → org | alleged command or direction of another organization, as claimed by a source (attribution, not fact) | no |
 | `governed_by` | concept/program → org | administered/regulated by a named governance body | no |
 | `reports_to` | org → org | administrative reporting line distinct from full `part_of` containment | no |
 | `member_of` | person → org | affiliation with a society/party distinct from paid employment or board service | no |

@@ -14,6 +14,8 @@ relations:
     target: fabian-society
     note: "Dennis Healey was simultaneously a Chatham House Counsellor, Bilderberg steering-committee member, Trilateral Commission member, and Fabian Society executive-committee member"
 sources:
+  - file: "raw/va/Video Advice - 2026-01-25 - In 1994, He Exposed Their Entire System… and Predicted 2026 Perfectly.md"
+    label: "In 1994, He Exposed Their Entire System… and Predicted 2026 Perfectly. (Video Advice)"
   - file: "raw/gp/Green & Pleasant - 2026-04-10 - Britain's Most Powerful Secret Organisation - Chatham House Exposed.md"
     label: "Britain's Most Powerful Secret Organisation - Chatham House Exposed (Green & Pleasant)"
 ---
@@ -175,3 +177,7 @@ published historical scholarship) rather than speculation. Per this wiki's schem
 substantive assertions above are nonetheless attributed to Green & Pleasant as claims, including
 its characterizations and rhetorical framing (e.g. "a masterclass in very expensive lying" about
 the "no government subsidy" language), not independently verified by this wiki.
+
+## Additional claims (Video Advice)
+
+- [[john-coleman]] claims Chatham House (Royal Institute for International Affairs) is the "executive arm" of the [[committee-of-300]], that it instructs the US government to this day, and that every US Secretary of State since 1919 was appointed by it in London. *([va/1994-system](<../raw/va/Video Advice - 2026-01-25 - In 1994, He Exposed Their Entire System… and Predicted 2026 Perfectly.md>) 8:11, 8:48)*
