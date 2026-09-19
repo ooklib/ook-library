@@ -85,3 +85,5 @@ asymmetric (the inverse is implied, not separately stored). Symmetric ones are n
 | `trained_by` | person → person | received tradecraft training/instruction from another individual, distinct from formal employment | no |
 | `briefed_by` | person → person | received a claimed private briefing (UFO/legacy-program or otherwise) from another individual, alleged; distinct from `trained_by` (tradecraft instruction) | no |
 | `accuses` | person → person/org | publicly alleges wrongdoing, co-option or disinformation by the target, as the source's own claim (not fact); distinct from `alleged_by`, which points at the claimant | no |
+| `child_of` | person → person | parent-child kinship, child to parent; used by `oompa/maxwells` | no |
+| `founded_by` | org → person | founder of an organization, from the org's point of view (inverse of `founded`, used where the org page is the subject) | no |
