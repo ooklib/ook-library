@@ -43,6 +43,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the president who inherited [[laos]] from [[dwight-d-eisenhower]], approved and then cancelled the planned bombing ([[operation-milpond]]), and pursued a diplomatic settlement. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 52:54-53:18, 1:08:52-1:09:10)*
@@ -121,3 +123,7 @@ US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the presi
 ## Claims (jm/pines)
 
 - In the Malmgren retelling Kennedy sent the 26-year-old Malmgren into the nuclear tank to stall [[curtis-lemay]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:42:41-2:43:19)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says Kennedy wanted to blow the CIA "into a thousand pieces", that he believes there was a conspiracy rather than a lone assassin, and that it was tied to UAP because Kennedy also wanted nukes gone. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:32:40-1:33:24)*

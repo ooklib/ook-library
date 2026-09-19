@@ -42,6 +42,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Cited by Gerb as an example of a prior alleged UFO crash retrieval before Roswell; he assesses
@@ -114,3 +116,7 @@ Gerb's full video on the case, positioned as "the Roswell before Roswell", with 
 ## Additional claims (jm/jorjani-hitler)
 
 - Jorjani says the Vatican held a dossier on the object and that it was studied by a joint SS-Italian working group at the Skoda Works near Prague; later exfiltration via Nazi rat lines is alleged. See [[nazi-saucer-program-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 34:45, 36:02, 2:23:10)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] lists Magenta among known alleged recovery locations, saying other, unknown locations exist. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:17:51-2:18:44)*

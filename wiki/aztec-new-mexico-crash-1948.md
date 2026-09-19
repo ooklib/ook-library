@@ -30,6 +30,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 An alleged additional 1940s UFO crash retrieval near Aztec, New Mexico, which Gerb speculates
@@ -89,3 +91,7 @@ alongside [[roswell-incident-1947|Roswell]]. *([gerb/mitre](../raw/gerb/mitre.md
 ## Claims (a52/lazar-everything)
 
 - [[chris-ramsey]] cites an Aztec-case witness at Wright-Patterson who supposedly saw the craft go translucent when high voltage was injected and mentions symbols in the Aztec craft; [[bob-lazar]] says his craft's blurry "shower door" panel and high voltage skin fit but he does not follow such cases: [[lazar-sport-model-craft-claims]] *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 1:18:53-1:19:26, 1:22:45-1:23:56)*.
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] lists Aztec among known alleged recovery locations. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:17:51-2:18:44)*

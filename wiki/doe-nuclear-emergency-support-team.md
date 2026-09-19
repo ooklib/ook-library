@@ -28,6 +28,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 The US government's premier response unit for radiological/nuclear accidents or incidents,
@@ -82,3 +84,7 @@ authority derives from the 1954 Atomic Energy Agreement. *([gerb/nro](../raw/ger
 ## Claims (jm/censored-book)
 
 - Michels notes rumors that CIA's Office of Global Access coordinates with JSOC and NEST on UFO crash retrievals, and asks whether DOE-protective-force-like units threatened [[michael-herrera]]. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 43:57-44:53)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] speculates that the team deployed to investigate recovery sites is DOE-related, recalling people in DOE jackets in the Peru story. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:19:44-2:19:59)*

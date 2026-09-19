@@ -18,6 +18,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Richard "Rick" Doty (rendered "Rick Dodie" in the ASR transcript), a former AFOSI
@@ -66,3 +68,7 @@ Levenda says Doty "messed with everybody in the UFO community"; Michels adds Dot
 ## Claims (jm/cameron)
 
 - Cameron says Doty (ASR "Richard Dodie") disputed Emenegger's May 1971 Holloman date in favour of 1964 at White Sands, and told the story of an alien crystal showing the crucifixion: [[holloman-landing-film-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:02:20-1:02:45, 1:41:36-1:42:03)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] names "the Richard Doties" as spreaders of "droplets of falsity" to sow discord in the community. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:08:26-1:08:46)*

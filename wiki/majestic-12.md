@@ -59,6 +59,8 @@ sources:
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
@@ -214,3 +216,7 @@ Levenda tells Stanton Friedman he thinks the MJ-12 documents "look real" and are
 ## Claims (jm/cameron)
 
 - Cameron says roughly 20 high-level people talk about MJ-12; John Alexander called it continuity of government, and Walker said the members were elites and that he had known of them for 40 years: [[continuity-of-government-ufo-claims]], [[eric-walker-esp-control-group-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:03:37-2:03:54, 1:55:17-1:55:31)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says Roscoe Hillenkoetter, an MJ-12 member and CIA's founding director, was also a 1950s disclosure activist and that Australian [[geoffrey-cruickshank]] now finds the MJ-12 documents "almost certainly real". *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 46:17-46:39, 1:33:31-1:34:22)*

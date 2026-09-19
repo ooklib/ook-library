@@ -19,6 +19,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Claims by [[matthew-brown]] on [[jesse-michels]]' show that governments have some agreement with a non-human "third party" and that the legacy program transmits this only as an oral tradition. All are attributed and unverified; Brown says he cannot speak to the validity of the lore, and only reports a "line of narrative" in the legacy program.
@@ -36,3 +38,7 @@ Claims by [[matthew-brown]] on [[jesse-michels]]' show that governments have som
 ## Relationships
 
 - Source [[matthew-brown]]; related [[greada-treaty-1954]], [[dan-sherman]], [[nhi-control-and-simulation-claims]], [[alien-human-hybridization-claims]].
+
+## Claims (a52/coulthart)
+
+- Coulthart independently says he believes agreements exist and cites the "agreements" line in [[david-grush]]'s security review; see [[human-nhi-agreements-claims-coulthart]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:06:07-1:08:15)*

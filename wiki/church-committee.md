@@ -14,6 +14,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 The Church Committee is the mid-1970s Senate investigation of the intelligence agencies that [[eyes-wide-open]] names as the source of declassified material on the [[cia-mafia-assassination-plots]]. In this episode it appears only through the plots; the page is a hub for future ingests.
@@ -36,3 +38,7 @@ The Church Committee is the mid-1970s Senate investigation of the intelligence a
 ## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
 
 - Host: [[david-atlee-phillips]] founded the [[association-of-former-intelligence-officers]] in 1975 in response to the scrutiny of this "year of intelligence" period. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 7:33)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] hopes Epstein outrage could build momentum like the one that produced the Church Commission in the 1970s and carry over to UAP oversight. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:27:08-1:27:33)*

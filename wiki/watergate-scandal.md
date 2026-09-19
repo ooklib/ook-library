@@ -24,6 +24,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 The early-1970s Watergate burglary and scandal. Eyes Wide Open notes only that [[e-howard-hunt]] was one of Nixon's "plumbers", a secret group of White House political fixers, planned and executed the burglary, testified to the Senate Watergate committee and served 33 months. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 9:10-9:42)*
@@ -63,3 +65,7 @@ The early-1970s Watergate burglary and scandal. Eyes Wide Open notes only that [
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda says he read three newspapers a day during Watergate, felt it defied ordinary political analysis, and that shredders ran overtime at Bendix's international division, where he worked, because of field-engineering paperwork; see [[bendix-field-engineering]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 3:59, 4:15, 4:24:03)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says that through Watergate the "one secret they sat on and protected was the UFO secret". *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:29:56-1:30:56)*

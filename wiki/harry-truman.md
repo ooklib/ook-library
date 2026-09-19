@@ -42,6 +42,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Harry Truman was President of the United States when, per Eyes Wide Open, he lost faith in
@@ -110,3 +112,7 @@ with [[roscoe-hillenkoetter]] as (per the host) first director of the CIA.
 ## Additional claims (gerb/corso)
 
 - Gave AT&T management of Sandia in 1949, per Gerb ([[sandia-national-laboratories]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 30:22-30:39)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says he is told a secret executive order enshrining the retrieval program and keeping it from Congress was signed probably during the Truman administration. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 40:03-40:28)*

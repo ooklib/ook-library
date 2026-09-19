@@ -22,6 +22,8 @@ sources:
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Debate, on Coulthart's "Reality Check", over why anyone would fabricate or plant the [[majestic-documents]]. Coulthart's stated question is "if they're a hoax, for what purpose?" *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 24:29-25:50)*
@@ -52,3 +54,7 @@ This section is the wiki owner's own hypothesis, not something asserted in any i
 ## Claims (jm/cameron)
 
 - Cameron applies a similar mixing-truth-with-falsity logic to Holloman, Lazar and Bill Moore: [[disclosure-by-disinformation-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:09:29-1:10:29)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] cites [[geoffrey-cruickshank]]'s latest analysis (handwriting of President Truman and references to matters only released in 2023) as supporting authenticity. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:33:31-1:34:22)*

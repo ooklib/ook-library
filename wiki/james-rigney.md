@@ -10,9 +10,14 @@ relations:
   - relation: references_testimony_of
     target: edgar-mitchell
     note: "estate documents"
+  - relation: associate_of
+    target: westall-ufo-incident-1966
+    note: "introduced Coulthart to the case"
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 James Rigney is, per UAP Gerb, the man who copied the Wilson-Davis notes from the estate of [[edgar-mitchell]] and put them into the public arena. Gerb's account relies on the show notes (Rigney interview) and on Rigney's Richard Dolan podcast appearance. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 1:02-1:18)*
@@ -26,3 +31,7 @@ James Rigney is, per UAP Gerb, the man who copied the Wilson-Davis notes from th
 ## Relationships
 
 - Source of the leak of the [[wilson-davis-notes]] from [[edgar-mitchell]]'s estate.
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says Rigney runs a Victorian UFO investigation group, was instrumental in securing release of the Wilson-Davis document, and introduced him to the [[westall-ufo-incident-1966]] case and the Kelly Cahill case. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 22:24-23:00)*

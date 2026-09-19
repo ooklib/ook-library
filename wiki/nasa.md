@@ -20,6 +20,8 @@ sources:
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 NASA, established 29 July 1958, is the US civilian space agency. In [[jesse-michels]]'s 2025 episode it appears as the public face of a program with a hidden, secrecy-enabled side (alongside the [[national-reconnaissance-office]]) and an "esoteric dimension" of symbols, dates and personnel. See [[nasa-occult-symbolism-claims]].
@@ -56,3 +58,7 @@ NASA, established 29 July 1958, is the US civilian space agency. In [[jesse-mich
 ## Claims (jm/nell-pasulka)
 
 - Pasulka's aerospace correspondents include NASA and the Space Force; see [[nasa-mission-patches-and-sponsors-claims]], [[angel-contact-events-claims]] and [[tyler-vatican-observatory-visit]]. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 14:40-14:47, 1:02:01-1:02:16)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says a very senior NASA official told him he did not know of the program while a person three rungs down, who ran a lunar reconnaissance mission, was gatekeeper for the legacy program, and that NASA's photographs and data are allegedly hidden. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:20:01-1:21:56)*

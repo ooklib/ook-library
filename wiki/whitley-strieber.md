@@ -16,6 +16,8 @@ sources:
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Whitley Strieber is the author of *Communion* and the archetypal 1980s abductee/contactee. In the `jm/jorjani-religion` episode he is discussed by [[jesse-michels]] and [[jason-jorjani]], including a light-hearted on-camera touch of the alleged implant in his ear.
@@ -42,3 +44,7 @@ Levenda says Strieber contacted him years earlier, a chapter of *Communion* cove
 ## Claims (jm/cameron)
 
 - Cameron says Strieber told him about flying a craft with a guiding presence behind him, and calls him one of the 36 people in his skypods book: [[experiencers-who-flew-craft-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:49:52-2:53:47)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says he told Strieber when he interviewed him last year that he would have laughed him out of town five years ago. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:38:46-1:39:00)*

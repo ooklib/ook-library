@@ -41,6 +41,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 The Wilson-Davis notes are disputed but (per Gerb) "highly likely accurate" notes transcribed
@@ -195,3 +197,7 @@ Gerb's introductory documentary walks through the 15-page notes line by line. Al
 ## Claims (jm/cameron)
 
 - Cameron says he made the notes public after Australian collector material from [[edgar-mitchell]]'s files reached him via James Rigney: [[wilson-davis-memo-leak-account-cameron]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:14:48-1:19:25)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] mentions the Wilson-Davis document as a story of its own that he researched while writing his book, crediting [[james-rigney]] with its release. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 22:32-22:43)*

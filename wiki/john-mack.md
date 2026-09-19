@@ -14,6 +14,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 John Mack was the Harvard psychiatry professor known for abduction research. [[steven-greer]] says Mack meant well, was a childhood-friend-linked colleague of [[budd-hopkins]], and was funded by [[laurance-rockefeller]], but was working with "two cards out of 52". *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 49:21-50:05)*
@@ -34,3 +36,7 @@ John Mack was the Harvard psychiatry professor known for abduction research. [[s
 ## Claims (jm/matthew-brown)
 
 - Michels notes Rockefeller funded Mack. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:16:03-2:16:10)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] cites Mack as the model for taking experiencer accounts seriously as the "experience phenomenon" and for giving credibility after five or six consistent accounts. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:39:11-1:39:31, 1:53:08-1:53:24)*

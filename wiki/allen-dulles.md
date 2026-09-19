@@ -121,6 +121,8 @@ sources:
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -351,3 +353,7 @@ Levenda says Dulles's partner Mary (ASR "Mary Douglas") was best friend of Ruth 
 ## Claims (jm/pines)
 
 - Pines and Michels discuss Dulles reactivating [[s-force]] from [[brown-brothers-harriman]] to go after JFK; see [[carter-purge-and-privatization-claims]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 41:47-42:17, 49:40-50:07)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says Dulles and [[james-jesus-angleton]] did illegal things at the CIA, misled presidents and enshrined a culture that made [[john-f-kennedy]] want to break it up, and that he believes Dulles's conspiracy is integrally connected to UAP. See [[coulthart-constitutional-crisis-framing]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:32:03-1:33:24)*

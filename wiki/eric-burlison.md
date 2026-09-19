@@ -31,6 +31,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 US Representative Eric Burlison (ASR-transcribed throughout as "Berles"/"Burles") is a
@@ -96,3 +98,7 @@ from Burlison; not otherwise detailed in this source.
 ## Claims (jm/matthew-brown)
 
 - Brown notes Burlison's Pax River tour showed nothing exotic. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:57:19-1:57:41)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says Burlison has recently indicated willingness to investigate the classified craft-shaped-building allegation and said publicly he has heard it too. See [[giant-craft-shaped-building-claims-coulthart]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:13:58-2:14:16)*

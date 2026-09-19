@@ -30,6 +30,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Jacques Vallee is the French-American computer scientist and ufologist whose books (notably Messengers of Deception) and published journals are the main intellectual frame for guest [[jason-samosa]] in the `jm/cover-up` episode. The episode uses him as a source for a "control system" or belief-shaping reading of UFOs, for the AAWSAP-era journals, and as validation of the Tom DeLonge/Podesta story. This page records what the episode attributes to him; the wiki treats these as claims about his positions.
@@ -83,3 +85,7 @@ Levenda met Vallee at the Austin meeting and says Vallee's "control mechanism" i
 ## Claims (jm/cameron)
 
 - Cameron says Vallee recorded the Kit Green-Walker confrontation in his Forbidden Science diary and supplied Cameron with the 11-page 1959 Lundahl channeling memo; Vallee's control-system remark closes the interview. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:35:19-2:36:53, 53:57-54:12, 2:59:00-2:59:19)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says Vallee has long argued the phenomenon manipulates human perception, as the "slide 9" briefing also indicated. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:44:34-1:45:11)*

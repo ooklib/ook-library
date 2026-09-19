@@ -24,6 +24,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 The discussion in the [[matthew-brown-michels-interview-2026]] of alleged use of humans with psionic potential to lure craft, and the hypothesis that this is cover for selective breeding. Note the framing: the breeding hypothesis is speculation floated mainly by [[jesse-michels]], with [[matthew-brown]] engaging but saying he has no evidence and only "N of one, N of two" stories.
@@ -43,3 +45,7 @@ The discussion in the [[matthew-brown-michels-interview-2026]] of alleged use of
 ## Claims (jm/censored-book)
 
 - [[sentinels-of-ether-michels-episode-2026]] is the richest source for [[jake-barber]]'s own P3 claims: refugees as "psionic cargo" in shipping containers, prospecting abroad, chipped and drugged "pink assets", and a psychic-joystick pilot interface; see [[psychic-joystick-brain-interface-claims]] and [[michael-herrera-indonesia-encounter-2009]]. Unlike the breeding hypothesis, these are Barber's claims via Michels. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 22:04-23:13, 42:07-43:24, 1:05:08-1:08:44)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] links psionic operators to the luring of craft and possibly to jury-rigged non-human craft flown to the moon; see [[craft-downing-and-nhi-casualty-claims-coulthart]], [[secret-space-program-claims-coulthart]], and the [[esalen-inviting-session-skywatcher]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 44:50-45:06, 1:00:26-1:00:53)*

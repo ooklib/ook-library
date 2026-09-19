@@ -59,6 +59,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Northrop Grumman has primary offices in [[crystal-city-virginia|Crystal City]] and is listed
@@ -195,3 +197,7 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
 ## Claims (jm/nell-pasulka)
 
 - Michels describes Karl Nell's background at Lockheed Martin and Northrop Grumman; Michels also says Northrop paid Townsend Brown a "ridiculously low" sum, which he says he thinks led to B-2 technology. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 1:56-2:05, 1:15:04-1:15:19)*
+
+## Claims (a52/coulthart)
+
+- Listed by [[ross-coulthart]] among aerospace companies harbouring control-group members; contractors there lack whistleblower protections under current law. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 37:44-37:52, 1:13:36-1:14:25)*

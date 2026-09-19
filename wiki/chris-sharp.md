@@ -25,6 +25,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Chris Sharp, a journalist with the Liberation Times, is cited by Gerb for his article "UFO
@@ -67,3 +69,7 @@ reported sources describing a vehicle or vehicles of unknown origin stored at
 ## Additional claims (gerb/corso)
 
 - Credited by Gerb for the analysis of the OGA/JSOC crash-retrieval role used in [[ufo-working-group-1987]]. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:06:01-1:06:33, 1:29:44-1:29:59)*
+
+## Claims (a52/coulthart)
+
+- Per [[ross-coulthart]], Sharp put NHI wording to Susan Gough at the Pentagon, who would not let him substitute NHI for extraterrestrial; Coulthart reads this as deliberate wiggle room. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:03:56-1:04:21)*

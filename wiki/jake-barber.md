@@ -7,6 +7,9 @@ relations:
   - relation: alleged_by
     target: project-stargate
     note: "associated with more recent psionics/anomalous-cognition UFO claims"
+  - relation: founded
+    target: skywatcher
+    note: "co-founder per Coulthart"
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -22,6 +25,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Jake Barber's more recent claims have been associated with psionics and programs focused on
@@ -61,3 +66,10 @@ older claims (e.g. [[philip-j-corso|Corso]]'s) about consciousness-linked UFO gu
 - The origin of the manuscript is the [[barber-toughbooks-operation-claims]] and its use of [[dopsr-prepublication-review-claims]]; Barber attended the [[national-press-club-disclosure-event-2023]] to red-team whistleblowers and befriended [[michael-herrera]] ([[michael-herrera-indonesia-encounter-2009]]). *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 37:20-38:44, 43:24-43:49)*
 - His P3 psionic-asset, CE5-like and "psychic joystick" claims are in [[psychic-joystick-brain-interface-claims]] and [[ce5-contact-protocols]]; Michels ends by saying Barber's private company Skywatcher has hit snags and the promised demonstration did not occur ([[mountain-base-network-claims]]). *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 59:11-1:07:22, 1:32:23-1:32:46)*
 - Michels quotes Barber closing line: "The skies aren't classified. Your consciousness can't be redacted." *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:34:38-1:34:43)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says Barber went public with him, testified to Congress at their instigation, described the blue-on-blue incident and the belief that his special operations team was set up by a private corporation to murder them, and has not "opted out" but has done all he can within the law. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:14:37-1:16:23, 1:02:29-1:03:21)*
+- Barber described overwhelming love from the intelligence associated with a craft he recovered. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:02:38-1:03:09)*
+- Coulthart says he was given the names of people who ordered the murder of Barber's team and took steps to make it public if anything happened to him, as Barber did too. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:44:02-2:51:10)*
+- Barber co-founded [[skywatcher]] and attended the [[esalen-inviting-session-skywatcher]].

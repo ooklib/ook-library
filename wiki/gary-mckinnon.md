@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
     label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Gary McKinnon is the British hacker who in 2001 accessed US military and [[nasa]] systems while searching for UFO evidence and faces a lingering US extradition warrant. [[jesse-michels]] retells parts of his own earlier interview with McKinnon during [[buhler-michels-interview-2026]].
@@ -26,3 +28,7 @@ Gary McKinnon is the British hacker who in 2001 accessed US military and [[nasa]
 ## Relationships
 
 - Source of claims relayed by [[jesse-michels]]; linked to [[donna-hair]]; related [[nasa]].
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] and [[chris-ramsey]] cite McKinnon as one of the few corroborating anecdotes for a secret space program; Coulthart finds him highly credible and is amused by the reported ship name "Hill and Cott". See [[secret-space-program-claims-coulthart]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 45:54-47:03)*

@@ -30,6 +30,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Cited by Gerb as an example of "Southwest systems" used to intake recovered craft around this
@@ -83,3 +85,7 @@ period, associated with [[sandia-national-laboratories|Sandia]]. *([gerb/mitre](
 ## Claims (jm/cameron)
 
 - Cameron says Walker asked "how do you know they didn't get up and walk away?" and that a Soul Conference attendee allegedly heard a leading figure say Kingman was the crash "they walked away from", leaving the craft intact (second-hand): [[eric-walker-esp-control-group-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:49:37-1:50:39)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] lists Kingman among known alleged recovery locations. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:17:51-2:18:44)*

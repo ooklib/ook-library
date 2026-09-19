@@ -33,6 +33,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 A Special Access Program (SAP) is a US classification mechanism providing enhanced security for
@@ -195,3 +197,7 @@ and stretch to stay funded and hidden. *([gerb/secrecy_2](../raw/gerb/secrecy_2.
 ## Additional claims (gerb/timeline)
 
 - Timeline video: traces the SAP lineage through [[executive-order-10501]] (1953, ad hoc controls), [[executive-order-11652]] (1972, formal framework, 1973 House report), EO 12356/NSDD 159 (1982-85), Perry's 1994 expansion of the SAPOC/SRG, and treats the [[atomic-energy-act-1954]] DOE system as a separate statutory container. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 48:03-49:03, 1:04:39-1:07:32, 1:17:25-1:18:38, 1:55:42-1:55:57)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] describes the hierarchy of SAP, unacknowledged SAP and waived unacknowledged SAP (WUSAP), the last briefed only to the Gang of Eight. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 33:42-34:29)*

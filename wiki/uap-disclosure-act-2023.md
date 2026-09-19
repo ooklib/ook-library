@@ -17,6 +17,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 The UAP Disclosure Act is the Senate bill (sponsored, per [[matthew-pines]], by Schumer, Rounds, Gillibrand, Heinrich and Todd Young) that would create a UAP records review board with unilateral declassification authority and eminent-domain reach over privately held UAP material. This page records how Pines describes it in [[pines-michels-interview-2024]], not the bill text.
@@ -37,3 +39,7 @@ The UAP Disclosure Act is the Senate bill (sponsored, per [[matthew-pines]], by 
 ## Claims (jm/nell-pasulka)
 
 - Nell cites the legislation from Senators Schumer, Rounds, Rubio and Vance and others as testimonial evidence that Congress "is not being told the truth", and says the Schumer-Rounds group intended to reintroduce it. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 7:32-8:08)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says momentum for new disclosure laws, including whistleblower protection for contractors, stalled at the end of last year after key senators were briefed. See [[congressional-oversight-and-read-in-claims-coulthart]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:13:28-1:14:37)*

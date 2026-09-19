@@ -42,6 +42,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Dr. Eric Davis is the physicist who transcribed the [[wilson-davis-notes|Wilson-Davis notes]],
@@ -128,3 +130,7 @@ the estate of the late astronaut [[edgar-mitchell|Edgar Mitchell]].
 
 - Cameron says he knew of Oak Shannon and the advanced physics working group from notes Davis gave him, and feared Davis would lose his clearance over the leak: [[wilson-davis-memo-leak-account-cameron]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:16:36-1:17:58)*
 - Cameron says Davis told him stories about Arthur Lundahl's obsession with UFOs. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 48:13-48:20)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] notes as a journalist's puzzle that Davis has asserted being briefed by [[george-h-w-bush]] about mantids, reptilians and Nordics, in front of members of Congress; see [[coulthart-experiencer-and-perception-claims]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:10:06-1:11:01)*

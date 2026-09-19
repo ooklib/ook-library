@@ -15,6 +15,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 "Non-human intelligence" (NHI) is the term used by [[david-grush]] and others in the disclosure community for the alleged intelligent originators of recovered craft, preferred over "extraterrestrial" because origin is unknown. Grusch says he does not want to "denote origin" and floats a higher-dimensional, collocated source as a theory. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 7:42-8:13,)*
@@ -40,3 +42,7 @@ sources:
 ## Additional claims (gerb/corso)
 
 - See [[ebe-extraterrestrial-biological-entity-claims]] and [[corso-white-sands-nhi-encounter-claims]] for Corso's accounts. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 15:04-15:13, 1:16:33-1:18:10)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says the answer to whether NHI engages the planet is "indubitably yes", but that NHI is too broad a term for a phenomenon that is probably multifaceted; see [[coulthart-disclosure-dilemma-claims]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 55:10-56:45)*

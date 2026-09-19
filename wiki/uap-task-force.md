@@ -16,6 +16,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 The Pentagon UAP investigation team that [[david-grush]] joined in 2019 (per the source) as an intelligence officer; per the NewsNation narration it was later renamed [[aaro]]. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 3:31-3:48,)*
@@ -40,3 +42,7 @@ The Pentagon UAP investigation team that [[david-grush]] joined in 2019 (per the
 ## Claims (jm/nell-pasulka)
 
 - Michels introduces Karl Nell as the Army representative to the UAP Task Force, which he says was directed to look into UAP's existence and reality; Nell speaks from unclassified information only. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 2:13-2:39)* See [[nell-pasulka-hereticon-panel-2024]].
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] cites "slide 9", a briefing prepared for an under secretary of defense by the UAP Task Force or AOSAP, saying the phenomenon can manipulate human perception. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:44:41-1:45:11)*

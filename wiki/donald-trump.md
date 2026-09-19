@@ -27,6 +27,8 @@ sources:
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Donald Trump appears in this episode as a later protégé of [[roy-cohn]] — the McCarthy-era "Deep
@@ -78,3 +80,8 @@ American power politics — and as the brief 1986 owner of [[resorts-internation
 ## Claims (jm/cameron)
 
 - Cameron says Trump spoke of aliens as classified when asked on Fox, then backed off, is now stuck like Clinton's "tar baby", and gives 50-50 odds of a speech (mentioned as 8 July): [[presidential-tar-baby-claims]]. Michels mentions Trump's post tasking Secretary of War Hegseth to look at UFOs. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:14:09-1:14:25, 1:56:26-1:56:54, 2:44:55-2:45:46)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says Trump knows about a non-human intelligence, recovered craft and a retrieval program, per what he has been told, that he has spoken to Trump's son, and that no source says a Trump announcement is coming, though Trump has the nerve to do it and an announcement around Roswell's anniversary would fit. He also mentions Trump's "discombobulator" remark. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 57:18-57:56, 1:35:44-1:36:30, 2:17:51-2:18:10, 2:49:03-2:49:20)*
+- See [[coulthart-disclosure-dilemma-claims]], [[coming-event-2027-claims]].

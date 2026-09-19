@@ -73,6 +73,8 @@ sources:
     label: "Carlyle Group - Bush connection to Bin Laden (911MmRy)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 
@@ -224,3 +226,7 @@ The 911mmry clip compilation is partisan and its speakers are unnamed.
 ## Additional claims (gerb/corso)
 
 - Per Vallee's *Forbidden Science* as quoted by Gerb: Bush told [[eric-davis]] the Corso topic and German secrets were separate ("impossible" that it was Nazi hardware, German secrets "processed and filed away"), that the 1954 Holloman landing and Eisenhower deal really happened, and that he was briefed on legacy programs by Trudeau around the 1968 hearings ([[mendel-rivers-hearings-1968]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 10:03-11:33)*
+
+## Claims (a52/coulthart)
+
+- Per [[ross-coulthart]] (relaying [[eric-davis]]'s claim), Bush briefed Davis on mantids, reptilians and Nordics. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:10:06-1:10:24)*

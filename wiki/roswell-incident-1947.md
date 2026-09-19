@@ -58,6 +58,8 @@ sources:
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -193,3 +195,7 @@ Levenda says Roswell may have been "exotic human technology" and notes Dornberge
 ## Additional claims (gerb/corso)
 
 - Corso's Roswell claims: the [[roswell-file]], [[corso-fort-riley-ebe-sighting-1947]], [[corso-technology-seeding-claims]]; Gerb notes Corso mentions a second July 1947 San Augustine, NM crash and that he was not present at Roswell. Gerb recommends his own Roswell coverup videos and UFO Whistleblowers vol. 1, and names Walter Haut of the 509th as a comparable-witness. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 15:22-15:47, 51:47-52:10)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says Trump should consider a disclosure around Roswell's anniversary in July, and lists Roswell among known recovery locations. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:17:51-2:18:44)*

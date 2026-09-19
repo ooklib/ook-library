@@ -29,6 +29,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Roscoe Hillenkoetter (rendered "Hillenk Oetter" in Eyes Wide Open's ASR captions) was a US naval
@@ -72,3 +74,7 @@ effectiveness.
 ## Claims (jm/borland)
 
 - Borland notes Hillenkoetter's New York board role and Michels adds that the first CIA director, reportedly frustrated over Roswell information, was supposedly in [[majestic-12]]. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 12:02-12:53)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] notes Hillenkoetter's role as CIA's founding director, MJ-12 member and 1950s disclosure activist, and jokes that the reported ship name "Hill and Cott" would be a secret spacecraft named after him. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 46:17-46:39)*

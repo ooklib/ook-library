@@ -1,0 +1,27 @@
+---
+title: Nat Kobitz
+kind: person
+aliases: [Nat Kobitz]
+tags: [us-navy, science-technology, source]
+relations:
+  - relation: alleged_by
+    target: ross-coulthart
+    note: "described as a candid early source"
+  - relation: references
+    target: coulthart-source-cultivation-tradecraft
+    note: "responded to a letter"
+sources:
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+---
+
+Nat Kobitz, per [[ross-coulthart]], was director of science and technology development for the US Navy for 30-some years.
+
+## Claims
+
+- When Coulthart wrote him a letter he was dying of cancer, calculated he had nothing to lose, and candidly helped Coulthart's investigation, gave him names of people to speak to and helped open doors. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:34:04-2:34:37)*
+- Through this Coulthart says he learned early that craft were allegedly being shot down. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:34:37-2:34:53)*
+
+## Relationships
+
+- Source for [[ross-coulthart]]; see [[coulthart-source-cultivation-tradecraft]].

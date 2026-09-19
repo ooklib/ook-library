@@ -20,6 +20,8 @@ sources:
     label: "The Maxwells Weren't Spies. They Were Something Worse. (oompaville)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Jeffrey Epstein appears in the `jm/cover-up` episode only through [[jesse-michels]]'s speculation: he says Epstein set up Zorro Ranch near retiring Los Alamos physicists, said in an email to Bannon that he "kills pawns" (Pons and Fleischmann, i.e. cold fusion), and thus fits a science-suppression pattern; Michels also ties him to [[robert-maxwell]]'s network. [[jason-samosa]] says Epstein/deep-state/criminal networks are "conflated" with the UFO issue and that whatever intersects them is probably dangerous today. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:46:26, 1:51:18)*
@@ -49,3 +51,7 @@ Jeffrey Epstein appears in the `jm/cover-up` episode only through [[jesse-michel
 ## Claims (jm/matthew-brown)
 
 - Michels lists Epstein's selling Promis-like software to Sandia and his "I killed pawns" email (cold fusion); Brown sees convergence with UFOs in trafficking and in the interest in psi-capable people in the files. See [[psionic-assets-and-breeding-claims]]. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:37:51-2:43:37)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] compares congressional momentum on the Epstein files to the outrage behind the [[church-committee]] and argues the UAP cover-up raises comparable constitutional issues. See [[coulthart-constitutional-crisis-framing]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:11:36-1:11:56, 1:26:33-1:31:31)*

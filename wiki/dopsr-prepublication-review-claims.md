@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 The Defense Office of Prepublication and Security Review (DOPSR, spelled "Doppser" in the ASR transcript) is the Defense Department system that clears former personnel's writings for publication. In [[sentinels-of-ether-michels-episode-2026]] [[jesse-michels]] alleges that [[jake-barber]] turned it into a "Trojan horse": he had a ghost writer craft the manuscript, sliced it into 20-page chunks and watched which lines the Pentagon blacked out. This is Michels' account of Barber's strategy, and the redactions are not independently documented.
@@ -33,3 +35,7 @@ The Defense Office of Prepublication and Security Review (DOPSR, spelled "Doppse
 
 - Used by [[jake-barber]] for [[sentinels-of-ether]].
 - Part of the [[department-of-defense]] review apparatus; cf. the pre-publication disputes around [[matthew-brown]]'s and [[david-grush]]'s public claims.
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says [[david-grush]]'s pre-publication security review approved him to discuss "agreements"; see [[human-nhi-agreements-claims-coulthart]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:06:39-1:07:12)*

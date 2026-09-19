@@ -20,6 +20,9 @@ relations:
   - relation: employed_by
     target: national-reconnaissance-office
     note: "liaison to the UAP task force"
+  - relation: features
+    target: esalen-inviting-session-skywatcher
+    note: "attended"
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -61,6 +64,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -271,3 +276,10 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 ## Claims (jm/nell-pasulka)
 
 - Nell cites Grusch's House Oversight testimony (accompanied by two Naval aviators) that a government program exists looking at UFOs because they are real. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 7:05-7:23)*
+
+## Claims (a52/coulthart)
+
+- [[ross-coulthart]] says he became aware of Grusch from people in the program who told him "you need to find out about this guy", that Grusch may be closer to the program than he lets on though not a controlled-disclosure asset, and that Grusch was one of the most highly cleared people in defence, briefed on over 2,000 SAPs up to waived programs, once carrying the presidential daily brief to the White House by train with an escort. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:17:31-1:19:11)*
+- Grusch's realisation that a parallel program had been hidden from him blew him away, and a friend in the Pentagon cafeteria nudged him. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:19:16-1:20:01)*
+- Coulthart says a line in Grusch's pre-publication review approved him to discuss "agreements" but he cannot elaborate: [[human-nhi-agreements-claims-coulthart]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:06:07-1:07:12)*
+- Grusch was present at the [[esalen-inviting-session-skywatcher]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:21:31-2:23:06)*

@@ -10,6 +10,15 @@ relations:
   - relation: investigates
     target: majestic-documents
     note: "Reality Check episode"
+  - relation: features
+    target: coulthart-ramsey-interview-2026
+    note: "guest on DEBRIEFED ep. 76"
+  - relation: authored
+    target: in-plain-sight-book
+    note: "his book"
+  - relation: associate_of
+    target: chris-ramsey
+    note: "interviewed by"
 sources:
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
@@ -27,6 +36,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 Ross Coulthart, Australian investigative journalist (host of *Need to Know* with Bryce Sable),
@@ -77,3 +88,12 @@ privately told him the 2004 Nimitz "tic tac" originated from Lockheed Skunk Work
 ## Claims (jm/censored-book)
 
 - Quoted in [[sentinels-of-ether-michels-episode-2026]] on a US portal and a guarded Bradshaw Ranch facility "under US Forest Service cover", on the Secret Mountain bunker and golden orb escorted by helicopters ([[bradshaw-ranch-sedona]]), and saying he "now know[s] categorically that the Tic Tac is Lockheed Martin technology" ([[john-norseen]]). *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 58:14-58:40, 1:23:24-1:24:23, 1:14:46-1:14:59)*
+
+## Claims (a52/coulthart)
+
+In this Area52 interview [[ross-coulthart]] is the guest; see [[coulthart-ramsey-interview-2026]] for the full topic map. He says he began eight years earlier assuming UFOs were an American black program and that a senior source in a Georgetown bar told him "it's real". *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 6:38-7:27, 53:37-54:29)*
+
+- He says his father's 1978 sighting and the [[kaikoura-ufo-incident-1978]] and [[westall-ufo-incident-1966]] cases shaped his view. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 9:49-30:47)*
+- He claims 15+ program sources ([[legacy-program-insider-claims-coulthart]]), that certain senators are being read in ([[congressional-oversight-and-read-in-claims-coulthart]]), that people in the program use HPM weapons to down craft ([[craft-downing-and-nhi-casualty-claims-coulthart]]), and that agreements with NHI exist ([[human-nhi-agreements-claims-coulthart]]).
+- He describes his source method ([[coulthart-source-cultivation-tradecraft]]), a secret space program ([[secret-space-program-claims-coulthart]]), the giant building ([[giant-craft-shaped-building-claims-coulthart]]) and the [[esalen-inviting-session-skywatcher]].
+- He states his cross-examination stance in [[coulthart-critique-of-credulity-in-ufology]] and his book is [[in-plain-sight-book]].

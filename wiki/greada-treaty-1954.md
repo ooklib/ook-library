@@ -15,6 +15,8 @@ sources:
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
+    label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
 ---
 
 In his 1995 lecture ([[schneider-las-vegas-lecture-1995]]), [[phil-schneider]] says the Eisenhower administration made a 1954 "alien-human treaty", in which the ASR spells the name "gri" (the name is usually given in the wider literature as Greada). Under it, he says, aliens exchanged technology in return for the right to take an occasional human and a few head of cattle, with accurate records to be kept. He says it later broke down, that "aliens are notorious for being liars" and that such treaties are "not worth the paper". This is an unverified claim; no other source in the wiki mentions it. *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 8:08)*
@@ -27,3 +29,7 @@ In his 1995 lecture ([[schneider-las-vegas-lecture-1995]]), [[phil-schneider]] s
 ## Claims (jm/matthew-brown)
 
 - In the Brown interview Michels describes Eisenhower going to Edwards AFB in 1954 for medical-experimentation access; Brown says he knows nothing of it and is skeptical of such detail, though he learned that an oral tradition of an old agreement exists ([[brown-agreements-and-no-go-zone-claims]]). *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:12:37-1:14:33)*
+
+## Claims (a52/coulthart)
+
+- Compare the alleged human-NHI agreements that [[ross-coulthart]] believes exist; see [[human-nhi-agreements-claims-coulthart]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:07:20-1:08:15)*
