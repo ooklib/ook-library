@@ -12,6 +12,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 The Yankee-Cowboy Thesis, developed by [[carl-oglesby]] in his 1976 book *The Yankee and Cowboys
@@ -53,3 +55,9 @@ for the series' future Kennedy-assassination chapters.
 ## Additional claims (CIA-Mafia Legend)
 
 - Host: Nixon and Hughes as the "rising Cowboys" (new Southwest oil/gas/military-industrial money) vs Yankee old-money multinationals (Aramco's Rockefeller-descended firms); the mob "realigning" from the Eastern establishment towards the Cowboys; the anti-Castro coalition became an anti-Kennedy coalition that aligned with Johnson. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 2:00-3:26, 4:37-5:11, 15:41-16:21)* See [[jeddah-agreements]], [[howard-hughes]].
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- Host frames the early 1960s as a shift of power from the northeastern "Yankee" class to a southwestern "Cowboy" class driven by Sun Belt oil and defense contracts, citing Kirkpatrick Sale's *Power Shift* (ASR "Kirk Patrick sail"; via Whitney Webb's *One Nation Under Blackmail*) and its "Southern Rim." The transition "was by no means a peaceful transfer of power"; Cowboy interests crystallize in post-Bay-of-Pigs Cuba operations, Southeast Asia, then Central and South America in the 1980s. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 2:52-5:23)*
+- [[george-h-w-bush]] is cast as the "Yankee wonder kid posing successfully as Cowboy royalty," an emissary between his father [[prescott-bush]]'s Wall Street and Texas. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 2:04-2:38)* *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 5:14-5:23)*
+- Host: Democrat/Republican labels meant little at the top of either camp. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 14:57-15:26)*

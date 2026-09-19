@@ -24,6 +24,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arthur Schlesinger, briefed President-elect John F. Kennedy that [[laos]], not Vietnam, was his chief Southeast Asian worry. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 0:44-1:07)*
@@ -55,3 +57,8 @@ Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arth
 ## Additional claims (CIA-Mafia Legend)
 
 - Host: Nixon was chosen as a hardline foil to Eisenhower's "grandfatherly moderation" (host: reportedly they did not get along); Nixon was in charge of the Cuba show as his final VP assignment and Dulles "secretly tapped" him behind Eisenhower's back. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 5:45-8:03)*
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- Host: [[prescott-bush]] was a longtime personal friend and golf partner; the [[draft-eisenhower-movement]] (Bush, the Dulles brothers, the Rockefellers) swayed him to run as a Republican in 1952. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 23:18-23:51)*
+- Created the [[presidents-intelligence-advisory-board]] in 1956; [[robert-lovett]] and [[joseph-kennedy]] were early members. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 29:06-30:10)*

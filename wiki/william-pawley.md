@@ -21,6 +21,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 William Pawley (ASR: "William Paulie"; normalization is my inference from the aviation-executive
@@ -46,3 +48,7 @@ Supplies company and a link between PanAm and the CIA's airline.
 
 
 - Host: a China Lobby financier who helped fund PBSuccess and later the Bay of Pigs. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 13:01-13:16, 15:13-15:21)*
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- Host: close friend of [[prescott-bush]] (both at [[pan-american-airways]]); Pawley (ASR "Paulie") helped procure planes for Claire Chennault's Flying Tigers, would later play "a significant role" in [[operation-pbsuccess]] and the [[bay-of-pigs-invasion]], and the airline "would also become the CIA's CAT and later Air America" (host wording; see [[air-america]]). *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 18:04-18:43)*

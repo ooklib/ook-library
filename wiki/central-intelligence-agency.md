@@ -73,6 +73,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -166,3 +168,7 @@ shared organization page.
 ## Additional claims (CIA-Mafia Legend)
 
 - Host: the CIA and the mob allied in 1960 via [[robert-maheu]]; host argues the agency's "bungling" reputation is a cover ("legend") for a ruthlessly effective regime-change machine; early CIA composed of ex-OSS, ex-FBI and ex-Army intelligence factions. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 11:40-11:56, 1:10:06-1:14:18, 1:19:57-1:20:19)* See [[cia-mafia-legend]], [[cia-mafia-assassination-plots]], [[sheffield-edwards]], [[sidney-gottlieb]].
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- Host: the CIA is "notoriously insular"; McCone (1961) was the last outsider director before [[george-h-w-bush]] (1976), and [[richard-helms]] was elevated to "return the CIA to their original masters." Alleged early-CIA network: [[allen-dulles]]'s private postwar intelligence office at 44 Wall Street with [[prescott-bush]] as unofficial money-laundering advisor (Trento). *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 0:51-1:41)* *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 16:57-17:57)*

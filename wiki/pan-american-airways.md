@@ -20,6 +20,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 Pan American Airways (PanAm), founded and long chaired by Juan Trippe, is presented by
@@ -53,3 +55,7 @@ establishment and intelligence world.
 ## Additional claims (CIA-Mafia Legend)
 
 - Host: rival of TWA/Hughes; long-standing ties to Boeing; alongside TWA ushered in the jet age. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 29:32-30:06)*
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- [[prescott-bush]] sat on the PanAm board (by 1942 per Trento via host); his friend [[william-pawley]] was a PanAm executive. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 12:21-12:38)* *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 18:04-18:29)*

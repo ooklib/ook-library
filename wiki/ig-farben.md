@@ -1,7 +1,7 @@
 ---
 title: IG Farben
 kind: organization
-aliases: ["I.G. Farben"]
+aliases: ["I.G. Farben", "IG farbin"]
 tags: [nazi-germany, wwii, cia-history]
 relations: []
 sources:
@@ -9,6 +9,8 @@ sources:
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 IG Farben was a German chemical/pharmaceutical conglomerate formed in the 1920s that became one
@@ -40,3 +42,7 @@ the Dulles brothers' Nazi-era business entanglements.
 - Represented by [[sullivan-and-cromwell]], creating an alleged conflict of interest with
   [[allen-dulles]]'s OSS role.
 - Via its constituent Bayer Company, first synthesized heroin in 1898.
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- Host: the "German chemical cartel IG Farben" (ASR "IG farbin") was the major client of [[sullivan-and-cromwell]], where the Dulles brothers profited from deals with German business during the war; the host speculates this shared secret bound them with [[prescott-bush]]. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 16:00-16:24)*

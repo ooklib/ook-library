@@ -82,6 +82,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -239,3 +241,11 @@ calls him "arguably one of, if not the most important person in modern American 
 ## Additional claims (CIA-Mafia Legend)
 
 - Host: with [[richard-nixon]], top planner of the anti-Castro project; a longtime covert Nixon backer since their 1946 meeting on the Queen Mary; his 1953 Iran coup context for the [[jeddah-agreements]] episode; Dulles's letters to Justice Jackson helped spare [[hjalmar-schacht]] at Nuremberg (as recalled from ewa/sunrise). *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 7:48-8:26, 16:54-17:09, 20:05-20:12, 1:00:00-1:00:16)*
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- Host: like [[prescott-bush]], profited from wartime deals with German business ([[ig-farben]], the [[sullivan-and-cromwell]] client), possibly binding the men "like a small mutual blackmail network"; S&C represented [[brown-brothers-harriman]], so Prescott "would become acquainted" with him. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 15:59-16:57)*
+- Alleged (Trento via host): after the OSS was abolished he ran a private intelligence agency in postwar Manhattan, keeping OSS staff on payroll until the CIA's 1947 formation, based at 44 Wall Street (Brown Brothers Harriman's offices), with Prescott Bush as "unofficial advisor" on early CIA money laundering. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 16:57-17:57)*
+- Alleged: ordered George H. W. Bush recruited as a "wedge" against Prescott (Corson via Trento); [[neil-mallon]] was "well known to Alan Dulles" and helped procure CIA personnel (Prescott's letter). *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 20:34-22:54)* See [[george-h-w-bush]].
+- April 10, 1953: two months into his CIA directorship, convened Mallon and Bush on a Caribbean "pilot project"; host says he could now "cash in" since Prescott sat on the Senate Armed Services oversight subcommittee. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 33:25-34:14)*
+- One of the [[draft-eisenhower-movement]] figures rewarded with the CIA directorship (1953); later a [[warren-commission]] member. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 28:36-28:50)* *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 32:37-32:53)*

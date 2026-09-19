@@ -125,6 +125,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 
 [[church-committee]] · [[jeddah-agreements]] (event, 1954) — added by `ewa/cia-mafia`.
 
+[[brown-brothers-harriman]] · [[dresser-industries]] · [[zapata-petroleum]] · [[presidents-intelligence-advisory-board]] · [[warren-commission]] — added by `ewa/bush-1`.
+
 [[office-of-strategic-services]] · [[sullivan-and-cromwell]] · [[ig-farben]] ·
 [[gehlen-organization]] · [[bank-for-international-settlements]] · [[civil-air-transport]] ·
 [[air-america]] · [[operation-paper]] · [[sea-supply-corporation]] · [[general-development-corporation]] · [[national-crime-syndicate]] ·
@@ -197,7 +199,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 
 ## Programs / Events
 
-[[cia-mafia-assassination-plots]] — alleged 1960-61+ CIA/mob Castro plots (`ewa/cia-mafia`) · [[jeddah-agreements]]
+[[draft-eisenhower-movement]] — 1952 Yankee-Republican push (`ewa/bush-1`) · [[cia-mafia-assassination-plots]] — alleged 1960-61+ CIA/mob Castro plots (`ewa/cia-mafia`) · [[jeddah-agreements]]
 
 [[ufo-legacy-programs]] · [[sage-semi-automatic-ground-environment]] ·
 [[project-whirlwind]] · [[tic-tac-factory-uso]] · [[roswell-incident-1947]] ·
@@ -237,6 +239,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 ## People — OSS/CIA history (Eyes Wide Open)
 
 [[robert-maheu]] · [[johnny-roselli]] · [[sam-giancana]] · [[sheffield-edwards]] · [[sidney-gottlieb]] · [[aristotle-onassis]] — added by `ewa/cia-mafia`.
+
+[[prescott-bush]] · [[neil-mallon]] · [[averell-harriman]] · [[robert-lovett]] — added by `ewa/bush-1` (expanded: [[george-h-w-bush]]).
 
 [[eyes-wide-open]] · [[william-donovan]] · [[allen-dulles]] · [[john-foster-dulles]] ·
 [[roscoe-hillenkoetter]] · [[j-edgar-hoover]] · [[franklin-d-roosevelt]] · [[harry-truman]] ·

@@ -19,6 +19,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 In [[eyes-wide-open]]'s War Conspiracy 2 the Rockefeller family is presented as a second elite network ("what I'll be calling the Rockefeller Network") operating alongside the [[china-lobby]], with long involvement in both Asia and Latin America, oil interests, and CIA-linked technology finance. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 17:26-17:48)*
@@ -36,3 +38,7 @@ In [[eyes-wide-open]]'s War Conspiracy 2 the Rockefeller family is presented as 
 
 - Funded [[council-on-foreign-relations]]; founded [[rockefeller-brothers-inc]] and [[asia-society]]; members [[nelson-rockefeller]], [[laurance-rockefeller]]; sponsored [[special-studies-project]]; interests threatened by [[jacobo-arbenz]] ([[operation-pbsuccess]]).
 - Host's discrepancy/ambiguity: RBI, the Rockefeller Brothers Fund and the Rockefeller Foundation are three distinct entities and the host warns against conflating them. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 22:04-22:18, 25:45-26:01)*
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- Host places the Rockefellers among the Yankee Republican circles around [[prescott-bush]] and the Dulles brothers, and among the [[draft-eisenhower-movement]] backers. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 15:33-15:50)* *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 23:33-23:51)*

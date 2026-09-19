@@ -47,6 +47,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -164,3 +166,7 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 ## Additional claims (CIA-Mafia Legend)
 
 - Ingest of *The CIA-Mafia Legend* (2024-12-20), described as number eight of the year's public videos in Season 2 (ending 1 Jan 2025); the host says the next video is a ~2-hour Bush/Texas/oil-lobby documentary and that season 3 in 2025 will have 10-12 videos; he says organized crime is "not really my area of expertise" and this episode was a "primer on the mafia". *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:23:52-1:26:30)* Primary sources cited: Hougan's *Spooks*, Talbot's *Devil's Chessboard*, Drosnin's *Citizen Hughes*, Scott's *Deep Politics*, Valentine's *Strength of the Wolf*, Webb's *One Nation Under Blackmail*, Summers's *Official and Confidential*, Kinzer's *Poisoner in Chief*. See [[cia-mafia-assassination-plots]], [[cia-mafia-legend]], [[robert-maheu]].
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- 2024-12-25 episode, the Season 2 finale and first of a three-part Bush series (bush-1 to bush-3); the host says the two remaining parts will follow in early 2025 and that it first aired to Patreon subscribers on Oct 9, 2024. Sources: Russ Baker (*Family of Secrets*), Joseph Trento (*Prelude to Terror*), Whitney Webb, Anthony Kimery. See [[george-h-w-bush]], [[prescott-bush]]. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 34:23-35:57)*

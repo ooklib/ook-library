@@ -24,6 +24,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 The 1961 CIA-organized invasion of Cuba by anti-Castro exiles. Per Eyes Wide Open, [[e-howard-hunt]] organized it as political liaison to exile groups and trained exile mercenaries in Guatemala; many speculate it was partly financed by [[paul-helliwell]]'s secret banking network, and researchers consider it the Hunt/CIA grievance behind later JFK-plot speculation. The host plans several episodes on it. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:21-6:46, 12:14-12:31)*
@@ -57,3 +59,9 @@ The 1961 CIA-organized invasion of Cuba by anti-Castro exiles. Per Eyes Wide Ope
 ## Additional claims (CIA-Mafia Legend)
 
 - Host: the plots' timing overlaps with the shift of invasion planning from an exile guerrilla campaign to a conventional amphibious assault; host suggests "the agency was reorienting their plans towards failure" that would fall on Kennedy (speculation). *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:22:53-1:23:44)* Nixon is said to be an "equal partner" to Dulles in the early plotting. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 8:12-8:26)* See [[cia-mafia-assassination-plots]].
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- Host: [[william-pawley]] played a role in the invasion, "an operation that Prescott Bush's son George would also play a similar role in, as we will see later"; [[george-h-w-bush]] "would make his name known during the anti-Castro operations starting with the Bay of Pigs." *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 18:29-18:43)* *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 1:56-2:04)*
+- McCone replaced [[allen-dulles]] as CIA director in late 1961 "after the whole Bay of Pigs fiasco." *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 1:09-1:17)*
+- [[joseph-kennedy]]'s PFIAB seat could have leaked the invasion plans to JFK (speculation). *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 30:10-30:32)*

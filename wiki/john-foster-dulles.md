@@ -30,6 +30,8 @@ sources:
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 John Foster Dulles was a partner at [[sullivan-and-cromwell|Sullivan & Cromwell]] and elder
@@ -76,3 +78,7 @@ Eisenhower (a role outside this video's scope, to be covered in later Eyes Wide 
 
 
 - As Secretary of State under Eisenhower; host says his influence probably swayed Eisenhower to trust his brother [[allen-dulles]]; lawyered for [[united-fruit-company]] via [[sullivan-and-cromwell]]. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 6:05-6:28, 9:47-9:56)*
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- Yankee Republican in the [[draft-eisenhower-movement]] alongside [[prescott-bush]]; rewarded as Secretary of State. Partner with his brother [[allen-dulles]] at [[sullivan-and-cromwell]], which represented [[brown-brothers-harriman]]. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 15:42-16:33)* *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 28:36-28:50)*

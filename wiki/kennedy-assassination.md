@@ -18,6 +18,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 The 22 November 1963 assassination of President John F. Kennedy in Dallas. In this episode Eyes Wide Open covers only [[e-howard-hunt]]'s alleged presence and deathbed confession; the host says his own research indicates a fundamental mob element in the conspiracy. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:48-11:00)*
@@ -49,3 +51,7 @@ The 22 November 1963 assassination of President John F. Kennedy in Dallas. In th
 ## Additional claims (CIA-Mafia Legend)
 
 - Host: previews that anti-Castro/oil-lobby Cowboy interests would turn against the Kennedys; Roselli, Giancana and Trafficante figures will recur; Trafficante told the HSCA in 1978 he had no role in JFK's murder; [[jack-ruby]] was sent to Dallas by the Chicago outfit per Scott. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 4:44-5:02, 53:22-53:38, 1:21:48-1:22:13)*
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- Host: the [[warren-commission]], "the official investigation and coverup of the murder of JFK," included Richard Russell (whom [[prescott-bush]] served under), [[allen-dulles]] and Gerald Ford (who appointed [[george-h-w-bush]] CIA director in 1976); "the connections between Poppy Bush and the investigation of JFK's murder are numerous and wide reaching," deferred to later chapters. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 32:22-33:18)*

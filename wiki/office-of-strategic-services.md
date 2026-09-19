@@ -36,6 +36,8 @@ sources:
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 The Office of Strategic Services was the United States' first dedicated foreign-intelligence
@@ -106,3 +108,7 @@ handling only domestic intelligence. *([ewa/oss](../raw/ewa/Eyes Wide Open - 202
   narcotics-funded [[operation-x]] scheme.
 - See [[oss-detachment-202]].
 - War Conspiracy 1: China hands; [[flying-tigers]].
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- Host: after Truman abolished the OSS, [[allen-dulles]] allegedly kept top OSS staff on payroll in a private Manhattan intelligence agency until the CIA formed in 1947. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 16:57-17:34)*

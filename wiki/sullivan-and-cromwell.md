@@ -20,6 +20,8 @@ sources:
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 Sullivan & Cromwell was a prestigious Wall Street law firm employing both
@@ -56,3 +58,8 @@ intelligence careers.
 
 
 - Host: the Dulles brothers' former firm counted the [[united-fruit-company]] as one of its most significant clients, explaining their willingness to help. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 9:47-10:03)*
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- Host: the Dulles brothers' major client was the German chemical cartel [[ig-farben]]; S&C became the legal representatives of [[brown-brothers-harriman]], probably how [[prescott-bush]] met them. The host cites a 2021 S&C news release showing the two firms "still work together." *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 15:59-16:48)*
+- Host clarifies that [[allen-dulles]]'s postwar private intelligence agency was based not in S&C's offices but at 44 Wall Street, Brown Brothers Harriman's address (Trento, alleged). *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 17:34-17:49)*

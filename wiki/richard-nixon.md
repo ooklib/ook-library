@@ -42,6 +42,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 Richard Nixon appears in this episode as a junior California congressman who built his
@@ -110,3 +112,10 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
 - Host (citing Hougan): in early 1954 Nixon worked with the CIA to bring in [[robert-maheu]]'s firm to sink the [[jeddah-agreements]]; a Maheu-firm journalist is quoted saying Nixon was "a frontman for the multinational oil companies". *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 17:32-18:29)* The host says Maheu was a "great eminence" Nixon likely retained; Maheu's firm's Onassis operation foreshadowed Watergate. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 18:29-18:37, 22:11-22:33)*
 - Host: Howard Hughes was a long-standing covert Nixon backer (Donald Nixon loan; alleged Watergate-era $100,000 bribe via Maheu and [[charles-rebozo]]). See [[howard-hughes]]. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 22:40-27:35)*
 - Host speculation: the CIA-Mafia plots may have been timed for an "October surprise" before the 1960 election. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:08:11-1:08:50)* See [[cia-mafia-assassination-plots]].
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- Host, following Russ Baker: Nixon's rise was "circumstantially" sponsored by East Coast "Yankee" interests. Ex-Congressman Jerry Voorhis (ASR "Voris"), whom Nixon beat in 1946, claimed in an unpublished manuscript that the campaign was "a creature of big Eastern financial interests"; the host flags Voorhis was biased. In October 1945 [[dresser-industries]] (Prescott Bush's firm) expanded into Nixon's hometown Whittier, the same month Voorhis says a New York financial house representative visited California (Bush or [[neil-mallon]]? the host asks). *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 24:51-27:15)*
+- Nixon met [[allen-dulles]] aboard the Queen Mary in 1947; photographed with [[prescott-bush]] in matching Panama hats ("we made you," the host's interpretation). *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 26:02-27:36)*
+- Later appointed [[george-h-w-bush]] UN ambassador (1971), RNC chair (1974) and China envoy, seeming to "owe" the Bushes; host: "it remains plausible that the rise of Nixon was aided by Prescott and his friends on Wall Street." Speculative. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 27:36-28:36)*
+- Host lineage: [[draft-eisenhower-movement]] to Nixon-era interventionism to the neocons "birthed in the Nixon White House." *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 23:51-24:21)*

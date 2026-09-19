@@ -1,7 +1,7 @@
 ---
 title: Skull and Bones
 kind: organization
-aliases: [Skull & Bones, "skull and bone society", Russell Trust]
+aliases: [Skull & Bones, "skull and bone society", Russell Trust, "Skull and Bone Society"]
 tags: [secret-society, yale, opium, us-power-structures]
 relations:
   - relation: alleged_by
@@ -12,6 +12,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 Skull and Bones is the Yale secret society that [[eyes-wide-open]] uses in this episode as an
@@ -43,3 +45,11 @@ mentions on [[henry-luce]] and [[george-h-w-bush]] were passing).
 
 
 - Panelists [[henry-luce]] and Townsend Hoopes are identified as members on Panel II of the [[special-studies-project]]. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 27:51-28:22)*
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- Host: Bones is "the oldest and most prestigious of Yale's constellation of secret fraternal orders" and "a popular entryway for future spooks into the cult of intelligence." *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 6:43-7:11)*
+- Members named: [[prescott-bush]] (Yale 1913-18), classmate Roland Harriman and older brother [[averell-harriman]], [[george-h-w-bush]] (enlisted 1945) and George W. Bush. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 6:43-7:04)* *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 8:48-9:11)*
+- Bonesman lore (host: "allegedly") credits Prescott and friends with raiding Geronimo's tomb at Fort Sill, Oklahoma, for his skull, the order's "enduring perverse relic"; the host notes the skull's authenticity is in question but the grave-digging story is "considered real by historians." *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 7:11-7:47)*
+- Host: Prescott was "instrumental in building not only the Bush family's legacy at Yale but also the mythology of the Skull and Bones Society itself." *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 7:11-7:18)*
+- Wiki-internal observation: this transcript does not repeat the opium/Russell Trust origin claim from `ewa/war-conspiracy-1`; it ties Bones to Wall Street banking ([[brown-brothers-harriman]]) and the intelligence recruitment pipeline instead.

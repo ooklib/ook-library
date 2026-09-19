@@ -20,6 +20,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
+    label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
 
 Operation PBSuccess (1954) is the CIA coup that overthrew Guatemala's elected government of [[jacobo-arbenz]]; per Eyes Wide Open it was the second of the "big three" coups under [[allen-dulles]] (after Iran 1953, before Lumumba 1960), largely at the behest of [[united-fruit-company]], and put [[e-howard-hunt]] on the map. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 5:29-6:16)*
@@ -46,3 +48,7 @@ Operation PBSuccess (1954) is the CIA coup that overthrew Guatemala's elected go
 ## Additional claims (Operation 40)
 
 - Bissell was its main Langley planner; Esterline reportedly its paramilitary adviser; host: PBSuccess group largely transferred to the Bay of Pigs six years later; Morales, Hunt and Phillips worked Latin America postings. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 13:11-13:19, 22:52-23:11, 44:19-44:33)*
+
+## Additional claims (Bush the Father, Chapter 1)
+
+- Host: [[william-pawley]], friend of [[prescott-bush]], "would later play a significant role" in this 1954 Guatemala coup. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 18:29-18:36)*
