@@ -15,6 +15,8 @@ sources:
     label: "Empire of Shadows: True Story of the Richest Family in History (FINAiUS)"
   - file: "raw/mm/MagnatesMedia - 2023-06-24 - J.P. Morgan - The Man Who Owned America.md"
     label: "J.P. Morgan: The Man Who Owned America (MagnatesMedia)"
+  - file: "raw/mm/MagnatesMedia - 2023-11-19 - Rockefeller - The World’s First Billionaire.md"
+    label: "Rockefeller: The World's First Billionaire (MagnatesMedia)"
 ---
 
 Head of the [[house-of-morgan]] and, in the [[empire-of-shadows-rothschild-documentary-2023]] narrative, the man Grover Cleveland called on to save the gold reserve.
@@ -34,3 +36,7 @@ Head of the [[house-of-morgan]] and, in the [[empire-of-shadows-rothschild-docum
 
 - Son of [[junius-spencer-morgan]]; head of the [[house-of-morgan]].
 - Adversary of [[theodore-roosevelt]]; subject of [[most-jp-morgan-owned-america-documentary-2023]]; investigated by the [[pujo-committee]].
+
+## From MagnatesMedia on Rockefeller (mm/rockefeller)
+
+- Shown negotiating with the 27-year-old [[john-d-rockefeller-jr]] over the Mesabi mines for [[us-steel-corporation]]; Junior refused to name a price and Morgan offered $88.5 million in stock: see [[mesabi-iron-range-deal]]. *([mm/rockefeller](<../raw/mm/MagnatesMedia - 2023-11-19 - Rockefeller - The World’s First Billionaire.md>) 38:19, 38:40, 38:57, 39:14)*

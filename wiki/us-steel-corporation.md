@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/mm/MagnatesMedia - 2023-06-24 - J.P. Morgan - The Man Who Owned America.md"
     label: "J.P. Morgan: The Man Who Owned America (MagnatesMedia)"
+  - file: "raw/mm/MagnatesMedia - 2023-11-19 - Rockefeller - The World’s First Billionaire.md"
+    label: "Rockefeller: The World's First Billionaire (MagnatesMedia)"
 ---
 
 Steel company formed in 1901 by [[j-pierpont-morgan]] by merging Carnegie Steel with Federal Steel and others.
@@ -23,3 +25,7 @@ Steel company formed in 1901 by [[j-pierpont-morgan]] by merging Carnegie Steel 
 ## Relationships
 
 - Created by [[j-pierpont-morgan]] of the [[house-of-morgan]]; Andrew Carnegie is the seller. See [[most-jp-morgan-owned-america-documentary-2023]].
+
+## From MagnatesMedia on Rockefeller (mm/rockefeller)
+
+- In this account US Steel arose from Rockefeller's Mesabi ore: [[j-pierpont-morgan]] bought the mines from [[john-d-rockefeller-jr]] for $88.5 million in US Steel stock, then bought Carnegie's business, and Rockefeller's stock rose to over $200 million: see [[mesabi-iron-range-deal]]. *([mm/rockefeller](<../raw/mm/MagnatesMedia - 2023-11-19 - Rockefeller - The World’s First Billionaire.md>) 38:19, 39:14, 39:24, 39:31)*

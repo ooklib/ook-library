@@ -25,6 +25,8 @@ sources:
     label: "Empire of Shadows: True Story of the Richest Family in History (FINAiUS)"
   - file: "raw/mm/MagnatesMedia - 2022-05-06 - The Most BRUTAL Businessman In History.md"
     label: "The Most BRUTAL Businessman In History (MagnatesMedia)"
+  - file: "raw/mm/MagnatesMedia - 2023-11-19 - Rockefeller - The World’s First Billionaire.md"
+    label: "Rockefeller: The World's First Billionaire (MagnatesMedia)"
 ---
 
 In [[eyes-wide-open]]'s War Conspiracy 2 the Rockefeller family is presented as a second elite network ("what I'll be calling the Rockefeller Network") operating alongside the [[china-lobby]], with long involvement in both Asia and Latin America, oil interests, and CIA-linked technology finance. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 17:26-17:48)*
@@ -54,3 +56,7 @@ In [[eyes-wide-open]]'s War Conspiracy 2 the Rockefeller family is presented as 
 ## Additional mention (mm/vanderbilt)
 
 MagnatesMedia's Vanderbilt documentary says "before there was Rockefeller or Henry Ford, there was Cornelius Vanderbilt", the "original robber baron", placing the Rockefellers as a later generation of ruthless industrialists: see [[cornelius-vanderbilt]]. *([mm/vanderbilt](<../raw/mm/MagnatesMedia - 2022-05-06 - The Most BRUTAL Businessman In History.md>) 0:21)*
+
+## From MagnatesMedia on John D. Rockefeller (mm/rockefeller)
+
+- The MagnatesMedia documentary covers the family's founder [[john-d-rockefeller]] and [[standard-oil]] (rebates, the [[south-improvement-company]], the [[standard-oil-dissolution-1911]]), plus the origin of the [[rockefeller-foundation]] in 1913 with [[frederick-gates]] and [[john-d-rockefeller-jr]]; it makes no claims about the later CFR, CIA or Latin American networks. *([mm/rockefeller](<../raw/mm/MagnatesMedia - 2023-11-19 - Rockefeller - The World’s First Billionaire.md>) 46:35, 47:16)* See [[rockefeller-first-billionaire-documentary-2023]].
