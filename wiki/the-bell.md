@@ -11,6 +11,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
+    label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
 ---
 
 Die Glocke ("the Bell"), a legendary Nazi bell-shaped high-voltage machine, is raised as a model for Brown-style time manipulation.
@@ -24,3 +26,7 @@ Die Glocke ("the Bell"), a legendary Nazi bell-shaped high-voltage machine, is r
 ## Relationships
 
 - Tied to [[hans-kammler]]'s SS weapons unit and to [[thomas-townsend-brown]] by analogy.
+
+## Additional claims (jm/jorjani-hitler)
+
+- [[jason-jorjani]] describes the Bell (die Glocke, "Der Bienenstock") as a mercury-thorium rotating device with electromagnets and pulsed high-voltage DC, an alleged over-unity plasma-fusion source that levitated, killed its first team and produced time distortions; he places integration into the saucer airframe in 1944 and cites a Serbian source dating it to 1937. See [[nazi-saucer-program-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 42:26, 48:48, 53:00, 56:34)*

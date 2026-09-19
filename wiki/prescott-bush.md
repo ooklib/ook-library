@@ -39,6 +39,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
+    label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
 ---
 
 Prescott Bush (born 1895, Columbus, Ohio) is [[eyes-wide-open]]'s "Bush the Father" Chapter 1 anchor
@@ -128,3 +130,7 @@ not established fact.
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says Prescott Bush, Henry Ford, Watson of IBM and Paul Mellon supported fascism. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 9:25-9:48)*
+
+## Additional claims (jm/jorjani-hitler)
+
+- Jorjani lists Prescott Bush with the Dulles brothers, Rockefeller and JP Morgan Chase as funders of the Nazi rise; Michels concurs on Bush. See [[nazi-deep-state-infiltration-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 2:25:07, 2:25:31)*

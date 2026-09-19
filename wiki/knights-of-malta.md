@@ -17,6 +17,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
+    label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
 ---
 
 The Sovereign Military Order of Malta, a Vatican-linked order with sovereign-state status. In the Malmgren interview it is put forward, as speculation, as a hidden guardian of UFO secrecy. This wiki records the claims only.
@@ -39,3 +41,7 @@ The Sovereign Military Order of Malta, a Vatican-linked order with sovereign-sta
 ## Claims (jm/sheehan)
 
 - Sheehan says an 'element' of the Knights has something to do with everything, citing a 'Monte Carlo group' at the top of the order that included non-Catholics like Kissinger and George H. W. Bush, and members like Reinhard Gehlen and Otto Skorzeny; he offers no specific UFO link. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:13:22)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:15:32)*
+
+## Additional claims (jm/jorjani-hitler)
+
+- Jorjani says the Knights' "Monte Carlo group" (per [[harald-malmgren]]) included Nazis and coordinated rat lines, and that he was once invited to an initiation and declined. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 2:23:10, 2:23:54)*

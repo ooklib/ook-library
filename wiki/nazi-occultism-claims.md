@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
+    label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
 ---
 
 [[jesse-michels]] pairs the Third Reich's documented state-sponsored occult projects with its rocket program, arguing that the mysticism migrated to the US via [[operation-paperclip]]. He states he does not need to believe the occult theories, only that the Nazis did.
@@ -27,3 +29,7 @@ sources:
 ## Relationships
 
 - Feeds [[nasa]] via [[operation-paperclip]]; compare [[russian-cosmism]] and [[jack-parsons]].
+
+## Additional claims (jm/jorjani-hitler)
+
+- Jorjani extends the theme with the [[thule-society]], Vril and [[rudolf-hess]] and Antarctica as Atlantis; see [[antarctica-atlantis-nazi-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 1:38:16, 1:41:04)*

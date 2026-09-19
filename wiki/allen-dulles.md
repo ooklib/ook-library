@@ -115,6 +115,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
+    label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -333,3 +335,7 @@ calls him "arguably one of, if not the most important person in modern American 
 ## Claims (jm/sheehan)
 
 - [[danny-sheehan]] says Dulles, as Brown Brothers Harriman and Sullivan and Cromwell counsel (with brother John Foster, grandsons of John W. Foster, drafting Versailles reparations that made Germany dependent on the loans), stayed in Georgetown after Kennedy fired him, was told by Bissell of Kennedy's UFO-briefing demand, and greenlit the [[s-force]]; he also allegedly ran the Warren Commission and knew of the [[anderson-trust]]. See [[sheehan-jfk-assassination-claims]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 35:41)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 54:00)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:25:23)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:45:30)*
+
+## Additional claims (jm/jorjani-hitler)
+
+- Jorjani says Allen and John Foster Dulles helped fund the rise of the Nazis and that the Dulles-era CIA absorbed SS networks. See [[nazi-deep-state-infiltration-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 2:25:07, 2:25:22)*

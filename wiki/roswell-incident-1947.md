@@ -52,6 +52,8 @@ sources:
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
   - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
+  - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
+    label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -175,3 +177,7 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
 ## Additional claims (yogsoggeth/schneider)
 
 - [[phil-schneider]] says the widely circulated Roswell alien-autopsy photos are fakes, that he holds a real photo from Skip Frach of Seattle, and that he was given a piece of Roswell craft skin at age 14 ([[corbomite-and-alien-materials-claims]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 11:40, 36:00)*
+
+## Additional claims (jm/jorjani-hitler)
+
+- Jorjani argues that the Nazis "created the crisis at Roswell" via saucer launches attributed to Skorzeny and Franco as psychological warfare, while saying not all crashes are Nazi; the National Security Act followed two months later. See [[nazi-saucer-program-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 58:38, 1:02:46, 1:03:07)*

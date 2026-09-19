@@ -25,6 +25,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/gerb/secrecy_1.md"
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
+    label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
 ---
 
 James V. Forrestal, Secretary of the Navy (and later first US Secretary of Defense), co-founded
@@ -69,3 +71,7 @@ window — a death Gerb notes in passing as suspicious. *([gerb/sandia](../raw/g
 
 - Named as an original [[majestic-12]] member; the EBD's Truman memo (24 Sept 1947) authorizes him and [[vannevar-bush]] to proceed. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:30:54-1:31:26)*
 - Per the EBD, replaced by [[walter-bedell-smith]] on 1 Aug 1950 after his May 1949 death. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:30:20-1:30:54)*; also *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 2:46, 3:34, 22:35)*, *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 1:11:39-1:11:56)*
+
+## Additional claims (jm/jorjani-hitler)
+
+- Jorjani thinks Forrestal was killed in connection with Highjump and Admiral [[richard-e-byrd]] and the fusion of the national-security state with Nazi remnants. See [[operation-highjump]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 1:55:15, 1:56:02)*

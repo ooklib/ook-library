@@ -30,6 +30,8 @@ sources:
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
+    label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
 ---
 
 Reinhard Gehlen was the head of German military intelligence on the Eastern Front during WWII
@@ -83,3 +85,7 @@ Gladio]].
 ## Claims (jm/sheehan)
 
 - Sheehan says Gehlen was a Knights of Malta member and that Ted Shackley worked directly with him. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:15:39)*
+
+## Additional claims (jm/jorjani-hitler)
+
+- Jorjani says the OSS/CIA absorbed Gehlen's Eastern European spy network, and that Gehlen and the Knights of Malta "Monte Carlo group" coordinated rat lines that exfiltrated Magenta craft. See [[nazi-deep-state-infiltration-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 59:05, 2:23:10)*

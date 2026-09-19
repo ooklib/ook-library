@@ -33,6 +33,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
+    label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
 ---
 
 Jesse Michels is the host of the American Alchemy YouTube channel (registry channel `jm`), which conducts long-form interviews on UFO/UAP, deep politics and secret science. The channel's sponsor/advertisement segments are not recorded in this wiki.
@@ -79,3 +81,7 @@ Jesse Michels is the host of the American Alchemy YouTube channel (registry chan
 ## Claims (jm/jorjani-religion)
 
 - Hosted [[jason-jorjani]] in [[jorjani-michels-interview-2025]] (2025-09-27, about 3h18m) on religion, psi, the [[nordic-control-system-claims]], [[information-physics-simulation-claims]] and [[epstein-atlantis-gravity-claims]]. Michels pushes back on dark matter and Nordic-specific claims and says he struggles with race-based categories, while endorsing psi data and the idea of a computational universe. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 2:32:35, 45:34, 2:07:12)*
+
+## Additional claims (jm/jorjani-hitler)
+
+- Interviews [[jason-jorjani]] again in [[jorjani-hitler-interview-2025]] on Nazi saucer technology and SS survival in the deep state; Michels is sympathetic, adds Coanda's 1937 saucer patent and Tesla/Townsend Brown independent-invention context, and pushes back on the Nazi-Nordic alliance, JFK disarmament, communism and Ted Owens. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 53:54, 54:35)*

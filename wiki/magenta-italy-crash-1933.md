@@ -40,6 +40,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
+    label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
 ---
 
 Cited by Gerb as an example of a prior alleged UFO crash retrieval before Roswell; he assesses
@@ -108,3 +110,7 @@ Gerb's full video on the case, positioned as "the Roswell before Roswell", with 
 ## Claims (jm/sheehan)
 
 - Michels cites the Magenta crash as part of Bissell's briefing of Malmgren, and asks Sheehan about a supposed Vatican transfer to the US via Pope Pius XI (Sheehan: he learned of it only recently, has not been told anything; the head of the Vatican archives 'just smiles'). *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 52:39)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:16:28)*
+
+## Additional claims (jm/jorjani-hitler)
+
+- Jorjani says the Vatican held a dossier on the object and that it was studied by a joint SS-Italian working group at the Skoda Works near Prague; later exfiltration via Nazi rat lines is alleged. See [[nazi-saucer-program-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 34:45, 36:02, 2:23:10)*

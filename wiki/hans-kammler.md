@@ -17,6 +17,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
+    label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
 ---
 
 Director of numerous Nazi special-weapons projects (ASR-transcribed as "Hans Comler," likely
@@ -36,3 +38,7 @@ was claimed to be working with Americans afterward. *([gerb/saic](../raw/gerb/sa
 ## Additional claims (jm/townsend-brown)
 
 - Host calls his "Shoto Works" (Kammler unit, Brno/Pilsen/Wlof) "the German Skunk Works"; Brown's task force allegedly captured Miethe from it; see [[the-bell]]. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 53:18-54:31)*
+
+## Additional claims (jm/jorjani-hitler)
+
+- Jorjani credits a project under Kammler with developing [[the-bell]] in parallel to the Skoda saucer airframes. See [[nazi-saucer-program-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 42:26, 45:00)*

@@ -18,6 +18,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
+    label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
 ---
 
 Lieutenant Colonel Philip J. Corso, author of *The Day After Roswell* and (per Gerb, the more
@@ -60,3 +62,7 @@ amount of fluff inserted by the book's co-writer." *([gerb/mitre](../raw/gerb/mi
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb defends Corso's manuscript ("Dawn of a New Age") but discounts "The Day After Roswell"; Corso's Army Foreign Technology Division, under [[arthur-trudeau]] (Army OCRD), seeded Roswell-inspired technologies (fiber optics, super-tenacity fibers, lasers, anti-missile missiles, brain-wave guidance) into industry (Bell Labs, Sperry Rand); Gerb says Roswell "inspired" rather than provided copyable technology, and that Corso's "golden age of military R&D 1958-1963" marks the start of real reverse engineering. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 53:45-57:44)*
+
+## Additional claims (jm/jorjani-hitler)
+
+- Jorjani (via Farrell) says Corso's Roswell items were invented in 1940s Germany, and a perforated metal at Roswell matches German saucer work. See [[nazi-saucer-program-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 38:26, 40:05)*

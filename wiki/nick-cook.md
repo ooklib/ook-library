@@ -9,6 +9,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
+    label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
 ---
 
 Aviation journalist and author of *The Hunt for Zero Point* (2001), studying aerospace anti-gravity interest; interviewed by Michels.
@@ -22,3 +24,7 @@ Aviation journalist and author of *The Hunt for Zero Point* (2001), studying aer
 ## Relationships
 
 - Researcher on [[thomas-townsend-brown]], [[hans-kammler]] and [[the-bell]].
+
+## Additional claims (jm/jorjani-hitler)
+
+- Cited by Jorjani (with Farrell and Witkowski) for the Nazi saucer and Bell narrative; see [[nazi-saucer-program-claims]], [[joseph-farrell]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 35:01, 39:34)*

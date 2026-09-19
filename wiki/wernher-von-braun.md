@@ -19,6 +19,8 @@ sources:
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
+    label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
 ---
 
 Wernher von Braun, Nazi V2 rocket scientist transferred to the US via Operation Paperclip,
@@ -45,3 +47,7 @@ commanded the [[army-ballistic-missile-agency|Army Ballistic Missile Agency]].
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says Von Braun warned Carol Rosen on his deathbed of a planned alien-threat false flag and used a psionic interface to send her a speech. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:08:03-1:08:20, 2:33:41-2:34:23)*
+
+## Additional claims (jm/jorjani-hitler)
+
+- Jorjani alleges von Braun, an SS major, passed classified data to Nazi counterparts in Argentina at Mexican border towns while in Texas, and that a V-2 went astray into Mexico as a warning when confronted. See [[nazi-deep-state-infiltration-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 1:05:32, 1:06:23)*

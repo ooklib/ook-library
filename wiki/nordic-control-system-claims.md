@@ -9,6 +9,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
+    label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
 ---
 
 [[jason-jorjani]]'s thesis that the "NHI" behind UFOs are not non-human but a Nordic-looking human faction that regards itself as overlord, uses masks and deception, and manages a control system over Earth. His time-travel explanation is speculation.
@@ -28,3 +30,7 @@ sources:
 ## Relationships
 
 - Related: [[mars-nuclear-war-claims]], [[artificial-moon-claims]], [[atlantis-rebellion-claims]], [[jacques-vallee]], [[nuking-the-matrix-claims]], [[eisenhower-et-meeting-claims]], [[alien-human-hybridization-claims]].
+
+## Additional claims (jm/jorjani-hitler)
+
+- Jorjani links eugenics, occultism and exotic propulsion to "what the Nordics become" and says Nordic rebels hide in the Colorado Rockies: see [[nordic-rebels-underground-railroad-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 2:08:25, 2:27:02)*
