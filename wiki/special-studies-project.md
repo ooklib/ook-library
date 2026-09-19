@@ -15,6 +15,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
+    label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
 ---
 
 The Special Studies Project (1956-1960) was a Rockefeller Brothers Fund-financed panel to "clarify national objectives" for the post-war era, led by [[nelson-rockefeller]] and co-directed by [[henry-kissinger]]; per [[eyes-wide-open]] it drafted six reports across six panels. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 26:16-27:35)*
@@ -34,3 +36,7 @@ The Special Studies Project (1956-1960) was a Rockefeller Brothers Fund-financed
 
 
 - Host recap: the multi-panel Rockefeller-sponsored project set out the blueprint of "limited war" (the future Vietnam War); [[henry-kissinger]] was called to it by [[nelson-rockefeller]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 41:57-42:18)*
+
+## Additional claims (jm/kissinger)
+
+- [[jesse-michels]]: [[henry-kissinger]] directed the panel on US international security objectives, with [[edward-teller]]; earlier Quantico panel for Rockefeller; recommendations entered Eisenhower's 1958 State of the Union while classified output remains in Rockefeller's archive; Michels says "we must assume Rockefeller had some connection to MJ12". *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 28:06, 28:42, 28:51, 28:59, 39:23, 39:29, 39:46, 40:35, 40:42, 40:51)*

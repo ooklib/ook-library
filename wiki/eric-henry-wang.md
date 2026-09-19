@@ -18,6 +18,8 @@ sources:
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
+    label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
 ---
 
 Dr. Eric Henry Wang is, per Gerb, one of the most enigmatic figures associated with early-1950s
@@ -80,3 +82,8 @@ and an April 1961 *Mechanical Engineering* magazine obituary that finally fleshe
   Center/Wright-Patterson, then Kirtland/Sandia complex).
 - Named as a reverse-engineering lead in the [[kingman-arizona-crash-1953]] and
   [[aztec-new-mexico-crash-1948]] cases.
+
+## Additional claims (jm/kissinger)
+
+- Retold by [[jesse-michels]]: Wang (head of Special Studies at Wright-Patterson) left almost no public trace; [[william-steinman]] in the 1980s found an obituary in a mechanical-engineering magazine: born 1906, from Vienna, Vienna Technical Institute graduate (Michels notes suggestions he was a contemporary of [[victor-schauberger]]), lectured at University of Cincinnati, department moved in 1956 to Sandia/Kirtland; his name endows a civil-engineering facility at the University of New Mexico. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 3:09, 3:18, 3:24, 3:51, 3:59, 4:06, 4:20, 4:27, 4:35, 4:43)*
+- His widow [[maria-wang]] told Steinman he reported directly to [[henry-kissinger]]; see that page. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 5:22, 5:32)*

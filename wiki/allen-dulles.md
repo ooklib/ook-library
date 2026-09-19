@@ -99,6 +99,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
+    label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -295,3 +297,7 @@ calls him "arguably one of, if not the most important person in modern American 
 ## Additional claims (jm/townsend-brown)
 
 - With Paul Mellon allegedly saw a German disc at Pilsen, May 1945 (per John Warner IV). *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 56:39-57:11)*
+
+## Additional claims (jm/kissinger)
+
+- [[jesse-michels]]: [[henry-kissinger]] maintained direct contact with Dulles while at Harvard; a leaked MJ-12 document (1995) has JFK asking Dulles on 28 June 1961 for an MJ-12 review, a date matching two meetings revealed in 2022; the Bay of Pigs led to Dulles's ouster in November 1961. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 18:07, 24:30, 34:16, 34:27, 34:46, 44:10, 44:19)*

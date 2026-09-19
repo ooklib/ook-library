@@ -13,6 +13,8 @@ relations:
 sources:
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
+    label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
 ---
 
 Physicist Edward Condon's 1969 committee marked the official end of [[project-blue-book|Project
@@ -31,3 +33,7 @@ Blue Book]]. Gerb frames it as reusing the same "reduce public concern" playbook
 
 - Ended [[project-blue-book]]; analogous, per Gerb, to the [[robertson-panel-1953]] and [[aaro]]
   in a recurring official-disinformation lineage.
+
+## Additional claims (jm/kissinger)
+
+- [[jesse-michels]]: Lewis Branscomb, NBS director, allegedly offered chair Edward Condon a deal to help bury the UFO question in return for restoring his security clearance. See [[harvard-university]]. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 16:09, 16:19, 16:26, 16:36)*

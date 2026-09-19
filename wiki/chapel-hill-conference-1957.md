@@ -15,6 +15,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
+    label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
 ---
 
 The 1957 Chapel Hill gravitation conference, funded via Wright Field and hosted by [[agnew-bahnson]], gathered leading theoretical physicists.
@@ -29,3 +31,7 @@ The 1957 Chapel Hill gravitation conference, funded via Wright Field and hosted 
 ## Relationships
 
 - Organized by [[agnew-bahnson]]; related to [[biefeld-brown-effect]] and [[electrogravitics]].
+
+## Additional claims (jm/kissinger)
+
+- [[jesse-michels]] dates the UNC Chapel Hill gravity conference to 1956, sponsored by Wright Airfield, under the Institute of Field Physics of [[agnew-bahnson]] with [[gordon-gray]] as UNC president. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 23:33, 23:41, 23:49)*

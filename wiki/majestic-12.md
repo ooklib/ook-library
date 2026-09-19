@@ -40,6 +40,8 @@ sources:
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
+    label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
@@ -135,3 +137,7 @@ Full treatment in [[majestic-documents]], [[eisenhower-briefing-document]], [[sp
 - Gerb says MJ-12 likely was and possibly is real; Wood suspects it survives under the same name with hardware and bodies sub-compartments and links to [[aerospace-corporation]], Carlyle Group, [[eg-and-g]] and [[rand-corporation]]. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:22:59, 1:23:59, 1:38:24)*
 - JFK link: a claimed IPU line says Kennedy was told of a recovery; NSAM 271 asks NASA's James Webb to share with the Soviets; the [[burned-memo]] uses code word Lancer. Wood: another possible reason for [[kennedy-assassination]]. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:00:29, 1:01:00, 1:03:02)*
 - Alexander [[john-b-alexander]] says MJ-12 was real but nothing to do with UFOs; see Alexander's Soviet-disinformation claim about the manual. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 48:43)*
+
+## Additional claims (jm/kissinger)
+
+- [[jesse-michels]] argues [[henry-kissinger]] plausibly fit MJ-12 or an MJ-12-like group; recounts a leaked 1995 MJ-12 document (discussed on NewsNation by Ross Coulthart and Jeff Krushank) in which JFK asks [[allen-dulles]] on 28 June 1961 to review MJ-12 operations related to Cold War psychological warfare, whose date matches two Dulles-JFK meetings revealed only in the 2022 JFK files; names [[gordon-gray]], [[donald-menzel]], [[vannevar-bush]], [[detlev-bronk]] as listed members; and says some equate MJ-12 with the 303/5412/40 covert-action committees or a "PI-40" group. Michels calls the documents partly forged or disinformation but with verifiable core details. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 33:31, 34:09, 34:27, 34:46, 35:16, 36:02, 36:10, 36:18, 36:27, 37:43, 40:02, 41:05, 41:12, 49:53, 50:04)*

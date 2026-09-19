@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
+    label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
 ---
 
 Agnew Bahnson (ASR: "bonson"), an air-conditioning magnate and physics patron, ran the Institute of Field Physics at UNC Chapel Hill and bankrolled [[thomas-townsend-brown]]. 
@@ -24,3 +26,7 @@ Agnew Bahnson (ASR: "bonson"), an air-conditioning magnate and physics patron, r
 ## Relationships
 
 - Patron of [[thomas-townsend-brown]]; organizer of [[chapel-hill-conference-1957]].
+
+## Additional claims (jm/kissinger)
+
+- [[jesse-michels]]: head of UNC's Institute of Field Physics under [[gordon-gray]], funded [[thomas-townsend-brown]]; the institute hosted the 1956 Chapel Hill gravity conference sponsored by Wright Airfield. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 23:33, 23:41, 23:49)*

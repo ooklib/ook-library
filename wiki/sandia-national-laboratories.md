@@ -64,6 +64,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
+    label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
 ---
 
 Sandia National Laboratories, born from [[los-alamos-national-laboratory|Los Alamos]]'s Z
@@ -246,3 +248,7 @@ DoD/IC oversight channels. *([gerb/sandia](../raw/gerb/sandia.md) 5:44–6:03, 8
 - Contractor to [[office-of-secure-transportation]]; connected to
   [[doe-nuclear-emergency-support-team|NEST]] and [[defense-threat-reduction-agency]] via the
   NNSA.
+
+## Additional claims (jm/kissinger)
+
+- [[jesse-michels]] ties Sandia to [[eric-henry-wang]] (from 1956), Kissinger's seminar host [[don-carter]], and the [[bluegill-triple-prime]] recovery via the Albuquerque office of [[lawrence-preston-gise]]. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 4:35, 31:28, 32:06, 33:10, 33:17)*

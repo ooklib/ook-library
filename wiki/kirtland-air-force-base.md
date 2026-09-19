@@ -24,6 +24,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
+    label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
 ---
 
 Kirtland AFB, New Mexico, hosts a deep underground military installation and
@@ -78,3 +80,7 @@ Kirtland AFB, New Mexico, hosts a deep underground military installation and
 ## Additional claims (gerb/mj12)
 
 - The SOM1-01 change-control page carries "Kirtland Air Force Base, N.MEX", unit KB 88, Building 21 (now Building 40 per Wood); media and maps from crash sites are to go there. Ryan Wood matched initials to residents of Kirtland's Perimeter Road. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 13:33, 38:52, 44:38)*
+
+## Additional claims (jm/kissinger)
+
+- [[jesse-michels]]: [[eric-henry-wang]]'s department moved to the Sandia complex here in 1956; [[don-carter]] oversaw advanced research here from 1961 and hosted seminars including [[henry-kissinger]]. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 4:35, 4:43, 31:28, 31:42, 31:50)*

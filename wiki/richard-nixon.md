@@ -54,6 +54,8 @@ sources:
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
+    label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
 ---
 
 Richard Nixon appears in this episode as a junior California congressman who built his
@@ -139,3 +141,7 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
 ## Additional claims (jm/malmgren)
 
 - Host summary of Danny Sheehan's narrative: Nixon, as head of the 5412 Committee, worked with [[howard-hughes]] to create an "S force" of Cuban exiles that Dulles later allegedly recommissioned to kill JFK; [[harald-malmgren]] replies with mafia anecdotes rather than endorsement. Malmgren also says he advised Nixon and Ford. *(Host, second hand:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 3:01:36-3:03:21)**)*
+
+## Additional claims (jm/kissinger)
+
+- [[jesse-michels]]: Kissinger, once calling Nixon "the most dangerous candidate", became his national security adviser; Nixon allegedly (per Jackie Gleason's ex-wife) took [[jackie-gleason]] to see alien bodies; Nixon used [[harald-malmgren]] to check [[henry-kissinger]]. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 45:35, 47:12, 47:20, 51:07)*

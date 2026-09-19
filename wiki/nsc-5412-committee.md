@@ -18,6 +18,8 @@ relations:
 sources:
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
+    label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
 ---
 
 The NSC 5412 Committee ("Special Group"), established by President Eisenhower on 15 March 1954
@@ -67,3 +69,7 @@ Project 2.0" UFO legacy programs, including a hidden [[majestic-12|MJ-12]] contr
 - NSC body; modeled on the [[top-policy-group]]; alleged historical vehicle for the
   [[ufo-control-group]] and a hidden [[majestic-12]] leadership structure; evolved into Nixon's
   303 Committee.
+
+## Additional claims (jm/kissinger)
+
+- [[jesse-michels]]: the 303 Committee (successor, overseeing all covert operations, Kissinger involved) and the 40 Committee that followed are described as small high-level teams (NSA, CIA, State, Defense) approving covert actions with presidential deniability, and are said by some researchers to be interchangeable with MJ-12; Michels speculates MJ-12 could have evolved into a CIA-style autonomous operation. See [[henry-kissinger]]. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 48:25, 48:38, 48:47, 49:11, 49:21, 49:36, 49:53, 50:04)*

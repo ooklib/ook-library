@@ -22,6 +22,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
+    label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
 ---
 
 Bluegill Triple Prime was the fourth-of-series high-altitude Bluegill nuclear test of 1962's [[operation-dominic]] at Johnston Island, an X-ray-based missile-defense experiment. In this transcript [[harald-malmgren]] and host [[jesse-michels]] allege it was also a UFO shootdown. All claims below are attributed.
@@ -43,3 +45,7 @@ Bluegill Triple Prime was the fourth-of-series high-altitude Bluegill nuclear te
 
 - Part of [[operation-dominic]]; coincided with the [[cuban-missile-crisis]].
 - Alleged by [[harald-malmgren]]; analysed by [[geoffrey-cruickshank]]; debris allegedly held by [[lawrence-preston-gise]] at Los Alamos.
+
+## Additional claims (jm/kissinger)
+
+- [[jesse-michels]]: one 1962 detonation reportedly downed a UFO; Navy deck logs of associated ships show anomalous debris from the plume, recovered and sent to [[lawrence-preston-gise]] in Albuquerque; [[harald-malmgren]] ran White House efforts around the test. Used to argue that a second crash retrieval ties to [[sandia-national-laboratories]]. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 31:58, 32:06, 32:22, 32:31, 32:40, 33:10)*

@@ -21,6 +21,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
+    label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
 ---
 
 Gerb alleges former Vice President Dick Cheney "last ruled with an iron fist" over the
@@ -57,3 +59,7 @@ before leaving office in 2009. *([gerb/mitre](../raw/gerb/mitre.md) 5:03–5:18)
 - The host calls him "the Lord of Darkness himself" and notes he was CEO of [[halliburton]] at the 1998 merger with [[dresser-industries]], Bush's and Mallon's old firm, after serving as Secretary of Defense in the [[george-h-w-bush]] administration and before becoming vice president under George W. Bush. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 46:34-46:59)*
 - Host: Cheney is "but one example" of Bush keeping loyal people around across his career, from CIA days through his son's presidency. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 47:16-47:39)*
 - Wiki-internal observation: this is the first source in the wiki linking Cheney to the Bush circle. The UAP Gerb legacy-program claims and the Eyes Wide Open Bush-loyalty claim come from different sources and are not connected by either; no UFO content appears in this episode.
+
+## Additional claims (jm/kissinger)
+
+- [[jesse-michels]] cites David Grusch as suggesting Cheney was a gatekeeper of the UFO program and speculates an earlier gatekeeper could have been [[henry-kissinger]]. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 57:09, 57:16, 57:25)*

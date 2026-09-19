@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
+    label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
 ---
 
 Austrian inventor of an inward-flowing "impeller" (ASR: "Victor shurger", "sha bger"), said to have worked for the German saucer program.
@@ -22,3 +24,7 @@ Austrian inventor of an inward-flowing "impeller" (ASR: "Victor shurger", "sha b
 ## Relationships
 
 - Approached for the [[avro-avrocar]]; see [[hans-kammler]] and [[the-bell]].
+
+## Additional claims (jm/kissinger)
+
+- [[jesse-michels]]: per [[nick-cook]], CIC agents interrogated him for nine months, considering his discoveries more important than Nazi nuclear research; CIC agent Neil Gershimer allegedly tricked him into signing his work to the US, with IP ending up at [[brookhaven-national-laboratory]]. Michels links [[eric-henry-wang]] as a possible Viennese contemporary. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 4:12, 11:44, 11:48, 12:16, 12:23)*

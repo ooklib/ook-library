@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
+    label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
 ---
 
 Edward Teller, father of the hydrogen bomb, appears in two roles in this source: as the fifth "credible witness" to Brown's experiments and as the figure Lazar said he met before hiring at S4.
@@ -26,3 +28,7 @@ Edward Teller, father of the hydrogen bomb, appears in two roles in this source:
 ## Relationships
 
 - Associate of [[thomas-townsend-brown]] and [[bob-lazar]].
+
+## Additional claims (jm/kissinger)
+
+- [[jesse-michels]]: Teller worked closely with [[henry-kissinger]] on the [[special-studies-project]]; an Australian intelligence report by nuclear physicist Harry Turner (head of nuclear efforts at the Australian Joint Intelligence Organisation) states Teller was working with others on controlling gravity, which Michels calls accepted as a real document. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 28:59, 29:06, 29:14, 29:22, 29:31, 29:39, 29:48)*
