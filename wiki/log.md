@@ -1301,3 +1301,11 @@ Source: raw/va/ (key `va/1994-system`), https://www.youtube.com/watch?v=nvPFzFdd
 Summary: Narrated excerpts of John Coleman's claims about a supranational Committee of 300 ("Olympians") ruling via Chatham House, the Club of Rome and other executive arms, choosing US Secretaries of State since 1919, and using a zero-growth plan to destroy the US middle class. The "predicted 2026" is only title framing.
 
 Judgment calls: (1) New relation type `controls`. (2) ASR: "Rathnau"=Rathenau, "Orurelio Pekky"=Aurelio Peccei, "Montelleran"=Mont Pelerin, "Seni Foundation" unclear (left unlinked). (3) Rathenau 1934 quote date flagged (he died 1922). (4) Left inline: Gorbachev, Sam Donaldson, Alexander King, Italian families. The [[national-reconnaissance-office]] priority claim is recorded on [[john-coleman]] only.
+
+## [2026-09-19] ingest | Secrets of the Nazi Elite - Inside Secret Societies S01 EP1 | Banijay Documentaries (1m45s)
+
+Source: raw/banijay/ (key `banijay/nazi-elite`), https://www.youtube.com/watch?v=uAuRxPrzcT4 by Banijay Documentaries, dated 2023-07-20; ~46m. Created 7 pages: [[nazi-elite-secret-societies-documentary-2023]], [[heinrich-himmler]], [[wewelsburg-castle]], [[vril-society]], [[lebensborn-program]], [[dietrich-eckart]], [[himmler-relic-quest-claims]]. Updated: [[thule-society]], [[nazi-occultism-claims]], [[nazi-saucer-program-claims]], [[index]].
+
+Summary: Documentary on Nazi occult secret societies: Himmler's Wewelsburg castle rituals and black sun, the Thule and Vril societies (a Bavarian seance with a channelled Aldebaran saucer blueprint, Foo Fighters), Dietrich Eckart as Hitler's mentor, the Lebensborn program, and Himmler's Templar/Ark/Grail relic quest. Interviewees are Theo Paijmans, Michael Fitzgerald, Andrew Gough, Ross Andrews; all attributed claims.
+
+Judgment calls: (1) No new relation types. (2) ASR: "bevelsberg/devilsburg"=Wewelsburg, "Brill/real/thrill"=Vril, "Eckhart"=Eckart, "Lebensborg/laban's born"=Lebensborn, "pymans"=Paijmans (spelling uncertain). (3) Hess, Bormann, Schacht, Bush and Paperclip are not mentioned in this source, so those pages were not touched. (4) Left inline: Alfred Rosenberg, Maria Orsic, Gisela Heidenreich, expert interviewees, Royston Cave.

@@ -17,6 +17,8 @@ sources:
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/banijay/Banijay Documentaries - 2023-07-20 - Secrets of the Nazi Elite - Inside Secret Societies - S01 EP1 - Investigative Documentary.md"
+    label: "Secrets of the Nazi Elite - Inside Secret Societies - S01 EP1 - Investigative Documentary (Banijay Documentaries)"
 ---
 
 [[jesse-michels]] pairs the Third Reich's documented state-sponsored occult projects with its rocket program, arguing that the mysticism migrated to the US via [[operation-paperclip]]. He states he does not need to believe the occult theories, only that the Nazis did.
@@ -39,3 +41,7 @@ sources:
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda's documentary view (Ahnenerbe, Wewelsburg, Himmler, Liebenfels) is in [[levenda-nazi-saucer-lineage-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 1:55:37, 2:07:29, 3:31:18)*
+
+## From Banijay's "Secrets of the Nazi Elite" (banijay/nazi-elite)
+
+A documentary account of the same theme: [[heinrich-himmler]]'s [[wewelsburg-castle]], the [[thule-society]] and [[vril-society]], [[dietrich-eckart]] as Hitler's occult mentor, the [[lebensborn-program]] and [[himmler-relic-quest-claims]]. Framed as claims and interviews, with the narration acknowledging that what the SS did at Wewelsburg is unknown. *([banijay/nazi-elite](<../raw/banijay/Banijay Documentaries - 2023-07-20 - Secrets of the Nazi Elite - Inside Secret Societies - S01 EP1 - Investigative Documentary.md>) 9:19, 45:08)* See [[nazi-elite-secret-societies-documentary-2023]].

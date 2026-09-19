@@ -17,6 +17,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/banijay/Banijay Documentaries - 2023-07-20 - Secrets of the Nazi Elite - Inside Secret Societies - S01 EP1 - Investigative Documentary.md"
+    label: "Secrets of the Nazi Elite - Inside Secret Societies - S01 EP1 - Investigative Documentary (Banijay Documentaries)"
 ---
 
 [[jason-jorjani]]'s account (drawing on Joseph Farrell, Nick Cook and Igor Witkowski) that SS engineers at the Skoda Works near Prague built saucer-shaped craft and the "Bell" power/propulsion device, and that some of the resulting technology surfaced at Roswell. All of it is speculative and second-hand.
@@ -37,3 +39,7 @@ sources:
 ## Relationships
 
 - Part of [[jorjani-hitler-interview-2025]]; related to [[nazi-occultism-claims]], [[nick-cook]], [[operation-paperclip]] and [[nazi-deep-state-infiltration-claims]].
+
+## From Banijay's "Secrets of the Nazi Elite" (banijay/nazi-elite)
+
+The documentary ties the saucer program to the occult: the [[vril-society]]'s channelled blueprint, an alleged single short successful test flight, Foo Fighters as small erratic spherical objects that harassed Allied planes, and a claim that the designers "went on to work in America and Canada" (without naming anyone). *([banijay/nazi-elite](<../raw/banijay/Banijay Documentaries - 2023-07-20 - Secrets of the Nazi Elite - Inside Secret Societies - S01 EP1 - Investigative Documentary.md>) 19:52, 20:24, 20:46, 21:18, 22:41)* Unnamed speakers are the source; see [[nazi-elite-secret-societies-documentary-2023]].
