@@ -22,6 +22,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
+    label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
 ---
 
 Colonel Paul E. Helliwell served as chief of special intelligence for the
@@ -59,6 +61,8 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
   Miami-based shell company they created together, the [[general-development-corporation]].
   *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 21:34-21:44)*
 
+- Per the Detachment 202 episode: officer of [[oss-detachment-202]], led its secret intelligence unit in Yunnan under the title chief of special intelligence in China; a 1980 Wall Street Journal quote from colleagues says he gathered information with opium shipments ("three sticky brown bars"). Postwar settled in Miami, worked for the CIA, founded a law firm assisting CIA operations and [[castle-bank-and-trust]], and set up shell companies laundering dirty funds into South Florida real estate -- the host's "CIA paymaster." Many researchers (unsubstantiated per the host) see him as a benefactor of the [[bay-of-pigs-invasion]]. Described as "the most often overlooked CIA figure" and main character of the upcoming French Connection series; his fingerprints are seen in [[e-howard-hunt]], [[john-singlaub]], [[lucien-conein]] and [[mitchell-werbell]]. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 2:26-4:46, 12:14-12:22, 21:33-21:41)*
+
 ## Relationships
 
 - OSS chief of special intelligence in China; presented Operation X to [[william-donovan]],
@@ -70,3 +74,4 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
 - Co-founded [[general-development-corporation]] with [[meyer-lansky]] to launder Operation X
   proceeds.
 - Architect of [[operation-x]].
+- Led [[oss-detachment-202]]'s intelligence unit; alumni include [[e-howard-hunt]], [[john-singlaub]], [[lucien-conein]], [[mitchell-werbell]]; see [[cia-drug-paradigm]], [[golden-triangle]].

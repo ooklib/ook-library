@@ -32,6 +32,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
+    label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
 ---
 
 The Office of Strategic Services was the United States' first dedicated foreign-intelligence
@@ -85,6 +87,8 @@ handling only domestic intelligence. *([ewa/oss](../raw/ewa/Eyes Wide Open - 202
   covert-action pipeline that Eyes Wide Open says persisted even after the CIA's formal 1947
   creation and budget, given the political risk to a taxpayer-funded black budget. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 9:08-16:32, 19:11-19:55)*
 
+- Detachment 202, deployed to China/Southeast Asia 1944-45, is presented as an incubator of Cold War clandestine practitioners -- see [[oss-detachment-202]]. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 0:00-1:26)*
+
 ## Relationships
 
 - Founded by [[franklin-d-roosevelt]] in 1942.
@@ -96,3 +100,4 @@ handling only domestic intelligence. *([ewa/oss](../raw/ewa/Eyes Wide Open - 202
   simplified account) to [[roscoe-hillenkoetter]] as "first director of the CIA."
 - Staffed [[paul-helliwell]] as chief of special intelligence in China; funded and pursued his
   narcotics-funded [[operation-x]] scheme.
+- See [[oss-detachment-202]].

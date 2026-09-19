@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
+    label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
 ---
 
 Castle Bank and Trust, a Bahamian bank founded by [[paul-helliwell]] (the architect of
@@ -31,6 +33,8 @@ Southeast Asia and Latin America, and is tied to the [[resorts-international]] c
 - Intrinsically tied to [[resorts-international]]. Sources allege the CIA used Castle Bank and
   Trust to fund its illegal operations, specifically in Southeast Asia and Latin America.
   *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 49:02-49:15)*
+
+- Described in the Detachment 202 episode as a Bahamian bank Helliwell founded, involved in high-profile money-laundering and organized-crime scandals. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 3:40-3:55)*
 
 ## Relationships
 

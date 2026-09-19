@@ -62,6 +62,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
+    label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -166,6 +168,8 @@ calls him "arguably one of, if not the most important person in modern American 
   activities in Italy. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 35:24-36:16)*
 - Vice chairman of the CIA-cutout [[american-committee-on-united-europe]] (1948) under [[william-donovan]]; as deputy director was persuaded by [[thomas-braden]] to create the [[cia-international-organizations-division]]. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 22:58-23:32, 25:51-26:10)*
 
+- Per David Talbot (Detachment 202 episode), after being fired by JFK over the Bay of Pigs, Dulles hosted [[e-howard-hunt]], [[james-jesus-angleton]], [[richard-helms]], [[cord-meyer]] and [[john-mccone]] at his home in 1962-63; Hunt sought his help for a private intelligence career and helped on his memoirs; researchers speculate a sinister purpose tied to the assassination (speculation). Also called the 'big three coups' director ([[operation-pbsuccess]]). *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 5:37-5:47, 7:35-9:07)*
+
 ## Relationships
 
 - OSS officer under [[william-donovan]]; future director of the
@@ -191,3 +195,4 @@ calls him "arguably one of, if not the most important person in modern American 
   [[thomas-dewey]]'s 1948 presidential campaign with [[john-foster-dulles]].
 - Nephew [[avery-dulles]] ordained a priest by [[francis-spellman]] in 1956.
 - Vice chairman of [[american-committee-on-united-europe]]; created [[cia-international-organizations-division]] at [[thomas-braden]]'s urging.
+- See [[e-howard-hunt]], [[bay-of-pigs-invasion]], [[operation-pbsuccess]], [[kennedy-assassination]].

@@ -11,7 +11,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
 `gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`,
 `rjm/city-of-london`, `mpu/secret-society`, `ewa/oss`, `ewa/sunrise`, `ewa/mafia-allies`,
-`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`).
+`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`).
 
 Note: the wiki spans four topic areas — the original alleged "UFO legacy programs" ecosystem
 (MITRE, SAIC, NRO, Lockheed, etc.), a British power-structures thread (Fabian Society, Chatham
@@ -135,7 +135,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[j-edgar-hoover-foundation]] · [[la-cagoule]] · [[corvignolles]] · [[loreal]] · [[sdece]] ·
 [[american-committee-on-united-europe]] · [[cia-international-organizations-division]] ·
 [[le-cercle]] · [[bilderberg-group]] · [[safari-club]] · [[western-goals-foundation]] ·
-[[service-d-action-civique]]
+[[service-d-action-civique]] · [[oss-detachment-202]] · [[environmental-industries]] ·
+[[corsican-mafia]] · [[drug-enforcement-administration]]
 
 ## Places
 
@@ -147,7 +148,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[kirtland-air-force-base]] · [[dugway-proving-ground]] ·
 [[fairfax-county-waste-management-depot]] · [[nevada-national-security-site]] ·
 [[pine-gap-australia]] · [[tonopah-test-range]] · [[air-force-plant-42]] · [[area-6]] ·
-[[tahone-radar-cross-section-facility]] · [[fort-hunt-virginia]]
+[[tahone-radar-cross-section-facility]] · [[fort-hunt-virginia]] · [[golden-triangle]]
 
 ## People — investigators & witnesses
 
@@ -212,7 +213,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[operation-safe-haven]] · [[operation-x]] · [[operation-underworld]] ·
 [[national-security-act-1947]] · [[truman-doctrine]] · [[marshall-plan]] · [[operation-husky]] ·
 [[italian-election-1948]] · [[portella-della-ginestra-massacre-1947]] · [[blue-suite]] ·
-[[kefauver-committee]] · [[plan-bleu-1947]] · [[rose-des-vents]] · [[operation-zipper]]
+[[kefauver-committee]] · [[plan-bleu-1947]] · [[rose-des-vents]] · [[operation-zipper]] · [[operation-pbsuccess]] · [[bay-of-pigs-invasion]] ·
+[[kennedy-assassination]] · [[watergate-scandal]]
 
 ## People — British power structures
 
@@ -250,7 +252,9 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[antoine-pinay]] · [[konrad-adenauer]] · [[jean-violet]] · [[hans-langemann]] ·
 [[hennie-van-vuuren]] · [[brian-crozier]] · [[jonathan-aitken]] · [[edward-barnes]] ·
 [[jonathan-kwitny]] · [[constantin-melnik]] · [[francois-de-grossouvre]] ·
-[[charles-de-gaulle]] · [[jacques-foccart]] · [[francois-mitterrand]]
+[[charles-de-gaulle]] · [[jacques-foccart]] · [[francois-mitterrand]] · [[e-howard-hunt]] · [[john-singlaub]] · [[lucien-conein]] ·
+[[mitchell-werbell]] · [[edward-lansdale]] · [[vang-pao]] · [[nelson-bunker-hunt]] ·
+[[ngo-dinh-diem]] · [[john-mccone]]
 
 ## Concepts
 
@@ -262,4 +266,4 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[atomic-energy-act-1954]] · [[content-only-special-access-program]] ·
 [[covert-action-program]] · [[yankee-blue]] · [[permeation]] · [[deep-state]] ·
 [[non-aligned-movement]] · [[relation-types]] · [[yankee-cowboy-thesis]] ·
-[[strategy-of-tension]] · [[pan-europa-movement]]
+[[strategy-of-tension]] · [[pan-europa-movement]] · [[cia-drug-paradigm]]

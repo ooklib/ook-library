@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
+    label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
 ---
 
 Richard Helms, future CIA director, is noted by Eyes Wide Open (citing Jefferson Morley) as one
@@ -24,7 +26,10 @@ ground during WWII, alongside [[frank-wisner]], [[william-colby]], and [[james-j
   "maybe most significantly to White's career" — future CIA counterintelligence chief
   [[james-jesus-angleton]]. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 50:12-50:38)*
 
+- Host notes (Detachment 202 episode) that Helms got his start in China with the OSS like Hunt and the other Detachment 202 men; per Talbot he was among CIA guests at [[allen-dulles]]'s house in 1962-63. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 8:37-8:50)*
+
 ## Relationships
 
 - Trained by [[george-white]] alongside [[frank-wisner]], [[william-colby]], and
   [[james-jesus-angleton]].
+- See [[oss-detachment-202]], [[e-howard-hunt]].

@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
+    label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
 ---
 
 United Fruit Company is a US agricultural corporation Eyes Wide Open cites as the paradigm case
@@ -31,7 +33,10 @@ Guatemalan government in 1954.
   plantations "like feudal kingdoms," per the host, making land-reform-minded governments an
   existential threat to its business model. *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 6:04-6:24, 11:30-11:34)*
 
+- [[operation-pbsuccess]] is said to have been carried out largely at United Fruit's behest. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:09-6:14)*
+
 ## Relationships
 
 - Client of [[sullivan-and-cromwell]]; lobbied the [[central-intelligence-agency]] (via
   [[allen-dulles]] and [[john-foster-dulles]]) to overthrow [[jacobo-arbenz]] in Guatemala, 1954.
+- See [[operation-pbsuccess]].

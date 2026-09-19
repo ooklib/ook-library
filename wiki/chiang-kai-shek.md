@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
+    label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
 ---
 
 Generalissimo Chiang Kai-shek led the Nationalist Chinese (KMT) forces in China's WWII-era dual
@@ -37,8 +39,11 @@ a policy that drew [[paul-helliwell]] and the OSS into narcotics facilitation.
   lobbied FDR to fund a private air force for Chiang (the "Flying Tigers"), later repurposed into
   [[civil-air-transport]]'s heroin-smuggling route between Burma and China. *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 10:19-11:46)*
 
+- [[paul-helliwell]] of [[oss-detachment-202]] helped Chiang's Nationalists against Mao's Communists from Yunnan. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 2:50-3:03)*
+
 ## Relationships
 
 - Opium trade facilitated by [[paul-helliwell]] and the OSS; opium industry consolidated via the
   [[green-gang]].
 - Backed by [[claire-chennault]]'s air force, which became [[civil-air-transport]].
+- See [[oss-detachment-202]].

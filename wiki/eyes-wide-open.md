@@ -27,6 +27,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
+    label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -104,6 +106,8 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
   of Gladio in France. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 1:57-4:34, 41:20-42:24, 55:50-56:21)*
 - Part 5.3 (28 July 2023), 'France's Secret Armies and the Pan-Europa Project', closes the early Gladio mini-series: French stay-behind networks ([[la-cagoule]], [[plan-bleu-1947]], [[rose-des-vents]]) and CIA-funded pan-European forums ([[american-committee-on-united-europe]], [[le-cercle]]); it heavily draws on [[daniele-ganser]] and [[david-teacher]]. The next series is a three-part 'French Connection' exposé. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 0:00-2:28, 47:51-49:14)*
 
+- Part 5.4 (4 Sept 2023), 'Spy Stories: OSS Detachment 202 - Secret Cold Warriors', is a short prelude to the upcoming French Connection series (Burma CIA operations, then the First Indochina War). It profiles four [[oss-detachment-202]] alumni: [[e-howard-hunt]], [[john-singlaub]], [[lucien-conein]], [[mitchell-werbell]], under [[paul-helliwell]]; sources include Valentine, McCoy, Webb, Lernoux, Talbot, Baker, Fonzi. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 0:00-2:25, 22:16-24:00)*
+
 ## Relationships
 
 - Investigates the [[office-of-strategic-services]] and the [[central-intelligence-agency]] as
@@ -113,3 +117,4 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 - Investigates [[operation-gladio]] as a dedicated mini-series arc beginning with Part 5.1,
   continuing into Part 5.2's domestic blackmail/Red Scare coverage.
 - Part 5.3 sources: [[daniele-ganser]], [[david-teacher]], [[richard-aldrich]], [[hennie-van-vuuren]].
+- Part 5.4 subjects: [[oss-detachment-202]] alumni; see [[cia-drug-paradigm]].
