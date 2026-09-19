@@ -31,6 +31,8 @@ sources:
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
+    label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -82,3 +84,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Additional claims (gerb/mj12)
 
 - Gerb's 2024-08-25 video with [[ryan-s-wood]] shifts him from "mix of information and disinformation" to holding that MJ-12 likely was, and possibly is, real. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:34:05, 1:38:24)*
+
+## Additional coverage (gerb/dugway)
+
+2025-02-20 video on [[dugway-proving-ground]] ("Area 52"). Gerb reports he located [[witness-ms]] through the DPI archive, interviewed him in June 2024, warns viewers not to visit the alleged [[dugway-deep-underground-military-base]], and plans to interview MS, [[witness-gp]] and a railroad co-worker. He also mentions a personal anonymous Army source and a Patreon. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 31:45, 31:53, 1:08:12, 1:11:32, 1:13:15)*)*

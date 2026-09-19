@@ -15,6 +15,8 @@ relations:
 sources:
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
+    label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Rear Admiral Sumner Shapiro, a former Director of Naval Intelligence, sat on the board of
@@ -38,3 +40,7 @@ Shapiro. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 44:42–45:05)*
 
 - Director of Naval Intelligence and [[bdm-international]] board member; named by
   [[bobby-ray-inman]] as a knowledgeable contact on recovered UFOs.
+
+## Additional claims (gerb/dugway)
+
+- Retold as telling astronaut Bob Eschler (ASR "echler") that UAP retrieval teams take apart craft, pack them up and ship them to laboratories around the country. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 18:53, 19:02)*)*

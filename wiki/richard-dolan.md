@@ -19,6 +19,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
+    label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Author of *UFOs and the National Security State*, praised by
@@ -62,3 +64,7 @@ mechanisms behind the black-budget infrastructure. *([gerb/saic](../raw/gerb/sai
 ## Claims (from "The Wilson Davis Memo" video)
 
 - Hosted [[james-rigney]] on his podcast (first public naming of Rigney) and, per Gerb, has confirmed the [[wilson-davis-notes]]'s authenticity. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 3:50-3:59, 23:17-23:32)*
+
+## Additional claims (gerb/dugway)
+
+- Appears in a Quest TV video on "Area 51 to Area 52" with Nick Pope; Gerb criticizes it as presenting no evidence for Dugway. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 1:04:35, 1:04:51, 1:05:13)*)*

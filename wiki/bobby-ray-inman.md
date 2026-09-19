@@ -40,6 +40,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
+    label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Admiral Bobby Ray Inman had one of the most extensive intelligence/defense careers of any
@@ -90,3 +92,7 @@ director of the [[central-intelligence-agency|CIA]], vice director of the
   [[science-applications-international-corporation]]; alleged (by
   [[colonel-steve-wilson]]) board role at [[decision-science-applications]]; pointed Bob Echler
   to [[everett-heinman]] and [[sumner-shapiro]] on recovered-vehicle access.
+
+## Additional claims (gerb/dugway)
+
+- A note reading "call Admiral Inman at Science Applications International" appears in the 1997 [[popular-mechanics-new-area-51-1997]] photos; Gerb recalls Inman telling astronaut Bob Eschler about recovered UFO vehicles and sending him to [[sumner-shapiro]], who said teams disassemble craft and ship them to different laboratories. Inman is also a former Wackenhut board member, a security firm Gerb suspects of legacy-program site security. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 18:07, 18:37, 18:45, 18:53, 19:02, 42:14)*)*

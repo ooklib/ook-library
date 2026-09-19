@@ -30,6 +30,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
+    label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Battelle Memorial Institute is a contractor that administers multiple FFRDCs on behalf of the
@@ -77,3 +79,10 @@ DOE and other agencies, and is described by Gerb as "no stranger to this channel
   [[national-biodefense-analysis-and-countermeasures-center]]; part of
   [[triad-national-security]]; board seats held by [[ronald-moultrie]] and
   [[stephanie-osullivan]]; ran [[project-stork]], cited in the [[robertson-panel-1953]].
+
+## Additional claims (gerb/dugway)
+
+- Gerb names Battelle the "primary suspect" in Dugway UAP legacy programs: about 77% of West Desert Test Center work is for the chemical/biological defense program; Battelle runs the National Biodefense Institute at Fort Detrick and NBACC; both WDTC and Fort Detrick are among CBDP's four primary R&D/T&E facilities; Battelle operates the chemical and biological defense information analysis center at Dugway; and its design/build division allegedly built sealed containment structures and clean rooms at DPG (per Anthony Bragalia). *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 57:26, 57:36, 58:23, 58:30, 59:24, 59:41, 1:00:02, 1:00:10, 1:00:18, 1:00:40)*)*
+- Personnel crossovers with [[west-desert-test-center]] leadership (Ryan W. Harris, Greg Frank, Anders Weborg). *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 1:01:13, 1:02:17, 1:03:26)*)*
+- Gerb recalls earlier work on Battelle's Project Stork and nickel-titanium alloys possibly linked to the 1947 Roswell wreck; Fort Detrick as a rumored non-human-biologics site, and a Reddit "exo-organism" whistleblower (not examined). *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 58:00, 58:07, 58:15, 58:38, 58:44)*)*
+- Gerb suspects Battelle/ATEC scientists were the "white coats" around the craft [[witness-ms]] saw. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 44:15, 44:23)*)*

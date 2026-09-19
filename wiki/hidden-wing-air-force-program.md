@@ -20,6 +20,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
+    label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
 ---
 
 "The Hidden Wing" is Gerb's name — coined and given a full dedicated investigation in this
@@ -116,3 +118,7 @@ firsthand experience. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 36:01–3
   [[aftte]] for hands-on test and evaluation, under the broader umbrella of
   [[air-force-material-command]] and the [[edwards-air-force-base|Edwards 412th Test Wing]]/AFTC.
 - Protected by [[air-force-office-of-special-investigations|AFOSI/PJ]].
+
+## Additional claims (gerb/dugway)
+
+- The Dugway video reuses the Hidden Wing thesis (joint MRTFB legacy programs) to argue for a parallel Army/Air Force program at [[dugway-proving-ground]] and the [[utah-test-and-training-range]]; see [[west-desert-test-center]]. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 8:45, 56:40, 1:05:46)*)*

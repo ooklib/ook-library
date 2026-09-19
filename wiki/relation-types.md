@@ -33,6 +33,8 @@ sources:
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
+    label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Registry of directed relation types used across the wiki's `relations:` frontmatter. Most are
@@ -76,3 +78,5 @@ asymmetric (the inverse is implied, not separately stored). Symmetric ones are n
 | `worked_at` | person → place | employed at a specific hotel/site where the place (not an org) is the node; used instead of `employed_by` | no |
 | `trained_by` | person → person | received tradecraft training/instruction from another individual, distinct from formal employment | no |
 | `briefed_by` | person → person | received a claimed private briefing (UFO/legacy-program or otherwise) from another individual, alleged; distinct from `trained_by` (tradecraft instruction) | no |
+
+

@@ -16,6 +16,8 @@ sources:
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
+    label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Home of the 412th Test Wing and an MRTFB (Major Range and Test Facility Base), listed by Gerb
@@ -56,3 +58,7 @@ ranges. *([gerb/mitre](../raw/gerb/mitre.md) 52:21–52:55)*
 ## Additional claims (jm/townsend-brown)
 
 - See SAIC's 1988 electrogravitics study for Edwards ([[electrogravitics]]). *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:30:46-1:31:17)*
+
+## Additional claims (gerb/dugway)
+
+- Gerb again cites witness "Ed"'s claim of a joint reverse-engineering program between the Edwards 412th Test Wing and the Nevada Test and Training Range as the model for a proposed Army/Air Force program at [[dugway-proving-ground]] and the [[utah-test-and-training-range]]. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 8:45, 16:08, 16:17, 56:40, 1:05:46)*)*

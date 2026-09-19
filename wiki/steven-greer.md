@@ -16,6 +16,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
+    label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -40,3 +42,9 @@ Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting w
 ## Claims (from "The Wilson Davis Memo" video)
 
 - Per the notes, spoke to Wilson, [[will-miller]] and [[edgar-mitchell]] in a Pentagon conference room in 1997 about UFOs, Roswell and crashes. Gerb, while calling Greer's later CE5 work "nonsense," credits his late-1990s work, including bringing forward [[jonathan-weygandt]]. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 8:19-9:09)*
+
+## Additional claims (gerb/dugway)
+
+- Repeatedly names [[dugway-proving-ground]] as "the most critical" black-program site, an underground complex accessible only by air, and relays a Naval Research Laboratory official's night-scope sighting of discs and triangles emerging from underground near Provo. Gerb suspects a witness "Ah" (claimed ex-Boeing) was a primary source. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 24:11, 24:19, 24:43, 25:07, 25:32)*)*
+- Told the story of [[witness-ms]] at the June 2023 National Press Club symposium, and later leaked the alleged Dugway DUMB entrance and Granite Peak location on the DPI archive. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 29:44, 30:14, 54:16, 54:23, 1:07:47, 1:07:56)*)*
+- Correspondents: 1996 AJ "Tony" Cadock (his ex-webmaster and Libyan oil-services CEO) and 1998 [[steve-jones]]. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 26:23, 27:36, 27:43, 27:51)*)*
