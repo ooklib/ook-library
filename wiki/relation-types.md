@@ -89,3 +89,8 @@ asymmetric (the inverse is implied, not separately stored). Symmetric ones are n
 | `child_of` | person → person | parent-child kinship, child to parent; used by `oompa/maxwells` | no |
 | `founded_by` | org → person | founder of an organization, from the org's point of view (inverse of `founded`, used where the org page is the subject) | no |
 | `collaborated_with` | org/person → org/concept/regime | business or operational cooperation with a named regime or program, alleged by a source (used by `brof_stein/nazi-brands`) | no |
+| `hosted_by` | event/episode → person/org | who moderated, hosted or organized the event or episode | no |
+| `features` | episode/event/page → person/entity | a named person, event or item appears prominently in it (used by `jm/nell-pasulka`) | no |
+| `references` | episode/concept → entity | explicitly cites or draws on another entity as evidence or background, without endorsing it | no |
+| `related_to` | entity ↔ entity | loose thematic association drawn by a source, weaker than `analogous_to` or `influenced` | **yes** |
+| `authored_by` | book/document → person | inverse of `authored`, used where the work's page is the subject | no |

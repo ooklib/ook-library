@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 The central thesis of [[jesse-michels]]'s September 2025 episode is that the history of rocketry and the space program is entangled with mysticism, ritual and possibly communication with [[non-human-intelligence]]. This page collects the episode's pattern claims about NASA symbolism, dates and personnel; Michels himself flags the launch-timing material as "highly speculative" and raises pareidolia as the skeptical reading. All of it is attributed claim, not established fact.
@@ -36,3 +38,7 @@ The central thesis of [[jesse-michels]]'s September 2025 episode is that the his
 
 - Narrated by [[jesse-michels]]; draws on [[diana-pasulka]]'s *American Cosmic*.
 - Related strands: [[russian-cosmism]], [[nazi-occultism-claims]], [[sekret-machines-project]].
+
+## Claims (jm/nell-pasulka)
+
+- A follow-up conversation between Michels and Pasulka covers early NASA missions' Horus/Osiris symbolism and Latin-inscribed Space Force patches ([[nasa-mission-patches-and-sponsors-claims]]), with Pasulka reporting that insiders call the recipients of the homage "the sponsors". *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 1:02:31-1:04:07)*

@@ -23,6 +23,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 # Malmstrom Minuteman Missile Shutdown (1967)
@@ -53,3 +55,7 @@ Alleged 24 March 1967 event at [[malmstrom-air-force-base]] in which a hovering 
 ## Claims (jm/matthew-brown)
 
 - Brown calls the WSJ EMP explanation nonsense (see [[wall-street-journal-malmstrom-emp-claims]]). *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:40:56-1:42:51)*
+
+## Claims (jm/nell-pasulka)
+
+- Nell cites the 1960s ICBM readiness changes at Malmstrom (missiles taken offline) and an alleged analogue in the Soviet Union (missiles brought online). *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 8:46-9:02)* See [[nell-three-lines-of-evidence-claims]].

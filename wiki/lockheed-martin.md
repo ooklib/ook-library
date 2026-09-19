@@ -97,6 +97,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -340,3 +342,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Claims (jm/censored-book)
 
 - In [[sentinels-of-ether-michels-episode-2026]] [[jesse-michels]] builds a Lockheed lineage for brain-machine flight control: [[john-norseen]]'s Biofusion neuro-cockpit work, the later Chase and Yonas "cognitive enhancement using feedback" patent, and quotes from [[ben-rich]] and [[don-phillips]]. He calls the Tic Tac "Lockheed Martin technology" (citing [[ross-coulthart]]) and notes that Barber's unnamed employer is guessable "in two guesses". *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:10:55-1:18:56, 1:14:40-1:14:59, 7:50-8:04)* See [[psychic-joystick-brain-interface-claims]].
+
+## Claims (jm/nell-pasulka)
+
+- Michels' introduction of Karl Nell lists his time at Lockheed Martin (see [[karl-nell]]). *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 1:56-2:05)*

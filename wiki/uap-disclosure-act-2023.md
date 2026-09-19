@@ -15,6 +15,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 The UAP Disclosure Act is the Senate bill (sponsored, per [[matthew-pines]], by Schumer, Rounds, Gillibrand, Heinrich and Todd Young) that would create a UAP records review board with unilateral declassification authority and eminent-domain reach over privately held UAP material. This page records how Pines describes it in [[pines-michels-interview-2024]], not the bill text.
@@ -31,3 +33,7 @@ The UAP Disclosure Act is the Senate bill (sponsored, per [[matthew-pines]], by 
 ## Relationships
 
 - Discussed in [[pines-michels-interview-2024]] by [[matthew-pines]]; see [[legacy-program-decay-and-accountability-claims]], [[trump-disclosure-leverage-claims]], [[uap-task-force]], [[aaro]], [[christopher-mellon]].
+
+## Claims (jm/nell-pasulka)
+
+- Nell cites the legislation from Senators Schumer, Rounds, Rubio and Vance and others as testimonial evidence that Congress "is not being told the truth", and says the Schumer-Rounds group intended to reintroduce it. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 7:32-8:08)*

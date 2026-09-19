@@ -63,6 +63,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 Thomas Townsend Brown, associated with the [[biefeld-brown-effect]] and alleged antigravity research. In the Malmgren interview he is central to Malmgren's late-life research.
@@ -137,3 +139,7 @@ Jesse Michels' 2024 documentary, based on Paul Schatzkin's biography *The Man Wh
 ## Claims (jm/pines)
 
 - Michels calls Brown a mid-century inventor who made "much more progress than meets the eye" tying electromagnetism to gravity, obsessed with time travel, and cites him with Tesla as anomalies in the secret-physics story; see [[secret-physics-program-claims-pines]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:20:32-3:20:48, 3:28:41-3:29:35)*
+
+## Claims (jm/nell-pasulka)
+
+- Michels tells Pasulka that Tyler ([[tim-taylor-nasa]]) told [[chris-bledsoe]] he was part of a NASA-and-Bahamas group with Brown as president, involving time-travel technology; Michels says Brown may have unified gravity and electromagnetism, died penniless on Catalina Island, made disinformation about his work to throw people off, and that he is convinced Brown's work made it into the B-2 (with a very low payment from Northrop). *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 1:13:19-1:15:53)* He also quotes Brown's fish-and-ships image. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 1:08:23-1:08:38)* See [[tyler-vatican-observatory-visit]].

@@ -59,6 +59,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -265,3 +267,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 
 - Pines says Grusch's testimony implies rogue elements, that the UAP Task Force was staffed part-time with Grusch among the full-timers, that Grusch dodged the "agreements" question, and that it matters the Grusch story arrived because legacy programs decayed. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 32:15-32:38, 34:23-34:47, 2:49:05-2:49:35, 3:04:49-3:05:05, 3:10:53-3:10:57)*
 - Pines' hearsay: "AI, quantum, and the Grusch stuff" as a triangle; see [[ai-and-nhi-communication-claims]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:49:36-3:49:45)*
+
+## Claims (jm/nell-pasulka)
+
+- Nell cites Grusch's House Oversight testimony (accompanied by two Naval aviators) that a government program exists looking at UFOs because they are real. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 7:05-7:23)*

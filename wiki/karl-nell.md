@@ -13,6 +13,9 @@ relations:
   - relation: alleged_by
     target: david-grush
     note: "outspoken advocate for Grush's NHI claims"
+  - relation: member_of
+    target: uap-task-force
+    note: "Army representative to the UAP Task Force, per Michels' introduction (jm/nell-pasulka)"
 sources:
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
@@ -20,6 +23,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 Colonel Karl Nell, US Army Futures Command, is a vocal advocate for [[david-grush|David Grush]]'s
@@ -50,3 +55,10 @@ satellite constellation." *([gerb/lockheed](../raw/gerb/lockheed.md) 2:19:41–2
 ## Claims (jm/pines)
 
 - Pines lists Nell among the senior figures coming out on a "ratchet" and cites his framing of instruments of national power for the proposed review board ([[uap-disclosure-act-2023]]). *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 4:01:40-4:02:04, 4:04:07-4:04:16)*
+
+## Claims (jm/nell-pasulka)
+
+- Nell appears on the Hereticon panel as a former Army representative to the UAP Task Force (per Michels' introduction), whose CV covers Lockheed Martin, Northrop Grumman, brigade command and setting up Army Futures Command, speaking only from unclassified information. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 1:56-2:39)*
+- He argues the case for NHI from first principles, testimony and data ([[nell-three-lines-of-evidence-claims]]) *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 2:55-10:34)*, lists six reasons for government non-disclosure ([[non-disclosure-reasons-nell]]) *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 19:41-22:26)*, critiques the Kardashev scale in favor of a three-axis model ([[nhi-civilization-development-model-nell]]) *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 26:01-29:02)*, and links esoteric traditions and Egyptian pyramid texts to NHI encounters ([[esoteric-traditions-and-nhi-claims]]) *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 31:57-34:08)*.
+- He proposes programmable matter and the Casimir effect as investable avenues, saying that as engineering reaches the molecular level information science, materials science and genomics converge, and that Casimir-plate energy extraction is scalable only as a "one-shot battery"; he calls agnosticism "not an optional worldview". *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 34:45-37:33)*
+- Pasulka later says his talk, like her own teaching, confronted religious audiences with the reality of what they believe: believing versus knowing, an analogous "state change" for individuals and society. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 57:24-58:35)* Hub: [[nell-pasulka-hereticon-panel-2024]]; Michels also calls him a friend who discussed [[thomas-townsend-brown]] earlier. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 34:38-34:45, 1:08:23)*

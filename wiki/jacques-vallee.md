@@ -26,6 +26,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 Jacques Vallee is the French-American computer scientist and ufologist whose books (notably Messengers of Deception) and published journals are the main intellectual frame for guest [[jason-samosa]] in the `jm/cover-up` episode. The episode uses him as a source for a "control system" or belief-shaping reading of UFOs, for the AAWSAP-era journals, and as validation of the Tom DeLonge/Podesta story. This page records what the episode attributes to him; the wiki treats these as claims about his positions.
@@ -71,3 +73,7 @@ Levenda met Vallee at the Austin meeting and says Vallee's "control mechanism" i
 ## Claims (jm/pines)
 
 - Michels cites Jacques Vallee's Forbidden Science diaries, in which Vallee's insiders repeatedly mention the Carlyle Group. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 50:17-50:46)*
+
+## Claims (jm/nell-pasulka)
+
+- Nell credits Vallee with the "physics of information" axis (how much a civilization knows about reality's nature) in his alternative to the Kardashev scale ([[nhi-civilization-development-model-nell]]); Pasulka says Vallee, like her, looked at the historical record for evidence of NHI. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 27:57-28:22, 40:35-40:56)*

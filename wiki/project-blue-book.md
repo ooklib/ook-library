@@ -26,6 +26,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 The historical Air Force UFO-investigation project, referenced as a comparison point: AARO was
@@ -83,3 +85,7 @@ became **Project Grudge** in 1949 (running until 1951), superseded by **Project 
 ## Additional claims (gerb/tr-3b)
 
 - Gerb cites Don Berliner's "Blue Book Unknowns": only four anomalous triangle sightings among Blue Book's 12,000 cases, typically colorful, unlike the dark 1980s-90s triangles ([[flying-triangle-sightings]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 5:08-5:46)*
+
+## Claims (jm/nell-pasulka)
+
+- Nell frames the Air Force's wish to exit the job, the Colorado study and the cancellation as a non-disclosure precedent ([[non-disclosure-reasons-nell]]). *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 21:15-21:46)*

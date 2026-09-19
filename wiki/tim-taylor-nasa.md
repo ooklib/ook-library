@@ -20,6 +20,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 Tim Taylor is described by [[jesse-michels]] and [[diana-pasulka]] as a NASA mission controller at Kennedy Space Center who appears pseudonymously ("Tyler D.") in Pasulka's *American Cosmic*. The transcript sometimes says "Timothy Taylor".
@@ -41,3 +43,7 @@ Tim Taylor is described by [[jesse-michels]] and [[diana-pasulka]] as a NASA mis
 ## Claims (jm/pines)
 
 - Pines and Michels discuss Timothy Taylor's hierarchy answer to Diana Pulka (normal humans, some elements of the intelligence services, aliens, God): Pines thinks an outsized ego is far likelier than a hint of a non-human element in human bureaucracies but "not zero"; Michels says intel contacts told him Taylor is just a NASA mission controller who claims his superiors don't know his program and that he gets "downloads", resembling a hermetic network with Chris Bledsoe. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:12:49-3:16:40)*
+
+## Claims (jm/nell-pasulka)
+
+- Pasulka's account of "Tyler" here: a Space Force/NASA mission controller, government liaison to Elon Musk on some missions, who said UFO crash debris had been recovered and reverse engineered (2016), and who treated consciousness protocols as essential to his work; details in [[angel-contact-events-claims]] and [[tyler-vatican-observatory-visit]]. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 15:28-16:24, 22:41-22:57)* Michels asks about the Vatican Observatory recognizing him, the Bledsoe anecdote ([[chris-bledsoe]]) and the Townsend Brown Nassau group. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 1:09:43-1:14:30)*

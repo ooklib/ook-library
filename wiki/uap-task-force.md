@@ -14,6 +14,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 The Pentagon UAP investigation team that [[david-grush]] joined in 2019 (per the source) as an intelligence officer; per the NewsNation narration it was later renamed [[aaro]]. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 3:31-3:48,)*
@@ -34,3 +36,7 @@ The Pentagon UAP investigation team that [[david-grush]] joined in 2019 (per the
 ## Claims (jm/pines)
 
 - Pines describes the task force as an interagency group with mostly part-time members, and relays hearsay that its polygraph screening added a loyalty-to-a-non-human-faction question ([[nhi-counterintelligence-and-polygraph-claims]]). *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:04:02-3:06:40)*
+
+## Claims (jm/nell-pasulka)
+
+- Michels introduces Karl Nell as the Army representative to the UAP Task Force, which he says was directed to look into UAP's existence and reality; Nell speaks from unclassified information only. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 2:13-2:39)* See [[nell-pasulka-hereticon-panel-2024]].

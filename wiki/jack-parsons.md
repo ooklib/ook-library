@@ -20,6 +20,8 @@ sources:
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 Jack Parsons (1914-1952) was a self-taught Pasadena rocket chemist who co-founded the Caltech-area rocketry group that became [[jet-propulsion-laboratory]] and developed jet-assisted takeoff (JATO) boosters; he was also a devoted occultist. [[jesse-michels]] uses him as the lead example of the "occult rocket scientist" and of scientists who saw themselves as receivers of non-human inspiration.
@@ -42,3 +44,7 @@ Jack Parsons (1914-1952) was a self-taught Pasadena rocket chemist who co-founde
 ## Claims (jm/pines)
 
 - Pines and Michels call Parsons's Crowley-style sex magic in the desert with Hubbard, and the information that impressed von Braun, "indisputable historical fact" and an example of voodoo in the space program. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:16:52-3:17:19)*
+
+## Claims (jm/nell-pasulka)
+
+- Pasulka calls Parsons "the father of our Space Program", says he believed he was in contact with NHI, worked with Aleister Crowley, and did not view his work as demonic but as good, serving the "common task" of getting humans into space; she contrasts him with the Christian-veneer Russians. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 24:28-25:10, 1:04:56-1:05:11)* See [[nell-pasulka-hereticon-panel-2024]].

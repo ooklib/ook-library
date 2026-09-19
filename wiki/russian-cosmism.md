@@ -12,6 +12,8 @@ sources:
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 Russian cosmism is the late-19th-century philosophy that [[jesse-michels]] presents as the Soviet counterpart to Western mystical rocketry. Nikolai Fyodorov held that humanity's task was to resurrect all the dead by technology and then colonize the cosmos; his follower Konstantin Tsiolkovsky (father of Russian spaceflight, rocket equation 1903) saw space travel as necessary. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 32:29-33:45)*
@@ -28,3 +30,7 @@ Russian cosmism is the late-19th-century philosophy that [[jesse-michels]] prese
 ## Claims (jm/pines)
 
 - Pines cites Tsiolkovsky's cosmism, his belief he was in touch with angelic beings, as the Russian version of rocket-founder mysticism. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:17:44-3:18:01)*
+
+## Claims (jm/nell-pasulka)
+
+- Pasulka says she studied the Russian and American space programs' belief systems: Tsiolkovsky ([[konstantin-tsiolkovsky]]) believed in NHI, with a Christian overlay, and Jack Parsons in the US, paired as the roots of both programs; Nell lists cosmism as the third of his "heresies". *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 22:09-25:10, 1:04:32-1:05:11)* See [[nell-pasulka-hereticon-panel-2024]].

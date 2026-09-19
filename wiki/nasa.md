@@ -18,6 +18,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 NASA, established 29 July 1958, is the US civilian space agency. In [[jesse-michels]]'s 2025 episode it appears as the public face of a program with a hidden, secrecy-enabled side (alongside the [[national-reconnaissance-office]]) and an "esoteric dimension" of symbols, dates and personnel. See [[nasa-occult-symbolism-claims]].
@@ -50,3 +52,7 @@ NASA, established 29 July 1958, is the US civilian space agency. In [[jesse-mich
 ## Claims (jm/censored-book)
 
 - Michels claims NASA has "been gaslighting the public" since 1958 about astronaut sightings, now put in a bind by the [[department-of-war-ufo-release-2026]] listing [[gene-cernan]]'s sightings as unresolved. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 4:25-4:55)*
+
+## Claims (jm/nell-pasulka)
+
+- Pasulka's aerospace correspondents include NASA and the Space Force; see [[nasa-mission-patches-and-sponsors-claims]], [[angel-contact-events-claims]] and [[tyler-vatican-observatory-visit]]. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 14:40-14:47, 1:02:01-1:02:16)*

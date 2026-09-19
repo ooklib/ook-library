@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 The 1971 US-Soviet agreement on measures to reduce the risk of nuclear war. In the NewsNation Grusch special, [[ross-coulthart]]'s narration says article three, which covers unidentified objects near nuclear facilities or interfering with communications, proves both superpowers knew UAP existed "whatever they were". *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 31:03-31:34)*
@@ -21,3 +23,7 @@ The 1971 US-Soviet agreement on measures to reduce the risk of nuclear war. In t
 ## Relationships
 
 - Cited in [[grusch-newsnation-interview-2023]].
+
+## Claims (jm/nell-pasulka)
+
+- Nell says a US-Soviet agreement still in force stipulates that each side will notify the other if UFOs affect early-warning systems. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 9:02-9:26)* See [[nell-three-lines-of-evidence-claims]].

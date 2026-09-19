@@ -28,6 +28,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 # UFO-Nuclear Connection
@@ -68,3 +70,7 @@ The thesis, presented by [[uap-gerb]] in "UFOs and Nuclear Weapons - A Fascinati
 ## Claims (jm/pines)
 
 - Michels says UFOs "seem to specifically show up around" nuclear assets, agreed by Pines as "pretty definitive at this point", and also mentions nuclear subs and the 1992 Brookhaven crash rumor. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 1:00:46-1:01:05, 2:15:11-2:15:19)*
+
+## Claims (jm/nell-pasulka)
+
+- Nell lists correlations between UAP activity and nuclear sites (Pantex, Hanford, even Fukushima), Malmstrom and northern early-warning radar incursions as evidence, and says UFOs did not "start in the 40s" but the nuclear era is when the modern phenomenon came to the fore in his framing. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 8:38-10:42)* See [[nell-three-lines-of-evidence-claims]].

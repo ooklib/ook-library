@@ -57,6 +57,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 Northrop Grumman has primary offices in [[crystal-city-virginia|Crystal City]] and is listed
@@ -189,3 +191,7 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
 ## Claims (jm/pines)
 
 - Pines cites Rep. Mike Turner's Dayton district and Northrop as a donor as a reason for congressional skepticism. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 38:35-38:51)*
+
+## Claims (jm/nell-pasulka)
+
+- Michels describes Karl Nell's background at Lockheed Martin and Northrop Grumman; Michels also says Northrop paid Townsend Brown a "ridiculously low" sum, which he says he thinks led to B-2 technology. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 1:56-2:05, 1:15:04-1:15:19)*

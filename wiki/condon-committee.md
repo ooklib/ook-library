@@ -15,6 +15,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
+    label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
 
 Physicist Edward Condon's 1969 committee marked the official end of [[project-blue-book|Project
@@ -37,3 +39,7 @@ Blue Book]]. Gerb frames it as reusing the same "reduce public concern" playbook
 ## Additional claims (jm/kissinger)
 
 - [[jesse-michels]]: Lewis Branscomb, NBS director, allegedly offered chair Edward Condon a deal to help bury the UFO question in return for restoring his security clearance. See [[harvard-university]]. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 16:09, 16:19, 16:26, 16:36)*
+
+## Claims (jm/nell-pasulka)
+
+- Nell says Edward Condon wrote the study's conclusion before the study was complete and boasted about it, scientists on the study defected publicly, the report's content was at odds with its conclusions, and the Air Force cancelled Blue Book anyway. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 21:15-21:46)* See [[non-disclosure-reasons-nell]].
