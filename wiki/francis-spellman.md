@@ -27,6 +27,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
+    label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
 ---
 
 Cardinal Francis Spellman of New York worked as an American propagandist against the PCI during
@@ -64,6 +66,8 @@ teases deeper New York-connection coverage in Part 2.
   this point Spellman was, per the host, "adjacent to many CIA activities in Italy," a synchronicity
   the host flags without resolving. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 35:24-36:16)*
 
+- LAOS 3: Diem and his brother's first US tour meeting was with Cardinal Spellman, described as arguably the most powerful Catholic in the US, who after meeting Diem was convinced he was Vietnam's future and introduced him to Washington Catholics including [[joseph-kennedy]] and John F. Kennedy; the host recalls Spellman's role in his blue-suite/blackmail video ([[blue-suite]]). *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 10:43-11:28)*
+
 ## Relationships
 
 - Ran the Vatican/CIA-aligned propaganda campaign against the [[italian-communist-party]] during
@@ -72,3 +76,4 @@ teases deeper New York-connection coverage in Part 2.
 - Long-standing relationship with [[j-edgar-hoover]]; attorney was [[roy-cohn]]; alleged
   [[blue-suite]] attendee.
 - Ordained [[avery-dulles]] as a priest in 1956.
+- LAOS 3: promoted [[ngo-dinh-diem]] within the [[vietnam-lobby]].

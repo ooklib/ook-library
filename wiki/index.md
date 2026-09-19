@@ -11,7 +11,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
 `gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`,
 `rjm/city-of-london`, `mpu/secret-society`, `ewa/oss`, `ewa/sunrise`, `ewa/mafia-allies`,
-`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`).
+`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`).
 
 Note: the wiki spans four topic areas — the original alleged "UFO legacy programs" ecosystem
 (MITRE, SAIC, NRO, Lockheed, etc.), a British power-structures thread (Fabian Society, Chatham
@@ -136,7 +136,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[american-committee-on-united-europe]] · [[cia-international-organizations-division]] ·
 [[le-cercle]] · [[bilderberg-group]] · [[safari-club]] · [[western-goals-foundation]] ·
 [[service-d-action-civique]] · [[oss-detachment-202]] · [[environmental-industries]] ·
-[[corsican-mafia]] · [[drug-enforcement-administration]] · [[binh-xuyen]] · [[mixed-airborne-commando-group]]
+[[corsican-mafia]] · [[drug-enforcement-administration]] · [[binh-xuyen]] · [[mixed-airborne-commando-group]] · [[air-laos-commerce]] ·
+[[michigan-state-university-vietnam-advisory-group]] · [[vietnam-lobby]]
 
 ## Places
 
@@ -214,7 +215,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[national-security-act-1947]] · [[truman-doctrine]] · [[marshall-plan]] · [[operation-husky]] ·
 [[italian-election-1948]] · [[portella-della-ginestra-massacre-1947]] · [[blue-suite]] ·
 [[kefauver-committee]] · [[plan-bleu-1947]] · [[rose-des-vents]] · [[operation-zipper]] · [[operation-pbsuccess]] · [[bay-of-pigs-invasion]] ·
-[[kennedy-assassination]] · [[watergate-scandal]] · [[secret-war-in-laos]] · [[deer-mission]] · [[first-indochina-war]] · [[battle-of-dien-bien-phu]] · [[geneva-conference-1954]]
+[[kennedy-assassination]] · [[watergate-scandal]] · [[secret-war-in-laos]] · [[deer-mission]] · [[first-indochina-war]] · [[battle-of-dien-bien-phu]] · [[geneva-conference-1954]] · [[saigon-military-mission]] · [[battle-of-saigon-1955]] · [[strategic-hamlet-program]]
 
 ## People — British power structures
 
@@ -256,7 +257,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[mitchell-werbell]] · [[edward-lansdale]] · [[vang-pao]] · [[nelson-bunker-hunt]] ·
 [[ngo-dinh-diem]] · [[john-mccone]] · [[li-mi]] · [[willis-bird]] · [[alfred-cox]] ·
 [[phao-sriyanon]] · [[plaek-phibunsongkhram]] · [[sarit-thanarat]] · [[khun-sa]] · [[alfred-mccoy]] ·
-[[ho-chi-minh]] · [[dwight-d-eisenhower]] · [[roger-trinquier]] · [[antoine-savani]] · [[touby-lyfoung]]
+[[ho-chi-minh]] · [[dwight-d-eisenhower]] · [[roger-trinquier]] · [[antoine-savani]] · [[touby-lyfoung]] · [[wesley-fishell]] · [[ngo-dinh-nhu]]
 
 ## Concepts
 
@@ -268,4 +269,4 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[atomic-energy-act-1954]] · [[content-only-special-access-program]] ·
 [[covert-action-program]] · [[yankee-blue]] · [[permeation]] · [[deep-state]] ·
 [[non-aligned-movement]] · [[relation-types]] · [[yankee-cowboy-thesis]] ·
-[[strategy-of-tension]] · [[pan-europa-movement]] · [[cia-drug-paradigm]] · [[narco-counterinsurgency]] · [[hmong-people]]
+[[strategy-of-tension]] · [[pan-europa-movement]] · [[cia-drug-paradigm]] · [[narco-counterinsurgency]] · [[hmong-people]] · [[yamashita-gold]]

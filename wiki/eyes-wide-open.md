@@ -35,6 +35,8 @@ sources:
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
+    label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -118,6 +120,8 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 
 - LAOS 2 (Patreon premiere 18 Mar 2024, double feature with LAOS 1; YouTube 8 Nov 2024): the host issues an explicit on-air correction (see [[operation-x]]) that Operation X was French, not Helliwell's, and that Paul L. Williams's *Operation Gladio* was unreliable and should not be used academically. LAOS 3 is announced as the creation of South Vietnam, Lansdale, and the Asian side of the French Connection (1950s-1990s); the next season-3 video covers George H. W. Bush's early CIA business work in the Caribbean. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 19:30-20:55, 48:54-50:35)*
 
+- LAOS 3 (published 2024-11-15; first released to Patreon 3 April 2024) is the interwar-Vietnam episode, covering the Ngo regime, Lansdale, the Corsican/CIA opium nexus and MSU; the host says next week's LAOS 4 covers interwar Laos (about 1h20m). Bibliography includes Morgan's *The Vietnam Lobby*, Ahern's *The CIA and the House of Ngo*, Fall, Ernst, the Seagraves' *Gold Warriors*, Jacobsen's *Surprise, Kill, Vanish*, the Pentagon Papers, Valentine and McCoy. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 0:00-1:01, 1:02:33-1:02:51)*
+
 ## Relationships
 
 - Investigates the [[office-of-strategic-services]] and the [[central-intelligence-agency]] as
@@ -130,3 +134,4 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 - Part 5.4 subjects: [[oss-detachment-202]] alumni; see [[cia-drug-paradigm]].
 - LAOS 1 overview: [[secret-war-in-laos]], [[laos]], [[french-indochina]], [[hmong-people]], [[ho-chi-minh]], [[deer-mission]], [[dwight-d-eisenhower]].
 - LAOS 2: on-air self-correction on [[operation-x]].
+- LAOS 3: [[ngo-dinh-diem]], [[ngo-dinh-nhu]], [[edward-lansdale]], [[wesley-fishell]], [[saigon-military-mission]], [[battle-of-saigon-1955]], [[strategic-hamlet-program]], [[air-laos-commerce]], [[vietnam-lobby]], [[yamashita-gold]], [[michigan-state-university-vietnam-advisory-group]].

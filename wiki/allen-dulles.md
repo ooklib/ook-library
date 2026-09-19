@@ -66,6 +66,8 @@ sources:
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
+    label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -174,6 +176,8 @@ calls him "arguably one of, if not the most important person in modern American 
 
 - LAOS 2: after Lansdale and Conein's briefing by Trinquier, Dulles was "initially skeptical" of narco funding per Lansdale's account but the host says he was "particularly impressed" by Trinquier's cunning and saw that the French reached the same conclusion as the CIA did with [[operation-paper]]. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 47:48-48:31)*
 
+- LAOS 3: sent the [[saigon-military-mission]] on 1 June 1954; the host says it was his personal project and Lansdale reported only to him; impressed by Lansdale's Philippines results. A 1954 remark to the NSC, quoted, says a majority of Vietnamese supported the Viet Minh after Dien Bien Phu. Host finds Dulles compelling as the authority "higher than Nixon" behind the MSU program. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 14:29-15:18, 18:08-18:21, 29:32-29:55, 56:47-57:05)*
+
 ## Relationships
 
 - OSS officer under [[william-donovan]]; future director of the
@@ -201,3 +205,4 @@ calls him "arguably one of, if not the most important person in modern American 
 - Vice chairman of [[american-committee-on-united-europe]]; created [[cia-international-organizations-division]] at [[thomas-braden]]'s urging.
 - See [[e-howard-hunt]], [[bay-of-pigs-invasion]], [[operation-pbsuccess]], [[kennedy-assassination]].
 - LAOS 2: impressed by French [[operation-x]].
+- LAOS 3: [[saigon-military-mission]], [[wesley-fishell]].

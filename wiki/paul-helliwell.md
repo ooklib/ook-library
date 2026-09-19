@@ -35,6 +35,8 @@ sources:
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
+    label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
 ---
 
 Colonel Paul E. Helliwell served as chief of special intelligence for the
@@ -81,6 +83,8 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
 
 - LAOS 2 correction: the host retracts calling the China/Burma narco-smuggling operation "Operation X" (see [[operation-x]] for the flagged discrepancy with *ewa/mafia-allies*), saying it was likely an early iteration of [[operation-paper]]. He still names Helliwell, with his "shadow banking empire", as an example of the sophisticated CIA paymasters who would supersede the French black box. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 19:30-19:57, 27:11-27:18)*
 
+- LAOS 3: named, in the Yamashita-gold discussion, as a possible CIA banker of the recovered loot ("possibly by CIA bankers such as former OSS agent and narco counterinsurgency mastermind Paul Helliwell", who was also posted in East Asia with the OSS at war's end), and as Conein's chief in Detachment 202. Host presents the Helliwell link only as speculation. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 22:51-23:20, 39:25-39:37)*
+
 ## Relationships
 
 - OSS chief of special intelligence in China; presented Operation X to [[william-donovan]],
@@ -96,3 +100,4 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
 - Created [[sea-supply-corporation]] for [[operation-paper]].
 - Member of the [[deer-mission]].
 - LAOS 2: attribution of [[operation-x]] retracted; see that page.
+- LAOS 3: [[yamashita-gold]].

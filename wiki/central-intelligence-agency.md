@@ -63,6 +63,8 @@ sources:
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
+    label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -124,6 +126,8 @@ shared organization page.
 - Per Part 5.3, the CIA funded [[american-committee-on-united-europe]], [[le-cercle]] (alleged) and the French [[rose-des-vents]] stay-behind, and consolidated front funding in the [[cia-international-organizations-division]] under [[thomas-braden]]. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 22:58-27:16)*
 - LAOS 1 claim: from 1964 to 1971 the CIA was primarily in charge of the US campaign in [[laos]], its first full-on secret war, run without Congressional approval; see [[secret-war-in-laos]]. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 3:55-4:26)*
 
+- LAOS 3: per [[eyes-wide-open]], the CIA's first Vietnam team was the [[saigon-military-mission]] (June 1954), which the host argues installed [[ngo-dinh-diem]] as a proxy; the CIA is also alleged to have used the [[michigan-state-university-vietnam-advisory-group]] as a police-training cover and to have rigged the 1955 presidential election with Lansdale-delivered cash. The host repeats his "one never stops working for the CIA" mantra. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 0:29-0:42, 14:29-15:11, 28:11-28:25, 58:37-58:48)*
+
 ## Relationships
 
 - Operates [[cia-directorate-of-science-and-technology]] and (via it)
@@ -137,3 +141,4 @@ shared organization page.
   [[operation-gladio]].
 - See [[cia-international-organizations-division]], [[american-committee-on-united-europe]], [[rose-des-vents]].
 - See [[secret-war-in-laos]].
+- LAOS 3: [[saigon-military-mission]], [[michigan-state-university-vietnam-advisory-group]].

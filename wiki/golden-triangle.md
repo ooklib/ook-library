@@ -14,6 +14,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
+    label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
 ---
 
 The Golden Triangle is the Southeast Asian opium-producing region (including China's Yunnan province, Laos and Burma). Per Eyes Wide Open, Yunnan became the world's largest poppy producer between the 1950s and 1980s; a deeper dive is promised in the next episode on CIA operations in Burma. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 3:06-3:19, 23:25-23:32)*
@@ -27,8 +29,11 @@ The Golden Triangle is the Southeast Asian opium-producing region (including Chi
 - The first CIA operation there was [[operation-paper]]; its aftermath produced [[khun-sa]]. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 40:03-47:28)*
 - Laos at the centre (ewa/laos-1): host describes the triangle as Burma, Laos, Vietnam plus Yunnan, main global opium producer for most of the Cold War, with [[laos]] at its 'dead center'; northern-highland soil and altitude suited poppies, and Laos was the caravan gateway to Bangkok and Saigon. Note: LAOS 1 lists Vietnam among the triangle's states whereas ewa/operation-paper named Thailand; both are the host's statements. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 10:16-12:26)*
 
+- LAOS 3: host says the Golden Triangle fell quiet for a couple of years after Geneva as new regimes outlawed the trade, before opium flowed again; it would overtake Turkey as the most important opium region by the early 1970s. He calls the 1958 restart the "Cold War opium boom" via [[alfred-mccoy]]. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 4:09-4:48, 47:39-48:37)*
+
 ## Relationships
 
 - See [[oss-detachment-202]], [[cia-drug-paradigm]], [[civil-air-transport]].
 - See [[operation-paper]], [[li-mi]], [[khun-sa]], [[phao-sriyanon]].
 - See [[laos]], [[hmong-people]], [[secret-war-in-laos]].
+- LAOS 3: [[air-laos-commerce]].

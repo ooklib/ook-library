@@ -23,6 +23,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
+    label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
 ---
 
 William Colby, future CIA director under the Nixon administration, later wrote that had the
@@ -40,9 +42,12 @@ vote.
   [[richard-helms]], and [[james-jesus-angleton]]. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 50:12-50:38)*
 - Named by The Independent (1997) as an alleged member of [[le-cercle]]. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 36:22-36:37)*
 
+- LAOS 3: named as CIA Deputy Station Chief in Saigon from 1959 and, per the host, an adviser to [[ngo-dinh-nhu]] on the [[strategic-hamlet-program]]; the host stresses his close personal relationship with Nhu and later Phoenix Program (a "Search and Destroy Mass assassination program", developed with Saigon station chief Ted Shockley). Colby is also quoted calling Magsaysay "the best president the Philippines ever had". *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 17:57-18:08, 38:04-38:59)*
+
 ## Relationships
 
 - Later CIA director; retrospectively credited the Mafia's intervention with the Christian
   Democrats' 1948 victory.
 - Trained by [[george-white]].
 - Alleged member of [[le-cercle]].
+- LAOS 3: [[strategic-hamlet-program]], [[ngo-dinh-nhu]].

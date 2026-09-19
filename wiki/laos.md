@@ -15,6 +15,8 @@ sources:
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
+    label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
 ---
 
 Laos is, per [[eyes-wide-open]], a remote, nearly ungovernable, opium-rich country at the centre of the [[golden-triangle]] that became the site of the CIA's first full-scale secret war ([[secret-war-in-laos]]). The ASR renders the name as "La", "La os" and similar; the host explains he pronounces it with a sounded "s" and uses "Lao" as the demonym. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 5:54-7:10)*
@@ -31,9 +33,12 @@ Laos is, per [[eyes-wide-open]], a remote, nearly ungovernable, opium-rich count
 
 - LAOS 2: the site of the French Hmong maquis in [[operation-x]] and, under the Geneva side agreement, an independent Kingdom of Laos where France kept two bases (one at "Zino" per ASR, on the Thai border, and one near the capital), a 3,500-man garrison and 1,500 trainers for the Royal Lao Army. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 30:00-30:07, 39:41-40:38)*
 
+- LAOS 3: host restates that Laos was the smallest and least populated of the four post-Geneva states (about 5 million per this episode; LAOS 1 says about 3 million in the early 1970s: flagged), landlocked and dependent on Vietnam, at the center of the [[golden-triangle]] and only a minor opium producer in 1954. A CIA paper of August 1954, "Post Geneva Outlook in Indochina", said Laos's ability to retain control depends on developments in South Vietnam and French assistance. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 3:14-4:33, 50:56-51:23)*
+
 ## Relationships
 
 - Part of the [[golden-triangle]] and of [[french-indochina]] (from 1893).
 - Site of the [[secret-war-in-laos]] (CIA-run 1964-1971 per the host).
 - Home of the opium-growing [[hmong-people]].
 - LAOS 2: [[operation-x]], [[geneva-conference-1954]].
+- LAOS 3: linked to South Vietnam's Nhu regime via [[air-laos-commerce]].

@@ -17,6 +17,8 @@ sources:
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
+    label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
 ---
 
 The "secret war" in [[laos]] is the nearly two-decade conflict that [[eyes-wide-open]] begins to chronicle in the Season 2 series LAOS 1-4. This page holds the overview claims from the introduction (LAOS 1); later episodes will add detail. The host dedicates the project to the people of Laos and to Vietnamese, Lao, Thai, Cambodian, Burmese and American victims of the Southeast Asian wars. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 0:00-0:44)*
@@ -33,7 +35,10 @@ The "secret war" in [[laos]] is the nearly two-decade conflict that [[eyes-wide-
 
 - LAOS 2 supplies the precursor: the French [[operation-x]] ([[roger-trinquier]], [[antoine-savani]]) recruited the Hmong, and [[vang-pao]] emerged at [[battle-of-dien-bien-phu]] as the man who would be the CIA's chosen asset in Laos. [[geneva-conference-1954]] left the French a training role and bases in Laos. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 21:04-22:28, 37:38-38:10, 39:41-40:38)*
 
+- LAOS 3: the host frames the interwar decade as the run-up: CIA coups and counter-coups in Laos to install a pro-Western client who would let the protected narcotics trade flourish, igniting the Lao civil war (covered next, LAOS 4). *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 0:43-1:09, 1:00:45-1:01:08)*
+
 ## Relationships
 
 - Set in [[laos]]; run by the [[central-intelligence-agency]] with the Pentagon; see [[cia-drug-paradigm]], [[narco-counterinsurgency]], [[vang-pao]], [[hmong-people]].
 - LAOS 2: precursor in [[operation-x]], [[first-indochina-war]], [[geneva-conference-1954]].
+- LAOS 3: [[ngo-dinh-nhu]], [[air-laos-commerce]].

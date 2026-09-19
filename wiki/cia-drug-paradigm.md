@@ -12,6 +12,8 @@ sources:
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
+    label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
 ---
 
 "CIA drug paradigm" (also "drug financing paradigm" or "global narcotics paradigm") is Eyes Wide Open's term for the alleged decades-long pattern in which narcotics smuggling funds, or is tolerated to sustain, American covert and proxy operations. The host credits [[paul-helliwell]] as a critical driver and the [[oss-detachment-202]] alumni as its practitioners. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 0:59-1:11, 2:44-2:50)*
@@ -24,7 +26,10 @@ sources:
 
 - Ep. 6 frames [[operation-paper]] as the first case of the model (called [[narco-counterinsurgency]]); source [[alfred-mccoy]]. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 0:31-2:44, 30:40-31:55)*
 
+- LAOS 3: the host says Conein "viewed the narco counterinsurgency network left behind by the French ... as an opportunity" like [[allen-dulles]], and notes Lansdale reportedly kept a bureaucratic barrier between his on-the-books work and narcotics work. He also presents the South Vietnam Nhu-Corsican deal as "one side of the fence" with Laos to be covered next. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 41:08-41:39, 50:31-50:45)*
+
 ## Relationships
 
 - Practised by the [[central-intelligence-agency]] per Eyes Wide Open; see [[operation-x]], [[civil-air-transport]], [[castle-bank-and-trust]].
 - See [[operation-paper]], [[narco-counterinsurgency]].
+- LAOS 3: [[air-laos-commerce]], [[yamashita-gold]] (host's speculation on early covert funding).

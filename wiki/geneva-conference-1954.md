@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
+    label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
 ---
 
 The 1954 conference (delegates from Vietnam, France, Russia, China, Britain and the US) that ended the [[first-indochina-war]] after [[battle-of-dien-bien-phu]]. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 38:10-38:26)*
@@ -24,6 +26,9 @@ The 1954 conference (delegates from Vietnam, France, Russia, China, Britain and 
 - On 20 August [[dwight-d-eisenhower]] approved an NSC paper, "Review of US Policy in the Far East": work with France only to build indigenous internal-security forces, give economic aid directly to Laos, Cambodia and [[ngo-dinh-diem]]'s South, and back any anti-communist, pro-US political opponent. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 42:01-42:45)*
 - The French were soon absorbed in Algeria until 1962. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 40:54-41:02)*
 
+- LAOS 3: host describes the partition of French Indochina into four entities (Cambodia, Laos, and North and South Vietnam along the 17th parallel) and the mandated 1956 reunification referendum that never occurred; French forces mostly to exit by October 1954. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 2:37-3:14, 4:47-5:12, 28:33-29:15)*
+
 ## Relationships
 
 - Ended [[first-indochina-war]]; US delegation under [[john-foster-dulles]]; shaped [[laos]] and led to US takeover ([[edward-lansdale]]).
+- LAOS 3: see [[ngo-dinh-diem]].

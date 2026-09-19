@@ -15,6 +15,8 @@ sources:
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
+    label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
 ---
 
 The Hmong are the northern-highland opium-growing people of [[laos]] whom the French colonial administration encountered as "their newest clients in the opium business". The ASR consistently renders them as "Hong" (my normalization to Hmong, inferred from context and from the existing [[golden-triangle]] and [[vang-pao]] pages, which use Hmong). *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 14:44-14:54)*
@@ -31,7 +33,10 @@ The Hmong are the northern-highland opium-growing people of [[laos]] whom the Fr
 - Leaders: [[touby-lyfoung]] (Lao maquis) and [[vang-pao]]. They fought at [[battle-of-dien-bien-phu]] and returned to Laos "defeated and exhausted". *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 36:34-37:45)*
 - The host says the Hmong were "future allies of the CIA" (episode description); the French reportedly never compensated them from the leftover black-box funds per [[roger-trinquier]]. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 44:17-44:49)*
 
+- LAOS 3: Hmong highland farmers, per the host, were flush with cash again once the Nhu-Corsican alliance restored the opium trade from 1958; pilots flew dope out of Hmong villages in northern Laos. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 46:40-46:52, 47:33-47:45)*
+
 ## Relationships
 
 - Live in [[laos]]; customers of the [[french-indochina]] opium monopoly; part of the [[golden-triangle]] story; later led by [[vang-pao]] per [[eyes-wide-open]] (not developed in LAOS 1).
 - LAOS 2: recruited by [[operation-x]] under [[roger-trinquier]]; leaders [[touby-lyfoung]], [[vang-pao]].
+- LAOS 3: [[air-laos-commerce]].

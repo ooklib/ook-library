@@ -60,6 +60,8 @@ sources:
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
+    label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
 ---
 
 William "Wild Bill" Donovan was a WWI-hero-turned-Wall-Street-lawyer who became the first (and
@@ -136,6 +138,8 @@ administrator.
 
 - Per McCoy, an insider in Thai circles in the late 1940s; appointed US ambassador to Thailand 1953-54, during the withdrawal of [[li-mi]]'s force, which the host says raises questions. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 44:49-45:20)*
 
+- LAOS 3: introduced to [[ngo-dinh-diem]] in spring 1951; the host speculates that as a fellow Catholic he could have recommended Diem to [[allen-dulles]], and says some speculate he had a role in Diem's 1954 appointment as he (then ambassador to Thailand) arrived in Saigon alongside [[edward-lansdale]]. In 1945 he also sent 50 OSS men to the Pentagon to be posted to the Philippines under a military-intelligence G2 designation, Lansdale among them. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 11:47-12:11, 18:44-19:08, 27:36-27:53)*
+
 ## Relationships
 
 - Directed the [[office-of-strategic-services]], appointed by [[franklin-d-roosevelt]].
@@ -156,3 +160,4 @@ administrator.
   [[portella-della-ginestra-massacre-1947]] via the [[world-commerce-corporation]].
 - Founder/chairman of [[american-committee-on-united-europe]].
 - See [[willis-bird]], [[operation-paper]].
+- LAOS 3: see [[vietnam-lobby]], [[yamashita-gold]].

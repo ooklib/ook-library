@@ -14,6 +14,8 @@ sources:
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
+    label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
 ---
 
 Eyes Wide Open's term for a CIA strategy in which armed proxies are given a short initial injection of
@@ -31,8 +33,11 @@ oversight; the host says [[operation-paper]] is its blueprint. *([ewa/operation-
 - LAOS 2 is the development: the host names [[operation-x]] as the French narco-counterinsurgency program of the [[first-indochina-war]], "arguably the single most impactful innovation to counterinsurgency work during the beginning of the Cold War", "refined later by the CIA and Edward Lansdale". Its formula: a self-funding indigenous army paid by the drug trade, off the books. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 17:11-17:41, 18:03-18:11)* [[allen-dulles]] was "particularly impressed" and the host says CIA versions would be "much more deadly". *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 48:04-48:39)*
 - Precedent cross-reference: the host says the CIA had reached the same conclusion in Burma with [[operation-paper]]. *([ewa/laos-2](../raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md) 48:13-48:21)*
 
+- LAOS 3: the host extends the model to South Vietnam: the Ngo brothers, with CIA and Corsican help, tapped Laos opium to fund the counterinsurgency and secret police; Laos opium is described as "an untraceable and openly accessible cash source" that whichever power needed covert funds, first the French, then Nhu, could tap. Lansdale and Conein are contrasted as public and shadow sides of the same policy. *([ewa/laos-3](../raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md) 48:44-49:57, 41:08-41:39)*
+
 ## Relationships
 
 - See [[cia-drug-paradigm]], [[operation-paper]], [[golden-triangle]].
 - See [[secret-war-in-laos]], [[french-indochina]].
 - LAOS 2: French origin in [[operation-x]] ([[roger-trinquier]], [[antoine-savani]]).
+- LAOS 3: [[ngo-dinh-nhu]], [[air-laos-commerce]].
