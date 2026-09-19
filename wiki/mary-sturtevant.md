@@ -30,6 +30,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Extensive US intelligence/defense career; Gerb calls her online footprint "largely a ghost," with
@@ -81,3 +83,7 @@ Select Committee on Intelligence (SSCI) documents. *([gerb/nro](../raw/gerb/nro.
   [[national-security-council]], [[national-reconnaissance-office]], and
   [[lockheed-martin]] (colleague of [[james-t-ryder]]); alleged Kona Blue co-conspirator with
   [[glenn-gaffney]]; SSCI colleague of [[christopher-mellon]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Lockheed VP (government affairs; intelligence, joint and S&T programs) whose agency ties allegedly superseded her Lockheed duties in the Kona Blue block. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:08:41-2:08:57)*

@@ -27,6 +27,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 The Aerospace Corporation is a systems-and-integration-center FFRDC, spun off from TRW in 1960
@@ -71,3 +73,7 @@ concerns over TRW's close Air Force relationship. *([gerb/mitre](../raw/gerb/mit
 - Board/executive seats held by [[randall-g-walden]] and, as former CEO,
   [[edward-c-aldridge]]; recipient of a legal interrogatory co-written by [[eric-burlison]] and
   [[david-grush]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: founded 1960 as a spin-off of [[trw]] and cited as one of the FFRDCs framing the legacy program during the golden age of R&D (with MITRE); [[edward-c-aldridge]] was later its CEO. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:00:02-1:00:10, 1:09:44-1:10:06, 1:24:00)*

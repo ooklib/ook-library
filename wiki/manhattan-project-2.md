@@ -21,6 +21,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Gerb's nickname for the entire alleged [[ufo-legacy-programs|UFO legacy program]] apparatus,
@@ -113,3 +115,7 @@ recovered vehicles), classification/information control (the two-track SAP/
   [[george-c-marshall]]; classification track rooted in the [[atomic-energy-act-1954]]; political
   cover modeled on the [[top-policy-group]] and [[nsc-5412-committee]]; recapped and extended into
   the modern era by the [[onion-secrecy-model]] in Vol. 2.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb's 1947-1954 sub-era of the [[golden-era-1947-1978]], recapped as ~4 hours of prior work; the five transferred concepts (compartmentalization, organizational architecture, physical security, classification/information control, political shield/cover); T-Force parallels also appear in [[j-andrew-kissner]]'s testimony. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 23:08-24:43, 1:48:13-1:48:39, 2:29:14-2:30:46)*

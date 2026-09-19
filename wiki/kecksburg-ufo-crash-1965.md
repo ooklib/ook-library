@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Alleged 1965 crash of a small bell- or acorn-shaped UFO at Kecksburg, Pennsylvania, roughly 100 miles from [[eric-a-walker]]'s Penn State base. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 17:17-17:55)*
@@ -18,3 +20,6 @@ Alleged 1965 crash of a small bell- or acorn-shaped UFO at Kecksburg, Pennsylvan
 
 - Walker allegedly confirmed: "we went there with two from the military but not on duty". Gerb promises a dedicated video. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 17:25-17:55)*
 
+## Additional claims (gerb/timeline)
+
+- Timeline video: mentioned as a favorite case, with Walker's alleged presence and Wright-Patterson connections; LBJ's Texas White House coordination the following day. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:35:11-1:35:27, 2:36:02-2:36:20)*

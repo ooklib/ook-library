@@ -15,6 +15,8 @@ relations:
 sources:
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 The Atomic Energy Act of 1954 expanded the 1946 Atomic Energy Act's concept of "restricted data"
@@ -68,3 +70,7 @@ ordinary oversight. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:09:56–1:10:
 - Statutory foundation of [[atomic-energy-commission]]/DOE classification authority; runs as a
   parallel "track two" alongside executive-order-based [[special-access-program|SAP]]
   classification.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb calls 1954 "the most crucial year"; the Act (Aug 1954) introduced special nuclear material and restricted data, giving programs a statutory DOE/AEC container that evades executive-order classification and cannot be unilaterally declassified by the president; he cites Grusch's remark on the vague "sizable amount of atomic energy" definition and "transclassifying" UFO material. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 28:23-29:11, 50:55-52:14)*

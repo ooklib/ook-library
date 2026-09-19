@@ -15,6 +15,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Leonard Stringfield, a UFO crash-retrieval investigator Gerb describes as "legendary," produced
@@ -44,3 +46,7 @@ a series of "Crash Retrieval Status Reports" analyzed throughout the SAIC video.
 
 - Investigated/documented the [[mattituck-bay-crash-1989]] case and
   [[albert-bruce-collins]]'s testimony.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb "celebrates" Stringfield's Crash Retrievals of the Third Kind status reports 1-7 (1978-1994), coinciding with the Cold War reorganization era, and plans a full dive. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:51:59-1:52:38)*

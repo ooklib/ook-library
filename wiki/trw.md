@@ -39,6 +39,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 TRW is a defense contractor whose close relationship with the Air Force prompted the 1960 spinoff
@@ -118,3 +120,7 @@ TRW the entity he finds "the most value in investigating" of Northrop's acquisit
 - Career home of [[edward-dahl]], [[stephanie-osullivan]], [[dawn-meyerriecks]], [[richard-haver]], and
   [[donald-c-winter]]; alleged managing entity of the [[zodiac-crash-retrieval-program]]; SDI
   contractor.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: TRW is a "staple" contractor; Space Technology Laboratories subsidiary employed [[edward-dahl]] from 1955; [[aerospace-corporation]] spun off 1960; absorbed by [[northrop-grumman]] (2002); possibly the unnamed aerospace company in the [[wilson-davis-notes]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 44:11-44:59, 1:00:02, 2:00:05-2:00:15, 2:01:03-2:01:39)*

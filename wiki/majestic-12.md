@@ -42,6 +42,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
@@ -141,3 +143,7 @@ Full treatment in [[majestic-documents]], [[eisenhower-briefing-document]], [[sp
 ## Additional claims (jm/kissinger)
 
 - [[jesse-michels]] argues [[henry-kissinger]] plausibly fit MJ-12 or an MJ-12-like group; recounts a leaked 1995 MJ-12 document (discussed on NewsNation by Ross Coulthart and Jeff Krushank) in which JFK asks [[allen-dulles]] on 28 June 1961 to review MJ-12 operations related to Cold War psychological warfare, whose date matches two Dulles-JFK meetings revealed only in the 2022 JFK files; names [[gordon-gray]], [[donald-menzel]], [[vannevar-bush]], [[detlev-bronk]] as listed members; and says some equate MJ-12 with the 303/5412/40 covert-action committees or a "PI-40" group. Michels calls the documents partly forged or disinformation but with verifiable core details. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 33:31, 34:09, 34:27, 34:46, 35:16, 36:02, 36:10, 36:18, 36:27, 37:43, 40:02, 41:05, 41:12, 49:53, 50:04)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb states "there was a real Majestic 12", established under [[nsc-10-2]] (June 1948) inside the NSC covert-activities oversight structure, later continued as the [[nsc-5412-committee]] special group and the 303 Committee; the leaked [[eisenhower-briefing-document]] (formed 24 Sept 1947) "could very much still be real". He does not know what happened to the named MAG 12 after [[executive-order-12036]] (1978), and says "MJ12" persists as a legacy term. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 31:54-33:38, 1:01:30-1:01:59, 1:17:07-1:17:23)* [[eric-a-walker]] allegedly confirmed MJ-12's existence. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:35:02)*

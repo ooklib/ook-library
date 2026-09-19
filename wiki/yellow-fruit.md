@@ -15,6 +15,8 @@ relations:
 sources:
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Yellow Fruit was an unacknowledged special access program (USAP) run out of the US Army's Special
@@ -71,3 +73,7 @@ siloed structure. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 2:38:47–2:39:13
   study in the chain of SAP-reform events UAP Gerb ties to the 1994
   [[special-access-program-oversight-committee]] restructuring and the
   [[wilson-davis-notes]]' "watch committee" account.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb places the 1983 scandal within 1982-85 oversight reforms (EO 12356, NSDD 159) and reads its audit-driven exposure as the likely "series of audits" behind the near-exposure Admiral Wilson was told about in [[wilson-davis-notes]]; parallels to legacy programs are staged retirements, non-official covers, cutout funding and keeping the Joint Chiefs in the dark (Army Special Operations Division, Lt Col Duncan). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:18:32-1:19:51, 2:39:30-2:39:46)*

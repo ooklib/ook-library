@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 The National Security Act of 1947 is the piece of US legislation that, per Eyes Wide Open,
@@ -44,3 +46,7 @@ the most consequential-for-civil-liberties pieces of American legislation.
 - Created the [[central-intelligence-agency]], the [[national-security-council]], the Secretary
   of Defense position, and the US Air Force (led by [[hoyt-vandenberg]]).
 - Signed by [[harry-truman]] in 1947, the same year as the [[truman-doctrine]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb stresses the Act was not UFO-related but supplied the infrastructure (unified military under DoD, NSC, CIA) in which a post-Roswell program could "live, grow, breathe and remain in the shadows". *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 29:29-30:33)*

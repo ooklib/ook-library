@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 The late researcher who investigated the "flux liner" [[alien-reproduction-vehicle-tr3b|alien reproduction vehicle]] reported by witness Brad Sorenson at the 1988 Norton AFB air show. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 14:12, 14:21, 14:28)*)* In 2001 he appeared on Greer's panel. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 29:44, 29:51)*)*
@@ -19,3 +21,7 @@ The late researcher who investigated the "flux liner" [[alien-reproduction-vehic
 ## Relationships
 
 - Source of ARV lore; see [[dugway-proving-ground]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: second-hand relay of the [[flux-liner-arv-saga]] for 20+ years; his mysterious death is noted by Gerb. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:28:49-1:29:53)*

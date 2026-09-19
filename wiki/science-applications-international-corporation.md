@@ -67,6 +67,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Science Applications International Corporation (SAIC, called "SIC" throughout the ASR
@@ -226,3 +228,7 @@ whistleblower).
 ## Additional claims (jm/townsend-brown)
 
 - 1988 SAIC paper for Edwards AFB: Woodward's Brown-derived work valid; Ferris Williams essential. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:30:46-1:31:17)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb ties the 1991 psi-portfolio takeover to the alleged "off-world technologies division" at NSWC Crane, which he thinks SAIC runs, interfacing with consciousness-related recovered technology; calls SAIC "one of the most critical think tanks and contractors" in the legacy space. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:35:54-1:36:33, 1:37:27-1:40:06)*

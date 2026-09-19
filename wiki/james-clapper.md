@@ -27,6 +27,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Former Director of National Intelligence (DNI), USDI, and DIA Director. Gerb casts Clapper as
@@ -104,3 +106,7 @@ succeeding [[dick-cheney]]. *([gerb/mitre](../raw/gerb/mitre.md) 5:11–5:18)*
   [[michael-dempsey]] reported directly to him at ODNI; alleged to have given
   [[advanced-aerospace-threat-identification-program|ATIP]] top cover via
   [[luis-elizondo]]'s [[national-program-special-management-staff|NPMS]] directorship.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: after Cheney, Clapper (DNI) with PDDNI [[stephanie-osullivan]], [[michael-dempsey]] and DNRO Betty Sapp is described as "mob boss in a severely diminished capacity"; Gerb says AATIP (2009/12-2017) was a cover for NSC activities with Clapper's top cover for a partial-disclosure initiative and that AATIP personnel refused to answer questions about Clapper without him present; [[immaculate-constellation]] arose in Clapper's "sunset years". *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:05:26-2:05:51, 2:16:46-2:18:34)*

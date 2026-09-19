@@ -23,6 +23,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Wright-Patterson Air Force Base in Dayton, Ohio, was headquarters of Air Materiel Command (AMC)
@@ -79,3 +81,7 @@ and Air Research and Development Command (ARDC) — forerunners of the modern
 ## Additional claims (gerb/mj12)
 
 - SOM1-01 sends deceased entities to the Wright-Patterson "Blue Room"; Gerb recalls Barry Goldwater being refused entry by [[curtis-lemay]]. Wood: Blue Lab. Gerb also notes the IPU field order and Twining's Army Air Materiel Command at Wright Field. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 38:59, 39:07, 36:41, 1:14:18)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb repeatedly flags Wright-Patterson (then Wright Field) as a "major node": Roswell materials and biologics went there, Sarbacher's R&D Board meetings were held there, and AMC/ARDC/AFSC/AFMC/AFRL/AFLCMC are headquartered there. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 25:42-26:20, 37:53-38:07, 1:44:05-1:44:58)*

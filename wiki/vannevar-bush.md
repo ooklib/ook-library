@@ -47,6 +47,8 @@ sources:
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Dr. Vannevar Bush is presented as the intellectual architect of the modern
@@ -148,3 +150,7 @@ Dr. Vannevar Bush is presented as the intellectual architect of the modern
 - Bush marginalia on the [[bowen-manuscript]] allegedly hint at anti-gravity craft and read "this should not get out"; Bush underlines the 1942 Mussolini/Hitler craft passage. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:28:21, 1:37:05)*
 - Bush also allegedly wrote Eisenhower about "celestial gifts" of crashed UFOs and was told to be quiet and win the war. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:07:06)*
 - Gerb's 1950 Sarbacher link: Bush directing UFO study since c. 1950. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:35:37)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: pivotal Manhattan Project to UFO-effort figure heading the "small group" in Smith's 1950 memo and the science teams in Kissner's statement; Gerb: "Dr. Vannevar Bush always pops up here". *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 23:47-23:56, 36:27-36:39, 40:04-40:11, 1:48:39-1:48:47)*

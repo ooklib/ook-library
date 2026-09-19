@@ -22,6 +22,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 John Piña Craven, described as senior scientist of the Navy Special Projects Office, is credited
@@ -74,3 +76,7 @@ by Gerb with the "seventh veil" analogy for extreme compartmentation. *([gerb/mi
 - Spearheaded [[operation-sand-dollar]] within the [[polaris-program]], testing conducted at
   [[tonopah-test-range]]; his Sand Dollar-nesting account is cited as a structural analogy to
   [[yellow-fruit]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: led DSSP (1964) and was briefed on Sand Dollar in 1965; see [[deep-submergence-systems-project]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:02:01-1:03:50)*

@@ -23,6 +23,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 The Armed Forces Special Weapons Project (AFSWP), a joint Army-Navy venture to manage nuclear
@@ -88,3 +90,7 @@ claims. *([gerb/sandia](../raw/gerb/sandia.md) 18:19–19:30)*
 - Technical director role held by [[edward-dahl]] in 1959.
 - Named in [[j-andrew-kissner]]'s testimony and the disputed Interplanetary Phenomenon Unit
   documents as present at the [[roswell-incident-1947|Roswell]] recovery.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Dahl was AFSWP technical director at Upshot-Knothole; Kissner says AFSWP at Sandia Base provided personnel support to the 1947 disc operations. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 43:23-43:41, 1:49:07-1:49:31)*

@@ -44,7 +44,7 @@ supervised by [[john-b-alexander|Col. John B. Alexander]]) was held — one year
 - Acquired by [[trw|TRW]] in 1997. BDM's board also included Rear Admiral
   [[sumner-shapiro|Sumner Shapiro]], former Director of Naval Intelligence, who
   [[bobby-ray-inman|Bobby Ray Inman]] recommended in the late 1980s as a point of contact on
-  recovered UFOs, and who reportedly confirmed to NASA mission specialist Bob Echler that he had
+  recovered UFOs, and who reportedly confirmed to NASA mission specialist Bob Oechsler that he had
   studied recovered nonhuman vehicles up close. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 44:42–45:54)*
 - [[mary-sturtevant|Mary K. Sturtevant]] worked at BDM on defense/arms-control research and
   technology transfer before her government career. *([gerb/nro](../raw/gerb/nro.md)

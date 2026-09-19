@@ -12,6 +12,8 @@ relations:
 sources:
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Presidential Emergency Action Documents (PEADs) are classified presidential directives/executive
@@ -41,3 +43,7 @@ and legally empowered the earliest UFO legacy-program (alleged "Manhattan Projec
 
 - Term UAP Gerb attributes to [[eric-davis]]; cited as the legal mechanism underpinning the
   earliest [[manhattan-project-2|Manhattan Project 2.0]] custody and control-group arrangements.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb dates the classified PEADs to 1948-1954 (Truman groundwork, Eisenhower the "lion share"), covering custody of recovered UFOs by AEC national labs (Los Alamos, Oak Ridge, Sandia, Livermore), the scientific FFRDC/UARC infrastructure under [[vannevar-bush]] with armed-forces support, and the NSC covert-activities structure as control group. He dates the start to around or shortly before [[nsc-10-2]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 33:46-34:51)*

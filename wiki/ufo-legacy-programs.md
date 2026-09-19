@@ -22,6 +22,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Gerb's umbrella term for the alleged, decades-old, fragmented network of US government,
@@ -157,3 +159,7 @@ vehicles" (UFOs), running from 1947 to the present. *([gerb/mitre](../raw/gerb/m
 
 
 - Cross-link (wiki-internal, Rockefeller/UFO thread): host speculates [[laurance-rockefeller]]'s 1980s-90s UFO-conference funding was a psychological operation diverting attention from experimental military tech. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 24:07-24:49)*
+
+## Additional claims (gerb/timeline)
+
+- [[legacy-program-timeline]] (`gerb/timeline`) is Gerb's 2026 macro-chronology of the pyramid, from Magenta 1933 to 2026 in three epochs: [[golden-era-1947-1978]], [[cold-war-reorganization-1978-1994]], [[modern-era-1994-present]]. He restates the definition (once-national, now siloed covert effort for retrieval, storage, exploitation, derivation and reverse engineering of non-human technical vehicles and occasional biological occupants) and estimates only 40-50 living people can see across program silos. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 4:01-4:19, 12:33-15:32)*

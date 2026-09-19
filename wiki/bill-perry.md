@@ -24,6 +24,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 William (Bill) Perry, as Secretary of Defense, enacted 1994 reforms significantly strengthening
@@ -56,3 +58,7 @@ protecting UFO programs. *([gerb/mitre](../raw/gerb/mitre.md) 1:44:52–1:45:32)
 ## Claims (from "The Wilson Davis Memo" video)
 
 - Named in the notes (with [[h-marshall-ward|Gen. Ward]]) as advising Wilson to search the OUSD (A&T) special records group, "organized in '94 by Perry himself." *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 9:49-10:29)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: with Les Aspin gave the July 1993 speech launching the [[defense-industrial-base-last-supper]]; his 1994 expansion of SAP management powers (SAPOC/SRG) featured in the [[1994-control-group-reorganization]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:45:00-1:45:23, 1:55:42-1:55:57)*

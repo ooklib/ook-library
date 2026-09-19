@@ -20,6 +20,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 The NSC 5412 Committee ("Special Group"), established by President Eisenhower on 15 March 1954
@@ -73,3 +75,7 @@ Project 2.0" UFO legacy programs, including a hidden [[majestic-12|MJ-12]] contr
 ## Additional claims (jm/kissinger)
 
 - [[jesse-michels]]: the 303 Committee (successor, overseeing all covert operations, Kissinger involved) and the 40 Committee that followed are described as small high-level teams (NSA, CIA, State, Defense) approving covert actions with presidential deniability, and are said by some researchers to be interchangeable with MJ-12; Michels speculates MJ-12 could have evolved into a CIA-style autonomous operation. See [[henry-kissinger]]. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 48:25, 48:38, 48:47, 49:11, 49:21, 49:36, 49:53, 50:04)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: approved March 1954; original membership (deputy under secretary of state, deputy under secretary of defense, national security adviser, DCI as action officer); Gerb says it held the MAG 12 and mirrored the [[top-policy-group]] (small read-in group, minimal paper trail, presidential control through a trusted intermediary); renamed the 303 Committee by NSAM 303 (June 1964, LBJ) - "little more than a name change" for tracking the Majestic 12 into the Nixon years. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 49:09-50:53, 1:01:30-1:01:59)* Preceded by [[nsc-10-2]] in Gerb's chain.

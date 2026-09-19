@@ -19,6 +19,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Boeing has primary offices in [[crystal-city-virginia|Crystal City]] and is listed with less
@@ -35,3 +37,7 @@ confidence among contractors Gerb suspects are involved in MITRE's UFO work. *([
 ## Additional claims (CIA-Mafia Legend)
 
 - Host: TWA's 1961 purchase of Boeing 707s (over Hughes's preference for the Convair 880); Hughes and Boeing had been in conflict since the 1940s Owen Brewster affair; PanAm long tied to Boeing. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 28:44-30:26)* See [[howard-hughes]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: acquired Rockwell and McDonnell Douglas in 1996-97, one of the "big five" after the [[defense-industrial-base-last-supper]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:45:32-1:46:00)*

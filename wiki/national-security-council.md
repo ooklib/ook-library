@@ -26,6 +26,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 The National Security Council historically housed the covert-activities oversight structure for
@@ -76,3 +78,7 @@ evolving into the "committee of 27" [[ufo-control-group]] formed in 1994. *([ger
 
 
 - Host: the national security adviser post was technically created by the 1947 National Security Act (same act as the NSC, USAF and CIA) but institutionalized in 1953 under Eisenhower with Robert Cutler as first White House-level adviser; Ike went through four; Gordon Gray was arguably the first to matter; [[mcgeorge-bundy]] (from January 1961) made it one of the government's most influential posts. Host claims Bundy, Kissinger and Brzezinski all came out of Rockefeller-sponsored policy shops (CFR, Harvard). *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 43:03-45:01)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb repeatedly asserts the NSC "covert activities oversight structure" (NSC 10/2, 5412 Committee, 303 Committee) as the golden-era control group and the seat of the UFO portfolio until 1978/1994; [[immaculate-constellation]] is described as originating within the NSC (2017). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 14:31-14:50, 32:12-32:28, 1:15:15-1:15:31, 2:18:41-2:19:01)*

@@ -34,6 +34,8 @@ sources:
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Dr. Robert Sarbacher, a respected physicist and 1950s consultant to the DoD's Research and
@@ -94,3 +96,7 @@ Dedicated deep-dive video. Sarbacher: physicist, Einstein student, Harvard gradu
 ## Additional claims (gerb/mj12)
 
 - Gerb: Sarbacher's naming of Vannevar Bush as directing UFO study dates to about 1950; insect-like beings echo the [[bowen-manuscript]]. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:35:29, 1:36:42)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb recaps Sarbacher (Georgia Tech dean, R&D Board consultant) as the nexus of Smith's information; his statements (light, tough materials; insect-like beings; attended-not meetings at Wright-Patterson with von Neumann, Bush, Oppenheimer) and names [[eric-a-walker]] as an attendee. Gerb notes Sarbacher has been "largely wiped from the annals of history". *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 36:48-39:22, 1:34:20-1:34:35)*

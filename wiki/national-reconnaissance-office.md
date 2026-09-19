@@ -58,6 +58,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 The National Reconnaissance Office develops, acquires, launches, and operates US intelligence
@@ -212,3 +214,7 @@ shared office threads Gerb draws between them. *([gerb/nro](../raw/gerb/nro.md)
 
 
 - Host mentions only that [[richard-bissell]] headed the CIA spy plane and Corona spy satellite programs, and (allegedly) was offered development of the Lockheed A-12. Wiki-internal observation: this page's `gerb/nro` claims name Bissell as first NRO co-director; the Eyes Wide Open transcript does not mention the NRO. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 15:47-16:27)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb repeats that funds were misappropriated in 2017 for joint NRO-Air Force legacy activity and cites Aldridge's dual NRO/Air Force role; NRO satellite data feeds figure in [[immaculate-constellation]]; DNRO Betty Sapp named among Clapper's associates. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:25:21-1:25:47, 2:05:35-2:05:51, 2:19:26-2:19:42)*

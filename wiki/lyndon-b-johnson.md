@@ -29,6 +29,8 @@ sources:
     label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Lyndon Johnson appears in War Conspiracy 1 as one of the two politicians (with [[richard-nixon]])
@@ -84,3 +86,7 @@ whom [[eyes-wide-open]] says the [[china-lobby]] "effectively elevated," and who
 ## Additional claims (jm/malmgren)
 
 - [[harald-malmgren]] says that in October 1964 (arriving from DoD) he was sent secretly to Tokyo to see PM Sato with a message asking Japanese textile-export restraint, the origin of voluntary export restraints, and that LBJ went to Los Alamos after Bluegill. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 3:26:59-3:31:11, 1:11:32-1:11:56)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb names LBJ (with Nixon) as a president "absolutely involved" in the programs, via NSAM 303 (June 1964) and his relationship with [[eric-a-walker]]; the day after Kecksburg he coordinated national security advisers (including James Webb) at the Texas White House. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:01:30-1:01:59, 2:35:55-2:36:20)*

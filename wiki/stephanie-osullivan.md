@@ -40,6 +40,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Stephanie O'Sullivan served as Principal Deputy Director of National Intelligence (PDDNI) under
@@ -93,3 +95,7 @@ began (2011) and program control shifted (2017), which he calls out as likely mo
   at [[battelle-memorial-institute]], [[booz-allen-hamilton]],
   [[huntington-ingalls-industries]], [[oak-ridge-national-laboratory]], [[in-q-tel]] (alongside
   [[glenn-gaffney]]), and [[peraton]] (alongside [[robert-cardillo]]).
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: named with Clapper, Dempsey and DNRO Betty Sapp as the post-Cheney "goons"; also a DS&T alumna. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:01:09, 2:05:35-2:05:51)*

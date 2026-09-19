@@ -20,6 +20,8 @@ sources:
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Home of the 412th Test Wing and an MRTFB (Major Range and Test Facility Base), listed by Gerb
@@ -68,3 +70,7 @@ ranges. *([gerb/mitre](../raw/gerb/mitre.md) 52:21–52:55)*
 ## Additional claims (gerb/dugway)
 
 - Gerb again cites witness "Ed"'s claim of a joint reverse-engineering program between the Edwards 412th Test Wing and the Nevada Test and Training Range as the model for a proposed Army/Air Force program at [[dugway-proving-ground]] and the [[utah-test-and-training-range]]. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 8:45, 16:08, 16:17, 56:40, 1:05:46)*)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb repeats that Edwards (412th Test Wing MRTFB) is the test-and-evaluation hub for piloting NHI craft, ARVs and derivative airframes, and dates the "go public" campaign to the hidden wing there ([[air-force-go-public-campaign]]). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:44:20-1:44:52, 2:05:54-2:06:30)*

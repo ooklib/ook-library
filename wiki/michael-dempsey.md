@@ -19,6 +19,8 @@ relations:
 sources:
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Michael Dempsey served briefly as acting Director of National Intelligence under the first Trump
@@ -53,3 +55,7 @@ government affairs. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:29:22â€
 
 - Reported to [[james-clapper]] and worked alongside [[stephanie-osullivan]] at ODNI; moved to
   [[northrop-grumman]] as VP for government affairs; prior CIA career included WINPAC.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Deputy DNI for Intelligence Integration, one of Clapper's post-2009 team. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:05:35-2:05:51)*

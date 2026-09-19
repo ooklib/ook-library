@@ -66,6 +66,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Sandia National Laboratories, born from [[los-alamos-national-laboratory|Los Alamos]]'s Z
@@ -252,3 +254,7 @@ DoD/IC oversight channels. *([gerb/sandia](../raw/gerb/sandia.md) 5:44–6:03, 8
 ## Additional claims (jm/kissinger)
 
 - [[jesse-michels]] ties Sandia to [[eric-henry-wang]] (from 1956), Kissinger's seminar host [[don-carter]], and the [[bluegill-triple-prime]] recovery via the Albuquerque office of [[lawrence-preston-gise]]. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 4:35, 31:28, 32:06, 33:10, 33:17)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Wang's special-studies department moved to the Sandia complex at Kirtland in 1956; Kissner mentions Los Alamos's Z Division at Sandia Base in 1947 UFO housing and study. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 45:52-46:10, 1:48:55-1:49:07)*

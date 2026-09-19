@@ -17,6 +17,8 @@ relations:
 sources:
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 The Top Policy Group was the small, tight-knit civilian/political oversight body through which
@@ -52,3 +54,7 @@ program pyramid. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:24:39–1:25:04)
 - Historical template, per UAP Gerb, for the [[ufo-control-group]] and the
   [[nsc-5412-committee]].
 - Membership included [[vannevar-bush]] and [[george-c-marshall]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: model for the NSC 5412 Committee's small, presidentially controlled structure via a trusted intermediary. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 50:23-50:37, 2:35:24-2:35:38)*

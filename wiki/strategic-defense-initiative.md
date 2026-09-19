@@ -38,6 +38,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 President Ronald Reagan's 1983 Strategic Defense Initiative (SDI, "Star Wars") was a proposed
@@ -111,3 +113,7 @@ programs.
 ## Additional claims (jm/malmgren)
 
 - Host speculation: [[bluegill-triple-prime]] inspired Edward Teller's X-ray Excalibur designs, the basis of Reagan's SDI; SDI's satellite tracking network is likened to an "immaculate constellation" for UFO shootdown/tracking; and, if the shootdown idea came from the Roswell survivor (per Malmgren via his daughter), SDI may have been dual-use. *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:28:18-1:29:13)**)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: dated to March 1983; Gerb repeats that SDI funds were back-channelled to legacy programs and that space-based SDI systems had a secondary role targeting UFOs, an idea he thinks was conceived under Eisenhower. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:20:15-1:21:00)*

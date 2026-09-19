@@ -41,6 +41,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Northrop Grumman has primary offices in [[crystal-city-virginia|Crystal City]] and is listed
@@ -133,3 +135,7 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
 ## Additional claims (jm/townsend-brown)
 
 - Floyd Odom, majority owner of Northrop pre-merger, invested in [[guidance-technologies]]; 1968 electro-aerodynamics paper retracted; [[b-2-stealth-bomber]] allegedly uses Brown-type effect. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 25:07-27:33)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: acquired [[trw]] in December 2002 (Gerb's "most crucial" Last Supper deal); TRW Systems Group and its special projects division went into Mission Systems, where Gerb believes much of Northrop's UFO portfolio sits; Northrop and Lockheed are the modern era's most important legacy contractors; see [[gwot-breakaway-programs]] and [[defense-industrial-base-last-supper]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 44:19-45:00, 2:00:55-2:01:47, 2:03:11-2:04:57)*

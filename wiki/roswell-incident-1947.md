@@ -44,6 +44,8 @@ sources:
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -151,3 +153,7 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
 
 - Majestic documents (EBD, IPU report, White Hot report) center on Roswell: IPU report notes 23:32 MST loss of radar, two sites, deaths of Sandia technicians from contamination, and an early Mogul-balloon theory dropped after Los Alamos assessment. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 17:01, 20:13, 21:19, 22:03)*
 - Gerb cites Brig. Gen. Steven Lovekin observing Roswell debris in a classified Blue Book portion. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 9:43)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Roswell is "the impetus" of the legacy programs; Gerb judges that one or more (likely several) manned craft were recovered around Roswell/White Sands, processed at Roswell Army Airfield (509th Bomb Group) and biologics/materials taken to Wright Field, with a press blackout after retracted press releases. He believes it was among the first retrievals with humanoid biologics and somewhat comprehensible technology, and that the Truman-era secrecy was to avoid panic and to seek asymmetric advantage; real reverse engineering only began in the late 1950s. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 25:09-28:23)* He speculates powerful triangulated Southwest radar sites (e.g. the 76th AC&W site at Alvord, per Scott and Suzanne Ramsey) interfered with the craft, and rejects Chris Sharp's reported sources (and Annie Jacobsen) claiming Roswell was man-made. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:33:07-2:33:42, 2:31:54-2:32:11)* The 1995 [[gao-roswell-report-1995]] and Gerb's "Roswell as impetus" are collected in the [[legacy-program-timeline]].

@@ -14,6 +14,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Wilbert B. Smith was a senior radio engineer in the Canadian government's Department of Transport who, in 1950, asked for Canada's first official UFO investigation. His memo relays four claims from an unnamed "source within Washington", identified by UAP Gerb as [[robert-sarbacher]].
@@ -28,3 +30,6 @@ Wilbert B. Smith was a senior radio engineer in the Canadian government's Depart
 
 - Briefed by [[robert-sarbacher]]; started [[project-magnet]].
 
+## Additional claims (gerb/timeline)
+
+- Timeline video: used as the first "estimate of the situation" of the [[golden-era-1947-1978]] - the Nov 1950 memo, classified top secret until 15 Sept 1969, obtained by Bray and Friedman in 1978, stating the subject outranks the H-bomb and a small group under [[vannevar-bush]] is working on it; Gerb says it proves the UFO effort was classified above the H-bomb from the start. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 34:57-36:48, 39:30-40:11)*

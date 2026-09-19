@@ -12,6 +12,8 @@ relations:
 sources:
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Matthew "Quake" Sullivan, a decorated Air Force veteran (Bronze Star for Valor, Operation
@@ -36,3 +38,7 @@ this as a possible example of "wet works" against a prospective whistleblower.
 
 - Air Force intelligence source and friend of [[david-grush]]; his death is cited by Gerb as a
   possible example of program-protection "wet works."
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: cited as having worked on the legacy program in a dual-headed unacknowledged capacity while at [[national-air-and-space-intelligence-center]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:02:57-2:03:08)*

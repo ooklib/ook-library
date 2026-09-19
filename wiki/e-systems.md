@@ -21,6 +21,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 A large American aerospace/electronics/airlines conglomerate operating 1961–2001 under the name
@@ -58,3 +60,7 @@ it Raytheon Intelligence and Information Systems. *([gerb/nro](../raw/gerb/nro.m
   [[central-intelligence-agency]], and [[national-security-agency]]; alleged builder of Project
   Pounce's "equalizer" weapon per [[colonel-steve-wilson]]; former employer of
   [[edward-c-aldridge]]; named alongside [[trw]] in a 1982 CIA DS&T IRAD-channeling memo.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Raytheon purchased it in the Last Supper era; Gerb calls it the former LTV Aerospace and "a CIA cutout shell company". *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:46:00-1:46:08)*

@@ -56,6 +56,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Richard Nixon appears in this episode as a junior California congressman who built his
@@ -145,3 +147,7 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
 ## Additional claims (jm/kissinger)
 
 - [[jesse-michels]]: Kissinger, once calling Nixon "the most dangerous candidate", became his national security adviser; Nixon allegedly (per Jackie Gleason's ex-wife) took [[jackie-gleason]] to see alien bodies; Nixon used [[harald-malmgren]] to check [[henry-kissinger]]. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 45:35, 47:12, 47:20, 51:07)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: [[executive-order-11652]] (1972) as the "first domino"; Gerb says Nixon was "well-versed and involved" in the programs; the 303 Committee continued into his administration. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:04:39-1:05:58, 2:35:55)*

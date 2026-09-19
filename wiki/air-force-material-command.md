@@ -26,6 +26,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 The predecessor commands Air Materiel Command (AMC) and Air Research and Development Command
@@ -121,3 +123,7 @@ legacy-program crash-retrieval-era claims. *([gerb/hidden_wing](../raw/gerb/hidd
 - Test-and-evaluation core mission area (AFTC/412th Test Wing) at
   [[edwards-air-force-base|Edwards AFB]] is Gerb's proposed institutional umbrella for the
   [[hidden-wing-air-force-program]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: AFMC formed July 1992 from Air Force Logistics Command and [[air-force-systems-command]]; FY2025 budget of $82.9B; centers include [[air-force-research-laboratory]] (Wright-Patterson), the Air Force Test Center (Edwards), and [[air-force-life-cycle-management-center]]. Gerb argues every precursor - [[air-materiel-command]] (Roswell-era), ARDC/AFSC, [[air-force-special-weapons-center]] - was heavily involved in UFO activities, and names Wright-Patterson and Edwards "the Air Force's two most critical legacy program locations". *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:40:17-1:44:58)*

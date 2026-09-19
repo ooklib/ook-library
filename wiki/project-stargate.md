@@ -20,6 +20,8 @@ relations:
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Project Stargate was a joint, secret Army/DIA/CIA/SRI-International-contractor program (begun
@@ -66,3 +68,7 @@ Centerlane (DIA). *([gerb/saic](../raw/gerb/saic.md) 1:42:34–1:43:21)*
 
 - Founded/sponsored by [[albert-stubblebine]]; originated at [[sri-international]]; consolidated
   at [[science-applications-international-corporation]] in 1991.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: SAIC took over Stargate and the government psi research (remote viewing, telekinesis) in 1991; Gerb agrees with Grusch that the legacy program and psi research are linked, e.g. to interface with or "unlock" recovered non-human technologies. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:35:54-1:37:25)*

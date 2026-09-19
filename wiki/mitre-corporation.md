@@ -80,6 +80,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 MITRE Corporation is a nonprofit, semi-private [[ffrdc|FFRDC]] operator, "spun up" by the US
@@ -248,3 +250,7 @@ Group]] of elite science advisers has been administered through MITRE since 1960
 - Administers the [[jason-advisory-group]]; board seat held by [[dawn-meyerriecks]]; former
   technical staffer [[martin-faga]] went on to become 10th director of the
   [[national-reconnaissance-office]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: MITRE (July 1958, modelled on RAND, SAGE, Navy special projects) described as "the most paramount FFRDC" in legacy history; Gerb proposes it was secretly established to reverse engineer specific technologies from Roswell and other late-1940s crashes, that this was "a tremendous success" now integrated into "waralttering" warfighter systems, and links its Bahamas USO monitoring to a SAGE-undersea equivalent (NURO, Ivy Bell). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 58:23-1:00:02)* See also [[mitre-briefing-restriction]] (2007/2011 briefing embargo on legacy history). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:07:07-2:07:50)*

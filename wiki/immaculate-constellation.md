@@ -29,6 +29,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 An alleged National Security Council unacknowledged Special Access Program (USAP), established in
@@ -88,3 +90,7 @@ craft and derivative technologies (parallel to, but siloed from, decades-older l
   [[luis-elizondo]] to [[tom-delonge]]; delivered to Congress by [[matthew-brown]]; confirmed as
   an NSC program by [[david-grush]]; theorized by Gerb as an intelligence
   [[special-access-program|SAP]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: 2017 entry - an NSC unacknowledged SAP created in the sunset years of AATIP and Clapper's DNI tenure, a "catcher's mitt" siphoning UFO signatures from NGA/NRO satellite, RQ-4 Global Hawk and SIGINT feeds into a centralized repository; Gerb thinks it was an NSC legacy-program intelligence SAP to regain control and read on breakaway/foreign reproduction vehicles, and links it to the Tom DeLonge NRO-adviser prediction story and Grusch's comments on systems erasing UAP data from analysts. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:18:34-2:21:49)*

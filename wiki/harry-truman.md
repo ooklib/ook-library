@@ -36,6 +36,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
     label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Harry Truman was President of the United States when, per Eyes Wide Open, he lost faith in
@@ -92,3 +94,7 @@ with [[roscoe-hillenkoetter]] as (per the host) first director of the CIA.
 - War Conspiracy 1: [[nsc-68]], [[korean-war]], [[china-lobby]] pressure.
 
 - ewa/willoughby-2: host: ordered atomic bombs on Hiroshima and Nagasaki on 6 and 9 August 1945, ending planning for Operation Downfall (MacArthur's invasion plan). *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 1:23:21-1:23:51)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: signed the [[national-security-act-1947]] and [[nsc-10-2]] (1948); Gerb credits him with laying the groundwork (including the MAG 12) that Eisenhower completed, and says Truman was heavily involved in classified executive orders. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 29:29-30:33, 30:45-31:54, 34:13-34:23, 2:35:02-2:35:10)*

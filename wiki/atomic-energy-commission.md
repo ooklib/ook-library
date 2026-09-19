@@ -37,6 +37,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 The Atomic Energy Commission (AEC), created by the 1946 Atomic Energy Act, was the civilian
@@ -134,3 +136,7 @@ administration|NNSA]] UFO legacy-program gatekeeping structure. *([gerb/sandia](
 ## Additional claims (gerb/nukes)
 
 - [[uap-gerb]] says the AEC was split into the DOE and the [[nuclear-regulatory-commission]] in 1974, and that the AEC misclassified UFO records in 1954 under "transclassified foreign nuclear material". *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 12:33-12:58)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: per PEADs and Kissner, AEC national laboratories were given custody of recovered discs by classified presidential executive order (July 1948). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 34:22-34:36, 1:50:31-1:50:49)*

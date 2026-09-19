@@ -32,6 +32,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Edward C. Aldridge (nicknamed "Pete Aldridge," rendered "Edward Aldrich" throughout the ASR
@@ -86,3 +88,7 @@ compares his CV to fellow "Rogues Gallery" figure [[donald-kerr|Donald Kerr]]'s,
   1981–1986; later Secretary of the Air Force, president of [[mcdonnell-douglas]], and CEO of the
   [[aerospace-corporation]]; alleged architect of [[saf-aa]]'s "outside activities" cover
   structure, bypassing the component-level [[special-access-program-central-office|SAPCO]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb stresses his dual roles (Under Secretary/Secretary of the Air Force 1981-88, NRO director 1981-88, Aerospace Corp CEO, McDonnell Douglas president, USD AT&L 2001-03) and "theorizes with the utmost confidence" he was a senior executive in joint NRO-Air Force legacy programs; the SAF/AA "outside activities" began "in Pete Aldridge's day". *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:22:29-1:25:30)*

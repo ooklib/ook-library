@@ -33,6 +33,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 The Wilson-Davis notes are disputed but (per Gerb) "highly likely accurate" notes transcribed
@@ -171,3 +173,7 @@ Gerb's introductory documentary walks through the 15-page notes line by line. Al
 ## Relationships (added)
 
 - Leaked by [[james-rigney]] from [[edgar-mitchell]]'s estate; attested by [[christopher-mellon]], [[ross-coulthart]], [[richard-dolan]], [[luis-elizondo]]; denied by [[thomas-wilson]] to [[billy-cox]]; features [[watch-committee]] and [[bigot-list]] concepts.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb lists six things the notes reveal (programs exist; a reorganization followed near-exposure; USD(A&S) held records; waived unacknowledged SAP carve-out; watch committee and SAPOC SRG protected from inside access; no White House/president/Congress on the bigot list, consistent with 1994). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:58:32-1:59:58)*

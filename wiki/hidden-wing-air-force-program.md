@@ -22,6 +22,8 @@ sources:
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 "The Hidden Wing" is Gerb's name — coined and given a full dedicated investigation in this
@@ -122,3 +124,7 @@ firsthand experience. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 36:01–3
 ## Additional claims (gerb/dugway)
 
 - The Dugway video reuses the Hidden Wing thesis (joint MRTFB legacy programs) to argue for a parallel Army/Air Force program at [[dugway-proving-ground]] and the [[utah-test-and-training-range]]; see [[west-desert-test-center]]. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 8:45, 56:40, 1:05:46)*)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: ties the hidden wing at AFTC/Edwards 412th Test Wing to the 2009-2012 [[air-force-go-public-campaign]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:05:54-2:06:30)*

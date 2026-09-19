@@ -13,6 +13,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 McDonnell Douglas Aircraft Company employed [[paul-czysz|Dr. Paul Czysz]] for 30 years on
@@ -30,3 +32,7 @@ SDI-era contractors on [[colonel-steve-wilson|Colonel Steve Wilson]]'s "Star War
 ## Relationships
 
 - Employed [[paul-czysz]]; SDI contractor; former president [[edward-c-aldridge]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: acquired by [[boeing]] 1996-97 in the [[defense-industrial-base-last-supper]]; [[edward-c-aldridge]] was its president. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:24:00-1:24:08, 1:45:52-1:46:00)*

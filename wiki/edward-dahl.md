@@ -21,6 +21,8 @@ relations:
 sources:
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Dr. Edward Bushnell Dahl (1912–1998; the source transcript's ASR renders his surname
@@ -70,3 +72,7 @@ study of figures today." *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 19:2
   the [[armed-forces-special-weapons-project]] and [[sri-international]] before three decades at
   [[trw]] (Space Technology Laboratories → TRW Systems Group), now absorbed into
   [[northrop-grumman]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb traces Dahl - Project Alberta, Stanford physics chairman, SRI, technical director of AFSWP programs at Upshot-Knothole, TRW/STL from 1955, senior VP of TRW Systems Group until the late 1970s - and says Dahl's TRW Systems Group and its "special projects division" were absorbed into [[northrop-grumman]] Mission Systems in the December 2002 TRW acquisition, thus connecting Kingman to Northrop's modern UFO portfolio. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 42:37-44:59, 2:01:27-2:01:39)*

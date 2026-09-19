@@ -18,6 +18,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 J. Andrew Kissner, a former New Mexico State Representative (the video's ASR consistently renders
@@ -80,3 +82,7 @@ says he separately contacted Kner directly and found him credible. *([gerb/sandi
 - Investigator of the [[roswell-incident-1947]]; sourced claims from personnel at
   [[sandia-national-laboratories]] and other AEC labs; his account references
   [[vannevar-bush]] and the [[armed-forces-special-weapons-project]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: 1994 statement used as the second estimate of the situation, spanning 1947-1994 (Roswell/White Sands crashes May-July 1947, T-Force-like units securing discs, teams under Vannevar Bush and the R&D Board, Los Alamos/Sandia, AMC and AFSWP support, DTM, MIT/Brookhaven/RAND/NACA/Rockefeller Institute staff, custody vested in the AEC by classified executive order of July 1948). Gerb says he has spoken to Kissner personally and "strongly" believes him; Kissner's disclosures prompted [[steven-schiff]]'s [[gao-roswell-report-1995]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:46:16-1:52:35, 1:56:31-1:57:02)*

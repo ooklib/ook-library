@@ -18,6 +18,8 @@ relations:
 sources:
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 The Air Force Special Weapons Center (AFSWC) operated 1949–1976 out of
@@ -56,3 +58,7 @@ simultaneously: via AFRL, and via AFSC (which itself became half of AFMC in 1992
   1976/1992; part of [[air-force-material-command]] through both the AFRL and Air Force Systems
   Command lineages.
 - Employed [[eric-henry-wang]] as head of its Department of Special Studies.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Wang's unit sat in AFSWC's research directorate at Kirtland (founded 1949; subordinate to ARDC/AFSC); its office of primary responsibility was absorbed into AFRL. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 46:04-46:41)*

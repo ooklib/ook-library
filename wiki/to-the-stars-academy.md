@@ -25,6 +25,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 To the Stars Academy, founded by musician [[tom-delonge|Tom DeLonge]] ("Tom Dong" per ASR),
@@ -77,3 +79,7 @@ EVP Rob Weiss, and 30+-year Skunk Works veteran Steve Justice. *([gerb/nro](../r
   [[lockheed-martin]] Skunk Works personnel; theorized link to
   [[bigelow-aerospace-advanced-space-studies]]'s Project Forum; vehicle for
   [[advanced-aerospace-threat-identification-program|ATIP]]'s partial-disclosure campaign.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: named with [[john-podesta]], Gen. McAlant and Lockheed Skunk Works personnel in the alleged AATIP-era partial-disclosure effort. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:17:06-2:17:21)*

@@ -22,6 +22,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 AFRL, under [[air-force-material-command|Air Force Material Command]] at Edwards AFB, is where
@@ -63,3 +65,7 @@ uncovered "irrefutable evidence of UFO legacy program operations."
 - Part of [[air-force-material-command]]; employed [[eric-davis]] and [[sean-kirkpatrick]].
 - Institutional successor (via AFWL) to the [[air-force-special-weapons-center]] that once
   employed [[eric-henry-wang]]; commander appointed as TEO by [[saf-aq]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: in the AFMC lineage (AFSWC to AFRL), "a notorious center" per Gerb, and one of the AFMC pieces active in the legacy programs. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 46:33-46:52, 1:40:52-1:41:44)*

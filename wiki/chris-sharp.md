@@ -21,6 +21,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Chris Sharp, a journalist with the Liberation Times, is cited by Gerb for his article "UFO
@@ -55,3 +57,7 @@ reported sources describing a vehicle or vehicles of unknown origin stored at
 ## Additional claims (gerb/magenta)
 
 - Gerb cites his 2021 Liberation Times article "All UFO Disclosure Roads Lead to Rome" as the source for the Mussolini-Pius XII confiding and the leak to the US, calling him well-respected. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 20:04-21:04)* See [[magenta-italy-crash-1933]], [[pope-pius-xii]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb cites a recent Sharp article on Magenta and Nazi UFO programs, including Nazi collaboration with "Nordic" beings and a claim that Roswell was man-made, which Gerb rejects. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:30:51-2:32:11)*

@@ -40,6 +40,8 @@ sources:
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -213,3 +215,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 ## Additional claims (gerb/magenta)
 
 - Gerb opens with Grush's statement (to [[ross-coulthart]], NewsNation) that 1933 Magenta was the first European recovery; the Italian government moved a partly intact vehicle to a secure airbase until 1944-45 and the Vatican back-channelled this to the Americans, "and we ended up scooping it". *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 0:00-1:10, 23:32-23:48)* See [[magenta-italy-crash-1933]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: used as the [[modern-era-1994-present]] estimate of the situation: Grusch (July 2023 testimony, 40+ first-hand witnesses) is credited with establishing that the programs began after Roswell modeled on the Manhattan Project, that they reverse engineer/derive technology (inspiration rather than copying), 25-100 recovered craft, multiple NHI taxonomies (bipeds, grays, sentinel plasmoids; vehicles: saucers, sunfish, boots, boomerangs, crescents, tic tacs, eggs), FFRDC/contractor involvement; also cited on Magenta, OPC, 1994 shredding, IRAD breakaways and the "SAP-like" erasure of UAP data. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:21:52-2:25:47, 16:34-16:48, 3:45-4:00)*

@@ -13,6 +13,8 @@ relations:
 sources:
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 William A. Davidson, retired Administrative Assistant to the Secretary of the Air Force
@@ -39,3 +41,7 @@ normal Air Force mission directives. *([gerb/northrop_trw](../raw/gerb/northrop_
 
 - Retired SAF/AA official whose 2018 interview describes the "outside activities" cover programs
   Gerb attributes to [[edward-c-aldridge]]; later joined [[peraton]]'s board of advisers.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: retired SAF/AA whose 2018 interview about "outside activities" is Gerb's example of a cover program. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:21:53-1:22:36)*

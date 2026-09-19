@@ -35,6 +35,8 @@ sources:
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -94,3 +96,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Additional coverage (gerb/dugway)
 
 2025-02-20 video on [[dugway-proving-ground]] ("Area 52"). Gerb reports he located [[witness-ms]] through the DPI archive, interviewed him in June 2024, warns viewers not to visit the alleged [[dugway-deep-underground-military-base]], and plans to interview MS, [[witness-gp]] and a railroad co-worker. He also mentions a personal anonymous Army source and a Patreon. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 31:45, 31:53, 1:08:12, 1:11:32, 1:13:15)*)*
+
+## Additional claims (gerb/timeline)
+
+- The 2026-09-18 timeline video (`gerb/timeline`, 2h44m) is his summary of the whole project catalogue - see [[legacy-program-timeline]]; he says it is meant as a yearly project and stresses that his scope is limited to crash retrieval and reverse engineering. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 10:21-10:35, 2:28:01-2:28:56)*

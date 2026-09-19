@@ -30,6 +30,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Cited by Gerb as an example of a prior alleged UFO crash retrieval before Roswell; he assesses
@@ -78,3 +80,7 @@ Gerb's full video on the case, positioned as "the Roswell before Roswell", with 
 ## Relationships (added by gerb/magenta)
 
 - Documents from [[roberto-pinotti]]; group [[rs-33]]; people [[benito-mussolini]], [[galeazzo-ciano]], [[italo-balbo]], [[guglielmo-marconi]], [[tomaso-david]]; places [[siai-marchetti]], [[mount-soratte-bunker]]; press [[agenzia-stefani]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb uses Magenta as the "preliminary entry", restating Grusch's 2023 NewsNation claim, the Pinotti documents, the RS33 body (Marconi, with his family saying Enrico Fermi actually led it) and the Pius XII/OSS/FDR back-channel; he judges the vehicle a lenticular disc that was unmanned and that the US shelved a dedicated effort until Roswell in 1947. He also says maritime recoveries by ONI before and during WWII are possible. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 16:34-20:43, 2:30:51-2:32:52)* Gerb adds Chris Sharp's recent article on Nazi UFO study programs and reported Nazi collaboration with a "Nordic" species, on which Gerb says he has no information. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:31:05-2:31:29)*

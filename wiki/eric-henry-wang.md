@@ -20,6 +20,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Dr. Eric Henry Wang is, per Gerb, one of the most enigmatic figures associated with early-1950s
@@ -87,3 +89,7 @@ and an April 1961 *Mechanical Engineering* magazine obituary that finally fleshe
 
 - Retold by [[jesse-michels]]: Wang (head of Special Studies at Wright-Patterson) left almost no public trace; [[william-steinman]] in the 1980s found an obituary in a mechanical-engineering magazine: born 1906, from Vienna, Vienna Technical Institute graduate (Michels notes suggestions he was a contemporary of [[victor-schauberger]]), lectured at University of Cincinnati, department moved in 1956 to Sandia/Kirtland; his name endows a civil-engineering facility at the University of New Mexico. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 3:09, 3:18, 3:24, 3:51, 3:59, 4:06, 4:20, 4:27, 4:35, 4:43)*
 - His widow [[maria-wang]] told Steinman he reported directly to [[henry-kissinger]]; see that page. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 5:22, 5:32)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Wang (1953 technical/scientific monitor for the Air Force in Upshot-Knothole; chief of special studies at Wright-Patterson under ARDC; 1949-56 head of special studies at the Wright Air Development Center; department moved to Sandia/Kirtland 1956; died 1960 aged 54) is used to trace a Kingman lineage through [[air-force-special-weapons-center]] into [[air-force-research-laboratory]] and [[air-force-material-command]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 44:52-47:16, 1:42:07-1:42:30)*

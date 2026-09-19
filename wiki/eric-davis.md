@@ -30,6 +30,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Dr. Eric Davis is the physicist who transcribed the [[wilson-davis-notes|Wilson-Davis notes]],
@@ -91,3 +93,7 @@ the estate of the late astronaut [[edgar-mitchell|Edgar Mitchell]].
 - Gerb describes Davis as an astrophysicist with DoD ties, [[advanced-aerospace-threat-identification-program|AATIP]] contributor and chief science officer of EarthTech International; the 38 AATIP-commissioned studies (leaked by [[george-knapp]] in 2018, confirmed by [[black-vault]] via a 2019 FOIA) include Davis's papers on traversable wormholes/Stargates, negative-energy antigravity and quantum-vacuum energy extraction. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 4:06-5:08)*
 - In the notes he was investigating an embedded UFO crash-retrieval program in 2002 and sought out Wilson. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 5:46-6:17)*
 - Refuses to confirm or deny the notes, saying only that they leaked from [[edgar-mitchell]]'s estate and citing prosecution risk for clearance holders. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 20:16-21:59)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb explains Davis's statement (no ARV/derivation success) as referring to the Ryder-era metallurgy program, per a Third Eye Drops/Michael Phillip podcast; the CIA-like "three-letter agency" handed out material pieces so contractor engineers could not identify a recovered craft; Gerb disagrees that no successful reverse engineering has occurred. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:12:06-2:16:15)*

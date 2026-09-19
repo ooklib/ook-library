@@ -25,6 +25,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Top layer of Gerb's [[ufo-legacy-programs|legacy program pyramid]]: a now "nebulous position"
@@ -100,3 +102,7 @@ holding full control. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 1:21:46–1:2
   [[top-policy-group]] and operated through the [[nsc-5412-committee]]; distinct from (though
   possibly overlapping in membership with) the [[special-access-program-oversight-committee]]
   and its Senior Review Group.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: 1994 is dated as the year the portfolio moved from the NSC covert-activities structure into the "quasi industry and US government control group of 27" ([[1994-control-group-reorganization]]); Gerb says the group created "tribes and camps", and that holding the factions together took a "Machiavellian statesman" like [[dick-cheney]] until 2009. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:55:12-1:55:42, 2:26:00-2:26:36, 2:41:04-2:41:20)*

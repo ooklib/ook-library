@@ -81,6 +81,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -292,3 +294,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Claims (from "The Wilson Davis Memo" video)
 
 - In his first video, Gerb guessed Lockheed Martin was the unnamed "best" aerospace contractor coordinating the program in the [[wilson-davis-notes]], citing Grusch and [[harry-reid]]. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 12:33-12:58)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: forms in 1995 from Lockheed and Martin Marietta in the [[defense-industrial-base-last-supper]]; built the DSRVs of [[deep-submergence-systems-project]]; Kona Blue; with Northrop, the most important modern legacy contractor; [[flux-liner-arv-saga]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:03:01-1:03:10, 1:45:52-1:46:08, 2:01:39-2:01:47, 2:07:52-2:11:50)*

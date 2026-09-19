@@ -25,6 +25,8 @@ sources:
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Eric A. Walker was president of Penn State University 1956-1971, chairman of the Institute for Defense Analyses, and executive secretary of the Defense Research Board 1950-51. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 14:00-14:30)* UAP Gerb treats him as the man [[robert-sarbacher]] described as "smug" from Philadelphia at the Wright Field crash meeting. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 12:37-13:10)*
@@ -43,3 +45,7 @@ Eric A. Walker was president of Penn State University 1956-1971, chairman of the
 
 - Ryan Wood says Walker worked under [[vannevar-bush]] in OSRD and later took over the organization, widely understood to be familiar with or leading MJ-12. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 23:17)*
 - Gerb re-reads Walker's "fighting windmills" quote as meaning readers may have the documents yet never reach the bottom. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:36:09)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: 1987-1990 interviews with William Steinman and Henry Azadehdel (ASR "Aciden to hell"; best outlined in Grant Cameron's report) in which Walker, named by Sarbacher, confirmed involvement in UFO crash retrieval under Bush, said only minds with a "seventh sense" were admitted, confirmed MJ-12 and said he was present at the 1965 Kecksburg crash; Gerb calls him one of the most overlooked witnesses. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:33:58-1:35:44)* Gerb adds that Walker was close to LBJ, who at the Texas White House the day after Kecksburg coordinated national security advisers. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:36:02-2:36:20)*

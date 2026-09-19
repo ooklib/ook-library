@@ -37,6 +37,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 The "Alien Reproduction Vehicle" (ARV) concept — a human-built craft reverse-engineered from
@@ -100,3 +102,7 @@ recovered nonhuman technology — is most associated in the UFO research communi
 ## Additional claims (gerb/dugway)
 
 - Gerb ties the "flux liner" ARV and a 1967 Provo, Utah disc photo ([[mark-mccandlish]]) to possible ARV testing between the Utah range and Edwards. Fuche's TR-3B and the flux liner are treated as parallel MRTFB claims. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 14:12, 14:37, 14:55, 17:12, 21:44)*)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb reads the 1988 [[flux-liner-arv-saga]] as a benchmark showing the programs had emulated aspects of NHI craft by then, and believes Cold War-era human-built triangles reached maturity for ISR/test flights over Edwards. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:29:53-1:30:46, 2:40:39-2:40:56)*

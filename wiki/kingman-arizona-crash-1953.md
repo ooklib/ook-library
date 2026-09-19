@@ -24,6 +24,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Cited by Gerb as an example of "Southwest systems" used to intake recovered craft around this
@@ -65,3 +67,7 @@ period, associated with [[sandia-national-laboratories|Sandia]]. *([gerb/mitre](
 ## Additional claims (jm/kissinger)
 
 - [[jesse-michels]] opens with [[arthur-stansel]]'s account (Upshot-Knothole "Harry" shot, 19 May 1953; bus with blacked-out windows from Phoenix; ~30 ft two-saucer craft, 4-ft bodies) and says [[christopher-mellon]] recently claimed the craft was studied for decades. The episode then pivots to [[eric-henry-wang]] and, via [[maria-wang]], to [[henry-kissinger]]. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 0:26, 1:09, 1:34, 2:02, 2:19, 2:33)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb says Kingman "rivals both Roswell and Magenta" in impact because it lets one trace the personnel and custody of wreckage into the 21st century: Stansel's 21 May 1953 affidavit during Operation Upshot-Knothole; [[edward-dahl]] (Project Alberta, Stanford/SRI, then TRW, absorbed by [[northrop-grumman]] Mission Systems) as coordinator; [[eric-henry-wang]] (ARDC/Wright Air Development Center special studies, moved to Sandia 1956) as scientific lead. Gerb also has "credible rumors" and indirect confirmation from [[hal-puthoff]] that the [[operation-kona-blue]] materials were Kingman wreckage, and that there may have been three Kingman crashes. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 40:18-48:00, 2:11:02-2:11:35)*

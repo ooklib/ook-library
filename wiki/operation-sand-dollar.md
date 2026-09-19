@@ -24,6 +24,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Per [[john-craven|Dr. John Piña Craven]]'s memoir *The Silent War*, Operation Sand Dollar was a
@@ -55,3 +57,7 @@ shelf" and deep marine environments. It remains classified. *([gerb/saic](../raw
 - Concealed within [[polaris-program]]; described by [[john-craven]]; thematically linked to
   Gerb's broader undersea UFO retrieval thesis (cf. [[tic-tac-factory-uso]]); conducted at
   [[tonopah-test-range]]; DSRVs built by [[lockheed-martin]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: cited as the reason for the 1964 [[deep-submergence-systems-project]]; Gerb believes it also boosted maritime UFO/USO retrieval. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:03:25-1:04:29)*

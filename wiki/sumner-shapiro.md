@@ -17,6 +17,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Rear Admiral Sumner Shapiro, a former Director of Naval Intelligence, sat on the board of
@@ -27,9 +29,9 @@ Shapiro. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 44:42–45:05)*
 ## Claims
 
 - In the late 1980s, [[bobby-ray-inman|Admiral Bobby Ray Inman]] recommended Shapiro as a point
-  of contact to NASA mission specialist Bob Echler for information on recovered UFOs.
+  of contact to NASA mission specialist [[bob-oechsler|Bob Oechsler]] for information on recovered UFOs.
   *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 45:05–45:14)*
-- Across several meetings with Echler, Shapiro reportedly confirmed he had studied recovered
+- Across several meetings with Oechsler, Shapiro reportedly confirmed he had studied recovered
   nonhuman vehicles in an official capacity up close, and that many of these craft "had
   interlocking components that had to be assembled and disassembled in specific sequence" as they
   were rotated among various US laboratories — a detail Gerb calls an "intriguing parallel" to
@@ -44,3 +46,7 @@ Shapiro. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 44:42–45:05)*
 ## Additional claims (gerb/dugway)
 
 - Retold as telling astronaut Bob Eschler (ASR "echler") that UAP retrieval teams take apart craft, pack them up and ship them to laboratories around the country. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 18:53, 19:02)*)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: former DNI 1978-82, connected by Inman to [[bob-oechsler]]; said factions of the US government possess extraterrestrial vehicles and that he studied one up close; craft were disassembled and shipped to laboratories (interlocking components; compared by Gerb to the Aztec 1948 case). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:32:45-1:33:52)*

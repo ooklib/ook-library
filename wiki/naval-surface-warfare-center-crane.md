@@ -22,6 +22,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 NSWC Crane, at the Naval Support Activity in Crane, Indiana, is a site Gerb says he has covered
@@ -71,3 +73,7 @@ extensively in prior work. *([gerb/mitre](../raw/gerb/mitre.md) 1:13:04–1:13:1
   site of testimony from [[randy-anderson]] connected by Gerb to both
   [[mitre-corporation]]'s alleged program and, more directly per the SAIC investigation, to
   [[science-applications-international-corporation]]'s alleged Off-World Technologies Division.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Crane is where Gerb places SAIC's "off-world technologies division" (via Randy Anderson) and part of the MITRE-era legacy ecosystem (NSWC, NUWC Keyport under NAVSEA/NAVAIR). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:38:05-1:39:39)*

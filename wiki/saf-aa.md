@@ -27,6 +27,8 @@ sources:
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 SAF/AA (the Office of the Administrative Assistant to the Secretary of the Air Force) is an
@@ -116,3 +118,7 @@ despite recent Department-of-the-Air-Force naming changes.
   and-security|USD I&S]] directives; directed by [[russell-e-wyler]], 2009–2024.
 - SAF/AAZ directorate serves as the Air Force's [[special-access-program-central-office|SAPCO]];
   directed by [[william-e-mcclure]], 2019–2021.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: uses Davidson's 2018 interview ("several activities that were in other agencies over which the Air Force had administrative control", two started "in Pete Aldridge's day") from the Air Force history of the office of the administrative assistant as proof of a cover program, kept outside even SAF/AAZ, the Air Force SAPCO; Gerb dates their re-rolling to mid-1980s SAP reforms. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:21:10-1:23:49)* SAF/AAZ also sponsored the Air Force "Roswell Report: Case Closed" ([[gao-roswell-report-1995]]). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:58:06-1:58:20)*

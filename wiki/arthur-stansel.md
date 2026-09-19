@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Arthur Stansel is the decorated WWII veteran and engineer who is the primary witness to the alleged 1953 [[kingman-arizona-crash-1953]]. The pseudonym "Fritz Warner" appears in other wiki sources ([[eric-henry-wang]]). In jm/kissinger, [[jesse-michels]] retells his account as the opening of the episode.
@@ -26,3 +28,7 @@ Arthur Stansel is the decorated WWII veteran and engineer who is the primary wit
 - He describes two deep saucers fused together, about 30 ft across, dull brushed metal, buried about 20 in in sand, with no landing gear, no visible damage and a small open hatch; in a nearby tent were several 4-ft humanoid bodies on a table. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 2:02, 2:11, 2:19)*
 - Michels's credibility case: three Purple Hearts, a Bronze Star, a career in physics/engineering at Wright-Patterson, and a declassified Upshot-Knothole report placing him on site. He says [[christopher-mellon]] recently claimed the saucer was recovered and studied for decades. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 2:33, 2:43, 2:52, 3:00)*
 - Named alongside him in records was the head of Special Studies at Wright-Patterson, [[eric-henry-wang]]. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 3:09)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Stansel's diary entry about Dahl's "special job tomorrow" is read as showing Dahl directly in charge of the retrieval; Stansel estimated the craft hit the ground at over 1,000 mph with little or no deformation, which Gerb offers as a reason Lockheed could not crack the material for 60+ years. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 43:39-44:11, 2:11:35-2:11:50)*

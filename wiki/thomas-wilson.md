@@ -20,6 +20,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Vice Admiral Thomas Wilson, former DIA director, is the central figure (with
@@ -60,3 +62,7 @@ controversial whistleblower discussed earlier in the same video.
 - Per the notes, in 1997 he did a 45-day investigation (April-June), was guided by [[h-marshall-ward|Gen. Ward]] and [[bill-perry]] to an OUSD (A&T) special records group, phoned program managers, then met the [[watch-committee]] in a vault and was denied read-in despite his statutory DIA oversight role. He was allegedly threatened via SRG chairman [[john-m-deutch|Deutch]] with lost promotion and early retirement, and in January 1998 [[jacques-gansler]] told him "UFOs are real." *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 9:49-19:13)*
 - Publicly denied the meeting to [[billy-cox]] ("it's all fiction"), admitting only the 1997 meeting with [[steven-greer]] and [[edgar-mitchell]]; Gerb argues the denial is expected given the notes' own terms. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 22:07-23:09)*
 - [[will-miller]] confirmed Wilson took the 1997 meeting at his request. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 26:34-26:59)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb's 1997 entry; he thinks Wilson met a specific legacy activity with USD(A&S) authority likely involving the Air Force and an unnamed aerospace company (guess: TRW), not the whole portfolio, since the watch committee said "something recovered years ago" (singular) versus Grusch's 25-100 craft. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:58:23-2:00:45)*

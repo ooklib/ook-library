@@ -19,6 +19,8 @@ relations:
 sources:
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Dr. James T. Ryder served nearly 40 years at [[lockheed-martin|Lockheed Martin]], culminating as
@@ -62,3 +64,7 @@ recovered UFO materials via the [[operation-kona-blue|Kona Blue]] PAP. Ryder die
 
 - Career-long [[lockheed-martin]] executive; proposed the [[operation-kona-blue]] divestment;
   Starfire Project colleague of [[eric-davis]] and [[hal-puthoff]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: called a "maverick and unorthodox thinker" (speeches such as "Garments of the Gods"); per Davis, Ryder said as late as 2018 there had been little to no success exploiting the materials. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:10:41-2:10:54, 2:15:19-2:15:41)*

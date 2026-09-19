@@ -10,6 +10,8 @@ relations:
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 General Arthur Trudeau, per [[philip-j-corso]]'s claims, had direct knowledge of UFO crash
@@ -29,3 +31,7 @@ Development) in spring 1958 — a few months before [[mitre-corporation|MITRE]]'
 
 - Directed the Army Foreign Technology Division that employed [[philip-j-corso]]; founded the
   [[army-research-office]] in 1958.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: head of Army OCRD; tasked Corso to study Roswell wreckage and feed derived technologies to industry (patents allowed, technologies fed back to the Army); under him the Army Research Office was formed (1958). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 54:15-54:55, 58:02-58:23)*

@@ -43,6 +43,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 CIA's Directorate of Science and Technology is listed among "program administrator" agencies in
@@ -80,3 +82,7 @@ Gerb's [[ufo-legacy-programs|legacy program pyramid]]. *([gerb/mitre](../raw/ger
   [[dawn-meyerriecks]], [[everett-heinman]], and [[glenn-gaffney]] en route to MITRE/Aerospace
   board service or other gatekeeper roles; spawned [[cia-office-of-global-access]] and
   co-founded [[national-underwater-reconnaissance-office]]; contracted [[scitor-holdings]].
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: founded 1963 to centralize R&D and technical intelligence collection; Gerb says it has "its fingers in so many UFO legacy program pies" but, contra "The Age of Disclosure", is not the sole crash-retrieval portfolio director; named DS&T alumni: Donald Kerr, Doug Wolf, Stephanie O'Sullivan, Glenn Gaffney, Mary Sturtevant, the last two allegedly killing the [[operation-kona-blue]] transfer. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:00:30-1:01:28, 2:08:35-2:08:57)*

@@ -29,10 +29,10 @@ relations:
     note: "director from 13 September 1974"
   - relation: liaison_to
     target: everett-heinman
-    note: "named Heinman to Bob Echler as the person to ask about recovered UFO vehicles, 1989"
+    note: "named Heinman to [[bob-oechsler|Bob Oechsler]] as the person to ask about recovered UFO vehicles, 1989"
   - relation: liaison_to
     target: sumner-shapiro
-    note: "recommended Shapiro to NASA mission specialist Bob Echler as a point of contact re: recovered UFOs, late 1980s"
+    note: "recommended Shapiro to NASA mission specialist [[bob-oechsler|Bob Oechsler]] as a point of contact re: recovered UFOs, late 1980s"
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -42,6 +42,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Admiral Bobby Ray Inman had one of the most extensive intelligence/defense careers of any
@@ -62,7 +64,7 @@ director of the [[central-intelligence-agency|CIA]], vice director of the
 - 1985 conference notes by [[oke-shannon|Oke Shannon]] discuss "a major engineering project"
   under Inman. *([gerb/saic](../raw/gerb/saic.md) 46:49–46:57)*
 - Went from, in 1989, discussing recovered UFOs "becoming available for technological research"
-  with NASA mission specialist Bob Echler, to, by 2022 (Project Unity), saying he found
+  with NASA mission specialist [[bob-oechsler|Bob Oechsler]], to, by 2022 (Project Unity), saying he found
   "plausible answers for all UFO sightings." *([gerb/saic](../raw/gerb/saic.md) 42:54–43:08)*
 - Worked on [[science-applications-international-corporation|SAIC]]'s NSA-sponsored Project
   Trailblazer as a board member. *([gerb/saic](../raw/gerb/saic.md) 1:17:21–1:17:29)*
@@ -72,7 +74,7 @@ director of the [[central-intelligence-agency|CIA]], vice director of the
   colleagues "still don't want me to talk about." NURO procured/built undersea reconnaissance
   systems; one of its first operations (1972) recovered wreckage of Soviet submarine K-129 via
   the CIA vessel Glomar Explorer. *([gerb/nro](../raw/gerb/nro.md) 2:43:44–2:46:00)*
-- In a 1989 phone call, told NASA mission specialist Bob Echler that [[everett-heinman|Everett
+- In a 1989 phone call, told NASA mission specialist [[bob-oechsler|Bob Oechsler]] that [[everett-heinman|Everett
   Heinman]] (CIA DS&T deputy director, then nearing retirement) would be "the best person to ask"
   whether recovered UFO vehicles could become available for research outside military circles.
   *([gerb/nro](../raw/gerb/nro.md) 2:41:13–2:42:05)*
@@ -81,7 +83,7 @@ director of the [[central-intelligence-agency|CIA]], vice director of the
 
 - In the late 1980s, also recommended Rear Admiral [[sumner-shapiro|Sumner Shapiro]] (former
   Director of Naval Intelligence, [[bdm-international|BDM]] board member) as a point of contact
-  to NASA mission specialist Bob Echler for information on recovered UFOs.
+  to NASA mission specialist [[bob-oechsler|Bob Oechsler]] for information on recovered UFOs.
   *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 44:54–45:14)*
 
 ## Relationships
@@ -90,9 +92,13 @@ director of the [[central-intelligence-agency|CIA]], vice director of the
   [[central-intelligence-agency]], [[defense-intelligence-agency]],
   [[national-underwater-reconnaissance-office]] (director), and
   [[science-applications-international-corporation]]; alleged (by
-  [[colonel-steve-wilson]]) board role at [[decision-science-applications]]; pointed Bob Echler
+  [[colonel-steve-wilson]]) board role at [[decision-science-applications]]; pointed [[bob-oechsler|Bob Oechsler]]
   to [[everett-heinman]] and [[sumner-shapiro]] on recovered-vehicle access.
 
 ## Additional claims (gerb/dugway)
 
 - A note reading "call Admiral Inman at Science Applications International" appears in the 1997 [[popular-mechanics-new-area-51-1997]] photos; Gerb recalls Inman telling astronaut Bob Eschler about recovered UFO vehicles and sending him to [[sumner-shapiro]], who said teams disassemble craft and ship them to different laboratories. Inman is also a former Wackenhut board member, a security firm Gerb suspects of legacy-program site security. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 18:07, 18:37, 18:45, 18:53, 19:02, 42:14)*)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: cited for the October 1989 (Gerb says 1989) call to [[bob-oechsler]] in which he volunteered [[everett-heinman]] as the contact for recovered UFO hardware, and for the statement to a researcher (who reached him via Admiral Lord Hill-Norton) that the US had craft in operational condition; Gerb notes Inman's roles at NURO, ONI, DCI, NSA and SAIC/Wackenhut boards. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:30:57-1:32:45)*

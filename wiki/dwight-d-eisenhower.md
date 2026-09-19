@@ -31,6 +31,8 @@ sources:
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md"
     label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arthur Schlesinger, briefed President-elect John F. Kennedy that [[laos]], not Vietnam, was his chief Southeast Asian worry. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 0:44-1:07)*
@@ -71,3 +73,7 @@ Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arth
 ## Additional claims (ewa/willoughby-2)
 
 - Host: as a major he served as [[douglas-macarthur]]'s main aide in the Philippines from 1935 to 1939 and was "oil and water" with him; Eisenhower said MacArthur "desired to guide the destiny of the Philippines" (per Schaller). The rivalry peaked at the 1952 Republican convention where both sought the nomination. Host also places Eisenhower among the "Atlanticist Yankees" (with Wilson and FDR) versus MacArthur's "Asia Cowboys". *([ewa/willoughby-2](../raw/ewa/Eyes Wide Open - 2025-12-25 - The MacArthur Legacy - 50 Years of Empire Building in the Pacific - WILLOUGHBY 2.md) 40:53-42:35, 1:06:44-1:07:36)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: Gerb credits Eisenhower with the "lion share" of forming the programs ([[executive-order-10501]], [[nsc-5412-committee]], [[atomic-energy-act-1954]], PEADs) and speculates about 1954-1960 agreements with non-human intelligence (probably "grays") that he leaves out for lack of direct knowledge; also that the idea of space weapons targeting UFOs dates from Eisenhower. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 33:46-34:23, 49:09-50:09, 53:14-53:45, 1:20:59-1:21:08)*

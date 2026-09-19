@@ -16,6 +16,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 18 Bravo (Special Forces weapons sergeant) Randy Anderson claimed that in the mid-2010s he was
@@ -45,3 +47,7 @@ considered a possible weapon. *([gerb/mitre](../raw/gerb/mitre.md) 1:13:12–1:1
 - Testimony connects [[naval-surface-warfare-center-crane]] to [[mitre-corporation]]'s alleged
   legacy program; separately connects Sandia-managed [[nevada-national-security-site]] land to
   [[edgar-fuche]]'s TR-3B claims.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: recap of his early-to-mid-2010s Crane account (underground "off-world technologies division", a basketball-sized sphere that reacts to consciousness, a glyphic gauntlet weapon); Gerb thinks the unnamed contractor was SAIC and says CIA "spooks" contacted him to be wary of discussing Crane. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:37:56-1:39:29)*

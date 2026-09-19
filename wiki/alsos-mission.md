@@ -21,6 +21,8 @@ relations:
 sources:
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 ALSOS (a pun on Leslie Groves's surname, transliterated into Greek) was a little-known WWII
@@ -71,3 +73,7 @@ modern UFO crash-retrieval teams. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 2
   with [[leslie-groves]] and [[vannevar-bush]].
 - Cited by UAP Gerb as the historical template for the alleged direct-action/scientific-team
   structure of modern [[ufo-legacy-programs|UFO legacy-program]] crash-retrieval operations.
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: cited (with T-Force and the [[top-policy-group]]) as WWII/Manhattan Project precursors to UFO crash-retrieval teams, Alsos answering to Marshall via a separate military-intelligence channel. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 24:04, 2:30:06-2:30:31)*

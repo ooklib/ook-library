@@ -23,6 +23,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 The Office of Policy Coordination (OPC), per Eyes Wide Open, was the innocuously named covert
@@ -55,3 +57,7 @@ uncontroversial intelligence-gathering side, and headed for its early history by
 ## Additional claims (The CIA's Blond Ghost, ewa/shackley)
 
 - Host: OPC and the CIA's Office of Special Operations (OSO) were rivals, then merged in 1951-52 into the Directorate of Plans under [[frank-wisner]]; [[ted-shackley]] joined OSO in 1951. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 38:39-39:27, 41:42-42:22)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: created by [[nsc-10-2]] (June 1948; renamed 1 Sept 1948) to run CIA covert operations independent of other CIA components; Gerb notes Grusch said OPC was involved in UFO efforts, and that NSC 10/2 also hid the MAG 12 steering group. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 30:45-32:40)*

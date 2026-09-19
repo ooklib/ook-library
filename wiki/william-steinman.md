@@ -20,6 +20,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
+    label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
 ---
 
 UFO researcher who corresponded with [[robert-sarbacher]] in November 1983 and interviewed [[eric-a-walker]] shortly after [[stanton-friedman]] released the MJ-12 documents. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 8:37-9:00, 15:22-15:54)*
@@ -36,3 +38,7 @@ UFO researcher who corresponded with [[robert-sarbacher]] in November 1983 and i
 ## Additional claims (jm/kissinger)
 
 - In the 1980s traced [[eric-henry-wang]] via a magazine obituary despite being warned off, then found Wang's widow [[maria-wang]], who told him her husband reported to [[henry-kissinger]]. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 3:51, 3:59, 4:47, 5:00, 5:22)*
+
+## Additional claims (gerb/timeline)
+
+- Timeline video: interviewed both [[robert-sarbacher]] (1980s) and [[eric-a-walker]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 37:37-37:46, 1:34:35)*
