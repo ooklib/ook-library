@@ -18,6 +18,8 @@ relations:
     target: david-grush
     note: "confirmed Malmstrom per Gerb"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
 ---
@@ -44,3 +46,7 @@ The thesis, presented by [[uap-gerb]] in "UFOs and Nuclear Weapons - A Fascinati
 - Part of the wider [[ufo-legacy-programs]] narrative via AEC/DOE custody claims.
 - Cases: [[jacobs-vandenberg-ufo-incident-1964]], [[malmstrom-minuteman-incident-1967]], [[indian-point-ufo-incident-1984]].
 
+
+## Additional claims (jm/nasa-chief)
+
+- [[beatriz-villarroel]]'s Palomar-plate transients are said to occur about 68% more often after nuclear tests (about 11% of days versus 19%). *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:06:49-1:07:36)*

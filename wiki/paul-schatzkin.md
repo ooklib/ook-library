@@ -7,6 +7,8 @@ relations:
   - relation: investigates
     target: thomas-townsend-brown
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
@@ -22,3 +24,7 @@ Author of *The Man Who Mastered Gravity* (2023), the Townsend Brown biography th
 ## Relationships
 
 - Biographer of [[thomas-townsend-brown]].
+
+## Additional claims (jm/nasa-chief)
+
+- Michels again points to Schatzkin's biography of Brown as the source that shows Brown was not an amateur quack. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 4:29-4:44)*

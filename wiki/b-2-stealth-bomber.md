@@ -9,6 +9,8 @@ relations:
   - relation: alleged_by
     target: jesse-michels
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
@@ -36,3 +38,7 @@ sources:
 ## Additional claims (gerb/tr-3b)
 
 - Gerb repeats the claim (Richard Boylan, three generals and Col. Donald Ware) that the B-2 carries onboard electrogravitic mass reduction, citing an Aviation Week (9 Mar 1992) piece on the charged wing leading edge; offered as a parallel to the TR-3B's MFD ([[electrogravitics]], [[alien-reproduction-vehicle-tr3b]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 38:38-39:54)*
+
+## Additional claims (jm/nasa-chief)
+
+- Michels says there is "a lot of evidence" that Brown's electrohydrodynamic airflow work ended up in the B-2. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 45:48-45:57)* See [[thomas-townsend-brown]].

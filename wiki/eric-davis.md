@@ -20,6 +20,8 @@ relations:
     target: james-rigney
     note: "notes leaked via Rigney from Edgar Mitchell estate"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/lockheed.md
@@ -109,3 +111,7 @@ the estate of the late astronaut [[edgar-mitchell|Edgar Mitchell]].
 ## Additional claims (gerb/corso)
 
 - Cited in [[corso-investigation-video-2025]]: per *Forbidden Science: Pacific Heights*, [[george-h-w-bush]] told Davis Corso's material was not Nazi hardware and that the 1954 Holloman landing happened ([[mendel-rivers-hearings-1968]]); Davis also confirmed the Soviets collected a crash retrieval ([[soviet-parallel-tuo-exploitation-claims]]) and Gerb references Davis confirming Corso on Roswell. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 9:46-11:33, 56:26-56:49)*
+
+## Additional claims (jm/nasa-chief)
+
+- Michels' sponsor read jokes about "one of Eric Davis's wormholes"; nothing substantive. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 11:51-12:06)*

@@ -10,6 +10,8 @@ relations:
     target: alien-reproduction-vehicle-tr3b
     note: "Gerb's hypothesis that many triangles are human-built ARV iterations"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
@@ -28,3 +30,7 @@ Dark triangular craft (typically three white corner lights, a dull red or amber 
 ## Relationships
 
 - Related: [[aurora-astra]], [[boscombe-down-crash-1994]], [[tr3b-triangle-arv-video-2024]], [[project-blue-book]], [[special-operations-manual-som1-01]].
+
+## Additional claims (jm/nasa-chief)
+
+- The [[brewster-new-york-ufo-sightings-1980s]] included a large triangle of lights described by witnesses. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:14:05-1:14:46)*

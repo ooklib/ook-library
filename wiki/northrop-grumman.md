@@ -31,6 +31,8 @@ relations:
   - relation: operates
     target: b-2-stealth-bomber
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/saic.md
@@ -171,3 +173,7 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
 ## Additional claims (gerb/tr-3b)
 
 - Gerb defers a planned look at a Northrop-built triangle variant; the two Northrop engineers who spoke to [[bill-mcdonald]] worked at the Tejon/Tehachapi site ([[xf-131-super-sentinel]], [[tahone-radar-cross-section-facility]]), and the B-2 is claimed to carry electrogravitic mass-reduction ([[electrogravitics]], [[b-2-stealth-bomber]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 34:26-34:42, 38:38-39:54, 57:42-58:42)*
+
+## Additional claims (jm/nasa-chief)
+
+- Michels says engineers at Lockheed and Northrop hint Biefeld-Brown work is on the right path. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:29:11-1:29:48)* See [[electrogravitics]].

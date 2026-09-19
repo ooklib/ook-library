@@ -63,6 +63,8 @@ relations:
     target: aurora-astra
     note: "rumored, per host"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
     label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: raw/gerb/mitre.md
@@ -316,3 +318,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Additional claims (gerb/tr-3b)
 
 - Gerb again lists Lockheed among the TR-3B primes and as the parent of the Helendale radar cross-section range tied to the [[xf-131-super-sentinel]]; Fox's X-Files reportedly rendered that craft from [[bill-mcdonald]]'s drawing. See [[tr3b-triangle-arv-video-2024]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 33:07-33:44, 58:42-1:01:47)*
+
+## Additional claims (jm/nasa-chief)
+
+- Michels says engineers at Lockheed and Northrop hint Biefeld-Brown work is on the right path. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:29:11-1:29:48)* See [[electrogravitics]].

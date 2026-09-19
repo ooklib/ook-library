@@ -17,6 +17,8 @@ relations:
     target: jason-samosa
     note: "host of the 2026-07-14 interview"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
@@ -91,3 +93,8 @@ Jesse Michels is the host of the American Alchemy YouTube channel (registry chan
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Interviewed [[peter-levenda]] for a 4h40m episode: [[levenda-michels-interview-2025]]. Michels supplies the Sheehan-style "S force" JFK narrative and many synchronicity examples himself ([[prescient-fiction-synchronicity-claims]]), and notes his own disbelief in secret-space-program lore. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 11:26, 1:25:22, 1:18:26)*
+
+## Claims (jm/nasa-chief)
+
+- Hosts [[buhler-michels-interview-2026]] with [[charles-buhler]] and [[david-chester]], continuing the [[thomas-townsend-brown]] thread and offering to bring skeptical experimental physicists to watch the [[exodus-force-claims]] live. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 58:44-59:22)* He also brings up [[sonny-white]], [[beatriz-villarroel]] and [[gary-mckinnon]].
+- Says he knows engineers at aerospace firms who hint Biefeld-Brown work is on the right track; his hypothesis that Brown's work "went underground" into deep black subcompartments. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 6:01-6:32, 1:29:11-1:29:48)*

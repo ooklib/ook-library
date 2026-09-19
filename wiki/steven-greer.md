@@ -25,6 +25,8 @@ relations:
   - relation: investigates
     target: transnational-criminal-organization-claims
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
@@ -95,3 +97,7 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 ## Additional claims (gerb/tr-3b)
 
 - Cited for his claim that [[albert-stubblebine]] offered him $2 billion in 1992 to stop investigating, for the 1997 letter tying [[hans-adam-ii]] to [[treat-tactical-reconnaissance-engineering-assessment-team]], and for his accusation that the Lockheed Helendale plant is a black-budget reverse-engineering site (see [[xf-131-super-sentinel]]); Gerb also says the term ARV did not originate with Greer in 2001 but with [[brad-sorenson]]'s 1988 account. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 3:31-3:53, 15:20-17:28, 59:19-59:34)*
+
+## Additional claims (jm/nasa-chief)
+
+- [[charles-buhler]] says Greer takes his groups to a beach near Cocoa Beach to summon lights like those the Buhlers saw ([[cocoa-beach-lights-encounter]]). *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:20:24-1:20:44)*

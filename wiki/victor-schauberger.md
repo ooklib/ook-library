@@ -8,6 +8,8 @@ relations:
     target: operation-paperclip
     note: "alleged US recruitment via Carl Gimmer, per host"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
@@ -40,3 +42,7 @@ Austrian inventor of an inward-flowing "impeller" (ASR: "Victor shurger", "sha b
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda lists Schauberger's saucer-shaped "impeller" among documented projects. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:15:18)*
+
+## Additional claims (jm/nasa-chief)
+
+- Michels suggests a lineage from Schauberger's spinning-superconductivity ideas to Podkletnov's Tampere weight-reduction claims and, via Podkletnov's father (a "Stasi guy" per Michels, unverified) doing tech retrieval for the Soviets. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:38:15-1:39:03)* See [[nick-cook]].

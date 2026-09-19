@@ -11,6 +11,8 @@ relations:
     target: curtis-lemay
     note: "host names both among high-level 1967 meetings with Rand and Brown"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
@@ -27,3 +29,7 @@ Bill Lear invented the Learjet and ran Lear Incorporated of Santa Monica ("autop
 ## Relationships
 
 - Associate of [[thomas-townsend-brown]]; father of [[john-lear]].
+
+## Additional claims (jm/nasa-chief)
+
+- Named by Michels as a Brown associate. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 4:37-5:53, 45:13-47:11)* See [[buhler-michels-interview-2026]] and [[thomas-townsend-brown]].

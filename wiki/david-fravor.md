@@ -7,6 +7,8 @@ relations:
   - relation: references_testimony_of
     target: 2004-nimitz-encounter
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
@@ -35,3 +37,7 @@ Diego is one of the most widely publicized UAP sighting cases.
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says Fravor is a straight-up guy whose 2004 encounter was a Skunk Works craft and who has been told so by a Lockheed executive; he says Fravor "probably has by now" corrected the record, and Michels hopes so. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:03:26-1:05:31, 1:10:20-1:11:11)*
+
+## Additional claims (jm/nasa-chief)
+
+- Michels notes the [[gary-mckinnon]] Tic Tac claim predates Fravor's Nimitz sighting. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:44:02-1:44:16)*

@@ -7,6 +7,8 @@ relations:
   - relation: investigates
     target: thomas-townsend-brown
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
@@ -28,3 +30,7 @@ Aviation journalist and author of *The Hunt for Zero Point* (2001), studying aer
 ## Additional claims (jm/jorjani-hitler)
 
 - Cited by Jorjani (with Farrell and Witkowski) for the Nazi saucer and Bell narrative; see [[nazi-saucer-program-claims]], [[joseph-farrell]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 35:01, 39:34)*
+
+## Additional claims (jm/nasa-chief)
+
+- In [[buhler-michels-interview-2026]] [[jesse-michels]] recommends *The Hunt for Zero Point*, describes Cook as a hard-headed Jane's Defence Weekly journalist who found 1950s gravity research vanishing and concluded it went somewhere in America connected to zero point, and links Podkletnov's spinning-superconductor claims to [[victor-schauberger]] and a Soviet retrieval lineage. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:38:15-1:39:43)*

@@ -8,6 +8,8 @@ relations:
     target: biefeld-brown-effect
     note: "proposed explanation"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
@@ -23,3 +25,7 @@ A fringe extension of Maxwell's equations (dropping the Lorenz gauge constraint)
 ## Relationships
 
 - Proposed explanatory framework for [[thomas-townsend-brown]]'s effect; see [[electrogravitics]].
+
+## Additional claims (jm/nasa-chief)
+
+- [[david-chester]] is introduced as someone with whom [[jesse-michels]] has discussed extended electrodynamics and topological effects; he reviews [[charles-buhler]]'s QED account in [[exodus-force-claims]]. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:52:26-1:53:14)*

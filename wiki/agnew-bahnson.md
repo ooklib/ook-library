@@ -8,6 +8,8 @@ relations:
     target: thomas-townsend-brown
     note: "patron of his experimental gravity work"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
@@ -36,3 +38,7 @@ Agnew Bahnson (ASR: "bonson"), an air-conditioning magnate and physics patron, r
 ## Claims (jm/cover-up)
 
 - Per [[jesse-michels]]: Bahnson funded top theoretical physicists and Brown, wrote the book The Stars Are Too High about rogue Nazi scientists collaborating with Americans to build man-made UFOs and stage an alien invasion, and died in a bizarre plane crash his family thinks was murder (power lines put up at his landing strip). *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:31:23, 1:31:41, 1:32:04)*
+
+## Additional claims (jm/nasa-chief)
+
+- Named by Michels as founder of the Institute of Field Physics and a Brown witness; Brown repeated his 1956-era vacuum test at Bahnson's lab. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 4:37-5:53, 45:13-47:11)* See [[buhler-michels-interview-2026]] and [[thomas-townsend-brown]].

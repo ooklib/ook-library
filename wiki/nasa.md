@@ -8,6 +8,8 @@ relations:
     target: jesse-michels
     note: "episode framing NASA's legal mandate and esoteric culture"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
 ---
@@ -24,3 +26,9 @@ NASA, established 29 July 1958, is the US civilian space agency. In [[jesse-mich
 ## Relationships
 
 - Origin of key personnel via [[operation-paperclip]] and [[jet-propulsion-laboratory]].
+
+## Additional claims (jm/nasa-chief)
+
+- In [[buhler-michels-interview-2026]] [[jesse-michels]] presents [[charles-buhler]] as NASA's lead electrostatics scientist (its [[nasa-electrostatics-and-surface-physics-laboratory]] at [[kennedy-space-center]]) reporting the propellantless [[exodus-force-claims]]; Buhler says this is outside NASA, not sanctioned and "not in my laboratory", and expects NASA to be "a customer later on". *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 14:11-14:50)*
+- Buhler says NASA's own UAP study effort (a report and a follow-on) approached him and his wife, but the team had no physicists and was an instruments group. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:40:46-1:41:38)* Michels lists this among possibilities: they already know, a limited hangout, incompetence, or physics being unequipped for the phenomenon. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:41:41-1:42:14)*
+- Michels cites [[sonny-white]] (Eagleworks) and [[gary-mckinnon]]'s claims about Johnson Space Center images ([[donna-hair]]). *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:04:44-1:05:54, 1:43:26-1:44:11)*

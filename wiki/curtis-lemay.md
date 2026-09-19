@@ -14,6 +14,8 @@ relations:
     target: rand-corporation
     note: "host: LeMay 'started' RAND"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
@@ -47,3 +49,7 @@ General Curtis "Bombs Away" LeMay, head of Strategic Air Command, appears in the
 ## Claims (jm/sheehan)
 
 - Sheehan says LeMay moved forces into place for the Bay of Pigs against orders, put the US at DEFCON 2 without presidential approval, and pushed a first strike; Michels adds LeMay's ties to D. H. Byrd. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 32:37)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:12:06)*
+
+## Additional claims (jm/nasa-chief)
+
+- Michels: LeMay "courted Brown constantly". *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 4:44-4:57)*

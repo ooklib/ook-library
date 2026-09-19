@@ -11,6 +11,8 @@ relations:
   - relation: analogous_to
     target: electrogravitics
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
@@ -57,3 +59,7 @@ Aeronautics Laboratory / Air Force Space Technology Center.
 - Full account of the effect, disputed vacuum tests and ionic-wind objection in [[thomas-townsend-brown]]; NASA Marshall 2004 patent, MIT ion plane 2018 and Air Force 1990 test cited. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 8:53-12:38, 30:10-32:17)*
 - Related frameworks: [[electrogravitics]], [[extended-electrodynamics]]; alleged B-2 use in [[b-2-stealth-bomber]]. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 26:46-29:56)*
 - Michels offers a $50,000 bounty to prove or disprove it under vacuum. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:46:28-1:47:13)*
+
+## Additional claims (jm/nasa-chief)
+
+- Buhler claims a modernized version in [[exodus-force-claims]], and Michels contrasts it with [[ion-wind]]; Brown's asymmetric-capacitor high-K dielectric geometry and DC pulsing come up, but Buhler prefers DC and has not explored fast slew rates. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:33:47-1:36:01)* Michels: Brown's effect and the 1990 Air Force test appear in the recap. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 4:14-6:32)*

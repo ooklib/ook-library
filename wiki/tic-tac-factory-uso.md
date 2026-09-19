@@ -22,6 +22,8 @@ relations:
   - relation: alleged_by
     target: uap-gerb
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
 ---
@@ -82,3 +84,7 @@ semi-permanently resides in the Atlantic near the Bahamas.
 - Located near [[atlantic-undersea-test-and-evaluation-center]] in the Bahamas region.
 - Compared/linked to the [[2004-nimitz-encounter]] and to claims from
   [[4chan-whistleblower-2023]] and [[randy-anderson]].
+
+## Additional claims (jm/nasa-chief)
+
+- [[gary-mckinnon]]'s alleged sighting of a Tic Tac-shaped object in Earth orbit in JSC images, per [[jesse-michels]]. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:43:26-1:44:11)*

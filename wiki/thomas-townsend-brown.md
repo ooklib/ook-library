@@ -43,6 +43,8 @@ relations:
     target: william-stevenson
     note: "close friend and yacht/Bahamas companion, per Samosa"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
@@ -110,3 +112,10 @@ Jesse Michels' 2024 documentary, based on Paul Schatzkin's biography *The Man Wh
 ## From Jason Jorjani on American Alchemy (jm/jorjani-religion)
 
 - Michels lists Townsend Brown's dynamic-ether/Tesla line as one candidate physics; Jorjani says the point is that different models suit different tools. Jorjani ties Brown's Nassau gravity expeditions to Epstein's Bahamas gravity interest; see [[epstein-atlantis-gravity-claims]]. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 28:37, 2:35:41)*
+
+## Additional claims (jm/nasa-chief)
+
+- [[jesse-michels]] frames [[charles-buhler]]'s [[exodus-force-claims]] as a modern replication and validation of Brown; he calls Brown "erased" from official physics, still likely classified by the Navy, and says Brown used [[ion-wind]] effects to cover his electrogravitics. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 3:16-6:32, 49:32-49:57)*
+- Michels' Brown recap: witnessed by Curtis LeMay, [[edward-teller]], [[bill-lear]], [[agnew-bahnson]], Victor Bertrandias (1952) and Jacques Coron (1956 Paris vacuum test, deathbed audio 2009, at Sud Ouest); FBI file calling him the Navy's lead radar scientist; EHD work in the [[b-2-stealth-bomber]]; at Martin the year Skunk Works formed. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 4:37-5:53, 45:13-47:11)*
+- Buhler: Brown's oil-immersion experiments may have avoided ion wind; Brown may not be the only one; [[andrew-arjima]] works in the electrogravitics camp. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 36:35-36:48, 50:54-51:31)*
+- Catalina orb parallel with the [[cocoa-beach-lights-encounter]]. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:22:09-1:23:17)*

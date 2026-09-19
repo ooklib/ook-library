@@ -14,6 +14,8 @@ relations:
     target: curtis-lemay
     note: "host: LeMay started RAND, unverified"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
@@ -51,3 +53,7 @@ and no hardware to sell. *([gerb/mitre](../raw/gerb/mitre.md) 32:28–32:48)*
 ## Additional claims (jm/malmgren)
 
 - Host: a 1961 RAND report, *Some New Considerations Concerning the Nuclear Test Ban*, highlighted ICBM re-entry vehicles' vulnerability to X-rays and fed [[operation-dominic]]; LeMay "started the Rand Corporation" and RAND wrote on UFOs early; RAND's long-time president Michael Rich is [[ben-rich]]'s son. *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 56:43-57:22, 2:34:11-2:34:39)**)*
+
+## Additional claims (jm/nasa-chief)
+
+- Michels says Brown dealt with LeMay and RAND. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 46:53-47:01)* See [[thomas-townsend-brown]].

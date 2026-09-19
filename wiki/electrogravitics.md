@@ -8,6 +8,8 @@ relations:
     target: biefeld-brown-effect
     note: "term coined around Brown work, per host"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
+    label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
@@ -42,3 +44,9 @@ Electrogravitics is the label for coupling of electric fields to gravity, coined
 ## Additional claims (gerb/tr-3b)
 
 - Gerb links the TR-3B's MFD, the alleged TR-3A, and the B-2 to electrogravitic mass reduction (Townsend Brown lineage), and lists electrogravitics or MHD/zero-point energy as the likely ARV propulsion families. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 38:38-39:54, 1:09:04-1:09:26, 1:14:22-1:14:52)*
+
+## Additional claims (jm/nasa-chief)
+
+- [[andrew-arjima]] uses the term electrogravitics, which [[charles-buhler]] finds "pretentious": he says he is "still on the fence on the gravitics part", dislikes "antigravity", and does not claim to bend spacetime. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 36:35-37:05, 1:36:05-1:37:19)* See [[exodus-force-claims]].
+- Michels says engineers at Lockheed and Northrop give a "wink wink" that the Biefeld-Brown effect is on the right path and that asymmetry and large field gradients matter. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:29:11-1:29:48)*
+- Buhler on a possible "force crisis" rather than energy crisis; transport has stagnated since the 747. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:26:47-1:28:28)*
