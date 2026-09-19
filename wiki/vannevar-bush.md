@@ -40,6 +40,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
+    label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
 ---
 
 Dr. Vannevar Bush is presented as the intellectual architect of the modern
@@ -130,3 +132,7 @@ Dr. Vannevar Bush is presented as the intellectual architect of the modern
   alongside [[george-c-marshall]] as a primary architect of the [[manhattan-project-2]] security
   apparatus; named by [[robert-sarbacher]] and (for Oppenheimer) the disputed
   [[interplanetary-phenomenon-unit]] report as heading early crash-retrieval study efforts.
+
+## Additional claims (gerb/sarbacher)
+
+- Per [[robert-sarbacher]] via [[wilbert-b-smith]] (1950), a small group headed by Bush was studying UFOs; Bush chaired the [[research-and-development-board]] and NACA. Sarbacher (1983) and [[eric-a-walker]] (1990) both allegedly confirmed Bush's involvement. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 0:33-0:49, 7:33-7:59, 9:17-9:25, 17:07-17:17)*

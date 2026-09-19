@@ -15,6 +15,8 @@ relations:
 sources:
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
+    label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
 ---
 
 Project Twinkle (February 1952) was an Atomic Energy Commission study of UFOs — specifically
@@ -35,3 +37,7 @@ one month. *([gerb/sandia](../raw/gerb/sandia.md) 41:58–42:21)*
 
 - AEC-sponsored study conducted in part at [[sandia-national-laboratories|Sandia Base]];
   predates [[project-blue-book]].
+
+## Additional claims (gerb/sarbacher)
+
+- Gerb cites its report (p. 33) for a 31 August 1950 sighting after a V-2 launch; see [[v-2-rocket-ufo-tracking]]. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 3:26-3:51)*

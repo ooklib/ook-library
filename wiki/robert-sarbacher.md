@@ -14,6 +14,15 @@ relations:
     note: "inverse: Sarbacher named Oppenheimer as a likely crash-retrieval participant"
   - relation: associate_of
     target: thomas-townsend-brown
+  - relation: influenced
+    target: wilbert-b-smith
+    note: "identified source of Smith's 1950 memo"
+  - relation: associate_of
+    target: eric-a-walker
+    note: "named him as attendee of the Wright Field crash-retrieval meeting"
+  - relation: participated_in
+    target: wright-field-crash-retrieval-meeting-1950
+    note: "invited to discussions, per his 1983 letter; did not personally attend"
 sources:
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
@@ -21,6 +30,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
+    label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
 ---
 
 Dr. Robert Sarbacher, a respected physicist and 1950s consultant to the DoD's Research and
@@ -67,3 +78,13 @@ case. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:54:24–1:54:42)*
 
 - Said to be Brown's close confidant, picked him up in Paris in 1956, met him repeatedly in Nassau; Einstein student, Harvard/Georgia Tech, Oak Ridge board; son said his father was "responsible for chasing UFOs". *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 2:25-2:42, 59:39-1:01:59)*
 - David Grush says he helped set up secrecy. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 2:42-2:49)*
+
+## Additional claims (gerb/sarbacher)
+
+Dedicated deep-dive video. Sarbacher: physicist, Einstein student, Harvard graduate, founder and dean of the Washington Institute of Technology, scientific consultant to the US Marines and to the joint [[research-and-development-board]]; research on remote-controlling rockets. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 1:47-2:10)*
+
+- Via researcher D. M. Duncan (shortly before Sarbacher's 1987 death), his son Robert Jr. said his father knew UFOs were real (600 mph then 90-degree turns without slowing) and was called in to build a missile to track them with cameras like on V-2 rockets, without destroying them. Gerb cannot confirm the V-2 work but shows [[v-2-rocket-ufo-tracking]] intersections. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 2:10-3:11, 4:46-4:58)*
+- Identified as the Washington source behind [[wilbert-b-smith]]'s 1950 memo (confirmed by his 1983 letter and by Smith's meeting notes found by Arthur Bray); told Smith the study was done by a small group under [[vannevar-bush]], who chaired the R&D Board, and that Scully's *Behind the Flying Saucers* ([[frank-scully]]) was fundamentally correct. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 4:58-8:37)*
+- 1983 letter to [[william-steinman]]: no association with recovery personnel; invited to discussions but not allowed to attend; Bush, [[john-von-neumann]] and [[j-robert-oppenheimer]] definitely involved; saw reports at the Pentagon of very light, tough materials and beings "constructed like certain insects" with low mass, hence low inertial forces; puzzled why so classified. Gerb links the light materials to [[roswell-incident-1947]] and [[battelle-memorial-institute]]'s 1949 shape-metal (nitinol) work (his own earlier video). *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 8:47-11:19)*
+- 1983 [[stanton-friedman]] interview: recounts a Wright Field crash meeting ([[wright-field-crash-retrieval-meeting-1950]]) with beings without skin, said "very likely" the crash was 1947, and recalled a smug Philadelphia attendee, identified as [[eric-a-walker]]; assumed gravity manipulation. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 11:22-13:52)*
+- Gerb's conclusion: this gives a rare look at the 1950s crash retrieval/reverse engineering effort, versus the usual focus on Blue Book, Grudge and Sign. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 21:05-21:55)*

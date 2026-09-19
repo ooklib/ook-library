@@ -40,6 +40,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
+    label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -138,3 +140,7 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
 ## Additional claims (gerb/nukes)
 
 - Gerb argues Roswell followed soon after the first atomic tests and Hiroshima/Nagasaki, suggesting non-human interest spiked once humanity harnessed the atom ([[ufo-nuclear-connection]]). *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 15:31-15:54)*
+
+## Additional claims (gerb/sarbacher)
+
+- Gerb speculates that the light, tough materials and insectoid beings in [[robert-sarbacher]]'s 1983 letter, the Wright Field meeting, and the [[hottel-memo-1950]] may concern Roswell (unverified). *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 10:23-10:57, 12:06-12:15, 19:27-19:34)*

@@ -30,6 +30,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
+    label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
@@ -107,3 +109,8 @@ MJ1 if you use Majestic 12 terminology." *([gerb/mitre](../raw/gerb/mitre.md) 1:
 ## Additional claims (gerb/magenta)
 
 - Gerb compares the Italian [[rs-33]] group, its secrecy and autonomy, to MJ-12 and calls it an Italian precursor of the US body. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 12:36-13:23)*
+
+## Additional claims (gerb/sarbacher)
+
+- Gerb says the MJ-12 origin can be traced to [[vannevar-bush]]'s 12-member Joint [[research-and-development-board]] (1941) and that the briefing document names Bush on Truman's crash team; the docs look like a mishmash of forgeries with possibly real data spliced in, and he promises a future video. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 7:49-8:37, 20:44-21:05)*
+- [[eric-a-walker]] told [[william-steinman]] he had known of MJ-12 for 40 years and was "fighting windmills"; told [[armen-victorian]] MJ-12 exists but the documents are likely forgeries. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 15:37-16:46)*

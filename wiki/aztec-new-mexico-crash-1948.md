@@ -19,6 +19,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
+    label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
 ---
 
 An alleged additional 1940s UFO crash retrieval near Aztec, New Mexico, which Gerb speculates
@@ -62,3 +64,7 @@ alongside [[roswell-incident-1947|Roswell]]. *([gerb/mitre](../raw/gerb/mitre.md
 - Alleged recovery-team leadership per William Steinman: [[vannevar-bush]],
   [[j-robert-oppenheimer]], and [[majestic-12]]-linked scientists; sourced partly to
   [[robert-sarbacher]]'s testimony.
+
+## Additional claims (gerb/sarbacher)
+
+- Sarbacher told Smith [[frank-scully]]'s book was fundamentally correct; Gerb says he has reservations about Aztec and is saving judgment. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 6:47-7:33)*

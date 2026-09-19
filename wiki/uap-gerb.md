@@ -24,6 +24,8 @@ sources:
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
+    label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -67,3 +69,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Additional claims (gerb/magenta)
 
 - Video 2024-03-18 on the [[magenta-italy-crash-1933]] paper trail; he says he avoids repeating another researcher's work on the US retrieval and wants him on the show, and mentions upcoming coverage of the AARO report and the Dean Johnson FOIA request. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 10:12-10:27, 24:30-25:18)*
+
+## Additional coverage (gerb/sarbacher)
+
+2024-04-08 video on [[robert-sarbacher]], [[eric-a-walker]] and the [[wright-field-crash-retrieval-meeting-1950]]. Gerb notes he was ill while recording, and promises future videos on MJ-12 documents and Kecksburg ([[kecksburg-ufo-crash-1965]]). *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 19:41-19:56, 17:32-17:47, 20:44-20:51)*

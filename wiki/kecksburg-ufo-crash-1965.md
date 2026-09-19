@@ -1,0 +1,20 @@
+---
+title: Kecksburg UFO Crash (1965)
+kind: event
+aliases: [Kecksburg, Pennsylvania]
+tags: [1965, pennsylvania, disputed-claim]
+relations:
+  - relation: alleged_by
+    target: eric-a-walker
+    note: "Walker allegedly said he went there with two military men off duty"
+sources:
+  - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
+    label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
+---
+
+Alleged 1965 crash of a small bell- or acorn-shaped UFO at Kecksburg, Pennsylvania, roughly 100 miles from [[eric-a-walker]]'s Penn State base. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 17:17-17:55)*
+
+## Claims
+
+- Walker allegedly confirmed: "we went there with two from the military but not on duty". Gerb promises a dedicated video. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 17:25-17:55)*
+
