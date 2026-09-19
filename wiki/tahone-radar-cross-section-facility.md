@@ -18,6 +18,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 The Tahone (also transcribed "Toahone"/"Toon Ranch") radar cross-section (RCS) facility, in the
@@ -79,3 +81,7 @@ facility was built below ground during the Cold War to hide from Soviet satellit
 
 - Northrop Grumman RCS test range (sold by 2024); sister site to Lockheed's Helendale RCS range
   within the alleged Antelope Valley [[air-force-plant-42|Plant 42]] underground-facility network.
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video: a radar cross-section range uses high-frequency radio waves, runways and pylons on concrete diamonds, often underground during the Cold War; Tahone reportedly has a disproportionate share of anomalous sightings versus Lockheed and McDonnell Douglas RCS sites; [[bill-hamilton]] and [[richard-sauder]] allege an underground UAP facility (rumored 42 levels with tunnels to Edwards); [[steven-greer]] calls the sister Helendale plant a staging ground for electrogravitic ARVs downed by EMP weapons; an artist's 1992 Tejon triangle drawing came from disgruntled Lockheed and Northrop engineers there and at Helendale; [[colonel-steve-wilson]] placed a Northrop anti-gravity disc site northeast of Lancaster. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 26:04-34:14, 40:38-40:53)*

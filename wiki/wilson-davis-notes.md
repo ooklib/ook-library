@@ -37,6 +37,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 The Wilson-Davis notes are disputed but (per Gerb) "highly likely accurate" notes transcribed
@@ -183,3 +185,7 @@ Gerb's introductory documentary walks through the 15-page notes line by line. Al
 ## Additional claims (gerb/corso)
 
 - Gerb cites the Wilson Davis notes context ([[eric-davis]]) in the Corso video ([[mendel-rivers-hearings-1968]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 9:46-10:39)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video uses it in the audit hypothesis (the 1990s audit that nearly exposed the watch committee's portfolio, then reorganization under the senior review group) and cites [[will-miller]]'s 2000 statement about BDM. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 16:51-19:36)*

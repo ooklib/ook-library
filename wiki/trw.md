@@ -41,6 +41,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 TRW is a defense contractor whose close relationship with the Air Force prompted the 1960 spinoff
@@ -124,3 +126,8 @@ TRW the entity he finds "the most value in investigating" of Northrop's acquisit
 ## Additional claims (gerb/timeline)
 
 - Timeline video: TRW is a "staple" contractor; Space Technology Laboratories subsidiary employed [[edward-dahl]] from 1955; [[aerospace-corporation]] spun off 1960; absorbed by [[northrop-grumman]] (2002); possibly the unnamed aerospace company in the [[wilson-davis-notes]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 44:11-44:59, 1:00:02, 2:00:05-2:00:15, 2:01:03-2:01:39)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Vol.1 ([[northrop-investigation-video-2025]]) calls TRW Northrop's "Capstone" 2002 acquisition and argues it ran legacy programs: it built [[aerospace-corporation]] in June 1960 (Eric Davis all but admitted TRW was a primary contractor in such programs until then), was said to run a crash retrieval program from Wright-Patterson, and had [[eric-a-walker]] as chairman; [[richard-dolan]] links it to [[zodiac-crash-retrieval-program]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 9:39-15:38)*
+- TRW bought [[bdm-international]] in 1997 shortly before Northrop bought TRW; TRW's 1960s tunnel studies for high-speed ground transport and its SDI laser test sites are read as links to [[deep-underground-military-bases]] and the [[strategic-defense-initiative]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 18:33-19:04, 33:04-33:58, 47:04-47:21)*

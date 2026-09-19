@@ -27,6 +27,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Eric A. Walker was president of Penn State University 1956-1971, chairman of the Institute for Defense Analyses, and executive secretary of the Defense Research Board 1950-51. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 14:00-14:30)* UAP Gerb treats him as the man [[robert-sarbacher]] described as "smug" from Philadelphia at the Wright Field crash meeting. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 12:37-13:10)*
@@ -49,3 +51,7 @@ Eric A. Walker was president of Penn State University 1956-1971, chairman of the
 ## Additional claims (gerb/timeline)
 
 - Timeline video: 1987-1990 interviews with William Steinman and Henry Azadehdel (ASR "Aciden to hell"; best outlined in Grant Cameron's report) in which Walker, named by Sarbacher, confirmed involvement in UFO crash retrieval under Bush, said only minds with a "seventh sense" were admitted, confirmed MJ-12 and said he was present at the 1965 Kecksburg crash; Gerb calls him one of the most overlooked witnesses. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:33:58-1:35:44)* Gerb adds that Walker was close to LBJ, who at the Texas White House the day after Kecksburg coordinated national security advisers. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:36:02-2:36:20)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video stresses his position as former chairman of [[trw]] and links TRW to [[zodiac-crash-retrieval-program]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 14:24-15:38)*

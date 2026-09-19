@@ -24,6 +24,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Major General Albert Stubblebine founded the US Army Intelligence and Security Command
@@ -61,3 +63,7 @@ Support Activity (ISA) special forces unit. *([gerb/saic](../raw/gerb/saic.md) 1
 ## Additional claims (gerb/corso)
 
 - Per Corso, the INSCOM founder funded the [[ufo-working-group-1987]]; Gerb repeats claims he tried to pay off Greer and founded NSA's Men in Black team. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:06:33-1:07:14)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video: replaced as INSCOM head in 1984 and became a [[bdm-international]] vice president, and BDM hosted a 1985 physics conference on UFO reverse engineering. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 19:52-20:26)*

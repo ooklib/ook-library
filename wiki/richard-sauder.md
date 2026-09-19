@@ -17,6 +17,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Researcher and author of three books on underground bases, which [[uap-gerb]] calls "masterpieces" and cites throughout his DUMB video (ASR renders the name "Solder"). Gerb says Sauder's work is fact-based, built on FOIA, declassified and public records, plus occasional witness testimony, and that he plans a joint "part 2" project with him. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 1:54, 2:03, 2:10, 1:29:38)*
@@ -36,3 +38,7 @@ Researcher and author of three books on underground bases, which [[uap-gerb]] ca
 ## Additional claims (yogsoggeth/schneider)
 
 - Recommended by [[phil-schneider]] in 1995: Sauder's then-new book Underground Bases and Tunnels ([[schneider-las-vegas-lecture-1995]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 1:00:48)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video cites Underground Bases and Tunnels as claiming with a high degree of certainty that Northrop and Lockheed run underground unconventional research centers in California, including the [[tahone-radar-cross-section-facility]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 31:35-32:40)*

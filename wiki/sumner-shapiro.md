@@ -19,6 +19,8 @@ sources:
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Rear Admiral Sumner Shapiro, a former Director of Naval Intelligence, sat on the board of
@@ -50,3 +52,7 @@ Shapiro. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 44:42–45:05)*
 ## Additional claims (gerb/timeline)
 
 - Timeline video: former DNI 1978-82, connected by Inman to [[bob-oechsler]]; said factions of the US government possess extraterrestrial vehicles and that he studied one up close; craft were disassembled and shipped to laboratories (interlocking components; compared by Gerb to the Aztec 1948 case). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:32:45-1:33:52)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video: also a [[bdm-international]] board member in 1989, when he told [[bob-oechsler]] of dismantling craft in an exact sequence and shipping them across the country. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 20:26-21:22)*

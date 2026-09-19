@@ -15,6 +15,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Late UFO researcher, per [[uap-gerb]] the first to produce the term and public image of the alien reproduction vehicle (ARV) and a handler of witnesses such as [[mark-mccandlish]] for [[steven-greer]]. Author of *Cosmic Top Secret* (1992) and an early-1990s VHS lecture "UFOs and Underground Bases". Since the late 1980s he focused on the [[antelope-valley]], and especially the Northrop Tejon ("Tahachapi"/"Ant Hill") radar cross-section site. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 36:15, 36:22, 36:30, 36:38, 37:10, 39:03)*
@@ -33,3 +35,7 @@ Gerb notes Hamilton's map source "TA" is partly Thomas Castillo of the controver
 ## Relationships
 
 - Mapped in [[hamilton-dumb-network-map]]; see [[deep-underground-military-bases]], [[richard-sauder]], [[tahone-radar-cross-section-facility]].
+
+## Additional claims (gerb/northrop)
+
+- Gerb credits his 1992 Cosmic Top Secret with the first recorded use of "ARV" (misquoted as alien replicated vehicle) and the flux liner, and says Hamilton passed [[brad-sorenson]] and [[mark-mccandlish]] to [[steven-greer]]; Hamilton flagged the Antelope Valley plants and accused the Northrop [[tahone-radar-cross-section-facility]] and its underground installation, citing a 1988 giant boomerang sighting and a saucer seen leaving a building. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 26:04-28:55)*

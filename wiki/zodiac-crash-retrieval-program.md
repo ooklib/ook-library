@@ -15,6 +15,8 @@ relations:
 sources:
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Zodiac is an alleged, unverified UFO crash-retrieval group with [[trw|TRW]] as a managing or
@@ -57,3 +59,7 @@ but has twice deferred a full investigation, saying the topic "deserves its own 
 
 - Alleged TRW-linked crash-retrieval program; investigated by [[richard-dolan]]; referenced by
   [[eric-davis]] in Jacques Vallee's journals.
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video notes that [[richard-dolan]] names [[trw]] as primary contractor of Project Zodiac (source pseudonym Sage Masters) and says he may cover it later. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 15:06-15:38)*

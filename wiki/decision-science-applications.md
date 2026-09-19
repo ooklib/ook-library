@@ -15,6 +15,8 @@ relations:
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Decision Science Applications, Inc. (DSAI), founded in Virginia on 4 January 1977, is described
@@ -50,3 +52,7 @@ Gerb states there is no concrete evidence DSAI was spawned from
 
 - Disputed spinoff of [[science-applications-international-corporation]]; its corporate
   descendants (via Agility) were reacquired by SAIC in 2018.
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video: per [[colonel-steve-wilson]]'s chart, DSAI comprises black-budget directors from the listed contractors plus Ford Aerospace and [[teledyne-ryan]], and Gerb believes its assets passed to [[science-applications-international-corporation]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 45:58-46:56)*

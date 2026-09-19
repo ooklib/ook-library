@@ -35,6 +35,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -83,3 +85,7 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 - Says he survived a possible sabotage of his mountain bike in late 2023 and had metastatic melanoma he attributes to the campaign; also says a member of Congress and his assistant developed aggressive cancers. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 3:10:51-3:11:35, 3:03:13-3:03:38)*
 - Claims he is on friendly terms with Amaryllis Fox Kennedy (White House intelligence advisory group) and would work with Tulsi Gabbard. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 3:36:14-3:36:43)*
 - His proposals: [[greer-executive-order-proposals]]; his cabal thesis: [[transnational-criminal-organization-claims]]; taxonomy: [[man-made-ufo-and-false-flag-claims]].
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video: Greer calls Lockheed's Helendale RCS plant a staging ground for electrogravitic ARVs, and [[arnold-house]] and [[bill-hamilton]] may have been among his key sources. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 29:51-31:18, 49:03-49:18)*

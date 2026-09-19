@@ -19,6 +19,8 @@ sources:
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Former USAF Master Sergeant Edgar Fuche (the ASR transcripts render this variously as "Fuchs" and
@@ -74,3 +76,7 @@ could not provide material evidence for its existence. *([gerb/saic](../raw/gerb
 ## Additional claims (gerb/corso)
 
 - Corso video: Fuche's claim that Livermore and Sandia reverse-engineered the TR3B propulsion is cited alongside [[sandia-national-laboratories]] ([[corso-technology-seeding-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 29:58-30:14)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video: TR-3B test flights over Edwards run by the AF Test Center under the 412th Test Group, near Northrop's Palmdale and Tahone sites; Fuche names Lockheed, Boeing, [[teledyne-ryan]] and Northrop as primes, Sandia and Livermore as propulsion; he also said Area 51 programs moved to [[dugway-proving-ground]] in the early 1990s and that EG&G held a [[project-red-light]] contract. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 34:49-36:19, 52:08-52:17, 54:41-55:21)*

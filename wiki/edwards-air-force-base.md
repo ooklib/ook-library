@@ -24,6 +24,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Home of the 412th Test Wing and an MRTFB (Major Range and Test Facility Base), listed by Gerb
@@ -80,3 +82,7 @@ ranges. *([gerb/mitre](../raw/gerb/mitre.md) 52:21–52:55)*
 ## Additional claims (gerb/corso)
 
 - Corso video: the "Ed" witness alleged a joint reverse-engineering group between Nellis, Area 51 and Edwards and siphoning of RDT&E funds ([[corso-technology-seeding-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 27:32-28:06)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video ties Northrop and TR-3B/[[project-red-light]] claims to a joint Edwards 412th Test Group and Area 51 program described by the witness "Ed"; see [[northrop-investigation-video-2025]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 34:14-34:49, 54:33-55:36)*

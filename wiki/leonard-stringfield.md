@@ -19,6 +19,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Leonard Stringfield, a UFO crash-retrieval investigator Gerb describes as "legendary," produced
@@ -56,3 +58,7 @@ a series of "Crash Retrieval Status Reports" analyzed throughout the SAIC video.
 ## Additional claims (gerb/corso)
 
 - Gerb cites a Stringfield file: a Bell Labs source saw a UFO retrieval at a California AF base in the early 1950s with headband transceivers worn by the aliens; a man who kept a piece vanished ([[ebe-extraterrestrial-biological-entity-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 55:20-56:10)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video traces the first mention of [[project-red-light]] to his files (Crash Retrieval Status Reports), via an April 5, 1980 letter relayed by Michael Schratt. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 53:22-54:33)*

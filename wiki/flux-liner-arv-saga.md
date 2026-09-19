@@ -19,6 +19,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Alleged 12 November 1988 sighting by designer [[brad-sorenson]] of three man-made "flux liner" flying saucers (nicknamed Mama, Papa and Baby Bear) in a classified hangar exhibit at the Norton AFB air show. Relayed for two decades second-hand by illustrator [[mark-mccandlish]]; see [[alien-reproduction-vehicle-tr3b]] and [[air-force-plant-42]] for related material from earlier Gerb videos.
@@ -34,3 +36,7 @@ Alleged 12 November 1988 sighting by designer [[brad-sorenson]] of three man-mad
 ## Additional claims (gerb/corso)
 
 - Gerb compares Brad Sorenson's Norton Air Show claim that the Roswell wreckage was taken without operators' consent to Corso's claim that extraterrestrials gave nothing voluntarily ([[corso-technology-seeding-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 37:14-37:39)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video: Hamilton's 1992 book carries the first recorded mention of the ARV and flux liner, predating Greer's 2001 event; see [[northrop-investigation-video-2025]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 26:04-27:08)*

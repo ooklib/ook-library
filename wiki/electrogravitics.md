@@ -12,6 +12,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Electrogravitics is the label for coupling of electric fields to gravity, coined around [[thomas-townsend-brown]]'s work (the "lowbrow applied version" per Eric Weinstein's framing).
@@ -30,3 +32,7 @@ Electrogravitics is the label for coupling of electric fields to gravity, coined
 ## From Jason Jorjani on American Alchemy (jm/jorjani-religion)
 
 - [[jason-jorjani]] argues zero-point electrogravitic propulsion is a time machine; he cites 1950s Martin Aircraft statements and Michael Masters, and thinks this explains disclosure reluctance. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 1:26:32, 1:30:16)* See [[nordic-control-system-claims]] and [[epstein-atlantis-gravity-claims]].
+
+## Additional claims (gerb/northrop)
+
+- Gerb ([[northrop-investigation-video-2025]]) cites a 1968 NORAIR paper on electro-aerodynamics in supersonic flow (electrostatic field to cut drag), which Nick Cook's source "Dan Marcus" says the Pentagon pulled in 2002, and Aviation Week (March 9, 1992) on the [[b-2-stealth-bomber]] charging the wing leading edge and exhaust; researchers such as Michael Schratt and Richard Boylan claim the B-2 uses reverse engineered electrogravitic technology. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 24:04-25:56)*

@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 The Disclosure Project is [[steven-greer]]'s whistleblower-testimony organization, launched publicly at a National Press Club event in 2001 after a private phase codenamed Project Starlight in the mid-1990s. Greer says it holds terabytes of documents and about 760-plus debriefed whistleblowers, published at dpiarchive.com, and that most identities are redacted unless a witness agrees to come forward. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 4:22-4:58, 7:31-7:49, 18:21-18:30, 12:55-13:01, 1:40:19-1:40:28)*
@@ -25,3 +27,7 @@ The Disclosure Project is [[steven-greer]]'s whistleblower-testimony organizatio
 ## Relationships
 
 - Founded by [[steven-greer]]; see also [[ce5-contact-protocols]], [[greer-executive-order-proposals]].
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video: [[arnold-house]] appears as "AH" in the 2001 briefing document, and Gerb faults Greer's poor operational security with witness identities. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 47:30-48:00)*

@@ -11,6 +11,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 [[northrop-grumman]]'s B-2 is alleged in this source to use a Biefeld-Brown-type electrostatic effect. Host is explicit he is not sure it uses any anti-gravity effect.
@@ -24,3 +26,7 @@ sources:
 ## Relationships
 
 - Built by [[northrop-grumman]]; alleged covert IP from [[thomas-townsend-brown]].
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video repeats the claim that the B-2 uses a Townsend Brown-type electrostatic field, citing the 1992 Aviation Week article and the 1968 NORAIR paper; see [[electrogravitics]] and [[northrop-investigation-video-2025]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 24:04-25:56)*

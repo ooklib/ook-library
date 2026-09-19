@@ -25,6 +25,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Colonel Steve Wilson, a "controversial" whistleblower **distinct from** VADM
@@ -75,3 +77,9 @@ recommending a critical take by author Kevin Randle. *([gerb/saic](../raw/gerb/s
   [[project-pounce]] to Area 51 and SDI-era UFO programs; alleged [[e-systems]] "equalizer"
   weapon and [[alien-reproduction-vehicle-tr3b]]-adjacent "XH-7D" helicopter for
   [[national-reconnaissance-office]]'s Delta detachment.
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video ([[northrop-investigation-video-2025]]) gives the fuller Wilson story with skepticism (Randle's doubts about his 40-year DD214; Boylan's unreachable reporting): assigned to [[majestic-12]] in 1963 at Wright-Patterson, trained with Delta and the First Special Forces Air Command, reassigned in 1972 to S4 near Papoose Lake where he saw eight kinds of craft and a first anti-gravity flight on July 18, 1971 with [[bobby-ray-inman]] present, then headed [[project-pounce]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 36:19-39:17)*
+- Northrop-relevant claims: an orange-golden anti-gravity disc ("Northrop's Great Pumpkin") made by Northrop at a secret facility northeast of Lancaster, matching the [[tahone-radar-cross-section-facility]]; Northrop, Lockheed and McDonnell Douglas RCS sites linked to Area 51 by underground trains dug by nuclear subterrenes; the XH-75D at [[teledyne-ryan]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 39:33-42:04)*
+- His 1997 "Star Wars City" chart, published 2001, places the SDI nexus under Cheyenne Mountain with the [[national-reconnaissance-office]], NSC, NSA, CIA, NORAD and MJ-12, plus contractors (Rockwell, Martin Marietta, Lockheed, Boeing, McDonnell Douglas, IBM) and [[decision-science-applications]], which Gerb says was led by Inman. Gerb ultimately treats it as third-party research and a dead end. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 44:21-47:21)*

@@ -46,6 +46,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 President Ronald Reagan's 1983 Strategic Defense Initiative (SDI, "Star Wars") was a proposed
@@ -135,3 +137,7 @@ programs.
 ## Additional claims (gerb/corso)
 
 - Corso lists anti-missile missiles for Star Wars among the benefits of UFO technology exploration; Gerb repeats his view that SDI had a secondary function to fund UAP programs and act offensively against UAP, and that Eisenhower set the program for UAP offensive action ([[corso-technology-seeding-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 38:19-38:51)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video: [[northrop-grumman]] ran C4ISR and built the first space laser radar (1983), [[teledyne-ryan]] made aerial targets and sensors, and [[trw]] hosted high-powered chemical laser tests. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 6:43-7:22, 46:40-47:21)*

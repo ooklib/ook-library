@@ -85,6 +85,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -304,3 +306,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Additional claims (gerb/corso)
 
 - Received divisions of [[sperry-rand]] after 1986; see also [[glenn-gaffney]]. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 38:03-38:19, 1:06:01-1:06:17)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video contrasts Lockheed ("a hound dog" and opportunist that tried in 2008 to divest material to the SAP world, blocked by [[glenn-gaffney]], likely Kingman material it could not exploit) with the more secretive [[northrop-grumman]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 3:40-3:56, 59:36-1:00:44)*

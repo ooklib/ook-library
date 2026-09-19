@@ -31,6 +31,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 EG&G (Edgerton, Germeshausen, and Grier, Inc.), founded in 1931 by MIT professor
@@ -87,3 +89,7 @@ EG&G (Edgerton, Germeshausen, and Grier, Inc.), founded in 1931 by MIT professor
 ## Additional claims (yogsoggeth/schneider)
 
 - [[phil-schneider]] names EG&G with Los Alamos as developers of exotic crystal materials for black aircraft ([[corbomite-and-alien-materials-claims]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 2:00, 30:37)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video: [[edgar-fuche]] says EG&G held an indefinite [[project-red-light]] contract, with nuclear-mishap recovery and site security duties. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 54:41-55:21)*

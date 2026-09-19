@@ -99,7 +99,7 @@ which transcripts still await ingestion.
 | `gerb/mccandlish` | `raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md` | Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb) | false |
 | `gerb/tr-3b` | `raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md` | Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb) | false |
 | `gerb/corso` | `raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md` | Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb) | true |
-| `gerb/northrop` | `raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md` | UFO Legacy Programs - Northrop Grumman (UAP Gerb) | false |
+| `gerb/northrop` | `raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md` | UFO Legacy Programs - Northrop Grumman (UAP Gerb) | true |
 | `gerb/dugway` | `raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md` | Dugway Proving Ground - UFO Legacy Programs (UAP Gerb) | true |
 | `gerb/dumbs` | `raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md` | Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb) | true |
 | `gerb/navy` | `raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md` | US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb) | false |

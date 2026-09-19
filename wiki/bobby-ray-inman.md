@@ -44,6 +44,8 @@ sources:
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Admiral Bobby Ray Inman had one of the most extensive intelligence/defense careers of any
@@ -102,3 +104,7 @@ director of the [[central-intelligence-agency|CIA]], vice director of the
 ## Additional claims (gerb/timeline)
 
 - Timeline video: cited for the October 1989 (Gerb says 1989) call to [[bob-oechsler]] in which he volunteered [[everett-heinman]] as the contact for recovered UFO hardware, and for the statement to a researcher (who reached him via Admiral Lord Hill-Norton) that the US had craft in operational condition; Gerb notes Inman's roles at NURO, ONI, DCI, NSA and SAIC/Wackenhut boards. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:30:57-1:32:45)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video: introduced retired Rear Adm. [[sumner-shapiro]] to astronaut [[bob-oechsler]] in 1989 while an SAIC and Wackenhut board member, present at Wilson's alleged 1971 S4 test, and head of [[decision-science-applications]] per Wilson's chart. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 20:26-20:52, 38:44-39:00, 45:58-46:23)*

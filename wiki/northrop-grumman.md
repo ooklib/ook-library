@@ -47,6 +47,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Northrop Grumman has primary offices in [[crystal-city-virginia|Crystal City]] and is listed
@@ -151,3 +153,15 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
 ## Additional claims (gerb/corso)
 
 - Received divisions of [[sperry-rand]] after 1986. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 38:03-38:19)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb's first Northrop video ([[northrop-investigation-video-2025]]) frames Northrop as always "alongside in the shadows" of [[lockheed-martin]] in testimony such as [[brad-sorenson]]'s flux liner and [[edgar-fuche]]'s TR-3B, and as the father of the [[b-2-stealth-bomber]] and B-21; it has four divisions (aeronautic, defense, space, mission systems). *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 0:00-6:09)*
+- Formed 1994 from Northrop and Grumman; bought [[teledyne-ryan]] in 1999 and [[trw]] in 2002, its "capstone" acquisition ending an aggressive purchasing streak; Gerb argues TRW was the crown jewel because it ran a portfolio of legacy programs, including a rumored Wright-Patterson crash retrieval program mentioned by Luis Elizondo in his book Imminent (transcribed "Lou alzando"). *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 9:14-10:34)*
+- Received divisions of [[sperry-rand]] after its 1986 collapse (with Lockheed Martin, Raytheon and [[honeywell]]); Gerb links this to [[philip-j-corso]]'s claim that the Army's 1958-1962 golden age of R&D seeded Sperry Rand with recovered technology, suggesting Northrop's legacy operations may trace to that period. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 13:43-14:14, 21:38-22:09)*
+- 1992: created the [[northrop-advanced-technology-and-design-center]] as its answer to [[skunk-works]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 22:09-22:41)*
+- Audit hypothesis: TRW's overcharging, traced to 1994, became the 2003 settlement (about $111M) that Gerb reads as the paper trail of the 1990s audit which, per [[wilson-davis-notes]], forced reorganization under the [[special-access-program-oversight-committee]] senior review group; Gerb notes Northrop paid it a year after buying TRW for roughly $6-7B. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 16:53-18:26, 56:53-57:19)*
+- C4ISR: Northrop ran C4ISR for the [[strategic-defense-initiative]] (first space laser radar, 1983); Gerb has a thesis that select contractors' C4ISR programs host deep-buried special access programs for crash retrieval and ARV data, like [[science-applications-international-corporation]] at [[naval-surface-warfare-center-crane]] and a Lockheed system at Nellis. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 6:09-9:05)*
+- [[karl-nell]] served 13 years as Northrop's deputy CTO; the 1968 NORAIR electro-aerodynamics paper (allegedly pulled in 2002 per Nick Cook's source) and the [[b-2-stealth-bomber]] link it to [[electrogravitics]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 23:00-25:56)*
+- [[bill-hamilton]]'s Cosmic Top Secret (1992) accuses the [[tahone-radar-cross-section-facility]] and an underground installation of being a UAP facility; [[richard-sauder]] claims a high degree of certainty that Northrop and Lockheed run heavily engaged unconventional underground research. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 26:04-33:04)*
+- Whistleblower links: [[edgar-fuche]] (TR-3B primes), [[colonel-steve-wilson]] (anti-gravity disc built by Northrop northeast of Lancaster; XH-75D at [[teledyne-ryan]]), [[arnold-house]] and [[project-red-light]] (Northrop paychecks at Area 51). Gerb's thesis: Northrop, Lockheed, Boeing, Raytheon and SAIC are the project managers across service compartments, and Northrop is "up to their eyeballs" in ongoing work. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 34:49-55:44, 56:53-1:02:34)*

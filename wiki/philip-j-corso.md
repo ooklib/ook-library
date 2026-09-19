@@ -22,6 +22,8 @@ sources:
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Lieutenant Colonel Philip J. Corso, author of *The Day After Roswell* and (per Gerb, the more
@@ -72,3 +74,7 @@ amount of fluff inserted by the book's co-writer." *([gerb/mitre](../raw/gerb/mi
 ## Additional claims (gerb/corso)
 
 - Subject of [[corso-investigation-video-2025]]. Career per Gerb: Army 1942-1963; military intelligence in Europe; chief of CIC in Rome, arranging passage for Jewish refugees and serving as emissary to Giovanni Montini (later Pope Paul VI); Korean War special projects under [[douglas-macarthur]] on POW/MIA (testified to the 1992 Senate select committee); Eisenhower NSC staff 1953-57 and the [[operations-coordinating-board]] (contested, see [[corso-criticism-claims]]); commander of the 71st missile battalion in Germany and Inspector General of the 7th Army; chief of the [[army-foreign-technology-division]] from 1960 under [[arthur-trudeau]]. Claimed nine clearance levels above Top Secret, known only to [[c-d-jackson]] and Eisenhower. Twice as a missile commander unidentified objects at over 3,000 mph were tracked over New Mexico and Germany and he was ordered to destroy records. Key items: [[corso-affidavit-1998]], [[corso-fort-riley-ebe-sighting-1947]], [[roswell-file]], [[corso-technology-seeding-claims]], [[corso-white-sands-nhi-encounter-claims]], [[ebe-extraterrestrial-biological-entity-claims]], [[soviet-parallel-tuo-exploitation-claims]], [[ufo-working-group-1987]], [[dawn-of-a-new-age-manuscript]] vs [[the-day-after-roswell-book]]. He kept silent about it until Trudeau's death per a promise to Trudeau. Per Gerb, [[george-h-w-bush]] told [[eric-davis]] Corso's material was not Nazi hardware ([[mendel-rivers-hearings-1968]]). Son: [[philip-corso-jr]]. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 6:55-9:07, 40:33-43:15, 10:32-12:51)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video argues that if Corso is right, Northrop's legacy operations trace to the Army golden age of R&D (1958-1962), which also saw [[mitre-corporation]], [[aerospace-corporation]] and [[bdm-international]] founded, and through [[sperry-rand]] divisions inherited by Northrop. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 10:56-11:43, 21:38-22:09)*

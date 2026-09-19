@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 California high desert region (Palmdale/Lancaster) and a chief US center of aerospace development: [[air-force-plant-42]], [[lockheed-martin]] Skunk Works, former Norton AFB (site of primary witness Brad S.'s flux-liner ARV sighting), [[edwards-air-force-base]], and [[northrop-grumman]], Rockwell and [[mcdonnell-douglas]] plants, plus three radar cross-section (RCS) ranges: [[tahone-radar-cross-section-facility]] (Northrop Tejon), Lockheed Helendale, and McDonnell Douglas. [[uap-gerb]] calls it "the most consequential location that has ever come up in all of my research". *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 37:07, 37:17, 37:24, 38:17, 38:49, 38:56)*
@@ -30,3 +32,7 @@ California high desert region (Palmdale/Lancaster) and a chief US center of aero
 ## Relationships
 
 - Contains [[tahone-radar-cross-section-facility]], [[edwards-air-force-base]], [[air-force-plant-42]]; adjacent to [[china-lake]]; see [[hamilton-dumb-network-map]].
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video (from [[bill-hamilton]]): Lockheed, Rockwell, McDonnell Douglas and Northrop all have Palmdale plants around [[air-force-plant-42]], with Northrop's [[tahone-radar-cross-section-facility]] underground site as the flagged UAP facility. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 26:44-27:54)*

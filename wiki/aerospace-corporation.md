@@ -29,6 +29,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 The Aerospace Corporation is a systems-and-integration-center FFRDC, spun off from TRW in 1960
@@ -77,3 +79,7 @@ concerns over TRW's close Air Force relationship. *([gerb/mitre](../raw/gerb/mit
 ## Additional claims (gerb/timeline)
 
 - Timeline video: founded 1960 as a spin-off of [[trw]] and cited as one of the FFRDCs framing the legacy program during the golden age of R&D (with MITRE); [[edward-c-aldridge]] was later its CEO. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:00:02-1:00:10, 1:09:44-1:10:06, 1:24:00)*
+
+## Additional claims (gerb/northrop)
+
+- Gerb notes it was spun off from [[trw]] in June 1960, one year after [[mitre-corporation]] (1959), both [[ffrdc]]s, and relates the timing to [[philip-j-corso]]'s 1958-1962 Army R&D golden age; TRW was reportedly principal investigator for the first ~29 years, and [[eric-davis]]'s employment there is noted. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 10:34-13:35)*

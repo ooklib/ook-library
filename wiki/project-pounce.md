@@ -28,6 +28,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 An elite Air Force/National Reconnaissance Organization special-forces unit, per
@@ -61,3 +63,7 @@ elements of JSOC/Delta Force. *([gerb/saic](../raw/gerb/saic.md) 12:49–12:56)*
   [[majestic-12]] lore and the [[robertson-panel-1953]]; concept originated by
   [[william-a-matheny]]; alleged umbrella authority [[national-reconnaissance-office]]; "equalizer"
   weapon attributed to [[e-systems]].
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video notes Pounce appears in the disputed Project Aquarius document and the 1953 Robertson panel report; see [[colonel-steve-wilson]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 38:52-39:25)*

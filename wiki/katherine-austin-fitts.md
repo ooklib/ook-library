@@ -14,6 +14,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Katherine Austin Fitts, former Assistant Secretary for Housing and Urban Development, released
@@ -55,3 +57,7 @@ unauthorized US black-budget spending. *([gerb/saic](../raw/gerb/saic.md) 48:48â
 - Investigates fund-obfuscation practices at
   [[science-applications-international-corporation]] and [[lockheed-martin]]; cites
   [[richard-dolan]].
+
+## Additional claims (gerb/northrop)
+
+- Gerb's Northrop video uses her 2004 "Black Budget of the United States" paper on diverted funds, contractors' accounting systems obscuring them, the never-passed Pentagon audits and the $21T unauthorized spending paper as context for the audit hypothesis about [[trw]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 15:38-17:07)*

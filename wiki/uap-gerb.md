@@ -39,6 +39,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -106,3 +108,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Additional claims (gerb/corso)
 
 - Video [[corso-investigation-video-2025]] (2025-01-03). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 0:00-4:49)*
+
+## Additional claims (gerb/northrop)
+
+- Video: [[northrop-investigation-video-2025]] (2025-01-27), the first Northrop Grumman investigation, on acquisitions ([[trw]], [[teledyne-ryan]], [[bdm-international]]), Antelope Valley sites and whistleblowers ([[colonel-steve-wilson]], [[arnold-house]]). Gerb calls it more conclusive than his Lockheed or Battelle work despite the thinner paper trail. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 0:00-5:13, 1:03:20-1:03:28)*

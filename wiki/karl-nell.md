@@ -16,6 +16,8 @@ relations:
 sources:
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
+    label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
 ---
 
 Colonel Karl Nell, US Army Futures Command, is a vocal advocate for [[david-grush|David Grush]]'s
@@ -38,3 +40,7 @@ satellite constellation." *([gerb/lockheed](../raw/gerb/lockheed.md) 2:19:41–2
 
 - Career spans [[northrop-grumman]] and [[lockheed-martin]]; public advocate for
   [[david-grush]]'s claims.
+
+## Additional claims (gerb/northrop)
+
+- Gerb ([[northrop-investigation-video-2025]]) quotes his "zero doubt" statement and notes his 13 years as Northrop's deputy CTO plus service as command representative to CENTCOM for the Army foreign material program. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 23:00-24:04)*
