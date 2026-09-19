@@ -1245,3 +1245,11 @@ Source: raw/mm/ (key `mm/vanderbilt`), https://www.youtube.com/watch?v=KXFwnXEk6
 Summary: A conventional business-history mini-documentary on Cornelius Vanderbilt: ferry origins, predatory undercutting in sail and steam, the Nicaragua gold-rush route and his "I'll ruin you" letter to partners who cheated him (he says he helped start a war to topple Walker), railroad consolidation, and his death in 1877 with a fortune of about $100 million. No UFO content or hidden-control claims; recorded as power-structure background.
 
 Judgment calls: (1) No new relation types. (2) ASR: "Corenlius/Cornelius", "barron"=baron. (3) The partner "Morgan" in Nicaragua is not linked to the house-of-morgan pages since the source does not identify him with J.P. Morgan's family. (4) ShipStation sponsor read ignored. (5) Left inline without pages: William Walker, Garrison, Frank Armstrong Crawford, Sophia Vanderbilt.
+
+## [2026-09-19] ingest | J.P. Morgan: The Man Who Owned America | MagnatesMedia (1m20s)
+
+Source: raw/mm/ (key `mm/jp-morgan`), https://www.youtube.com/watch?v=x1_a20ZDBlU by MagnatesMedia, dated 2023-06-24; ~19m. Created 6 pages: [[most-jp-morgan-owned-america-documentary-2023]], [[morganization]], [[us-steel-corporation]], [[panic-of-1907]], [[pujo-committee]], [[theodore-roosevelt]]. Updated: [[j-pierpont-morgan]], [[house-of-morgan]], [[junius-spencer-morgan]], [[panic-of-1893]], [[cornelius-vanderbilt]].
+
+Summary: A conventional business-history mini-documentary on J.P. Morgan: sickly youth, Civil War profiteering, railroad consolidation ("morganization"), the Northern Securities fight with Theodore Roosevelt, the US Steel purchase from Carnegie, the 1893 gold syndicate and 1907 library bailout, the Pujo Committee and the Fed, and the JPMorgan Chase legacy. No UFO content or hidden-control claims.
+
+Judgment calls: (1) No new relation types. (2) ASR: "Theador"=Theodore, "Republic nominee"=Republican. (3) The 1893 account omits the Rothschilds and says 22 minutes (vs 30 in finaius); both recorded side by side. (4) ShipStation sponsor read ignored. (5) Carnegie and Edison/GE/AT&T mentions kept inline without pages.

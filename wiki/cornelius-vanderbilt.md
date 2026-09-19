@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/mm/MagnatesMedia - 2022-05-06 - The Most BRUTAL Businessman In History.md"
     label: "The Most BRUTAL Businessman In History (MagnatesMedia)"
+  - file: "raw/mm/MagnatesMedia - 2023-06-24 - J.P. Morgan - The Man Who Owned America.md"
+    label: "J.P. Morgan: The Man Who Owned America (MagnatesMedia)"
 ---
 
 Cornelius Vanderbilt (died 1877 aged 82) was an American shipping and railroad magnate, called "The Commodore" and, by [[most-brutal-businessman-vanderbilt-documentary-2022]], "the original robber baron". The wiki records the documentary's account, which is conventional business history rather than conspiracy claims.
@@ -27,8 +29,10 @@ Cornelius Vanderbilt (died 1877 aged 82) was an American shipping and railroad m
 - Sold his ships for railroads, consolidating independent lines into an interconnected network and, per the narrator, the largest railroad in the world. *([mm/vanderbilt](<../raw/mm/MagnatesMedia - 2022-05-06 - The Most BRUTAL Businessman In History.md>) 10:13, 11:04)*
 - Gave $1 million to found Vanderbilt University, described as the largest US charitable gift at the time. *([mm/vanderbilt](<../raw/mm/MagnatesMedia - 2022-05-06 - The Most BRUTAL Businessman In History.md>) 11:07)*
 - Died in 1877 with a fortune of about $100 million (about $200 billion today), reportedly more than the US Treasury held and about one-ninth of US currency in circulation; about 90% went to his oldest son. *([mm/vanderbilt](<../raw/mm/MagnatesMedia - 2022-05-06 - The Most BRUTAL Businessman In History.md>) 0:12, 11:52, 12:00, 12:14)*
+- MagnatesMedia's Morgan documentary says J.P. Morgan bought 250,000 New York Central shares from his son William Vanderbilt: see [[j-pierpont-morgan]]. ([mm/jp-morgan](<../raw/mm/MagnatesMedia - 2023-06-24 - J.P. Morgan - The Man Who Owned America.md>) 7:09)*
 
 ## Relationships
 
 - Participated in [[nicaragua-transit-dispute-1850s]].
 - Compared by the narrator to later magnates in the [[rockefeller-family]] tradition; the [[house-of-morgan]] is a different Morgan lineage from the "Morgan" who betrayed him in Nicaragua.
+- Cross-reference: [[most-jp-morgan-owned-america-documentary-2023]].
