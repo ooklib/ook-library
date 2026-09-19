@@ -18,6 +18,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 Santo Trafficante was a Mafia figure who controlled Cuban heroin-processing labs central to
@@ -52,3 +54,8 @@ up especially in relation to the Kennedy assassination" in later episodes.
 - Host (citing [[peter-dale-scott]]): the CIA protected him and [[sam-giancana]] after [[robert-f-kennedy]]'s 1960 book named them. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:14:42-1:15:06)*
 - Host (citing Hougan): possible double agent for Castro (cushy jailing and release; Castro skipped his favorite restaurant the day the poison-pill plot was to be executed); alternative: Roselli's remark (via 1981 Chicago Tribune / Jimmy Fratianno) that Trafficante "conned everybody" and "just sat on it". See [[cia-mafia-legend]]. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:16:19-1:19:33)* Named as the CIA's main mob ally later in Southeast Asian heroin importing. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:16:19-1:16:34, 1:17:23-1:17:32)*
 - Not called before the [[church-committee]]; testified to the HSCA in 1978, downplaying his role as a "Spanish interpreter", denying involvement in JFK's murder; died of natural causes in 1987 at 72. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:21:40-1:22:28)*
+
+## Additional claims (JFK and the CIA)
+
+
+- Host: reintegrated by [[william-harvey]] with Roselli in November 1961. See [[zr-rifle]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:09:55-1:10:52)*

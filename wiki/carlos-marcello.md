@@ -17,6 +17,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 Carlos Marcello (ASR "Marcelo") is the New Orleans crime boss whom [[eyes-wide-open]] calls a prominent player in the CIA's future anti-Castro operations; Louisiana became "arguably the second most important node" after South Florida. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 16:00-16:15, 41:11-41:29)*
@@ -38,3 +40,8 @@ Carlos Marcello (ASR "Marcelo") is the New Orleans crime boss whom [[eyes-wide-o
 
 
 - A client of lobbyist [[irving-davidson]], "reportedly a good friend" of Davidson (host, citing John Davis's *Mafia Kingfish*). *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 41:08-41:24)*
+
+## Additional claims (JFK and the CIA)
+
+
+- Host: a focus of RFK's organized-crime inquiries as Attorney General (with Hoffa and Giancana). *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 46:29-46:47)*

@@ -88,6 +88,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -263,3 +265,11 @@ calls him "arguably one of, if not the most important person in modern American 
 
 - Host: the "pilot project" devised by Dulles placed private cover for CIA assets in the Caribbean; [[zapata-offshore]] was "the first activation of Bush by Dulles as a proper intelligence asset." *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 14:57-15:21, 18:59-19:06)*
 - Host's account of Dulles and the [[bay-of-pigs-invasion]]: eight years as DCI with Eisenhower's green light; allegedly lied to Kennedy about air support; forced to resign by end of 1961/62 with Bissell and Cabell. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 35:31-37:11, 38:52-39:07)*
+
+## Additional claims (JFK and the CIA)
+
+
+- Forced to resign as DCI after "nearly 9 years," which the host says remains the longest tenure; Kennedy presented him the National Security Medal on November 28, 1961 and the White House released his signed resignation letter the next day, his last day. Host: his exit "sent shock waves" through the intelligence community; he had brought his OSS "gentleman spies" (Ivy League lawyers and bankers) with him. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 6:15-7:39)*
+- Attended (as DCI) the December 19, 1960 meeting with Eisenhower and [[john-mccone]] about the Israeli plutonium plant. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 11:27-11:45)*
+- Helms allegedly bunked with him in Paris at the end of the war; his friend [[thomas-mckittrick]] led the [[bank-for-international-settlements]] during its alleged laundering of Nazi loot. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 19:05-19:18, 22:55-23:08)*
+- Host: the assassination plots against Castro began "under the Nixon-Dulles leadership." *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:02:07-1:02:14)* Host says the primer marks the end of "the Allen Dulles era of the agency," which covered everything on the channel so far. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 4:57-5:15)*

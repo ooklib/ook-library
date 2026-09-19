@@ -41,6 +41,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 J. Edgar Hoover was the first, long-time director of the
@@ -122,3 +124,8 @@ US foreign intelligence functions during the run-up to the CIA's creation.
 ## Additional claims (Bush and the CIA, Chapter 3)
 
 - Host cites the "often cited" Hoover memo labeling [[george-h-w-bush]] "George Bush of the CIA" and dates it November 29, 1963; not shown or quoted at length. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 34:06-34:23)*
+
+## Additional claims (JFK and the CIA)
+
+
+- Host's speculation: Hoover wanted to absorb international intelligence functions into the Bureau and may have planted loyal agents in the new CIA in 1947, pointing to [[william-harvey]] and [[robert-maheu]] both leaving the FBI that year; the official story is that Harvey resigned after Hoover ordered him to Indianapolis. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:12:42-1:14:04)*

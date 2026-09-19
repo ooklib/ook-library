@@ -22,6 +22,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 The 22 November 1963 assassination of President John F. Kennedy in Dallas. In this episode Eyes Wide Open covers only [[e-howard-hunt]]'s alleged presence and deathbed confession; the host says his own research indicates a fundamental mob element in the conspiracy. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:48-11:00)*
@@ -62,3 +64,11 @@ The 22 November 1963 assassination of President John F. Kennedy in Dallas. In th
 
 
 - Context claims: Dallas mayor [[earle-cabell]] and brother [[charles-cabell]] (Dulles's deputy) as a CIA-Dallas link; [[george-de-mohrenschildt]]'s friendship with Oswald; General [[charles-willoughby]] as an "overlooked critical player" in private paramilitary networks surrounding Kennedy's death; [[j-edgar-hoover]] covering up the conspiracy per Peter Dale Scott; the Texas oil interests' motive around [[john-f-kennedy]]'s depletion-allowance threat. The host says Season 3 ("The Road to Dallas") will head toward November 22, 1963. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 9:17-9:24, 17:38-17:56, 26:44-27:15, 28:32-28:39, 37:53-38:17, 49:06-49:22)*
+
+## Additional claims (JFK and the CIA)
+
+
+- Host frames Season 3 of Eyes Wide Open as a slow approach to Dallas through the "swirling nexus" of Gulf Coast covert activity around [[jm-wave-station]]; researchers "speculate" the paramilitary morass spawned the final plot. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 3:32-4:08)*
+- Host says RFK later came to oppose assassination programs after JFK's death, "allegedly at the hands of some of the very elements that his office tacitly promoted." *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 33:50-34:03)*
+- Host says [[edward-lansdale]]'s closeness to CIA and Army intelligence circles put him "at the center of many theories of the Kennedy assassination." *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 57:35-57:53)*
+- Host notes speculation of an Israeli element with the motive of stopping JFK's reining in of the Israeli nuclear program, to be taken up later. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 13:00-13:13)*

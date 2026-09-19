@@ -10,6 +10,9 @@ relations:
   - relation: associate_of
     target: william-f-buckley-jr
     note: "member alleged by host"
+  - relation: associate_of
+    target: mcgeorge-bundy
+    note: "Bundy brothers and father alleged members"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
@@ -19,6 +22,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 Skull and Bones is the Yale secret society that [[eyes-wide-open]] uses in this episode as an
@@ -63,3 +68,8 @@ mentions on [[henry-luce]] and [[george-h-w-bush]] were passing).
 
 
 - Host: Bush is a "Skull and Bones graduate"; [[william-f-buckley-jr]] was a Skull and Bones initiate who overlapped with Bush at Yale and served in the CIA 1951-53. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 1:02-1:09, 22:05-22:22)*
+
+## Additional claims (JFK and the CIA)
+
+
+- Host: all three Bundys (Harvey Hollister, McGeorge, William) were Bonesmen, and Bones was "a key gateway to the CIA and spycraft" for young spooks; Henry L. Stimson was also a Bonesman and mentored "Stimson's Kindergarten" (Kris Millegan's phrase/2000 article; Millegan's PDF is in the video bibliography), whose members the host lists as [[george-c-marshall]], John J. McCloy, Dean Acheson, [[robert-lovett]] (called a "fellow Bonesman") and the Bundy brothers. William Bundy went from Bones to the CIA; see [[mcgeorge-bundy]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 35:56-38:34)*

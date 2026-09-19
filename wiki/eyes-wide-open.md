@@ -53,6 +53,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -185,3 +187,8 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 
 - Aired to Patreon Nov 13, 2024; the last of the season's 11 videos. Host states the channel is ad-free, sponsor-free and "AI free." Season 3 (on Patreon since January 2025) continues from the Bush series; Patreon-only videos on the Kennedy White House, early [[ted-shackley]] and [[jm-wave-station]]/Operation Mongoose, and a long-form JFK series "The Road to Dallas" (primer plus [[frank-sturgis]] and David Atlee Phillips episodes). *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 40:27-44:33)*
 - Host names as sources: Russ Baker (*Family of Secrets*), Robert Bryce (*Cronies*), Joseph Trento (*Prelude to Terror*), [[jonathan-kwitny]] (*The Crimes of Patriots*).
+
+## Additional claims (JFK and the CIA)
+
+
+- `ewa/jfk-cia` (aired September 5, 2025, first made available to Patreon producer-tier patrons January 22, 2025) opens Season 3, "The Road to Dallas": a "primer" on the Kennedys' fight with the CIA after the Bay of Pigs, to be followed by a Ted Shackley biography and, per the closing remarks, Gladio stay-behind detours and a three-part series on modern Japan and [[charles-willoughby]]. Host credits podcaster Recluse (*The Farm*) and cites Talbot, Hinckle and Turner, Corn, Prados, Trento, Valentine and Millegan. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 0:01-5:28, 1:20:37-1:22:35)*

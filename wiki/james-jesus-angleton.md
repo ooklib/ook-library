@@ -30,6 +30,9 @@ relations:
   - relation: member_of
     target: georgetown-set
     note: "known to drop by"
+  - relation: associate_of
+    target: william-harvey
+    note: "Harvey's first CIA role was in Angleton's counterintelligence shop"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
@@ -45,6 +48,8 @@ sources:
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 James Jesus Angleton was the OSS station chief in Rome during WWII and, per Eyes Wide Open, would
@@ -122,3 +127,8 @@ viewed [[allen-dulles]] as a mentor and personally helped extract fascist collab
 ## Additional claims (Operation 40)
 
 - Bissell's close confidant and part of the East Coast old-boy set. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 14:27-14:33, 16:22-16:28)*
+
+## Additional claims (JFK and the CIA)
+
+
+- Host: with Dulles and Helms, an enduring symbol of the CIA's WASP old-boy origins. Harvey, not Angleton, correctly identified Kim Philby in 1951; Angleton overlooked his wartime London friend. Host mentions the "recent revisionist theory" that Angleton was a double or triple (Soviet and Israeli) agent, citing his poor mole-hunting record, paranoia and "nearly two decades" heading the CIA's Israeli desk, and defers it. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 17:59-18:06, 1:15:03-1:16:37)*

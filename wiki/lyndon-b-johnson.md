@@ -21,6 +21,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 Lyndon Johnson appears in War Conspiracy 1 as one of the two politicians (with [[richard-nixon]])
@@ -59,3 +61,8 @@ whom [[eyes-wide-open]] says the [[china-lobby]] "effectively elevated," and who
 
 
 - Early patron [[sid-richardson]] backed his 1931 and 1937 campaigns; protege [[john-connally]] was his fixer/"bagman" (Bryce); Texas firm Brown and Root, a major early supporter, was absorbed by [[halliburton]] (host: 1962); a dedicated LBJ video on "the Halliburton octopus" is promised. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 10:19-11:05, 46:52-47:16)*
+
+## Additional claims (JFK and the CIA)
+
+
+- Host: LBJ, "an insider in his own right," elevated [[richard-helms]] to DCI in 1966 replacing McCone; the Gulf of Tonkin incident gave his administration "just cause" to enter Vietnam unilaterally. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 27:13-27:25, 39:41-40:03)*

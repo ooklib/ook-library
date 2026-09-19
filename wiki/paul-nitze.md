@@ -20,6 +20,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 Paul Nitze is presented by [[eyes-wide-open]] as an "obscure" figure whose [[nsc-68]] made the
@@ -47,3 +49,8 @@ aliases.
 ## Additional claims (Operation 40)
 
 - Named with Acheson, Harriman and McCloy at Georgetown parties; author of [[nsc-68]]. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 19:03-19:24)*
+
+## Additional claims (JFK and the CIA)
+
+
+- Host: Assistant Secretary of Defense for International Security Affairs under Kennedy, with William Bundy as his deputy; became Secretary of the Navy on November 29, 1963 (host's date, "7 days after Kennedy's murder"), so the Gulf of Tonkin "false flag" involving Navy ships was under his purview; host links his NSC-68 rollback thinking to the Vietnam War. See [[mcgeorge-bundy]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 38:40-40:16)*

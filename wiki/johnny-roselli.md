@@ -18,6 +18,8 @@ sources:
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 Johnny Roselli ("handsome Johnny") is the Chicago-outfit mobster [[eyes-wide-open]] names as the mob's counterpart in the 1960 Brown Derby meeting with [[robert-maheu]]. The host calls him "an operator", not merely a mobster, and one of the major liaisons between the [[national-crime-syndicate]] and the "respectable American establishment".
@@ -40,3 +42,8 @@ Johnny Roselli ("handsome Johnny") is the Chicago-outfit mobster [[eyes-wide-ope
 
 
 - Host: with Jack Ruby he "emigrated from the underworld of Chicago" to LA (Roselli) and Dallas (Ruby) via the wire-service expansion; a Del Charro employee reportedly saw him poolside with [[j-edgar-hoover]]. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 30:11-30:26, 38:31-38:46)* See [[del-charro-set]].
+
+## Additional claims (JFK and the CIA)
+
+
+- Host: reintegrated by [[william-harvey]] into CIA plots in mid-November 1961 (IG report "phase two"). See [[zr-rifle]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:09:55-1:10:52)*

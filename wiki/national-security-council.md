@@ -24,6 +24,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 The National Security Council historically housed the covert-activities oversight structure for
@@ -69,3 +71,8 @@ evolving into the "committee of 27" [[ufo-control-group]] formed in 1994. *([ger
 - Founded 1947 as the alleged successor venue to the [[top-policy-group]]; operated the
   [[nsc-5412-committee]] from 1954.
 - War Conspiracy 1: [[nsc-68]].
+
+## Additional claims (JFK and the CIA)
+
+
+- Host: the national security adviser post was technically created by the 1947 National Security Act (same act as the NSC, USAF and CIA) but institutionalized in 1953 under Eisenhower with Robert Cutler as first White House-level adviser; Ike went through four; Gordon Gray was arguably the first to matter; [[mcgeorge-bundy]] (from January 1961) made it one of the government's most influential posts. Host claims Bundy, Kissinger and Brzezinski all came out of Rockefeller-sponsored policy shops (CFR, Harvard). *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 43:03-45:01)*

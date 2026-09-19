@@ -13,6 +13,11 @@ relations:
   - relation: associate_of
     target: operation-40
     note: "veterans employed; Miami base for exile recruitment"
+  - relation: associate_of
+    target: zr-rifle
+    note: "Harvey used the station as his Miami base for ZR/RIFLE-era operations"
+  - relation: associate_of
+    target: william-harvey
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
     label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
@@ -20,6 +25,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 JM/WAVE is the CIA Miami station opened in the early 1960s, per [[eyes-wide-open]] "their largest spy station on domestic soil and at the time in the entire world." *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 51:51-52:15)*
@@ -42,3 +49,10 @@ JM/WAVE is the CIA Miami station opened in the early 1960s, per [[eyes-wide-open
 ## Additional claims (Bush and the CIA, Chapter 3)
 
 - Host, preview: the series continues at JM/WAVE post-Bay of Pigs, where [[ted-shackley]] became station chief of "the largest US spy station in the world"; a Patreon video covers JM/WAVE and Operation Mongoose. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 39:56-40:27, 42:38-42:53)*
+
+## Additional claims (JFK and the CIA)
+
+
+- Host: at the time "the largest US spy base in the world," the center of the Season 3 narrative; forced to reorganize after the Bay of Pigs, though the "corruption was already deep-seated" so it meant "much of the same." The CIA ran its own "unauthorized and consistently contradictory" anti-Castro activities from JM Wave alongside [[operation-mongoose]], "largely organized at first under Operation ZR Rifle," and from 1961-63 the Gulf Coast was "an absolute hotbed of paramilitary activity." *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 2:25-4:31)*
+- Rooted in CIA paramilitary capacity built since PBSuccess (1954) and the Bay of Pigs. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:53-2:25)*
+- [[william-harvey]] used it as his "small thief" (ASR; probably "fiefdom") to direct South Florida operators training assassination teams and paramilitaries; [[ted-shackley]] became chief in early 1962. [[richard-helms]] would rely on Harvey and JMWAVE. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 29:54-30:01, 1:17:40-1:18:35)*

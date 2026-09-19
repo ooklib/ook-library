@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 The Church Committee is the mid-1970s Senate investigation of the intelligence agencies that [[eyes-wide-open]] names as the source of declassified material on the [[cia-mafia-assassination-plots]]. In this episode it appears only through the plots; the page is a hub for future ingests.
@@ -23,3 +25,8 @@ The Church Committee is the mid-1970s Senate investigation of the intelligence a
 ## Relationships
 
 - Investigated the [[cia-mafia-assassination-plots]]; heard [[johnny-roselli]].
+
+## Additional claims (JFK and the CIA)
+
+
+- Host: the CIA's [[richard-helms]] kept much damaging information from the 1975 "year of intelligence" inquiries after Watergate; the committee's [[zr-rifle]] timeline (February 1961 launch; Bissell "twice urged by the White House"; Harvey reintegrating the mob in mid-November 1961) and the 144-page 1967 IG report "ribbon copy" are the host's main primary sources. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 27:36-28:12, 1:03:53-1:04:52, 1:07:41-1:08:01, 1:10:39-1:10:52)*

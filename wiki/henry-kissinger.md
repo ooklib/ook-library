@@ -15,6 +15,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 Henry Kissinger appears in War Conspiracy 2 as the then-little-known Harvard professor who co-directed the Rockefeller [[special-studies-project]] and personally directed Panel II; the host adds that he later became Nixon's "bloodthirsty" National Security Advisor and an architect of the Southeast Asian bombing campaign (host's characterization, "clearly reassessed as war crimes"). *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 27:12-27:35, 27:44-27:59)*
@@ -27,3 +29,8 @@ Henry Kissinger appears in War Conspiracy 2 as the then-little-known Harvard pro
 ## Relationships
 
 - Co-director of [[special-studies-project]] with [[nelson-rockefeller]]; later served [[richard-nixon]]; see [[rockefeller-family]].
+
+## Additional claims (JFK and the CIA)
+
+
+- Host: Harvard government-department colleague of [[mcgeorge-bundy]]; called by [[nelson-rockefeller]] to the [[special-studies-project]] ("main blueprint of a 'limited war'"); one of the Rockefeller-sponsored national security advisers. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 41:32-42:18, 44:43-45:01)*

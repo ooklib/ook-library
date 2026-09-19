@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 The Bank for International Settlements (BIS), headquartered in Bern, was founded in the 1920s to
@@ -41,3 +43,8 @@ described in this episode.
 - Held funds for [[ig-farben]] and Merck KGaA, laundered through shell companies by
   [[john-foster-dulles]] with cover from [[allen-dulles]].
 - Target of [[franklin-d-roosevelt]]'s Operation Safe Haven asset-confiscation policy.
+
+## Additional claims (JFK and the CIA)
+
+
+- Host: first president was Gates W. McGarrah (1930-33), maternal grandfather of [[richard-helms]]; founded to facilitate German reparations, "most known for its work after McGarrah's leadership laundering Nazi loot" under [[thomas-mckittrick]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 18:34-19:18)*

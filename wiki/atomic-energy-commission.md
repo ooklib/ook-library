@@ -26,6 +26,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 The Atomic Energy Commission (AEC), created by the 1946 Atomic Energy Act, was the civilian
@@ -105,3 +107,8 @@ administration|NNSA]] UFO legacy-program gatekeeping structure. *([gerb/sandia](
   [[nevada-national-security-site|Nevada Test Site]] in 1951.
 - Alleged, per [[j-andrew-kissner]] and the Eisenhower Briefing Document, to have received custody
   of recovered discs from the [[roswell-incident-1947]] and other 1947–1950 crash retrievals.
+
+## Additional claims (JFK and the CIA)
+
+
+- Host: [[john-mccone]] chaired the AEC (succeeding Lewis Strauss) and uncovered Israel's nuclear program in 1960, which earned him the DCI job. No UFO/crash-retrieval link is made in this transcript. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 10:52-12:34)*

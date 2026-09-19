@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 Sheffield Edwards is the CIA Office of Security official [[eyes-wide-open]] names as the working-level manager of the [[cia-mafia-assassination-plots]], picked by [[richard-bissell]] from "a somewhat obscure section of the agency".
@@ -29,3 +31,8 @@ Sheffield Edwards is the CIA Office of Security official [[eyes-wide-open]] name
 ## Relationships
 
 - Supervisor of the plots' operational side; selected by [[richard-bissell]]; interacts with [[sidney-gottlieb]]'s poisons.
+
+## Additional claims (JFK and the CIA)
+
+
+- Per the 1967 IG report as read by the host, [[richard-helms]] appears as an observer of the Harvey and Edwards plots, not a prime mover. See [[zr-rifle]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:05:23-1:05:43)*

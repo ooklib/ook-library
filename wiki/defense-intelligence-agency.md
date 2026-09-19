@@ -16,6 +16,8 @@ relations:
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 The Defense Intelligence Agency, one of the US's "big five" intelligence agencies, is where
@@ -26,3 +28,8 @@ served as vice director. Sponsored [[project-stargate]] under the codename "Cent
 ## Relationships
 
 - Employed [[thomas-wilson]] and [[bobby-ray-inman]]; sponsored [[project-stargate]].
+
+## Additional claims (JFK and the CIA)
+
+
+- Per podcaster Recluse (via the host), the Pentagon Office of Special Operations under Maj. Gen. Graves Erskine, where [[edward-lansdale]] worked before Mongoose, was a "prototypical defense intelligence agency" (DIA formed 1961 under Kennedy) with veto power over CIA, NSA and Joint Chiefs operations. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 48:53-49:25)*

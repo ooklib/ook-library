@@ -13,6 +13,9 @@ relations:
   - relation: associate_of
     target: felix-rodriguez
     note: "closeness; reunited in Saigon"
+  - relation: associate_of
+    target: william-harvey
+    note: "Harvey's top Berlin agent in the 1950s; followed him to Miami"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
     label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
@@ -20,6 +23,8 @@ sources:
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 Scoped page: this covers only what [[eyes-wide-open]]'s Operation 40 episode says. Later Shackley-focused episodes (`ewa/shackley`) will add depth. ASR renders the name as "Ted Shockley"/"shakley" (normalization to Shackley by inference; the same spelling issue appears in earlier episodes).
@@ -43,3 +48,11 @@ Scoped page: this covers only what [[eyes-wide-open]]'s Operation 40 episode say
 ## Additional claims (Bush and the CIA, Chapter 3)
 
 - Host: Shackley took over the Phoenix Program in late 1968 (host's phrasing, "under the CORDS directive") and had been station chief at [[jm-wave-station]] in Miami 1962-64; host speculates [[george-h-w-bush]] and [[thomas-devine]] would have met him in Florida then. Next-season preview: Shackley's rise to the "largest US spy station in the world"; "the blond ghost." *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 7:28-8:18, 39:56-40:27)*
+
+## Additional claims (JFK and the CIA)
+
+
+- Introduced as "the blonde ghost" (ASR spelling of the nickname), Harvey's top agent at the Berlin station in the 1950s, elevated in early 1962 to head [[jm-wave-station]]; host: "maybe the most influential and gifted CIA middle manager of all time," a "bureaucrat's bureaucrat" who thrived in the "dimly lit midnight office," often omitted from histories that dwell on Harvey. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:18:21-1:19:53)*
+- Preview: manager of the CIA's later war in Laos (see [[secret-war-in-laos]]) and, per the next-episode teaser, Miami chief early 1960s, Laos late 1960s, Saigon in the 1970s during Phoenix. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:20:05-1:20:18, 1:21:57-1:22:10)*
+- Host: much of the evidence that JFK sanctioned assassinations comes from ZR/RIFLE-linked people such as Harvey and Shackley (host disputes the "dark Camelot" reading). *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 31:11-31:28)*
+- Per Trento, Helms secured arms for the Shah's Iran from old colleagues including Shackley, whose networks evolved into Iran-Contra. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 21:18-21:41)*

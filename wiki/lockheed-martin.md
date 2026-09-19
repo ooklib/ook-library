@@ -68,6 +68,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -258,3 +260,8 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
   [[naval-air-station-patuxent-river]].
 - Advised [[to-the-stars-academy]] via Skunk Works personnel.
 - War Conspiracy 1: [[military-industrial-complex]] origins of the prime contractor.
+
+## Additional claims (JFK and the CIA)
+
+
+- Only passing mention: the host says JFK allegedly offered [[richard-bissell]] the job of developing "what would eventually become the Lockheed A12 spy plane," the U-2 replacement. No UFO link is made in this transcript. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 15:54-16:07)*

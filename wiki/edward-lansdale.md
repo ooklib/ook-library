@@ -13,6 +13,12 @@ relations:
   - relation: associate_of
     target: yamashita-gold
     note: "alleged to have located the loot in 1945 (per ewa/laos-3)"
+  - relation: participated_in
+    target: operation-mongoose
+    note: "brought into the White House in November 1961 to run it"
+  - relation: associate_of
+    target: william-harvey
+    note: "gave him the nickname "the American James Bond""
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
@@ -22,6 +28,8 @@ sources:
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 Edward Lansdale is described by Eyes Wide Open as a legendary CIA counter-insurgency expert and, per Alfred McCoy, Allen Dulles's main liaison in southern Vietnam, under whom [[lucien-conein]] served as top aide from 1954. The host defers fuller coverage to the First Indochina War episode. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 15:37-16:15)*
@@ -49,3 +57,13 @@ Edward Lansdale is described by Eyes Wide Open as a legendary CIA counter-insurg
 - LAOS 2: briefed by [[roger-trinquier]] on [[operation-x]]; see [[ngo-dinh-diem]].
 - LAOS 3: [[saigon-military-mission]], [[battle-of-saigon-1955]], [[yamashita-gold]], [[wesley-fishell]].
 - LAOS 4: LAOS 4: [[operation-brotherhood]].
+
+## Additional claims (JFK and the CIA)
+
+
+- Left the CIA after advising [[ngo-dinh-diem]]; by 1961 a newly promoted brigadier general stuck at the Pentagon's Office of Special Operations under Marine Maj. Gen. Graves Erskine. Per podcaster Recluse (Steven Snyder, *The Art Part 1*), the OSO was an oversight body with potential veto power over intelligence operations from the CIA, NSA or Joint Chiefs and a "prototypical defense intelligence agency" (the [[defense-intelligence-agency]] formed in 1961). *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 47:30-49:25)*
+- Popular image: alleged model for Alden Pyle in Graham Greene's *The Quiet American* (Greene later named another American, Leo Hochstetter [ASR "Hocheder"]); uncredited script adviser on the 1958 film (director Mankiewicz, ASR "Manowitz"; host attributes this to "Steven Kinszer in his book, Brothers"); clearly the model for Colonel Hillandale in *The Ugly American*; also allegedly in *Yellow Fever* (1965). Host notes his deputy Lou Kane (ASR; presumably [[lucien-conein]], my normalization) corresponded with Corsican mob elements at Saigon's Hotel Continental. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 49:57-54:16)*
+- Host's admitted speculation ("purely speculation," no solid proof beyond the film work): Lansdale may have run a PR campaign to build his own legend, which "was a massive success" as the Kennedys requested him. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 54:44-55:35)*
+- Selected for [[operation-mongoose]] for his persona and reputation as a comparative "hearts and minds" liberal, though the host says his adherence is in question given atrocities by forces he advised in the Philippines and Diem's repression; like JFK he favored "small wars." *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 55:49-57:16)*
+- Host: "slippery," "deeply embedded in the various antagonistic networks swirling around the Kennedys," and at the center of many assassination theories. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 57:22-57:53)*
+- Nicknamed [[william-harvey]] "the American James Bond" during their Cuba work. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:17:01-1:17:16)*

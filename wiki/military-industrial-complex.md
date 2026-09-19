@@ -15,6 +15,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 The military-industrial complex (MIC) is the nexus of arms industry, aviation and aerospace firms,
@@ -76,3 +78,8 @@ arms economy.
 
 
 - Follow-up to the WC1 preview: Rockefeller-funded [[itek]] and the [[special-studies-project]] fulfill the "Rockefeller funding of CIA spy satellites" promise. Eisenhower's farewell address quoted. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 22:57-24:07, 59:23-1:00:22)*
+
+## Additional claims (JFK and the CIA)
+
+
+- Host places [[richard-bissell]] (spy plane and Corona satellite programs) "at a crossroads between the covert action of the CIA and the burgeoning military-industrial complex." *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 16:15-16:27)*

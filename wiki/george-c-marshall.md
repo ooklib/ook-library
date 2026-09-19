@@ -19,6 +19,8 @@ relations:
 sources:
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 General George C. Marshall — Army Chief of Staff (1939–1945), Secretary of State (1947–1949),
@@ -75,3 +77,8 @@ UFO legacy-program apparatus. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 20:21
 - Proposed and oversaw the [[alsos-mission|ALSOS missions]] via his G2, Colonel Boris Pash.
 - Named prominently in disputed [[majestic-12]] documents, including the alleged 1947
   Interplanetary Phenomenon Unit report.
+
+## Additional claims (JFK and the CIA)
+
+
+- Host, citing Millegan: listed as a protege of Henry Stimson's "kindergarten"; Lt. Gen. Marshall Carter, Kennedy's deputy DCI (April 1962-April 1965), had been his aide. See [[skull-and-bones]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 37:23-37:34, 14:25-14:43)*

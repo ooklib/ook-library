@@ -17,6 +17,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 Robert Lovett (Robert Lovett Jr. in the host's telling; ASR "LoveIt", "lit"; normalization is my
@@ -36,3 +38,8 @@ recruited by [[eyes-wide-open]] as a Yankee-Texan bridge figure.
 ## Relationships
 
 - Partner at [[brown-brothers-harriman]]; PFIAB member; colleague of [[prescott-bush]].
+
+## Additional claims (JFK and the CIA)
+
+
+- Host, citing Millegan: a "fellow Bonesman" and Stimson-kindergarten protege, recalled as one of Prescott Bush's colleagues at Brown Brothers Harriman. See [[skull-and-bones]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 37:46-37:58)*

@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 The Special Studies Project (1956-1960) was a Rockefeller Brothers Fund-financed panel to "clarify national objectives" for the post-war era, led by [[nelson-rockefeller]] and co-directed by [[henry-kissinger]]; per [[eyes-wide-open]] it drafted six reports across six panels. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 26:16-27:35)*
@@ -27,3 +29,8 @@ The Special Studies Project (1956-1960) was a Rockefeller Brothers Fund-financed
 ## Relationships
 
 - Led by [[nelson-rockefeller]]; co-directed by [[henry-kissinger]]; sponsored by the Rockefeller Brothers Fund of [[rockefeller-family]]; related to [[nsc-68]] and [[military-industrial-complex]].
+
+## Additional claims (JFK and the CIA)
+
+
+- Host recap: the multi-panel Rockefeller-sponsored project set out the blueprint of "limited war" (the future Vietnam War); [[henry-kissinger]] was called to it by [[nelson-rockefeller]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 41:57-42:18)*

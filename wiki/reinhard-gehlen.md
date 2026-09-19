@@ -21,6 +21,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 Reinhard Gehlen was the head of German military intelligence on the Eastern Front during WWII
@@ -61,3 +63,8 @@ Gladio]].
 - His "werewolf" fighters were renamed "Gladiators," seeding the future [[operation-gladio]].
 - Reinstated as head of the BND (West German intelligence) in the 1950s.
 - Link to [[jean-violet]] and [[le-cercle]]; [[operation-zipper]].
+
+## Additional claims (JFK and the CIA)
+
+
+- Host: the Operation Rusty memos (in the video bibliography) show [[richard-helms]] was privy to the absorption of Gehlen's wartime network; it became the BND with Gehlen as first director. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 23:20-24:03)*

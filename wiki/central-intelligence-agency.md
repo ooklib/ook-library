@@ -75,6 +75,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
+    label: "JFK and the CIA (Eyes Wide Open)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -172,3 +174,10 @@ shared organization page.
 ## Additional claims (Bush the Father, Chapter 1)
 
 - Host: the CIA is "notoriously insular"; McCone (1961) was the last outsider director before [[george-h-w-bush]] (1976), and [[richard-helms]] was elevated to "return the CIA to their original masters." Alleged early-CIA network: [[allen-dulles]]'s private postwar intelligence office at 44 Wall Street with [[prescott-bush]] as unofficial money-laundering advisor (Trento). *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 0:51-1:41)* *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 16:57-17:57)*
+
+## Additional claims (JFK and the CIA)
+
+
+- Season 3 framing: the host says the Dulles-era CIA is over; Kennedy's leadership shakeup (McCone as DCI, Marshall Carter as deputy, Helms as DDP) delivered "continuity, not reorientation," and the agency kept its Gulf Coast paramilitary capability and executive-action ([[zr-rifle]]) programs against the president's wishes. See [[john-f-kennedy]], [[richard-helms]], [[john-mccone]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 4:57-5:28, 7:57-8:16, 17:12-17:59)*
+- Host: [[richard-bissell]] headed the CIA spy plane and Corona satellite programs; JFK's offer to run a new science-and-technology department is described only as a proposal. Wiki-internal observation: compare [[cia-directorate-of-science-and-technology]]; the transcript does not say the department became DS&T. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 15:47-16:42)*
+- ITT: host says the conglomerate "would often serve as an intelligence front for the CIA" in Latin America. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 10:19-10:32)*
