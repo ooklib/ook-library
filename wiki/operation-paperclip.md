@@ -20,6 +20,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
+    label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
 ---
 
 Operation Paperclip is described by [[eyes-wide-open]] in chapter 5 of [[road-to-dallas]] as "the oft-discussed US counterintelligence corps directed program that sought to smuggle out German rocket scientists in the immediate post-war period and to install them in positions in the nascent military-industrial complex and eventually at NASA." *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 19:38-19:56)* This page is a light stub scoped to that video; other wiki pages ([[wernher-von-braun]], [[counter-intelligence-corps]], [[hans-kammler]]) discuss Paperclip from other sources.
@@ -49,3 +51,7 @@ Operation Paperclip is described by [[eyes-wide-open]] in chapter 5 of [[road-to
 ## Additional claims (rc/mj12)
 
 - [[geoffrey-cruickshank]] and [[jed-davis]]: a CIA file numbered 834021, declassified 22 June 2022 and concerning the Paperclip scientists, has the same number as one seen on an MJ-12 document; see [[cia-file-834021]]. Coulthart notes allegations that Paperclip scientists were taken from Los Alamos to view Roswell debris, which Davis says the IPU late-July 1947 report mentions. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 11:53-12:52, 37:44-38:29)*
+
+## Additional claims (jm/nasa-pagan)
+
+- Michels: von Braun's records were "scrubbed" and he was set to build America's space program; Paperclip scientists were housed at Fort Bliss and White Sands under tight control, allegedly with swastikas and Nazi memorabilia on display; the Nazi space program's "weirdness" is said to have moved into NASA. See [[nazi-occultism-claims]] and [[nasa]]. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 30:41-32:10, 38:34-39:09)*

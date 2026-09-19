@@ -20,6 +20,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
+    label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
 ---
 
 Jesse Michels is the host of the American Alchemy YouTube channel (registry channel `jm`), which conducts long-form interviews on UFO/UAP, deep politics and secret science. The channel's sponsor/advertisement segments are not recorded in this wiki.
@@ -45,3 +47,7 @@ Jesse Michels is the host of the American Alchemy YouTube channel (registry chan
 - Presents an episode arguing [[henry-kissinger]] may have overseen or been aware of the UFO crash-retrieval legacy program, from CIC service in Germany through Harvard, the [[psychological-strategy-board]], Rockefeller panels, the Nixon White House and the [[kissinger-moon-dust-telegram-1977]]. He labels most links circumstantial and says "there's no direct proof". *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 0:01, 33:24, 38:04, 39:16, 50:19)*
 - Host defenses/opinions: MJ-12 documents are a 3,000-page collection, some forged or limited-hangout disinformation, but core details are corroborated (e.g. a JFK-Dulles 28 June 1961 meeting date confirmed only by 2022 declassified files); the Bob Lazar story was in part "pushed out as passage material". *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 33:40, 33:46, 33:53, 34:27, 34:46, 35:43, 35:50, 35:58)*
 - Relays [[maria-wang]]'s claim via [[william-steinman]] and the [[arthur-stansel]] Kingman account; includes clips from [[matthew-pines]] and [[christopher-mellon]]-linked material. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 1:09, 2:33, 5:22)*
+
+## Additional claims (jm/nasa-pagan)
+
+- Presents the September 2025 episode "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel", on mysticism in rocketry and NASA: [[jack-parsons]], [[nazi-occultism-claims]], [[russian-cosmism]], [[nasa-occult-symbolism-claims]], [[tim-taylor-nasa]], [[secret-machines-project]]. He warns the launch-date material is "highly speculative" and raises pareidolia. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 0:07, 47:57-48:18, 53:38-54:05)*

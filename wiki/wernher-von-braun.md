@@ -15,6 +15,8 @@ sources:
     label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
+    label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
 ---
 
 Wernher von Braun, Nazi V2 rocket scientist transferred to the US via Operation Paperclip,
@@ -33,3 +35,7 @@ commanded the [[army-ballistic-missile-agency|Army Ballistic Missile Agency]].
 ## Additional (ewa/dallas-5)
 
 - Host: the V-1 sites and V-2 lead to von Braun's team at Peenemünde; von Braun and Walter Dornberger defected in western Austria in May 1945; see [[operation-paperclip]]. Host speculates [[frank-brandstetter]] may have played an early Paperclip role. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 19:09-22:19)*
+
+## Additional claims (jm/nasa-pagan)
+
+- Michels: SS major and V-2 architect who swore loyalty to Himmler and used concentration-camp slave labor, captured in Bavaria (with a young Henry Kissinger supposedly running counterintelligence), record scrubbed under [[operation-paperclip]], became the face of [[nasa]]; supported [[edgar-mitchell]]'s consciousness research; collaborated with Walt Disney on space films; FBI files allegedly show him sending classified documents to Soviet counterparts without consequence. See [[nazi-occultism-claims]]. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 4:24-5:00, 30:41-31:34, 38:43-39:22)*

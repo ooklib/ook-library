@@ -16,6 +16,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
+    label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
 ---
 
 Musician who founded [[to-the-stars-academy|To the Stars Academy]], publicly launched on Joe
@@ -60,3 +62,7 @@ Rogan Experience episode 1029 (26 October 2017). ASR-transcribed as "Tom Dong" i
 ## Additional claims (jm/townsend-brown)
 
 - Host suggests Lockheed's Robert Weiss link to TTSA served talent and awareness needs. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 44:25-44:53)*
+
+## Additional claims (jm/nasa-pagan)
+
+- Michels: co-author with [[peter-levenda]] of *Secret Machines*; Levenda suggests figures near the [[nrol-16-launch-2005]] encouraged him to study Greek myth (Prometheus). See [[secret-machines-project]]. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 50:56-51:31, 58:43-59:26)*

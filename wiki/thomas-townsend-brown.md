@@ -44,6 +44,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
+    label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
 ---
 
 Thomas Townsend Brown, associated with the [[biefeld-brown-effect]] and alleged antigravity research. In the Malmgren interview he is central to Malmgren's late-life research.
@@ -81,3 +83,7 @@ Jesse Michels' 2024 documentary, based on Paul Schatzkin's biography *The Man Wh
 - Alleged custodian of [[hartford-ufo-crash-1960]] debris; involvement in the [[philadelphia-experiment]] disputed. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:12:29-1:18:11)*
 - Obsessed with time travel and biblical UFOs privately; "Morgan" says Brown sought to bring humanity's art to the cosmos; a claimed "Nassau group" incl. NASA's Timothy Taylor. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 4:14-4:26, 1:19:48-1:20:20, 1:40:22-1:40:34, 1:48:02-1:48:20)*
 - Host: Doc Brown of *Back to the Future* nod; $50,000 bounty for a vacuum-chamber proof or disproof of the effect. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:46:04-1:47:13)*
+
+## Additional claims (jm/nasa-pagan)
+
+- Michels: a Caltech student in the 1930s whose earlier spaceflight ideas were ignored by professors such as Millikan; alleged by [[tim-taylor-nasa]] (via Ryan Bledsoe) to have presided over a secret time-travel group in Nassau; Michels says Brown was obsessed with time travel and spent much time in the Bahamas with William Stevenson. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 15:19-15:33, 55:06-56:13)*

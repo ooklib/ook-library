@@ -21,6 +21,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
+    label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
 ---
 
 Dr. James T. Ryder served nearly 40 years at [[lockheed-martin|Lockheed Martin]], culminating as
@@ -68,3 +70,7 @@ recovered UFO materials via the [[operation-kona-blue|Kona Blue]] PAP. Ryder die
 ## Additional claims (gerb/timeline)
 
 - Timeline video: called a "maverick and unorthodox thinker" (speeches such as "Garments of the Gods"); per Davis, Ryder said as late as 2018 there had been little to no success exploiting the materials. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:10:41-2:10:54, 2:15:19-2:15:41)*
+
+## Additional claims (jm/nasa-pagan)
+
+- Michels: former Lockheed Martin VP and Skunk Works director who in 2018 gave a talk called "The Garment of God" on mysticism, consciousness and technological progress, and a separate UAP lecture discussing ritual altered states. See [[secret-machines-project]]. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 56:56-57:25)*
