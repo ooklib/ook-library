@@ -11,7 +11,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
 `gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`,
 `rjm/city-of-london`, `mpu/secret-society`, `ewa/oss`, `ewa/sunrise`, `ewa/mafia-allies`,
-`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`, `ewa/laos-4`, `ewa/war-conspiracy-1`, `ewa/war-conspiracy-2`, `ewa/operation-40`, `ewa/cia-mafia`, `ewa/bush-1`, `ewa/bush-2`, `ewa/bush-3`, `ewa/jfk-cia`, `ewa/shackley`).
+`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`, `ewa/laos-4`, `ewa/war-conspiracy-1`, `ewa/war-conspiracy-2`, `ewa/operation-40`, `ewa/cia-mafia`, `ewa/bush-1`, `ewa/bush-2`, `ewa/bush-3`, `ewa/jfk-cia`, `ewa/shackley`, `ewa/jmwave`).
 
 Note: the wiki spans four topic areas — the original alleged "UFO legacy programs" ecosystem
 (MITRE, SAIC, NRO, Lockheed, etc.), a British power-structures thread (Fabian Society, Chatham
@@ -150,6 +150,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[michigan-state-university-vietnam-advisory-group]] · [[vietnam-lobby]] ·
 [[pathet-lao]] · [[paru]] · [[china-lobby]] · [[flying-tigers]] · [[skull-and-bones]] · [[pan-american-airways]] · [[rockefeller-family]] · [[rockefeller-brothers-inc]] · [[itek]] · [[asia-society]] · [[civil-air-patrol]] · [[jm-wave-station]] · [[georgetown-set]] · [[brigade-2506]]
 [[counter-intelligence-corps]] — US Army CIC, Shackley's first employer; Oberammergau school · [[us-army-special-forces]] — Green Berets; host's Gehlen-commando origin thesis — added by `ewa/shackley`.
+[[zenith-technical-enterprises]] — CIA cutout firm fronting JM/WAVE · [[university-of-miami]] — lessee of the former naval air base site · [[nugan-hand-bank]] — successor to Castle Bank in the host's shadow-banking chain — added by `ewa/jmwave`; [[jm-wave-station]] greatly expanded.
 
 ## Places
 
@@ -282,6 +283,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[phao-sriyanon]] · [[plaek-phibunsongkhram]] · [[sarit-thanarat]] · [[khun-sa]] · [[alfred-mccoy]] ·
 [[ho-chi-minh]] · [[dwight-d-eisenhower]] · [[roger-trinquier]] · [[antoine-savani]] · [[touby-lyfoung]] · [[wesley-fishell]] · [[ngo-dinh-nhu]] · [[thomas-corcoran]] · [[whiting-willauer]] · [[william-pawley]] · [[t-v-soong]] · [[paul-nitze]] · [[howard-hughes]] · [[lyndon-b-johnson]] · [[nelson-rockefeller]] · [[laurance-rockefeller]] · [[henry-kissinger]] · [[richard-bissell]] · [[frank-sturgis]] · [[jack-ruby]] · [[david-ferrie]] · [[barry-seal]] · [[lee-harvey-oswald]] · [[carlos-marcello]] · [[charles-rebozo]] · [[fidel-castro]] · [[felix-rodriguez]] · [[david-sanchez-morales]] · [[ted-shackley]] · [[joseph-caldwell-king]] · [[jacob-esterline]] · [[manuel-artime]] · [[orlando-bosch]] · [[william-harvey]] · [[mcgeorge-bundy]]
 [[franz-six]] · [[lauri-torni]] — added by `ewa/shackley`; [[ted-shackley]] greatly expanded (early life, CIC, Nuremberg, Berlin, career arc).
+[[thomas-clines]] — Shackley's JM/WAVE lieutenant (ASR "Klein") · [[grayston-lynch]] — paramilitary trainer and eyewitness — added by `ewa/jmwave`; [[alfred-cox]], [[paul-helliwell]], [[william-pawley]], [[william-harvey]], [[ted-shackley]] enriched.
 
 ## Concepts
 

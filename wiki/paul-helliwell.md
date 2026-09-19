@@ -29,6 +29,9 @@ relations:
   - relation: associate_of
     target: charles-rebozo
     note: "1958 Miami convention committee"
+  - relation: associate_of
+    target: ted-shackley
+    note: "host: probable JM/WAVE contact and potential mentor; no proof, Trento testimony"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
@@ -50,6 +53,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 Colonel Paul E. Helliwell served as chief of special intelligence for the
@@ -131,3 +136,11 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
 ## Additional claims (Operation 40)
 
 - Host: shell companies financing Base Trax likely overseen by "Miami CIA paymaster" Helliwell; Esterline cleared the way for Helliwell's OSS Detachment 202 men in Miami. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 22:29-22:45, 31:33-31:40)*
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: the "godfather of agency secret banking and narco funding," former OSS chief of secret intelligence in China and founder of [[sea-supply-corporation]], back in Miami as partner of Helliwell, Melrose and DeWolf; the host has "yet to find any smoking gun proof" of a Helliwell-Shackley link but cites Trento (*Prelude to Terror*): he regaled Shackley with Asian tales, showed him the value of agency business fronts, and helped make [[zenith-technical-enterprises]] the perfect cover. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 16:15-20:28)*
+- Washington Post (host): a primary paymaster for the 1961 Bay of Pigs invasion; opened [[castle-bank-and-trust]] in the Bahamas in the early 1960s with mob-associated Chicago tax attorney Burton Kanter ("Caner" in ASR); shown in Kwitny's photo shaking hands with Frank Nugan, "passing the torch" to [[nugan-hand-bank]]. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 18:48-22:09)*
+- Hosted the Thai consulate from his Miami law offices; the host suggests laundered narco profits from Burma and Thailand "could have been used to fund anti-Castro operations." *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 22:39-22:58)*
+- Host aside: Helliwell, Melrose and DeWolf were hired by Walt and Roy Disney in 1964-66 for the Disney World land deal near Orlando. The host calls it a surprising link and speculates, flagged as "pure speculation," about what intelligence agencies could derive from the park in "social engineering and mass surveillance." *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 17:34-18:48)*

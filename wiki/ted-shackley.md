@@ -48,6 +48,18 @@ relations:
     note: "The Third Option (1981), Still the Target (1989), Spy Master (2005, posthumous)"
   - relation: alleged_by
     target: eyes-wide-open
+  - relation: associate_of
+    target: thomas-clines
+    note: "sidekick from JM/WAVE onward"
+  - relation: associate_of
+    target: paul-helliwell
+    note: "host speculation: probable JM/WAVE-era contact and potential mentor; no proof found"
+  - relation: associate_of
+    target: nugan-hand-bank
+    note: "host: prominent role, with JM/WAVE-era associates, in its founding and operations"
+  - relation: associate_of
+    target: desmond-fitzgerald
+    note: "host (via Corn): Fitzgerald mentored him"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
     label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
@@ -57,6 +69,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 Career-long profile of the CIA officer known as "the Blond Ghost": Counter Intelligence Corps in occupied Germany, CIA Nuremberg and Berlin, [[jm-wave-station]] chief in Miami (1962-64), Laos (1966-68), Saigon and the Phoenix program (1968-c.1972), head of the Western Hemisphere Division, associate deputy director for operations (1976), then a private-business/Iran-Contra logistics network in the 1980s. Earlier sections below are from other episodes; the dedicated episode `ewa/shackley` covers his early life and 1927-1958 career in depth, with the section "Overview and career arc" onward. Everything here is a claim by [[eyes-wide-open]] or by sources it cites (chiefly David Corn's *The Blond Ghost*), not verified fact. ASR renders the name as "Ted Shockley"/"shakley" (normalization to Shackley by inference; the same spelling issue appears in earlier episodes).
@@ -136,3 +150,16 @@ Career-long profile of the CIA officer known as "the Blond Ghost": Counter Intel
 
 - Employed by the CIA and, early, the [[counter-intelligence-corps]]; boss [[lucien-conein]] at Nuremberg; mentored by [[william-harvey]] (Berlin) and [[william-colby]] (Phoenix); promoted by [[george-h-w-bush]]; associated with [[john-singlaub]]; participated in [[berlin-tunnel]] and the [[halloween-massacre]]; author of [[the-third-option]]. Continues in the JM/WAVE-focused episode (`ewa/jmwave`, next).
 - Not in this transcript: UFO/UAP, Tesla, secret societies (Skull and Bones etc.), Cheney, defense contractors. Wiki-internal observation only: his 1976 boss Bush and the Bush/CIA thread are in [[george-h-w-bush]].
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Sent by [[richard-helms]] in February 1962 to coordinate from the [[zenith-technical-enterprises]] site, he "quickly assume[d] the role of full station chief" of [[jm-wave-station]]; the host says he now oversaw 400-600 case officers and roughly 3,000 exile assets, "for one of the first times the CIA was overseeing a veritable secret army," his "first real paramilitary experience." *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 1:32-1:52, 7:54-8:25)*
+- His memoir's account of the fired predecessor [[alfred-cox]] is called "dubious" by the host. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 13:51-13:57)*
+- Financial wizardry traced to Miami: the host "convincingly" speculates he was in close contact with [[paul-helliwell]] (no "smoking gun" found; Trento's unverifiable testimony says Helliwell taught him the value of business fronts like [[zenith-technical-enterprises]]); host calls Helliwell a "potential mentor" and sees Shackley as heir to Helliwell's role via [[castle-bank-and-trust]] then [[nugan-hand-bank]]. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 15:53-22:33)*
+- Host speculation that he knew [[george-h-w-bush]] from these years, citing his memoir's line that paramilitary teams and boat operators met Cuban fishing trawlers "at places like the island of Cay Sal," which [[zapata-offshore]] was leasing (see [[cay-sal]]); the host also says the relationship is "hardly" in need of such evidence. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 27:10-29:43)*
+- Management style: uncompromising, demanded detailed operational plans, near-photographic memory (via [[grayston-lynch]] and David Corn); trusted subordinates followed him: [[thomas-clines]] (sidekick) and [[david-sanchez-morales]] (replaced Rocky Farnsworth as covert operations chief). *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 29:43-36:48)*
+- Per CIA officer John Sherwood (via Trento), he cultivated [[robert-f-kennedy]] at [[william-harvey]]'s expense; Trento: this "would destroy Harvey's career" and make Shackley "the most important young executive in CIA." The host reads it as opportunistic and defers "animosity between Shackley and Kennedy." *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 40:46-41:37)*
+- Church Committee: with Harvey he loaded a U-Haul of arms for [[johnny-roselli]] in April 1962. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 43:05-43:32)*
+- Memoir *Spymaster* frames the anti-Cuba policy as the Kennedys' "personal vendetta"; the host says his resentment "adds up." Mentored by [[desmond-fitzgerald]] (host, via Corn), whose Laos programme he later took over. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 49:41-50:41, 52:05-53:24)*
+- Flagged discrepancy: host dates his Miami tenure "1962 to 65" versus 1962-64 in `ewa/shackley`. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 28:08-28:16)*

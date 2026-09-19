@@ -32,6 +32,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 Edward Lansdale is described by Eyes Wide Open as a legendary CIA counter-insurgency expert and, per Alfred McCoy, Allen Dulles's main liaison in southern Vietnam, under whom [[lucien-conein]] served as top aide from 1954. The host defers fuller coverage to the First Indochina War episode. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 15:37-16:15)*
@@ -73,3 +75,8 @@ Edward Lansdale is described by Eyes Wide Open as a legendary CIA counter-insurg
 ## Additional claims (The CIA's Blond Ghost, ewa/shackley)
 
 - Host: he allegedly labeled Harvey "the American James Bond" after the [[berlin-tunnel]]; also advised the Diem regime in Saigon in 1955 alongside [[lucien-conein]]; one of the Kennedy-era covert-action aces driving JM/WAVE. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 0:32-0:41, 1:17:04-1:17:13, 40:36-40:51)*
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Co-head of [[operation-mongoose]] with [[robert-f-kennedy]]; his "blissfully optimistic" timetable envisaged Cuban revolt in October 1962; the host calls it a pipe dream and describes the "10,000 pinprick" sabotage concept. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 0:58-1:19, 6:14-6:33, 42:27-42:45)*

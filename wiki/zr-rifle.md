@@ -15,6 +15,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 ZR/RIFLE (ASR "ZRRIFLE"/"Z Rifle") was, per [[eyes-wide-open]] and the 1975 [[church-committee]] materials, the CIA's "executive action" capability for assassinations, organized in February 1961 under [[william-harvey]] at [[richard-bissell]]'s request. It institutionalized the earlier, off-the-books anti-Castro plots described in [[cia-mafia-assassination-plots]]. Scoped here to the `ewa/jfk-cia` primer. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 29:34-29:42, 1:03:38-1:04:07)*
@@ -33,3 +35,8 @@ ZR/RIFLE (ASR "ZRRIFLE"/"Z Rifle") was, per [[eyes-wide-open]] and the 1975 [[ch
 
 - Part of the [[central-intelligence-agency]]; run by [[william-harvey]] with [[richard-helms]] as DDP after February 1962; based operationally at [[jm-wave-station]].
 - Descends from [[cia-mafia-assassination-plots]]; documented via the [[church-committee]].
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: Harvey revived the mafia assassination plots under ZR/RIFLE in late 1961; Harvey and Shackley's April 1962 U-Haul delivery is recorded in the Church Committee timeline; Harvey may have remained plugged into ZR/RIFLE after leaving Task Force W (the program had an international scope, including Africa, promised for later). *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 42:59-43:32, 48:00-48:37)*

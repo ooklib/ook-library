@@ -29,6 +29,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 The China Lobby is the informal grouping of American (and Chinese) business, media and political
@@ -82,3 +84,8 @@ mid-19th century and hardened into a political vehicle in the late 1930s-40s aro
 ## Additional claims (Operation 40)
 
 - Joseph Alsop, host of many Georgetown parties, is called "the journalist of choice of the China Lobby"; see [[georgetown-set]]. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 17:03-17:15)*
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: [[william-pawley]] as prominent member; the "old China lobby crowd" opened their wallets in 1963 to the "newly orphaned" exile paramilitary groups. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 24:10-24:17, 56:39-56:46)*

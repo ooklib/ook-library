@@ -19,9 +19,14 @@ relations:
   - relation: employed_by
     target: central-intelligence-agency
     note: "from early 1950s"
+  - relation: associate_of
+    target: thomas-clines
+    note: "host: Clines was his subordinate in Miami, kept in touch later"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 David Sanchez Morales ("El Indio") is described by [[eyes-wide-open]] as one of the CIA's most ruthless early assassination experts and the assassination trainer of [[operation-40]]. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 43:25-43:48)*
@@ -38,3 +43,9 @@ David Sanchez Morales ("El Indio") is described by [[eyes-wide-open]] as one of 
 ## Relationships
 
 - Trainer in [[operation-40]]; associate of [[e-howard-hunt]] and [[ted-shackley]]; see [[jm-wave-station]], [[secret-war-in-laos]], [[kennedy-assassination]].
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: replaced Rocky Farnsworth as covert operations chief of [[jm-wave-station]]; possibly met Shackley in Germany (former army corporal) and perhaps Shackley had a role in his CIA recruitment; per Shackley's memoir he was [[thomas-clines]]'s direct boss before Shackley arrived, "reportedly the trainer of the shooting team" in [[operation-40]]; later followed Shackley to Laos and Vietnam (Phoenix). *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 34:50-35:33)*
+- Host: ties to Caribbean CIA go back to the 1954 Guatemala coup ([[operation-pbsuccess]]) with [[e-howard-hunt]] and David Atlee Phillips, and he worked from the Havana station 1958-60 alongside Phillips; devoutly loyal to Shackley per Clines; "if you had to point to one man at CIA that was capable of killing JFK or training a killer to do so, nobody would fault you for choosing Elindio" (host's characterization of assassination theories). Phillips deferred to the next episode. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 36:20-38:06)* A photo credited to the tangodown63 blog allegedly shows Morales and Clines at a CIA reunion. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 35:40-36:20)*

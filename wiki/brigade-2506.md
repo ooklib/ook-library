@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 Brigade 2506 was the CIA-trained Cuban exile army of the Bay of Pigs, trained at a Guatemalan camp the host calls Base Trax (ASR "base tracks"/"Fort Trax"). *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 26:09-26:22)*
@@ -32,3 +34,9 @@ Brigade 2506 was the CIA-trained Cuban exile army of the Bay of Pigs, trained at
 ## Relationships
 
 - Part of [[bay-of-pigs-invasion]]; trained by [[jacob-esterline]]'s team; see [[operation-40]], [[fidel-castro]].
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: on December 29, 1962 President Kennedy, with [[manuel-artime]], welcomed 1,113 returned prisoners at Miami's Orange Bowl ("Orange Bull" in ASR; "Brigade 256" in ASR); the administration paid Cuba about $53 million in medical equipment and supplies for their release; Kennedy unfurled the brigade flag and said the brigade would "march at the head of the Free Column." *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 54:23-55:34)*
+- Operation 40 is described as an elite squad pulled from the "brigade rabble" (context of [[thomas-clines]] and Chi-Chi Cano). *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 33:05-33:16)*

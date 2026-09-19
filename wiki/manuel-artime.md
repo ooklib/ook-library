@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 Dr. Manuel Artime is presented by [[eyes-wide-open]] as the "public face" of the CIA's anti-Castro program and head of [[brigade-2506]] and of his Movimiento de Recuperacion Revolucionaria (MRR, ASR "mr"/"M de reol"). *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 26:16-27:11)*
@@ -29,3 +31,8 @@ Dr. Manuel Artime is presented by [[eyes-wide-open]] as the "public face" of the
 ## Relationships
 
 - Leader of [[brigade-2506]]'s political wing; recruited by Barker; see [[bay-of-pigs-invasion]], [[e-howard-hunt]] (liaison to exile groups).
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: appears beside President Kennedy at the December 29, 1962 Orange Bowl ceremony welcoming back the Bay of Pigs brigade prisoners. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 54:23-54:37)*

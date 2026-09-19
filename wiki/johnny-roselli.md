@@ -20,6 +20,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 Johnny Roselli ("handsome Johnny") is the Chicago-outfit mobster [[eyes-wide-open]] names as the mob's counterpart in the 1960 Brown Derby meeting with [[robert-maheu]]. The host calls him "an operator", not merely a mobster, and one of the major liaisons between the [[national-crime-syndicate]] and the "respectable American establishment".
@@ -47,3 +49,8 @@ Johnny Roselli ("handsome Johnny") is the Chicago-outfit mobster [[eyes-wide-ope
 
 
 - Host: reintegrated by [[william-harvey]] into CIA plots in mid-November 1961 (IG report "phase two"). See [[zr-rifle]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:09:55-1:10:52)*
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Church Committee timeline (host): in late April 1962 Harvey and Shackley loaded arms and equipment into a U-Haul left in a parking lot for Roselli, who delivered it to a Cuban contact; Harvey's last recorded contact with Roselli was June 1963. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 43:05-43:32, 48:00-48:18)*

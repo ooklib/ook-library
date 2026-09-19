@@ -24,6 +24,8 @@ sources:
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 The 22 November 1963 assassination of President John F. Kennedy in Dallas. In this episode Eyes Wide Open covers only [[e-howard-hunt]]'s alleged presence and deathbed confession; the host says his own research indicates a fundamental mob element in the conspiracy. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:48-11:00)*
@@ -72,3 +74,8 @@ The 22 November 1963 assassination of President John F. Kennedy in Dallas. In th
 - Host says RFK later came to oppose assassination programs after JFK's death, "allegedly at the hands of some of the very elements that his office tacitly promoted." *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 33:50-34:03)*
 - Host says [[edward-lansdale]]'s closeness to CIA and Army intelligence circles put him "at the center of many theories of the Kennedy assassination." *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 57:35-57:53)*
 - Host notes speculation of an Israeli element with the motive of stopping JFK's reining in of the Israeli nuclear program, to be taken up later. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 13:00-13:13)*
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: by 1963 the White House pulled back from the anti-Castro programme, and in the host's thesis the "coalition of forces opposing the Kennedys" (CIA elements, rogue military intelligence, Texas oil, China-lobby money, radical exiles) had "their foot soldiers in the plot against JFK"; the Harvey-in-Rome angle rests on Dan Hardway's account via Talbot. Framing and speculation by the host. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 46:15-48:42, 55:41-57:14)* See [[william-harvey]].

@@ -12,6 +12,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
     label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 Cay Sal is a small Bahamian islet detached from the main archipelago, about 62 miles (100 km) south of the Florida Keys and 31 miles (50 km) north of Cuba. [[eyes-wide-open]] presents it as an ideal staging ground for amphibious operations against Cuba, and as a locus where [[zapata-offshore]] and [[howard-hughes]] overlapped.
@@ -27,3 +29,8 @@ Cay Sal is a small Bahamian islet detached from the main archipelago, about 62 m
 ## Relationships
 
 - Site of [[zapata-offshore]]'s lease and the "Scorpion" rig; leased earlier by [[howard-hughes]].
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host ("Quesal" in ASR): quotes Shackley's *Spymaster* that paramilitary teams and boat operators met Cuban fishing trawlers "at places like the island of Cay Sal" and reads it as CIA use of an island Zapata leased in the early 1960s. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 28:16-29:11)*

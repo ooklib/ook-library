@@ -32,6 +32,8 @@ sources:
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 The 1961 CIA-organized invasion of Cuba by anti-Castro exiles. Per Eyes Wide Open, [[e-howard-hunt]] organized it as political liaison to exile groups and trained exile mercenaries in Guatemala; many speculate it was partly financed by [[paul-helliwell]]'s secret banking network, and researchers consider it the Hunt/CIA grievance behind later JFK-plot speculation. The host plans several episodes on it. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:21-6:46, 12:14-12:31)*
@@ -88,3 +90,8 @@ The 1961 CIA-organized invasion of Cuba by anti-Castro exiles. Per Eyes Wide Ope
 
 
 - Host: the April 1961 "humiliation" led JFK to reorganize the CIA; [[richard-bissell]] was its "main architect" (bringing back the 1954 Guatemala team) and Bissell and [[charles-cabell]] were the CIA's Cuba pointmen; the CIA nevertheless retained its Gulf Coast paramilitary capabilities, producing the two-track Cuba policy ([[operation-mongoose]] vs. [[jm-wave-station]]/[[zr-rifle]]). *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 0:01-0:33, 13:41-15:35, 30:01-30:14)*
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: after the failure, over a thousand exiles were taken prisoner; [[william-pawley]] reportedly acted as a Bay of Pigs paymaster along with [[paul-helliwell]] (Washington Post per host); [[grayston-lynch]] landed with the brigade. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 4:52-5:06, 18:54-19:06, 30:35-31:00)*

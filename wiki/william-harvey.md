@@ -27,9 +27,17 @@ relations:
     note: "first CIA role was in Angleton's counterintelligence shop"
   - relation: alleged_by
     target: eyes-wide-open
+  - relation: associate_of
+    target: david-sanchez-morales
+    note: "host: close confidant of Morales and E. Howard Hunt, both assassination-theory suspects"
+  - relation: associate_of
+    target: e-howard-hunt
+    note: "host: confidant of Hunt"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 William King Harvey, per [[eyes-wide-open]], was the CIA's "assassination czar" during the Kennedy years: an ex-FBI counterintelligence man turned CIA Berlin station chief who was called back to Washington in February 1961 to run the "executive action" program [[zr-rifle]] and, in early 1962, was placed at the head of Task Force W, the CIA's Cuba action group. This page is scoped to what the `ewa/jfk-cia` primer says; later "Road to Dallas" episodes are expected to cover him in more depth. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 29:14-29:54)*
@@ -51,3 +59,12 @@ William King Harvey, per [[eyes-wide-open]], was the CIA's "assassination czar" 
 - Employed by the [[federal-bureau-of-investigation]] (1940-47) and then the [[central-intelligence-agency]].
 - Ran [[zr-rifle]] for [[richard-bissell]] and under [[richard-helms]]; worked alongside [[edward-lansdale]] on the Cuba show ([[operation-mongoose]]).
 - Associate of [[robert-maheu]]; mentor of [[ted-shackley]]; used [[jm-wave-station]] as his Miami base.
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Head of Task Force W (the Cuban Division) at Langley and Shackley's boss; brought Shackley from Berlin. Hotheaded and frustrated by [[robert-f-kennedy]]'s oversight: he complained to DCI [[john-mccone]] about advance approval of "major operations" and detail such as "the gradient on the beach." Feud with RFK, "one of several" RFK feuds (also [[j-edgar-hoover]] and [[lyndon-b-johnson]], per host). *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 38:13-40:40)*
+- Per John Sherwood (via Trento), Shackley turned on Harvey by cultivating RFK. Church Committee: April 1962 U-Haul of arms for [[johnny-roselli]] with Shackley's help under [[zr-rifle]]. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 40:46-43:39)*
+- RFK blamed him ("We'd been working with him for a year and no accomplishments"); RFK reportedly demanded his late-1962 transfer; sent as Rome station chief in early 1963, replaced by [[desmond-fitzgerald]]. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 45:28-46:15, 50:47-51:10)*
+- Assassination angle: host notes speculation that Harvey "went rogue" in Rome. Via David Talbot's *The Devil's Chessboard*, HSCA researcher Dan Hardway said documents showed Harvey travelling a lot in the weeks before the assassination, and that his memo making the case against Harvey on classified paper "has since disappeared." Church Committee timelines show his last contact with Roselli in June 1963. The host calls Rome "often overlooked," promises coverage later and declines to "get too hung up" on Harvey. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 46:15-48:42)* See [[kennedy-assassination]].
+- Alcoholism; retired 1968 and returned to Indiana; died of a heart attack in Indianapolis in 1976 aged 60, a little under a year after Church Committee testimony; the host says he cultivated Operation Gladio in Rome. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 48:42-49:27)* See [[operation-gladio]].

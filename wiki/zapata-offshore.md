@@ -18,6 +18,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
     label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 Zapata Offshore was the offshore-drilling spin-off of [[zapata-petroleum]], founded in 1954 by [[george-h-w-bush]] with [[bill-clements]]. [[eyes-wide-open]] argues it was a money-losing "CIA pet project" and a "CIA front" used to give corporate cover to CIA assets, especially anti-Castro Cuban exiles, before the [[bay-of-pigs-invasion]]. All of this is the host's inference.
@@ -36,3 +38,9 @@ Zapata Offshore was the offshore-drilling spin-off of [[zapata-petroleum]], foun
 ## Relationships
 
 - Spun off from [[zapata-petroleum]]; associated with [[bill-clements]] and [[howard-hughes]]; linked to [[cay-sal]], [[bay-of-pigs-invasion]], [[operation-40]].
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: offices in Marathon, Florida put Zapata's rigs, boats and helicopters "right in JM Wave's backyard"; the host argues offshore rigs as listening posts or commando training structures made Bush's oil business an "analog" to Shackley's Miami work. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 27:16-27:55)*
+- Host inference: Shackley's *Spymaster* mentions CIA assets meeting Cuban fishing trawlers at Cay Sal, then leased by Zapata, "conceivably even" with a Zapata mobile rig there; taken as evidence Shackley knew Bush and Bush "was moonlighting for the CIA." The host admits evidence is circumstantial. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 28:16-29:36)* See [[cay-sal]].

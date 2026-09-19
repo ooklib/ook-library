@@ -61,6 +61,8 @@ sources:
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 
@@ -183,3 +185,8 @@ Trento, Anthony Kimery and Whitney Webb. *([ewa/bush-1](../raw/ewa/Eyes Wide Ope
 ## Additional claims (The CIA's Blond Ghost, ewa/shackley)
 
 - Host: as CIA director (1976) he promoted [[ted-shackley]] to associate deputy director for operations, "two rungs under the directorship"; both were pushed out after Carter took office ([[halloween-massacre]]); host speculates they crossed paths in the Caribbean around 1961-62 and that VP Bush was likely apprised of Shackley's 1980s Contra shell-company network; host also calls *Still the Target* (1989) suited to the incoming Bush administration. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 9:16-10:06, 10:48-11:03, 17:21-17:44)* Not in this transcript: Skull and Bones, Cheney, UFOs.
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: Zapata Offshore's Marathon, Florida offices sat in [[jm-wave-station]]'s backyard; Bush is "likely a CIA business asset" who would almost certainly have met [[ted-shackley]] on the Gulf Coast; Shackley was elevated to his highest CIA role under Bush's directorship in the mid-1970s; the host likens both to men who "elevate those [they] trust." Host inference, flagged as circumstantial. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 27:16-29:36, 31:43-31:56)*

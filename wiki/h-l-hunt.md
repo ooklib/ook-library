@@ -12,8 +12,11 @@ relations:
     note: "father; the host says Nelson Bunker Hunt later backed Contra death squads"
   - relation: alleged_by
     target: eyes-wide-open
+sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 H. L. Hunt is described by [[eyes-wide-open]] as the third, richest and most ideological of the East Texas oil "Titans": an outspoken anti-communist and segregationist funder of activist and militia groups, whom "to many" was an "unrepentant fascist." (Not to be confused with [[e-howard-hunt]].)
@@ -30,3 +33,8 @@ H. L. Hunt is described by [[eyes-wide-open]] as the third, richest and most ide
 ## Relationships
 
 - Member of [[texas-raj]]; father of [[nelson-bunker-hunt]].
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: with [[william-pawley]], Texas oil tycoon H. L. Hunt increasingly filled the funding gap for the CIA and for disgruntled exiles who shared his disdain for the Kennedys after official money dried up post-missile crisis; the host promises to trace this later. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 26:37-27:04)*

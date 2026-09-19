@@ -57,6 +57,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -198,3 +200,8 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 ## Additional claims (The CIA's Blond Ghost, ewa/shackley)
 
 - `ewa/shackley` (dated 2025-10-03; first available to Patreon producer-tier patrons February 15, 2025 per the host) is a Season 3 profile of [[ted-shackley]]. It includes a source review of Shackley's books and David Corn's *The Blond Ghost* ([[the-third-option]]), a long speculative detour on the Gehlen commando program and Green Beret origins ([[galen-commando-program]], [[us-army-special-forces]], [[franz-six]], [[lauri-torni]]), and the [[berlin-tunnel]]. Host marks his own speculation with an on-screen green eye icon. Next: the JM/WAVE episode. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 22:52-23:12, 1:20:16-1:21:41)*
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Season 3, video 3 (`ewa/jmwave`, dated 2025-11-07; first released to Patreon producer-tier patrons March 12, 2025). Covers [[jm-wave-station]] under [[ted-shackley]] and the Kennedy-CIA tension; announces five Friday "Road to Dallas" episodes beginning with Frank Sturgis ([[frank-sturgis]]) and a Japan series. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 57:14-59:31)*

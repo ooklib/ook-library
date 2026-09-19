@@ -38,6 +38,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 Civil Air Transport was a nominally commercial airline run by the Nationalist Chinese government
@@ -85,3 +87,8 @@ Helliwell's first opium-smuggling route and the direct ancestor of [[air-america
 
 
 - CAT pilots contracted for PBSuccess; Harper Woodward, an early CAT director, was a silent partner in [[rockefeller-brothers-inc]]; 1959 Laos airlift; renamed [[air-america]] in 1960. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 11:56-12:22, 23:13-23:37, 33:53-34:15)*
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: reformed from the [[flying-tigers]] in 1946 (per host), became Air America in 1960; [[alfred-cox]] served as Chennault's special assistant in 1949 and later ran the airline's covert and commercial sides. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 11:58-13:37)*

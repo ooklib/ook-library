@@ -40,6 +40,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 E. Howard Hunt, the "Spook," is presented by Eyes Wide Open as a founding CIA member who began under Helliwell's OSS Detachment 202 in China, ran CIA operations from Mexico, helped organize the 1954 Guatemala coup and the Bay of Pigs, became a Nixon "plumber" in Watergate, and left a disputed deathbed confession about the Kennedy assassination. He wrote spy novels under pen names. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 4:48-5:29)*
@@ -79,3 +81,8 @@ E. Howard Hunt, the "Spook," is presented by Eyes Wide Open as a founding CIA me
 
 
 - Per the host, [[william-f-buckley-jr]] served under Hunt at the CIA's Mexico City station 1951-53; the post-Watergate *Firing Line* interview of Hunt by Buckley is cited as an example of "CIA on CIA" media. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 22:14-23:11)*
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: part of the original 1954 Guatemala ([[operation-pbsuccess]]) Caribbean team with [[david-sanchez-morales]] and David Atlee Phillips that "would remain in place during the Cuban Revolution"; called a close confidant of [[william-harvey]] and, with Morales, a prime suspect in assassination theories. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 37:01-37:21, 47:33-47:45)*

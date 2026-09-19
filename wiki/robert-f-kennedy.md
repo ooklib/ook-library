@@ -25,6 +25,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 Robert F. Kennedy appears briefly in this episode as a young Justice Department attorney who lost
@@ -60,3 +62,9 @@ anti-Mafia campaign as Attorney General.
 - Host: unlike JFK, RFK was "a bit more lenient" on executive action against Castro and "may have even sanctioned the continued use of mafia figures in CIA murder plots"; citing Douglas Valentine, in June 1961 his office proposed covert clemency deals to mobster Norman Rothman in return for help with Castro attempts. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 33:38-34:20, 1:08:50-1:09:21)*
 - Host: he and [[william-harvey]] clashed "near weekly" over the Miami operations. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:17:59-1:18:06)*
 - Host lists him with [[mcgeorge-bundy]] as "prime candidates" for the White House voice urging Bissell to build [[zr-rifle]] (speculation). *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:07:41-1:09:55)* See [[operation-mongoose]].
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: co-headed [[operation-mongoose]] with Lansdale, "overeager godfather" (Corn), wanted to be apprised of everything and dropped by [[jm-wave-station]] unannounced; met Cuban exile leaders privately, some at the family estate; per [[grayston-lynch]], staff said "Bobby says this, Bobby says that." Feuded with [[william-harvey]], [[j-edgar-hoover]] and [[lyndon-b-johnson]], "all three" of whom "would figure in some ways into the theory surrounding the assassination" of JFK (host). *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 39:35-42:13)*
+- Blamed Harvey for Mongoose's failure and reportedly called for his transfer; Shackley reportedly cultivated RFK opportunistically. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 45:38-45:51, 50:47-50:54, 40:46-41:37)*

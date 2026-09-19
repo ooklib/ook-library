@@ -23,6 +23,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 Operation 40 is, per [[eyes-wide-open]], the shorthand for an elite group of Cuban exile assets that CIA trainers split off from [[brigade-2506]] in 1960-61. The host uses "Operation 40" as a catch-all label (he says the name never appears in declassified or official CIA material, but exiles have referred to it) for a group he presents as simultaneously a would-be post-Castro intelligence service, an assassination and "purge" unit, and a private, deniable pool of contract operators for later CIA operations. This is the host's argument, not established fact. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 32:16-32:46)*
@@ -77,3 +79,8 @@ Host's summary: Op 40 was the CIA's first foreign-intelligence-apparatus attempt
 
 - Host: the most elite Cuban exiles were funneled into Operation 40 as future intelligence operators of a US-aligned Cuba; speculative training on Bush's Scorpion rig off [[cay-sal]]. Alleged fundraising by [[george-h-w-bush]] and [[jack-crichton]] (Fabian Escalante's claim, flagged unverified). Porter Goss "highly rumored" to have been involved and rumored to be in the photo covered in the Operation 40 episode. See [[zapata-offshore]]. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 25:09-27:29)*
 - Host: [[felix-rodriguez]] is "the head of operation 40" (as phrased at 28:15-28:25, versus "leader of the hit squad" at 27:29). *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 28:15-28:25)*
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: [[thomas-clines]] and Op 40 member Chi-Chi Cano were close; [[david-sanchez-morales]] was reportedly the trainer of Op 40's shooting team. Op 40 is called an "elite squad of Cuban operators pulled aside from the brigade" (context, Klein/Clines in ASR). *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 33:00-33:23, 35:21-35:33)*

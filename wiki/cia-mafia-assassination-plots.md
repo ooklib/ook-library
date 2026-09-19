@@ -23,6 +23,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 The CIA-Mafia assassination plots are the alleged 1960-61 (and later) schemes to kill [[fidel-castro]] using [[national-crime-syndicate]] figures, which [[eyes-wide-open]] uses in the episode "The CIA-Mafia Legend" as a window onto the alliance of intelligence, organized crime and private capital. The host also argues that the popular story of these plots is itself a "legend" (see [[cia-mafia-legend]]).
@@ -58,3 +60,8 @@ The CIA-Mafia assassination plots are the alleged 1960-61 (and later) schemes to
 
 - Host recap: the 1967 IG report calls the pre-Harvey plots (from late 1959, using mafia assets such as [[johnny-roselli]] and [[santo-trafficante]]) "phase one" of the "gambling syndicate operation" and everything from February 1961 under [[william-harvey]] "phase two" ([[zr-rifle]]). Harvey reintegrated the mob figures in mid-November 1961; [[robert-maheu]] acted as Howard Hughes's private operator/middleman and phase-one cutout. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:06:43-1:07:41, 1:09:55-1:10:52, 1:11:37-1:12:29)*
 - Host again offers the reading that the CIA was extending the mob figures protection from federal prosecution under national-security cover, and notes RFK's office allegedly proposed clemency to mobster Norman Rothman in June 1961. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:10:25-1:10:39, 1:08:50-1:09:21)*
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: the plots "largely went nowhere," but Harvey and Shackley's 1962 U-Haul arms delivery to [[johnny-roselli]] is documented in the Church Committee record. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 43:12-43:39)*

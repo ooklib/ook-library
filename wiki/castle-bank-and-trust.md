@@ -18,6 +18,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
+    label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
 
 Castle Bank and Trust, a Bahamian bank founded by [[paul-helliwell]] (the architect of
@@ -40,3 +42,8 @@ Southeast Asia and Latin America, and is tied to the [[resorts-international]] c
 
 - Founded by [[paul-helliwell]]; tied to [[resorts-international]].
 - Allegedly used by the [[central-intelligence-agency]] to fund covert operations.
+
+## Additional claims (The CIA's Miami Station - JMWAVE, ewa/jmwave)
+
+
+- Host: opened in the early 1960s in the Bahamas by [[paul-helliwell]] with mob-associated Chicago tax attorney Burton Kanter (ASR "Caner"), while Helliwell paid for the Bay of Pigs and [[jm-wave-station]]; later "superseded" by [[nugan-hand-bank]]. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 19:00-19:27, 20:53-21:09)*
