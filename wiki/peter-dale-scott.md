@@ -23,6 +23,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
     label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
+    label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
 ---
 
 Peter Dale Scott is a researcher credited by Eyes Wide Open as the originator of the "deep
@@ -60,3 +62,7 @@ series on the history of the CIA.
 ## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
 
 - Host credits Scott with the concept of "structural deep events" and quotes his definition: an event "large enough to affect the whole fabric of society." The host lists JFK's assassination, Watergate, Iran-Contra, 9/11 and (most recently) the COVID pandemic in this category. See [[structural-deep-event]]. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 4:36-5:36)*
+
+## Additional claims (The Road to Dallas Chapter 1, ewa/dallas-1)
+
+- *Deep Politics and the Death of JFK* (p. 178) is quoted for the claim that Castro accepted American soldiers of fortune for their ability to procure surplus or allegedly stolen US military supplies; see [[frank-sturgis]]. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 20:16-20:43)*

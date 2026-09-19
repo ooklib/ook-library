@@ -61,6 +61,8 @@ sources:
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
     label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
+    label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -211,3 +213,8 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 ## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
 
 - Preview episode ("Chapter 0") of the Season 3 series [[road-to-dallas]], published 2025-11-13 with Chapter 1 following on 2025-11-14. The host states his "structural and materialist view of history" and the series' goal: to show that "assassination studies" deserves to be a respectable area of modern historical research. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 0:00-0:45, 1:10-1:16, 9:41-10:24)*
+
+## Additional claims (The Road to Dallas Chapter 1, ewa/dallas-1)
+
+- Chapter 1 of [[road-to-dallas]] (2025-11-14): [[frank-sturgis]] and the soldiers of fortune of the [[cuban-revolution]]. Host cites *Warrior* (Hunt and Risch), Peter Dale Scott, Hinckle and Turner, Argosy (1975, 1993) and the Miami Herald (2008) as sources, and thanks a Twitter user "Young Coxy" for the Argosy lead. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 10:00-10:13, 14:24-14:44)*
+- Host mentions a forthcoming Patreon Japan-history series and a [[charles-willoughby]] series. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 31:49-33:13)*

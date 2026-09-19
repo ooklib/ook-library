@@ -28,6 +28,8 @@ sources:
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
     label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
+    label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
 ---
 
 The 22 November 1963 assassination of President John F. Kennedy in Dallas. In this episode Eyes Wide Open covers only [[e-howard-hunt]]'s alleged presence and deathbed confession; the host says his own research indicates a fundamental mob element in the conspiracy. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:48-11:00)*
@@ -89,3 +91,7 @@ The 22 November 1963 assassination of President John F. Kennedy in Dallas. In th
 - Host describes it as the first of Peter Dale Scott's "structural deep events" ([[structural-deep-event]]) and claims that many interest groups (intelligence agencies, paramilitaries, foreign governments) likely had prior knowledge of plots before they occurred. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 4:36-4:41, 7:19-7:29)*
 - Host claims it entrenched the [[military-industrial-complex]] and permanent war economy, empowered "out-of-control" intelligence agencies, increased international paramilitary operations, and cemented US-Israel ties that the Kennedys had been questioning. Host's assessment. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 2:33-2:58)*
 - Host previews five angles for the series (false flag, militia, international conspiracy, army intelligence deception, military-industrial complex/Texas/LBJ); detail on [[road-to-dallas]]. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 10:37-14:04)*
+
+## Additional claims (The Road to Dallas Chapter 1, ewa/dallas-1)
+
+- Host: the Gulf Coast anti-Castro groups of the early 1960s trace their origin to the [[cuban-revolution]]; he says the JFK assassination's roots lie as much in Havana 1959-60 as in Dallas 1963, and that the men he covers "fit into several prominent theories" of the plot. The chapter introduces [[frank-sturgis]] as "an intel asset, and a suspect" and [[gerry-patrick-hemming]] with his claimed 1959 contact with [[lee-harvey-oswald]]. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 0:40-1:23)*

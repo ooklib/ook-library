@@ -17,6 +17,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
+    label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
 ---
 
 Jack Ruby (Rubenstein), the Dallas nightclub owner who killed [[lee-harvey-oswald]], is presented by [[eyes-wide-open]] as a late-1950s gunrunner to Cuba, first to Batista's forces for mob friends (Havana casino manager Lewis McWillie, who managed [[meyer-lansky]]'s Tropicana, per the host), also to Castro. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 39:29-39:53)*
@@ -40,3 +42,7 @@ Jack Ruby (Rubenstein), the Dallas nightclub owner who killed [[lee-harvey-oswal
 
 
 - Host: emigrated from the Chicago underworld to Dallas via the mob's wire-service expansion, as [[johnny-roselli]] did to LA. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 30:11-30:26)*
+
+## Additional claims (The Road to Dallas Chapter 1, ewa/dallas-1)
+
+- Host: Ruby (called the "future Lee Harvey Oswald assassin") and [[david-ferrie]] got their start running guns to Cuba during the [[cuban-revolution]]; arms trafficking to Cuba was driven largely by organized crime and intelligence assets. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 7:01-7:32)*

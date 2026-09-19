@@ -18,6 +18,8 @@ sources:
     label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
+    label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
 ---
 
 David Ferrie (ASR "Ferry"; source list spells Ferrie) led the Louisiana [[civil-air-patrol]] group; the host calls him "an eccentric man and by many accounts a psychopath and a pedophile," and, per Daniel Hopsicker and Jim Garrison, a CIA asset in Baton Rouge in the mid-1950s (attribution is ambiguous in the ASR). *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 41:50-42:14)*
@@ -34,3 +36,7 @@ David Ferrie (ASR "Ferry"; source list spells Ferrie) led the Louisiana [[civil-
 ## Additional claims (Bush and the CIA, Chapter 3)
 
 - Host: the CIA-backed Louisiana arms smugglers concentrated around Ferrie and his [[civil-air-patrol]]; speculation that [[cay-sal]] was a transshipment point. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 23:15-23:44)*
+
+## Additional claims (The Road to Dallas Chapter 1, ewa/dallas-1)
+
+- Host: Ferrie, a "Louisiana Civil Air Patrol pilot and long-standing CIA asset", and [[jack-ruby]] both got their start running guns to Cuba during the [[cuban-revolution]], helping procure US surplus military gear for Castro through intelligence connections. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 6:44-7:19)*

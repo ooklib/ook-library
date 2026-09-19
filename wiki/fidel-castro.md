@@ -14,6 +14,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
+    label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
 ---
 
 Fidel Castro's 1958-59 overthrow of Batista is cast by [[eyes-wide-open]] as the trigger for the Bay of Pigs planning and the formal CIA-mafia alliance. The host calls him a "closeted communist" and calls the CIA's assisting him unrealistic to explain by ignorance. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 35:28-35:53, 46:11-46:19)*
@@ -36,3 +38,9 @@ Fidel Castro's 1958-59 overthrow of Batista is cast by [[eyes-wide-open]] as the
 ## Additional claims (CIA-Mafia Legend)
 
 - Host: the CIA-Mafia assassination target; Lansky's reported million-dollar bounty; the host frames failed attempts (600 by some estimates) as possibly a "legend". *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 0:23-0:38, 34:30-34:39, 1:11:48-1:14:18)* See [[cia-mafia-assassination-plots]] and [[cia-mafia-legend]].
+
+## Additional claims (The Road to Dallas Chapter 1, ewa/dallas-1)
+
+- Host: the 26th of July movement was not explicitly communist before 1959 and Castro's communist commitment (Guevara at the Bank of Cuba, Raul Castro purging the army) was solidified by mid-1959; some speculate he hid his leanings from the US, "likely never" to be settled. See [[cuban-revolution]]. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 2:54-4:06)*
+- Per *The Fish Is Red* (via the host): met [[carlos-prio-socarras]] at the Hotel Casa de Palmas in McAllen, Texas, and left with a reported $100,000 pledge in return for a promise to return Prio to the presidency. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 18:26-19:39)*
+- Allegedly met [[frank-sturgis]] in Miami in 1957; Sturgis then ran arms and served as his ad hoc air chief. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 21:15-21:29)*

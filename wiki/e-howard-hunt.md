@@ -42,6 +42,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
+    label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
 ---
 
 E. Howard Hunt, the "Spook," is presented by Eyes Wide Open as a founding CIA member who began under Helliwell's OSS Detachment 202 in China, ran CIA operations from Mexico, helped organize the 1954 Guatemala coup and the Bay of Pigs, became a Nixon "plumber" in Watergate, and left a disputed deathbed confession about the Kennedy assassination. He wrote spy novels under pen names. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 4:48-5:29)*
@@ -86,3 +88,7 @@ E. Howard Hunt, the "Spook," is presented by Eyes Wide Open as a founding CIA me
 
 
 - Host: part of the original 1954 Guatemala ([[operation-pbsuccess]]) Caribbean team with [[david-sanchez-morales]] and David Atlee Phillips that "would remain in place during the Cuban Revolution"; called a close confidant of [[william-harvey]] and, with Morales, a prime suspect in assassination theories. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 37:01-37:21, 47:33-47:45)*
+
+## Additional claims (The Road to Dallas Chapter 1, ewa/dallas-1)
+
+- No mention of Hunt by name; the episode notes Sturgis's later involvement with the Nixon White House plumbers ([[frank-sturgis]]). Wiki-internal cross-reference only. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 8:40-8:57)*

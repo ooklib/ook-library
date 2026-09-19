@@ -22,6 +22,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
     label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
+    label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
 ---
 
 Lee Harvey Oswald is treated by [[eyes-wide-open]] only in his pre-assassination context: allegedly a Louisiana [[civil-air-patrol]] cadet under [[david-ferrie]] in 1955 alongside [[barry-seal]], and later a Marine posted at a top-secret U-2 spy plane base in Japan around 1957, "an unusual assignment for an allegedly mediocre soldier and pilot." *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 43:04-44:25)*
@@ -44,3 +46,9 @@ Lee Harvey Oswald is treated by [[eyes-wide-open]] only in his pre-assassination
 
 - Host says Oswald was "likely framed" and that one could "convincingly" argue he was simultaneously an asset (wittingly or unwittingly) of the CIA, military intelligence, the FBI and Soviet intelligence; he generalizes that key players in the nexus shifted allegiances. Host's speculation. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 7:32-8:15)*
 - Host says that in the false-flag angle, retired army intelligence figures with a network of activists and think tanks mobilized before and after the assassination to paint Oswald as a Soviet agent and the plot as coming from Moscow or Havana. Preview only; details deferred. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 10:57-11:15)*
+
+## Additional claims (The Road to Dallas Chapter 1, ewa/dallas-1)
+
+- Host: Oswald served in Japan as a Marine radar operator at Atsugi Air Base (outskirts of Yokohama) from 1957 until November 1958, overlapping with [[gerry-patrick-hemming]]'s Marine service there (Hemming discharged October 17, 1958). *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 25:36-26:37)*
+- Hemming's claim (Argosy, 1976, Dick Russell): he met a Marine Oswald in Los Angeles in 1959 at the Cuban consulate, offering to defect to Castro, and thought he was "a penetrator ... on the naval intelligence payroll". The host says this fits Oswald's reported timeline but treats Hemming as questionable. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 26:37-28:43)*
+- Note: the host's "radar operator" description here differs from the "U-2 base" emphasis on this page's earlier section; both are the host's/Hemming's framing of the same Japan posting and are not contradictory.
