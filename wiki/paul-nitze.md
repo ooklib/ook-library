@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Paul Nitze is presented by [[eyes-wide-open]] as an "obscure" figure whose [[nsc-68]] made the
@@ -31,3 +33,8 @@ aliases.
 ## Relationships
 
 - Author of [[nsc-68]]; ideological ancestor (per host) of the [[military-industrial-complex]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- ASR "Paul nits": his 1950 NSC 68 reaffirmed by Panel II. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 29:52-30:09)*

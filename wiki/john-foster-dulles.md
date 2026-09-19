@@ -28,6 +28,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 John Foster Dulles was a partner at [[sullivan-and-cromwell|Sullivan & Cromwell]] and elder
@@ -69,3 +71,8 @@ Eisenhower (a role outside this video's scope, to be covered in later Eyes Wide 
 - Sponsored [[alger-hiss]] to the [[carnegie-endowment-for-international-peace]] presidency; hoped
   for a secretary-of-state role under [[thomas-dewey]]'s 1948 campaign.
 - LAOS 2: US delegation leader at [[geneva-conference-1954]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- As Secretary of State under Eisenhower; host says his influence probably swayed Eisenhower to trust his brother [[allen-dulles]]; lawyered for [[united-fruit-company]] via [[sullivan-and-cromwell]]. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 6:05-6:28, 9:47-9:56)*

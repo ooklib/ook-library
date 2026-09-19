@@ -17,6 +17,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Whiting Willauer was a lawyer and China Lobby "hand" who co-founded [[civil-air-transport]] and
@@ -37,3 +39,8 @@ normalization to Willauer is my inference (the transcript does not spell it), ke
 ## Relationships
 
 - Co-founder of [[civil-air-transport]]; associate of [[claire-chennault]], [[paul-helliwell]] and [[frank-wisner]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- As ambassador to Honduras, aided the CIA air force and recruited CAT pilots for PBSuccess. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 11:31-12:22)*

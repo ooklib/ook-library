@@ -25,6 +25,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 The China Lobby is the informal grouping of American (and Chinese) business, media and political
@@ -69,3 +71,8 @@ mid-19th century and hardened into a political vehicle in the late 1930s-40s aro
 - Sponsors/allies: [[chiang-kai-shek]], [[t-v-soong]], [[henry-luce]], [[thomas-corcoran]], [[claire-chennault]].
 - Vehicles: [[flying-tigers]], [[civil-air-transport]], [[pan-american-airways]].
 - Influenced [[richard-nixon]] and [[lyndon-b-johnson]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Host: after Asia, the China Lobby "reemerged" in Guatemala via Corcoran, Willauer, Pawley. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 8:44-9:16, 14:56-15:21)*

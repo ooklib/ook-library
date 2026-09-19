@@ -22,9 +22,14 @@ relations:
   - relation: associate_of
     target: lucien-conein
     note: "recommended Conein to Nixon as narcotics advisor"
+  - relation: associate_of
+    target: frank-sturgis
+    note: "close partners in anti-Castro ops and Watergate"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 E. Howard Hunt, the "Spook," is presented by Eyes Wide Open as a founding CIA member who began under Helliwell's OSS Detachment 202 in China, ran CIA operations from Mexico, helped organize the 1954 Guatemala coup and the Bay of Pigs, became a Nixon "plumber" in Watergate, and left a disputed deathbed confession about the Kennedy assassination. He wrote spy novels under pen names. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 4:48-5:29)*
@@ -44,3 +49,9 @@ E. Howard Hunt, the "Spook," is presented by Eyes Wide Open as a founding CIA me
 - Alumnus of [[oss-detachment-202]] under [[paul-helliwell]].
 - Participated in [[operation-pbsuccess]], the [[bay-of-pigs-invasion]] and [[watergate-scandal]]; see [[kennedy-assassination]].
 - Associated with [[allen-dulles]] and [[lucien-conein]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Put in charge of a PB Success role by [[richard-bissell]]; earlier under [[paul-helliwell]] in China in WWII; ran Mexico City propaganda radio; back in Guatemala City in 1958 for the anti-Communist Federation conference. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 14:05-14:41, 16:16-16:40)*
+- Partner of [[frank-sturgis]]; both speculated as JFK "tramps" and Watergate plumbers. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 37:51-39:21)*

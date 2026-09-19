@@ -15,6 +15,8 @@ sources:
     label: "Britain's Most Powerful Secret Organisation - Chatham House Exposed (Green & Pleasant)"
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 The Council on Foreign Relations (CFR) is a US foreign-policy think tank that, per Green &
@@ -47,3 +49,8 @@ after the British and American delegates split into two separate national bodies
 This page currently rests on a single secondary source (Green & Pleasant's Chatham House video)
 describing the CFR only in relation to Chatham House's founding; it has not been independently
 researched or ingested from CFR-focused sources.
+
+## Additional claims (War Conspiracy 2)
+
+
+- Host: the Rockefellers provided the majority of its funding from the 1930s; membership is a "who's who" of business, intelligence and military-industrial spheres; central to theories of elite domination. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 18:03-18:45)*

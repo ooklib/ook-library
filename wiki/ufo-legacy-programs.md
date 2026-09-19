@@ -20,6 +20,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Gerb's umbrella term for the alleged, decades-old, fragmented network of US government,
@@ -150,3 +152,8 @@ vehicles" (UFOs), running from 1947 to the present. *([gerb/mitre](../raw/gerb/m
   [[darpa-security-and-intelligence-directorate]],
   [[air-force-life-cycle-management-center]], and
   [[doe-office-of-intelligence-and-counterintelligence]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Cross-link (wiki-internal, Rockefeller/UFO thread): host speculates [[laurance-rockefeller]]'s 1980s-90s UFO-conference funding was a psychological operation diverting attention from experimental military tech. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 24:07-24:49)*

@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 The military-industrial complex (MIC) is the nexus of arms industry, aviation and aerospace firms,
@@ -69,3 +71,8 @@ arms economy.
 - Product of [[nsc-68]] and the [[korean-war]]; central to the [[war-conspiracy]].
 - Named beneficiaries: [[boeing]], [[lockheed-martin]], [[northrop-grumman]], [[howard-hughes]] (Hughes Aircraft), [[pan-american-airways]].
 - Tied to the [[china-lobby]] via aviation interests such as [[civil-air-transport]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Follow-up to the WC1 preview: Rockefeller-funded [[itek]] and the [[special-studies-project]] fulfill the "Rockefeller funding of CIA spy satellites" promise. Eisenhower's farewell address quoted. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 22:57-24:07, 59:23-1:00:22)*

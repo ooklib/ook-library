@@ -17,6 +17,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Air America is described by Eyes Wide Open as "the CIA's fully fledged airline," which grew out
@@ -37,3 +39,8 @@ series reaches the Vietnam War (see `raw/index.md`'s later `ewa/laos-*` entries)
 
 - Spun off from [[civil-air-transport]]; operated by the [[central-intelligence-agency]].
 - LAOS 4: LAOS 4: [[laos-coups-1958-1960]], [[operation-milpond]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Host: its Laos airlift continued largely uninterrupted from 1959 to the mid-1970s, shuttling arms and narcotics; [[barry-seal]] reportedly flew for it. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 33:53-34:08, 42:14-42:23)*

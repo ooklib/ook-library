@@ -22,6 +22,9 @@ relations:
   - relation: associate_of
     target: china-lobby
     note: "host: aligned himself with the lobby in 1950"
+  - relation: associate_of
+    target: charles-rebozo
+    note: "longtime friend and financier"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
@@ -33,6 +36,8 @@ sources:
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Richard Nixon appears in this episode as a junior California congressman who built his
@@ -83,3 +88,9 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
 - See [[watergate-scandal]], [[e-howard-hunt]].
 - See [[secret-war-in-laos]].
 - War Conspiracy 1: [[china-lobby]] protege; see [[lyndon-b-johnson]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- As vice president headed the first secret Cuba task force in late 1959 with Dulles; his friendship with [[charles-rebozo]] and Miami ties; host's speculation on a blackmail scenario (rumor). *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 52:15-55:40)*
+- Kissinger later served him as National Security Advisor; see [[henry-kissinger]]. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 27:19-27:35)*

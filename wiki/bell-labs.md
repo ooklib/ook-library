@@ -9,6 +9,8 @@ relations:
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Bell Labs (AT&T) was the trusted industrial partner Truman turned to in 1949 to help found
@@ -24,3 +26,8 @@ Bell Labs (AT&T) was the trusted industrial partner Truman turned to in 1949 to 
 ## Relationships
 
 - Model organization for [[sandia-national-laboratories]]'s founding structure.
+
+## Additional claims (War Conspiracy 2)
+
+
+- Cross-link: James B. Fisk, Executive Vice President of Bell Labs, sat on Panel II of the [[special-studies-project]]. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 28:55-29:11)*

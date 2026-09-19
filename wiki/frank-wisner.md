@@ -34,6 +34,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Frank Wisner is introduced by Eyes Wide Open as "the head of covert operations in the future
@@ -82,3 +84,8 @@ Romania.
   [[operation-gladio]], was activated and lost by the [[central-intelligence-group]].
 - See [[operation-paper]].
 - War Conspiracy 1: [[whiting-willauer]], [[civil-air-transport]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Deputy director of plans who ran the covert operations arm; put [[richard-bissell]] in charge of PBSuccess planning. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 7:17-7:41, 13:38-13:47)*

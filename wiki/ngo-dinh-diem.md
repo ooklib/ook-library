@@ -20,6 +20,8 @@ sources:
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 South Vietnam's president, killed in 1963. Per Eyes Wide Open, [[lucien-conein]] eventually gave the green light to South Vietnamese generals to kill him, one of the last defining moments of the Kennedy presidency. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 16:35-16:45)*
@@ -42,3 +44,8 @@ South Vietnam's president, killed in 1963. Per Eyes Wide Open, [[lucien-conein]]
 - See [[lucien-conein]].
 - LAOS 2: challenged by [[binh-xuyen]]; advised by [[edward-lansdale]].
 - LAOS 3: brother [[ngo-dinh-nhu]]; friend/adviser [[wesley-fishell]] ([[michigan-state-university-vietnam-advisory-group]]); backed by the [[vietnam-lobby]]; fought the [[binh-xuyen]] in the [[battle-of-saigon-1955]]; CIA team [[saigon-military-mission]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Hosted by the [[asia-society]] in the 1950s per Scott. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 19:59-20:07)*

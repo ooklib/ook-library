@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 NSC 68 (April 1950) is the [[national-security-council]] memorandum drafted by [[paul-nitze]] that
@@ -44,3 +46,8 @@ episode's bibliography links the document directly.
 
 - Written by [[paul-nitze]]; issued via the [[national-security-council]].
 - Followed by the [[korean-war]] buildup and the [[china-lobby]]'s rollback policy.
+
+## Additional claims (War Conspiracy 2)
+
+
+- The [[special-studies-project]] Panel II reaffirmed [[paul-nitze]]'s NSC 68 recommendations. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 29:52-30:09)*

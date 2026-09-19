@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Skull and Bones is the Yale secret society that [[eyes-wide-open]] uses in this episode as an
@@ -36,3 +38,8 @@ mentions on [[henry-luce]] and [[george-h-w-bush]] were passing).
 - Member: [[henry-luce]] (this episode); the wiki also records [[george-h-w-bush]] as a member per
   the [[henry-luce]] page.
 - Connected in the host's narrative to the opium-financed [[china-lobby]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Panelists [[henry-luce]] and Townsend Hoopes are identified as members on Panel II of the [[special-studies-project]]. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 27:51-28:22)*

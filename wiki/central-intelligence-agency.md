@@ -69,6 +69,8 @@ sources:
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -153,3 +155,8 @@ shared organization page.
 - LAOS 3: [[saigon-military-mission]], [[michigan-state-university-vietnam-advisory-group]].
 - LAOS 4: LAOS 4: [[bill-lair]], [[operation-momentum]], [[paru]], [[laos-coups-1958-1960]].
 - War Conspiracy 1: [[war-conspiracy]], [[civil-air-transport]], [[military-industrial-complex]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Host: Eisenhower gave the CIA largely free rein; MK-Ultra, Artichoke, Bluebird mentioned; PBSuccess, Iran, Laos; see [[jm-wave-station]] and [[richard-bissell]]. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 5:07-7:02)*

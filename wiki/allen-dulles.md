@@ -49,6 +49,9 @@ relations:
   - relation: member_of
     target: american-committee-on-united-europe
     note: "vice chairman"
+  - relation: associate_of
+    target: richard-nixon
+    note: "host: devised the first Cuba task force with Nixon behind Eisenhower's back"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
@@ -70,6 +73,8 @@ sources:
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -211,3 +216,10 @@ calls him "arguably one of, if not the most important person in modern American 
 - LAOS 2: impressed by French [[operation-x]].
 - LAOS 3: [[saigon-military-mission]], [[wesley-fishell]].
 - LAOS 4: LAOS 4: [[laos-coups-1958-1960]], [[operation-momentum]], [[desmond-fitzgerald]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Eisenhower let the CIA run largely autonomously; a 1975 Senate testimony (Douglas Dillon) says Dulles did not report assassinations to the president. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 5:15-5:48)*
+- Joined the [[united-fruit-company]] board after the coup. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 9:56-10:11)*
+- Per Henrik Kruger and Eisenhower, Nixon and Dulles devised the late-1959 Cuba task force behind the president's back. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 52:15-52:47)*

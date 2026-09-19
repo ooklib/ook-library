@@ -18,6 +18,8 @@ sources:
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Sullivan & Cromwell was a prestigious Wall Street law firm employing both
@@ -49,3 +51,8 @@ intelligence careers.
   Allen Dulles's OSS duties.
 - Also represented [[united-fruit-company]] and [[anglo-iranian-oil-company]], tied by Eyes Wide
   Open to later CIA-backed coups in Guatemala and Iran.
+
+## Additional claims (War Conspiracy 2)
+
+
+- Host: the Dulles brothers' former firm counted the [[united-fruit-company]] as one of its most significant clients, explaining their willingness to help. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 9:47-10:03)*

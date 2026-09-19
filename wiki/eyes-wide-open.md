@@ -41,6 +41,8 @@ sources:
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -145,3 +147,8 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 - LAOS 3: [[ngo-dinh-diem]], [[ngo-dinh-nhu]], [[edward-lansdale]], [[wesley-fishell]], [[saigon-military-mission]], [[battle-of-saigon-1955]], [[strategic-hamlet-program]], [[air-laos-commerce]], [[vietnam-lobby]], [[yamashita-gold]], [[michigan-state-university-vietnam-advisory-group]].
 - LAOS 4: LAOS 4: [[laos-coups-1958-1960]], [[bill-lair]], [[operation-momentum]], [[operation-milpond]], [[operation-white-star]], [[phoumi-nosavan]], [[souvanna-phouma]], [[kong-le]], [[pathet-lao]], [[paru]], [[operation-brotherhood]], [[ouane-rattikone]], [[desmond-fitzgerald]], [[john-f-kennedy]].
 - War Conspiracy 1: see [[war-conspiracy]], [[military-industrial-complex]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- War Conspiracy 2 (2024-12-06); first aired to Patreon subscribers June 5, 2024. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 1:02:43-1:02:52)*

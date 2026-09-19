@@ -18,6 +18,8 @@ sources:
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Walter Bedell Smith became CIA director in 1950 (serving Truman's last two years, per Eyes Wide Open) and was earlier hired by [[william-donovan]] for the [[american-committee-on-united-europe]]. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 23:24-23:32)*
@@ -32,3 +34,8 @@ Walter Bedell Smith became CIA director in 1950 (serving Truman's last two years
 
 - Served in [[american-committee-on-united-europe]] and as [[central-intelligence-agency]] director.
 - See [[operation-paper]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Planned the failed PB Fortune before Dulles; later on [[united-fruit-company]]'s board. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 10:03-10:11)*

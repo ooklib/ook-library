@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 The Anglo Iranian Oil Company (AIOC) is the British oil corporation Eyes Wide Open names, along
@@ -32,3 +34,8 @@ client whose interests the CIA allegedly served in the 1953 overthrow of Iranian
 
 - Client of [[sullivan-and-cromwell]]; sought CIA/British-government action against
   [[mohammad-mossadegh]] in Iran, 1953.
+
+## Additional claims (War Conspiracy 2)
+
+
+- Host mentions Anglo-American oil interests as the goal of the 1953 coup; company not named. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 7:09-7:17)*

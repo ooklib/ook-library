@@ -17,6 +17,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Peter Dale Scott is a researcher credited by Eyes Wide Open as the originator of the "deep
@@ -41,3 +43,8 @@ series on the history of the CIA.
 - Originated the [[deep-state]] concept used throughout this Eyes Wide Open series.
 - See [[operation-paper]].
 - Authored the [[war-conspiracy]] thesis; see [[military-industrial-complex]], [[china-lobby]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Heavily cited in WC2: Itek link, Laos airlift and PanAm, mob casinos in Guatemala, Ruby quotes. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 23:53-24:07, 34:23-34:47, 16:00-16:16, 40:09-40:47)*

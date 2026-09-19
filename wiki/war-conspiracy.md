@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 "The war conspiracy" is [[peter-dale-scott]]'s meta-theory, as presented by [[eyes-wide-open]], that
@@ -52,3 +54,8 @@ whether Vietnam was truly inevitable. *([ewa/war-conspiracy-1](../raw/ewa/Eyes W
   host does not draw the equivalence explicitly in this episode).
 - Frames the study of the [[china-lobby]], [[military-industrial-complex]], [[nsc-68]] and the
   CIA's [[operation-paper]] in this episode.
+
+## Additional claims (War Conspiracy 2)
+
+
+- Part 2 covers Eisenhower/Guatemala, the [[rockefeller-family]] network, [[itek]]/spy satellites, and the Miami/Cuba/mob-CIA origins; next: Operation 40. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 0:22-0:31, 1:03:34-1:03:51)*

@@ -36,6 +36,8 @@ sources:
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Civil Air Transport was a nominally commercial airline run by the Nationalist Chinese government
@@ -78,3 +80,8 @@ Helliwell's first opium-smuggling route and the direct ancestor of [[air-america
 - LAOS 2: airlift for the French at [[battle-of-dien-bien-phu]].
 - LAOS 4: LAOS 4: [[laos-coups-1958-1960]].
 - War Conspiracy 1: descended from [[flying-tigers]]; founders [[whiting-willauer]]; [[william-pawley]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- CAT pilots contracted for PBSuccess; Harper Woodward, an early CAT director, was a silent partner in [[rockefeller-brothers-inc]]; 1959 Laos airlift; renamed [[air-america]] in 1960. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 11:56-12:22, 23:13-23:37, 33:53-34:15)*

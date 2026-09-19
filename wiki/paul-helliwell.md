@@ -26,6 +26,9 @@ relations:
     target: sea-supply-corporation
   - relation: associate_of
     target: whiting-willauer
+  - relation: associate_of
+    target: charles-rebozo
+    note: "1958 Miami convention committee"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
@@ -43,6 +46,8 @@ sources:
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Colonel Paul E. Helliwell served as chief of special intelligence for the
@@ -113,3 +118,10 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
 - LAOS 3: [[yamashita-gold]].
 - LAOS 4: LAOS 4: [[paru]], [[bill-lair]].
 - War Conspiracy 1: [[whiting-willauer]], [[civil-air-transport]] broker.
+
+## Additional claims (War Conspiracy 2)
+
+
+- CIA's Caribbean banker and paymaster; hosted the Thai consulate in his Miami law offices; per Penny Lernoux he helped Thai generals and Taiwanese interests launder Burmese opium money into Miami real estate. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 50:39-51:11)*
+- Called "Mr. Republican" in Florida (per Alan Block); credited with helping Eisenhower win Florida 1952 and 1956; chaired the 1958 Miami convention committee with [[charles-rebozo]]. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 56:52-58:29)*
+- JM/WAVE paymaster: [[jm-wave-station]]. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 51:58-52:06)*

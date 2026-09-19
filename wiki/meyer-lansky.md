@@ -30,6 +30,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Meyer Lansky, per Eyes Wide Open, was "often considered the most prolific and wealthy Mafia boss
@@ -72,3 +74,8 @@ when it covers the Kennedy assassination (per `raw/index.md`, covered at length 
 - Ran [[operation-x]]'s finances with [[paul-helliwell]] via [[general-development-corporation]].
 - Close associate of [[lucky-luciano]].
 - Relationship with the future CIA developed by [[frank-wisner]] and [[james-jesus-angleton]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Havana casinos lost in 1959; shifted to Nevada and the Bahamas as a new node for gambling and offshore banking; Guatemala casinos via representatives. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 49:27-50:08, 15:52-16:09)*

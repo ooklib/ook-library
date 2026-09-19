@@ -9,6 +9,8 @@ sources:
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Jacobo Arbenz (transcribed "Yacobo Arbens" in Eyes Wide Open's ASR captions) was the
@@ -29,3 +31,8 @@ at the lobbying of [[united-fruit-company|United Fruit]] and under the direction
 - Overthrown by the [[central-intelligence-agency]] (under [[allen-dulles]] and
   [[john-foster-dulles]]) at the lobbying of [[united-fruit-company]], 1954.
 - See [[operation-pbsuccess]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Host: "by no means a hardened communist," more a third-world nationalist; pushed nationalization and redistribution of United Fruit's holdings. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 8:27-8:44)*

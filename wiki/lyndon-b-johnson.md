@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Lyndon Johnson appears in War Conspiracy 1 as one of the two politicians (with [[richard-nixon]])
@@ -33,3 +35,8 @@ whom [[eyes-wide-open]] says the [[china-lobby]] "effectively elevated," and who
 
 - Campaign manager [[thomas-corcoran]]; boosted by the [[china-lobby]].
 - Escalated Vietnam within the [[war-conspiracy]] frame.
+
+## Additional claims (War Conspiracy 2)
+
+
+- In Lady Bird Johnson's 1955 footage with Corcoran, Helliwell and James Rowe. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 51:28-51:51)*

@@ -19,6 +19,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 William Pawley (ASR: "William Paulie"; normalization is my inference from the aviation-executive
@@ -39,3 +41,8 @@ Supplies company and a link between PanAm and the CIA's airline.
 ## Relationships
 
 - PanAm-linked executive ([[pan-american-airways]]); partner of [[thomas-corcoran]]; supplier to [[civil-air-transport]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Host: a China Lobby financier who helped fund PBSuccess and later the Bay of Pigs. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 13:01-13:16, 15:13-15:21)*

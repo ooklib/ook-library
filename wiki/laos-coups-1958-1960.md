@@ -21,6 +21,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 The "Lao crisis" of 1958-1960, as told by [[eyes-wide-open]] in LAOS 4: after independence [[laos]] split among three half-brother princes (neutralist [[souvanna-phouma]], leftist Prince Souphanouvong of the [[pathet-lao]], and right-wing Boun Oum), and Washington, unhappy with Souvanna's unity government, allegedly used aid, the CIA and the State Department to replace it with a reliably anti-communist client, [[phoumi-nosavan]]. All of this is the host's account, drawn from Martin Stuart-Fox, Peter Dale Scott, Alfred McCoy, Arthur Dommen and others; the wiki records it as an attributed claim. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 12:08-12:36)*
@@ -46,3 +48,8 @@ The "Lao crisis" of 1958-1960, as told by [[eyes-wide-open]] in LAOS 4: after in
 ## Relationships
 
 - Part of [[secret-war-in-laos]]; in [[laos]]. Principals: [[phoumi-nosavan]], [[souvanna-phouma]], [[kong-le]], the [[pathet-lao]]; enabled by [[central-intelligence-agency]], [[air-america]], [[civil-air-transport]]; precursor to [[operation-white-star]] and [[operation-momentum]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Host: CIA and CAT worked to remove Souvanna Phouma from 1958; the Ho Chi Minh Trail invasion story was first broken by Joseph Alsop (ASR "olopp"; normalization my inference), previously embedded with Chennault's Flying Tigers. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 32:17-33:53)*

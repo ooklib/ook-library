@@ -10,11 +10,16 @@ relations:
   - relation: influenced
     target: central-intelligence-agency
     note: "lobbied the CIA to overthrow Guatemalan president Jacobo Arbenz in 1954, per Eyes Wide Open"
+  - relation: associate_of
+    target: sullivan-and-cromwell
+    note: "law-firm client of Dulles brothers"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 United Fruit Company is a US agricultural corporation Eyes Wide Open cites as the paradigm case
@@ -40,3 +45,9 @@ Guatemalan government in 1954.
 - Client of [[sullivan-and-cromwell]]; lobbied the [[central-intelligence-agency]] (via
   [[allen-dulles]] and [[john-foster-dulles]]) to overthrow [[jacobo-arbenz]] in Guatemala, 1954.
 - See [[operation-pbsuccess]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Hired [[thomas-corcoran]] as lobbyist; client of [[sullivan-and-cromwell]] (Dulles brothers' former firm); Allen Dulles and [[walter-bedell-smith]] later joined its board. Per Suzanne Jonas it integrated Rockefeller, Morgan and Boston interests. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 9:23-11:16)*
+- Castro nationalized its plantations in 1959-60. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 48:37-48:53)*

@@ -25,6 +25,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Henry Luce, owner/publisher of [[time-life|Time Life]], is presented by Eyes Wide Open as an
@@ -56,3 +58,8 @@ film out of public view for years.
 - Skull and Bones member alongside [[george-h-w-bush]].
 - Employer of [[whittaker-chambers]].
 - War Conspiracy 1: [[china-lobby]] propagandist; Skull and Bones member ([[skull-and-bones]]).
+
+## Additional claims (War Conspiracy 2)
+
+
+- Named as a Skull and Bones member on Panel II of the [[special-studies-project]] (host also calls a China lobbyist). *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 27:51-28:07)*

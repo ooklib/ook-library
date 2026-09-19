@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Pan American Airways (PanAm), founded and long chaired by Juan Trippe, is presented by
@@ -40,3 +42,8 @@ establishment and intelligence world.
 
 - Linked to the [[china-lobby]] through [[william-pawley]]; supplier to [[civil-air-transport]].
 - Beneficiary of the [[military-industrial-complex]] and the Vietnam War.
+
+## Additional claims (War Conspiracy 2)
+
+
+- Quoting [[peter-dale-scott]], the Laos airlift was a "godsend" to PanAm: charter revenue rose almost 300% in 4 years; profit in 1961 first since 1956; it supplied off-duty pilots and old aircraft to CAT/Air America. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 34:15-35:19)*

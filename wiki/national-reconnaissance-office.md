@@ -54,6 +54,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 The National Reconnaissance Office develops, acquires, launches, and operates US intelligence
@@ -198,3 +200,8 @@ shared office threads Gerb draws between them. *([gerb/nro](../raw/gerb/nro.md)
   [[jim-shell]]; jointly overseen (acquisitions) by
   [[under-secretary-of-defense-for-acquisition-and-sustainment]] and
   [[deputy-director-of-national-intelligence-for-acquisition-technology-and-facilities]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Cross-link (wiki-internal): this transcript never names the NRO, but says [[richard-bissell]] directed the CIA U-2 and spy-satellite programs, whose early hardware customers were [[itek]] (funded by [[rockefeller-brothers-inc]]) *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 24:49-25:13)*; gerb/nro names Bissell as NRO co-director above.

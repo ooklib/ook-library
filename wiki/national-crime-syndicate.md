@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 The National Crime Syndicate, per Eyes Wide Open, was the nationwide organized-crime structure
@@ -25,3 +27,8 @@ among its other bosses.
 ## Relationships
 
 - Founded/led financially by [[meyer-lansky]]; [[lucky-luciano]] a fellow boss.
+
+## Additional claims (War Conspiracy 2)
+
+
+- Host: Castro's 1959 nationalization propelled the "formal marriage" between the syndicate and the CIA; see [[carlos-marcello]], [[meyer-lansky]], [[santo-trafficante]]. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 48:47-49:20)*

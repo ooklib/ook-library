@@ -23,9 +23,14 @@ relations:
   - relation: influenced
     target: lyndon-b-johnson
     note: "campaign manager in 1941 and 1948 Senate races"
+  - relation: associate_of
+    target: paul-helliwell
+    note: "1955 footage: Corcoran, Helliwell, James Rowe and LBJ"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
+    label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
 
 Thomas "Tommy the Cork" Corcoran is presented by [[eyes-wide-open]] as an FDR New Deal "Brain Trust"
@@ -57,3 +62,9 @@ Cork"), kept here as an alias.
 - Lobbyist for [[bechtel-corporation]]'s predecessor; associate of [[john-mccone]].
 - Created [[flying-tigers]] shipping channel; partner of [[william-pawley]].
 - Campaign manager for [[lyndon-b-johnson]].
+
+## Additional claims (War Conspiracy 2)
+
+
+- Lobbyist for [[united-fruit-company]] ("shifting towards Latin America"). *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 9:31-9:47)*
+- In 1955 Lady Bird Johnson footage: Corcoran, Thai consul, [[paul-helliwell]], James Rowe (his law partner and registered Thai consulate lobbyist in Florida) and [[lyndon-b-johnson]]. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 51:11-51:51)*
