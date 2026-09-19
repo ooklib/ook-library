@@ -28,6 +28,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
+    label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
 ---
 
 Los Alamos National Laboratory is a DOE/NSA National Laboratory FFRDC founded during the
@@ -63,3 +65,7 @@ Manhattan Project. *([gerb/mitre](../raw/gerb/mitre.md) 19:32–19:37)*
 ## Additional claims (jm/malmgren)
 
 - [[harald-malmgren]] says he was briefed at Los Alamos by [[lawrence-preston-gise]] with UFO debris handled, and that JFK and LBJ went there after [[bluegill-triple-prime]]; host says a Los Alamos-Livermore rivalry explains why Kettle 1 footage was declassified and Kettle 2 not. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:11:05-1:12:16, 1:06:03-1:06:20)*
+
+## Additional claims (yogsoggeth/schneider)
+
+- [[phil-schneider]] says he worked through Los Alamos on the drilling at Dulce in 1979 and that Los Alamos and [[eg-and-g]] developed scalenohedral crystals used in black jets ([[dulce-underground-base-incident-1979]], [[corbomite-and-alien-materials-claims]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 9:50, 30:37, 43:24)*

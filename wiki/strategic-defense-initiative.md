@@ -40,6 +40,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
+    label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
 ---
 
 President Ronald Reagan's 1983 Strategic Defense Initiative (SDI, "Star Wars") was a proposed
@@ -117,3 +119,7 @@ programs.
 ## Additional claims (gerb/timeline)
 
 - Timeline video: dated to March 1983; Gerb repeats that SDI funds were back-channelled to legacy programs and that space-based SDI systems had a secondary role targeting UFOs, an idea he thinks was conceived under Eisenhower. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:20:15-1:21:00)*
+
+## Additional claims (yogsoggeth/schneider)
+
+- [[phil-schneider]] says a friend, Ron Rummel, was murdered after they published a spoof tying "Star Wars" to the New World Order ([[new-world-order-alien-agenda-claims]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 14:44)*

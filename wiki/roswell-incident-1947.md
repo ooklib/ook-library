@@ -50,6 +50,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
+  - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
+    label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -169,3 +171,7 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
 ## Additional claims (rc/grusch)
 
 - [[david-grush]] declines to discuss Roswell craft details but calls the 1994 Air Force report a "total hack job" that conflated crash-test dummies and Mogul balloons and dismissed witnesses. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 16:08-17:55)*
+
+## Additional claims (yogsoggeth/schneider)
+
+- [[phil-schneider]] says the widely circulated Roswell alien-autopsy photos are fakes, that he holds a real photo from Skip Frach of Seattle, and that he was given a piece of Roswell craft skin at age 14 ([[corbomite-and-alien-materials-claims]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 11:40, 36:00)*

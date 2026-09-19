@@ -29,6 +29,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
+    label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
 ---
 
 EG&G (Edgerton, Germeshausen, and Grier, Inc.), founded in 1931 by MIT professor
@@ -81,3 +83,7 @@ EG&G (Edgerton, Germeshausen, and Grier, Inc.), founded in 1931 by MIT professor
   [[wilson-davis-notes]] meeting.
 - Worked closely with [[sandia-national-laboratories]] at the Nevada Test Site; employed
   [[donald-kerr]] as president 1989–1992; investigated by [[george-knapp]].
+
+## Additional claims (yogsoggeth/schneider)
+
+- [[phil-schneider]] names EG&G with Los Alamos as developers of exotic crystal materials for black aircraft ([[corbomite-and-alien-materials-claims]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 2:00, 30:37)*

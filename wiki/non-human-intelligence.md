@@ -9,6 +9,8 @@ relations:
 sources:
   - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
+  - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
+    label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
 ---
 
 "Non-human intelligence" (NHI) is the term used by [[david-grush]] and others in the disclosure community for the alleged intelligent originators of recovered craft, preferred over "extraterrestrial" because origin is unknown. Grusch says he does not want to "denote origin" and floats a higher-dimensional, collocated source as a theory. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 7:42-8:13,)*
@@ -22,3 +24,7 @@ sources:
 ## Relationships
 
 - Discussed in [[grusch-newsnation-interview-2023]]; term used by [[david-grush]].
+
+## Additional claims (yogsoggeth/schneider)
+
+- [[phil-schneider]] claims 11 alien civilizations visit Earth, 9 hostile ([[new-world-order-alien-agenda-claims]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 55:53)*

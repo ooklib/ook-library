@@ -12,6 +12,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
+    label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
 ---
 
 Inventor Nikola Tesla. In the Malmgren interview he is the subject of a claimed antigravity collaboration with [[thomas-townsend-brown]] and of a suppressed-papers narrative.
@@ -28,3 +30,7 @@ Inventor Nikola Tesla. In the Malmgren interview he is the subject of a claimed 
 ## Additional claims (jm/townsend-brown)
 
 - Host: high-voltage/low-current lineage from Tesla (Wardenclyffe) to Brown. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 54:37-54:55, 1:29:14-1:29:25)*
+
+## Additional claims (yogsoggeth/schneider)
+
+- [[phil-schneider]] notes Tesla's laboratories were in Colorado Springs, an area with underground bases, and leaves the rest to [[al-bielek]]. *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 53:30)*

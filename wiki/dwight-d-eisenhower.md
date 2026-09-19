@@ -33,6 +33,8 @@ sources:
     label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
+    label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
 ---
 
 Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arthur Schlesinger, briefed President-elect John F. Kennedy that [[laos]], not Vietnam, was his chief Southeast Asian worry. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 0:44-1:07)*
@@ -77,3 +79,7 @@ Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arth
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb credits Eisenhower with the "lion share" of forming the programs ([[executive-order-10501]], [[nsc-5412-committee]], [[atomic-energy-act-1954]], PEADs) and speculates about 1954-1960 agreements with non-human intelligence (probably "grays") that he leaves out for lack of direct knowledge; also that the idea of space weapons targeting UFOs dates from Eisenhower. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 33:46-34:23, 49:09-50:09, 53:14-53:45, 1:20:59-1:21:08)*
+
+## Additional claims (yogsoggeth/schneider)
+
+- [[phil-schneider]] alleges an Eisenhower-era 1954 alien-human treaty ([[greada-treaty-1954]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 8:08)*

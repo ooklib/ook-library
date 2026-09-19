@@ -21,6 +21,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
+    label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
 ---
 
 The Nevada National Security Site (formerly the Nevada Test Site, established by the AEC in 1951
@@ -51,3 +53,7 @@ Training Range (NTTR). *([gerb/sandia](../raw/gerb/sandia.md) 1:45:49–1:46:13,
 - Operated by DOE, controlled by the [[national-nuclear-security-administration]]; experimental
   programs sponsored by [[sandia-national-laboratories]], [[los-alamos-national-laboratory]], and
   [[lawrence-livermore-national-laboratory]]; includes [[area-6]].
+
+## Additional claims (yogsoggeth/schneider)
+
+- [[phil-schneider]] describes the Nellis/Groom Lake area as hosting nine underground bases ([[groom-lake]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 53:38)*

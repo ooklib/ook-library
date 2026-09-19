@@ -15,6 +15,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
+    label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
 ---
 
 Bob Lazar claimed to have been hired by [[eg-and-g|EG&G]] to reverse-engineer UFO propulsion
@@ -29,3 +31,7 @@ systems at Area 51's S4 site. *([gerb/saic](../raw/gerb/saic.md) 1:21:52–1:22:
 
 - Host: Brown's work gives a better explanation of the Lazar story than Lazar; Lazar's story was allegedly pushed by CIA pilot [[john-lear]]; disc resembles Billy Meier "sports model"; Vallee said Lazar mentioned a drink causing memory lapses. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 3:54-4:00, 32:37-39:46)*
 - Saw the Aurora but downplayed it ([[aurora-astra]]); hired after meeting [[edward-teller]]. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 33:12-33:18, 43:25-44:02)*
+
+## Additional claims (yogsoggeth/schneider)
+
+- Compare [[phil-schneider]], who claims S-4 work and a small "sport model" saucer at [[groom-lake]]. *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 4:40, 32:43)*

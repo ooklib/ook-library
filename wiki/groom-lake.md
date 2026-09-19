@@ -1,0 +1,22 @@
+---
+title: Groom Lake (Area 51, S-4)
+kind: place
+aliases: [Area 51, Dreamland, S-4, S4, S-2, S2]
+tags: [nevada, nellis, test-range, alleged, black-project]
+relations:
+  - relation: alleged_by
+    target: phil-schneider
+    note: "says he worked 11 years at Groom Lake, S-2 and S-4"
+  - relation: part_of
+    target: nevada-national-security-site
+    note: "Nevada test and range complex; Schneider places it in the Nellis area"
+sources:
+  - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
+    label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
+---
+
+Groom Lake is the Nevada test site commonly called Area 51. In the 1995 lecture ([[schneider-las-vegas-lecture-1995]]) [[phil-schneider]] says he worked 11 of his 17 government years at "Groom Lake, S-4, S-2", "in the Nellis Air Force Base area" *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 4:40)*. He claims the base has been extended by underground additions, that a small "sport model" flying saucer is occasionally seen there, and that he did ground-only "test piloting" (running aircraft along special runways) *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 9:50, 32:43, 1:01:40)*. He also says photographing the area can get equipment confiscated and bring up to five years and a million-dollar fine, that Nevada is 81 percent federally owned or restricted, and that nine underground mountain bases lie in the Nellis area north of Las Vegas *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 30:37, 53:38)*. He cites a Popular Science article on the "secret air base the government doesn't want you to know" and says an editor of the magazine is now in federal prison (unverified) *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 1:01:08)*. Compare [[bob-lazar]]'s S-4 claims and [[popular-mechanics-new-area-51-1997]].
+
+## Relationships
+
+- Part of the Nevada complex around [[nevada-national-security-site]]; site of claimed work by [[phil-schneider]]; component of [[deep-underground-military-bases]].

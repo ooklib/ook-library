@@ -12,6 +12,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
+    label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
 ---
 
 The alleged 1943 US Navy experiment to make USS Eldridge invisible or teleport it, treated in this source as a cover story with a real incident behind it.
@@ -25,3 +27,7 @@ The alleged 1943 US Navy experiment to make USS Eldridge invisible or teleport i
 ## Relationships
 
 - Brown's involvement disputed; see [[thomas-townsend-brown]].
+
+## Additional claims (yogsoggeth/schneider)
+
+- [[phil-schneider]] cites the 1943 event as an example of military technology far ahead of the public ([[schneider-las-vegas-lecture-1995]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 1:07:17)*
