@@ -21,6 +21,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/finaius/FINAiUS - 2023-11-18 - Empire of Shadows - True Story of the Richest Family in History.md"
+    label: "Empire of Shadows: True Story of the Richest Family in History (FINAiUS)"
 ---
 
 In [[eyes-wide-open]]'s War Conspiracy 2 the Rockefeller family is presented as a second elite network ("what I'll be calling the Rockefeller Network") operating alongside the [[china-lobby]], with long involvement in both Asia and Latin America, oil interests, and CIA-linked technology finance. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 17:26-17:48)*
@@ -42,3 +44,7 @@ In [[eyes-wide-open]]'s War Conspiracy 2 the Rockefeller family is presented as 
 ## Additional claims (Bush the Father, Chapter 1)
 
 - Host places the Rockefellers among the Yankee Republican circles around [[prescott-bush]] and the Dulles brothers, and among the [[draft-eisenhower-movement]] backers. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 15:33-15:50)* *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 23:33-23:51)*
+
+## From FINAiUS on the Rothschilds (finaius/rothschild)
+
+- The documentary lists John D. Rockefeller and Standard Oil among the American industrial titans (with Vanderbilt in railroads and Carnegie in steel) whose rise shifted the financial centre to Wall Street and led the [[rothschild-family]] to move into America and the [[house-of-morgan]] to rise. *([finaius/rothschild](<../raw/finaius/FINAiUS - 2023-11-18 - Empire of Shadows - True Story of the Richest Family in History.md>) 24:35, 24:42, 25:15)*

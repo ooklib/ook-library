@@ -118,6 +118,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[council-on-foreign-relations]] · [[city-of-london-corporation]] · [[remembrancer]] ·
 [[lloyds-of-london]] · [[east-india-company]] · [[tax-justice-network]]
 
+**Added by `finaius/rothschild`** (FINAiUS, "Empire of Shadows: True Story of the Richest Family in History"): [[empire-of-shadows-rothschild-documentary-2023]] — hub for the documentary · [[rothschild-family]] · [[nm-rothschild-and-sons]] · [[house-of-morgan]] · [[mayer-amschel-rothschild]] · [[nathan-mayer-rothschild]] · [[junius-spencer-morgan]] · [[j-pierpont-morgan]] · [[panic-of-1893]] — Morgan-Rothschild gold deal · [[franco-prussian-war-loan-1870]] — Morgan loan to France. Updated: [[robert-maxwell]], [[east-india-company]], [[rockefeller-family]].
+
 ## Organizations — US power structures
 
 [[bohemian-grove]] · [[bechtel-corporation]] · [[heritage-foundation]] ·

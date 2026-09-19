@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/gp/Green & Pleasant - 2026-06-03 - The Government Inside Britain That's Older Than Parliament.md"
     label: "The Government Inside Britain That's Older Than Parliament (Green & Pleasant)"
+  - file: "raw/finaius/FINAiUS - 2023-11-18 - Empire of Shadows - True Story of the Richest Family in History.md"
+    label: "Empire of Shadows: True Story of the Richest Family in History (FINAiUS)"
 ---
 
 The East India Company, chartered in 1600 and headquartered on Leadenhall Street in the City of
@@ -40,3 +42,7 @@ Historical facts about the Company's charter, army size, and role in the Opium W
 well-documented history; per this wiki's schema they are still recorded here as claims relayed
 by Green & Pleasant, and the framing (e.g. the "no plaque" detail as evidence of deliberate
 historical erasure) is the source's own interpretive point, not this wiki's independent finding.
+
+## From FINAiUS on the Rothschilds (finaius/rothschild)
+
+- In 1814 [[nathan-mayer-rothschild]] bought 800,000 pounds of East India Company gold, knowing Wellington needed coin, and shipped it to Portugal and France; he called it the best business he ever did. *([finaius/rothschild](<../raw/finaius/FINAiUS - 2023-11-18 - Empire of Shadows - True Story of the Richest Family in History.md>) 9:44, 9:57, 10:11)*
