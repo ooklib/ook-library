@@ -14,6 +14,8 @@ relations:
     target: curtis-lemay
     note: "host: LeMay started RAND, unverified"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
     label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: raw/gerb/mitre.md
@@ -63,3 +65,7 @@ and no hardware to sell. *([gerb/mitre](../raw/gerb/mitre.md) 32:28–32:48)*
 ## Claims (jm/pines)
 
 - Michels mentions a RAND initiative for global control of compute for the AGI race and possible RAND links to secret propulsion work. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:47:33-3:47:53)*
+
+## Claims (jm/cameron)
+
+- Michels and Cameron cite a Rand paper on mixing truth and falsity as a disclosure tactic; Cameron thinks the Johnson-era study author was named Rand (unverified): [[disclosure-by-disinformation-claims]], [[johnson-administration-ufo-study-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:09:45-1:10:12, 46:03-46:12)*

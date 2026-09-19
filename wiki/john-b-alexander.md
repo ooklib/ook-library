@@ -11,6 +11,8 @@ relations:
     target: majestic-documents
     note: "claims SOM1-01 was Soviet disinformation, disputed by Wood"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
@@ -52,3 +54,7 @@ Levenda met him at an AFIO meeting in Las Vegas where Alexander posed with [[mic
 ## Additional claims (gerb/corso)
 
 - In [[corso-investigation-video-2025]]: saw Corso's manuscript before the book; his book *UFOs: Myths, Conspiracies and Realities* says the Army foreign technology division was formed as Corso stated and disappeared after his retirement; challenged night-vision claims after asking the lab director; wrote Corso a letter listing issues with [[the-day-after-roswell-book]]; Corso told him the [[corso-white-sands-nhi-encounter-claims]]; joint Art Bell/Coast to Coast interview with Corso. Gerb has reservations about Alexander over the MJ-12 special operations manual. See [[corso-criticism-claims]]. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 5:27-5:42, 1:00:41-1:01:21, 1:09:35-1:10:24)*
+
+## Claims (jm/cameron)
+
+- Cameron says Alexander visited Stan Romanek's home, said a flashlight answered questions in binary code, and told him MJ-12 was real but about continuity of government: [[audrey-phone-messages-claims]], [[continuity-of-government-ufo-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 22:37-25:12, 2:03:37-2:03:54)*

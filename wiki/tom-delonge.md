@@ -16,6 +16,8 @@ relations:
     target: jim-semivan
     note: "adviser"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
@@ -111,3 +113,7 @@ Levenda says DeLonge contacted him in November 2014, pitched "knocking on doors"
 ## Claims (jm/censored-book)
 
 - Michels credits DeLonge's *Secret Machines* (see [[sekret-machines-project]]) with establishing a tradition of encoding truth in fiction, which he suggests [[jake-barber]] follows with [[sentinels-of-ether]]. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:32:46-1:33:01)*
+
+## Claims (jm/cameron)
+
+- Cameron says Semivan and Kit Green questioned DeLonge in a hotel for two days over borderline classified material in his book, then decided he was harmless and let him become a co-owner of To The Stars; Cameron links Podesta's January 2016 meeting and the 2017 launch: [[hillary-clinton-disclosure-plan-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:37:33-2:38:28, 2:41:26-2:41:58)*

@@ -25,6 +25,8 @@ relations:
   - relation: investigates
     target: transnational-criminal-organization-claims
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
     label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: raw/gerb/saic.md
@@ -109,3 +111,7 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 - Michels describes Greer as notorious for drawing out insiders and hosting the [[national-press-club-disclosure-event-2023]] where [[jake-barber]] went to red-team whistleblowers. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 37:37-37:55)*
 - Michels compares Barber's consciousness-based attraction method to Greer's CE5 coherent thought sequencing ("Greer can be polarizing ... self-aggrandizing and just plain wrong about a whole lot, but he's stayed remarkably consistent", "his contributions to UFO disclosure are incontrovertible"), and walks through the visualization steps. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:01:13-1:04:47)* See [[ce5-contact-protocols]].
 - Michels relays Greer's claim of a whistleblower who saw a Raytheon-projected holographic triangle at Fort Irwin as part of a possible false-invasion scenario, and that he and his wife were later abducted and tortured. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 46:35-47:15)*
+
+## Claims (jm/cameron)
+
+- Cameron says Greer's witness Steven Lovekin described Eisenhower doodling UFO material at Mount Weather; Greer held CE5 events at Crestone, Colorado, where Audrey-call recipients bought land: [[mount-weather]], [[audrey-phone-messages-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:06:24-2:06:52, 20:17-21:16)*

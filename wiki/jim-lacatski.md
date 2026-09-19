@@ -10,6 +10,8 @@ relations:
   - relation: employed_by
     target: defense-intelligence-agency
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
@@ -54,3 +56,8 @@ exhaust, wings, or control surfaces." *([gerb/lockheed](../raw/gerb/lockheed.md)
 ## Claims (jm/matthew-brown)
 
 - Brown says he fully believes Lacatski saw a UFO in a hangar and that he knows someone else who has, but will not say who. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:17:30-2:17:52)*
+
+## Claims (jm/cameron)
+
+- Cameron says Lacatski's account of breaching a craft in 2011 in a congressional facility with Senator Reid is the seed of his living-craft thesis, and that Lacatski declined to say what was inside: [[consciousness-core-secret-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:38:50-1:39:50)*
+- Cameron says Lacatski was asked whether there had been communication and answered "I can't make a statement". *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:01:25-1:01:48)*

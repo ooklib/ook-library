@@ -12,6 +12,8 @@ relations:
   - relation: associate_of
     target: hal-puthoff
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
@@ -77,3 +79,7 @@ Levenda met Vallee at the Austin meeting and says Vallee's "control mechanism" i
 ## Claims (jm/nell-pasulka)
 
 - Nell credits Vallee with the "physics of information" axis (how much a civilization knows about reality's nature) in his alternative to the Kardashev scale ([[nhi-civilization-development-model-nell]]); Pasulka says Vallee, like her, looked at the historical record for evidence of NHI. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 27:57-28:22, 40:35-40:56)*
+
+## Claims (jm/cameron)
+
+- Cameron says Vallee recorded the Kit Green-Walker confrontation in his Forbidden Science diary and supplied Cameron with the 11-page 1959 Lundahl channeling memo; Vallee's control-system remark closes the interview. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:35:19-2:36:53, 53:57-54:12, 2:59:00-2:59:19)*

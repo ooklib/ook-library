@@ -11,6 +11,8 @@ relations:
     target: resorts-international
     note: "briefly owned the company from 1986"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
@@ -72,3 +74,7 @@ American power politics — and as the brief 1986 owner of [[resorts-internation
 ## Claims (jm/nell-pasulka)
 
 - Nell lists Trump among those who have said UFOs are real and were in a position to have been briefed. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 6:24-6:32)*
+
+## Claims (jm/cameron)
+
+- Cameron says Trump spoke of aliens as classified when asked on Fox, then backed off, is now stuck like Clinton's "tar baby", and gives 50-50 odds of a speech (mentioned as 8 July): [[presidential-tar-baby-claims]]. Michels mentions Trump's post tasking Secretary of War Hegseth to look at UFOs. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:14:09-1:14:25, 1:56:26-1:56:54, 2:44:55-2:45:46)*

@@ -10,6 +10,8 @@ relations:
     target: thomas-townsend-brown
     note: "disputed involvement"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
@@ -37,3 +39,7 @@ The alleged 1943 US Navy experiment to make USS Eldridge invisible or teleport i
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says he knew [[bob-beckwith]], who claimed to be involved in 1942, and hears via foreign intelligence of Tesla-Brown submarine work; he says Michels's Malmgren source (via Richard Bissell) is separate. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:16:16-1:18:06)*
+
+## Claims (jm/cameron)
+
+- Michels notes Brown ran the project and had a nervous breakdown, and links Moore's Philadelphia Experiment book to his later CIA approach: [[william-moore]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 39:55-41:04)*

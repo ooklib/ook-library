@@ -7,6 +7,8 @@ relations:
   - relation: alleged_by
     target: jason-samosa
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
@@ -22,3 +24,7 @@ sources:
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer's version: an engineered alien-threat narrative (abductions, mutilations, Hollywood, SDI) to unite the world under a totalitarian superstate, promoted by ET-fear voices; he says Hans-Adam II's Armageddon aim is part of it ([[man-made-ufo-and-false-flag-claims]]). *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 6:32-6:46, 53:04-53:20, 2:03:56-2:04:48)*
+
+## Claims (jm/cameron)
+
+- Cameron describes intelligence agencies feeding both real and false versions of UFO stories to discredit them: [[disclosure-by-disinformation-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:09:29-1:10:29)*

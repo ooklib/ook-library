@@ -14,6 +14,8 @@ relations:
     target: condon-committee
     note: "the 1969 Condon Committee's findings marked the official end of Project Blue Book"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
@@ -89,3 +91,7 @@ became **Project Grudge** in 1949 (running until 1951), superseded by **Project 
 ## Claims (jm/nell-pasulka)
 
 - Nell frames the Air Force's wish to exit the job, the Colorado study and the cancellation as a non-disclosure precedent ([[non-disclosure-reasons-nell]]). *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 21:15-21:46)*
+
+## Claims (jm/cameron)
+
+- Cameron says Blue Book spokesman Colonel Coleman dealt with Emenegger, Robert Friend attended the 1959 Swan session, and Blue Book files on Kecksburg mention project Greengrass: [[holloman-landing-film-claims]], [[frances-swan-channeling-claims]], [[continuity-of-government-ufo-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:00:31-1:00:39, 54:44-55:30, 2:05:37-2:06:15)*

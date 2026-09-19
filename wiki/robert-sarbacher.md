@@ -24,6 +24,8 @@ relations:
     target: wright-field-crash-retrieval-meeting-1950
     note: "invited to discussions, per his 1983 letter; did not personally attend"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
@@ -100,3 +102,8 @@ Dedicated deep-dive video. Sarbacher: physicist, Einstein student, Harvard gradu
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb recaps Sarbacher (Georgia Tech dean, R&D Board consultant) as the nexus of Smith's information; his statements (light, tough materials; insect-like beings; attended-not meetings at Wright-Patterson with von Neumann, Bush, Oppenheimer) and names [[eric-a-walker]] as an attendee. Gerb notes Sarbacher has been "largely wiped from the annals of history". *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 36:48-39:22, 1:34:20-1:34:35)*
+
+## Claims (jm/cameron)
+
+- Cameron says Sarbacher's interview with [[wilbert-b-smith]] was arranged through the Canadian embassy and may have taken place there; Sarbacher described insect-like beings and the high classification. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 32:34-33:21)*
+- Cameron says Sarbacher later told [[william-steinman]] that [[eric-a-walker]] attended a 1950 Wright-Patterson crash briefing; he calls scientists in Bush's wartime board "dollar a year men". *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 36:14-36:33, 1:53:44-1:54:41, 52:21-52:28)*

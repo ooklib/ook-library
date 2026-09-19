@@ -10,6 +10,8 @@ relations:
   - relation: member_of
     target: to-the-stars-academy
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
@@ -36,3 +38,8 @@ Jim Semivan is described in the `jm/cover-up` episode as a To The Stars Academy 
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda says Semivan openly described an abduction experience he and his wife had while high in CIA and asks what security implications followed; see [[austin-to-the-stars-meeting]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 3:59:44, 4:00:25)*
+
+## Claims (jm/cameron)
+
+- Cameron says Semivan (former head of CIA covert operations per Cameron) said the briefing left him disturbed for three months, and that bodies and craft do not mean they know how it works; he says Semivan called it a presidential emergency action document, and that Semivan and Kit Green interviewed DeLonge: [[consciousness-core-secret-claims]], [[presidential-tar-baby-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:37:33-1:38:50, 1:56:54-1:57:11, 2:37:33-2:38:11)*
+- Cameron says a friend hinted his name and that he first named Semivan publicly in 2016. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:11:44-2:11:53)*

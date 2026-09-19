@@ -14,6 +14,8 @@ relations:
     target: william-steinman
     note: "interviewed by Steinman in the 1980s"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
@@ -34,3 +36,7 @@ Maria Wang was the widow of [[eric-henry-wang]], the Wright-Patterson "Special S
 ## Claims (jm/cover-up)
 
 - Cited again by [[jason-samosa]]: she reportedly told William Steinman her husband worked on UFOs and his boss was Henry Kissinger. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:32:17, 1:32:24)*
+
+## Claims (jm/cameron)
+
+- Cameron says [[william-steinman]] phoned Mrs. Wang, and that soon afterwards [[william-moore]] told him to leave her alone. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 37:01-38:03)*

@@ -15,6 +15,8 @@ relations:
     target: robert-jacobs
     note: "sworn testimony to AARO, 10 Feb 2023"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
 ---
@@ -38,3 +40,6 @@ Alleged incident on 14 September 1964 in which film of a dummy ICBM warhead test
 
 - Located at [[vandenberg-air-force-base]]; told by [[robert-jacobs]]; part of the [[ufo-nuclear-connection]]; testimony given to [[aaro]].
 
+## Claims (jm/cameron)
+
+- Michels notes that Emenegger's Vandenberg film is said to show an object wrapping around a dummy warhead; Cameron says the film sits in Alan Sandler's vault: [[vandenberg-film-sandler-vault-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 56:36-57:24, 1:11:13-1:13:50)*

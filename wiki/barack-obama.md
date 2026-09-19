@@ -5,6 +5,8 @@ aliases: []
 tags: [president, disclosure]
 relations: []
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
@@ -22,3 +24,7 @@ Samosa also suspects Obama, like [[bill-clinton]], may have been an outsider den
 ## Claims (jm/nell-pasulka)
 
 - Nell lists Obama among those who have said UFOs are real and were in a position to have been briefed. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 6:24-6:32)*
+
+## Claims (jm/cameron)
+
+- Cameron says Obama confirmed the videos are real but that nobody knows what is going on, and that Obama features in the CIA jump-room story to Mars: [[consciousness-core-secret-claims]], [[portal-and-jump-room-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:37:15-1:37:33, 2:20:39-2:20:54)*

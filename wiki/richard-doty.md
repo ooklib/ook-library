@@ -10,6 +10,8 @@ relations:
   - relation: located_at
     target: kirtland-air-force-base
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
@@ -60,3 +62,7 @@ initiatives, yet remains controversial. *([gerb/hidden_wing](../raw/gerb/hidden_
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda says Doty "messed with everybody in the UFO community"; Michels adds Doty's role with Paul Bennewitz. See [[non-lethal-warfare-ufo-psyop-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:41:16, 2:41:27)*
+
+## Claims (jm/cameron)
+
+- Cameron says Doty (ASR "Richard Dodie") disputed Emenegger's May 1971 Holloman date in favour of 1964 at White Sands, and told the story of an alien crystal showing the crucifixion: [[holloman-landing-film-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:02:20-1:02:45, 1:41:36-1:42:03)*

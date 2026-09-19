@@ -11,6 +11,8 @@ relations:
     target: mountain-base-network-claims
     note: "example site"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
@@ -27,3 +29,7 @@ Skinwalker Ranch in Utah's Uinta Basin is a long-running paranormal and UFO hots
 ## Relationships
 
 - Part of [[mountain-base-network-claims]].
+
+## Claims (jm/cameron)
+
+- Cameron and Michels discuss Brandon Fugal's remark that the phenomenon is reflective; the Special Forces visitors and Hell's Angels stories, and Travis Taylor's zap. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 3:00:24-3:01:24)*

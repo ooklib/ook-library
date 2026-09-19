@@ -11,6 +11,8 @@ relations:
     target: uap-task-force
     note: "described by Pasulka as recruited by the government to help"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
@@ -26,3 +28,7 @@ Garry Nolan (spelled "Gary" in the transcript) is a Stanford microbiologist, des
 ## Relationships
 
 - Associate of [[diana-pasulka]]; see [[angel-contact-events-claims]] and [[nell-pasulka-hereticon-panel-2024]].
+
+## Claims (jm/cameron)
+
+- Cameron mentions Nolan alongside Taylor as someone who receives downloads and writes problem strings to have answers appear. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 3:02:01-3:02:21)*

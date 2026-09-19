@@ -20,6 +20,8 @@ relations:
     target: james-rigney
     note: "notes leaked via Rigney from Edgar Mitchell estate"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
     label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: raw/gerb/saic.md
@@ -121,3 +123,8 @@ the estate of the late astronaut [[edgar-mitchell|Edgar Mitchell]].
 ## Claims (jm/matthew-brown)
 
 - Michels cites Davis' claim of 10-40 craft in hangars across the US, some held by private contractors. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:19:10-2:19:27)*
+
+## Claims (jm/cameron)
+
+- Cameron says he knew of Oak Shannon and the advanced physics working group from notes Davis gave him, and feared Davis would lose his clearance over the leak: [[wilson-davis-memo-leak-account-cameron]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:16:36-1:17:58)*
+- Cameron says Davis told him stories about Arthur Lundahl's obsession with UFOs. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 48:13-48:20)*

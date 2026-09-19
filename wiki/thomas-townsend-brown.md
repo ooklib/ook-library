@@ -43,6 +43,8 @@ relations:
     target: william-stevenson
     note: "close friend and yacht/Bahamas companion, per Samosa"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
     label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
@@ -143,3 +145,7 @@ Jesse Michels' 2024 documentary, based on Paul Schatzkin's biography *The Man Wh
 ## Claims (jm/nell-pasulka)
 
 - Michels tells Pasulka that Tyler ([[tim-taylor-nasa]]) told [[chris-bledsoe]] he was part of a NASA-and-Bahamas group with Brown as president, involving time-travel technology; Michels says Brown may have unified gravity and electromagnetism, died penniless on Catalina Island, made disinformation about his work to throw people off, and that he is convinced Brown's work made it into the B-2 (with a very low payment from Northrop). *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 1:13:19-1:15:53)* He also quotes Brown's fish-and-ships image. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 1:08:23-1:08:38)* See [[tyler-vatican-observatory-visit]].
+
+## Claims (jm/cameron)
+
+- Michels puts Brown's Philadelphia experiment and time-travel interest in the Nassau setting of Tim Taylor's alleged secret time-travel group and William Stevenson; Cameron says Moore's Philadelphia Experiment book may have brought Moore into CIA contact. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 39:55-40:53, 2:14:54-2:16:09)*

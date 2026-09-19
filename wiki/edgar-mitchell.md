@@ -8,6 +8,8 @@ relations:
     target: wilson-davis-notes
     note: "notes leaked from his estate"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
@@ -38,3 +40,8 @@ Late Apollo 14 astronaut Edgar Mitchell, from whose estate the
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says Mitchell was at the 1997 briefing with Adm. Wilson and invited him to brief the Institute of Noetic Sciences board. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 53:32-53:43, 1:00:29-1:00:43)*
+
+## Claims (jm/cameron)
+
+- Cameron says Mitchell's family kept the space material but did not want the UFO files, which an Australian aerospace collector took, leading to the Wilson-Davis notes. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:15:00-1:15:33)*
+- Cameron says Ray Hernandez's consciousness-wheel experience led him to Mitchell and the Foundation for Consciousness (ASR "Free foundation"). *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 28:36-29:24)*

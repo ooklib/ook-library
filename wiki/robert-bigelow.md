@@ -10,6 +10,8 @@ relations:
   - relation: associate_of
     target: john-b-alexander
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
@@ -43,3 +45,7 @@ Robert Bigelow is the Las Vegas hotel-and-aerospace billionaire behind [[bigelow
 ## Claims (jm/censored-book)
 
 - Cited in [[sentinels-of-ether-michels-episode-2026]] for Bob Lazar's holographic "alien Kindle" book (via [[bob-lazar]]) and as a former Skywatcher owner telling of a craft shooting into a mountain without an explosion ([[skinwalker-ranch]]). *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 46:08-46:35, 1:28:07-1:28:46)*
+
+## Claims (jm/cameron)
+
+- Cameron says Tim Taylor asked Bigelow whether crashes occurred in other countries and Bigelow allegedly answered yes, seeded in Russia, China and South America. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:51:14-1:51:33)*

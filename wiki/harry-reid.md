@@ -8,6 +8,8 @@ relations:
     target: aawsap
     note: "sponsored the DIA's OAP/AAWSAP program as Senate Majority Leader"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
 ---
@@ -29,3 +31,7 @@ that included investigating Skinwalker Ranch.
 
 - Sponsored [[aawsap]]; per Grush, stated he "knew" the US government had UFO material but was
   denied access despite his Gang of Eight clearance.
+
+## Claims (jm/cameron)
+
+- Cameron says Lacatski placed the 2011 craft-breach briefing in a Senator Reid facility. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:39:06-1:39:34)*

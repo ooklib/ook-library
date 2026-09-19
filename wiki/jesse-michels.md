@@ -4,6 +4,9 @@ kind: person
 aliases: ["American Alchemy"]
 tags: [host, youtuber, ufo-media]
 relations:
+  - relation: features
+    target: cameron-michels-interview-2026
+    note: "host"
   - relation: investigates
     target: harald-malmgren
     note: "interviewed him in 2025 shortly before his death"
@@ -17,6 +20,8 @@ relations:
     target: jason-samosa
     note: "host of the 2026-07-14 interview"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
     label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
@@ -131,3 +136,7 @@ Interviewed [[peter-levenda]] for a 4h40m episode: [[levenda-michels-interview-2
 ## Claims (jm/nell-pasulka)
 
 - Moderates the [[hereticon]] panel with [[karl-nell]] and [[diana-pasulka]] and a follow-up with Pasulka: [[nell-pasulka-hereticon-panel-2024]]. He frames the "heresy" as linking UFOs with religion (*religare*, to relink) and states his current view that "no one is in charge" of the legacy topic but a loosely distributed emergent thing. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 0:06-1:01, 1:05:35-1:06:13)*
+
+## Claims (jm/cameron)
+
+- Michels interviews [[grant-cameron]] on 2026-09-15: [[cameron-michels-interview-2026]]. He also invites Cameron to the Austin studio. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 3:01:24-3:01:43)*

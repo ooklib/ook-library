@@ -21,6 +21,8 @@ relations:
   - relation: references_testimony_of
     target: watch-committee
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/mitre.md
@@ -189,3 +191,7 @@ Gerb's introductory documentary walks through the 15-page notes line by line. Al
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video uses it in the audit hypothesis (the 1990s audit that nearly exposed the watch committee's portfolio, then reorganization under the senior review group) and cites [[will-miller]]'s 2000 statement about BDM. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 16:51-19:36)*
+
+## Claims (jm/cameron)
+
+- Cameron says he made the notes public after Australian collector material from [[edgar-mitchell]]'s files reached him via James Rigney: [[wilson-davis-memo-leak-account-cameron]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:14:48-1:19:25)*

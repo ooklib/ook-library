@@ -8,6 +8,8 @@ relations:
     target: lockheed-martin
     note: "second director of Skunk Works, 1975-1991"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
@@ -83,3 +85,7 @@ Lockheed possessed physics-defying, possibly nonhuman-derived technology.
 ## Claims (jm/censored-book)
 
 - Quoted repeatedly in [[sentinels-of-ether-michels-episode-2026]]: "We already have the means to travel among the stars ... locked up in black projects", "we have things out in the desert that are 50 years beyond what you could possibly comprehend", some in intelligence want breakthrough technology to stay black, and exotic propulsion "work[s] the same way ESP works. All points in time and space are connected. Mind, body, and craft integrated as one." Michels uses these for [[foglets-and-programmable-matter]] and [[psychic-joystick-brain-interface-claims]]. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 57:16-57:57, 1:02:06-1:02:22, 1:08:44-1:08:59)*
+
+## Claims (jm/cameron)
+
+- Cameron says Rich asked Jan Harzan "what do you know about ESP" and answered "everything in time and space is connected", matching Walker's question: [[eric-walker-esp-control-group-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:47:29-1:47:44)*

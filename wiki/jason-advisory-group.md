@@ -13,6 +13,8 @@ relations:
     target: colonel-steve-wilson
     note: "named it 'the Jason Society,' a secret Eisenhower-era org tasked with the 'alien question'"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
 ---
@@ -37,3 +39,7 @@ JASON's activities have been administered through [[mitre-corporation|MITRE Corp
 - Administered through [[mitre-corporation]] since 1960; has done panel work for
   [[national-reconnaissance-office]]; alleged (as "the Jason Society") by
   [[colonel-steve-wilson]].
+
+## Claims (jm/cameron)
+
+- Cameron says the Jasons came out of IDA and that Pandolfi supplied speakers to them, once caught on paper. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:48:09-1:48:18, 2:29:16-2:30:07)*

@@ -11,6 +11,8 @@ relations:
     target: nevada-national-security-site
     note: "Nevada test and range complex; Schneider places it in the Nellis area"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
@@ -32,3 +34,7 @@ Groom Lake is the Nevada test site commonly called Area 51. In the 1995 lecture 
 ## Additional claims (gerb/tr-3b)
 
 - [[edgar-fuche]]'s 1979 Groom Lake posting (Detachment 3, AFFTC), the [[defense-advanced-research-center]] near Papoose Lake, and the alleged 1992 relocation of exotic aircraft away from Area 51; Jane's writer James Goodall reported a silent triangle among eight black programs there in 1990. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 20:38-27:04)*
+
+## Claims (jm/cameron)
+
+- Cameron says after Lazar's story buses of watchers went to the mountain overlooking the base and the government took land back, increasing the viewing distance from 11 to 25 miles. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:31:18-1:31:48)*

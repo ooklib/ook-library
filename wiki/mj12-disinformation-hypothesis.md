@@ -18,6 +18,8 @@ relations:
   - relation: analogous_to
     target: burned-memo
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
 ---
@@ -46,3 +48,7 @@ This section is the wiki owner's own hypothesis, not something asserted in any i
 ## Relationships
 
 - Part of [[majestic-documents]] discourse; see [[jed-davis]], [[geoffrey-cruickshank]], [[james-jesus-angleton]].
+
+## Claims (jm/cameron)
+
+- Cameron applies a similar mixing-truth-with-falsity logic to Holloman, Lazar and Bill Moore: [[disclosure-by-disinformation-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:09:29-1:10:29)*

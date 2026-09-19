@@ -14,6 +14,8 @@ relations:
     target: eric-a-walker
     note: "interviewed Walker"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
@@ -48,3 +50,9 @@ UFO researcher who corresponded with [[robert-sarbacher]] in November 1983 and i
 ## Claims (jm/pines)
 
 - Michels cites Steinman's book on the 1948 Aztec crash for its "Eric Henry Wing" and "H A K" passage; see [[eric-henry-wang]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:45:22-2:45:58)*
+
+## Claims (jm/cameron)
+
+- Cameron calls Steinman one of the best researchers he ever saw: he found [[eric-a-walker]] and Eric Wang, was fired from aerospace and blacklisted, said helicopters followed him, then abruptly withdrew on religious grounds and told Cameron not to call again. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 36:14-37:35, 43:26-43:52)*
+- When Steinman phoned Wang's widow, [[william-moore]] rang to tell him to leave her alone, which Cameron says exposed Moore's surveillance. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 37:51-38:11)*
+- Cameron says Steinman phoned Walker in 1987 with Sarbacher's claim and Walker admitted being at the briefing: [[eric-walker-esp-control-group-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:53:44-1:55:31)*

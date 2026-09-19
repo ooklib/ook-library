@@ -16,6 +16,8 @@ relations:
     target: itek
     note: "RBI funded Itek founders (see page)"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
@@ -56,3 +58,8 @@ Laurance Rockefeller (spelled "Lawrence" throughout the ASR; normalization is my
 ## Claims (jm/matthew-brown)
 
 - Michels cites the photo with [[hillary-clinton]] holding Paul Davies' "Are We Alone?", his funding of [[john-mack]] and [[whitley-strieber]]'s ranch visit; Brown says even at the top interests differ and cannot say more. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:15:40-2:17:27)*
+
+## Claims (jm/cameron)
+
+- Cameron says [[budd-hopkins]] told him Rockefeller, while serving breakfast at his home, said he would get disclosure from the president, and Cameron says the family may have destroyed files as embarrassing: [[hillary-clinton-disclosure-plan-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:31:57-2:33:14)*
+- Cameron says he FOIA'd the Rockefeller-initiative material after other researchers obtained 200 and 500 pages. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:32:32-2:32:47)*

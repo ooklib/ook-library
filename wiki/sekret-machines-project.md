@@ -8,6 +8,8 @@ relations:
     target: peter-levenda
     note: "book by Tom DeLonge and Peter Levenda"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
@@ -59,3 +61,7 @@ Levenda discusses the cargo-cult prologue and the alleged Prometheus hint: [[car
 ## Claims (jm/censored-book)
 
 - [[jesse-michels]] invokes "the tradition Tom DeLonge established with his book Secret Machines" (Sekret Machines) when suggesting that [[jake-barber]]'s [[sentinels-of-ether]] may encode real truth in fiction and use Pentagon redactions as authentication ([[dopsr-prepublication-review-claims]]). *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:32:46-1:33:16)* See [[sentinels-of-ether-michels-episode-2026]].
+
+## Claims (jm/cameron)
+
+- Cameron says Semivan and Kit Green interrogated Tom DeLonge over borderline classified content in his book (unnamed here) before allowing him into To The Stars: [[hillary-clinton-disclosure-plan-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:37:40-2:38:11)*

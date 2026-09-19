@@ -16,6 +16,8 @@ relations:
     target: majestic-12
     note: "Gerb: Eisenhower allegedly hid the MJ-12 control group within the 5412 Committee"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
@@ -79,3 +81,7 @@ Project 2.0" UFO legacy programs, including a hidden [[majestic-12|MJ-12]] contr
 ## Additional claims (gerb/timeline)
 
 - Timeline video: approved March 1954; original membership (deputy under secretary of state, deputy under secretary of defense, national security adviser, DCI as action officer); Gerb says it held the MAG 12 and mirrored the [[top-policy-group]] (small read-in group, minimal paper trail, presidential control through a trusted intermediary); renamed the 303 Committee by NSAM 303 (June 1964, LBJ) - "little more than a name change" for tracking the Majestic 12 into the Nixon years. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 49:09-50:53, 1:01:30-1:01:59)* Preceded by [[nsc-10-2]] in Gerb's chain.
+
+## Claims (jm/cameron)
+
+- Michels reads Nixon's alleged chairmanship of the 5412 committee as tied to continuity-of-government structure: [[continuity-of-government-ufo-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:03:14-2:03:29)*

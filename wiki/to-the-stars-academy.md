@@ -19,6 +19,8 @@ relations:
     target: advanced-aerospace-threat-identification-program
     note: "Gerb: TTSA was the vehicle through which ATIP's partial-disclosure campaign was executed"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/lockheed.md
@@ -95,3 +97,7 @@ EVP Rob Weiss, and 30+-year Skunk Works veteran Steve Justice. *([gerb/nro](../r
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda says a sample of material reached the group via Art Bell, that military lab relationships halted at COVID, and that Steve Justice wanted to know how saucers fly. See [[austin-to-the-stars-meeting]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 4:20:29, 4:21:47)*
+
+## Claims (jm/cameron)
+
+- Cameron notes the To The Stars roster resembles the Johnson-era panel (weird desk head, Skunk Works, NRO), and describes 11 October 2017 as the launch after Clinton's loss: [[johnson-administration-ufo-study-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 47:29-48:03, 2:41:26-2:41:58)*

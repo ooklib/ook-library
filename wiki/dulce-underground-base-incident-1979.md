@@ -14,6 +14,8 @@ relations:
     target: schneider-las-vegas-lecture-1995
     note: "told in Q&A"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
 ---
@@ -31,3 +33,7 @@ sources:
 
 - Alleged by [[phil-schneider]]; framed by him as an "alien-human war" tied to [[greada-treaty-1954]] breaking down.
 - Related concepts: [[deep-underground-military-bases]], [[non-human-intelligence]].
+
+## Claims (jm/cameron)
+
+- Cameron says one of Lazar's documents placed the Dulce shootout (64 special forces dead) at Area 51 instead, which he reads as a deliberate two-story tactic. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:22:39-1:23:04)*

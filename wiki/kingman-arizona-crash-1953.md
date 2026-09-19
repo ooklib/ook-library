@@ -14,6 +14,8 @@ relations:
     target: edward-dahl
     note: "named by primary witness Arthur Stansel Jr. as the man who summoned him to the crash site"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/lockheed.md
@@ -77,3 +79,7 @@ period, associated with [[sandia-national-laboratories|Sandia]]. *([gerb/mitre](
 ## Additional claims (gerb/corso)
 
 - Gerb cites the Kingman and Kecksburg retrievals as parallels to the truck convoys in Corso's account ([[corso-fort-riley-ebe-sighting-1947]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 18:36-18:52)*
+
+## Claims (jm/cameron)
+
+- Cameron says Walker asked "how do you know they didn't get up and walk away?" and that a Soul Conference attendee allegedly heard a leading figure say Kingman was the crash "they walked away from", leaving the craft intact (second-hand): [[eric-walker-esp-control-group-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:49:37-1:50:39)*

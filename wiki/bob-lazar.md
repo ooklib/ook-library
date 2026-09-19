@@ -11,6 +11,8 @@ relations:
   - relation: associate_of
     target: john-lear
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
@@ -65,3 +67,7 @@ Levenda says Lazar's Bendix Field Engineering badge raises his credence, because
 ## Claims (jm/censored-book)
 
 - Michels relays Robert Bigelow's account that Lazar described a holographic book at S4 (Area 51) whose pages became a hologram, as background for holographic-mountain speculation in [[coyame-mountain-base-narrative]]. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 46:08-46:35)*
+
+## Claims (jm/cameron)
+
+- Cameron argues Lazar worked on real craft but was placed as a discreditable messenger by a superior who wanted it out: [[lazar-counterintelligence-hypothesis-cameron]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:19:33-1:31:48)*

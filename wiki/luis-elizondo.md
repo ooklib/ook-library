@@ -25,6 +25,8 @@ relations:
     target: uap-gerb
     note: "Gerb states he distrusts Elizondo and does not believe his public account of his legacy-program involvement"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/nro.md
@@ -169,3 +171,7 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
 ## Claims (jm/nell-pasulka)
 
 - Nell lists Elizondo as a famous UAP whistleblower who has said UFOs are real. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 7:23-7:32)*
+
+## Claims (jm/cameron)
+
+- Cameron calls Elizondo part of a "B team" brought in after the Podesta leak, and Michels says Elizondo told him he has seen the Vandenberg film: [[vandenberg-film-sandler-vault-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:10:53-1:11:11, 2:40:03-2:40:13)*

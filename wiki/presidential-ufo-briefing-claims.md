@@ -9,6 +9,8 @@ relations:
   - relation: alleged_by
     target: jesse-michels
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
@@ -32,3 +34,7 @@ Claims in the `jm/cover-up` episode that some presidents were briefed on UFO mat
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer's claims: Clinton was blocked; the CIA director, Defense Secretary Cohen, Adm. [[thomas-wilson]] and Gen. Hughes were denied; [[donald-trump]] has virtually no knowledge; and the JFK and Nixon cases. See [[greer-michels-interview-2025]]. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:21:04-1:24:07, 1:35:23-1:35:48, 2:42:37-2:43:05)*
+
+## Claims (jm/cameron)
+
+- Cameron says a friend called in 2016 about briefing Reince Priebus for Trump and that he filed FOIA for Priebus briefing records; he says Semivan says the subject is an executive program: [[presidential-tar-baby-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:11:29-2:13:19, 1:56:54-1:57:11)*

@@ -8,6 +8,8 @@ relations:
     target: tim-taylor-nasa
     note: "Tyler is said to have met him"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
@@ -21,3 +23,8 @@ Chris Bledsoe is a UFO contactee whose family figures in one anecdote in this so
 ## Relationships
 
 - Anecdote told in [[tyler-vatican-observatory-visit]].
+
+## Claims (jm/cameron)
+
+- Cameron says Bledsoe went to his lectures only to sit in the hallway, and told him about flying a craft with hexagon windows: [[experiencers-who-flew-craft-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:16:14-2:16:29, 2:53:55-2:54:58)*
+- Cameron says Bledsoe fed him information about the 2016 Hillary Clinton disclosure plan and said the green light was still on after her loss: [[hillary-clinton-disclosure-plan-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:41:26-2:41:51)*

@@ -12,6 +12,8 @@ relations:
     target: james-t-ryder
     note: "served together on the Starfire Project science review team"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/lockheed.md
@@ -98,3 +100,7 @@ At the [[austin-to-the-stars-meeting]] Puthoff reportedly said "we need a SCIF f
 ## Claims (jm/matthew-brown)
 
 - Michels notes Puthoff headed the Stargate program and leads open-source UFO propulsion science, and Brown agrees psi and the phenomenon are linked. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:25:35-1:26:16)*
+
+## Claims (jm/cameron)
+
+- Cameron says Puthoff contacted him after hearing he had Arthur Lundahl's collection and asked for a copy of the list; Michels notes Puthoff ran Stargate from 1972. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 48:29-48:58)*

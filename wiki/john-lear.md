@@ -16,6 +16,8 @@ relations:
     target: richard-doty
     note: "alleged overlap in disinformation, per host"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
@@ -33,3 +35,7 @@ John Lear, CIA-contract cargo pilot, aviation-record setter and 1980s UFO circui
 ## Relationships
 
 - Associate of [[bob-lazar]] and [[george-knapp]]; son of [[bill-lear]].
+
+## Claims (jm/cameron)
+
+- Cameron says Lear was regarded as a wild card and was the intended messenger; Cameron helped take Lear and others to see test flights on 22 March 1989: [[lazar-counterintelligence-hypothesis-cameron]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:21:44-1:24:56)*

@@ -10,6 +10,8 @@ relations:
   - relation: alleged_by
     target: jesse-michels
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
@@ -25,3 +27,7 @@ NICAP, the first major civilian UFO-investigation group, is alleged in this sour
 ## Relationships
 
 - Founded by [[thomas-townsend-brown]] (alleged); board member [[roscoe-hillenkoetter]].
+
+## Claims (jm/cameron)
+
+- Cameron's material on James McDonald's testimony to Congress and the UN ties to Lundahl's circle: [[james-e-mcdonald]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 45:10-45:27)*

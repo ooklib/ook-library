@@ -8,6 +8,8 @@ relations:
     target: richard-nixon
     note: "golf buddy, per anecdote"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
@@ -23,3 +25,7 @@ Jackie Gleason, the actor, was famously obsessed with UFOs and built his house t
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer confirms the Nixon-Gleason Homestead story as "100% true" and says Gleason knew Eisenhower's era. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 2:15:54-2:16:10, 7:17-7:24)*
+
+## Claims (jm/cameron)
+
+- Cameron says he arranged the interview with Gleason's ex-wife (found by David Rudiak while she was selling silverware), that she said Gleason came home shaken, and that he believes the story: [[presidential-tar-baby-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:58:21-2:00:49)*

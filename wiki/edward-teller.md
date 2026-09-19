@@ -11,6 +11,8 @@ relations:
     target: bob-lazar
     note: "Lazar reportedly met Teller before being hired"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
     label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
@@ -38,3 +40,7 @@ Edward Teller, father of the hydrogen bomb, appears in two roles in this source:
 ## Additional claims (jm/nasa-chief)
 
 - Named by Michels as one of the high-level witnesses of Brown's work. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 4:37-5:53, 45:13-47:11)* See [[buhler-michels-interview-2026]] and [[thomas-townsend-brown]].
+
+## Claims (jm/cameron)
+
+- Cameron says Lazar phoned Teller in November and was on the base on 6 December, which he calls too fast for a Q clearance. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:21:12-1:21:37)*

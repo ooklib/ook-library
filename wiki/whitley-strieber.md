@@ -8,6 +8,8 @@ relations:
     target: jesse-michels
     note: "was a guest on American Alchemy"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
@@ -36,3 +38,7 @@ Levenda says Strieber contacted him years earlier, a chapter of *Communion* cove
 ## Claims (jm/matthew-brown)
 
 - Michels notes Rockefeller brought Strieber to his ranch. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:16:03-2:16:16)*
+
+## Claims (jm/cameron)
+
+- Cameron says Strieber told him about flying a craft with a guiding presence behind him, and calls him one of the 36 people in his skypods book: [[experiencers-who-flew-craft-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:49:52-2:53:47)*

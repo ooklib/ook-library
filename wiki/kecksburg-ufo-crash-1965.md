@@ -8,6 +8,8 @@ relations:
     target: eric-a-walker
     note: "Walker allegedly said he went there with two military men off duty"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
@@ -35,3 +37,7 @@ Alleged 1965 crash of a small bell- or acorn-shaped UFO at Kecksburg, Pennsylvan
 ## Claims (jm/borland)
 
 - Borland mentions the Pittsburgh-area Kecksburg sightings and the anniversary, and, with Michels, hieroglyphs reported in the 1965 Kecksburg case as part of the [[rubiks-cube-program-claims]] discussion. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 10:37-11:15, 1:29:49-1:30:05)*
+
+## Claims (jm/cameron)
+
+- Cameron says Walker admitted being at Kecksburg and that Blue Book files mention Michigan metal debris and sending material to Mount Weather ("Greengrass"); the FEMA head attended Johnson's first meeting afterward: [[continuity-of-government-ufo-claims]], [[mount-weather]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:48:18-1:48:42, 2:05:37-2:07:25)*

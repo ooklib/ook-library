@@ -47,6 +47,8 @@ relations:
     target: cia-international-organizations-division
     note: "front-group and propaganda directorate"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
     label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: raw/gerb/mitre.md
@@ -211,3 +213,7 @@ shared organization page.
 ## Additional claims (gerb/corso)
 
 - Corso video: [[c-d-jackson]] was liaison between the new CIA and the Pentagon. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 42:26-42:49)*
+
+## Claims (jm/cameron)
+
+- Cameron describes a CIA "weird desk" lineage and Chase Brandon's Hollywood liaison role: [[cia-weird-desk-claims]], [[chase-brandon]], [[arthur-lundahl]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 45:15-45:55, 1:32:56-1:34:59)*

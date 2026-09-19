@@ -18,6 +18,8 @@ relations:
     target: david-grush
     note: "confirmed Malmstrom per Gerb"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
     label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
@@ -74,3 +76,7 @@ The thesis, presented by [[uap-gerb]] in "UFOs and Nuclear Weapons - A Fascinati
 ## Claims (jm/nell-pasulka)
 
 - Nell lists correlations between UAP activity and nuclear sites (Pantex, Hanford, even Fukushima), Malmstrom and northern early-warning radar incursions as evidence, and says UFOs did not "start in the 40s" but the nuclear era is when the modern phenomenon came to the fore in his framing. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 8:38-10:42)* See [[nell-three-lines-of-evidence-claims]].
+
+## Claims (jm/cameron)
+
+- Cameron's 1975 Manitoba sightings coincided with the North Dakota ABM deployment and the Larson abduction near missile fields: [[carman-manitoba-flap-1975]]. Cameron also cautions that nuclear sites were a 1950s-1960s emphasis and the phenomenon's modality changes over time. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 12:51-15:47, 29:24-30:24)*

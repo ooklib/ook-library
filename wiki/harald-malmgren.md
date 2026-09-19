@@ -44,6 +44,8 @@ relations:
     target: thomas-townsend-brown
     note: "claims foreign intelligence told him of a Tesla/Brown antigravity collaboration"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
@@ -131,3 +133,7 @@ See [[richard-bissell]]: Malmgren claims Bissell said "this didn't start last we
 
 - In the jm/pines discussion Michels says Pines' colleague retold Malmgren's story: sent by Kennedy at 26-27 into the tank to stall [[curtis-lemay]] from a nuclear strike, then to Los Alamos/Albuquerque in 1963 to cost the anti-ballistic missile system, where [[lawrence-preston-gise]] told him the AEC had been recovering and reverse-engineering UFO objects, and a decade later [[richard-bissell]] privately mentioned "otherworld technologies". *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:42:24-2:44:34)*
 - [[matthew-pines]] says Malmgren was tapped at 12-13 for MIT, went to Rensselaer and Yale, was "the shadow Kissinger", and was used by [[richard-nixon]] as a check on [[henry-kissinger]]; Pines infers that a former-CIA insider saying NHI are real hints at a pro-disclosure CIA branch. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:42:25-3:42:53, 2:46:07-2:47:17)*
+
+## Claims (jm/cameron)
+
+- Cameron says he believes Malmgren, who served at the Institute for Defense Analyses under Walker's board. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:51:42-1:52:40)*

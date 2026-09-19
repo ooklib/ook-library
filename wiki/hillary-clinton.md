@@ -8,6 +8,8 @@ relations:
     target: john-podesta
     note: "campaign chair; UFO-related emails"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
@@ -23,3 +25,7 @@ Hillary Clinton appears in the `jm/cover-up` episode as a 2016 presidential cand
 ## Claims (jm/matthew-brown)
 
 - Cited by Michels in the Rockefeller photo with "Are We Alone?" by Paul Davies. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:15:47-2:16:03)*
+
+## Claims (jm/cameron)
+
+- Cameron says Clinton's 2016 campaign planned disclosure (a seven-year plan with subpoena power), that she prepared to speak on Kimmel in November 2015 and was not asked, and that Rockefeller files route through her mailbox: [[hillary-clinton-disclosure-plan-claims]], [[presidential-tar-baby-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:40:20-2:43:25)*

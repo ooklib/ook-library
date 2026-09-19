@@ -4,6 +4,9 @@ kind: person
 aliases: [Eric Walker, Dr. Walker]
 tags: [penn-state, kecksburg, wright-field-meeting]
 relations:
+  - relation: associate_of
+    target: grant-cameron
+    note: "interviewed by Cameron and a co-author"
   - relation: participated_in
     target: wright-field-crash-retrieval-meeting-1950
     note: "named by Sarbacher; confirmed by Walker"
@@ -21,6 +24,8 @@ relations:
     target: ryan-s-wood
     note: "Wood says Walker took over Bush organization"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
@@ -55,3 +60,9 @@ Eric A. Walker was president of Penn State University 1956-1971, chairman of the
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video stresses his position as former chairman of [[trw]] and links TRW to [[zodiac-crash-retrieval-program]]. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 14:24-15:38)*
+
+## Claims (jm/cameron)
+
+- Cameron says Walker spoke in rhymes and riddles; asked about MJ-12, he asked "what do you know about ESP" and said members were "elites": [[eric-walker-esp-control-group-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:46:45-1:49:26)*
+- Cameron says Walker admitted being at the 1950 Wright-Patterson briefing and at the 1965 Kecksburg crash, had known of MJ-12 for 40 years, and told researchers they were "just curious"; Kit Green was allegedly thrown out of his office. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:48:18-1:48:42, 1:53:44-1:56:22, 2:35:19-2:36:29)*
+- Cameron notes Walker chaired the Institute for Defense Analyses, a top military think tank he says produced DARPA and the Jasons. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:48:00-1:48:18)*

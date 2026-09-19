@@ -12,6 +12,8 @@ relations:
   - relation: alleged_by
     target: under-secretary-of-defense-for-acquisition-and-sustainment
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/nro.md
@@ -73,3 +75,7 @@ controversial whistleblower discussed earlier in the same video.
 
 - Greer says he briefed Adm. Wilson as head of J2 (intelligence, Joint Staff) in April 1997; the briefing ran two or three hours and Wilson had been denied access ("no need to know"), was threatened with losing a star, and was "furious and scared". Greer says the Davis memo leaked from this. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:21:04-1:23:59, 3:22:24-3:22:36)*
 - Greer adds Wilson said the B-2 was no answer to man-made UFOs that could circle it ("checkmate"). *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:51:47-1:52:33)*
+
+## Claims (jm/cameron)
+
+- Cameron describes the Wilson leak document as the biggest break in the case for a legacy program cut off from high-level people. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:19:09-1:19:25)*

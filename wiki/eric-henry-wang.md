@@ -14,6 +14,8 @@ relations:
     target: aztec-new-mexico-crash-1948
     note: "separately named in connection with this case"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
@@ -99,3 +101,7 @@ and an April 1961 *Mechanical Engineering* magazine obituary that finally fleshe
 ## Claims (jm/pines)
 
 - Michels, reading William Steinman's Aztec-crash book, says the special projects head at Wright-Patterson brought by Operation Paperclip (transcribed "Eric Henry Wing") is someone Steinman "can't get anything on", and suggests his boss "H A K" was Henry Kissinger. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:45:22-2:45:58)*
+
+## Claims (jm/cameron)
+
+- Cameron says Wang worked on the program, was moved to Kirtland and died of a heart attack in 1959; Michels says Wang's daughter, extremely religious, remarked it was interesting that all this is coming out now. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 36:38-37:05, 42:46-43:26)*

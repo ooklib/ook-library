@@ -11,6 +11,8 @@ relations:
     target: jesse-michels
     note: "offers the simulation argument"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
@@ -38,3 +40,7 @@ The philosophical and theological end of [[borland-michels-interview-2026]]: Bor
 ## Claims (jm/matthew-brown)
 
 - [[matthew-brown]] says the ICIG "extremely hinted" to him that humans are not in charge and that the cover-up is non-human: he believes Borland, that a third party keeps humans unaware and the US is a junior partner. He says humans live in a controlled information environment (mass surveillance, suppression of science) with a metaphysical dimension, and defines "constructed reality" as multiple concepts, not a formal IC belief. See [[neuro-weapons-and-dream-implantation-claims]]. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:04:59-2:09:19, 3:25:49-3:28:19)*
+
+## Claims (jm/cameron)
+
+- Cameron and Michels discuss simulation, Vadim Zeland's Transurfing mirror analogy and Vallee's control system as the conclusion of the interview: [[consciousness-core-secret-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:56:13-3:00:24)*

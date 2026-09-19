@@ -14,6 +14,8 @@ relations:
     target: world-commerce-corporation
     note: "founder/board, per Samosa"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
@@ -35,3 +37,7 @@ William Stevenson (code name "Intrepid"; the source spells the name Stevenson), 
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]]: as head of British Security Coordination he had offices in Rockefeller Plaza beside the OSS and [[nelson-rockefeller]]; he sits on the [[world-commerce-corporation]] board; he was close to [[thomas-townsend-brown]] and to Charles Steinmetz (GE), and the biography A Man Called Intrepid was written by a different William Stevenson. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:23:18, 1:24:37, 1:29:53, 1:30:38, 1:31:07)*
+
+## Claims (jm/cameron)
+
+- Michels mentions Stevenson as Churchill's spy and a Nassau contact of Brown in connection with Tim Taylor's alleged time-travel group. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:16:00-2:16:09)*

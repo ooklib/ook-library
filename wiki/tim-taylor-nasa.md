@@ -14,6 +14,8 @@ relations:
     target: diana-pasulka
     note: "told her of downloads and the 'adjustment team'"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
@@ -47,3 +49,10 @@ Tim Taylor is described by [[jesse-michels]] and [[diana-pasulka]] as a NASA mis
 ## Claims (jm/nell-pasulka)
 
 - Pasulka's account of "Tyler" here: a Space Force/NASA mission controller, government liaison to Elon Musk on some missions, who said UFO crash debris had been recovered and reverse engineered (2016), and who treated consciousness protocols as essential to his work; details in [[angel-contact-events-claims]] and [[tyler-vatican-observatory-visit]]. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 15:28-16:24, 22:41-22:57)* Michels asks about the Vatican Observatory recognizing him, the Bledsoe anecdote ([[chris-bledsoe]]) and the Townsend Brown Nassau group. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 1:09:43-1:14:30)*
+
+## Claims (jm/cameron)
+
+- Cameron says he met Taylor in 2013 at a cabin in Pennsylvania, having heard of his Anderson dig attendance; Taylor left the same day after meeting Chris Bledsoe, and Cameron says he did not then know Taylor's background. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:16:14-2:17:47)*
+- Taylor told him of an invention that came after a hooded figure appeared at his bed; he said his biotech company (ASR "Vivx") sold for about 88 million and that his daughter told him to stop; he replied "remember where the Lexus comes from". *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:17:47-2:18:32, 2:22:14-2:23:08)*
+- Taylor showed Cameron photographs of what Cameron reads as the jump-room building and a car with a time-travel postcard: [[portal-and-jump-room-claims]], [[andrew-basiago]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:18:48-2:21:52)*
+- Cameron says Taylor spoke of a "gifting" field of crashes seeded around the world and said aliens might be gifting crafts; Bigelow allegedly agreed crashes may have been seeded in Russia, China and South America. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:51:14-1:51:42)*

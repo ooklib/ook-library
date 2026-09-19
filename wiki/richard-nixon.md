@@ -32,6 +32,8 @@ relations:
     target: irving-davidson
     note: "host: known acquaintance"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
@@ -175,3 +177,7 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
 ## Claims (jm/sheehan)
 
 - [[danny-sheehan]] says as Vice President and 5412 Committee chair Nixon ran Operation 40, told Castro not to deal with China or Russia, then in June 1960 (as presumptive nominee, after Nelson Rockefeller withdrew) used [[howard-hughes]] to commission an assassination team against Castro; the [[s-force]] later killed JFK, and Watergate was driven by Nixon's fear that Larry O'Brien would expose this. See [[sheehan-jfk-assassination-claims]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 12:04)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 18:24)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:29:12)*
+
+## Claims (jm/cameron)
+
+- Cameron says Nixon's daily calls from Haldeman's communications office to the Emenegger crew fit Nixon's interest, that Emenegger showed a Nixon thank-you letter to Linda Howe and Larry Bryant, and that Nixon visited Key Biscayne about 200 times and slipped his Secret Service (supporting the Gleason story): [[robert-emenegger]], [[presidential-tar-baby-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:34:59-1:35:11, 1:58:00-2:00:49, 2:01:42-2:03:06)*

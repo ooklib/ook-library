@@ -18,6 +18,8 @@ relations:
   - relation: mission_partner_of
     target: central-intelligence-agency
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
@@ -108,3 +110,7 @@ Centerlane (DIA). *([gerb/saic](../raw/gerb/saic.md) 1:42:34–1:43:21)*
 ## Claims (jm/censored-book)
 
 - Michels cites the CIA remote viewing program (Pat Price's mountain bases, [[joe-mcmoneagle]]) and the "Gateway" documents as showing psionic claims were taken seriously, in support of [[jake-barber]]'s psionic-asset story. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 58:47-59:11, 1:28:46-1:29:41)* See [[mountain-base-network-claims]].
+
+## Claims (jm/cameron)
+
+- Michels notes Puthoff ran the CIA psychic program from 1972 and Cameron connects the psychic thread to the weird desk: [[cia-weird-desk-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 48:51-49:02)*

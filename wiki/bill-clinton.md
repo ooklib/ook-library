@@ -8,6 +8,8 @@ relations:
     target: ufo-control-group
     note: "the committee of 27 was allegedly formed in 1994 specifically to hide from Clinton's disclosure appetite"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
@@ -38,3 +40,7 @@ the legacy programs from President Bill Clinton's "disclosure appetite." *([gerb
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says Clinton tried to fix the problem in his first term, and that his DOJ friend Webster Hubbell wrote that he and Clinton wanted to learn about the JFK killing and UFOs; he says Monica Lewinsky's exposure was set up by Linda Tripp. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 5:08-5:19, 1:35:48-1:36:10, 2:18:00-2:18:28)*
+
+## Claims (jm/cameron)
+
+- Cameron says Clinton told Laurance Rockefeller at the Rockefeller ranch that UFOs were like the "tar baby" and stayed away from the briefing on his birthday: [[presidential-tar-baby-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:42:38-2:43:25)*

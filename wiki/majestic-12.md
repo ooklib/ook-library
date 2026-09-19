@@ -27,6 +27,8 @@ relations:
     target: mj12-disinformation-hypothesis
     note: "rc/mj12 debate"
 sources:
+  - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
+    label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/saic.md
@@ -208,3 +210,7 @@ Levenda tells Stanton Friedman he thinks the MJ-12 documents "look real" and are
 ## Additional claims (gerb/corso)
 
 - Gerb notes the EBE terminology in the MJ-12 special operations manual matches Corso's affidavit ([[ebe-extraterrestrial-biological-entity-claims]]); in the manuscript Corso recognises the Eisenhower briefing document but says he never saw it; the [[ufo-working-group-1987]] resembles an MJ-12-like structure. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 18:52-19:18, 1:07:47-1:08:22)*
+
+## Claims (jm/cameron)
+
+- Cameron says roughly 20 high-level people talk about MJ-12; John Alexander called it continuity of government, and Walker said the members were elites and that he had known of them for 40 years: [[continuity-of-government-ufo-claims]], [[eric-walker-esp-control-group-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:03:37-2:03:54, 1:55:17-1:55:31)*
