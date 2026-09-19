@@ -15,6 +15,8 @@ sources:
     label: "We Uncovered The Most Infamous Secret Society: And The Truth Is Shocking (More Perfect Union)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 The Bechtel Corporation is a large, privately held US construction/engineering conglomerate.
@@ -51,6 +53,10 @@ government contracts.
   *([mpu/secret-society](../raw/mpu/More Perfect Union - 2026-02-24 - We Uncovered The Most Infamous Secret Society_ And The Truth Is Shocking.md) 15:18, 15:28, 15:31, 15:38, 15:44, 15:50, 15:56, 16:00)*.
 
 - War Conspiracy 1 ("Beckel"): host: in the early 1940s a significant shipbuilder headed by [[john-mccone]]; lobbyist [[thomas-corcoran]] won it government contracts through FDR-administration contacts. Famous, per the host, for post-Gulf War contracts: cleaning up the Kuwaiti oil fields (1991) and rebuilding Iraqi utilities (2003-2006). *([ewa/war-conspiracy-1](../raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md) 15:42-16:48)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Gerb: often targeted as responsible for DUMB tunnel systems; its 1974 report on tunneling for defense needs and 1990s maglev work (with Hughes, MIT) are cited. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 1:02:48, 1:03:04, 1:13:26)* See [[dumb-tunnel-and-maglev-network]].
 
 ## Relationships
 

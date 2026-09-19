@@ -33,6 +33,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -55,6 +57,10 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
   vague, citing personal national-security concerns. *([gerb/mitre](../raw/gerb/mitre.md) 13:22–13:32, 1:02:55–1:03:14)*
 - Reports upcoming media appearances on NewsNation and The Hill around this video's release.
   *([gerb/mitre](../raw/gerb/mitre.md) 1:58:37–1:58:53)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Video `gerb/dumbs` (2025-03-17, ~1h38m): DUMB survey built on Sauder and Hamilton; Gerb says DUMBs are his passion project, plans a Sauder part 2, a website of transcripts and links, and states he has spoken to nearly half a dozen veterans who visited STFs. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 3:49, 1:27:07, 1:29:38, 1:30:35)* See [[deep-underground-military-bases]].
 
 ## Relationships
 

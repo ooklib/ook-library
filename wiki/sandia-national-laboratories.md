@@ -62,6 +62,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Sandia National Laboratories, born from [[los-alamos-national-laboratory|Los Alamos]]'s Z
@@ -224,6 +226,10 @@ DoD/IC oversight channels. *([gerb/sandia](../raw/gerb/sandia.md) 5:44–6:03, 8
 - [[donald-kerr|Donald Kerr]] — separately identified by Gerb as a top legacy-program gatekeeper
   ("MJ1") for his Los Alamos/CIA DS&T/NRO/MITRE career — was also president/director of EG&G,
   1989–1992, during the era of alleged Bob Lazar/S4 hiring. *([gerb/sandia](../raw/gerb/sandia.md) 2:05:12–2:05:52)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Gerb notes AT&T/Western Electric ran Sandia 1949-1993 and that Sandia/Kirtland have at least two Manzano underground facilities; Sandia was a partner of the 1972 US National Committee on Tunneling Technology. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 31:33, 34:25, 40:18, 1:04:11)* See [[deep-underground-military-bases]].
 
 ## Relationships
 

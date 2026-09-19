@@ -18,6 +18,8 @@ relations:
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Major General Albert Stubblebine founded the US Army Intelligence and Security Command
@@ -37,6 +39,10 @@ Support Activity (ISA) special forces unit. *([gerb/saic](../raw/gerb/saic.md) 1
   *([gerb/saic](../raw/gerb/saic.md) 1:43:54–1:44:10)*
 - Per Greer, offered Greer $2 billion to absorb Greer's organization CETI into Stubblebine's
   work. *([gerb/saic](../raw/gerb/saic.md) 1:44:10–1:44:19)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Gerb: as head of Army intelligence at Fort Huachuca he is accused of UFO craft storage/exploitation; Hamilton's map marks Fort Huachuca as a DUMB. As BDM vice president (1985) he coincides with the ICBM deep-basing study and Alexander's advanced theoretical physics conference. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 1:07:46, 1:07:55, 1:21:10, 1:21:19)* See [[deep-underground-military-bases]].
 
 ## Relationships
 

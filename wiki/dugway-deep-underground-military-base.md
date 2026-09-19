@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 An alleged deep underground military base (DUMB, or "STF") beneath [[dugway-proving-ground]]. Sources are [[witness-gp]] via [[witness-ms]], [[steven-greer]], and earlier informants; [[uap-gerb]] treats it as probable ("which I highly wager it is") but the claims are unverified. Gerb says he is using only public-domain information and warns viewers not to go looking for it. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 50:07, 53:29, 1:08:12, 1:08:20)*)*
@@ -25,6 +27,10 @@ An alleged deep underground military base (DUMB, or "STF") beneath [[dugway-prov
 - Greer (2001 disclosure briefing, 2016 talk) described an underground Utah complex south of Salt Lake City reachable only by air, and Naval Research Laboratory official Richard Fos(?) seeing anti-gravity discs and triangles emerge from underground near Provo; "Ah", a claimed ex-Boeing employee, in 2000 said the complex tests and maintains extraterrestrial technology. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 24:19, 24:26, 24:43, 25:07, 25:40, 25:48)*)*
 - Gerb's own anonymous source, an Army veteran of the early 2010s, allegedly rode a very fast underground rail between states, entering through a small janitorial/water-treatment-like building with an elevator. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 1:13:15, 1:13:29, 1:13:37, 1:14:00, 1:14:08)*)*
 - Gerb contextualizes: DUMBs are often planned for ICBMs, command bunkers, corporate or continuity-of-government use; cites TRW tunnel studies, a 1981-82 National Research Council workshop on deep underground defense facilities, and the 1986 Los Alamos "Subselene" lunar maglev tunnel study ([[wubriny-and-wusaline]] is a separate concept). *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 50:15, 50:24, 50:32, 50:41, 50:57, 53:04, 53:13)*)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Gerb's later DUMB survey re-cites this as his worked example: entrance as small elevator-shaft building near German Village, echoing Army Corps 1959-61 camouflage guidance and the 1991 DARPA hidden-cavities paper; witness "Ah" (2000) also cited a Dugway facility; Gerb's Texas-fort-to-White-Sands rail witness echoes GP. Listed with the note "aka Area 52, near Salt Lake City" on the DUMB map list. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 19:32, 19:39, 24:33, 24:48, 25:13, 46:41, 46:49, 51:27)* See [[deep-underground-military-bases]], [[dumb-tunnel-and-maglev-network]].
 
 ## Relationships
 

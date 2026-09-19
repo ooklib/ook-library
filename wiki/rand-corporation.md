@@ -18,6 +18,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 RAND Corporation is an FFRDC created to answer Air Force air-defense and systems-engineering
@@ -34,6 +36,10 @@ and no hardware to sell. *([gerb/mitre](../raw/gerb/mitre.md) 32:28–32:48)*
 - Gerb lists RAND alongside DOE/NSA national labs and MIT Lincoln Lab as FFRDCs central to the
   broader legacy-program architecture, though his specific two-program allegation in this video
   is about MITRE, not RAND. *([gerb/mitre](../raw/gerb/mitre.md) 2:00:23–2:00:52)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Gerb's DUMB video: RAND's 1959 deep underground symposium, 1960 study of 12 deep sites, and Robert Salter's 1972 very high-speed transit (VHST) proposal for evacuated deep-tunnel maglev, whose map Gerb overlays on Hamilton's DUMB network. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 16:47, 17:26, 1:16:01, 1:22:10)* See [[dumb-tunnel-and-maglev-network]].
 
 ## Relationships
 

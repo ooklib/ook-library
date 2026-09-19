@@ -20,6 +20,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Tonopah Test Range (TTR), established in 1957 by the Sandia Corporation for the Atomic Energy
@@ -61,6 +63,10 @@ of operating UFO crash-retrieval and material-exploitation programs, at least pr
 - Gerb believes Tonopah and [[area-6|Area 6]] (~75 mi southeast, also within the NNTR) are
   "intimately connected," both allegedly tied to Sandia, Lockheed Martin, and DARPA/"Advanced
   Group Six" exotic-propulsion RDT&E. *([gerb/sandia](../raw/gerb/sandia.md) 2:27:57–2:28:04)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- On Hamilton's map Area 51 connects to Tonopah; Tonopah and Tonopah Test Range (aircraft landing) appear in the wiki owner's DUMB site list. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 1:20:46, 1:32:38)* See [[deep-underground-military-bases]].
 
 ## Relationships
 

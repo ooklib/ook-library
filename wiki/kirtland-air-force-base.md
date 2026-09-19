@@ -22,6 +22,8 @@ sources:
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Kirtland AFB, New Mexico, hosts a deep underground military installation and
@@ -59,6 +61,10 @@ Kirtland AFB, New Mexico, hosts a deep underground military installation and
   the base of operations for counterintelligence special agent [[richard-doty|Richard "Rick"
   Doty]]. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:48:03–1:48:19,
   1:59:16–2:03:17)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Stringfield received an undated airman letter about UFOs stored in the Manzano storage area; Sauder obtained FOIA documents on two Manzano underground facilities (silent on UFOs); Gerb notes Kirtland's AFRL space vehicles and directed energy directorates and lists Kirtland/Sandia as proven-underground stops on Hamilton's map. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 31:15, 31:59, 32:06, 34:25, 1:24:03, 1:24:10)* See [[deep-underground-military-bases]].
 
 ## Relationships
 

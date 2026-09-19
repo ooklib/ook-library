@@ -32,6 +32,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Battelle Memorial Institute is a contractor that administers multiple FFRDCs on behalf of the
@@ -72,6 +74,10 @@ DOE and other agencies, and is described by Gerb as "no stranger to this channel
   described in her board bio as bringing a "wealth of knowledge and technical expertise" from the
   IC, military, and aerospace sectors. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md)
   1:37:36–1:37:49)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Gerb again ties Battelle to DUMB-related work: tunneling committee partner, high-speed ground transportation and maglev superconducting magnet studies. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 1:04:11, 1:04:20, 1:13:47, 1:18:47)*
 
 ## Relationships
 

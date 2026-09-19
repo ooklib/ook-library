@@ -22,6 +22,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 BDM International is a defense contractor with a secure facility in McLean, Virginia, where a
@@ -47,6 +49,10 @@ supervised by [[john-b-alexander|Col. John B. Alexander]]) was held — one year
 - [[mary-sturtevant|Mary K. Sturtevant]] worked at BDM on defense/arms-control research and
   technology transfer before her government career. *([gerb/nro](../raw/gerb/nro.md)
   2:47:45–2:48:15)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Gerb: 1985 contract for an ICBM deep-basing communication study, coinciding with its advanced theoretical physics conference; vice president Stubblebine. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 1:06:41, 1:07:09, 1:07:46)* See [[dumb-tunnel-and-maglev-network]].
 
 ## Relationships
 

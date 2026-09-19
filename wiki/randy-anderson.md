@@ -14,6 +14,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 18 Bravo (Special Forces weapons sergeant) Randy Anderson claimed that in the mid-2010s he was
@@ -33,6 +35,10 @@ considered a possible weapon. *([gerb/mitre](../raw/gerb/mitre.md) 1:13:12–1:1
   [[sandia-national-laboratories|Sandia]]. Gerb suggests this may lend credence to
   [[edgar-fuche|Edgar Fuche]]'s TR-3B claims. *([gerb/sandia](../raw/gerb/sandia.md)
   1:51:11–1:52:17)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Gerb again cites his account of the underground Off-World Technologies Division under NSWC Crane and notes Hamilton's map labeled an NSWC Indian Head/McAlester detachment as UFO storage. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 25:22, 1:25:35, 1:25:43)*
 
 ## Relationships
 

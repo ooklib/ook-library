@@ -1,0 +1,52 @@
+# Deep Underground Military Bases
+aka DUMB or D.U.M.B.
+
+- Mount Shasta
+- Vandenberg Air Force Base / Vandenberg Space Force Base
+- Tejon Pass
+- Antelope Valley
+- Edwards Air Force Base
+- Ant Hill
+	- 35°58'07.4"N 117°55'21.4"W
+	- The Cindercone is also called the Red Hill. It's close to China Lake.
+- China Lake
+- Haystack Butte
+- Tonopah
+- Tonopah Test Range, Aircraft Landing
+- Fort Irwin
+- Palm Springs
+- Groom Lake - Area 51
+- Chocolate Mountains
+- Dugway Proving Ground
+	- near Salt Lake City
+	- aka Area 52
+- Wickipup Mesa
+- Page
+- Fort Huachuca
+- Delta
+- Datil
+- Dulce
+- Creede
+- Kirtland Air Force Base, Albuquerque
+- Sandia National Laboratories, Albuquerque
+- Los Alamos
+- Chihuahua
+- Taos
+- Denver
+- Cheyenne Mountain Space Force Station, Colorado Springs
+- Pueblo
+- Roswell
+- Carlsbad
+- Cannon Air Force Base
+- Fort Stockton
+- Lubbock
+- Kinsley
+- Fort Sill
+- Hutchkinson
+- Perot Field Fort Worth Alliance Airport, Fort Worth
+- Denton
+- National Strategic Research Institute at the University of Nebraska
+- Tulsa
+- Wright-Patterson Airforce Base
+- Pentagon, Washington
+- Crystal City, Washington

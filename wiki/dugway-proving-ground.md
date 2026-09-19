@@ -24,6 +24,8 @@ sources:
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 An Army MRTFB in Utah, previously listed by Gerb among core DoD test ranges harnessed for
@@ -45,6 +47,10 @@ legacy-program RDT&E. *([gerb/mitre](../raw/gerb/mitre.md) 1:16:48–1:17:03)*
   unreplicable by current manufacturing. Gerb notes the alleged deep underground military base at
   Dugway's West Desert Test Center, Granite Peak, is heavily covered by 388th Range Squadron
   radars/stations. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 1:31:48–1:33:08)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- In Gerb's DUMB video, Dugway (MRTFB run by ATEC, like Yuma Proving Ground) is the model case for an Army-MRTFB-hosted DUMB; Greer's DPI witness 10773 alleged a massive research and storage facility of material of unknown origin at Yuma. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 20:40, 20:55, 21:02, 24:33)* See [[deep-underground-military-bases]].
 
 ## Relationships
 

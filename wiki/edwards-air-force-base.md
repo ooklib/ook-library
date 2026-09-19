@@ -18,6 +18,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Home of the 412th Test Wing and an MRTFB (Major Range and Test Facility Base), listed by Gerb
@@ -49,6 +51,10 @@ ranges. *([gerb/mitre](../raw/gerb/mitre.md) 52:21–52:55)*
   Lake, and the broader Antelope Valley, linking to Lockheed's Helendale and Northrop's Tehachapi
   radar cross-section ranges. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md)
   2:04:44–2:05:15)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Bill Hamilton's informants place a DUMB complex under Edwards, with a command center under Haystack Butte (where Edwards test facilities are built), an AFRL rocket propulsion lab with underground silos at Leuhman Ridge, ETs held under Edwards, work under an Edwards North Base hangar, and tunnels/maglev to Tejon, China Lake and the Nevada range. Dr. Michael Wolf claims live ETs are kept under Haystack Butte. Gerb calls Edwards the standout DUMB candidate in the network. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 45:19, 45:28, 45:37, 48:06, 48:53, 49:00, 49:16, 49:43, 49:51)* See [[antelope-valley]], [[hamilton-dumb-network-map]].
 
 ## Relationships
 

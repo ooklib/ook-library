@@ -10,9 +10,14 @@ relations:
 sources:
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 # Vandenberg Air Force Base
 
 California base and Western Test Range launch site for ballistic missile tests, filmed by Jacobs's instrumentation unit; site of the [[jacobs-vandenberg-ufo-incident-1964]]. Named for [[hoyt-vandenberg]]. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 1:42-2:11)*
 
+## From the DUMBs video (gerb/dumbs)
+
+- Named among Hamilton-map DUMB marks Gerb says warrant investigation (Vandenberg AFB); a 1960 RAND study also proposed a deep site at Santa Barbara. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 17:26, 17:34, 1:26:28, 1:26:35)* See [[deep-underground-military-bases]].

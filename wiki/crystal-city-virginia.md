@@ -12,6 +12,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Crystal City, a neighborhood in Arlington, Virginia, is described by Gerb as "the beating heart
@@ -41,6 +43,10 @@ of UFO legacy programs in the east of the United States." *([gerb/mitre](../raw/
   acknowledged permanent locations for [[air-force-office-of-special-investigations|AFOSI's
   Office of Special Projects (PJ)]]. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md)
   1:59:45–2:00:10)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Gerb (DUMB video): top contractors (Northrop Grumman, Lockheed Martin, Boeing, RAND, etc.), FFRDCs (CNA, IDA, Aerospace, RAND) and agencies (DARPA, ONR, AFOSR) cluster here; he calls it a major UFO legacy program (USAP) operations center and infers a massive underground facility nearby ([[deep-underground-command-center]]). *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 57:33, 57:41, 58:05, 58:27, 58:42, 58:58)*
 
 ## Relationships
 

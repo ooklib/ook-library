@@ -15,6 +15,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Director of numerous Nazi special-weapons projects (ASR-transcribed as "Hans Comler," likely
@@ -22,6 +24,10 @@ Hans Kammler). Gerb states he may have been tasked with studying the crashed
 [[magenta-italy-crash-1933|1933 Magenta, Italy UFO]], went missing near the end of WWII, but
 was claimed to be working with Americans afterward. *([gerb/saic](../raw/gerb/saic.md)
 1:10:46–1:11:00)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- In Gerb's DUMB video: Kammler's underground tunnels/bases and Mednick Hill are called early UFO-legacy sites, with Kammler and Xavier Dorsch as potential architects of US DUMB programs. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 12:36, 13:41, 14:06, 14:22, 14:39)* See [[deep-underground-military-bases]].
 
 ## Relationships
 

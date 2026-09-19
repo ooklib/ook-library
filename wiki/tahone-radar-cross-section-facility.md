@@ -16,6 +16,8 @@ relations:
 sources:
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 The Tahone (also transcribed "Toahone"/"Toon Ranch") radar cross-section (RCS) facility, in the
@@ -68,6 +70,10 @@ facility was built below ground during the Cold War to hide from Soviet satellit
 - Gerb personally believes this "derelict yet maintained" facility, soon to become a wind farm
   site, continues to house extensive underground infrastructure actively engaged with Northrop's
   UFO portfolio. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:51:32–2:51:48)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Hamilton called it the Tahachapi facility or "Ant Hill" for rumored tunnels; Sauder confirms an underground facility exists (size unknown; rumored up to 42 levels, tunnels to Edwards). Hamilton informants (contractor "Chuck", "Project Star Talk", "Gober") and Greer's claimed knowledge of the entrance are summarized in [[antelope-valley]] and [[bill-hamilton]]. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 39:03, 39:20, 39:28, 41:34, 44:14)* The wiki owner's map notes give Ant Hill coordinates 35°58'07.4"N 117°55'21.4"W (see [[deep-underground-military-bases]]).
 
 ## Relationships
 

@@ -37,6 +37,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 TRW is a defense contractor whose close relationship with the Air Force prompted the 1960 spinoff
@@ -104,6 +106,10 @@ TRW the entity he finds "the most value in investigating" of Northrop's acquisit
   and Space Company, Rockwell, and Harris — into DS&T's specific areas of need, which Gerb reads
   as likely early evidence of TRW misappropriating IRAD funds for the CIA DS&T.
   *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 2:07:13–2:12:23)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Gerb: TRW's 1967-70 high-speed ground transportation and tube-vehicle studies (tunnels to 3,000 ft) and 1968-on tunnel design work; considered likely contractor behind "Project Zodiac". *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 1:06:50, 1:18:47, 1:19:06)* See [[dumb-tunnel-and-maglev-network]].
 
 ## Relationships
 

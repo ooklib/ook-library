@@ -18,6 +18,8 @@ sources:
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -33,6 +35,10 @@ Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting w
 - Produced a 2001 disclosure briefing document that included testimony from
   [[denise-mckenzie|Denise McKenzie]] and Dr. Paul Czysz, among others.
   *([gerb/saic](../raw/gerb/saic.md) 54:46–54:55, 1:35:44–1:35:51)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Gerb's DUMB video cites Greer's claim to know the Ant Hill entrance and to have overflown Antelope Valley diamond-pad EMP tests, his DPI witness 10773 (Yuma), and Boeing insider "Ah"'s 2000 tape naming Dugway, Anza and Tejon underground sites. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 41:34, 41:43, 46:25, 20:40)* See [[antelope-valley]].
 
 ## Relationships
 

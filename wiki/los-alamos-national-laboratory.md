@@ -26,6 +26,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Los Alamos National Laboratory is a DOE/NSA National Laboratory FFRDC founded during the
@@ -47,6 +49,10 @@ Manhattan Project. *([gerb/mitre](../raw/gerb/mitre.md) 19:32–19:37)*
   multi-mission-laboratory FFRDCs sponsoring [[nevada-national-security-site|Nevada National
   Security Site]] experimental programs. *([gerb/sandia](../raw/gerb/sandia.md) 16:07–17:22,
   27:39–28:49, 1:48:01–1:48:18)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Sauder: DOE denied then leaked an article on an underground lab (late 1940s); a businessman claimed 75% of Los Alamos is underground to 1 mile; LANL invented nuclear subterrene tunnel machines (1972-75 patents) and. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 34:33, 34:50, 35:20, 1:01:22, 1:02:02, 1:02:19)* See [[dumb-tunnel-and-maglev-network]].
 
 ## Relationships
 

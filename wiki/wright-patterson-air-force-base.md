@@ -21,6 +21,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
+    label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
 ---
 
 Wright-Patterson Air Force Base in Dayton, Ohio, was headquarters of Air Materiel Command (AMC)
@@ -54,6 +56,10 @@ and Air Research and Development Command (ARDC) — forerunners of the modern
   personal exposure to as being involved in Air Force and joint-program UFO legacy programs —
   reserved for possible future coverage. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md)
   3:16:50–3:17:16)*
+
+## From the DUMBs video (gerb/dumbs)
+
+- Stringfield's late-70s/80s reports (witness JK: nine bodies in glass under "Wright Pad" 1966; secondhand TS, early 1950s) allege preserved biologics in an underground facility beneath Wright-Patterson; the 1974 Fort Hood letter says the Fort Hood complex tied to it. Wright-Patterson is on the wiki owner's DUMB map list. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 27:48, 30:21, 30:38, 31:09)* See [[deep-underground-military-bases]].
 
 ## Relationships
 
