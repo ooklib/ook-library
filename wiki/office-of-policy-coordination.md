@@ -21,6 +21,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 The Office of Policy Coordination (OPC), per Eyes Wide Open, was the innocuously named covert
@@ -49,3 +51,7 @@ uncontroversial intelligence-gathering side, and headed for its early history by
   first operated abroad via the [[italian-election-1948]] and went on to run
   [[operation-gladio]].
 - Drafted [[operation-paper]].
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Host: OPC and the CIA's Office of Special Operations (OSO) were rivals, then merged in 1951-52 into the Directorate of Plans under [[frank-wisner]]; [[ted-shackley]] joined OSO in 1951. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 38:39-39:27, 41:42-42:22)*

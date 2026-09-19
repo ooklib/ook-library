@@ -30,6 +30,8 @@ sources:
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 Edward Lansdale is described by Eyes Wide Open as a legendary CIA counter-insurgency expert and, per Alfred McCoy, Allen Dulles's main liaison in southern Vietnam, under whom [[lucien-conein]] served as top aide from 1954. The host defers fuller coverage to the First Indochina War episode. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 15:37-16:15)*
@@ -67,3 +69,7 @@ Edward Lansdale is described by Eyes Wide Open as a legendary CIA counter-insurg
 - Selected for [[operation-mongoose]] for his persona and reputation as a comparative "hearts and minds" liberal, though the host says his adherence is in question given atrocities by forces he advised in the Philippines and Diem's repression; like JFK he favored "small wars." *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 55:49-57:16)*
 - Host: "slippery," "deeply embedded in the various antagonistic networks swirling around the Kennedys," and at the center of many assassination theories. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 57:22-57:53)*
 - Nicknamed [[william-harvey]] "the American James Bond" during their Cuba work. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:17:01-1:17:16)*
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Host: he allegedly labeled Harvey "the American James Bond" after the [[berlin-tunnel]]; also advised the Diem regime in Saigon in 1955 alongside [[lucien-conein]]; one of the Kennedy-era covert-action aces driving JM/WAVE. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 0:32-0:41, 1:17:04-1:17:13, 40:36-40:51)*

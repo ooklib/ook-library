@@ -15,6 +15,8 @@ sources:
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 William Casey appears in Eyes Wide Open's "Real Cold War" episode as another named example of
@@ -32,3 +34,7 @@ firm Hall Casey Dickler and Howley before becoming CIA director under President 
 - Partner at Hall Casey Dickler and Howley before becoming director of the
   [[central-intelligence-agency]] under [[ronald-reagan]].
 - Alleged member of [[le-cercle]].
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Host: Casey, an "OSS old boy" and, in the host's words, an "Orwellian freak," restored the CIA to its "pre-Carter, pre-Halloween massacre glory" from 1981 as [[ted-shackley]]'s *The Third Option* appeared ([[the-third-option]], [[halloween-massacre]]). *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 16:02-16:19)*

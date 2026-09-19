@@ -41,6 +41,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 Frank Wisner is introduced by Eyes Wide Open as "the head of covert operations in the future
@@ -98,3 +100,7 @@ Romania.
 ## Additional claims (Operation 40)
 
 - Host: center of the [[georgetown-set]] until his 1958 breakdown, electroshock, and 1965 suicide; Bissell replaced him as DDP. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 15:26-15:46, 13:31-13:45)*
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Host: took over the merged Directorate of Plans in 1951 (OPC plus OSO), replacing Dulles in that role; under the Dulles-Wisner axis the CIA funded [[reinhard-gehlen]]'s commando program ([[galen-commando-program]]) and the Army Special Forces were founded alongside it, per the host's argument. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 38:56-39:19, 41:42-42:37, 1:02:53-1:03:08)*

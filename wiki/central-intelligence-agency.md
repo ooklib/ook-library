@@ -77,6 +77,8 @@ sources:
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -181,3 +183,7 @@ shared organization page.
 - Season 3 framing: the host says the Dulles-era CIA is over; Kennedy's leadership shakeup (McCone as DCI, Marshall Carter as deputy, Helms as DDP) delivered "continuity, not reorientation," and the agency kept its Gulf Coast paramilitary capability and executive-action ([[zr-rifle]]) programs against the president's wishes. See [[john-f-kennedy]], [[richard-helms]], [[john-mccone]]. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 4:57-5:28, 7:57-8:16, 17:12-17:59)*
 - Host: [[richard-bissell]] headed the CIA spy plane and Corona satellite programs; JFK's offer to run a new science-and-technology department is described only as a proposal. Wiki-internal observation: compare [[cia-directorate-of-science-and-technology]]; the transcript does not say the department became DS&T. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 15:47-16:42)*
 - ITT: host says the conglomerate "would often serve as an intelligence front for the CIA" in Latin America. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 10:19-10:32)*
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Host: covert action rose under Dulles in the 1950s as operator types displaced traditional intelligence; [[halloween-massacre]] (1977) removed Bush as DCI and several old boys; see [[ted-shackley]] for a career-spanning view (Nuremberg, Berlin, Miami, Laos, Saigon, Western Hemisphere Division, ADDO), [[galen-commando-program]] and [[berlin-tunnel]]. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 1:17:53-1:19:07, 9:58-10:31)*

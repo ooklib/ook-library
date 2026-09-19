@@ -45,6 +45,9 @@ relations:
     note: "lifelong friendship; hosted at White House as VP (host)"
   - relation: associate_of
     target: bill-clements
+  - relation: associate_of
+    target: ted-shackley
+    note: "as DCI promoted him to associate deputy director for operations in 1976"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
     label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
@@ -56,6 +59,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 
@@ -174,3 +179,7 @@ Trento, Anthony Kimery and Whitney Webb. *([ewa/bush-1](../raw/ewa/Eyes Wide Ope
 ## Cross-links (Chapter 3)
 - Transcript-level: [[thomas-devine]], [[zapata-offshore]], [[zapata-petroleum]], [[wubriny-and-wusaline]], [[cay-sal]], [[bill-clements]], [[howard-hughes]], [[felix-rodriguez]], [[operation-40]], [[jack-crichton]], [[george-de-mohrenschildt]], [[allen-dulles]], [[in-q-tel]] (comparison), [[ted-shackley]] and [[jm-wave-station]] (setup for the next season).
 - Not in this transcript: Dick Cheney, Rumsfeld, Team B, Skull and Bones, UFOs/UAP, crash retrievals, Tesla. The chapter does not cover his CIA directorship in any detail beyond passing references. Wiki-internal observation: no bridge from this chapter to the [[dick-cheney]] page.
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Host: as CIA director (1976) he promoted [[ted-shackley]] to associate deputy director for operations, "two rungs under the directorship"; both were pushed out after Carter took office ([[halloween-massacre]]); host speculates they crossed paths in the Caribbean around 1961-62 and that VP Bush was likely apprised of Shackley's 1980s Contra shell-company network; host also calls *Still the Target* (1989) suited to the incoming Bush administration. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 9:16-10:06, 10:48-11:03, 17:21-17:44)* Not in this transcript: Skull and Bones, Cheney, UFOs.

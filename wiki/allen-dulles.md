@@ -90,6 +90,8 @@ sources:
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -273,3 +275,7 @@ calls him "arguably one of, if not the most important person in modern American 
 - Attended (as DCI) the December 19, 1960 meeting with Eisenhower and [[john-mccone]] about the Israeli plutonium plant. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 11:27-11:45)*
 - Helms allegedly bunked with him in Paris at the end of the war; his friend [[thomas-mckittrick]] led the [[bank-for-international-settlements]] during its alleged laundering of Nazi loot. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 19:05-19:18, 22:55-23:08)*
 - Host: the assassination plots against Castro began "under the Nixon-Dulles leadership." *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:02:07-1:02:14)* Host says the primer marks the end of "the Allen Dulles era of the agency," which covered everything on the channel so far. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 4:57-5:15)*
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Host: as deputy director then director (Feb 1953) with Wisner, he pushed [[reinhard-gehlen]] to prioritize agents for Russia and to form the commando force ([[galen-commando-program]]); the host wonders whether he arranged [[franz-six]]'s early release via McCloy ("we'll never know"). *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 42:22-42:54, 44:51-45:05, 52:15-52:37)*

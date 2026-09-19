@@ -19,6 +19,9 @@ relations:
   - relation: associate_of
     target: corsican-mafia
     note: "allegedly ties from Marseille/Saigon"
+  - relation: associate_of
+    target: ted-shackley
+    note: "station chief at Nuremberg 1952-55; Shackley his subordinate"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
@@ -28,6 +31,8 @@ sources:
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 Lucien Conein, the "Operator," was a French-born, Kansas City-raised OSS Detachment 202 alumnus who, per Eyes Wide Open, became a main CIA point man in Vietnam under Edward Lansdale, is alleged to have connected Corsican mobsters in Saigon with Vang Pao's army in Laos, and ended as chief of covert operations for the DEA. (ASR spells him 'Kunai'/'Kane'.) *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 14:48-15:11)*
@@ -56,3 +61,7 @@ Lucien Conein, the "Operator," was a French-born, Kansas City-raised OSS Detachm
 - Member of the [[deer-mission]].
 - LAOS 2: mirror of [[antoine-savani]]; briefed by [[roger-trinquier]].
 - LAOS 3: [[air-laos-commerce]], [[strategic-hamlet-program]], [[ngo-dinh-nhu]].
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- CIA Nuremberg station chief when [[ted-shackley]] arrived in 1952; host calls it a puzzling posting for a paramilitary expert (Jedburgh teams in France, Detachment 202 under Helliwell in Burma/Indochina; Saigon with Lansdale in 1955) and speculates a role in the [[galen-commando-program]]. In 1956, after his first Vietnam tour, he was called to Fort Bragg to help set up low-altitude paratrooper training at the Psywar Center. Corn interviewed him: he remembered Shackley working late, but downplayed their working relationship. ASR: "Lu/Lucen Kane". *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 40:20-41:33, 57:17-58:44, 1:05:57-1:07:26)*

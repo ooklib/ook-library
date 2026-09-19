@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 John Loftus, a former Justice Department investigator and self-described Nazi hunter, is cited by
@@ -36,3 +38,7 @@ explicitly flags Loftus's allegations as unverifiable.
 
 - Alleges a hidden [[allen-dulles]]-[[richard-nixon]] arrangement predating their documented 1947
   meeting.
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Cited by the host (*The Belarus Secret*) on the Gehlen commando program, including a brutal Russian commando contingent recruited via [[franz-six]] and training at Oberammergau/Bad Tolz ([[galen-commando-program]]). *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 44:26-44:43, 52:46-53:12, 1:00:53-1:01:26)*

@@ -14,6 +14,8 @@ sources:
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 OSS Detachment 202 was, per Eyes Wide Open, the group of OSS agents deployed to China and Southeast Asia in 1944-1945 ostensibly to support Allied forces and subvert Japanese occupation. The host argues it was an "incubator" for a future class of American clandestine experts and Cold War guerrilla-warfare, counter-insurgency and drug-financing practitioners. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 0:00-2:25)*
@@ -34,3 +36,7 @@ OSS Detachment 202 was, per Eyes Wide Open, the group of OSS agents deployed to 
 - Alumni: [[e-howard-hunt]], [[john-singlaub]], [[lucien-conein]], [[mitchell-werbell]], [[richard-helms]].
 - See [[deer-mission]].
 - War Conspiracy 1: China-hands legacy; [[china-lobby]].
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Alumni named: [[lucien-conein]] (under Paul Helliwell) and [[john-singlaub]] served in it; both later worked with [[ted-shackley]] (Nuremberg; Laos meetings). *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 40:36-40:51, 1:11:15-1:11:37)*

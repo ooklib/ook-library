@@ -66,6 +66,8 @@ sources:
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 William "Wild Bill" Donovan was a WWI-hero-turned-Wall-Street-lawyer who became the first (and
@@ -171,3 +173,7 @@ administrator.
 - LAOS 3: see [[vietnam-lobby]], [[yamashita-gold]].
 - LAOS 4: LAOS 4: [[desmond-fitzgerald]].
 - War Conspiracy 1: Southeast Asia fixation; [[oss-detachment-202]].
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Host: the 1953 private law admitting [[lauri-torni]] was obtained by lawyers at Donovan and Associates, "the law firm of none other than Wild Bill Donovan." *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 1:08:56-1:09:22)*

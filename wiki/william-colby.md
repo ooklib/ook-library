@@ -16,6 +16,9 @@ relations:
   - relation: member_of
     target: le-cercle
     note: "alleged member, per The Independent"
+  - relation: associate_of
+    target: ted-shackley
+    note: "host: mid-career mentor to Shackley; conceived Phoenix"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
@@ -25,6 +28,8 @@ sources:
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 William Colby, future CIA director under the Nixon administration, later wrote that had the
@@ -51,3 +56,7 @@ vote.
 - Trained by [[george-white]].
 - Alleged member of [[le-cercle]].
 - LAOS 3: [[strategic-hamlet-program]], [[ngo-dinh-nhu]].
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Host: first conceived the joint CIA-Pentagon Phoenix program that [[ted-shackley]] rolled out as Saigon station chief 1968-c.1972; acted as a "mid-career mentor" to him; became CIA director in 1973. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 7:25-7:40)*

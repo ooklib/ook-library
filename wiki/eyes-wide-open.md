@@ -55,6 +55,8 @@ sources:
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -192,3 +194,7 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 
 
 - `ewa/jfk-cia` (aired September 5, 2025, first made available to Patreon producer-tier patrons January 22, 2025) opens Season 3, "The Road to Dallas": a "primer" on the Kennedys' fight with the CIA after the Bay of Pigs, to be followed by a Ted Shackley biography and, per the closing remarks, Gladio stay-behind detours and a three-part series on modern Japan and [[charles-willoughby]]. Host credits podcaster Recluse (*The Farm*) and cites Talbot, Hinckle and Turner, Corn, Prados, Trento, Valentine and Millegan. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 0:01-5:28, 1:20:37-1:22:35)*
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- `ewa/shackley` (dated 2025-10-03; first available to Patreon producer-tier patrons February 15, 2025 per the host) is a Season 3 profile of [[ted-shackley]]. It includes a source review of Shackley's books and David Corn's *The Blond Ghost* ([[the-third-option]]), a long speculative detour on the Gehlen commando program and Green Beret origins ([[galen-commando-program]], [[us-army-special-forces]], [[franz-six]], [[lauri-torni]]), and the [[berlin-tunnel]]. Host marks his own speculation with an on-screen green eye icon. Next: the JM/WAVE episode. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 22:52-23:12, 1:20:16-1:21:41)*

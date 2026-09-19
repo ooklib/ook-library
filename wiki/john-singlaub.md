@@ -18,11 +18,16 @@ relations:
   - relation: associate_of
     target: vang-pao
     note: "US Army official running secret war in Laos"
+  - relation: associate_of
+    target: ted-shackley
+    note: "MACV-SOG commander at weekly Laos meetings; both later on the funding side of Iran-Contra"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
     label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 Major General John K. Singlaub, the "General," is portrayed by Eyes Wide Open as a leading figure of American counter-insurgency and guerrilla warfare: an OSS Detachment 202 alumnus who served in Korea, China, Laos and Vietnam, ran the US Army side of the secret war in Laos, and later became a central figure in Iran-Contra dark-money networks. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 12:34-13:10)*
@@ -39,3 +44,7 @@ Major General John K. Singlaub, the "General," is portrayed by Eyes Wide Open as
 
 - Alumnus of [[oss-detachment-202]]; founded [[western-goals-foundation]]; funded by [[nelson-bunker-hunt]]; linked to [[mitchell-werbell]] and [[vang-pao]].
 - Member of the [[deer-mission]].
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Per Corn (via host): as Colonel commanding MACV-SOG he attended [[ted-shackley]]'s weekly meetings with General Westmoreland during 1966-68 (Laos), having served with [[lucien-conein]] under Paul Helliwell's OSS Detachment 202; both reappear on the funding side of Iran-Contra. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 1:10:48-1:11:45)* ASR: "Singlob".

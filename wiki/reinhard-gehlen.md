@@ -16,6 +16,9 @@ relations:
   - relation: associate_of
     target: jean-violet
     note: "allegedly paid him 6,000 DM a year; alleged Le Cercle funding via Violet"
+  - relation: associate_of
+    target: franz-six
+    note: "recruited him as chief recruiter for the commando program"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
@@ -23,6 +26,8 @@ sources:
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 Reinhard Gehlen was the head of German military intelligence on the Eastern Front during WWII
@@ -68,3 +73,7 @@ Gladio]].
 
 
 - Host: the Operation Rusty memos (in the video bibliography) show [[richard-helms]] was privy to the absorption of Gehlen's wartime network; it became the BND with Gehlen as first director. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 23:20-24:03)*
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Host (via Cookridge, Loftus, Simpson): from 1951 the CIA under Dulles and Wisner directed Gehlen to form a commando "special forces" of East European collaborators (see [[galen-commando-program]]), recruited by a triumvirate including [[franz-six]]; Gehlen's Pullach base near Munich; the host argues the US Army Special Forces trace back to it ([[us-army-special-forces]]). *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 43:01-47:23, 1:03:08-1:03:25)* ASR renders him "Galen" throughout.

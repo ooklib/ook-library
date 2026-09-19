@@ -11,7 +11,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
 `gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`,
 `rjm/city-of-london`, `mpu/secret-society`, `ewa/oss`, `ewa/sunrise`, `ewa/mafia-allies`,
-`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`, `ewa/laos-4`, `ewa/war-conspiracy-1`, `ewa/war-conspiracy-2`, `ewa/operation-40`, `ewa/cia-mafia`, `ewa/bush-1`, `ewa/bush-2`, `ewa/bush-3`, `ewa/jfk-cia`).
+`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`, `ewa/laos-4`, `ewa/war-conspiracy-1`, `ewa/war-conspiracy-2`, `ewa/operation-40`, `ewa/cia-mafia`, `ewa/bush-1`, `ewa/bush-2`, `ewa/bush-3`, `ewa/jfk-cia`, `ewa/shackley`).
 
 Note: the wiki spans four topic areas — the original alleged "UFO legacy programs" ecosystem
 (MITRE, SAIC, NRO, Lockheed, etc.), a British power-structures thread (Fabian Society, Chatham
@@ -149,6 +149,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[corsican-mafia]] · [[drug-enforcement-administration]] · [[binh-xuyen]] · [[mixed-airborne-commando-group]] · [[air-laos-commerce]] ·
 [[michigan-state-university-vietnam-advisory-group]] · [[vietnam-lobby]] ·
 [[pathet-lao]] · [[paru]] · [[china-lobby]] · [[flying-tigers]] · [[skull-and-bones]] · [[pan-american-airways]] · [[rockefeller-family]] · [[rockefeller-brothers-inc]] · [[itek]] · [[asia-society]] · [[civil-air-patrol]] · [[jm-wave-station]] · [[georgetown-set]] · [[brigade-2506]]
+[[counter-intelligence-corps]] — US Army CIC, Shackley's first employer; Oberammergau school · [[us-army-special-forces]] — Green Berets; host's Gehlen-commando origin thesis — added by `ewa/shackley`.
 
 ## Places
 
@@ -229,6 +230,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[italian-election-1948]] · [[portella-della-ginestra-massacre-1947]] · [[blue-suite]] ·
 [[kefauver-committee]] · [[plan-bleu-1947]] · [[rose-des-vents]] · [[operation-zipper]] · [[operation-pbsuccess]] · [[bay-of-pigs-invasion]] · [[operation-40]] ·
 [[kennedy-assassination]] · [[watergate-scandal]] · [[secret-war-in-laos]] · [[laos-coups-1958-1960]] · [[operation-brotherhood]] · [[operation-white-star]] · [[operation-momentum]] · [[operation-milpond]] · [[deer-mission]] · [[first-indochina-war]] · [[battle-of-dien-bien-phu]] · [[geneva-conference-1954]] · [[saigon-military-mission]] · [[battle-of-saigon-1955]] · [[strategic-hamlet-program]] · [[nsc-68]] · [[korean-war]] · [[special-studies-project]] · [[operation-mongoose]] · [[zr-rifle]]
+[[galen-commando-program]] — Gehlen Org/CIA "special forces" paratrooper program · [[berlin-tunnel]] · [[halloween-massacre]] — 1977 CIA purge — added by `ewa/shackley`.
 
 ## People — British power structures
 
@@ -279,6 +281,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[ngo-dinh-diem]] · [[john-mccone]] · [[li-mi]] · [[willis-bird]] · [[alfred-cox]] ·
 [[phao-sriyanon]] · [[plaek-phibunsongkhram]] · [[sarit-thanarat]] · [[khun-sa]] · [[alfred-mccoy]] ·
 [[ho-chi-minh]] · [[dwight-d-eisenhower]] · [[roger-trinquier]] · [[antoine-savani]] · [[touby-lyfoung]] · [[wesley-fishell]] · [[ngo-dinh-nhu]] · [[thomas-corcoran]] · [[whiting-willauer]] · [[william-pawley]] · [[t-v-soong]] · [[paul-nitze]] · [[howard-hughes]] · [[lyndon-b-johnson]] · [[nelson-rockefeller]] · [[laurance-rockefeller]] · [[henry-kissinger]] · [[richard-bissell]] · [[frank-sturgis]] · [[jack-ruby]] · [[david-ferrie]] · [[barry-seal]] · [[lee-harvey-oswald]] · [[carlos-marcello]] · [[charles-rebozo]] · [[fidel-castro]] · [[felix-rodriguez]] · [[david-sanchez-morales]] · [[ted-shackley]] · [[joseph-caldwell-king]] · [[jacob-esterline]] · [[manuel-artime]] · [[orlando-bosch]] · [[william-harvey]] · [[mcgeorge-bundy]]
+[[franz-six]] · [[lauri-torni]] — added by `ewa/shackley`; [[ted-shackley]] greatly expanded (early life, CIC, Nuremberg, Berlin, career arc).
 
 ## Concepts
 
@@ -295,3 +298,4 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[covert-action-program]] · [[yankee-blue]] · [[permeation]] · [[deep-state]] ·
 [[non-aligned-movement]] · [[relation-types]] · [[yankee-cowboy-thesis]] ·
 [[strategy-of-tension]] · [[pan-europa-movement]] · [[cia-drug-paradigm]] · [[narco-counterinsurgency]] · [[hmong-people]] · [[yamashita-gold]] · [[war-conspiracy]] · [[military-industrial-complex]] · [[new-look-policy]]
+[[the-third-option]] — Shackley's covert-action doctrine and books; source-reliability notes — added by `ewa/shackley`.

@@ -12,6 +12,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 Operation Mongoose was the Kennedy White House's post-Bay of Pigs anti-Castro program, described by [[eyes-wide-open]] as "a primarily non-lethal regime change operation" meant to spur a popular uprising inside Cuba, devised by the Kennedy brothers with [[edward-lansdale]] as their "self-appointed covert action guru." It is the White House track of what the host calls Kennedy's "two-track" Cuba policy, the other track being the CIA's own, largely unauthorized operations out of [[jm-wave-station]]. This page holds the `ewa/jfk-cia` primer's account only. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:03-1:47, 2:25-2:48)*
@@ -29,3 +31,7 @@ Operation Mongoose was the Kennedy White House's post-Bay of Pigs anti-Castro pr
 
 - Run by [[edward-lansdale]] for [[john-f-kennedy]] and [[robert-f-kennedy]]; opposed in spirit by CIA hardliners ([[william-harvey]], [[richard-helms]]); see [[bay-of-pigs-invasion]], [[jm-wave-station]], [[fidel-castro]].
 - Wiki-internal observation: earlier episodes (`ewa/operation-40`) already described the post-Bay-of-Pigs guerrilla reorganization as "Bobby Kennedy's show" under Mongoose.
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Host framing: Mongoose (White House-directed sabotage/regime change, restarted early 1962) is the backdrop for [[ted-shackley]]'s JM/WAVE tenure; he ran the station 1962-64, "king of his own thief" (ASR, probably fiefdom). *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 0:01-0:32, 1:19:44-1:19:59)*

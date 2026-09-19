@@ -50,6 +50,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 James Jesus Angleton was the OSS station chief in Rome during WWII and, per Eyes Wide Open, would
@@ -132,3 +134,7 @@ viewed [[allen-dulles]] as a mentor and personally helped extract fascist collab
 
 
 - Host: with Dulles and Helms, an enduring symbol of the CIA's WASP old-boy origins. Harvey, not Angleton, correctly identified Kim Philby in 1951; Angleton overlooked his wartime London friend. Host mentions the "recent revisionist theory" that Angleton was a double or triple (Soviet and Israeli) agent, citing his poor mole-hunting record, paranoia and "nearly two decades" heading the CIA's Israeli desk, and defers it. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 17:59-18:06, 1:15:03-1:16:37)*
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Per researcher Joseph Trento (via host), [[ted-shackley]] became the CIA's lead on the Israeli file beside Angleton in the early 1970s. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 8:05-8:36)*

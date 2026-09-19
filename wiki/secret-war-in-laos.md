@@ -23,6 +23,8 @@ sources:
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 The "secret war" in [[laos]] is the nearly two-decade conflict that [[eyes-wide-open]] begins to chronicle in the Season 2 series LAOS 1-4. This page holds the overview claims from the introduction (LAOS 1); later episodes will add detail. The host dedicates the project to the people of Laos and to Vietnamese, Lao, Thai, Cambodian, Burmese and American victims of the Southeast Asian wars. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 0:00-0:44)*
@@ -55,3 +57,7 @@ The "secret war" in [[laos]] is the nearly two-decade conflict that [[eyes-wide-
 ## Additional claims (Operation 40)
 
 - Host: the Cuba show's paramilitary component became "the core team of paramilitary experts in charge of the secret war in Laos half a decade later"; [[david-sanchez-morales]] trained Hmong guerrillas under USAID cover there under [[ted-shackley]]. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 5:52-6:05, 46:57-47:15)*
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Host: [[ted-shackley]] was CIA Laos station chief 1966-68 during the escalation years (dedicated his 1981 book to the Hmong fighters he employed); many top Laos operators cut their teeth in Miami and Louisiana; only official US military forces in Laos were special-forces contingents ([[us-army-special-forces]]); his briefing of Senator Symington reportedly secured continued funding. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 6:33-7:11, 13:48-13:55, 1:07:52-1:08:02, 1:15:03-1:15:19)*

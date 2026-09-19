@@ -27,6 +27,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 JM/WAVE is the CIA Miami station opened in the early 1960s, per [[eyes-wide-open]] "their largest spy station on domestic soil and at the time in the entire world." *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 51:51-52:15)*
@@ -56,3 +58,7 @@ JM/WAVE is the CIA Miami station opened in the early 1960s, per [[eyes-wide-open
 - Host: at the time "the largest US spy base in the world," the center of the Season 3 narrative; forced to reorganize after the Bay of Pigs, though the "corruption was already deep-seated" so it meant "much of the same." The CIA ran its own "unauthorized and consistently contradictory" anti-Castro activities from JM Wave alongside [[operation-mongoose]], "largely organized at first under Operation ZR Rifle," and from 1961-63 the Gulf Coast was "an absolute hotbed of paramilitary activity." *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 2:25-4:31)*
 - Rooted in CIA paramilitary capacity built since PBSuccess (1954) and the Bay of Pigs. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:53-2:25)*
 - [[william-harvey]] used it as his "small thief" (ASR; probably "fiefdom") to direct South Florida operators training assassination teams and paramilitaries; [[ted-shackley]] became chief in early 1962. [[richard-helms]] would rely on Harvey and JMWAVE. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 29:54-30:01, 1:17:40-1:18:35)*
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Host: Harvey brought Shackley in early 1962 as station chief; per Hinckle and Turner it ran on a budget "well over $500 million a year" with 600-700 American personnel in 1962-64, plus thousands of Cuban exile assets; busiest US spy station worldwide in the early 60s; Shackley was to manage the growing pool of human assets. Shackley headed it 1962 to 64, the subject of the next episode (`ewa/jmwave`). *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 0:01-1:16, 1:21:19-1:21:28)* See [[ted-shackley]].

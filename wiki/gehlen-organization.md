@@ -13,11 +13,16 @@ relations:
   - relation: participated_in
     target: operation-gladio
     note: "its 'werewolf' fighters were renamed Gladiators under the future CIA operation"
+  - relation: participated_in
+    target: galen-commando-program
+    note: "its 1951-53 CIA-funded commando/special-forces project"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
+    label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
 ---
 
 The Gehlen Organization was a US-backed paramilitary/intelligence network in West Germany, built
@@ -44,3 +49,7 @@ after [[allen-dulles]] recruited him as a postwar anti-communist stay-behind ass
 
 
 - Host: Helms saw memos (Operation Rusty) on absorbing Gehlen's Eastern Front network, opposing integration "largely on the grounds of security"; the network entered West German intelligence and became the BND with [[reinhard-gehlen]] as first director. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 23:20-24:03)*
+
+## Additional claims (The CIA's Blond Ghost, ewa/shackley)
+
+- Host: after the 1951 Dulles-Wisner takeover the Org turned from stay-behind work to an offensive paratrooper commando force; details, personnel and the Green Beret argument in [[galen-commando-program]]; trained at Oberammergau and Bad Tolz, with drops from US airstrips. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 45:05-46:31, 1:00:36-1:01:26)*
