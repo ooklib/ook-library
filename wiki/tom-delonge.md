@@ -30,6 +30,8 @@ sources:
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Musician who founded [[to-the-stars-academy|To the Stars Academy]], publicly launched on Joe
@@ -93,3 +95,7 @@ Levenda says DeLonge contacted him in November 2014, pitched "knocking on doors"
 ## Additional claims (gerb/tr-3b)
 
 - Gerb cites the DeLonge / Hartley novel "Secret Machines" (see [[sekret-machines-project]]) for an "Astra 3B" triangle ("the Locust") and its red-sphere control, paralleling [[edgar-fuche]]'s TR-3B. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 42:10-44:38)*
+
+## Claims (jm/matthew-brown)
+
+- Michels cites DeLonge's Sekret Machines for the World Commerce Corporation. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:30:06-2:30:22)*

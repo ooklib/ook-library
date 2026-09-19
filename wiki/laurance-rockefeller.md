@@ -24,6 +24,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Laurance Rockefeller (spelled "Lawrence" throughout the ASR; normalization is my inference, alias kept) is presented by [[eyes-wide-open]] as the Rockefeller brother who managed the family's inherited wealth through [[rockefeller-brothers-inc]] and led the Rockefeller Brothers Fund. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 21:55-22:11, 25:45-26:01)*
@@ -50,3 +52,7 @@ Laurance Rockefeller (spelled "Lawrence" throughout the ASR; normalization is my
 ## Claims (jm/sheehan)
 
 - Sheehan says Rockefeller told him and Mack that his friend, the Prince of Liechtenstein, walked up to a landed UFO in the mountains, which convinced him; Michels says Rockefeller funded Mack and Greer. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:32:35)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:33:53)*
+
+## Claims (jm/matthew-brown)
+
+- Michels cites the photo with [[hillary-clinton]] holding Paul Davies' "Are We Alone?", his funding of [[john-mack]] and [[whitley-strieber]]'s ranch visit; Brown says even at the top interests differ and cannot say more. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:15:40-2:17:27)*

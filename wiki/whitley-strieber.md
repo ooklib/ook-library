@@ -12,6 +12,8 @@ sources:
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Whitley Strieber is the author of *Communion* and the archetypal 1980s abductee/contactee. In the `jm/jorjani-religion` episode he is discussed by [[jesse-michels]] and [[jason-jorjani]], including a light-hearted on-camera touch of the alleged implant in his ear.
@@ -30,3 +32,7 @@ Whitley Strieber is the author of *Communion* and the archetypal 1980s abductee/
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda says Strieber contacted him years earlier, a chapter of *Communion* covers their emails, and Strieber told him a loud buzzing and knocking at 2 a.m. was "just the visitors saying hello". *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 1:18:00, 2:55:15)*
+
+## Claims (jm/matthew-brown)
+
+- Michels notes Rockefeller brought Strieber to his ranch. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:16:03-2:16:16)*

@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Dylan Borland's account of a 100-150 ft black triangular craft near the NASA hangar at Langley Air Force Base, Virginia, in summer 2012, told under oath to Congress in September 2025 and expanded here. This page records his details from the American Alchemy interview ([[borland-michels-interview-2026]]); the earlier [[uap-gerb]] treatment is on [[dylan-borland]]. Unverified single-witness testimony.
@@ -43,3 +45,7 @@ He went back to work, and coworkers and a tech sergeant (a former loadmaster) re
 ## Relationships
 
 - Witness: [[dylan-borland]]. Place: [[langley-air-force-base]]. Wider pattern: [[flying-triangle-sightings]].
+
+## Claims (jm/matthew-brown)
+
+- Brown compares it with the IMCON triangle as an example of an official relationship to such craft. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 28:57-29:59)*

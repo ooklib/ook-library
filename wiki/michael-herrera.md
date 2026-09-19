@@ -14,6 +14,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Michael Herrera's official AARO Memorandum for Record allegedly shows he did not claim to
@@ -32,3 +34,7 @@ was represented in [[aaro|AARO]]'s Historical Report Volume 1 under
 ## Claims (jm/borland)
 
 - Borland lists Herrera among whistleblowers threatened, alongside Sullivan and Grusch, and in the whistleblower group [[vanguard-enterprise]] wants to help. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:07:14-1:07:30, 3:09:38-3:10:03)*
+
+## Claims (jm/matthew-brown)
+
+- Michels retells Herrera's Indonesian disaster-zone account (a 300-foot craft, human cargo, American voices); Brown cannot support it. See [[psionic-assets-and-breeding-claims]]. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:44:54-2:46:14)*

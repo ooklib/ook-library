@@ -53,6 +53,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Northrop Grumman has primary offices in [[crystal-city-virginia|Crystal City]] and is listed
@@ -177,3 +179,7 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
 ## Additional claims (jm/nasa-chief)
 
 - Michels says engineers at Lockheed and Northrop hint Biefeld-Brown work is on the right path. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:29:11-1:29:48)* See [[electrogravitics]].
+
+## Claims (jm/matthew-brown)
+
+- [[matthew-brown]] says Northrop has for some time been given authority to implement program security through corporate security forces and to carry out deniable actions punishing leakers, a "current bad actor"; a sister of a WSJ co-author was allegedly a Northrop VP ([[wall-street-journal-malmstrom-emp-claims]]); and an ex-Northrop president becoming Under Secretary of Defense for Policy is his revolving-door example. See [[legacy-program-privatization-and-family-lines-claims]]. Speculation that [[jake-barber]] worked at Northrop is noted by Michels. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:37:38-1:37:53, 1:40:08-1:41:55, 1:44:27-1:44:39)*

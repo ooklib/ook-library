@@ -41,6 +41,8 @@ sources:
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Jesse Michels is the host of the American Alchemy YouTube channel (registry channel `jm`), which conducts long-form interviews on UFO/UAP, deep politics and secret science. The channel's sponsor/advertisement segments are not recorded in this wiki.
@@ -105,3 +107,7 @@ Interviewed [[peter-levenda]] for a 4h40m episode: [[levenda-michels-interview-2
 
 - Hosts [[borland-michels-interview-2026]] with [[dylan-borland]] (3h19m). Michels supplies the Townsend Brown ionization gloss on the Langley craft, the antigravity physics history ([[salvatore-pais]], [[oke-shannon]], Ning Li), the [[project-greenglow]] question, a cynical-disclosure red-team hypothesis, and a simulation-and-forcing-function argument ([[nhi-control-and-simulation-claims]]). *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 38:28-39:38, 1:12:58-1:18:21, 1:19:38-1:21:49, 2:38:26-2:42:15)*
 - Praises [[uap-gerb]] and [[luis-elizondo]]'s book, and offers a best-guess baiting mechanism ([[ufo-baiting-and-directed-energy-claims]]). *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 13:55-14:52, 1:39:06-1:39:29)*
+
+## Claims (jm/matthew-brown)
+
+- Interviewed [[matthew-brown]] on American Alchemy ([[matthew-brown-michels-interview-2026]]), 2026-08-29. He floats the psionic "breeding stock" hypothesis ([[psionic-assets-and-breeding-claims]]), the Musk-tweet questions ([[brown-tweet-to-elon-musk-2025]]) and praises [[uap-gerb]] as mapping FFRDCs and SAPs. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:52:29-2:53:59, 1:51:46-1:53:55, 1:35:40-1:36:44)*

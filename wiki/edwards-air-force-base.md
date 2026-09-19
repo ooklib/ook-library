@@ -28,6 +28,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Home of the 412th Test Wing and an MRTFB (Major Range and Test Facility Base), listed by Gerb
@@ -92,3 +94,7 @@ ranges. *([gerb/mitre](../raw/gerb/mitre.md) 52:21–52:55)*
 ## Additional claims (gerb/tr-3b)
 
 - Fouche's sources include an SR-71 / Edwards test pilot and claim TR-3B pilots came from Edwards test pilot school; Gerb repeats the 412th Test Group link and the Helendale / Plant 42 / Edwards cluster ([[xf-131-super-sentinel]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 19:00-19:17, 34:42-34:57, 59:04-59:26, 1:14:22-1:14:29)*
+
+## Claims (jm/matthew-brown)
+
+- Michels retells the Eisenhower 1954 Edwards meeting (dentist cover story); Brown is skeptical of the details. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:12:37-1:13:46)*

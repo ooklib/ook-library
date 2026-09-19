@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 A donation-funded project by [[dylan-borland]] and [[matthew-brown]] to support UAP whistleblowers and their families, promoted at the end of [[borland-michels-interview-2026]] and linked in the video description (vanguardenterprise.org, spoken in the transcript as "vanguard.org").
@@ -28,3 +30,8 @@ A donation-funded project by [[dylan-borland]] and [[matthew-brown]] to support 
 ## Relationships
 
 - Founded by [[dylan-borland]] and [[matthew-brown]]. Promoted by [[jesse-michels]].
+
+## Claims (jm/matthew-brown)
+
+- Brown describes it as a nonprofit started by him and [[dylan-borland]], joined by [[jeffrey-nuccetelli]], to support UAP whistleblowers from the national security enterprise with legal, financial and career-transition, medical, psychological and community needs; early days, with a short list of people who need help; donations via Give Butter at vanguardenterprise.org, and the logo derives from the WWII V for victory. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 3:16:14-3:18:25, 3:28:19-3:28:35)*
+- See [[brown-reprisal-claims]] for the motivating experiences and [[matthew-brown-michels-interview-2026]].

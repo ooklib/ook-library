@@ -35,6 +35,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 EG&G (Edgerton, Germeshausen, and Grier, Inc.), founded in 1931 by MIT professor
@@ -99,3 +101,7 @@ EG&G (Edgerton, Germeshausen, and Grier, Inc.), founded in 1931 by MIT professor
 ## Additional claims (gerb/tr-3b)
 
 - Per [[edgar-fuche]]'s sources, EG&G provided classified R&D, built the bunkers, mountain hangars and underground facilities at Groom Lake, Papoose and Mercury (such as [[defense-advanced-research-center]]), and held a contract for [[project-red-light]], related by a witness to Leonard Stringfield to testing recovered craft on the Nellis range; Gerb also links EG&G to the [[doe-nuclear-emergency-support-team]] and a possible RAND role ([[rand-corporation]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 24:25-25:38, 1:10:20-1:10:36)*
+
+## Claims (jm/matthew-brown)
+
+- In the Brown interview Michels notes EG&G's filming of atomic tests and the [[bluegill-triple-prime]] footage, and Brown says [[amentum]] owns parts of EG&G and that the Navy is the oldest part of the legacy program (ONI being the oldest US intelligence agency). *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:58:07-1:59:39)*

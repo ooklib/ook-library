@@ -18,6 +18,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Dr. Jim Lacatski, one of the founders of the DIA's [[aawsap|OAP/AAWSAP]] program, claimed in a
@@ -48,3 +50,7 @@ exhaust, wings, or control surfaces." *([gerb/lockheed](../raw/gerb/lockheed.md)
 ## Claims (jm/borland)
 
 - On [[borland-michels-interview-2026]], Michels recounts Lacatski's statement to Corbell and Knapp that he breached the hull of a craft, his "UFOs as puzzles" and ancillary-technology framing, and ceramic superconductors similar to Ning Li's model. Borland calls him his favorite old-timer, says some of what he said is true, and adds that third-party physicists were missing from the program. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 45:25-48:25, 1:15:57-1:16:10)*
+
+## Claims (jm/matthew-brown)
+
+- Brown says he fully believes Lacatski saw a UFO in a hangar and that he knows someone else who has, but will not say who. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:17:30-2:17:52)*

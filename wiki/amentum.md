@@ -15,6 +15,8 @@ relations:
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Amentum Corporation is a defense contractor accused by
@@ -35,3 +37,7 @@ at [[naval-air-station-patuxent-river|NAS Patuxent River]]'s special-project han
 - Alleged UFO-material custodian at [[naval-air-station-patuxent-river]] per
   [[matthew-brown]]; joint-ventured with [[science-applications-international-corporation]] as
   FSA.
+
+## Claims (jm/matthew-brown)
+
+- [[matthew-brown]] describes Amentum as a relatively unknown defense contractor, saying its history includes owning parts of [[eg-and-g]], and repeats the invitation, in his tweet to [[elon-musk]], to tour its special-project hangars at Pax River ([[brown-tweet-to-elon-musk-2025]]). *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:57:07-1:58:15)*

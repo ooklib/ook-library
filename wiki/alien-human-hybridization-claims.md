@@ -13,6 +13,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Claims about a hybridization program collected by [[jason-samosa]] in a personal notebook and discussed in the `jm/cover-up` episode. The wiki records them as anecdotal hearsay.
@@ -33,3 +35,7 @@ Claims about a hybridization program collected by [[jason-samosa]] in a personal
 ## Claims (jm/borland)
 
 - Borland says the leaked [[kit-green]]/[[ed-may]] call uses the word "hybrids" for people tested, and that there is a genetics component ("biologics") in the legacy program and in family lines of contact. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 2:15:54-2:16:36, 1:01:35-1:02:18, 2:24:23-2:24:38)*
+
+## Claims (jm/matthew-brown)
+
+- The "hybrid breeding" hypothesis of the Brown interview is Michels' speculation ([[psionic-assets-and-breeding-claims]]). *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:52:29-2:54:33)*

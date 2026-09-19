@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Andrija Puharich (ASR "Andrea Parharic", "Puharic") is described by [[peter-levenda]] as a physician and technologist with medical and technical training who got involved with psychic circles in the late 1940s and early 1950s.
@@ -23,3 +25,7 @@ Andrija Puharich (ASR "Andrea Parharic", "Puharic") is described by [[peter-leve
 
 - Ran the sittings described in [[council-of-nine-seance-claims]].
 - Related: [[arthur-young]], [[levenda-michels-interview-2025]].
+
+## Claims (jm/matthew-brown)
+
+- Michels cites Greg Malazzi's documentary "Mind Traveler", the Council of Nine and parallels between Puharich's methods and [[dan-sherman]]'s; Michels and Brown say Puharich was mostly interested in consciousness. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:21:33-1:22:37, 2:12:37-2:12:52)*

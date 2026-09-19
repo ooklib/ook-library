@@ -13,6 +13,8 @@ sources:
     label: "Empire of Shadows: True Story of the Richest Family in History (FINAiUS)"
   - file: "raw/oompa/oompaville - 2026-07-08 - The Maxwells Weren't Spies. They Were Something Worse.md"
     label: "The Maxwells Weren't Spies. They Were Something Worse. (oompaville)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Robert Maxwell, the publisher and father of Ghislaine Maxwell, appears in the `jm/cover-up` episode as a proposed node of the transnational network. Claims by [[jason-samosa]] and [[jesse-michels]] (speculative):
@@ -42,3 +44,7 @@ Robert Maxwell, the publisher and father of Ghislaine Maxwell, appears in the `j
 - Intelligence claims (attributed): Gordon Thomas and Martin Dillon's *Robert Maxwell, Israel's Super Spy* (54 interviewees) say he interrogated Nazis after the war, MI6 classed him a loyal-only-to-Israel Zionist to be watched, and he worked for Mossad, sold the backdoored [[promis-software]], then tried to extort his handlers ("bail me out or I talk") and was killed; [[whitney-webb]] and [[ari-ben-menashe]] (who says he saw a young [[jeffrey-epstein]] in Maxwell's office in the 1980s) push a continuous Maxwell-to-Epstein intelligence operation. *([oompa/maxwells](<../raw/oompa/oompaville - 2026-07-08 - The Maxwells Weren't Spies. They Were Something Worse.md>) 24:33, 24:47, 25:03, 25:44, 25:51, 23:14)*
 - Counter-record: Bua 1993, DOJ 1994 and Court of Federal Claims 1997-98 undercut the PROMIS story; Ben-Menashe and Riconosciuto were judged fabricators; Maxwell's big libel win against Private Eye concerned cash-for-honours, not Mossad; he sued Seymour Hersh over *The Samson Option* and died weeks later, after which Mirror Group settled in 1994 with damages and an apology. *([oompa/maxwells](<../raw/oompa/oompaville - 2026-07-08 - The Maxwells Weren't Spies. They Were Something Worse.md>) 26:38, 27:32, 28:06, 28:22, 28:37)*
 - Host's view: the funeral is not proof of innocence (governments do bury those they killed), and the family's power needed no conspiracy. *([oompa/maxwells](<../raw/oompa/oompaville - 2026-07-08 - The Maxwells Weren't Spies. They Were Something Worse.md>) 31:12, 31:36)* See [[maxwells-data-dynasty-video-2026]].
+
+## Claims (jm/matthew-brown)
+
+- Michels cites Maxwell's interviews of Nazi scientists, Pergamon Press and peer review; Brown says he was an intelligence asset for Israel and probably more, collecting discoveries and steering them with blackmail. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:37:51-2:40:03)*

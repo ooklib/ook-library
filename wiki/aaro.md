@@ -32,6 +32,8 @@ sources:
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 The DoD's All-domain Anomaly Resolution Office ("Arrow" in the ASR transcript), the official
@@ -130,3 +132,7 @@ and [[condon-committee]]. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:09:03â€
 - Borland says he went to AARO at the end of March 2025 and alleges it created a false memorandum for record later sent to ODNI, and recorded his sighting as unclassified while classifying his other drawings. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:56:29-2:00:22, 1:36:04-1:36:22)* See [[borland-whistleblower-reprisal-claims]] and [[odni-directors-initiatives-group]].
 - Michels calls the [[sean-kirkpatrick]] era a "fly trap" and cites people whose emails were deleted after speaking to AARO; Borland says he is not sure the current office is better. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:56:37-1:57:26, 2:02:06-2:02:25)*
 - Michels notes the current director is a former NSA official; Borland says AARO cannot classify on its own and had to poll industry. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:21:03-1:21:12, 2:22:33-2:22:56)*
+
+## Claims (jm/matthew-brown)
+
+- Brown notes AARO's Latin motto, roughly "our life is what our thoughts make it", as strange for an office nominally downplaying sightings, and Michels sees a fly-trap role; Brown compares to wink-and-nod symbolism in black-project patches (Trevor Paglen's book). *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:28:21-1:30:23)*

@@ -30,6 +30,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Los Alamos National Laboratory is a DOE/NSA National Laboratory FFRDC founded during the
@@ -69,3 +71,7 @@ Manhattan Project. *([gerb/mitre](../raw/gerb/mitre.md) 19:32–19:37)*
 ## Additional claims (yogsoggeth/schneider)
 
 - [[phil-schneider]] says he worked through Los Alamos on the drilling at Dulce in 1979 and that Los Alamos and [[eg-and-g]] developed scalenohedral crystals used in black jets ([[dulce-underground-base-incident-1979]], [[corbomite-and-alien-materials-claims]]). *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 9:50, 30:37, 43:24)*
+
+## Claims (jm/matthew-brown)
+
+- Brown says anomalous technologies show interest in White Sands and nearby Los Alamos. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:24:41-2:25:07)*

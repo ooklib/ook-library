@@ -55,6 +55,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -252,3 +254,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 ## Claims (jm/borland)
 
 - On [[borland-michels-interview-2026]], Borland says he never spoke with Grusch before going to the ICIG and points to Grusch's 40 witnesses and "urgent and credible" finding; Michels recalls Grusch's anecdote of a 300 ft triangle over a Norfolk worker's car. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:51:02-1:51:11, 2:33:39-2:34:12, 36:24-37:29)* Borland says he trusts Grusch's account of recovered pilots and biologics (*([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:01:45-1:02:18)*). See [[borland-langley-triangle-2012]].
+
+## Claims (jm/matthew-brown)
+
+- Brown notes Grusch under oath was asked about agreements and could not provide detail, hoping legacy-program people come forward. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:16:39-1:16:51)*

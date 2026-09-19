@@ -18,6 +18,8 @@ sources:
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Jake Barber's more recent claims have been associated with psionics and programs focused on
@@ -45,3 +47,7 @@ older claims (e.g. [[philip-j-corso|Corso]]'s) about consciousness-linked UFO gu
 ## Claims (jm/borland)
 
 - Michels notes the haunted look in Barber's and [[david-grush]]'s eyes, and Borland lists him among experiencer-whistleblowers in [[vanguard-enterprise]]'s framing. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 24:29-24:57, 3:09:38-3:10:25)*
+
+## Claims (jm/matthew-brown)
+
+- Michels ties Barber's testimony (the "egg" craft, P3 psionic assets, redacted book chapter) to [[psionic-assets-and-breeding-claims]]; Brown says only that he has heard the allegations and finds seven redacted pages of a 20-page chapter compelling. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:44:35-1:44:53, 2:44:47-2:46:38)*

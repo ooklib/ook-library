@@ -30,6 +30,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 The National Security Council historically housed the covert-activities oversight structure for
@@ -88,3 +90,7 @@ evolving into the "committee of 27" [[ufo-control-group]] formed in 1994. *([ger
 ## Additional claims (gerb/corso)
 
 - Corso's contested NSC role and Gerb's rebuttal ([[corso-affidavit-1998]], [[operations-coordinating-board]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 8:22-9:07, 1:13:51-1:14:14)*
+
+## Claims (jm/matthew-brown)
+
+- [[matthew-brown]] says the cognizant authority for [[immaculate-constellation]] appears to be a specific director at the NSC, probably for a long time; the NSC is a de facto governing body of many hundreds, of which only a small subset knows about UFO programs, and he could identify likely candidates from an org chart. He says UFO programs rolling up to the president/NSC contrasts with the lore of an uninformed president. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 20:02-20:17, 1:30:39-1:35:32)*

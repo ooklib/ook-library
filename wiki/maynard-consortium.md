@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 The Maynard Consortium is a fictional private international organization described in the DeLonge/A.J. Hartley novel series [[sekret-machines-project]], founded in the late 1940s, with finances obscured through shell companies that appear and disappear, and with power over geopolitics beyond the UFO issue. In the `jm/cover-up` episode [[jason-samosa]] proposes that the real-world [[world-commerce-corporation]] fits the description, and [[jesse-michels]] compares it with [[ben-rich]]'s "international corporate board" and [[thomas-townsend-brown]]'s [[caroline-group]]. This is speculation about a fiction's real-world referent, not an established identification.
@@ -31,3 +33,7 @@ The Maynard Consortium is a fictional private international organization describ
 
 - Fictional counterpart, per Samosa, of the [[world-commerce-corporation]].
 - Appears in [[sekret-machines-project]].
+
+## Claims (jm/matthew-brown)
+
+- Michels says Samosa places the Maynard Corporation and Brown's testimony together; Brown wants to see the video and endorses the general thesis. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:30:14-2:31:22, 2:34:22-2:34:39)*

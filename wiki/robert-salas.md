@@ -13,6 +13,8 @@ relations:
 sources:
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 # Robert Salas
@@ -27,3 +29,6 @@ Former USAF first lieutenant, on-duty missile launch control officer at [[malmst
 
 - Witness in [[malmstrom-minuteman-incident-1967]]; part of [[ufo-nuclear-connection]].
 
+## Claims (jm/matthew-brown)
+
+- Brown cites Salas' 1967 Malmstrom account (red orb, 9 of 10 missiles in no-go) as a key UFO-nuclear case and rejects the WSJ EMP explanation ([[wall-street-journal-malmstrom-emp-claims]]). *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 21:25-21:54, 1:40:56-1:42:40)*

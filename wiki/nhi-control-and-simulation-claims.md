@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 The philosophical and theological end of [[borland-michels-interview-2026]]: Borland's claim that the intelligence community inspector general hinted humans are not in charge, plus a shared speculation on souls, the Book of Enoch, simulation and control of "exit paths". Highly speculative and attributed.
@@ -32,3 +34,7 @@ The philosophical and theological end of [[borland-michels-interview-2026]]: Bor
 ## Relationships
 
 - Related: [[paul-thigpen]], [[legacy-program-claims-borland]], [[operation-kona-blue]], [[alien-human-hybridization-claims]].
+
+## Claims (jm/matthew-brown)
+
+- [[matthew-brown]] says the ICIG "extremely hinted" to him that humans are not in charge and that the cover-up is non-human: he believes Borland, that a third party keeps humans unaware and the US is a junior partner. He says humans live in a controlled information environment (mass surveillance, suppression of science) with a metaphysical dimension, and defines "constructed reality" as multiple concepts, not a formal IC belief. See [[neuro-weapons-and-dream-implantation-claims]]. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:04:59-2:09:19, 3:25:49-3:28:19)*

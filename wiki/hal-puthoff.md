@@ -32,6 +32,8 @@ sources:
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Physicist Hal Puthoff sponsored Ferris Williams's propulsion research presented at a June 2001
@@ -92,3 +94,7 @@ At the [[austin-to-the-stars-meeting]] Puthoff reportedly said "we need a SCIF f
 ## Claims (jm/borland)
 
 - Michels notes [[oke-shannon]]'s advanced theoretical physics group with Puthoff in the 1980s-90s and Ferris Williams's 5D model. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:17:31-1:18:02)*
+
+## Claims (jm/matthew-brown)
+
+- Michels notes Puthoff headed the Stargate program and leads open-source UFO propulsion science, and Brown agrees psi and the phenomenon are linked. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:25:35-1:26:16)*

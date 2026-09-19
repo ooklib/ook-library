@@ -45,6 +45,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 The "Alien Reproduction Vehicle" (ARV) concept — a human-built craft reverse-engineered from
@@ -128,3 +130,7 @@ recovered nonhuman technology — is most associated in the UFO research communi
 ## Claims (jm/borland)
 
 - Borland's Langley triangle ([[borland-langley-triangle-2012]]) is again cited as the archetypal black triangle, though he says he only reports what he saw and cannot say if it cloaked. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 28:52-29:14)*
+
+## Claims (jm/matthew-brown)
+
+- Brown says the IMCON briefing expanded ARV once as "alien reproduction vehicle" but he thinks it may be a counterintelligence tag and that "advanced reconnaissance vehicle" (TRW) is a better FOIA term. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 32:02-34:43)*

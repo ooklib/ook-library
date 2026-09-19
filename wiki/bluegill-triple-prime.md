@@ -26,6 +26,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Bluegill Triple Prime was the fourth-of-series high-altitude Bluegill nuclear test of 1962's [[operation-dominic]] at Johnston Island, an X-ray-based missile-defense experiment. In this transcript [[harald-malmgren]] and host [[jesse-michels]] allege it was also a UFO shootdown. All claims below are attributed.
@@ -55,3 +57,7 @@ Bluegill Triple Prime was the fourth-of-series high-altitude Bluegill nuclear te
 ## Additional claims (rc/mj12)
 
 - Coulthart, introducing [[geoffrey-cruickshank]], calls Bluegill "compelling" and summarizes his thesis that the 1962 high-altitude test may have downed a nonhuman craft, supported by ship logs, radiation data, diver records and film anomalies. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 7:07-7:55)*
+
+## Claims (jm/matthew-brown)
+
+- Michels cites the EG&G footage of a UFO leaving the plume and oceanographer Tim Gallaudet's reading of Navy deck logs suggesting retrieval of something radioactive; Brown says the Navy is the oldest part of the program. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:58:20-1:59:39)*

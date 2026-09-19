@@ -22,6 +22,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 The Office of Naval Intelligence, founded 1882, is described as the world's oldest intelligence
@@ -63,3 +65,7 @@ agency and the US Navy's premier intelligence arm, part of both the DoD and IC. 
 ## Additional claims (jm/malmgren)
 
 - [[harald-malmgren]] says [[lawrence-preston-gise]] told him the [[bluegill-triple-prime]] test details were controlled by ONI, the oldest US intelligence agency (1890s), an autonomous entity "more secure than any other", with the CIA not on its approved circulation list, and that ONI still "lives in its own world". *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:12:16-1:13:04, 1:17:13-1:17:31)*
+
+## Claims (jm/matthew-brown)
+
+- Brown calls ONI the oldest US intelligence agency and the Navy the oldest part of the legacy program, with earlier intelligence in private banking families' hands. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:59:07-1:59:37)*

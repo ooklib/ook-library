@@ -16,6 +16,8 @@ sources:
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 *Sekret Machines* is the [[tom-delonge]] / [[peter-levenda]] book and project whose thesis, per [[jesse-michels]], is that UAP are "mystical machines" and human consciousness is central. Michels says senior Skunk Works figures Robert Weiss, Steve Justice and Eric Schrock, and Air Force Research Lab commander Neil McCasland, advised it, and that these defense technologists keep returning to consciousness in conversation. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 58:34-59:26)*
@@ -41,3 +43,7 @@ Levenda discusses the cargo-cult prologue and the alleged Prometheus hint: [[car
 ## Additional claims (gerb/tr-3b)
 
 - Per Gerb, the novel "Secret Machines" (Tom DeLonge and A.J. Hartley, a roman a clef built on facts from advisers such as the Air Force Research Lab commander at Wright-Patterson and Skunk Works officials including Eric Schrock) describes an "Astra 3B" black triangle nicknamed the "Locust" with a red trackball control, echoing [[edgar-fuche]]'s TR-3B (code name Astra) and the [[flux-liner-arv-saga]] control sphere; Gerb also compares Fouche's "Alien Rapture" to it. See [[tom-delonge]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 14:00-14:15, 42:10-45:01)*
+
+## Claims (jm/matthew-brown)
+
+- Michels cites Tom DeLonge's Sekret Machines writing on Skorzeny and the World Commerce Corporation and a pseudonymous "Maynard Corporation"; Jason Samosa maps Brown's global-cabal testimony onto it. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:30:06-2:31:22)*

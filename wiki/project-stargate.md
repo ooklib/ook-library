@@ -28,6 +28,8 @@ sources:
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Project Stargate was a joint, secret Army/DIA/CIA/SRI-International-contractor program (begun
@@ -90,3 +92,7 @@ Centerlane (DIA). *([gerb/saic](../raw/gerb/saic.md) 1:42:34–1:43:21)*
 ## Claims (jm/borland)
 
 - Borland believes in remote viewing and says it is under one umbrella with MK-Ultra and UFOs; a leaked 2017 phone call of [[kit-green]] and [[ed-may]] reportedly discusses remote viewing Uri Geller in MRIs. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:02:18-1:03:42, 2:15:54-2:17:10, 2:19:43-2:20:14)*
+
+## Claims (jm/matthew-brown)
+
+- Michels and Brown discuss Stargate, remote viewing (Rosemary Smith's 1979 Zaire plane find, Joe McMoneagle), the view that psi is foundational to the phenomenon and that the head of Stargate ([[hal-puthoff]]) is a UFO-propulsion figure; Brown says unwitting civilian remote viewers would be cheaper and more deniable. See [[psionic-assets-and-breeding-claims]]. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:23:33-1:26:44, 2:42:58-2:43:37)*

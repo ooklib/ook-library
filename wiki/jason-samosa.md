@@ -19,6 +19,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Jason Samosa is a UK-based UFO YouTuber (and former Christian preacher-in-training and call-centre worker) who was the guest on [[jesse-michels]]'s American Alchemy episode "The UFO Cover-Up Leads to One Secret Society - and One Final Event" (2026-07-14). Michels describes him as a strong explainer of complicated ufology threads and historical deep dives; he says he is going full-time on the channel. Nearly all substantive claims on this page's source are Samosa's own speculation or his reading of other authors, and the wiki records them as attributed claims.
@@ -39,3 +41,7 @@ Jason Samosa is a UK-based UFO YouTuber (and former Christian preacher-in-traini
 
 - Guest of [[jesse-michels]] (`jm/cover-up`).
 - Draws on [[jacques-vallee]], [[nick-redfern]], [[peter-levenda]] and [[sekret-machines-project]].
+
+## Claims (jm/matthew-brown)
+
+- Michels notes Samosa's video features Brown's testimony ('this issue is held by an illegal internationalist regime and global cabal'). *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:30:14-2:30:49)*

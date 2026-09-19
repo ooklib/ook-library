@@ -16,6 +16,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Hans-Adam II, Prince of Liechtenstein, is discussed in the `jm/cover-up` episode as a UFO-interested royal ("Likenstein" in ASR). Claims (unverified, from hearsay in the conversation):
@@ -40,3 +42,7 @@ Hans-Adam II, Prince of Liechtenstein, is discussed in the `jm/cover-up` episode
 ## Additional claims (gerb/tr-3b)
 
 - A 31 Aug 1997 letter to [[steven-greer]] from an unknown sender, cited by Gerb, accuses "Lenin's Crown Prince Hans Adams" (citing Tom Bower's "Nazi Gold") of supporting counterintelligence against Americans on UFOs and of funding [[treat-tactical-reconnaissance-engineering-assessment-team]]; unverified. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 15:11-16:08)*
+
+## Claims (jm/matthew-brown)
+
+- Michels cites his long interest in UFOs as possible elite push for disclosure; Brown does not know what is going on. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:16:16-2:17:27)*

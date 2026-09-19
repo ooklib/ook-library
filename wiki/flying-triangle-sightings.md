@@ -16,6 +16,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Dark triangular craft (typically three white corner lights, a dull red or amber central light, "structural work" underneath, 200-300 ft in many reports) are reported worldwide and cluster in 1970-2000, unlike the smooth, seamless craft associated with NHI. UAP Gerb argues this pattern, plus the Immaculate Constellation report labeling some triangles ARVs, suggests they were human-built reproduction craft ([[alien-reproduction-vehicle-tr3b]], [[xf-131-super-sentinel]]).
@@ -40,3 +42,7 @@ Dark triangular craft (typically three white corner lights, a dull red or amber 
 ## Claims (jm/borland)
 
 - Adds [[borland-langley-triangle-2012]], a 100-150 ft black metallic-flake triangle at Langley AFB with a white center light that Borland says "manifested" a triangle. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 26:01-31:35)* Borland also says cell-phone video within 100 ft of triangles exists in government hands. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 52:03-52:22)*
+
+## Claims (jm/matthew-brown)
+
+- See [[imcon-russian-naval-triangle-incident]], the Vandenberg runway account and the NIDS base-correlation study. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 22:36-29:37)*

@@ -21,6 +21,8 @@ sources:
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 # Malmstrom Minuteman Missile Shutdown (1967)
@@ -47,3 +49,7 @@ Alleged 24 March 1967 event at [[malmstrom-air-force-base]] in which a hovering 
 ## Claims (jm/sheehan)
 
 - Sheehan says Col. Arie Arnoldson (ASR), the Malmstrom-area missile commander, insisted on filing a UFO report to NORAD after ten nuclear missiles shut down and was sent to Mack for a psychiatric exam. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:29:44)*
+
+## Claims (jm/matthew-brown)
+
+- Brown calls the WSJ EMP explanation nonsense (see [[wall-street-journal-malmstrom-emp-claims]]). *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:40:56-1:42:51)*

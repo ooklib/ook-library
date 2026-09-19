@@ -29,6 +29,8 @@ sources:
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Witness who testified under oath to observing a 100 ft black triangle above Langley Air Force
@@ -91,3 +93,8 @@ Base in 2012, seemingly originating from a nearby NASA hangar. *([gerb/nro](../r
 - He co-founded [[vanguard-enterprise]] with [[matthew-brown]].
 - He says he was raised near Pittsburgh (born in Washington, D.C.), is a Catholic, and holds a master's degree. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 9:33-10:26, 1:47:43-1:48:08)*
 - He reports personal-history claims (Catholic conversion event, dreams, synchronicities) documented on [[nhi-control-and-simulation-claims]] and friend [[paul-thigpen]].
+
+## Claims (jm/matthew-brown)
+
+- Brown refers to Borland's interview repeatedly: the decision to stop briefing new legacy-program entrants on history (oral tradition, [[brown-agreements-and-no-go-zone-claims]]), Borland's Langley triangle ([[borland-langley-triangle-2012]]) compared to the IMCON triangle, and Borland's statement that the cover-up involves non-human intelligence, which Brown believes. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 28:57-29:37, 1:14:40-1:16:14, 3:26:14-3:28:19)*
+- Co-founder of [[vanguard-enterprise]] with Brown. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 3:16:23-3:16:44)*

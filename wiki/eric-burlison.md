@@ -29,6 +29,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 US Representative Eric Burlison (ASR-transcribed throughout as "Berles"/"Burles") is a
@@ -90,3 +92,7 @@ from Burlison; not otherwise detailed in this source.
 ## Claims (jm/borland)
 
 - Michels recalls Burlison saying [[naval-air-station-patuxent-river]] looks like a place to transfer or hold a UFO, and Borland thanks Burlison, [[anna-paulina-luna]] and Moskowitz for pushing. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:13:09-1:13:21, 2:29:29-2:29:44)*
+
+## Claims (jm/matthew-brown)
+
+- Brown notes Burlison's Pax River tour showed nothing exotic. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:57:19-1:57:41)*

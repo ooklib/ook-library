@@ -21,6 +21,8 @@ sources:
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Peter Levenda is an occult-history author cited by [[jesse-michels]] as co-author with [[tom-delonge]] of *Sekret Machines* and as editor or publisher-associated with the 1977 *Necronomicon* (the source states he has received letters from military officers, including Strategic Air Command, calling it "spot on", and that it was a bestseller at Fort Benning; unverified). He suggests figures near the NROL-16 launch encouraged DeLonge to study Prometheus. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 50:32-52:08)*
@@ -46,3 +48,7 @@ Guest of the four-hour [[levenda-michels-interview-2025]]. Autobiographical clai
 - He met [[hal-puthoff]], [[jacques-vallee]] and [[christopher-mellon]] at the [[austin-to-the-stars-meeting]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 3:53:13)*
 - His caution: he calls Corey Goode-style secret space program and Eisenhower-treaty claims unsupported, and wants Nazi and occult history read from documents ([[levenda-nazi-saucer-lineage-claims]]). *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 1:19:10, 2:02:02)*
 - Other segments: [[celestial-ascent-claims]], [[non-lethal-warfare-ufo-psyop-claims]], [[prescient-fiction-synchronicity-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 3:35:22, 2:43:20, 1:24:11)*
+
+## Claims (jm/matthew-brown)
+
+- Michels cites Levenda's "Stairway to Heaven" on celestial ascent, arguing the legacy program is trying to speedrun a hermetic process that requires age and purity of intent. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:50:20-2:51:14)*

@@ -12,6 +12,8 @@ sources:
     label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 A fringe extension of Maxwell's equations (dropping the Lorenz gauge constraint) adding a scalar field and new wave types (scalar, longitudinal, helicoidal).
@@ -29,3 +31,7 @@ A fringe extension of Maxwell's equations (dropping the Lorenz gauge constraint)
 ## Additional claims (jm/nasa-chief)
 
 - [[david-chester]] is introduced as someone with whom [[jesse-michels]] has discussed extended electrodynamics and topological effects; he reviews [[charles-buhler]]'s QED account in [[exodus-force-claims]]. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:52:26-1:53:14)*
+
+## Claims (jm/matthew-brown)
+
+- Michels and [[matthew-brown]] discuss it after [[kirk-mcconnell]]; Brown describes energy transmission and extraction, reversible and dangerous, Russians well versed, and treats [[thomas-bearden]]'s claims as a limited hangout around a core truth. See [[neuro-weapons-and-dream-implantation-claims]]. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 3:00:33-3:05:08)*

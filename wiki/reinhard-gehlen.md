@@ -32,6 +32,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Reinhard Gehlen was the head of German military intelligence on the Eastern Front during WWII
@@ -89,3 +91,7 @@ Gladio]].
 ## Additional claims (jm/jorjani-hitler)
 
 - Jorjani says the OSS/CIA absorbed Gehlen's Eastern European spy network, and that Gehlen and the Knights of Malta "Monte Carlo group" coordinated rat lines that exfiltrated Magenta craft. See [[nazi-deep-state-infiltration-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 59:05, 2:23:10)*
+
+## Claims (jm/matthew-brown)
+
+- Mentioned as an organizer of Nazi scientists' assassinations by Israel, per the exchange between Brown and Michels. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:33:09-2:33:36)*

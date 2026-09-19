@@ -23,6 +23,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Bob Lazar claimed to have been hired by [[eg-and-g|EG&G]] to reverse-engineer UFO propulsion
@@ -53,3 +55,7 @@ systems at Area 51's S4 site. *([gerb/saic](../raw/gerb/saic.md) 1:21:52–1:22:
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda says Lazar's Bendix Field Engineering badge raises his credence, because he knows that division served as cover; see [[bendix-field-engineering]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 4:22:53, 4:24:37)*
+
+## Claims (jm/matthew-brown)
+
+- Michels notes Lazar's claim that the craft came from an archaeological dig on the ocean floor via the Navy, and asks Brown about bismuth; Brown finds an archaeological component plausible and thinks it more common than crashes. Lazar got a job at EG&G. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:03:13-1:04:00, 1:58:20-1:58:23, 3:05:33-3:06:34)*

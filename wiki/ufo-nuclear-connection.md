@@ -24,6 +24,8 @@ sources:
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 # UFO-Nuclear Connection
@@ -56,3 +58,7 @@ The thesis, presented by [[uap-gerb]] in "UFOs and Nuclear Weapons - A Fascinati
 ## Claims (jm/borland)
 
 - Michels and Borland tie the 2023 [[langley-drone-incursions-2023]] and UFO reports to nuclear sites, citing Robert Hastings's about 167 witnesses and carrier nuclear weapons, and Borland says the phenomenon's speed, ionization and power source imply nuclear principles. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 51:06-51:45, 38:28-38:59)* See also [[ufo-baiting-and-directed-energy-claims]] and the Bettis atomic power lab near Pittsburgh (*([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 10:37-11:10)*).
+
+## Claims (jm/matthew-brown)
+
+- [[matthew-brown]] says UAP interest in nuclear and WMD sites is "established beyond reasonable doubt", was widely reported in his counter-WMD intelligence streams, and cites [[robert-hastings]] (167 whistleblowers), Fukushima's UFO museum, Chernobyl and Bariloche; his explanations are radiation and weapons interfering with propulsion, storage of exotic samples at national labs and personnel connected to the phenomenon (Los Alamos, Redstone). See [[white-sands-el-paso-airspace-closure-2026]]. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 20:56-21:54, 44:36-46:26, 2:24:32-2:29:31)*

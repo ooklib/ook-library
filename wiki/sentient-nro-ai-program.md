@@ -17,6 +17,8 @@ relations:
 sources:
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Sentient is a real, FOIA-confirmed [[national-reconnaissance-office|NRO]] "ongoing research and
@@ -58,3 +60,7 @@ unverified inference, not documented Sentient functionality.
 
 - An [[national-reconnaissance-office]] program; alleged data source for
   [[immaculate-constellation]]; publicly documented detecting a possible UAP in 2021.
+
+## Claims (jm/matthew-brown)
+
+- [[matthew-brown]] says Sentient would have come online after [[immaculate-constellation]] and been integrated to source and detect events, compartmentalize collections and rapidly retask sensors; he answered "no comment" on the NGA's Marsupial program. His tweet also alludes to the "murder" of the first sentient AIs ([[brown-tweet-to-elon-musk-2025]]), unexplained. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 59:21-1:00:36, 1:54:15-1:54:37)*

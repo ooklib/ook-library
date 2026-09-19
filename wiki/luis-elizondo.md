@@ -43,6 +43,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Luis Elizondo (ASR-transcribed "Lou Alzando"/"Luis Alzando") claimed to direct, work for, or
@@ -151,3 +153,7 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
 
 - On [[borland-michels-interview-2026]], Michels recounts Elizondo's sandbox-toy analogy for a shareable technology, and Borland says Elizondo's book "Imminent" reveals a lot in "IC talk", including [[bae-systems]] as an inheritor of UFO technology and locations near recent events, and that he will analyze the interview. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:10:24-1:12:58)*
 - Michels says Elizondo admitted he is holding a lot back and that "time is not a luxury we can afford", fueling predicted disclosure dates. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:24:39-1:25:26)* See [[rubiks-cube-program-claims]].
+
+## Claims (jm/matthew-brown)
+
+- Brown recounts Elizondo's Glomar-style reply when asked whether he was read into [[immaculate-constellation]], calls the Glomar response spent, and argues the briefing's claim that IMCON was created after Elizondo exposed AATIP in 2017 is a counterintelligence half-truth and signature, as the mission is older and run by the NSC. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 36:43-40:58)*

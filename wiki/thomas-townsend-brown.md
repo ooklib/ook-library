@@ -59,6 +59,8 @@ sources:
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Thomas Townsend Brown, associated with the [[biefeld-brown-effect]] and alleged antigravity research. In the Malmgren interview he is central to Malmgren's late-life research.
@@ -125,3 +127,7 @@ Jesse Michels' 2024 documentary, based on Paul Schatzkin's biography *The Man Wh
 ## Claims (jm/borland)
 
 - On [[borland-michels-interview-2026]], Michels applies Brown's megavolt ionization experiments to the Langley craft's glow and ozone smell, and Borland uses a Model T versus Ferrari analogy while citing Brown discussion in an earlier conversation. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 39:06-39:38, 1:09:47-1:10:24)* Michels calls Brown his highest-conviction thread for how craft fly (*([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 2:27:04-2:27:15)*).
+
+## Claims (jm/matthew-brown)
+
+- Michels asks whether the propulsion behind Brown's Musk tweet roots back to Townsend Brown; [[matthew-brown]] says it is a really interesting thread. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:55:50-1:56:19)*

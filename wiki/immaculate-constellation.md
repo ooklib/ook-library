@@ -33,6 +33,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 An alleged National Security Council unacknowledged Special Access Program (USAP), established in
@@ -100,3 +102,8 @@ craft and derivative technologies (parallel to, but siloed from, decades-older l
 ## Additional claims (gerb/tr-3b)
 
 - Gerb says the report (entered into the Congressional record 13 Nov 2024) labels some triangles, seen 2009 onward by Indo-Pacific Command collection, as alien reproduction vehicles, making it the first official use of the term ARV in a hearing context; see [[flying-triangle-sightings]], [[alien-reproduction-vehicle-tr3b]], [[tr3b-triangle-arv-video-2024]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 0:58-5:08)*
+
+## Claims (jm/matthew-brown)
+
+- [[matthew-brown]]'s fuller account (interview [[matthew-brown-michels-interview-2026]]): operational SAP for global UAP ISR (imagery plus MASINT, tasked and untasked), a rough 12-15 slide capabilities brief with placeholder slides, four case studies around 2018 led by [[imcon-russian-naval-triangle-incident]], ARV/RV terminology, possible hub at [[schriever-space-force-base]]; details in [[imcon-briefing-account-brown]]. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 12:29-16:50, 22:02-22:36, 32:02-32:43)*
+- Brown says IMCON is old, owned and run by the [[national-security-council]] (a specific director) not DoD, and the briefing's claim it was created after AATIP is likely a counterintelligence "half-truth" signature; it owns tasking, not assets. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 20:02-20:17, 38:37-40:58)*

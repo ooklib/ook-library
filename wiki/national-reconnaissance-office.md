@@ -62,6 +62,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 The National Reconnaissance Office develops, acquires, launches, and operates US intelligence
@@ -224,3 +226,7 @@ shared office threads Gerb draws between them. *([gerb/nro](../raw/gerb/nro.md)
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says the NRO seized [[bob-beckwith]]'s neutrino-light detector for satellites and that Senate Intelligence staff overseeing NRO/CIA/NSA did not know of it ([[neutrino-light-detector-claims]]). *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:19:14-1:19:51, 2:29:02-2:29:23)*
+
+## Claims (jm/matthew-brown)
+
+- Brown says Sentient (NRO) integrates with IMCON; see [[imcon-briefing-account-brown]]. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 59:21-1:00:16)*

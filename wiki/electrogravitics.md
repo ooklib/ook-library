@@ -18,6 +18,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 Electrogravitics is the label for coupling of electric fields to gravity, coined around [[thomas-townsend-brown]]'s work (the "lowbrow applied version" per Eric Weinstein's framing).
@@ -50,3 +52,7 @@ Electrogravitics is the label for coupling of electric fields to gravity, coined
 - [[andrew-arjima]] uses the term electrogravitics, which [[charles-buhler]] finds "pretentious": he says he is "still on the fence on the gravitics part", dislikes "antigravity", and does not claim to bend spacetime. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 36:35-37:05, 1:36:05-1:37:19)* See [[exodus-force-claims]].
 - Michels says engineers at Lockheed and Northrop give a "wink wink" that the Biefeld-Brown effect is on the right path and that asymmetry and large field gradients matter. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:29:11-1:29:48)*
 - Buhler on a possible "force crisis" rather than energy crisis; transport has stagnated since the 747. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:26:47-1:28:28)*
+
+## Claims (jm/matthew-brown)
+
+- Asked about the electrogravitic propulsion in his Musk tweet, [[matthew-brown]] says he thinks there is "a there there" tied to [[thomas-townsend-brown]]'s work and learned the term later. See [[brown-tweet-to-elon-musk-2025]]. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:55:37-1:56:19)*

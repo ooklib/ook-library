@@ -26,6 +26,8 @@ sources:
     label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 The "Tic Tac Factory" is Gerb's name (given to him by an unnamed source) for an alleged, several
@@ -88,3 +90,7 @@ semi-permanently resides in the Atlantic near the Bahamas.
 ## Additional claims (jm/nasa-chief)
 
 - [[gary-mckinnon]]'s alleged sighting of a Tic Tac-shaped object in Earth orbit in JSC images, per [[jesse-michels]]. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:43:26-1:44:11)*
+
+## Claims (jm/matthew-brown)
+
+- In Brown's report, a Tic Tac was detected by a space asset near a vessel (SOUTHCOM), with MASINT signatures. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 42:03-42:51)*

@@ -24,6 +24,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 George Knapp, Las Vegas investigative journalist (KLAS-TV), has reported for decades on Area 51,
@@ -75,3 +77,7 @@ Levenda says Knapp's questioning of Bob Lazar was artful. *([jm/levenda](<../raw
 ## Claims (jm/borland)
 
 - On [[borland-michels-interview-2026]], Borland cites Knapp's congressional statement on the Lockheed-Bigelow material deal and Knapp's Weaponized interviews with Borland; Corbell and Knapp were told by ODNI of a "Rubik's Cube" program. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 5:40-6:48, 2:28:26-2:29:29)* See [[jeremy-corbell]], [[rubiks-cube-program-claims]].
+
+## Claims (jm/matthew-brown)
+
+- Brown recalls his earlier interview with Knapp and [[jeremy-corbell]] ("made for purpose" craft, Northrop's "dirty tricks department", not as free as you think) and calls them "true warriors for the good" in his Musk tweet. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:05:44-1:05:52, 1:40:08-1:41:06, 1:53:38-1:53:47)*

@@ -29,6 +29,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 The CIA's Office of Global Access, established under the [[cia-directorate-of-science-and-
@@ -68,3 +70,7 @@ Command]]'s muscle for foreign UFO crash retrievals. *([gerb/saic](../raw/gerb/s
 ## Additional claims (gerb/corso)
 
 - Corso video: created 2003 (with Doug Wolf) and, per Chris Sharp, a logistics coordinator with JSOC for UAP crash retrieval; the same year the ISA moved to JSOC ([[ufo-working-group-1987]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:06:17-1:06:33, 1:29:35-1:30:21)*
+
+## Claims (jm/matthew-brown)
+
+- Brown says he was not exposed to its UAP relevance but finds public reporting plausible. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:00:17-1:00:36)*

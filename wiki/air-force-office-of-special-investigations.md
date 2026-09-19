@@ -36,6 +36,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
+    label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
 ---
 
 AFOSI's Office of Special Projects (PJ) is named as a "program protection and exposure
@@ -129,3 +131,7 @@ architecture." *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 34:09–35:08)*
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]]: says the founding director was a devout Catholic who wanted seminary and was steered to intelligence; AFOSI is said to have overseen the very beginnings of the [[collins-elite]] theory; AFOSI appears in UFO lore at nuclear bases demanding radar data and NDAs. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:25:13, 2:25:22, 2:25:46)*
+
+## Claims (jm/matthew-brown)
+
+- See [[brown-reprisal-claims]] for a claimed proven case of an AFOSI officer messing with a whistleblower's family. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 3:12:03-3:12:36)*
