@@ -19,11 +19,18 @@ relations:
   - relation: associate_of
     target: meyer-lansky
     note: "ran Operation X's financial infrastructure together via General Development Corporation (per ewa/mafia-allies)"
+  - relation: participated_in
+    target: operation-paper
+    note: "set up Sea Supply Corp as the Bangkok shell"
+  - relation: founded
+    target: sea-supply-corporation
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
+    label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
 ---
 
 Colonel Paul E. Helliwell served as chief of special intelligence for the
@@ -63,6 +70,10 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
 
 - Per the Detachment 202 episode: officer of [[oss-detachment-202]], led its secret intelligence unit in Yunnan under the title chief of special intelligence in China; a 1980 Wall Street Journal quote from colleagues says he gathered information with opium shipments ("three sticky brown bars"). Postwar settled in Miami, worked for the CIA, founded a law firm assisting CIA operations and [[castle-bank-and-trust]], and set up shell companies laundering dirty funds into South Florida real estate -- the host's "CIA paymaster." Many researchers (unsubstantiated per the host) see him as a benefactor of the [[bay-of-pigs-invasion]]. Described as "the most often overlooked CIA figure" and main character of the upcoming French Connection series; his fingerprints are seen in [[e-howard-hunt]], [[john-singlaub]], [[lucien-conein]] and [[mitchell-werbell]]. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 2:26-4:46, 12:14-12:22, 21:33-21:41)*
 
+- Per Eyes Wide Open, introduced [[claire-chennault]] to [[frank-wisner]] (leading to CIA funding of [[civil-air-transport]]) and created [[sea-supply-corporation]] for [[operation-paper]]. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 15:48-16:31, 32:22-32:34)*
+- Cited quote (1980 WSJ): he gathered wartime information with shipments of opium, "three sticky brown bars"; described as the series' main character and architect of the American side of the French Connection. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 10:39-11:34)*
+- A Thai consulate was allegedly housed in his Miami law firm offices in 1953-54. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 45:20-45:53)*
+
 ## Relationships
 
 - OSS chief of special intelligence in China; presented Operation X to [[william-donovan]],
@@ -75,3 +86,4 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
   proceeds.
 - Architect of [[operation-x]].
 - Led [[oss-detachment-202]]'s intelligence unit; alumni include [[e-howard-hunt]], [[john-singlaub]], [[lucien-conein]], [[mitchell-werbell]]; see [[cia-drug-paradigm]], [[golden-triangle]].
+- Created [[sea-supply-corporation]] for [[operation-paper]].

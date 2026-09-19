@@ -19,6 +19,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md"
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
+    label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
 ---
 
 The Office of Policy Coordination (OPC), per Eyes Wide Open, was the innocuously named covert
@@ -39,8 +41,11 @@ uncontroversial intelligence-gathering side, and headed for its early history by
   Coalition Party threatened to win a super-majority in the first postwar national elections.
   *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 20:01-20:15)*
 
+- Created 1948, initially independent of the CIA hierarchy under Wisner, then absorbed under [[walter-bedell-smith]] (1952 Directorate of Plans); it drafted [[operation-paper]]. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 16:31-18:10, 21:58-22:11)*
+
 ## Relationships
 
 - The [[central-intelligence-agency]]'s covert-operations arm, headed by [[frank-wisner]];
   first operated abroad via the [[italian-election-1948]] and went on to run
   [[operation-gladio]].
+- Drafted [[operation-paper]].

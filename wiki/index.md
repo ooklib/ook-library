@@ -11,7 +11,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
 `gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`,
 `rjm/city-of-london`, `mpu/secret-society`, `ewa/oss`, `ewa/sunrise`, `ewa/mafia-allies`,
-`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`).
+`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`).
 
 Note: the wiki spans four topic areas — the original alleged "UFO legacy programs" ecosystem
 (MITRE, SAIC, NRO, Lockheed, etc.), a British power-structures thread (Fabian Society, Chatham
@@ -125,7 +125,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 
 [[office-of-strategic-services]] · [[sullivan-and-cromwell]] · [[ig-farben]] ·
 [[gehlen-organization]] · [[bank-for-international-settlements]] · [[civil-air-transport]] ·
-[[air-america]] · [[general-development-corporation]] · [[national-crime-syndicate]] ·
+[[air-america]] · [[operation-paper]] · [[sea-supply-corporation]] · [[general-development-corporation]] · [[national-crime-syndicate]] ·
 [[green-gang]] · [[schiaparelli]] · [[central-intelligence-group]] · [[united-fruit-company]] ·
 [[anglo-iranian-oil-company]] · [[office-of-policy-coordination]] · [[vatican-bank]] ·
 [[catholic-action]] · [[christian-democracy-italy]] · [[italian-communist-party]] ·
@@ -254,7 +254,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[jonathan-kwitny]] · [[constantin-melnik]] · [[francois-de-grossouvre]] ·
 [[charles-de-gaulle]] · [[jacques-foccart]] · [[francois-mitterrand]] · [[e-howard-hunt]] · [[john-singlaub]] · [[lucien-conein]] ·
 [[mitchell-werbell]] · [[edward-lansdale]] · [[vang-pao]] · [[nelson-bunker-hunt]] ·
-[[ngo-dinh-diem]] · [[john-mccone]]
+[[ngo-dinh-diem]] · [[john-mccone]] · [[li-mi]] · [[willis-bird]] · [[alfred-cox]] ·
+[[phao-sriyanon]] · [[plaek-phibunsongkhram]] · [[sarit-thanarat]] · [[khun-sa]] · [[alfred-mccoy]]
 
 ## Concepts
 
@@ -266,4 +267,4 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[atomic-energy-act-1954]] · [[content-only-special-access-program]] ·
 [[covert-action-program]] · [[yankee-blue]] · [[permeation]] · [[deep-state]] ·
 [[non-aligned-movement]] · [[relation-types]] · [[yankee-cowboy-thesis]] ·
-[[strategy-of-tension]] · [[pan-europa-movement]] · [[cia-drug-paradigm]]
+[[strategy-of-tension]] · [[pan-europa-movement]] · [[cia-drug-paradigm]] · [[narco-counterinsurgency]]

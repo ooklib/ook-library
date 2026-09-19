@@ -29,6 +29,8 @@ sources:
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
+    label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -107,6 +109,7 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 - Part 5.3 (28 July 2023), 'France's Secret Armies and the Pan-Europa Project', closes the early Gladio mini-series: French stay-behind networks ([[la-cagoule]], [[plan-bleu-1947]], [[rose-des-vents]]) and CIA-funded pan-European forums ([[american-committee-on-united-europe]], [[le-cercle]]); it heavily draws on [[daniele-ganser]] and [[david-teacher]]. The next series is a three-part 'French Connection' exposé. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 0:00-2:28, 47:51-49:14)*
 
 - Part 5.4 (4 Sept 2023), 'Spy Stories: OSS Detachment 202 - Secret Cold Warriors', is a short prelude to the upcoming French Connection series (Burma CIA operations, then the First Indochina War). It profiles four [[oss-detachment-202]] alumni: [[e-howard-hunt]], [[john-singlaub]], [[lucien-conein]], [[mitchell-werbell]], under [[paul-helliwell]]; sources include Valentine, McCoy, Webb, Lernoux, Talbot, Baker, Fonzi. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 0:00-2:25, 22:16-24:00)*
+- Part 6 (4 Oct 2023), 'Operation PAPER and Trouble in the Golden Triangle', opens the French Connection mini-series in Southeast Asia: CIA arming of [[li-mi]]'s KMT remnant in Burma via Thailand; see [[operation-paper]], [[narco-counterinsurgency]]. Sources: [[alfred-mccoy]], Valentine, Webb, [[peter-dale-scott]]. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 0:00-5:07, 47:54-49:51)*
 
 ## Relationships
 

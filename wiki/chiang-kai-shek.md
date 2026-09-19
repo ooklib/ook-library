@@ -13,11 +13,16 @@ relations:
   - relation: participated_in
     target: green-gang
     note: "consolidated China's opium industry under his control through the Green Gang (per ewa/mafia-allies)"
+  - relation: associate_of
+    target: li-mi
+    note: "CIA-armed KMT remnant in Burma; Taipei airlifted troops out 1953-54"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
+    label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
 ---
 
 Generalissimo Chiang Kai-shek led the Nationalist Chinese (KMT) forces in China's WWII-era dual
@@ -41,9 +46,12 @@ a policy that drew [[paul-helliwell]] and the OSS into narcotics facilitation.
 
 - [[paul-helliwell]] of [[oss-detachment-202]] helped Chiang's Nationalists against Mao's Communists from Yunnan. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 2:50-3:03)*
 
+- After fleeing to Taiwan in 1949, his China Lobby pushed US involvement; Taipei was pressured (Burma, UN, US) to withdraw [[li-mi]]'s force, agreeing in Sept 1953. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 11:36-13:38, 43:17-44:22)*
+
 ## Relationships
 
 - Opium trade facilitated by [[paul-helliwell]] and the OSS; opium industry consolidated via the
   [[green-gang]].
 - Backed by [[claire-chennault]]'s air force, which became [[civil-air-transport]].
 - See [[oss-detachment-202]].
+- See [[operation-paper]], [[li-mi]].

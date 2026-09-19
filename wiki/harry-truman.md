@@ -13,6 +13,9 @@ relations:
   - relation: participated_in
     target: truman-doctrine
     note: "declared the doctrine to Congress in March 1947, per Eyes Wide Open"
+  - relation: sponsored_by
+    target: operation-paper
+    note: "signed approval late 1950; unclear if he grasped the narcotics element"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
@@ -22,6 +25,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
+    label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
 ---
 
 Harry Truman was President of the United States when, per Eyes Wide Open, he lost faith in
@@ -60,6 +65,8 @@ with [[roscoe-hillenkoetter]] as (per the host) first director of the CIA.
   [[national-security-council|National Security Council]], the Secretary of Defense position, the
   US Air Force, and the [[central-intelligence-agency|CIA]] itself. *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 21:52-22:39, 22:57-24:27)*
 
+- Approved [[operation-paper]] in late 1950 on Joint Chiefs/OPC advice over DCI Smith's objection; NSC 342 was approved 3 March 1949. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 20:16-22:17)*
+
 ## Relationships
 
 - Dismissed [[william-donovan]] and installed [[roscoe-hillenkoetter]] in his place.
@@ -68,3 +75,4 @@ with [[roscoe-hillenkoetter]] as (per the host) first director of the CIA.
   [[operation-x]].
 - Created the [[central-intelligence-group]] in 1946; declared the [[truman-doctrine]] and signed
   the [[national-security-act-1947]] in 1947, creating the [[central-intelligence-agency]].
+- Approved [[operation-paper]].

@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
+    label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
 ---
 
 Peter Dale Scott is a researcher credited by Eyes Wide Open as the originator of the "deep
@@ -25,6 +27,9 @@ series on the history of the CIA.
 - Cited via his book *Deep Politics and the Death of JFK*, listed in the video's bibliography as
   a key background source for the series' framing.
 
+- His article "Operation Paper: The United States and Drugs in Thailand and Burma" is a main source for the ep. 6; it says Dean Acheson and the Thai/Burma embassies did not know of [[operation-paper]]. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 22:36-22:50)*
+
 ## Relationships
 
 - Originated the [[deep-state]] concept used throughout this Eyes Wide Open series.
+- See [[operation-paper]].

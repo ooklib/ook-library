@@ -40,6 +40,9 @@ relations:
   - relation: founded
     target: american-committee-on-united-europe
     note: "1948, as chairman"
+  - relation: associate_of
+    target: willis-bird
+    note: "told Bird to contact the future CIA; Thai ambassador 1953-54"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
@@ -55,6 +58,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
+    label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
 ---
 
 William "Wild Bill" Donovan was a WWI-hero-turned-Wall-Street-lawyer who became the first (and
@@ -129,6 +134,8 @@ administrator.
   year's election. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 54:43-55:03)*
 - Founded the [[american-committee-on-united-europe]] in 1948 as chairman while legally a private Wall Street lawyer but still working with the CIA, hiring [[allen-dulles]] and [[walter-bedell-smith]] and other ex-OSS figures. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 22:58-23:50)*
 
+- Per McCoy, an insider in Thai circles in the late 1940s; appointed US ambassador to Thailand 1953-54, during the withdrawal of [[li-mi]]'s force, which the host says raises questions. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 44:49-45:20)*
+
 ## Relationships
 
 - Directed the [[office-of-strategic-services]], appointed by [[franklin-d-roosevelt]].
@@ -148,3 +155,4 @@ administrator.
   [[operation-husky]]; met [[pope-pius-xii]]; allegedly funded the
   [[portella-della-ginestra-massacre-1947]] via the [[world-commerce-corporation]].
 - Founder/chairman of [[american-committee-on-united-europe]].
+- See [[willis-bird]], [[operation-paper]].

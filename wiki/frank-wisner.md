@@ -18,6 +18,9 @@ relations:
   - relation: trained_by
     target: george-white
     note: "personally trained as a future OSS agent by White at the New York OSS staging ground during WWII (per ewa/red-scare)"
+  - relation: participated_in
+    target: operation-paper
+    note: "OPC proposal pushed through over DCI Smith's objection"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
@@ -27,6 +30,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
+    label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
 ---
 
 Frank Wisner is introduced by Eyes Wide Open as "the head of covert operations in the future
@@ -60,6 +65,8 @@ Romania.
   agents during WWII, per author Jefferson Morley, alongside [[richard-helms]],
   [[william-colby]], and [[james-jesus-angleton]]. *([ewa/red-scare](../raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md) 50:12-50:38)*
 
+- Met Chennault at the George Washington Hotel, agreed to fund [[civil-air-transport]], and pushed [[operation-paper]] through; host says the OPC was created 1948 under NSC 10/2 (ASR: "NSC 102") and consolidated under the CIA hierarchy by [[walter-bedell-smith]] by 1952. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 14:28-19:03, 23:11-23:31)*
+
 ## Relationships
 
 - Trained by [[george-white]].
@@ -69,3 +76,4 @@ Romania.
   first operation abroad and went on to oversee [[operation-gladio]].
 - OSS station chief in Romania; his stay-behind fascist network, foreshadowing
   [[operation-gladio]], was activated and lost by the [[central-intelligence-group]].
+- See [[operation-paper]].

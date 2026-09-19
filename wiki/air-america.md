@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
+    label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
 ---
 
 Air America is described by Eyes Wide Open as "the CIA's fully fledged airline," which grew out
@@ -24,6 +26,8 @@ series reaches the Vietnam War (see `raw/index.md`'s later `ewa/laos-*` entries)
 
 - CAT "would eventually be reformed into Air America, the CIA['s] fully fledged airline that
   would ship narcotics and weapons throughout Indo-China during the Vietnam War." *([ewa/mafia-allies](../raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md) 12:46-13:00)*
+
+- Ep. 6 does not mention Air America by name; it covers its predecessor [[civil-air-transport]]'s role in [[operation-paper]] (CIA bought CAT in 1950). *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 18:30-18:56)*
 
 ## Relationships
 
