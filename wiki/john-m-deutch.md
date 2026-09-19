@@ -32,6 +32,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 John M. Deutch chaired the [[special-access-program-oversight-committee|SAPOC]] during
@@ -77,3 +79,7 @@ John M. Deutch chaired the [[special-access-program-oversight-committee|SAPOC]] 
   [[mitre-corporation]]'s board; succeeded by [[paul-kaminski]] as USD A&T; director of
   [[central-intelligence-agency]] and [[science-applications-international-corporation]];
   consultant to [[trw]] and [[los-alamos-national-laboratory]].
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- Gerb's retelling: as SRG chairman ("John Deutsch", ASR) he told [[thomas-wilson]] to drop the matter or lose promotion and one to two stars. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 18:14-18:36)*

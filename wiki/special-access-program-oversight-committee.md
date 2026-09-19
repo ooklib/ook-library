@@ -38,6 +38,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 The SAP Oversight Committee (SAPOC) and its Senior Review Group (SRG) govern the DoD Special
@@ -122,3 +124,7 @@ he ties to protecting UFO programs and to the same-year creation of the "committ
   [[science-applications-international-corporation]] ties; restructured by [[bill-perry]];
   investigated by [[thomas-wilson]]; distinct from (though possibly overlapping in membership
   with) the [[ufo-control-group]].
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- Gerb's retelling of the notes: after Wilson complained, the SAPOC Senior Review Group at the Pentagon sustained the contractor and denied access; SRG chairman [[john-m-deutch|Deutch]] told Wilson to drop it or face lost promotion, early retirement and loss of one to two stars. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 18:14-18:36)* The [[watch-committee]] said it struck a formal agreement with SAPOC after an audit nearly exposed the program. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 14:18-14:56)*

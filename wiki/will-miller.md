@@ -16,6 +16,8 @@ relations:
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Naval Reserve Commander Will Miller attended a 1997 meeting with
@@ -44,3 +46,9 @@ place). *([gerb/saic](../raw/gerb/saic.md) 40:33–40:50)*
 
 - Employed by [[science-applications-international-corporation]]; key figure in the
   [[wilson-davis-notes]]; connected [[thomas-wilson]] and [[steven-greer]].
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- Wrote to [[eric-davis]] and [[hal-puthoff]] offering contracted research help on crash-retrieval programs, claiming knowledge of a special team, two key officers, an ARV-knowledgeable senior officer and a list of civilian contractors; Gerb notes this parallels [[david-grush]]'s later claims. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 6:58-8:10)*
+- Attended the 1997 Pentagon meeting with [[steven-greer]], [[edgar-mitchell]] and Wilson; Wilson allegedly took it at his request. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 8:19-9:09, 26:34-26:59)*
+- Interviewed by Joe Murgia (ASR "Joe mgia") (per Gerb): defines "bigot list" as a list of SAP/USAP authorized individuals ([[bigot-list]]); says such programs routinely persist unknown; states his belief that the US has entire operational craft, incl. "transluminal velocity" craft, and probably did not develop the technology independently; skirts the letter to Davis. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 26:17-28:42)*

@@ -27,6 +27,8 @@ sources:
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Former deputy assistant secretary of defense for intelligence and a UFO-disclosure-advocate
@@ -56,3 +58,7 @@ figure Gerb repeatedly discusses as possibly "knowing more than he's saying."
 - SSCI colleague of [[mary-sturtevant]]; adviser to [[to-the-stars-academy]] alongside
   [[luis-elizondo]]; held the same Cheney-created assistant-SecDef-for-intelligence-policy
   position previously held by [[richard-haver]].
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- Former deputy assistant secretary of defense for intelligence under Clinton and George W. Bush; per Gerb, his 2022 website post "Unprecedented UAP legislation" cites the [[wilson-davis-notes]] as "lending credence" to reports of an official US program exploiting recovered non-human technology. Gerb says he spoke to Mellon, raising his confidence in the memo's authenticity. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 23:09-24:08, 30:35-30:43)*

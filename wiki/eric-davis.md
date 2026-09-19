@@ -16,6 +16,9 @@ relations:
   - relation: mission_partner_of
     target: james-t-ryder
     note: "served together on the Starfire Project science review team"
+  - relation: references_testimony_of
+    target: james-rigney
+    note: "notes leaked via Rigney from Edgar Mitchell estate"
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -25,6 +28,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Dr. Eric Davis is the physicist who transcribed the [[wilson-davis-notes|Wilson-Davis notes]],
@@ -80,3 +85,9 @@ the estate of the late astronaut [[edgar-mitchell|Edgar Mitchell]].
 ## Additional claims (jm/townsend-brown)
 
 - Conceded, while debunking the effect, that an Air Force study derived electrogravitic coupling from a 5D continuum. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:31:56-1:32:13)*
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- Gerb describes Davis as an astrophysicist with DoD ties, [[advanced-aerospace-threat-identification-program|AATIP]] contributor and chief science officer of EarthTech International; the 38 AATIP-commissioned studies (leaked by [[george-knapp]] in 2018, confirmed by [[black-vault]] via a 2019 FOIA) include Davis's papers on traversable wormholes/Stargates, negative-energy antigravity and quantum-vacuum energy extraction. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 4:06-5:08)*
+- In the notes he was investigating an embedded UFO crash-retrieval program in 2002 and sought out Wilson. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 5:46-6:17)*
+- Refuses to confirm or deny the notes, saying only that they leaked from [[edgar-mitchell]]'s estate and citing prosecution risk for clearance holders. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 20:16-21:59)*

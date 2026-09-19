@@ -79,6 +79,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -286,3 +288,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Additional claims (jm/townsend-brown)
 
 - Host: Lockheed's rumored [[aurora-astra]] may use Brown-derived propulsion; ET narrative shielded it; Lockheed lobbied through Rep. Mike Turner against the Schumer bill. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 41:27-44:59)*
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- In his first video, Gerb guessed Lockheed Martin was the unnamed "best" aerospace contractor coordinating the program in the [[wilson-davis-notes]], citing Grusch and [[harry-reid]]. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 12:33-12:58)*

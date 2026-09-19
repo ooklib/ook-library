@@ -14,6 +14,8 @@ relations:
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -34,3 +36,7 @@ Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting w
 
 - Connected to [[thomas-wilson]] and [[will-miller]]; accused [[albert-stubblebine]] of UFO
   program involvement; his 2001 disclosure document features [[denise-mckenzie]]'s testimony.
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- Per the notes, spoke to Wilson, [[will-miller]] and [[edgar-mitchell]] in a Pentagon conference room in 1997 about UFOs, Roswell and crashes. Gerb, while calling Greer's later CE5 work "nonsense," credits his late-1990s work, including bringing forward [[jonathan-weygandt]]. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 8:19-9:09)*

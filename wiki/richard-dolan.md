@@ -17,6 +17,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Author of *UFOs and the National Security State*, praised by
@@ -56,3 +58,7 @@ mechanisms behind the black-budget infrastructure. *([gerb/saic](../raw/gerb/sai
 - Author cited by [[katherine-austin-fitts]] on UFO legacy-program/black-budget history; source
   for Gerb's [[tonopah-test-range]] and [[area-6]] "Advanced Group Six" claims; investigator of
   the alleged [[zodiac-crash-retrieval-program]].
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- Hosted [[james-rigney]] on his podcast (first public naming of Rigney) and, per Gerb, has confirmed the [[wilson-davis-notes]]'s authenticity. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 3:50-3:59, 23:17-23:32)*

@@ -31,6 +31,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Luis Elizondo (ASR-transcribed "Lou Alzando"/"Luis Alzando") claimed to direct, work for, or
@@ -114,3 +116,7 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
   [[under-secretary-of-defense-for-intelligence-and-security]] alongside
   [[james-clapper]]; distrusted by [[uap-gerb]] as a probable legacy-program narrative-control
   figure.
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- Quoted (as "Lou Alzando", ASR) on the Wilson memo: "that thing isn't going to die... that is going to start a firestorm... DOD should have saw this coming." Gerb says Elizondo also once described AATIP discovering a DoD black program focused on UFOs from which it was denied access. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 24:16-24:33, 29:55-30:11)*

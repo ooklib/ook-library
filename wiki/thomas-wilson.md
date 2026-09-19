@@ -18,6 +18,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Vice Admiral Thomas Wilson, former DIA director, is the central figure (with
@@ -51,3 +53,10 @@ controversial whistleblower discussed earlier in the same video.
 - Central witness of the [[wilson-davis-notes]]; former [[defense-intelligence-agency]]
   director; directed to the
   [[under-secretary-of-defense-for-acquisition-and-sustainment]]'s special records group.
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- Described as a decorated vice admiral, DIA deputy director and director of the DIA 1999-2002 (the video says both deputy director and, elsewhere, director; Gerb's account is internally loose). Just retired when the 16 October 2002 car meeting with [[eric-davis]] allegedly took place. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 5:16-5:24, 5:46-6:01)*
+- Per the notes, in 1997 he did a 45-day investigation (April-June), was guided by [[h-marshall-ward|Gen. Ward]] and [[bill-perry]] to an OUSD (A&T) special records group, phoned program managers, then met the [[watch-committee]] in a vault and was denied read-in despite his statutory DIA oversight role. He was allegedly threatened via SRG chairman [[john-m-deutch|Deutch]] with lost promotion and early retirement, and in January 1998 [[jacques-gansler]] told him "UFOs are real." *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 9:49-19:13)*
+- Publicly denied the meeting to [[billy-cox]] ("it's all fiction"), admitting only the 1997 meeting with [[steven-greer]] and [[edgar-mitchell]]; Gerb argues the denial is expected given the notes' own terms. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 22:07-23:09)*
+- [[will-miller]] confirmed Wilson took the 1997 meeting at his request. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 26:34-26:59)*

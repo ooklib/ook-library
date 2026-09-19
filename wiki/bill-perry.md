@@ -22,6 +22,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 William (Bill) Perry, as Secretary of Defense, enacted 1994 reforms significantly strengthening
@@ -50,3 +52,7 @@ protecting UFO programs. *([gerb/mitre](../raw/gerb/mitre.md) 1:44:52–1:45:32)
 - Enacted the 1994 [[special-access-program-oversight-committee]] reforms, contemporaneous with
   the [[ufo-control-group]]'s formation; former [[science-applications-international-
   corporation]] board member; preceded [[john-m-deutch]] as SAPOC lead.
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- Named in the notes (with [[h-marshall-ward|Gen. Ward]]) as advising Wilson to search the OUSD (A&T) special records group, "organized in '94 by Perry himself." *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 9:49-10:29)*

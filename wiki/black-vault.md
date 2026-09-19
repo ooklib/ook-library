@@ -9,6 +9,8 @@ relations:
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 The Black Vault, a FOIA-focused transparency site/organization, received the list of 38
@@ -18,3 +20,7 @@ The Black Vault, a FOIA-focused transparency site/organization, received the lis
 ## Relationships
 
 - Obtained the [[dirds]] via FOIA.
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- John Greenwald's Black Vault confirmed the 38 AATIP studies via a 2019 FOIA request; it hosts Wilson quotes linked in the show notes. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 4:30-4:46)*

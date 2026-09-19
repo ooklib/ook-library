@@ -34,6 +34,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -195,3 +197,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 ## Additional claims (jm/townsend-brown)
 
 - Grush cited by host for Sarbacher and Oppenheimer setting up UFO secrecy and for ecosystem overlap with Manhattan; 1971 Australian memo also cited. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 2:42-2:56, 49:46-49:58, 58:21-58:33)*
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- Gerb says the notes' account of an embedded crash-retrieval program, nested compartments and a contractor is nearly identical to Grusch's, and that Will Miller's 2002 letter foreshadows Grusch and the 2024 NDAA. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 7:54-8:19, 11:44-12:18, 29:47-30:03)*

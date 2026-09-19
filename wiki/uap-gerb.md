@@ -18,6 +18,8 @@ relations:
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -49,3 +51,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
   [[eric-burlison]] throughout the video.
 - Cites a pseudonymous [[4chan-whistleblower-2023|2023 4chan poster]] as a partial corroborating
   source for the [[tic-tac-factory-uso]] claims.
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- Gerb describes this as his first video (2024-01-09), intending a half-dozen more on US reverse-engineering and crash-retrieval programs; he says he has spoken to [[christopher-mellon]]. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 29:47-30:43, 30:51-31:23)*

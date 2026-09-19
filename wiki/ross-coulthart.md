@@ -10,6 +10,8 @@ relations:
 sources:
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Ross Coulthart, Australian investigative journalist (host of *Need to Know* with Bryce Sable),
@@ -31,3 +33,7 @@ privately told him the 2004 Nimitz "tic tac" originated from Lockheed Skunk Work
 ## Relationships
 
 - Relayed [[david-fravor]]'s secondhand account of [[ben-rich]]'s Lockheed "tic tac" claim.
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- Per Gerb, one of those who has confirmed the [[wilson-davis-notes]]'s authenticity (in an interview alongside Bryce Zelcer and Lue Elizondo). *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 23:17-23:32, 24:08-24:16)*

@@ -13,6 +13,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 USMC Lance Corporal who, during 1997 testimony, described encountering a large egg-shaped UFO
@@ -46,3 +48,7 @@ program). *([gerb/nro](../raw/gerb/nro.md) 1:12:23–1:13:05)*
 - 1997 Peru crash-retrieval witness; testimony linked by Gerb to
   [[doe-nuclear-emergency-support-team]] and [[160th-special-operations-aviation-regiment]]
   involvement.
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- Gerb mentions "Marine Lance Corporal Jonathan Wan" (ASR of Weygandt) and his sighting of a crashed UFO in Peru in 1997 as work [[steven-greer]] brought forward. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 8:46-9:00)*

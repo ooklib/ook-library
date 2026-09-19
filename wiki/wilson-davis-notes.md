@@ -15,6 +15,11 @@ relations:
     target: special-access-program-oversight-committee
   - relation: references_testimony_of
     target: will-miller
+  - relation: references_testimony_of
+    target: james-rigney
+    note: "leaked via Edgar Mitchell estate"
+  - relation: references_testimony_of
+    target: watch-committee
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -26,6 +31,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 The Wilson-Davis notes are disputed but (per Gerb) "highly likely accurate" notes transcribed
@@ -136,3 +143,31 @@ contractor [[eg-and-g|EG&G]] in Nevada. *([gerb/saic](../raw/gerb/saic.md) 34:39
   [[science-applications-international-corporation|SAIC]] as his leading candidate; its "zero
   budget" finding is treated in Vol. 2 as corroborating
   [[content-only-special-access-program|content-only SAP]] theory.
+
+## Claims (from "The Wilson Davis Memo" - Gerb's first video)
+
+Gerb's introductory documentary walks through the 15-page notes line by line. All content is Gerb's retelling of the notes and is unverified.
+
+**Provenance.** The notes leaked in 2018 from the estate of Edgar Mitchell via [[james-rigney]]. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 0:00-0:38, 1:02-1:50)* Davis "hops in the car" of Wilson on 16 October 2002, just after Wilson retired as DIA deputy director. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 5:46-6:01)* (Gerb's video says deputy director; other Gerb videos and the wiki call Wilson DIA director 1999-2002.) *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 5:16-5:24)*
+
+**Meeting content.**
+- Wilson raises [[oke-shannon]], who asked Wilson to speak to Davis about what Davis told Cdr. [[will-miller]] about crashed-and-retrieved UFOs. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 6:17-6:49)* Miller had written to Davis and [[hal-puthoff]] offering contractual research help on crash-retrieval programs, claiming knowledge of a special team and two key officers, a senior officer with firsthand ARV ("alien reproduction vehicle") knowledge, and a list of civilian USG contractors knowledgeable about "alien derived technologies, crashes, landings and associated events." *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 7:06-8:10)* Gerb guesses program names such as Moondust, Blue Fly or [[zodiac-crash-retrieval-program|Zodiac]] but defers that. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 7:22-7:37)*
+- [[steven-greer]] spoke to Wilson, Miller and Edgar Mitchell in a Pentagon conference room in 1997 about UFOs, Roswell and crashed UFOs; Greer had also brought forward [[jonathan-weygandt]] (Peru 1997 crash sighting). After Miller and Wilson spoke privately, Wilson was intrigued. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 8:19-9:09)*
+- Wilson demands privacy: Davis must deny the meeting and never pursue it without clearance ("too risky because of security violation just by mentioning it... never seen anything like this program in the black programs community"). *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 9:09-9:41)*
+- April-June 1997: 45-day investigation; [[h-marshall-ward|Gen. Ward]] and [[bill-perry]] point him to a special project records group in the OUSD (A&T). *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 9:49-10:29)* Wilson called seven program managers; four referred to the same program run by the [[watch-committee]]; no budget info was listed, "purposefully kept secret for audit avoidance." *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 10:57-12:26)*
+- Wilson would not name the compartment ("core secret") but the coordinating contractor is an aerospace technology contractor, "the best one of them"; Gerb guesses [[lockheed-martin]] (citing Grusch and [[harry-reid]]) - a guess he later revised toward [[science-applications-international-corporation|SAIC]]. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 12:33-12:50)*
+- End of May 1997: three calls, including a conference call; Wilson demanded a formal briefing, flew out to the vault meeting and was denied read-in; shown the 1990-1993 [[bigot-list]]. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 13:07-16:14)*
+- The committee said the program was a reverse-engineering program on "something recovered in the past"; not Soviet/Chinese technology; they had an intact craft they believed could fly; it was "not of this Earth, not made by human hands"; progress was "agonizingly slow," isolated (own facility, cleared personnel only), with 400-800 total workers since inception. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 16:21-17:57)*
+- Wilson complained to the SAPOC Senior Review Group; SRG chairman [[john-m-deutch|John Deutch]] (Gerb's wording) told him to drop it or lose DIA director promotion, face early retirement and lose one to two stars. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 18:14-18:36)*
+- June-December 1997: Perry-era officials replaced by [[jacques-gansler]] and a Brig. Gen. Ward; in January 1998 Gansler told Wilson "UFOs are real, so-called alien abductions not real." *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 18:46-19:13)* Davis ends by promising to keep the meeting private. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 19:20-19:28)*
+
+**Authenticity discussion (Gerb).**
+- [[eric-davis]] declined to confirm or deny (Gerb shows a clip from a Greer interview, about 20:16-21:59), citing Justice Department prosecution of clearance holders. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 20:16-21:59)*
+- Wilson denied it to [[billy-cox]] ("it's all fiction"). *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 22:07-22:45)*
+- Attestations of authenticity per Gerb: [[christopher-mellon]] (2022 website post; "provided specific information lending credence"), [[ross-coulthart]], [[richard-dolan]], [[luis-elizondo]] (Gerb: "that thing isn't going to die"), and [[edgar-mitchell]] (Larry King Live, 2008: a vice admiral found the black-budget funding source, then was told he had no need to know). *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 23:09-24:56)* The memo was entered into the Congressional Record in 2022. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 26:08-26:17)*
+- Will Miller, interviewed by Joe Murgia (ASR "Joe mgia"), confirmed the 1997 meeting with Mitchell, Wilson, Greer and Dia Hughes (Gerb's ASR spelling), that Wilson took it at Miller's request, but skirted the letter to Davis; he said such programs routinely stay unknown; he believes the US has entire operational craft and "transluminal velocity" craft, and the technology was probably not developed independently. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 26:17-28:42)*
+- Gerb's conclusion: the memo is real, mirroring [[david-grush]]'s account and Elizondo's claim of AATIP discovering a DoD program it was denied access to; Gerb says he spoke with Mellon about it. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 29:47-30:43)*
+
+## Relationships (added)
+
+- Leaked by [[james-rigney]] from [[edgar-mitchell]]'s estate; attested by [[christopher-mellon]], [[ross-coulthart]], [[richard-dolan]], [[luis-elizondo]]; denied by [[thomas-wilson]] to [[billy-cox]]; features [[watch-committee]] and [[bigot-list]] concepts.

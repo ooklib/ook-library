@@ -15,6 +15,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
+    label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Oke Shannon, former manager of special projects at [[los-alamos-national-laboratory|Los
@@ -44,3 +46,7 @@ facility, supervised by [[john-b-alexander|Col. John B. Alexander]].
 ## Additional claims (jm/townsend-brown)
 
 - Said an antigravity device would be built on Ferris Williams' 5D theory; Williams was his colleague at Los Alamos. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:30:28-1:30:46)*
+
+## Claims (from "The Wilson Davis Memo" video)
+
+- In the notes, Wilson raises Shannon first and says Shannon asked him to talk to [[eric-davis]]. Gerb says Shannon later confirmed the memo's authenticity in a Jay Anderson Project Unity interview and describes him as former manager of special projects at Los Alamos and former DOE nuclear physicist. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 6:17-6:49)*
