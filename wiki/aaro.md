@@ -26,6 +26,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
+    label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
 ---
 
 The DoD's All-domain Anomaly Resolution Office ("Arrow" in the ASR transcript), the official
@@ -110,3 +112,7 @@ and [[condon-committee]]. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:09:03â€
   [[tim-phillips-aaro]], who is now connected to [[mitre-corporation]] via his company Nonlinear
   Solutions; contracted [[sancorp]]; treated by Gerb as the modern continuation of
   [[project-blue-book]] and the [[robertson-panel-1953]] disinformation lineage.
+
+## Additional claims (gerb/nukes)
+
+- Gerb says the [[jacobs-vandenberg-ufo-incident-1964]] was reported to AARO director [[sean-kirkpatrick]] in 2023 with sworn testimony. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 7:50-8:07)*

@@ -1,0 +1,46 @@
+---
+title: UFO-Nuclear Connection
+kind: concept
+aliases: [UFOs and nuclear weapons, nuclear UFO incidents]
+tags: [ufo-nuclear, thesis, cold-war]
+relations:
+  - relation: alleged_by
+    target: uap-gerb
+    note: "framing of the video"
+  - relation: part_of
+    target: ufo-legacy-programs
+    note: "context for AEC/DOE/NRC custody claims"
+  - relation: references_testimony_of
+    target: robert-jacobs
+  - relation: references_testimony_of
+    target: robert-salas
+  - relation: references_testimony_of
+    target: david-grush
+    note: "confirmed Malmstrom per Gerb"
+sources:
+  - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
+    label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
+---
+
+# UFO-Nuclear Connection
+
+The thesis, presented by [[uap-gerb]] in "UFOs and Nuclear Weapons - A Fascinating Connection", that UFOs/UAP have repeatedly tampered with nuclear weapons and facilities during the Cold War, and that this points to a non-human interest in humanity's harnessing of the atom. Gerb's chosen cases are the [[jacobs-vandenberg-ufo-incident-1964]], the [[malmstrom-minuteman-incident-1967]], the [[indian-point-ufo-incident-1984]], a 1975 NORAD log, and a Cooper Nuclear Station file. All are attributed claims; the video calls the witness credibility high because of sworn affidavits, which the wiki records as Gerb's assessment.
+
+## Claims
+
+- Gerb claims that "to UFOs nuclear weapons appear to be a light switch", something that can be switched on and off without launch codes or key access. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 0:48)*
+- Gerb says a 1977 FOIA release of a NORAD log showed 33 UFO-nuclear incidents over a two-week period in 1975, which he says contradicts the [[project-blue-book]] 1969 conclusion given to Congress that UFOs were no national-security threat. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 11:16-11:39)*
+- Gerb says UFOs are interested in nuclear power as well as weapons ([[indian-point-ufo-incident-1984]]). *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 11:39-11:47)*
+- Gerb links the [[atomic-energy-commission]] and its successors ([[department-of-energy]], [[nuclear-regulatory-commission]]) to UFO records handling and asks how active the NRC is in the cover-up, deferring it to a future video. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 12:33-13:16)*
+- Gerb says there are more known cases than those covered and floats a part two. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 13:23-13:31)*
+
+## Why? (speculation)
+
+- Gerb's own guess, flagged as opinion: harnessing fission and fusion is a gate of the [[great-filter-hypothesis]], and non-human observers may be watching to see whether humanity survives it. An alternative he raises in the description is that the intelligence fears human weapons being used against it. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 13:48-14:28, 15:23-16:10)*
+- Gerb notes that Roswell (1947, see [[roswell-incident-1947]]) followed the first atomic tests (he says 1942-44, and Hiroshima/Nagasaki in 1945) and argues there was a "heavy pickup" of interest afterwards, while conceding UFOs were here before. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 15:31-15:54)*
+
+## Relationships
+
+- Part of the wider [[ufo-legacy-programs]] narrative via AEC/DOE custody claims.
+- Cases: [[jacobs-vandenberg-ufo-incident-1964]], [[malmstrom-minuteman-incident-1967]], [[indian-point-ufo-incident-1984]].
+

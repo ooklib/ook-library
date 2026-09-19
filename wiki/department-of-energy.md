@@ -26,6 +26,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
+    label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
 ---
 
 The Department of Energy (created 1977, successor via ERDA to the
@@ -74,3 +76,7 @@ authority that evades unilateral oversight from the standard US classification s
 ## Additional claims (jm/malmgren)
 
 - [[harald-malmgren]] says DOE-run national labs, successor to the AEC, hold the country's most advanced science (e.g. filtration research at Oak Ridge, told to him by Senator Howard Baker's contacts) with no mechanism to commercialise it. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 2:50:39-2:53:46)*
+
+## Additional claims (gerb/nukes)
+
+- Gerb says the DOE and [[nuclear-regulatory-commission]] both descend from the [[atomic-energy-commission]], and that the DOE has probably had an active hand in crash retrieval and reverse engineering. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 12:33-12:49)*

@@ -20,6 +20,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
+    label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
 ---
 
 The historical Air Force UFO-investigation project, referenced as a comparison point: AARO was
@@ -65,3 +67,7 @@ became **Project Grudge** in 1949 (running until 1951), superseded by **Project 
 ## Additional claims (jm/townsend-brown)
 
 - Called the public-facing committee; in [[hartford-ufo-crash-1960]] Brown allegedly front-ran it. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:14:52-1:14:58, 1:17:43-1:18:17)*
+
+## Additional claims (gerb/nukes)
+
+- Gerb says a 1977 FOIA release of a NORAD log showing 33 UFO-nuclear incidents in a two-week span of 1975 contradicts Blue Book's 1969 conclusion to Congress that UFOs were no national-security threat. See [[ufo-nuclear-connection]]. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 11:16-11:39)*

@@ -46,6 +46,8 @@ sources:
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
+    label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
 ---
 
 Described as "disgraced" former director of [[aaro]] (All-domain Anomaly Resolution Office).
@@ -147,3 +149,7 @@ the point where he was first briefed or retroactively briefed into UFO legacy-pr
   [[mitre-corporation]]) → [[oak-ridge-national-laboratory]]. Close associate of
   [[ronald-moultrie]]; actually selected for AARO by [[david-m-taylor]]; originated the disputed
   [[yankee-blue]] narrative.
+
+## Additional claims (gerb/nukes)
+
+- Per Gerb, [[robert-jacobs]] testified under oath to AARO and Kirkpatrick on 10 Feb 2023 about the [[jacobs-vandenberg-ufo-incident-1964]]. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 7:50-8:07)*

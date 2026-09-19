@@ -38,6 +38,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
+    label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -132,3 +134,7 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
 - Alleged subject of [[battelle-memorial-institute]] shape-memory-alloy research.
 - Central to [[j-andrew-kissner]]'s testimony; alleged AEC-lab custody at
   [[sandia-national-laboratories]] per Kner and the disputed IPU documents.
+
+## Additional claims (gerb/nukes)
+
+- Gerb argues Roswell followed soon after the first atomic tests and Hiroshima/Nagasaki, suggesting non-human interest spiked once humanity harnessed the atom ([[ufo-nuclear-connection]]). *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 15:31-15:54)*

@@ -36,6 +36,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
+    label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -201,3 +203,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 ## Claims (from "The Wilson Davis Memo" video)
 
 - Gerb says the notes' account of an embedded crash-retrieval program, nested compartments and a contractor is nearly identical to Grusch's, and that Will Miller's 2002 letter foreshadows Grusch and the 2024 NDAA. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 7:54-8:19, 11:44-12:18, 29:47-30:03)*
+
+## Additional claims (gerb/nukes)
+
+- Gerb says Grusch directly confirmed the [[malmstrom-minuteman-incident-1967]] in his [[ross-coulthart]] interview and a 2023 Newsweek article. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 8:17-8:25)*

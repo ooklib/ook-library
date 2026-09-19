@@ -12,6 +12,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
+    label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
 ---
 
 Ross Coulthart, Australian investigative journalist (host of *Need to Know* with Bryce Sable),
@@ -37,3 +39,7 @@ privately told him the 2004 Nimitz "tic tac" originated from Lockheed Skunk Work
 ## Claims (from "The Wilson Davis Memo" video)
 
 - Per Gerb, one of those who has confirmed the [[wilson-davis-notes]]'s authenticity (in an interview alongside Bryce Zelcer and Lue Elizondo). *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 23:17-23:32, 24:08-24:16)*
+
+## Additional claims (gerb/nukes)
+
+- Gerb cites his NewsNation interview in which [[david-grush]] confirmed the [[malmstrom-minuteman-incident-1967]]. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 8:17-8:25)*
