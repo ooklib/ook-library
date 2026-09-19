@@ -56,6 +56,8 @@ sources:
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -187,3 +189,7 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda says Roswell may have been "exotic human technology" and notes Dornberger's presence at Wright Patterson. See [[levenda-nazi-saucer-lineage-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:14:20, 2:17:15, 2:17:38)*
+
+## Additional claims (gerb/corso)
+
+- Corso's Roswell claims: the [[roswell-file]], [[corso-fort-riley-ebe-sighting-1947]], [[corso-technology-seeding-claims]]; Gerb notes Corso mentions a second July 1947 San Augustine, NM crash and that he was not present at Roswell. Gerb recommends his own Roswell coverup videos and UFO Whistleblowers vol. 1, and names Walter Haut of the 509th as a comparable-witness. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 15:22-15:47, 51:47-52:10)*

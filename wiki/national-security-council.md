@@ -28,6 +28,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 The National Security Council historically housed the covert-activities oversight structure for
@@ -82,3 +84,7 @@ evolving into the "committee of 27" [[ufo-control-group]] formed in 1994. *([ger
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb repeatedly asserts the NSC "covert activities oversight structure" (NSC 10/2, 5412 Committee, 303 Committee) as the golden-era control group and the seat of the UFO portfolio until 1978/1994; [[immaculate-constellation]] is described as originating within the NSC (2017). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 14:31-14:50, 32:12-32:28, 1:15:15-1:15:31, 2:18:41-2:19:01)*
+
+## Additional claims (gerb/corso)
+
+- Corso's contested NSC role and Gerb's rebuttal ([[corso-affidavit-1998]], [[operations-coordinating-board]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 8:22-9:07, 1:13:51-1:14:14)*

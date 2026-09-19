@@ -20,6 +20,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Gerb describes Doug Wolf as "a true program loyalist whose defense of legacy program security
@@ -49,3 +51,7 @@ rivals that of even members of the DARPA SID." *([gerb/nro](../raw/gerb/nro.md)
 - Career spans [[cia-directorate-of-science-and-technology]] (founding
   [[cia-office-of-global-access]]), [[deputy-director-of-national-intelligence-for-acquisition-
   technology-and-facilities]], and [[national-reconnaissance-office]].
+
+## Additional claims (gerb/corso)
+
+- Cited in the Corso video for helping create the [[cia-office-of-global-access]] in 2003, in context of [[ufo-working-group-1987]]. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:06:17-1:06:33)*

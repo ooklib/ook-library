@@ -20,6 +20,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 The Defense Intelligence Agency, one of the US's "big five" intelligence agencies, is where
@@ -39,3 +41,7 @@ served as vice director. Sponsored [[project-stargate]] under the codename "Cent
 ## Claims (from "The Wilson Davis Memo" video)
 
 - Per the notes, DIA deputy director [[thomas-wilson]] would normally have oversight of all acknowledged and unacknowledged SAPs, yet was denied read-in to an alleged UFO crash-retrieval program by the [[watch-committee]]. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 15:18-15:33, 19:37-20:09)*
+
+## Additional claims (gerb/corso)
+
+- Per Corso, [[harold-e-phillips]] of DIA chaired the 1987 [[ufo-working-group-1987]]. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:04:40-1:05:05)*

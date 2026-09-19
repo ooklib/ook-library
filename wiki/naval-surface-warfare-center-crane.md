@@ -24,6 +24,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 NSWC Crane, at the Naval Support Activity in Crane, Indiana, is a site Gerb says he has covered
@@ -77,3 +79,7 @@ extensively in prior work. *([gerb/mitre](../raw/gerb/mitre.md) 1:13:04–1:13:1
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Crane is where Gerb places SAIC's "off-world technologies division" (via Randy Anderson) and part of the MITRE-era legacy ecosystem (NSWC, NUWC Keyport under NAVSEA/NAVAIR). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:38:05-1:39:39)*
+
+## Additional claims (gerb/corso)
+
+- Corso video: Gerb cites its off-world technologies division as evidence the Navy is deep in legacy programs, unmentioned in Corso's [[ufo-working-group-1987]]. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:05:22-1:05:44)*

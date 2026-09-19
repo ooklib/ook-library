@@ -13,6 +13,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Bell Labs (AT&T) was the trusted industrial partner Truman turned to in 1949 to help found
@@ -37,3 +39,7 @@ Bell Labs (AT&T) was the trusted industrial partner Truman turned to in 1949 to 
 ## Additional claims (jm/malmgren)
 
 - [[harald-malmgren]] says he was an AT&T witness before Judge Greene arguing Bell Labs was where "all our really advanced science" is; asked about Corso's claim that Roswell material went to Bell Labs (lasers, transistors, Kevlar) he says "could be" but has no evidence. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 2:54:18-2:55:37, 2:55:37-2:56:16)*
+
+## Additional claims (gerb/corso)
+
+- Corso names Bell Labs as a key contractor of the [[army-foreign-technology-division]]; he credits Roswell material for the laser (1960), transistor/integrated-circuit work and fiber optics ([[corso-technology-seeding-claims]]). Gerb notes Bell was under shared ownership of Western Electric and AT&T from 1925, and AT&T managed [[sandia-national-laboratories]] from 1949 by Truman's mandate. A Stringfield source from Bell Labs described a UFO retrieval with headband transceivers ([[leonard-stringfield]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 25:38-25:55, 30:29-30:46)*

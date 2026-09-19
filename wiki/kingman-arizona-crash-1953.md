@@ -26,6 +26,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Cited by Gerb as an example of "Southwest systems" used to intake recovered craft around this
@@ -71,3 +73,7 @@ period, associated with [[sandia-national-laboratories|Sandia]]. *([gerb/mitre](
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb says Kingman "rivals both Roswell and Magenta" in impact because it lets one trace the personnel and custody of wreckage into the 21st century: Stansel's 21 May 1953 affidavit during Operation Upshot-Knothole; [[edward-dahl]] (Project Alberta, Stanford/SRI, then TRW, absorbed by [[northrop-grumman]] Mission Systems) as coordinator; [[eric-henry-wang]] (ARDC/Wright Air Development Center special studies, moved to Sandia 1956) as scientific lead. Gerb also has "credible rumors" and indirect confirmation from [[hal-puthoff]] that the [[operation-kona-blue]] materials were Kingman wreckage, and that there may have been three Kingman crashes. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 40:18-48:00, 2:11:02-2:11:35)*
+
+## Additional claims (gerb/corso)
+
+- Gerb cites the Kingman and Kecksburg retrievals as parallels to the truck convoys in Corso's account ([[corso-fort-riley-ebe-sighting-1947]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 18:36-18:52)*

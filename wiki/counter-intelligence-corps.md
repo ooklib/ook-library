@@ -17,6 +17,8 @@ sources:
     label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 US Army counterintelligence and constabulary-style unit. In [[eyes-wide-open]]'s `ewa/shackley` it is [[ted-shackley]]'s first intelligence employer (1945-47, 970th Detachment, occupied Germany) and the vehicle through which the host speculates he touched Nazi-scientist recovery and the origins of the [[gehlen-organization]] commando pool.
@@ -41,3 +43,7 @@ US Army counterintelligence and constabulary-style unit. In [[eyes-wide-open]]'s
 ## Additional claims (jm/kissinger)
 
 - [[jesse-michels]]: the CIC ("essentially the Army's FBI") secured Nazi technology, hunted war criminals, was embedded in Manhattan Project-related operations and is "frequently mentioned in accounts of the Roswell crash and Majestic 12 leaks". [[henry-kissinger]] was recruited into it; CIC agents allegedly interrogated [[victor-schauberger]] for nine months. [[philip-j-corso]] was also a former CIC agent. Michels says leaked MJ-12 memos reference CIC involvement in UFO investigations, including Roswell. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 9:10, 9:19, 9:26, 9:35, 11:48, 12:16, 19:08, 38:12, 38:21, 38:28)*
+
+## Additional claims (gerb/corso)
+
+- Corso was chief of the CIC in Rome at the end of WWII ([[philip-j-corso]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 7:16-7:33)*

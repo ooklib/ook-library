@@ -23,6 +23,8 @@ sources:
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Chris Sharp, a journalist with the Liberation Times, is cited by Gerb for his article "UFO
@@ -61,3 +63,7 @@ reported sources describing a vehicle or vehicles of unknown origin stored at
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb cites a recent Sharp article on Magenta and Nazi UFO programs, including Nazi collaboration with "Nordic" beings and a claim that Roswell was man-made, which Gerb rejects. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:30:51-2:32:11)*
+
+## Additional claims (gerb/corso)
+
+- Credited by Gerb for the analysis of the OGA/JSOC crash-retrieval role used in [[ufo-working-group-1987]]. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:06:01-1:06:33, 1:29:44-1:29:59)*

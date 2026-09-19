@@ -22,6 +22,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Home of the 412th Test Wing and an MRTFB (Major Range and Test Facility Base), listed by Gerb
@@ -74,3 +76,7 @@ ranges. *([gerb/mitre](../raw/gerb/mitre.md) 52:21–52:55)*
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb repeats that Edwards (412th Test Wing MRTFB) is the test-and-evaluation hub for piloting NHI craft, ARVs and derivative airframes, and dates the "go public" campaign to the hidden wing there ([[air-force-go-public-campaign]]). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:44:20-1:44:52, 2:05:54-2:06:30)*
+
+## Additional claims (gerb/corso)
+
+- Corso video: the "Ed" witness alleged a joint reverse-engineering group between Nellis, Area 51 and Edwards and siphoning of RDT&E funds ([[corso-technology-seeding-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 27:32-28:06)*

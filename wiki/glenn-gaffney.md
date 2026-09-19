@@ -23,6 +23,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 A recurring "Rogues Gallery" figure on Gerb's channel: [[cia-directorate-of-science-and-
@@ -59,3 +61,7 @@ UFO-materials transfer. *([gerb/nro](../raw/gerb/nro.md) 2:44:52–2:45:09)*
 ## Additional claims (gerb/timeline)
 
 - Timeline video: CIA DS&T deputy director who allegedly thwarted [[operation-kona-blue]]; Gerb theorizes the CIA would not tolerate an uninitiated contractor holding UFO materials outside its control. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:08:35-2:08:49, 2:10:07-2:10:41)*
+
+## Additional claims (gerb/corso)
+
+- Cited in the Corso video for stopping Lockheed Martin divesting UAP material to AAWSAP in 2008, in context of [[ufo-working-group-1987]]. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:06:01-1:06:17)*

@@ -10,6 +10,8 @@ relations:
 sources:
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Honeywell International, an American publicly traded multinational conglomerate with aerospace
@@ -35,3 +37,7 @@ with UFO legacy programs. *([gerb/sandia](../raw/gerb/sandia.md) 53:05–53:38)*
 
 - Administers [[sandia-national-laboratories]] via NTESS, 2017–present, succeeding
   [[lockheed-martin]]/Martin Marietta.
+
+## Additional claims (gerb/corso)
+
+- Received divisions of [[sperry-rand]] after 1986. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 38:03-38:19)*

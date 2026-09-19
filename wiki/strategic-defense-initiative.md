@@ -44,6 +44,8 @@ sources:
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 President Ronald Reagan's 1983 Strategic Defense Initiative (SDI, "Star Wars") was a proposed
@@ -129,3 +131,7 @@ programs.
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says SDI was a black-budget front, and that Colonel Homeman told him the alien threat was added to sell SDI to Reagan though "we knew that was false". *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:13:59-1:14:19, 3:18:26-3:19:09)*
+
+## Additional claims (gerb/corso)
+
+- Corso lists anti-missile missiles for Star Wars among the benefits of UFO technology exploration; Gerb repeats his view that SDI had a secondary function to fund UAP programs and act offensively against UAP, and that Eisenhower set the program for UAP offensive action ([[corso-technology-seeding-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 38:19-38:51)*

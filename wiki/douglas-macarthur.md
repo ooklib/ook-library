@@ -46,6 +46,8 @@ sources:
     label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 General Douglas MacArthur was Supreme Commander of Allied forces in the Pacific in WWII and chose [[charles-willoughby]] as his intelligence chief. Willoughby 1 (Dec 19 2025) touches him only briefly; the MacArthur-focused episode Willoughby 2 (Dec 25 2025, "50 Years of Empire Building in the Pacific") supplies the family, career and WWII Pacific detail below, all as [[eyes-wide-open]]'s account and opinion rather than verified fact.
@@ -100,3 +102,7 @@ Source: "The MacArthur Legacy: 50 Years of Empire Building in the Pacific - Will
 ## Additional claims (jm/malmgren)
 
 - Host: MacArthur and his intelligence staff were Knights of Malta, displayed interest in "interplanetary war", and MacArthur told West Point cadets in 1955 that "the next war will be an interplanetary war" (quoted by the host). *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:40:08-1:40:35)**)*
+
+## Additional claims (gerb/corso)
+
+- Corso served under him in Korea; MacArthur is also named as a Sperry Rand director in Trudeau's memoirs ([[sperry-rand]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 7:48-7:57, 38:03-38:11)*

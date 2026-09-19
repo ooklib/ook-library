@@ -22,6 +22,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Major General Albert Stubblebine founded the US Army Intelligence and Security Command
@@ -55,3 +57,7 @@ Support Activity (ISA) special forces unit. *([gerb/saic](../raw/gerb/saic.md) 1
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says that in 1992 "General Stubble" (Stubblebine) offered him $2 billion to join his "little cabal", that he witnessed it via his wife, and that Stubblebine's UFO work dates to the 1960s. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 24:52-25:41, 43:38-43:57)*
+
+## Additional claims (gerb/corso)
+
+- Per Corso, the INSCOM founder funded the [[ufo-working-group-1987]]; Gerb repeats claims he tried to pay off Greer and founded NSA's Men in Black team. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:06:33-1:07:14)*

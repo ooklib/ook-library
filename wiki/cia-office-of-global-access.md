@@ -27,6 +27,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 The CIA's Office of Global Access, established under the [[cia-directorate-of-science-and-
@@ -62,3 +64,7 @@ Command]]'s muscle for foreign UFO crash retrievals. *([gerb/saic](../raw/gerb/s
   account) or founded by [[doug-wolf]] in 2003 (per another); works with [[jsoc]],
   [[national-reconnaissance-office]], and [[national-underwater-reconnaissance-office]] on
   alleged foreign crash retrievals; directed by [[mark-moynihan]].
+
+## Additional claims (gerb/corso)
+
+- Corso video: created 2003 (with Doug Wolf) and, per Chris Sharp, a logistics coordinator with JSOC for UAP crash retrieval; the same year the ISA moved to JSOC ([[ufo-working-group-1987]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:06:17-1:06:33, 1:29:35-1:30:21)*

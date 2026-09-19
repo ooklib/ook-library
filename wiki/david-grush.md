@@ -51,6 +51,8 @@ sources:
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -240,3 +242,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says he met Grusch while undercover, that his bosses set it up, that Grusch is honest but second-hand and was attached to [[luis-elizondo]], and criticizes the House Oversight hearings for lacking a first-hand witness. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 26:19-27:53)*
+
+## Additional claims (gerb/corso)
+
+- Gerb compares Corso's secrecy, competitive-edge motive and rival-country programs to Grusch's statements ([[corso-technology-seeding-claims]], [[soviet-parallel-tuo-exploitation-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 34:54-35:24, 56:57-57:30)*

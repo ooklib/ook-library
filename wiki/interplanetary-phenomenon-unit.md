@@ -25,6 +25,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 The Interplanetary Phenomenon Unit (IPU) is a disputed but partially Army-corroborated 1940s–1950s
@@ -88,3 +90,7 @@ alleged "Manhattan Project 2.0" onion. *([gerb/secrecy_1](../raw/gerb/secrecy_1.
 ## Additional claims (rc/mj12)
 
 - [[jed-davis]] (Cruickshank agrees): a 5 March 1942 memo by George Marshall created the IPU within G-2, and the Army admitted its existence in the 1980s via FOIA; Davis places a Marshall memo to FDR after the Battle of Los Angeles (Feb 1942) saying Navy and Army had each recovered a craft, and says the late-July 1947 IPU report mentions Paperclip scientists at Los Alamos. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 17:17-18:26, 38:06-38:21)*
+
+## Additional claims (gerb/corso)
+
+- Gerb compares the untraceable [[army-foreign-technology-division]] to the IPU, known only through FOIA and institutional memory. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:01:44-1:02:01)*

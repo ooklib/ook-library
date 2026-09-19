@@ -15,6 +15,8 @@ sources:
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 The Black Vault, a FOIA-focused transparency site/organization, received the list of 38
@@ -36,3 +38,7 @@ The Black Vault, a FOIA-focused transparency site/organization, received the lis
 ## Additional claims (gerb/magenta)
 
 - Gerb credits the Black Vault for transcribing the handwritten 1930s Italian sighting note and for Magenta case-file coverage. *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 15:57-16:04)*
+
+## Additional claims (gerb/corso)
+
+- July 2024 release of FBI documents on Corso by John Greenewald ([[corso-criticism-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:14:39-1:15:03)*

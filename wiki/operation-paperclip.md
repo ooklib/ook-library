@@ -26,6 +26,8 @@ sources:
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Operation Paperclip is described by [[eyes-wide-open]] in chapter 5 of [[road-to-dallas]] as "the oft-discussed US counterintelligence corps directed program that sought to smuggle out German rocket scientists in the immediate post-war period and to install them in positions in the nascent military-industrial complex and eventually at NASA." *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 19:38-19:56)* This page is a light stub scoped to that video; other wiki pages ([[wernher-von-braun]], [[counter-intelligence-corps]], [[hans-kammler]]) discuss Paperclip from other sources.
@@ -67,3 +69,7 @@ Operation Paperclip is described by [[eyes-wide-open]] in chapter 5 of [[road-to
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda says the Soviets ran a larger version (3,000+ scientists) and that US trust in Nazi scientists was ideologically costly; see [[levenda-nazi-saucer-lineage-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:09:29, 2:22:47, 2:23:46)*
+
+## Additional claims (gerb/corso)
+
+- Corso says scientists from Paperclip were among those brought into the Army foreign technology division team ([[army-foreign-technology-division]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 46:44-47:06)*

@@ -17,6 +17,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Former USAF Master Sergeant Edgar Fuche (the ASR transcripts render this variously as "Fuchs" and
@@ -68,3 +70,7 @@ could not provide material evidence for its existence. *([gerb/saic](../raw/gerb
 ## Additional claims (gerb/dugway)
 
 - His 1998 International UFO Congress presentation is cited for a source saying that from 1992 the Air Force ran a contingency plan relocating exotic platforms from Area 51 to Utah, Colorado, Alaska, Greenland, Diego Garcia and S-4; Gerb also notes his TR-3B pilots came from the Edwards test pilot school (412th), used as a parallel for joint MRTFB programs at [[dugway-proving-ground]]. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 16:31, 16:40, 16:48, 21:44, 22:10, 22:19, 22:27)*)*
+
+## Additional claims (gerb/corso)
+
+- Corso video: Fuche's claim that Livermore and Sandia reverse-engineered the TR3B propulsion is cited alongside [[sandia-national-laboratories]] ([[corso-technology-seeding-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 29:58-30:14)*

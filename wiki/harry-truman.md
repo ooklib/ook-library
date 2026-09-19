@@ -40,6 +40,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Harry Truman was President of the United States when, per Eyes Wide Open, he lost faith in
@@ -104,3 +106,7 @@ with [[roscoe-hillenkoetter]] as (per the host) first director of the CIA.
 ## Additional claims (rc/mj12)
 
 - [[geoffrey-cruickshank]] and [[jed-davis]]: Truman held a press conference 10 July 1947 and dismissed flying saucers as a "moon hoax"; hosted the Air Force chiefs on 8-9 July 1947 (officially for Air Force Day); read the [[twining-white-hot-report]] on 21 Sept 1947 per his diary (Cruickshank says the 20th) and wrote on the document on 24 Sept. Claims rest on disputed MJ-12 documents plus real diaries. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 36:08-36:53, 39:10-39:57, 40:31-45:25)*
+
+## Additional claims (gerb/corso)
+
+- Gave AT&T management of Sandia in 1949, per Gerb ([[sandia-national-laboratories]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 30:22-30:39)*

@@ -32,6 +32,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Lee Harvey Oswald is treated by [[eyes-wide-open]] only in his pre-assassination context: allegedly a Louisiana [[civil-air-patrol]] cadet under [[david-ferrie]] in 1955 alongside [[barry-seal]], and later a Marine posted at a top-secret U-2 spy plane base in Japan around 1957, "an unusual assignment for an allegedly mediocre soldier and pilot." *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 43:04-44:25)*
@@ -76,3 +78,7 @@ Lee Harvey Oswald is treated by [[eyes-wide-open]] only in his pre-assassination
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda's chain from a 1952-53 Maine seance through the [[arthur-young]] family to [[ruth-paine]], and his Maeterlinck "Alec" coincidence, are in [[council-of-nine-seance-claims]] and [[prescient-fiction-synchronicity-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 18:33, 1:24:33)*
+
+## Additional claims (gerb/corso)
+
+- Per FBI documents released in 2024, Corso was investigated for spreading CIA-sourced claims that Oswald was an FBI informant ([[corso-criticism-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:15:11-1:15:35)*

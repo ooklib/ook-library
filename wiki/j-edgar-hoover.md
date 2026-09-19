@@ -45,6 +45,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 J. Edgar Hoover was the first, long-time director of the
@@ -135,3 +137,7 @@ US foreign intelligence functions during the run-up to the CIA's creation.
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda says Hoover received teletyped UFO reports from [[guy-banister]] and personally vetted priests of the [[american-orthodox-catholic-church]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 23:35, 55:09)*
+
+## Additional claims (gerb/corso)
+
+- Per Friedman, Hoover's FBI file on Corso had nothing but bad things to say ([[corso-criticism-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:13:17-1:13:34)*

@@ -24,6 +24,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Gerb's umbrella term for the alleged, decades-old, fragmented network of US government,
@@ -163,3 +165,7 @@ vehicles" (UFOs), running from 1947 to the present. *([gerb/mitre](../raw/gerb/m
 ## Additional claims (gerb/timeline)
 
 - [[legacy-program-timeline]] (`gerb/timeline`) is Gerb's 2026 macro-chronology of the pyramid, from Magenta 1933 to 2026 in three epochs: [[golden-era-1947-1978]], [[cold-war-reorganization-1978-1994]], [[modern-era-1994-present]]. He restates the definition (once-national, now siloed covert effort for retrieval, storage, exploitation, derivation and reverse engineering of non-human technical vehicles and occasional biological occupants) and estimates only 40-50 living people can see across program silos. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 4:01-4:19, 12:33-15:32)*
+
+## Additional claims (gerb/corso)
+
+- Corso video: Gerb treats the [[army-foreign-technology-division]] as possibly one of the first structured legacy programs, using contractors, universities and semi-private institutions ([[corso-technology-seeding-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:27:12-1:28:14)*

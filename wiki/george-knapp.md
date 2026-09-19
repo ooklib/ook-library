@@ -20,6 +20,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 George Knapp, Las Vegas investigative journalist (KLAS-TV), has reported for decades on Area 51,
@@ -63,3 +65,7 @@ George Knapp, Las Vegas investigative journalist (KLAS-TV), has reported for dec
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda says Knapp's questioning of Bob Lazar was artful. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 4:22:07)*
+
+## Additional claims (gerb/corso)
+
+- 1997 Corso interview and a lost "weaponized" interview where Corso drew the being he met ([[corso-white-sands-nhi-encounter-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:17:21-1:17:28, 1:24:45-1:24:54)*

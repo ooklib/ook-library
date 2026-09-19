@@ -34,6 +34,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Dr. Eric Davis is the physicist who transcribed the [[wilson-davis-notes|Wilson-Davis notes]],
@@ -103,3 +105,7 @@ the estate of the late astronaut [[edgar-mitchell|Edgar Mitchell]].
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]]: named as part of the [[lone-stars-group]] with Vallee and Puthoff; also cited for saying there were no physicists on the retrieval program. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:02:16, 2:02:28)*
+
+## Additional claims (gerb/corso)
+
+- Cited in [[corso-investigation-video-2025]]: per *Forbidden Science: Pacific Heights*, [[george-h-w-bush]] told Davis Corso's material was not Nazi hardware and that the 1954 Holloman landing happened ([[mendel-rivers-hearings-1968]]); Davis also confirmed the Soviets collected a crash retrieval ([[soviet-parallel-tuo-exploitation-claims]]) and Gerb references Davis confirming Corso on Roswell. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 9:46-11:33, 56:26-56:49)*

@@ -82,6 +82,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 MITRE Corporation is a nonprofit, semi-private [[ffrdc|FFRDC]] operator, "spun up" by the US
@@ -254,3 +256,7 @@ Group]] of elite science advisers has been administered through MITRE since 1960
 ## Additional claims (gerb/timeline)
 
 - Timeline video: MITRE (July 1958, modelled on RAND, SAGE, Navy special projects) described as "the most paramount FFRDC" in legacy history; Gerb proposes it was secretly established to reverse engineer specific technologies from Roswell and other late-1940s crashes, that this was "a tremendous success" now integrated into "waralttering" warfighter systems, and links its Bahamas USO monitoring to a SAGE-undersea equivalent (NURO, Ivy Bell). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 58:23-1:00:02)* See also [[mitre-briefing-restriction]] (2007/2011 briefing embargo on legacy history). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:07:07-2:07:50)*
+
+## Additional claims (gerb/corso)
+
+- Gerb's thesis in the Corso video: MITRE (founded 1958, from MIT Lincoln Lab/SAGE) may have been created in part to fulfil the Army UFO R&D need to see technology into US industry, the same year Army R&D consolidated under [[arthur-trudeau]] ([[corso-technology-seeding-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 24:33-25:13)*

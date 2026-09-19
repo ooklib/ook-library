@@ -85,6 +85,8 @@ sources:
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -205,3 +207,7 @@ shared organization page.
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]] (via [[nick-redfern]]): the Directorate of Plans allegedly funded the [[collins-elite]] program from 1952, with about 12 full-time staff; CIA's "weird desk" ([[ron-pandolfi]]) handled the Clinton-era briefing request. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 17:15, 17:31, 49:04)*
+
+## Additional claims (gerb/corso)
+
+- Corso video: [[c-d-jackson]] was liaison between the new CIA and the Pentagon. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 42:26-42:49)*

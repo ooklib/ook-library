@@ -71,6 +71,8 @@ sources:
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
   - file: "raw/911mmry/911MmRy - 2008-02-12 - Carlyle Group - Bush connection to Bin Laden.md"
     label: "Carlyle Group - Bush connection to Bin Laden (911MmRy)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 
@@ -218,3 +220,7 @@ The 911mmry clip compilation is partisan and its speakers are unnamed.
 - Worked for the [[carlyle-group]] (as did [[george-w-bush]]), which counted the [[bin-laden-family]] among its investors; he was at Carlyle's 9/11-morning investor conference but left that morning. *(*([911mmry/carlyle](<../raw/911mmry/911MmRy - 2008-02-12 - Carlyle Group - Bush connection to Bin Laden.md>) 0:16,)*)*
 - Stayed on as senior adviser to Carlyle's Asia board for two more years after the bin Laden family withdrew. *(*([911mmry/carlyle](<../raw/911mmry/911MmRy - 2008-02-12 - Carlyle Group - Bush connection to Bin Laden.md>) 2:06)*)*
 - A commentator says he met the bin Laden family while Osama was a wanted terrorist, and visited the Saudi royal family on Carlyle's behalf; he receives daily CIA briefings as an ex-president. See [[bush-saudi-financial-ties-claims]]. *(*([911mmry/carlyle](<../raw/911mmry/911MmRy - 2008-02-12 - Carlyle Group - Bush connection to Bin Laden.md>) 2:14,)*)*
+
+## Additional claims (gerb/corso)
+
+- Per Vallee's *Forbidden Science* as quoted by Gerb: Bush told [[eric-davis]] the Corso topic and German secrets were separate ("impossible" that it was Nazi hardware, German secrets "processed and filed away"), that the 1954 Holloman landing and Eisenhower deal really happened, and that he was briefed on legacy programs by Trudeau around the 1968 hearings ([[mendel-rivers-hearings-1968]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 10:03-11:33)*

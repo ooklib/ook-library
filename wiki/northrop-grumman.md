@@ -45,6 +45,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Northrop Grumman has primary offices in [[crystal-city-virginia|Crystal City]] and is listed
@@ -145,3 +147,7 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says his uncle, a senior Grumman project manager on the lunar module, heard of special projects hermetically sealed from normal work and says Northrop Grumman has "wet works" people. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 29:30-30:17, 1:25:17-1:25:25)*
+
+## Additional claims (gerb/corso)
+
+- Received divisions of [[sperry-rand]] after 1986. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 38:03-38:19)*

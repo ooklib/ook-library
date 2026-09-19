@@ -11,6 +11,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Created by Army OCRD under [[arthur-trudeau]] in spring 1958, directly coordinating with Navy
@@ -25,3 +27,7 @@ here. *([gerb/mitre](../raw/gerb/mitre.md) 1:05:38–1:05:54)*
 ## Additional claims (gerb/timeline)
 
 - Timeline video: formed early 1958 under Trudeau to coordinate Army R&D with Navy, Air Force and other agencies; Gerb sees a direct parallel with the founding of [[mitre-corporation]] (July 1958) in the golden age of R&D. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 58:02-58:31)*
+
+## Additional claims (gerb/corso)
+
+- Gerb reads the ARO (1958, under OCRD) as possibly running parallel to Corso's [[army-foreign-technology-division]], with the same Army R&D primer showing URI/IIR/IR&D funding leading to UARCs and FFRDCs. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:02:41-1:04:22)*

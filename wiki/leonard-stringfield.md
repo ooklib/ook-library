@@ -17,6 +17,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Leonard Stringfield, a UFO crash-retrieval investigator Gerb describes as "legendary," produced
@@ -50,3 +52,7 @@ a series of "Crash Retrieval Status Reports" analyzed throughout the SAIC video.
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb "celebrates" Stringfield's Crash Retrievals of the Third Kind status reports 1-7 (1978-1994), coinciding with the Cold War reorganization era, and plans a full dive. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:51:59-1:52:38)*
+
+## Additional claims (gerb/corso)
+
+- Gerb cites a Stringfield file: a Bell Labs source saw a UFO retrieval at a California AF base in the early 1950s with headband transceivers worn by the aliens; a man who kept a piece vanished ([[ebe-extraterrestrial-biological-entity-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 55:20-56:10)*

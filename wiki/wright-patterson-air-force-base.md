@@ -25,6 +25,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Wright-Patterson Air Force Base in Dayton, Ohio, was headquarters of Air Materiel Command (AMC)
@@ -85,3 +87,7 @@ and Air Research and Development Command (ARDC) — forerunners of the modern
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb repeatedly flags Wright-Patterson (then Wright Field) as a "major node": Roswell materials and biologics went there, Sarbacher's R&D Board meetings were held there, and AMC/ARDC/AFSC/AFMC/AFRL/AFLCMC are headquartered there. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 25:42-26:20, 37:53-38:07, 1:44:05-1:44:58)*
+
+## Additional claims (gerb/corso)
+
+- Distinction between the Air Force ([[air-force-foreign-technology-division]]) and Corso's Army foreign technology division; Corso's Fort Riley sergeant said the crates were heading to Wright Field ([[corso-fort-riley-ebe-sighting-1947]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:00:03-1:00:34, 17:16-17:40)*

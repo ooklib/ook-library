@@ -12,6 +12,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Hermann Oberth, "father of German rocketry" and mentor to [[wernher-von-braun]], performed
@@ -32,3 +34,7 @@ extensive study on UFOs, per Gerb. *([gerb/saic](../raw/gerb/saic.md) 1:10:31–
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Michels cites Oberth as on record saying non-human intelligence helped build rockets; Levenda agrees the theme appears in *Sekret Machines*. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:08:30)*
+
+## Additional claims (gerb/corso)
+
+- Corso quotes Oberth in the manuscript's introduction: certain scientific advances were helped "by people of other worlds" ([[dawn-of-a-new-age-manuscript]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 22:02-22:24)*

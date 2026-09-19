@@ -10,6 +10,8 @@ relations:
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 A Federally Funded Research and Development Center is a US government-sponsored,
@@ -61,3 +63,7 @@ outside the government itself.
 - [[mitre-corporation]], [[rand-corporation]], [[aerospace-corporation]],
   [[sandia-national-laboratories]], [[los-alamos-national-laboratory]] are all cited as FFRDCs
   central to the alleged legacy-program ecosystem.
+
+## Additional claims (gerb/corso)
+
+- Corso video: Gerb reads Corso's plan to bring "select laboratories" and industry into Army R&D as the forerunner of UARCs/FFRDCs ([[army-foreign-technology-division]], [[corso-technology-seeding-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 23:47-24:33, 1:03:44-1:04:22)*

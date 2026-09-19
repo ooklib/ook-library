@@ -19,6 +19,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 The Sovereign Military Order of Malta, a Vatican-linked order with sovereign-state status. In the Malmgren interview it is put forward, as speculation, as a hidden guardian of UFO secrecy. This wiki records the claims only.
@@ -45,3 +47,7 @@ The Sovereign Military Order of Malta, a Vatican-linked order with sovereign-sta
 ## Additional claims (jm/jorjani-hitler)
 
 - Jorjani says the Knights' "Monte Carlo group" (per [[harald-malmgren]]) included Nazis and coordinated rat lines, and that he was once invited to an initiation and declined. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 2:23:10, 2:23:54)*
+
+## Additional claims (gerb/corso)
+
+- Corso video: Corso was emissary to Montini (later Pope Paul VI) in Rome ([[philip-j-corso]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 7:33-7:40)*

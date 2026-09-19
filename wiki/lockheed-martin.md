@@ -83,6 +83,8 @@ sources:
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -298,3 +300,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Additional claims (gerb/timeline)
 
 - Timeline video: forms in 1995 from Lockheed and Martin Marietta in the [[defense-industrial-base-last-supper]]; built the DSRVs of [[deep-submergence-systems-project]]; Kona Blue; with Northrop, the most important modern legacy contractor; [[flux-liner-arv-saga]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:03:01-1:03:10, 1:45:52-1:46:08, 2:01:39-2:01:47, 2:07:52-2:11:50)*
+
+## Additional claims (gerb/corso)
+
+- Received divisions of [[sperry-rand]] after 1986; see also [[glenn-gaffney]]. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 38:03-38:19, 1:06:01-1:06:17)*

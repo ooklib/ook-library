@@ -21,6 +21,8 @@ sources:
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Colonel John B. Alexander supervised the 1985 "Advanced Theoretical Physics Working Group"
@@ -46,3 +48,7 @@ facility. *([gerb/saic](../raw/gerb/saic.md) 46:24–46:42)*
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda met him at an AFIO meeting in Las Vegas where Alexander posed with [[michael-aquino]]; both are linked by non-lethal warfare, and Alexander's book is cited for a Lockheed engineer saying UFO knowledge is "what you learn when you die". *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:37:39, 2:39:54, 4:12:31)*
+
+## Additional claims (gerb/corso)
+
+- In [[corso-investigation-video-2025]]: saw Corso's manuscript before the book; his book *UFOs: Myths, Conspiracies and Realities* says the Army foreign technology division was formed as Corso stated and disappeared after his retirement; challenged night-vision claims after asking the lab director; wrote Corso a letter listing issues with [[the-day-after-roswell-book]]; Corso told him the [[corso-white-sands-nhi-encounter-claims]]; joint Art Bell/Coast to Coast interview with Corso. Gerb has reservations about Alexander over the MJ-12 special operations manual. See [[corso-criticism-claims]]. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 5:27-5:42, 1:00:41-1:01:21, 1:09:35-1:10:24)*

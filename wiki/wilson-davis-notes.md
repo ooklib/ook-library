@@ -35,6 +35,8 @@ sources:
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 The Wilson-Davis notes are disputed but (per Gerb) "highly likely accurate" notes transcribed
@@ -177,3 +179,7 @@ Gerb's introductory documentary walks through the 15-page notes line by line. Al
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb lists six things the notes reveal (programs exist; a reorganization followed near-exposure; USD(A&S) held records; waived unacknowledged SAP carve-out; watch committee and SAPOC SRG protected from inside access; no White House/president/Congress on the bigot list, consistent with 1994). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:58:32-1:59:58)*
+
+## Additional claims (gerb/corso)
+
+- Gerb cites the Wilson Davis notes context ([[eric-davis]]) in the Corso video ([[mendel-rivers-hearings-1968]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 9:46-10:39)*

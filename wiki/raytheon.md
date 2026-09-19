@@ -20,6 +20,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Raytheon is named among the defense-industrial contractors Gerb alleges are involved (via
@@ -45,3 +47,7 @@ program. *([gerb/mitre](../raw/gerb/mitre.md) 12:55–13:03, 1:19:59–1:20:16)*
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer calls Raytheon one of the prime "bad actors", with wet-works staff; witness Eric Hecker allegedly installed a neutrino-light system under the South Pole ([[neutrino-light-detector-claims]]), and a Raytheon triangle at Fort Irwin is cited as man-made. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:20:07-1:20:21, 1:25:17-1:25:25, 2:32:41-2:33:26)*
+
+## Additional claims (gerb/corso)
+
+- Received divisions of [[sperry-rand]] after 1986. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 38:03-38:19)*

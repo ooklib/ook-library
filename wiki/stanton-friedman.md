@@ -19,6 +19,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Nuclear physicist turned UFO researcher. In 1983 he learned of Smith's 1950 memo and tracked down [[robert-sarbacher]]; he is also credited by Gerb with making the MJ-12 documents public. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 11:22-11:44, 15:37-15:44)*
@@ -36,3 +38,7 @@ Nuclear physicist turned UFO researcher. In 1983 he learned of Smith's 1950 memo
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda says he told Friedman at Contact in the Desert that the MJ-12 documents look real after research at the archives. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 3:50:53)*
+
+## Additional claims (gerb/corso)
+
+- Interview clip in the Corso video: strongly critical of Corso and [[the-day-after-roswell-book]] (no index, false claims, Hoover's poor view, NSC claim); Gerb finds his linking Corso to [[bob-lazar]] inappropriate ([[corso-criticism-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:10:24-1:14:39)*

@@ -45,6 +45,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 CIA's Directorate of Science and Technology is listed among "program administrator" agencies in
@@ -86,3 +88,7 @@ Gerb's [[ufo-legacy-programs|legacy program pyramid]]. *([gerb/mitre](../raw/ger
 ## Additional claims (gerb/timeline)
 
 - Timeline video: founded 1963 to centralize R&D and technical intelligence collection; Gerb says it has "its fingers in so many UFO legacy program pies" but, contra "The Age of Disclosure", is not the sole crash-retrieval portfolio director; named DS&T alumni: Donald Kerr, Doug Wolf, Stephanie O'Sullivan, Glenn Gaffney, Mary Sturtevant, the last two allegedly killing the [[operation-kona-blue]] transfer. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:00:30-1:01:28, 2:08:35-2:08:57)*
+
+## Additional claims (gerb/corso)
+
+- Corso lists CIA S&T technical team members in the [[ufo-working-group-1987]], which Gerb ties to DS&T's alleged UFO portfolio. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:05:05-1:06:01)*

@@ -12,6 +12,8 @@ sources:
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Alleged 1965 crash of a small bell- or acorn-shaped UFO at Kecksburg, Pennsylvania, roughly 100 miles from [[eric-a-walker]]'s Penn State base. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 17:17-17:55)*
@@ -23,3 +25,7 @@ Alleged 1965 crash of a small bell- or acorn-shaped UFO at Kecksburg, Pennsylvan
 ## Additional claims (gerb/timeline)
 
 - Timeline video: mentioned as a favorite case, with Walker's alleged presence and Wright-Patterson connections; LBJ's Texas White House coordination the following day. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:35:11-1:35:27, 2:36:02-2:36:20)*
+
+## Additional claims (gerb/corso)
+
+- Gerb cites Kecksburg as a parallel to Corso's flatbed-convoy detail ([[corso-fort-riley-ebe-sighting-1947]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 18:36-18:52)*

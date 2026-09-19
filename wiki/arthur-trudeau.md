@@ -12,6 +12,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 General Arthur Trudeau, per [[philip-j-corso]]'s claims, had direct knowledge of UFO crash
@@ -35,3 +37,7 @@ Development) in spring 1958 — a few months before [[mitre-corporation|MITRE]]'
 ## Additional claims (gerb/timeline)
 
 - Timeline video: head of Army OCRD; tasked Corso to study Roswell wreckage and feed derived technologies to industry (patents allowed, technologies fed back to the Army); under him the Army Research Office was formed (1958). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 54:15-54:55, 58:02-58:23)*
+
+## Additional claims (gerb/corso)
+
+- Per Gerb: member of the military intelligence Hall of Fame; served in WWII and Korea; as Army intelligence chief was relieved by [[allen-dulles]], possibly for his anti-communism, then reinstated; in 1958 returned as Chief of Army R&D, creating the golden age of Army R&D and, per Corso, the [[army-foreign-technology-division]] (1960) and gave Corso the [[roswell-file]]. His memoirs name [[sperry-rand]] as a frequent meeting place. Corso called him the father of the ballistic missile; he retired in 1962 and was succeeded by [[dwight-e-beach]]. Only independent UAP link: [[george-h-w-bush]] claimed Trudeau briefed him ([[mendel-rivers-hearings-1968]]). He and Corso were friends (Corso sat in Trudeau's kitchen during his Army oral-history interview). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 22:49-23:13, 58:45-59:41, 43:15-43:22)*

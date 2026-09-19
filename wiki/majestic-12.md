@@ -55,6 +55,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
+    label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
@@ -202,3 +204,7 @@ Comparison with Gerb: rc/mj12 agrees that MJ-12 personnel/dates line up with rea
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda tells Stanton Friedman he thinks the MJ-12 documents "look real" and are a very good hoax if hoax; [[michael-aquino]] separately told him "MJ" meant non-terrestrial biologics in Space Command. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 3:50:53, 3:51:40, 3:49:41)*
+
+## Additional claims (gerb/corso)
+
+- Gerb notes the EBE terminology in the MJ-12 special operations manual matches Corso's affidavit ([[ebe-extraterrestrial-biological-entity-claims]]); in the manuscript Corso recognises the Eisenhower briefing document but says he never saw it; the [[ufo-working-group-1987]] resembles an MJ-12-like structure. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 18:52-19:18, 1:07:47-1:08:22)*
