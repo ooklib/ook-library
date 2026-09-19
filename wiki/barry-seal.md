@@ -13,6 +13,8 @@ relations:
     target: operation-40
     note: "alleged honorary/adjunct presence; photos placing him near Op 40 and the Guatemala camp"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
+    label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
@@ -36,3 +38,7 @@ Barry Seal is presented as Ferrie's teenage recruit who "eventually became a lon
 - Postcard dated March 29, 1961 to Seal's widow from Guatemala ("I am probably going to stay at this picture a couple of days"), showing the volcano over Lake Atitlan near Base Trax, is presented by Daniel Hopsicker (*Barry and the Boys*, p. 383, 439) as placing Seal as a trainer, likely aviation, with the Bay of Pigs force. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 47:33-48:14)*
 - The book's cover photo, allegedly Mexico City, January 22, 1963, is labelled the only extant [[operation-40]] photo; host thinks Seal is "almost undisputable" in it (next to a man Hopsicker suggests is Porter Goss, which the host doubts) and reads the two Americans as guests of honor. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 53:56-56:29)*
 - Allegedly shipped dope for [[air-america]] in the 1960s; late-1960s TWA corporate cover as "youngest commercial jet pilot in the world", noted by the host as [[howard-hughes]]'s company helping CIA assets. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 56:36-57:11)*
+
+## Additional claims (Bush and the CIA, Chapter 3)
+
+- Host: worked later as a commercial pilot for Hughes's TWA, likely as cover; speculated to have smuggled weapons possibly through the [[cay-sal]] airstrip. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 23:15-24:05)*

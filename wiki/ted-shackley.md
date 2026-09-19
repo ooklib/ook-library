@@ -14,6 +14,8 @@ relations:
     target: felix-rodriguez
     note: "closeness; reunited in Saigon"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
+    label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
@@ -37,3 +39,7 @@ Scoped page: this covers only what [[eyes-wide-open]]'s Operation 40 episode say
 
 
 - Preview only: host says he completed a deep dive into "Ted Shockley" (ASR), the future Miami CIA station chief "known as the blonde ghost," whose career started in Germany with the counterintelligence corps and CIA, and who was instrumental in assembling Gulf Coast exile groups before the JFK assassination. Not yet ingested. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 49:39-50:14)*
+
+## Additional claims (Bush and the CIA, Chapter 3)
+
+- Host: Shackley took over the Phoenix Program in late 1968 (host's phrasing, "under the CORDS directive") and had been station chief at [[jm-wave-station]] in Miami 1962-64; host speculates [[george-h-w-bush]] and [[thomas-devine]] would have met him in Florida then. Next-season preview: Shackley's rise to the "largest US spy station in the world"; "the blond ghost." *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 7:28-8:18, 39:56-40:27)*

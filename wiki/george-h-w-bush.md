@@ -34,7 +34,20 @@ relations:
   - relation: associate_of
     target: halliburton
     note: "host: Bush loyalist Cheney headed Halliburton, which absorbed Bush's former employer Dresser"
+  - relation: founded
+    target: zapata-offshore
+    note: "1954 offshoot, with Bill Clements (host)"
+  - relation: associate_of
+    target: thomas-devine
+    note: "alleged CIA case officer / co-founder of Zapata (host)"
+  - relation: associate_of
+    target: felix-rodriguez
+    note: "lifelong friendship; hosted at White House as VP (host)"
+  - relation: associate_of
+    target: bill-clements
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
+    label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
@@ -145,3 +158,19 @@ Trento, Anthony Kimery and Whitney Webb. *([ewa/bush-1](../raw/ewa/Eyes Wide Ope
 ## Cross-links (Chapter 2)
 - Transcript-level: [[texas-raj]], [[dresser-industries]], [[zapata-petroleum]], [[george-de-mohrenschildt]], [[dimitri-von-mohrenschildt]], [[halliburton]], [[dick-cheney]] (via Halliburton merger/loyalty claim, *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 46:34-47:46)*), [[skull-and-bones]] (Bush as "Skull and Bones graduate," *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 1:02-1:09)*; [[william-f-buckley-jr]] also a Bonesman, *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 22:05-22:14)*), [[allen-dulles]].
 - Wiki-internal observation: the host's Cheney-Bush-Halliburton loyalty pattern is the only bridge in this transcript to the [[dick-cheney]] page; no UFO/UAP, crash-retrieval, Tesla or technology-program content appears.
+
+## Additional claims (Bush and the CIA, Chapter 3)
+
+- Host: Bush was a CIA asset long before his 1976 directorship; [[zapata-petroleum]] was "almost certainly a CIA front," with [[thomas-devine]] as his CIA case officer and cryptonyms tied to the Caribbean project ([[wubriny-and-wusaline]], WUSALINE theorized as Bush's cryptonym). *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 1:39-4:41, 6:50-7:04)*
+- Host: [[zapata-offshore]] (1954, with [[bill-clements]]) was a CIA "pet project"; Bush acted as a "friendly and cooperative business contact," first "activated" by [[allen-dulles]] there, and later as "paymaster and cover asset" for the [[bay-of-pigs-invasion]]. Quoted sources (via Trento) call him good at "talent spotting" but "no spy." *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 13:47-15:53, 33:42-34:06)*
+- Host, citing a 1968 CIA memo: Devine was "personal friend and unofficial Foreign Affairs advisor" to Congressman Bush; alleged joint Vietnam trip, late 1967-early 1968. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 3:15-3:38, 7:04-7:20)*
+- Alleged (Fabian Escalante, a Castro intelligence officer; host flags the source as unverifiable): Bush and [[jack-crichton]] raised money for [[operation-40]] from oil tycoons in Houston and Dallas before the invasion. Circumstantial support cited by the host: the Scorpion rig at [[cay-sal]], and Bush and Crichton both on the 1964 Texas Republican ballot (Bush for Senate, Crichton for governor), both beaten (Bush by Ralph Yarborough, Crichton by [[john-connally]]). *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 25:42-26:29, 30:48-31:36)*
+- Host: future CIA director Porter Goss, whom Bush's son (George W. Bush) elevated to DCI 2004-06, began his CIA career in the Caribbean, likely on anti-Castro work, and was "highly rumored" (host) to have been in [[operation-40]]; the host suggests Bush and Goss first met in the Gulf of Mexico in the early 1960s. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 26:43-27:29)*
+- Lifelong friendship with [[felix-rodriguez]]: hosted him at the White House as vice president; Rodriguez resurfaced in Iran-Contra Salvadoran resupply; a supposed 1988 Bush letter to Rodriguez professing his innocence, authenticity in question (host would not be surprised if real). Host suggests possible interaction on the Scorpion rig. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 27:29-28:32)*
+- [[george-de-mohrenschildt]]'s Rolodex listed Bush as president of [[zapata-offshore]]; de Mohrenschildt wrote to Bush as CIA director in 1976 seeking help with his "hopeless situation." Host: the "Two Georges" served a similar CIA purpose in the Caribbean, with Bush "achieving greater heights." *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 31:44-33:49)*
+- Host cites the "often cited" Hoover memo dated November 29, 1963 labeling Bush "George Bush of the CIA" (host says "November 29 1963"; flagged: the Devine CIA memo at 2:36 is dated November 29, 1975, so the same month/day appears for both, possible host conflation). *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 34:06-34:31)* See [[j-edgar-hoover]].
+- Host's Iran-Contra thread: "Poppy Bush and his cohort of agents" would end up at the center of Iran-Contra and pioneered privatized intelligence via fronts. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 18:12-18:35)* See [[cia-fronts-and-proprietaries]].
+
+## Cross-links (Chapter 3)
+- Transcript-level: [[thomas-devine]], [[zapata-offshore]], [[zapata-petroleum]], [[wubriny-and-wusaline]], [[cay-sal]], [[bill-clements]], [[howard-hughes]], [[felix-rodriguez]], [[operation-40]], [[jack-crichton]], [[george-de-mohrenschildt]], [[allen-dulles]], [[in-q-tel]] (comparison), [[ted-shackley]] and [[jm-wave-station]] (setup for the next season).
+- Not in this transcript: Dick Cheney, Rumsfeld, Team B, Skull and Bones, UFOs/UAP, crash retrievals, Tesla. The chapter does not cover his CIA directorship in any detail beyond passing references. Wiki-internal observation: no bridge from this chapter to the [[dick-cheney]] page.

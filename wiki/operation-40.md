@@ -17,6 +17,8 @@ relations:
     target: jm-wave-station
     note: "Miami station later employed its veterans"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
+    label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
@@ -70,3 +72,8 @@ Host's summary: Op 40 was the CIA's first foreign-intelligence-apparatus attempt
 ## Additional claims (CIA-Mafia Legend)
 
 - Host recap: the previous episode covered Bay of Pigs and the creation of the "Operation 40 death squad project"; this episode adds the parallel CIA-Mafia plots and notes JC King (put in charge of early Op 40 activities by Bissell) and Sheffield Edwards were both West Point grads of 1923 and ex-Army; Cuban exiles Alpha 66 and early militias later showed Army-intelligence involvement. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 8:03-8:19, 1:00:23-1:01:44)* See [[cia-mafia-assassination-plots]].
+
+## Additional claims (Bush and the CIA, Chapter 3)
+
+- Host: the most elite Cuban exiles were funneled into Operation 40 as future intelligence operators of a US-aligned Cuba; speculative training on Bush's Scorpion rig off [[cay-sal]]. Alleged fundraising by [[george-h-w-bush]] and [[jack-crichton]] (Fabian Escalante's claim, flagged unverified). Porter Goss "highly rumored" to have been involved and rumored to be in the photo covered in the Operation 40 episode. See [[zapata-offshore]]. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 25:09-27:29)*
+- Host: [[felix-rodriguez]] is "the head of operation 40" (as phrased at 28:15-28:25, versus "leader of the hit squad" at 27:29). *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 28:15-28:25)*

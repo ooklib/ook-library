@@ -8,6 +8,8 @@ relations:
     target: pan-american-airways
     note: "rival in the 1947 Senate investigation; both later Vietnam-era beneficiaries"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
+    label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
@@ -69,3 +71,9 @@ page also covers his firms Hughes Aircraft Company and Transworld Airline (TWA).
 - Host: after selling TWA stock for over $500 million in 1966, Hughes bought mob-owned Las Vegas casinos 1966-68 (Sands, Castaways, Desert Inn from Moe Dalitz, ASR "mod Dallas"), which he reads as possibly repaying the mob for the 1961 loan. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 32:18-32:51)*
 - Host: Hughes and Nixon/Johnson framed as the "Cowboys" against the Yankee elite; ties to [[yankee-cowboy-thesis]]. Host also promises a General Dynamics "octopus" segment in a later War Conspiracy installment. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 25:58-26:33, 30:26-30:41)*
 - Host: Hughes was "a private sponsor of anti-Castro operations" (as stated). *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 2:30-2:46)*
+
+## Additional claims (Bush and the CIA, Chapter 3)
+
+- Per a 1958 FBI memo as read by the host, Hughes leased [[cay-sal]] a year before [[zapata-offshore]] leased the adjacent plot, via middleman Clarence O. Moody, "Hughes's middleman in delivering support to the Cuban exiles"; Hughes was "completely embedded" in Zapata Offshore's South Florida operations, and a Hughes front (Panella's Fish Company, Marathon, Florida) served as a helipad for Hughes Tool Company helicopters. Host: a possibly Hughes-funded No Name Key exile group. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 20:43-22:28)*
+- Host: Hughes Enterprises and TWA provided intelligence cover for agency-linked assets, e.g. [[barry-seal]] flew for TWA. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 23:44-24:05)*
+- Host speculation: Bush may have corresponded with Hughes in the late 1940s-early 1950s while at [[dresser-industries]], which was negotiating to buy Hughes Tool's patented drill bit; the deal went nowhere. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 24:05-24:37)*

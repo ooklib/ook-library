@@ -13,6 +13,8 @@ relations:
   - relation: investigates
     target: operation-gladio
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
+    label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
@@ -178,3 +180,8 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 
 - Episode dated 2025-02-16 (first aired to Patreon subscribers October 26, 2024); part 2 of a 3-part Bush series; the host promises part 3 "in the next couple of months." *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 47:54-49:00)*
 - Season 3 is titled "The Road to Dallas," building toward Nov 22, 1963. Documentaries already on Patreon per the host: "Kennedy and the CIA" (Kennedy brothers vs. the agency after the Bay of Pigs) and a deep dive into Ted Shockley's (ASR; see [[ted-shackley]]) early career and the "Gehlen" (ASR "galin") secret intelligence network, with ties to the Green Berets. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 49:06-50:35)*
+
+## Bush and the CIA, Chapter 3 (season 2 finale)
+
+- Aired to Patreon Nov 13, 2024; the last of the season's 11 videos. Host states the channel is ad-free, sponsor-free and "AI free." Season 3 (on Patreon since January 2025) continues from the Bush series; Patreon-only videos on the Kennedy White House, early [[ted-shackley]] and [[jm-wave-station]]/Operation Mongoose, and a long-form JFK series "The Road to Dallas" (primer plus [[frank-sturgis]] and David Atlee Phillips episodes). *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 40:27-44:33)*
+- Host names as sources: Russ Baker (*Family of Secrets*), Robert Bryce (*Cronies*), Joseph Trento (*Prelude to Terror*), [[jonathan-kwitny]] (*The Crimes of Patriots*).

@@ -14,6 +14,8 @@ relations:
     target: glenn-gaffney
     note: "executive VP and senior fellow"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
+    label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
 ---
@@ -37,3 +39,7 @@ ability to attract the skills and expertise vital to its success."
 
 - CIA-sponsored venture-capital firm; board seat held by [[stephanie-osullivan]]; executive role
   held by [[glenn-gaffney]].
+
+## Additional claims (Bush and the CIA, Chapter 3)
+
+- Host comparison: In-Q-Tel (founded 1999) is the CIA's proprietary venture capital firm giving seed capital to mostly tech startups in return for contracts, and it seeded part of Palantir (ASR "Peter Teal's paler"); [[thomas-devine]]'s Caribbean cutout work is called a smaller, lower-tech precursor. See [[cia-fronts-and-proprietaries]]. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 5:04-6:02)*

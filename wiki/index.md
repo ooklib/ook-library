@@ -11,7 +11,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
 `gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`,
 `rjm/city-of-london`, `mpu/secret-society`, `ewa/oss`, `ewa/sunrise`, `ewa/mafia-allies`,
-`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`, `ewa/laos-4`, `ewa/war-conspiracy-1`, `ewa/war-conspiracy-2`, `ewa/operation-40`, `ewa/cia-mafia`, `ewa/bush-1`, `ewa/bush-2`).
+`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`, `ewa/laos-4`, `ewa/war-conspiracy-1`, `ewa/war-conspiracy-2`, `ewa/operation-40`, `ewa/cia-mafia`, `ewa/bush-1`, `ewa/bush-2`, `ewa/bush-3`).
 
 Note: the wiki spans four topic areas — the original alleged "UFO legacy programs" ecosystem
 (MITRE, SAIC, NRO, Lockheed, etc.), a British power-structures thread (Fabian Society, Chatham
@@ -129,6 +129,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 
 [[cuban-venezuelan-oil-voting-trust]] · [[radio-free-europe]] · [[halliburton]] · [[del-charro-set]] (concept: Hotel del Charro/Del Mar circle) — added by `ewa/bush-2`. Program: [[crusade-for-freedom]].
 
+[[zapata-offshore]] · [[cia-fronts-and-proprietaries]] (concept) — added by `ewa/bush-3`. Program: [[wubriny-and-wusaline]]. Place: [[cay-sal]].
+
 [[office-of-strategic-services]] · [[sullivan-and-cromwell]] · [[ig-farben]] ·
 [[gehlen-organization]] · [[bank-for-international-settlements]] · [[civil-air-transport]] ·
 [[air-america]] · [[operation-paper]] · [[sea-supply-corporation]] · [[general-development-corporation]] · [[national-crime-syndicate]] ·
@@ -245,6 +247,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[prescott-bush]] · [[neil-mallon]] · [[averell-harriman]] · [[robert-lovett]] — added by `ewa/bush-1` (expanded: [[george-h-w-bush]]).
 
 [[clint-murchison]] · [[sid-richardson]] · [[h-l-hunt]] · [[jack-crichton]] · [[george-de-mohrenschildt]] · [[dimitri-von-mohrenschildt]] · [[irving-davidson]] · [[william-f-buckley-jr]] · [[earle-cabell]] · [[charles-cabell]] · [[charles-willoughby]] · [[john-connally]] — added by `ewa/bush-2`.
+
+[[thomas-devine]] · [[bill-clements]] — added by `ewa/bush-3`.
 
 [[eyes-wide-open]] · [[william-donovan]] · [[allen-dulles]] · [[john-foster-dulles]] ·
 [[roscoe-hillenkoetter]] · [[j-edgar-hoover]] · [[franklin-d-roosevelt]] · [[harry-truman]] ·

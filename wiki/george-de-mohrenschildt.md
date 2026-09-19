@@ -44,3 +44,10 @@ George de Mohrenschildt (ASR "George deor Shield" and variants; description spel
 
 - Brother of [[dimitri-von-mohrenschildt]]; friend of [[george-h-w-bush]] and (alleged) Oswald; colleague of [[jack-crichton]] at CVT.
 - Wiki-internal observation: the transcript ties Bush to a man later close to Oswald; it does not itself claim Bush knew Oswald.
+
+## Additional claims (Bush and the CIA, Chapter 3)
+
+- Host: with [[thomas-devine]], allegedly met secretly in New York in April 1963 about de Mohrenschildt's Haiti operations (Russ Baker). *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 6:26-6:50)*
+- After his April 1977 apparent suicide (weeks before testifying to the House Select Committee on Assassinations), investigators found a Bush number and address in his Rolodex, listed as president of [[zapata-offshore]]. He had written Bush, then CIA director, in 1976 asking him to "bring a solution into the hopeless situation I find myself in." Host: the situation was likely the upcoming questioning about his friendship with Lee Harvey Oswald and Marina Oswald in 1962-63; de Mohrenschildt introduced the Oswalds to Ruth Paine. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 31:44-32:56)*
+- Host thesis: the "Two Georges" served a similar function for the CIA in the Caribbean; Russ Baker notes the de Mohrenschildts took a "walking trip" through Guatemala as [[brigade-2506]] trained there. Host asks whether both were part of the same [[allen-dulles]] "pilot project." *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 33:09-33:49)*
+- Host: de Mohrenschildt's Empire Trust Company / [[cuban-venezuelan-oil-voting-trust]] held about 50% of pre-revolution Cuban oil reserves. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 28:48-29:14)*

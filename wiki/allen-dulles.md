@@ -56,6 +56,8 @@ relations:
     target: georgetown-set
     note: "known to drop by; host"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
+    label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
@@ -256,3 +258,8 @@ calls him "arguably one of, if not the most important person in modern American 
 
 
 - Per Russ Baker (via host), Wilson's secretary of state Robert Lansing was uncle by marriage of Allen and John Foster Dulles, connecting the de Mohrenschildt family's WWI-era diplomacy to them; [[charles-cabell]] served as his deputy 1953-late 1962; April 10, 1953 meeting with Mallon and Bush about a "pilot project in the Caribbean" (see [[zapata-petroleum]]). *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 18:11-18:35, 26:51-27:15, 45:14-45:37)*
+
+## Additional claims (Bush and the CIA, Chapter 3)
+
+- Host: the "pilot project" devised by Dulles placed private cover for CIA assets in the Caribbean; [[zapata-offshore]] was "the first activation of Bush by Dulles as a proper intelligence asset." *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 14:57-15:21, 18:59-19:06)*
+- Host's account of Dulles and the [[bay-of-pigs-invasion]]: eight years as DCI with Eisenhower's green light; allegedly lied to Kennedy about air support; forced to resign by end of 1961/62 with Bissell and Cabell. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 35:31-37:11, 38:52-39:07)*

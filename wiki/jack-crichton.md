@@ -38,3 +38,9 @@ Jack Crichton (ASR "Kriton"/"Kingon"; the name is confirmed by the video descrip
 ## Relationships
 
 - Agent of the [[texas-raj]]; colleague of [[george-de-mohrenschildt]] via CVT; OSS veteran.
+
+## Additional claims (Bush and the CIA, Chapter 3)
+
+- Alleged by Fabian Escalante (a Castro intelligence officer; host flags his bias and says the claim is unverified): Crichton and [[george-h-w-bush]] raised money for [[operation-40]] from oil tycoons in Dallas and Houston before the Bay of Pigs. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 25:42-26:29)*
+- Host: since 1956 head of the 488th military intelligence unit, an Army reservist outfit in Dallas, and Dallas representative of Empire Trust Company (holding company of the [[cuban-venezuelan-oil-voting-trust]], the [[george-de-mohrenschildt]] oil firm holding about 50% of pre-revolution Cuban oil rights), giving him motive to fund rollback. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 28:32-29:14)*
+- 1964: Crichton ran for governor of Texas and Bush for Senate, both Republicans, both defeated; Crichton lost to [[john-connally]]. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 31:04-31:44)*

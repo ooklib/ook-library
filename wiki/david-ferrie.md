@@ -14,6 +14,8 @@ relations:
     target: civil-air-patrol
     note: "leader of Louisiana squadron"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
+    label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
 ---
@@ -28,3 +30,7 @@ David Ferrie (ASR "Ferry"; source list spells Ferrie) led the Louisiana [[civil-
 ## Relationships
 
 - Leader of [[civil-air-patrol]] unit; associates [[barry-seal]], [[lee-harvey-oswald]]; New Orleans node with [[carlos-marcello]]; see [[kennedy-assassination]].
+
+## Additional claims (Bush and the CIA, Chapter 3)
+
+- Host: the CIA-backed Louisiana arms smugglers concentrated around Ferrie and his [[civil-air-patrol]]; speculation that [[cay-sal]] was a transshipment point. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 23:15-23:44)*

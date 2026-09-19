@@ -29,6 +29,8 @@ relations:
     target: clint-murchison
     note: "alleged recipient of Murchison's paid holidays/gambling (Summers via host)"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
+    label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
@@ -116,3 +118,7 @@ US foreign intelligence functions during the run-up to the CIA's creation.
 
 
 - Alleged Del Charro dependence: a close friend of [[clint-murchison]], visiting the Hotel del Charro with [[clyde-tolson]] since the early 1930s, allegedly with all expenses (about $460,000) paid, and a compulsive horse-race bettor; allegedly at his request Murchison and Sid Richardson bought the Del Mar racetrack in 1954, with Hoover allegedly sending two FBI men to intimidate the seller; Murchison allegedly covered his losses and let him keep winnings. The host calls this bribery, alongside the mob blackmail via the [[blue-suite]], and says Hoover denied organized crime existed and moved to cover up the Kennedy assassination conspiracy (citing [[peter-dale-scott]]). All per Anthony Summers via the host. See [[del-charro-set]]. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 32:28-38:23)*
+
+## Additional claims (Bush and the CIA, Chapter 3)
+
+- Host cites the "often cited" Hoover memo labeling [[george-h-w-bush]] "George Bush of the CIA" and dates it November 29, 1963; not shown or quoted at length. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 34:06-34:23)*

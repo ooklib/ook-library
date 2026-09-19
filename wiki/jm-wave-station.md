@@ -14,6 +14,8 @@ relations:
     target: operation-40
     note: "veterans employed; Miami base for exile recruitment"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
+    label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
@@ -36,3 +38,7 @@ JM/WAVE is the CIA Miami station opened in the early 1960s, per [[eyes-wide-open
 
 - Host: JM/WAVE engaged the Miami exile community in 1960; [[e-howard-hunt]] recruited from it; Castro penetrated the Miami effort with agents. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 23:37-24:12, 28:19-29:56)*
 - Future chief [[ted-shackley]] and deputy Thomas Clines directed Op 40 veterans ([[felix-rodriguez]], [[david-sanchez-morales]], "Chi Chi" Cano) afterwards; scoped to this video, more in `ewa/jmwave`. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 39:05-39:19, 46:01-46:12, 48:41-49:07)* Resolves the "no wiki pages" note above for Shackley, Rodriguez and Morales.
+
+## Additional claims (Bush and the CIA, Chapter 3)
+
+- Host, preview: the series continues at JM/WAVE post-Bay of Pigs, where [[ted-shackley]] became station chief of "the largest US spy station in the world"; a Patreon video covers JM/WAVE and Operation Mongoose. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 39:56-40:27, 42:38-42:53)*

@@ -17,6 +17,8 @@ relations:
     target: central-intelligence-agency
     note: "career CIA operative per the host"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
+    label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
@@ -35,3 +37,7 @@ Felix Rodriguez is presented by [[eyes-wide-open]] as the "Felix" of the Schlesi
 ## Relationships
 
 - Leader of [[operation-40]] (per memo as read by the host); associate of [[frank-sturgis]] and [[ted-shackley]]; see [[jm-wave-station]], [[secret-war-in-laos]].
+
+## Additional claims (Bush and the CIA, Chapter 3)
+
+- Host: Rodriguez was the "Cuban exile leader of the operation 40 hit squad" and a lifelong friend of [[george-h-w-bush]], who hosted him at the White House while vice president; Rodriguez reemerged in Iran-Contra's Salvadoran resupply operations. A purported 1988 Bush letter wishing him well at trial is of questioned authenticity. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 27:29-28:32)*

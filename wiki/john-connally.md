@@ -29,3 +29,7 @@ John Connally (ASR "Connelly"), future Texas governor, is described by [[eyes-wi
 ## Relationships
 
 - Protege of [[lyndon-b-johnson]] and [[sid-richardson]]; at the [[del-charro-set]].
+
+## Additional claims (Bush and the CIA, Chapter 3)
+
+- Host: "LBJ protege" Connally beat [[jack-crichton]] in the 1964 Texas governor race; described as "the man who shared a bullet with Kennedy." *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 31:21-31:36)*

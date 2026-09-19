@@ -14,6 +14,8 @@ relations:
     target: brigade-2506
     note: "the invasion force"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
+    label: "Bush and the CIA - Chapter 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
@@ -72,3 +74,10 @@ The 1961 CIA-organized invasion of Cuba by anti-Castro exiles. Per Eyes Wide Ope
 
 
 - Host: the [[del-charro-set]] "featured many of the key players in the upcoming Bay of Pigs invasion long before the invasion was even contemplated"; [[charles-cabell]], Dulles's deputy, was forced out by Kennedy for his Bay of Pigs role. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 27:00-27:15, 38:23-38:31)*
+
+## Additional claims (Bush and the CIA, Chapter 3)
+
+- Host: the CIA's official code name for the invasion was "Operation Zapata," which the host says cannot be a coincidence given [[zapata-offshore]]'s alleged role; Bush allegedly provided corporate cover and served as "paymaster" (the host's claims). *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 19:15-19:31, 33:49-33:58)*
+- Host: [[allen-dulles]] knew the plan of ~1,500 exiles was a "pipe dream" without air support; he allegedly lied to [[john-f-kennedy]] that air support wasn't needed and Castro had no pilots, perhaps testing whether Kennedy could be "turned into another Ike." Dulles had a supportive president in Eisenhower with Nixon at the head of planning. Kennedy took public blame; host says the failure "falls squarely on the CIA" by near-consensus. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 35:23-37:43)*
+- Aftermath per host: right-wing press called Kennedy a secret communist; Dulles, [[richard-bissell]] and [[charles-cabell]] were forced out by end of 1961/62; the [[china-lobby]], organized crime, Texas oil "Cowboys" and CIA staff turned against JFK; Robert Kennedy ([[robert-f-kennedy]]) was put over the anti-Castro task force and [[john-mccone]] over CIA, yet anti-Castro operations "ballooned out of control," leading toward [[jm-wave-station]]. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 37:43-39:56)*
+- Host: Cuba's potential oil wealth as an economic motive for Texas independents to favor rollback. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 29:14-30:48)*
