@@ -25,6 +25,8 @@ relations:
     target: yoshio-kodama
     note: "worked closely with the Yakuza boss in postwar Japan (per ewa/dallas-4)"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
     label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
@@ -98,3 +100,9 @@ Chapter 3 of [[road-to-dallas]] is his dedicated episode. Host framing: a charac
 - Hemming (Argosy 1993) named "Jack Cannon" among the mob's "boys" in Cuba alongside Sturgis, Johnny Devo and Herman Marx; the host reads Cannon not as a mob associate but as a roving military-intelligence officer (with past CIA work, posing as tourist police officer "Jack Shea/Sheay") likely facilitating arms from Fort Hood. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 24:49-27:20)*
 - Host argues mob comfort is in character: in postwar Japan Cannon, under [[charles-willoughby]]'s G2, worked closely with Yakuza incl. [[yoshio-kodama]], whose 1948 release from Sugamo G2 helped secure. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 27:20-29:15)*
 - Speculation: [[norman-rothman]] may have shifted gun supply to Cannon/Fort Hood after the 1958 Ohio armory theft was intercepted. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 23:00-23:35)*
+
+## Additional claims (Road to Dallas Ch. 5, ewa/dallas-5)
+
+- Host, crediting Patreon subscriber "Riley Ken": [[frank-brandstetter]] and Cannon had parallel Texas trajectories: Brandstetter was at Fort Sam Houston on reserve duty each year 1955-58 (provost marshal of the Fourth Army Area Intelligence School in Aug. 1957), while Cannon was provost marshal at Fort Hood in 1958; in Aug. 1958 Brandstetter was again at Fort Sam Houston, and in Oct. 1958 Cannon was brought there as a "mental patient" after being accused of stealing gear and shooting cattle. Host asks whether Brandstetter trained him and infers they likely met in Havana. Speculative. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 25:15-33:40)*
+- Finegan deposition (29 July 1961): Cannon described as close to [[manuel-ray]], operating a rebel radio transmitter and having "the goodies" (high-speed boats, arms); Finegan says "Cannon" may not be his real name and calls him a July 26th veteran, which the host doubts. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 34:49-38:00)*
+- Host recalls Cannon and [[david-atlee-phillips]] were both later Middle East-based after Suez and calls a Brandstetter link "likely just a coincidence." *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 26:03-26:33)*

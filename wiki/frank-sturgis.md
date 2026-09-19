@@ -29,6 +29,8 @@ relations:
     target: norman-rothman
     note: "Rothman was the mob-casino emissary to Sturgis as Castro gambling czar, 1959-60"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
     label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
@@ -117,3 +119,10 @@ This is the dedicated Sturgis episode of [[road-to-dallas]]; the host calls him 
 
 - Per Hancock, Hunt/Risch and Peter Dale Scott, [[norman-rothman]] was the primary emissary between mafia casino interests and Castro's new gambling czar Sturgis in 1959-60; both relocated to Miami in 1960. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 23:41-24:13)*
 - Hemming (Argosy, 1993) listed Sturgis among the mob's "boys" in Cuba placed on both the Batista and Castro sides; the host notes Sturgis worked for Castro then, had mob ties via Rothman and "potential ties to US intelligence as we will come to see later". *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 24:49-26:01)*
+
+## Additional (ewa/dallas-5)
+
+- Host (from *Warrior*): in an alleged Feb. 1959 meeting Sturgis told his supposed CIA contact "Colonel Nichols" at the Havana embassy of plans to assassinate Fidel and Raul Castro from rooftop gunners at an air base he oversaw, twice ready but with no CIA green light; host: "something doesn't seem right." *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 2:05-3:05)*
+- Host asks when Sturgis was "flipped"; says from mid-1959 he was at least cooperating with US intelligence, perhaps as a witting CIA asset, and that end of March 1959 he made an unofficial trip to Washington to brief two FBI agents. In April 1959, travelling with Castro to New York, he says two mob associates offered him $1 million to kill Castro; he declined and told Nichols. Authors imply this fed the CIA-mob plots; the host doubts that causality (the plots came out of the CIA Office of Security) but notes the mob was already targeting Fidel in April 1959, echoing Lansky's bounty talk. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 3:05-5:40)*
+- Pre-1959 intel work is "hard to tell" (host recalls the late-40s Israeli courier role); later Operation 40 trainer (alleged) and Watergate burglar under [[e-howard-hunt]]. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 5:40-7:03)*
+- Mid-1959: assembled Americans ostensibly for a Nicaragua invasion including [[gerry-patrick-hemming]] and [[jack-cannon]]; leased a Coral Gables house in June (same neighborhood as [[jm-wave-station]] before its 1962 move); warned 29 June 1959 by Cuban Army intelligence head (cousin of Operation 40's Sam Senes, ASR) he was on Raul's arrest list, and flew his B-25 out on 30 June. He carried out cash from casino taxes: told the Rockefeller Commission in 1975 it was $3-4,000, later admitted about $750,000. He formed the International Anti-Communist Brigade, which funded groups including Hemming's [[interpen]] (some sources: its paratroop wing). Based in Miami by July 1959. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 7:03-10:25)*

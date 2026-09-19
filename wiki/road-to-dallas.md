@@ -11,6 +11,8 @@ relations:
     target: structural-deep-event
     note: "series applies Scott's structural-deep-event frame to the JFK case"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
     label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md"
@@ -72,3 +74,7 @@ Dated 2025-11-28. Covers [[jack-cannon]]'s Fort Hood court-martial and ordnance 
 ## Chapter 4 - Meyer Lansky (ewa/dallas-4)
 
 Published 2025-12-05 (Patreon release May 17, 2025). Covers the mob's Cuba history under [[meyer-lansky]] and [[fulgencio-batista]], the [[havana-mob-conference-1946]], [[santo-trafficante]]'s 1959 detention with [[loran-hall]] and the reported visits by "Ruby", the mob gun network ([[lewis-mcwillie]], [[jack-ruby]], [[edward-browder]], [[norman-rothman]]), and [[jack-cannon]]'s Yakuza ties ([[yoshio-kodama]]). Host: the arms-smuggling networks give "the framework for the eventual assassination". *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 30:33-30:58)* The host previews the final Cuban-segment chapter (Dec. 12): Frank Brandansteader (ASR), army-intelligence officer turned manager of the Havana Hilton. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 32:52-33:20)*
+
+## Chapter 5 - The Secret History of the Havana Hilton (ewa/dallas-5)
+
+Published 2025-12-12 (Patreon release May 26, 2025); final chapter of the Cuba segment. Recaps [[frank-sturgis]]'s 1959 flip and flight to Miami, then profiles [[frank-brandstetter]], manager of the [[havana-hilton]] and long-time Army-intelligence informant, with links to [[jack-cannon]], [[david-atlee-phillips]], [[manuel-ray]], [[philippe-thyraud-de-vosjoli]], Dallas's 488th reserve unit ([[jack-crichton]], Col. George Lumpkin), [[henry-crown]] and [[operation-paperclip]] speculation. Host thesis: Army intelligence networks in Cuba founded the later Gulf Coast paramilitary network. Next in the series (returning later in 2026): No Name Key. The host announces the last two videos of season 3 are the first two chapters of a biography of [[charles-willoughby]] (chapter 1 the next Friday). No UFO, Tesla, Cheney or secret-society content, though Brandstetter's NASA/Apollo and Paperclip ties are aerospace-adjacent. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 48:07-49:31, 50:39-51:44)*

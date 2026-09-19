@@ -28,6 +28,8 @@ relations:
   - relation: alleged_by
     target: eyes-wide-open
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md"
@@ -88,3 +90,8 @@ David Atlee Phillips (born Fort Worth, Texas, 1923) was, per [[eyes-wide-open]],
 ## Additional claims (ewa/dallas-3)
 
 - Host: in 1959 Phillips was "fresh back" from Lebanon and posted at his old Havana desk (his earlier Cuba stint was 1956-57 during Batista's rule, per this chapter; compare the 1955-56 dating in earlier pages, flagged); alongside him at the US embassy base were David Morales ([[david-sanchez-morales]], described as a former PBSuccess colleague and assassination expert) with [[e-howard-hunt]] separately reporting on a short Havana visit (see his page). Host speculation that [[jack-cannon]] might have met Phillips remains unresolved in this chapter. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 33:42-34:59)*
+
+## Additional claims (ewa/dallas-5)
+
+- Per the Brandstetter biography, [[frank-brandstetter]] befriended Phillips in Cuba after the revolution; on Phillips founding [[association-of-former-intelligence-officers]] in 1975, Brandstetter asked that non-CIA officers be allowed to join, became its first non-CIA member and recruited Army and Navy intelligence cadres for it. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 38:40-39:27)*
+- Host: the [[havana-hilton]] was a 15-minute walk from the CIA station at the embassy, so Brandstetter was well placed to scout recruits "on behalf of Phillips and the CIA station." *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 39:27-39:45)*

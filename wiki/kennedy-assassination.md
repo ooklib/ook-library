@@ -8,6 +8,8 @@ relations:
     target: operation-40
     note: "host calls Op 40 'a key piece of the JFK assassination tapestry'"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
@@ -107,3 +109,7 @@ The 22 November 1963 assassination of President John F. Kennedy in Dallas. In th
 ## Additional (ewa/dallas-3)
 
 - Chapter 3 of [[road-to-dallas]] adds the [[odio-incident]], [[loran-hall]] and [[interpen]]'s role as alleged suspects/distractions, and [[gerry-patrick-hemming]]'s claim that Hall was in Dallas that day. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 8:26-9:52, 12:07-14:09)*
+
+## Additional (ewa/dallas-5)
+
+- Host: [[frank-brandstetter]] "figures into the French aspect" through [[philippe-thyraud-de-vosjoli]]'s flight to Acapulco on 22 Nov. 1963, with OAS veteran Captain Jean Souetre (ASR "Suet") said to be caught in Dallas that day; Col. George Lumpkin (Dallas deputy police chief, pilot car driver of the motorcade) and [[jack-crichton]] are named as later debriefing Marina Oswald in a "suspicious" way, promised for later. The TFX scandal around [[lyndon-b-johnson]] and General Dynamics ([[henry-crown]]) vanished after JFK's death. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 15:35-15:58, 30:46-31:23, 45:10-46:40)*

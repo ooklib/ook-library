@@ -7,6 +7,8 @@ relations:
   - relation: alleged_by
     target: eyes-wide-open
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
 ---
@@ -22,3 +24,7 @@ AFIO is, per [[eyes-wide-open]] in chapter 2 of [[road-to-dallas]], the Associat
 ## Relationships
 
 - Founded by [[david-atlee-phillips]]; members drawn from [[central-intelligence-agency]] and other services.
+
+## Additional claims (ewa/dallas-5)
+
+- [[frank-brandstetter]] asked [[david-atlee-phillips]] to open AFIO to non-CIA intelligence officers (Army, Navy) and became its first non-CIA member, acting as a recruiter for the new organization. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 39:01-39:27)*

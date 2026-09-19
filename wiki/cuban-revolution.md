@@ -8,6 +8,8 @@ relations:
     target: bay-of-pigs-invasion
     note: "host: bonds formed in the revolution carried into the anti-Castro exile network of the early 1960s (host thesis)"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
     label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
@@ -57,3 +59,9 @@ The Cuban Revolution as framed by [[eyes-wide-open]] in Chapter 1 of [[road-to-d
 
 - Mob view: the [[national-crime-syndicate]] had run Havana gambling under [[fulgencio-batista]] since 1933; [[meyer-lansky]] left weeks before Castro took power, [[santo-trafficante]] stayed and was jailed in 1959. Mob-run gun-smuggling to Castro after the revolution ([[lewis-mcwillie]], [[jack-ruby]], [[norman-rothman]], pilot [[edward-browder]]) is described as the "framework" for later events. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 14:52-15:25, 30:33-30:58)*
 - Host: the mob wanted "their boys" on both the Batista and Castro sides (Hemming, via host). *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 24:49-25:14)*
+
+## Additional (ewa/dallas-5)
+
+- Host: Castro's rise sent "a wave of anxiety and panic" through American casino owners. Lansky sold his Hotel Nacional casino stake in 1958 to a group headed by Louisiana golfer/gambler Michael Julius McLaney (ASR "Mlan/Mlany"), reportedly bankrolled by Carroll Rosenbloom (owner of the Baltimore Colts, later LA Rams, per a 1963 Miami Herald article); McLaney was "left holding the bag" and later, per the host, lent his brother's property near Lacombe, Louisiana to the mob and associates as a bomb and weapons store for a future Cuba invasion ("much more on this later"). *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 1:07-2:05)*
+- Castro used the [[havana-hilton]] as temporary headquarters after entering Havana on 8 Jan. 1959, hosted by [[frank-brandstetter]]. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 40:32-40:57)*
+- Host thesis (chapter 5): Army intelligence subterfuge networks formed by current and former officers in Cuba during and after the revolution "represent the foundation for the future paramilitary networks on the Gulf Coast"; Cuba was "ground zero" and Florida and Louisiana the "proving grounds where action against Castro would eventually turn into action against JFK." Next chapter: No Name Key. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 48:07-49:31)*

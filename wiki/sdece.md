@@ -11,6 +11,8 @@ relations:
     target: rose-des-vents
     note: "allegedly organized the successor stay-behind with the CIA"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-08 - Operation X and the French Indochina War - LAOS 2.md"
@@ -30,3 +32,7 @@ The SDECE was France's post-war external intelligence agency, created (per Eyes 
 
 - Organized [[plan-bleu-1947]] and [[rose-des-vents]] with the [[central-intelligence-agency]].
 - LAOS 2: French intelligence behind [[operation-x]] ([[mixed-airborne-commando-group]]).
+
+## Additional (ewa/dallas-5)
+
+- [[philippe-thyraud-de-vosjoli]] is described as SDECE's (ASR "STEK") chief liaison for the western hemisphere, present at the [[havana-hilton]] on 1 Jan. 1959, later a whistleblower on KGB moles and per Peter Dale Scott a double agent for the CIA and the OAS. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 41:15-43:38)*

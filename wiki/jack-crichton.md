@@ -21,6 +21,9 @@ relations:
     note: "host: 'Dallas's private spymaster' for cowboy interests"
   - relation: alleged_by
     target: eyes-wide-open
+sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
 ---
@@ -44,3 +47,9 @@ Jack Crichton (ASR "Kriton"/"Kingon"; the name is confirmed by the video descrip
 - Alleged by Fabian Escalante (a Castro intelligence officer; host flags his bias and says the claim is unverified): Crichton and [[george-h-w-bush]] raised money for [[operation-40]] from oil tycoons in Dallas and Houston before the Bay of Pigs. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 25:42-26:29)*
 - Host: since 1956 head of the 488th military intelligence unit, an Army reservist outfit in Dallas, and Dallas representative of Empire Trust Company (holding company of the [[cuban-venezuelan-oil-voting-trust]], the [[george-de-mohrenschildt]] oil firm holding about 50% of pre-revolution Cuban oil rights), giving him motive to fund rollback. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 28:32-29:14)*
 - 1964: Crichton ran for governor of Texas and Bush for Senate, both Republicans, both defeated; Crichton lost to [[john-connally]]. *([ewa/bush-3](../raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md) 31:04-31:44)*
+
+## Additional (ewa/dallas-5)
+
+(Pre-existing schema defect fixed: source entries sat under `relations:` without a `sources:` key.)
+
+- Host (ASR "Jack Kiteon"; the host corrects his earlier "Kitchen"): head of the 488th Strategic Intelligence Reserve Unit, in which [[frank-brandstetter]] served in Dallas in the mid-1950s; the two worked together on "a study of the capability of Soviet oil fields," and Crichton allegedly scouted Soviet business opportunities for Texas oil firms in the early 1990s. Also close to Earl Cabell (see [[earle-cabell]]) and [[clint-murchison]]; with Col. George Lumpkin he later allegedly debriefed Marina Oswald suspiciously (promised for later). *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 26:42-28:22, 31:08-31:23)*

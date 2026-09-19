@@ -14,6 +14,8 @@ relations:
     target: lee-harvey-oswald
     note: "Hemming claimed to have met Oswald in Los Angeles in 1959; host treats the account as questionable"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
     label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
@@ -51,3 +53,7 @@ Gerry Patrick Hemming (ASR: "Jerry Patrick Heming" throughout the transcript; th
 - Argosy 1993 interview with Dick Russell (via host): asked about the mafia and Ruby, said the mob in 1958 "was trying to get their boys into Cuba. Sturgis, Johnny Devo, Jack Cannon, Herman Marx", on both sides, and later tried hits on Fidel in 1959-60; when Russell noted these predate CIA attempts, Hemming: "they all know one another... Quite a few of the people who had worked for the agency and had gotten into a little trouble went to work for people that knew mob people or Howard Hughes people. Everybody gets to know everybody else." *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 24:24-25:50)* (See [[howard-hughes]].)
 - Johnny Devo (Johnny Mitchell Devo): the host notes he is alleged by many to be the man photographed impersonating Oswald in Mexico City in 1963 ([[lee-harvey-oswald]]); a Patreon-exclusive short is promised. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 26:01-26:38)*
 - Met [[loran-hall]] while imprisoned in Cuba; denies Hall was in [[interpen]]. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 15:38-16:52)*
+
+## Additional (ewa/dallas-5)
+
+- Recalled among Sturgis's 1959 band of Americans and as leader of [[interpen]], which the host says [[frank-sturgis]]'s International Anti-Communist Brigade funded (some sources: as its paratroop contingent). The 1961 Finegan deposition (Finegan claims to have left the group in 1961) is flagged as a source for Hemming/Sturgis group detail. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 7:10-7:28, 10:00-10:16, 35:41-36:10)*

@@ -11,6 +11,8 @@ relations:
     target: war-conspiracy
     note: "1972 book/meta-theory used as War Conspiracy series framework"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
@@ -78,3 +80,7 @@ series on the history of the CIA.
 ## Additional (ewa/dallas-3)
 
 - Host re-cites Scott's *Deep Politics* line that Cannon "penetrated Castro's guerilla operations" as the basis for equating [[jack-cannon]] with "Jack Shea", and Scott's note that Castro tolerated Yankee interlopers for their ability to procure US Army surplus gear. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 21:42-21:54, 24:24-24:33)*
+
+## Additional (ewa/dallas-5)
+
+- Host discovered [[frank-brandstetter]] through a passing mention and footnote in *Dallas 63* (p. 140-145 cited). Scott, citing European sources and an Italian Piazza Fontana source, says [[philippe-thyraud-de-vosjoli]] turned double agent for the CIA and the OAS and was an intermediary between CIA leaders including [[richard-helms]] and OAS organizer Jacques Soustelle; Scott also quotes the French spy's autobiography on his flight to Las Brisas on 22 Nov. 1963. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 11:24-11:42, 42:27-43:38, 45:55-46:12)*

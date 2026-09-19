@@ -11,6 +11,8 @@ relations:
     target: china-lobby
     note: "host: China Lobby elevated his career"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
@@ -72,3 +74,7 @@ whom [[eyes-wide-open]] says the [[china-lobby]] "effectively elevated," and who
 ## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
 
 - Host previews a "military-industrial complex and Texas" angle: he says "LBJ Did It" theories, pushed by Roger Stone, Glenn Beck and Alex Jones, make him skeptical, but there are compelling links among LBJ, Texas oil interests, arms manufacturer General Dynamics and organized crime in Texas. Host believes LBJ was likely not a central planner but "clearly had some role in the coverup" and likely had some indication the hit would happen. To be covered in a future War Conspiracy video on General Dynamics, LBJ and Robert McNamara. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 13:04-14:04)*
+
+## Additional (ewa/dallas-5)
+
+- Host: with LBJ's and McNamara's help General Dynamics ([[henry-crown]]) won the 1962 TFX contract; the ensuing scandal haunted LBJ and McNamara until it vanished after JFK's death. LBJ and family also stayed at Las Brisas ([[frank-brandstetter]]). *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 14:56-15:58, 13:54-14:09)*

@@ -13,6 +13,8 @@ relations:
   - relation: investigates
     target: operation-gladio
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
     label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-04-04 - BUSH AND THE CIA - CHAPTER 3.md"
@@ -236,3 +238,7 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 ## Road to Dallas Ch. 4 (ewa/dallas-4)
 
 Host mentions a Patreon series on the history of modern Japan and that the final chapter script had reached about 60 pages; the Cuban segment of [[road-to-dallas]] ends with the following chapter (Dec. 12). *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 31:34-33:20)*
+
+## Additional (ewa/dallas-5)
+
+- Chapter 5 of [[road-to-dallas]] (2025-12-12): [[frank-brandstetter]], [[havana-hilton]]. Host thanks Patreon patrons (producer tier got it May 26, 2025), mentions a modern-Japan series, returns to the series later in 2026 with the No Name Key camps, and announces a two-part [[charles-willoughby]] biography as the last videos of season 3. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 49:41-51:53)*

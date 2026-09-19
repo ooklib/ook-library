@@ -35,6 +35,8 @@ relations:
     target: havana-mob-conference-1946
     note: "convened it at the Hotel Nacional"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
     label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
@@ -110,3 +112,8 @@ Note: `raw/index.md` and the earlier summary above describe this episode as "Cub
 - Convened the [[havana-mob-conference-1946]] at the Hotel Nacional. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 9:22-13:05)*
 - With [[santo-trafficante]] as the second most prominent Havana mob operator after him; Lansky "got out of dodge" in the weeks before Castro took power (per host), unlike Trafficante. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 13:16-13:27, 14:52-15:06)*
 - Host frames the [[national-crime-syndicate]]'s Cuba stake as the seed of its role in later anti-Castro operations; the episode's thesis is that post-revolution Havana was a melting pot creating linkages that lasted until Nov. 22, 1963, with gun-smuggling networks giving "the framework for the eventual assassination". *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 2:32-2:51, 30:33-30:58)*
+
+## Additional claims (Road to Dallas Ch. 5)
+
+- Host: months before Castro won, in 1958, Lansky "seemingly with a crystal ball" sold his stake in the Hotel Nacional casino, his most profitable property, to a group headed by Michael Julius McLaney (ASR "Mlan"), bankrolled per a 1963 Miami Herald article by Carroll Rosenbloom; McLaney was left "holding the bag" when Castro took Havana. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 0:21-1:42)* (Note: the bibliography cites a newspaper claim that McLaney and Rosenbloom bought the Nacional casino in 1958; compare the [[fulgencio-batista]]-era ownership account in the Ch. 4 section above, which describes Lansky and Jake Lansky as owners.)
+- Host recalls his earlier claim that Lansky was telling people he had put a $1 million bounty on Fidel, matching [[frank-sturgis]]'s April 1959 report of a mob offer. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 4:51-5:26)*

@@ -11,6 +11,8 @@ relations:
     target: eyes-wide-open
     note: "narrative in War Conspiracy 1"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
@@ -89,3 +91,7 @@ arms economy.
 ## Additional claims (The Road to Dallas Chapter 0, ewa/dallas-0)
 
 - Host claims the JFK assassination was significant in entrenching the military-industrial complex and permanent war economy in the US; a future [[war-conspiracy]] video will look at General Dynamics, [[lyndon-b-johnson]] and Robert McNamara. *([ewa/dallas-0](../raw/ewa/Eyes Wide Open - 2025-11-13 - The Road to Dallas Chapter 0 - JFK Assassination Thesis.md) 2:33-2:43, 13:04-14:04)*
+
+## Additional (ewa/dallas-5)
+
+- Host: General Dynamics under [[henry-crown]] was catapulted into the top of the US military economy, culminating in the 1962 TFX/F-111 contract; see [[operation-paperclip]] for the host's framing of Paperclip as installing German rocket scientists "in positions in the nascent military-industrial complex." *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 14:40-15:35, 19:46-19:56)*

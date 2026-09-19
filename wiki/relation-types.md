@@ -61,4 +61,5 @@ asymmetric (the inverse is implied, not separately stored). Symmetric ones are n
 | `participated_in` | person → program/event | took part in a specific covert operation or event | no |
 | `protected` | person/org → person | used influence to secure another's release, immunity, or leniency, alleged | no |
 | `associate_of` | person/org ↔ person/org | criminal, business, or working partnership alleged by a source, without a formal employment/membership hierarchy | **yes** |
+| `worked_at` | person → place | employed at a specific hotel/site where the place (not an org) is the node; used instead of `employed_by` | no |
 | `trained_by` | person → person | received tradecraft training/instruction from another individual, distinct from formal employment | no |

@@ -8,6 +8,8 @@ relations:
     target: frank-sturgis
     note: "host: Sturgis trained Castro guerrillas (per Sturgis)"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
@@ -50,3 +52,7 @@ Fidel Castro's 1958-59 overthrow of Batista is cast by [[eyes-wide-open]] as the
 ## Additional (ewa/dallas-3)
 
 - Host: by mid-1959 Castro moved to nationalize tourism and gambling, giving [[frank-sturgis]] the "minister of gambling" task; Errol Flynn's pro-Castro films are discussed in the [[jack-cannon]] Flynn-party episode. *([ewa/dallas-3](../raw/ewa/Eyes Wide Open - 2025-11-28 - Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3.md) 30:33-31:30, 36:04-36:56)*
+
+## Additional (ewa/dallas-5)
+
+- Stayed in Oriente for the first week of 1959, entered Havana on 8 Jan. and turned the [[havana-hilton]] into his temporary headquarters (penthouse office). Per [[frank-sturgis]], mob associates offered $1 million to kill him in April 1959; Sturgis says he planned to assassinate Fidel and Raul in Feb. 1959. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 2:28-4:42, 39:45-40:50)*

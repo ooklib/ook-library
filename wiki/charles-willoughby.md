@@ -13,6 +13,8 @@ relations:
     target: yoshio-kodama
     note: "his G2 helped secure Kodama's 1948 release from Sugamo"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
     label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
@@ -51,3 +53,8 @@ General Charles Willoughby was Douglas MacArthur's intelligence chief in the Pac
 ## Additional claims (Road to Dallas Ch. 4)
 
 - Host: his G2 army-intelligence contingent in postwar Japan (including [[jack-cannon]]) helped secure [[yoshio-kodama]]'s 1948 release from Sugamo prison; Willoughby "and his deputy Cannon" worked behind the scenes to bring Kodama "into the US fold". The host promises fuller coverage of Willoughby in Japan later. *([ewa/dallas-4](../raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md) 27:43-29:09)*
+
+## Additional (ewa/dallas-5)
+
+- Host announces a biography series on Willoughby ("the forgotten spy master") as the last two videos of season 3: as MacArthur's intelligence head for 10 years in the Pacific and Tokyo, he had an "outsized impact" on early Cold War intelligence, is dismissed for a reputation as the "worst spy in US history" (host: a popular reputation he wants to review), and his influence extended into the JFK assassination "in many compelling ways." *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 50:39-51:37)*
+- In 1951 he left with MacArthur despite General Ridgway (see [[frank-brandstetter]]) asking him to stay on in Korea. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 24:10-24:35)*

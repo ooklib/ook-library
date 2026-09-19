@@ -8,6 +8,8 @@ relations:
     target: zenith-technical-enterprises
     note: "host: leased the former naval air base research facilities that became the JM/WAVE site; Zenith was its tenant"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
 ---
@@ -22,3 +24,7 @@ The University of Miami appears in [[eyes-wide-open]]'s account only as the less
 ## Relationships
 
 - Landlord of [[zenith-technical-enterprises]] / [[jm-wave-station]] site.
+
+## Additional (ewa/dallas-5)
+
+- Host notes George Finegan, deposed 29 July 1961 about Cuban exile groups, was a University of Miami student in "aviation management" (1960 Miami Herald), and that the university leased grounds to the CIA for JM/WAVE in early 1962; host guesses he was an informant. See [[manuel-ray]]. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 35:11-35:49)*

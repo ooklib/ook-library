@@ -29,6 +29,9 @@ relations:
     note: "major donor; Nixon a frequent guest at Del Charro"
   - relation: alleged_by
     target: eyes-wide-open
+sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md"
+    label: "The Secret History of the Havana Hilton - The Road to Dallas Chapter 5 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
 ---
@@ -52,3 +55,7 @@ Clint Murchison Sr. of Tyler, Texas (the ASR renders "Merkerson"/"merkus"; norma
 
 - Member of the [[texas-raj]] and [[del-charro-set]]; best friend and partner of [[sid-richardson]]; alleged briber of [[j-edgar-hoover]].
 - Client-employer of [[irving-davidson]]; backer of [[draft-eisenhower-movement]] and [[richard-nixon]].
+
+## Additional (ewa/dallas-5)
+
+- Brandstetter briefly advised "Clint Murchison Sr." (ASR "Mkosen") with a feasibility study for opening resort properties; the relationship fizzled. See [[frank-brandstetter]]. *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 27:22-27:48)*
