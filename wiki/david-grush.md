@@ -32,6 +32,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -189,3 +191,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 ## Additional claims (jm/malmgren)
 
 - Host: [[harald-malmgren]]'s claim that [[richard-bissell]] mentioned the 1933 [[magenta-italy-crash-1933]] is presented as corroboration of Grush's account. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 3:52-4:01, 1:31:37-1:31:59)*
+
+## Additional claims (jm/townsend-brown)
+
+- Grush cited by host for Sarbacher and Oppenheimer setting up UFO secrecy and for ecosystem overlap with Manhattan; 1971 Australian memo also cited. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 2:42-2:56, 49:46-49:58, 58:21-58:33)*

@@ -14,6 +14,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 Home of the 412th Test Wing and an MRTFB (Major Range and Test Facility Base), listed by Gerb
@@ -50,3 +52,7 @@ ranges. *([gerb/mitre](../raw/gerb/mitre.md) 52:21–52:55)*
 
 - Site of the alleged [[hidden-wing-air-force-program]]; AFTC/412th Test Wing is
   [[air-force-material-command|AFMC]]'s test-and-evaluation center.
+
+## Additional claims (jm/townsend-brown)
+
+- See SAIC's 1988 electrogravitics study for Edwards ([[electrogravitics]]). *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:30:46-1:31:17)*

@@ -20,6 +20,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 Physicist Hal Puthoff sponsored Ferris Williams's propulsion research presented at a June 2001
@@ -56,3 +58,7 @@ UFO technology conference in La Jolla, San Diego. *([gerb/saic](../raw/gerb/saic
 ## Additional claims (jm/malmgren)
 
 - Host says it is now public through Puthoff that George W. Bush contemplated UFO disclosure with Stephen Hadley. *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 5:20-5:30)**)*
+
+## Additional claims (jm/townsend-brown)
+
+- Featured; polarizable-vacuum approach discussed (Puthoff's stated view); Ferris Williams' research noted as sponsored by him. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:25:11-1:26:31)*

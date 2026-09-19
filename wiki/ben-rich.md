@@ -12,6 +12,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 Ben Rich, the second director of [[skunk-works|Lockheed Skunk Works]] (1975–1991), is famous in
@@ -53,3 +55,7 @@ Lockheed possessed physics-defying, possibly nonhuman-derived technology.
 ## Additional claims (jm/malmgren)
 
 - Host: [[rand-corporation]]'s long-time president Michael Rich is Ben Rich's son, evidence of "a small group of people that are all interconnected". *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 2:34:21-2:34:43)**)*
+
+## Additional claims (jm/townsend-brown)
+
+- John Andrews of Testors allegedly received his deathbed remark: "we already have the means to travel among the stars" but locked in black projects; also worried about an international corporate board (see [[caroline-group]]). *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:08:15-1:09:13)*

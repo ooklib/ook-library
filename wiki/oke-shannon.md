@@ -13,6 +13,8 @@ relations:
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 Oke Shannon, former manager of special projects at [[los-alamos-national-laboratory|Los
@@ -38,3 +40,7 @@ facility, supervised by [[john-b-alexander|Col. John B. Alexander]].
 
 - Former [[los-alamos-national-laboratory]] employee; figure in the [[wilson-davis-notes]];
   documented the 1985 conference discussing [[donald-kerr]] and [[bobby-ray-inman]].
+
+## Additional claims (jm/townsend-brown)
+
+- Said an antigravity device would be built on Ferris Williams' 5D theory; Williams was his colleague at Los Alamos. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:30:28-1:30:46)*

@@ -18,6 +18,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 The historical Air Force UFO-investigation project, referenced as a comparison point: AARO was
@@ -59,3 +61,7 @@ became **Project Grudge** in 1949 (running until 1951), superseded by **Project 
 - Historical precedent Gerb compares to [[aaro]]; paralleled by Battelle's
   [[project-stork|Project Stork]]; preceded by Project Sign and Project Grudge; directed by
   [[edward-j-ruppelt]]; succeeded/ended by the [[condon-committee]].
+
+## Additional claims (jm/townsend-brown)
+
+- Called the public-facing committee; in [[hartford-ufo-crash-1960]] Brown allegedly front-ran it. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:14:52-1:14:58, 1:17:43-1:18:17)*

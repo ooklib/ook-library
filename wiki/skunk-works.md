@@ -22,6 +22,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 Skunk Works (formally the Advanced Development Programs division) is Lockheed's highly
@@ -60,3 +62,7 @@ Lightning II. *([gerb/lockheed](../raw/gerb/lockheed.md) 21:16–21:39, 22:47–
 - Alleged [[alien-reproduction-vehicle-tr3b]] contractor.
 - Comparable classified-programs divisions: Boeing Phantom Works, Northrop's Advanced
   Technology Development Center ([[northrop-grumman]]).
+
+## Additional claims (jm/townsend-brown)
+
+- Brown was at Martin the year Skunk Works was founded; Nick Cook spoke with multiple Skunk Works presidents. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 2:12-2:18, 4:53-5:13)*

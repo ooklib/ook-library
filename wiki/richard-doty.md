@@ -12,6 +12,8 @@ relations:
 sources:
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 Richard "Rick" Doty (rendered "Rick Dodie" in the ASR transcript), a former AFOSI
@@ -48,3 +50,7 @@ initiatives, yet remains controversial. *([gerb/hidden_wing](../raw/gerb/hidden_
 - Former [[air-force-office-of-special-investigations|AFOSI]] counterintelligence agent at
   [[kirtland-air-force-base]]; alleged Space Force disinformation-job contact of
   [[luis-elizondo]].
+
+## Additional claims (jm/townsend-brown)
+
+- Alleged to have deceived Paul Bennewitz and Linda Molton with materials resembling Lazar's documents; host reads as coordinated disinformation. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 36:12-37:07)*

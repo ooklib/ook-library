@@ -14,6 +14,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 Musician who founded [[to-the-stars-academy|To the Stars Academy]], publicly launched on Joe
@@ -54,3 +56,7 @@ Rogan Experience episode 1029 (26 October 2017). ASR-transcribed as "Tom Dong" i
 - Founder of [[to-the-stars-academy]]; alleged recipient of [[luis-elizondo]]'s disclosures about
   [[immaculate-constellation]]; TTSA cast by Gerb as the vehicle for
   [[advanced-aerospace-threat-identification-program|ATIP]]'s partial-disclosure campaign.
+
+## Additional claims (jm/townsend-brown)
+
+- Host suggests Lockheed's Robert Weiss link to TTSA served talent and awareness needs. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 44:25-44:53)*

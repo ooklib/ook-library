@@ -10,9 +10,14 @@ relations:
   - relation: employed_by
     target: central-intelligence-agency
     note: "described by Eyes Wide Open as the first director of the CIA"
+  - relation: member_of
+    target: nicap
+    note: "board member, per host"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 Roscoe Hillenkoetter (rendered "Hillenk Oetter" in Eyes Wide Open's ASR captions) was a US naval
@@ -33,3 +38,7 @@ effectiveness.
 
 - Succeeded [[william-donovan]] as leader of US foreign intelligence, becoming (per Eyes Wide
   Open) first director of the [[central-intelligence-agency]].
+
+## Additional claims (jm/townsend-brown)
+
+- Rumored to have been involved in the Roswell crash and joined the board of [[nicap]]. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:10:10-1:10:20)*

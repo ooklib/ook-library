@@ -59,6 +59,9 @@ relations:
   - relation: contractor_for
     target: area-6
     note: "operates Area 6's aerial operations facility (UAV testing) on the NNSS"
+  - relation: operates
+    target: aurora-astra
+    note: "rumored, per host"
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-12-05 - Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4.md"
     label: "Meyer Lansky - Cuban Tabloid - The Road to Dallas Chapter 4 (Eyes Wide Open)"
@@ -74,6 +77,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -277,3 +282,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Additional claims (jm/malmgren)
 
 - [[harald-malmgren]] claims [[richard-bissell]] said there was "a lot of interaction between Lockheed Martin and the CIA" around specific atomic tests and technology development where the UFO phenomenon showed up. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:24:32-1:24:49)*
+
+## Additional claims (jm/townsend-brown)
+
+- Host: Lockheed's rumored [[aurora-astra]] may use Brown-derived propulsion; ET narrative shielded it; Lockheed lobbied through Rep. Mike Turner against the Schumer bill. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 41:27-44:59)*

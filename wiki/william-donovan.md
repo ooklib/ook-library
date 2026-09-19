@@ -46,6 +46,8 @@ relations:
   - relation: member_of
     target: knights-of-malta
     note: "listed as a Knight, per host"
+  - relation: associate_of
+    target: william-stevenson
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-12-19 - America’s Fascist Spymaster - WILLOUGHBY 1.md"
     label: "America’s Fascist Spymaster - Willoughby 1 (Eyes Wide Open)"
@@ -77,6 +79,8 @@ sources:
     label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 William "Wild Bill" Donovan was a WWI-hero-turned-Wall-Street-lawyer who became the first (and
@@ -198,3 +202,7 @@ administrator.
 ## Additional claims (jm/malmgren)
 
 - Host: journalist Chris Sharp notes Donovan was likely involved in the Magenta retrieval and in setting up UFO crash-retrieval protocols; Donovan is listed as a Knight of Malta. *(Host, speculative:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:40:35-1:40:51)**)*
+
+## Additional claims (jm/townsend-brown)
+
+- Alleged co-leader with [[william-stevenson]] of the 1945 Germany mission Brown joined. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 52:48-53:13)*

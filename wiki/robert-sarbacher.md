@@ -12,11 +12,15 @@ relations:
   - relation: alleged_by
     target: j-robert-oppenheimer
     note: "inverse: Sarbacher named Oppenheimer as a likely crash-retrieval participant"
+  - relation: associate_of
+    target: thomas-townsend-brown
 sources:
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 Dr. Robert Sarbacher, a respected physicist and 1950s consultant to the DoD's Research and
@@ -58,3 +62,8 @@ case. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:54:24–1:54:42)*
 ## Additional claims (jm/malmgren)
 
 - Host: Sarbacher told Stanton Friedman that MIT president [[carl-compton]] was briefed on UFO technology at Wright Field in 1950, and is cited saying UFO secrecy ranks above the hydrogen bomb. *(Host, second-hand:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 21:47-22:26)**)*
+
+## Additional claims (jm/townsend-brown)
+
+- Said to be Brown's close confidant, picked him up in Paris in 1956, met him repeatedly in Nassau; Einstein student, Harvard/Georgia Tech, Oak Ridge board; son said his father was "responsible for chasing UFOs". *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 2:25-2:42, 59:39-1:01:59)*
+- David Grush says he helped set up secrecy. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 2:42-2:49)*

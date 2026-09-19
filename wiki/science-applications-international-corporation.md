@@ -65,6 +65,8 @@ relations:
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 Science Applications International Corporation (SAIC, called "SIC" throughout the ASR
@@ -220,3 +222,7 @@ whistleblower).
   [[northrop-grumman]]/Newport News Shipbuilding ([[amsc-llc]]).
 - Hosted [[project-stargate]]; corporately linked (disputedly) to [[decision-science-
   applications]].
+
+## Additional claims (jm/townsend-brown)
+
+- 1988 SAIC paper for Edwards AFB: Woodward's Brown-derived work valid; Ferris Williams essential. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:30:46-1:31:17)*

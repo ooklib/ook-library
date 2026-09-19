@@ -18,6 +18,8 @@ relations:
 sources:
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 The Manhattan Engineer District (MED) was the US Army Corps of Engineers organization that
@@ -61,3 +63,7 @@ within the modern US Air Force. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 42:
 - Commanded by [[leslie-groves]]; established the [[alsos-mission|ALSOS missions]].
 - Analogous, per UAP Gerb, to the modern Air Force [[rapid-capabilities-office]] as a
   bureaucracy-bypassing cover organization for covert programs.
+
+## Additional claims (jm/townsend-brown)
+
+- Reported UFO sightings on test films; [[lookout-mountain-laboratory]] as its film lab. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:02:28-1:04:25)*

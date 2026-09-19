@@ -97,6 +97,8 @@ sources:
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -289,3 +291,7 @@ calls him "arguably one of, if not the most important person in modern American 
 
 - [[harald-malmgren]] says Bissell told him Dulles arranged the steps by which the Magenta object reached the US and that Dulles ran the OSS from Switzerland; on visiting Dulles's Bern-era apartment as a US trade official Malmgren was told Dulles wanted to be beyond US law, "to allow him a free hand to do the most terrible things if needed". Malmgren calls him "a creepy guy". *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:32:25-1:34:59)*
 - Host: after Bay of Pigs Dulles and LeMay were at loggerheads with JFK, and Dulles (fired) was at Brown Brothers Harriman plotting revenge, per the Danny Sheehan narrative Malmgren neither endorses nor denies (see [[john-f-kennedy]]). Host also relays [[paul-mellon]]'s anecdote of standing on a saucer with Dulles in Czechoslovakia. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 50:06-50:51, 3:00:39-3:03:13, 1:43:10-1:44:39)*
+
+## Additional claims (jm/townsend-brown)
+
+- With Paul Mellon allegedly saw a German disc at Pilsen, May 1945 (per John Warner IV). *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 56:39-57:11)*

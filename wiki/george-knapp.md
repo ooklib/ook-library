@@ -9,9 +9,13 @@ relations:
   - relation: investigates
     target: national-nuclear-security-administration
     note: "2020 report on the 2008 Needles, CA object crash and NNSA OST response"
+  - relation: associate_of
+    target: john-lear
 sources:
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 George Knapp, Las Vegas investigative journalist (KLAS-TV), has reported for decades on Area 51,
@@ -43,3 +47,7 @@ George Knapp, Las Vegas investigative journalist (KLAS-TV), has reported for dec
 
 - Investigated [[eg-and-g]]'s alleged UFO-materials custody via Alfred O'Donnell; reported on the
   2008 Needles, CA crash and its [[national-nuclear-security-administration]] response.
+
+## Additional claims (jm/townsend-brown)
+
+- Broke the Lazar story after John Lear's 1987-89 introductions; per Knapp, Lear may have flown for the CIA into the 1980s. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 34:04-34:55)*

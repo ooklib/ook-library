@@ -1,0 +1,27 @@
+---
+title: Philadelphia Experiment
+kind: event
+aliases: ["USS Eldridge experiment"]
+tags: [navy, invisibility, 1943]
+relations:
+  - relation: alleged_by
+    target: jesse-michels
+  - relation: associate_of
+    target: thomas-townsend-brown
+    note: "disputed involvement"
+sources:
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+---
+
+The alleged 1943 US Navy experiment to make USS Eldridge invisible or teleport it, treated in this source as a cover story with a real incident behind it.
+
+## Claims (jm/townsend-brown)
+
+- Jan Lundquist thinks a turbine or nuclear-related accident with radioactive fluid contamination occurred and that the popular story muddies the water. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:11:47-1:12:29)*
+- Brown told friend Josh Reynolds the book and film were inflated; he was discharged in 1942, stalled a Navy transfer of his equipment to Norfolk, and resigned "for the good of the Navy and to avoid court martial". Schatzkin thinks he went straight to California; Paul LaViolet thinks he stayed near Norfolk. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:12:29-1:13:19)*
+- A 1942 FBI file put Brown in Laurel Canyon, said he knew more about radar than anyone in the Navy, was stationed at Norfolk Atlantic Fleet school, and contained a homosexuality claim the host reads as Hoover-style compromising material. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:13:19-1:14:29)*
+
+## Relationships
+
+- Brown's involvement disputed; see [[thomas-townsend-brown]].

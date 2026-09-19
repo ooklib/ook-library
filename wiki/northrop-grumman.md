@@ -28,6 +28,8 @@ relations:
   - relation: provides_counterintelligence_for
     target: terry-phillips
     note: "VP for security since 2023; Gerb alleges Phillips runs Northrop's UFO-program security apparatus"
+  - relation: operates
+    target: b-2-stealth-bomber
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -37,6 +39,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 Northrop Grumman has primary offices in [[crystal-city-virginia|Crystal City]] and is listed
@@ -125,3 +129,7 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
   [[tahone-radar-cross-section-facility]]; security apparatus led by [[terry-phillips]] with
   [[john-c-freestone]], [[kathy-andrews]], and [[vince-devine]] under him.
 - War Conspiracy 1: [[military-industrial-complex]].
+
+## Additional claims (jm/townsend-brown)
+
+- Floyd Odom, majority owner of Northrop pre-merger, invested in [[guidance-technologies]]; 1968 electro-aerodynamics paper retracted; [[b-2-stealth-bomber]] allegedly uses Brown-type effect. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 25:07-27:33)*

@@ -19,6 +19,8 @@ relations:
 sources:
   - file: raw/gerb/secrecy_1.md
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 J. Robert Oppenheimer, scientific director of the Manhattan Project's Los Alamos laboratory, is
@@ -63,3 +65,7 @@ speculative. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 2:00:15–2:00:27)*
   in the disputed [[interplanetary-phenomenon-unit]] report and in
   [[robert-sarbacher|Sarbacher]]'s testimony to William Steinman as an alleged crash-retrieval
   team member.
+
+## Additional claims (jm/townsend-brown)
+
+- Among top physicists working on gravity's nature in the 1950s-60s; Grush claims he helped set up UFO secrecy. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 49:46-49:58, 1:02:45-1:02:55)*

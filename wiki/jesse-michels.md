@@ -7,9 +7,14 @@ relations:
   - relation: investigates
     target: harald-malmgren
     note: "interviewed him in 2025 shortly before his death"
+  - relation: investigates
+    target: thomas-townsend-brown
+    note: "2024 documentary"
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 Jesse Michels is the host of the American Alchemy YouTube channel (registry channel `jm`), which conducts long-form interviews on UFO/UAP, deep politics and secret science. The channel's sponsor/advertisement segments are not recorded in this wiki.
@@ -23,3 +28,9 @@ Jesse Michels is the host of the American Alchemy YouTube channel (registry chan
 ## Relationships
 
 - Interviewer of [[harald-malmgren]].
+
+## Claims and contributions (jm/townsend-brown)
+
+- Produced and narrated the 2024 Townsend Brown documentary, with Bryan Felber; frames Brown as the original UFO architect, offers a $50,000 Biefeld-Brown bounty and states his own money is in a chemical rocket company. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 0:32-0:42, 1:38:21-1:38:37, 1:46:35-1:47:13)*
+- Host thesis: John Lear was used by the CIA to leak the Lazar story as disinformation to shield exotic propulsion. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 33:46-35:44)*
+- Calls for the legacy program to come forward and open-source Brown's framework. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:36:54-1:38:48)*

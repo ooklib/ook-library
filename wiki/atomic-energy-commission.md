@@ -33,6 +33,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 The Atomic Energy Commission (AEC), created by the 1946 Atomic Energy Act, was the civilian
@@ -122,3 +124,7 @@ administration|NNSA]] UFO legacy-program gatekeeping structure. *([gerb/sandia](
 
 - [[harald-malmgren]] says he wrote to the AEC as a young teen and received information on atomic energy and the genetic effects of Hiroshima/Nagasaki; that the AEC managed the separate "Q" clearance for nuclear weapons information; that the [[bluegill-triple-prime]] test staff were under AEC jurisdiction and Albuquerque head [[lawrence-preston-gise]]. The host claims UFO secrecy was bound up with atomic secrecy, and that the CIA and AEC allegedly got the idea of UFO shootdown from a Roswell survivor (Malmgren via daughter). *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 17:15-17:50, 1:03:23-1:04:18, 1:09:33-1:10:01, 1:27:41-1:28:09)*
 - Malmgren says the DOE, successor to the AEC, oversees national labs with advanced R&D beyond MIT/Harvard/Stanford. *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 2:50:39-2:51:20)*
+
+## Additional claims (jm/townsend-brown)
+
+- Host: crash material custody could pass Manhattan Project to AEC to DOE. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:18:17-1:18:35)*

@@ -23,6 +23,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 Dr. Eric Davis is the physicist who transcribed the [[wilson-davis-notes|Wilson-Davis notes]],
@@ -74,3 +76,7 @@ the estate of the late astronaut [[edgar-mitchell|Edgar Mitchell]].
 - Transcriber of the [[wilson-davis-notes]]; employed by [[air-force-research-laboratory]];
   collaborator of [[hal-puthoff]] and, later, [[james-t-ryder]] on the Starfire Project; source on
   the alleged [[zodiac-crash-retrieval-program]] per Jacques Vallee's journals.
+
+## Additional claims (jm/townsend-brown)
+
+- Conceded, while debunking the effect, that an Air Force study derived electrogravitic coupling from a 5D continuum. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:31:56-1:32:13)*

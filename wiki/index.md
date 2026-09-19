@@ -179,7 +179,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[j-andrew-kissner]] · [[george-knapp]] · [[sumner-shapiro]] · [[richard-doty]] ·
 [[eric-henry-wang]] · [[robert-sarbacher]] · [[matthew-sullivan]] · [[harry-reid]] ·
 [[edward-j-ruppelt]] · [[harald-malmgren]] · [[pippa-malmgren]] · [[lawrence-preston-gise]] ·
-[[geoffrey-cruickshank]] · [[jesse-michels]]
+[[geoffrey-cruickshank]] · [[jesse-michels]] · [[john-lear]] · [[paul-schatzkin]] · [[nick-cook]] (last three added by `jm/townsend-brown`)
 
 ## People — gatekeepers & officials
 
@@ -207,7 +207,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[franz-xaver-dorsch]] · [[ronald-reagan]] · [[ben-rich]] · [[james-v-forrestal]] ·
 [[edward-dahl]] · [[donald-c-winter]] · [[george-c-marshall]] · [[leslie-groves]] ·
 [[j-robert-oppenheimer]] · [[carl-compton]] · [[john-trump]] · [[thomas-townsend-brown]] ·
-[[nikola-tesla]] · [[curtis-lemay]] · [[robert-mcnamara]] · [[paul-mellon]] · [[anatoly-dobrynin]] (added by `jm/malmgren`)
+[[nikola-tesla]] · [[curtis-lemay]] · [[robert-mcnamara]] · [[paul-mellon]] · [[anatoly-dobrynin]] (added by `jm/malmgren`) · [[bill-lear]] · [[william-stevenson]] · [[edward-teller]] · [[agnew-bahnson]] · [[victor-schauberger]] (added by `jm/townsend-brown`)
 
 ## Programs / Events
 
@@ -320,3 +320,5 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[the-third-option]] — Shackley's covert-action doctrine and books; source-reliability notes — added by `ewa/shackley`.
 
 [[norman-rothman]] — mob casino manager/arms procurer, Trafficante-Sturgis emissary · [[lewis-mcwillie]] — Havana casino man, Ruby's friend · [[edward-browder]] — CIA-linked gun-running pilot · [[fulgencio-batista]] — Cuban dictator, Lansky's casino partner · [[yoshio-kodama]] — Japanese Yakuza boss tied to Willoughby/Cannon and Lockheed · [[havana-mob-conference-1946]] — Hotel Nacional mob summit (event) — added by `ewa/dallas-4`.
+
+**Added by `jm/townsend-brown`:** [[chapel-hill-conference-1957]] — 1957 gravity conference · [[hartford-ufo-crash-1960]] — alleged crash, Brown retrieval · [[philadelphia-experiment]] — 1943 Navy legend · [[b-2-stealth-bomber]] — alleged Brown-effect use · [[aurora-astra]] — rumored Lockheed black triangle · [[avro-avrocar]] — US-Canada disc project · [[the-bell]] — Nazi Die Glocke · [[winter-haven-proposal]] — Brown's 1953 proposal · [[electrogravitics]] and [[extended-electrodynamics]] — concepts · [[nicap]] — civilian UFO group founded by Brown (alleged) · [[caroline-group]] — alleged elite consortium · [[guidance-technologies]] — Brown's 1960s company · [[lookout-mountain-laboratory]] — Laurel Canyon film lab.

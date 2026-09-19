@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
+    label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
 ---
 
 Inventor Nikola Tesla. In the Malmgren interview he is the subject of a claimed antigravity collaboration with [[thomas-townsend-brown]] and of a suppressed-papers narrative.
@@ -22,3 +24,7 @@ Inventor Nikola Tesla. In the Malmgren interview he is the subject of a claimed 
 ## Relationships
 
 - Alleged collaborator of [[thomas-townsend-brown]]; papers reviewed by [[john-trump]].
+
+## Additional claims (jm/townsend-brown)
+
+- Host: high-voltage/low-current lineage from Tesla (Wardenclyffe) to Brown. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 54:37-54:55, 1:29:14-1:29:25)*
