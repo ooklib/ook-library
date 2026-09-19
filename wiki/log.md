@@ -1156,3 +1156,11 @@ Judgment calls: (1) No new relation types. (2) Sponsor segments (Boll & Branch) 
 ## [2026-09-19] refactor | Majestic 12 member roster
 
 Restructuring, not an ingest. Added an `## Alleged members` table to [[majestic-12]] (12 original members plus Walter Bedell Smith), replacing the buried roster sentence in the Secrecy Vol. 1 claims bullet with a pointer. Created [[jerome-hunsaker]], [[robert-m-montague]], [[sidney-souers]]; expanded [[lloyd-berkner]]; added `## MJ-12` sections and `member_of` edges to all member pages (including [[hoyt-vandenberg]], [[walter-bedell-smith]]). Added the wiki owner's labeled working hypothesis to [[mj12-disinformation-hypothesis]]. No new relation types.
+
+## [2026-09-19] ingest | UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (2m15s)
+
+Source: raw/rc/ (key `rc/grusch`), https://www.youtube.com/watch?v=RBAISwCZ2v0 by NewsNation (host Ross Coulthart), dated 2025-04-02 (interview aired June 2023); ~42m. Created 5 pages: [[grusch-newsnation-interview-2023]], [[non-human-intelligence]], [[uap-task-force]], [[intelligence-community-inspector-general]], [[us-ussr-nuclear-accident-agreement-1971]]. Updated: [[david-grush]], [[ross-coulthart]], [[aaro]], [[sean-kirkpatrick]], [[magenta-italy-crash-1933]], [[roswell-incident-1947]], [[malmstrom-minuteman-incident-1967]], [[pope-pius-xii]], [[eric-burlison]], [[national-geospatial-intelligence-agency]], [[2004-nimitz-encounter]], [[index]].
+
+Summary: Grusch's first TV interview: UAPTF refused access to a crash retrieval program holding non-human craft; Magenta 1933 and Roswell recoveries, Malmstrom 1967 probing, contractor custody of craft, alleged malevolent NHI events and suspected murders, Russian/Chinese programs, disinformation campaign, ICIG finding of "urgent and credible". Grusch admits he has never seen NHI or craft; Coulthart stresses he has no documents or photos.
+
+Judgment calls: (1) No new relation types. (2) Wiki spells the name "Grush" (existing page); "Grusch" added as alias, source spelling kept in prose. (3) ASR: "Grush", "Colart/Kulart", "Kurpatre"=Kirkpatrick, "Kaine"=Kean (Leslie Kean, unlinked). (4) Promo/credits ignored; narration by Coulthart/Vargas attributed to them, not Grusch. (5) Uncertain NHI/killing claims recorded as his second-hand briefings.

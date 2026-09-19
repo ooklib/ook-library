@@ -14,6 +14,8 @@ relations:
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
+    label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
 ---
 
 A widely publicized 2004 encounter off San Diego in which US Navy personnel from the USS Nimitz
@@ -38,3 +40,7 @@ maneuvers, following two weeks of radar/sensor detections of objects descending 
 
 - Witnessed by [[david-fravor]] and Senior Chief Wiggins; cited by Gerb as thematically
   supporting evidence for [[tic-tac-factory-uso]].
+
+## Additional claims (rc/grusch)
+
+- [[david-grush]] calls the Tic Tac "absolutely a technical vehicle... something that we didn't make. Not of this world, most likely"; he says the 2015 Roosevelt video is "certainly not a jet" and that only three videos were declassified. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 20:44-23:23)*

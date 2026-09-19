@@ -1,9 +1,12 @@
 ---
 title: David Grush
 kind: person
-aliases: [Dave Grush]
+aliases: [Dave Grush, David Grusch, Dave Grusch]
 tags: [whistleblower, uap, legacy-program]
 relations:
+  - relation: references_testimony_of
+    target: intelligence-community-inspector-general
+    note: "filed his whistleblower complaint with the ICIG"
   - relation: alleged_by
     target: uap-gerb
   - relation: alleged_by
@@ -44,6 +47,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
+    label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -225,3 +230,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 ## Additional claims (rc/mj12)
 
 - Coulthart recalls that in June 2023 Grusch told him of the 1933 Magenta crash and a 1944 OSS/Dulles/Angleton effort, with Vatican help, to transfer the craft to the US. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 16:11-16:59)*
+
+## Additional claims (rc/grusch)
+
+- In the June 2023 NewsNation interview (see [[grusch-newsnation-interview-2023]]), Grusch says he co-led the UAP portfolio at the [[national-geospatial-intelligence-agency]] until April 2023, joined the [[uap-task-force]] in 2019, was denied access to a crash retrieval program, and filed a complaint with the [[intelligence-community-inspector-general]] that was found urgent and credible; he states he has never personally seen NHI or a craft. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 4:34-6:44,)* A March 2025 editor's note says Rep. [[eric-burlison]] hired him. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 0:00)*

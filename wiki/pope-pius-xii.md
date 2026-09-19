@@ -16,6 +16,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md"
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
+    label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
 ---
 
 Pope Pius XII met with [[william-donovan]] at the Vatican in 1945 as the war ended, and per Eyes
@@ -42,3 +44,7 @@ and Vatican worked to secure a Christian Democratic victory.
 ## Additional claims (gerb/magenta)
 
 - Per [[david-grush]] and [[chris-sharp]]'s 2021 reporting, Mussolini confided the retrieved craft to Pius XII, who leaked its existence to the US, leading to the housing facility being spared from Allied bombing; Gerb has no paper trail. Gerb's description spells it "Pope Pius XXII" (error). *([gerb/magenta](<../raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md>) 0:23-0:40, 20:12-20:49)* See [[magenta-italy-crash-1933]].
+
+## Additional claims (rc/grusch)
+
+- [[david-grush]] (NewsNation, 2023): Pius XII back-channelled to the Americans what the Italians held from the Magenta recovery, so the Vatican knew of NHI. Coulthart pushes: the Church "know[s] about the existence of non-human intelligence"; Grusch answers "Certainly". *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 15:31-15:58)*

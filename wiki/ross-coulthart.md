@@ -19,6 +19,8 @@ sources:
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
+    label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
 ---
 
 Ross Coulthart, Australian investigative journalist (host of *Need to Know* with Bryce Sable),
@@ -53,3 +55,7 @@ privately told him the 2004 Nimitz "tic tac" originated from Lockheed Skunk Work
 
 - Host of NewsNation "Reality Check"; in this episode he interviews [[geoffrey-cruickshank]] and [[jed-davis]] on [[majestic-12]], playing devil's advocate but concluding he is "not so sure" the documents are hoaxes. Notes his own sources say at least one craft was recovered at Roswell and refers to his June 2023 interview with [[david-grush]] on Magenta. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 1:11-1:19, 16:11-17:06, 32:25-32:38, 1:15:40-1:15:49)*
 - Recites official denials of MJ-12 (FBI, USAF OSI, ISOO, GAO, National Archives) and admits he had accepted them until now. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 3:44-6:40)*
+
+## Additional claims (rc/grusch)
+
+- Conducted and narrated the June 2023 NewsNation interview with [[david-grush]] (see [[grusch-newsnation-interview-2023]]), pressing him on credibility, mental health, why the secret has not leaked and whether people were killed; closes by saying the allegations, if true, answer the biggest question in human history, while acknowledging Grusch has no documents or photos. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 33:20-33:46,)*

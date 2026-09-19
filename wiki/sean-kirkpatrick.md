@@ -48,6 +48,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
+    label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
 ---
 
 Described as "disgraced" former director of [[aaro]] (All-domain Anomaly Resolution Office).
@@ -153,3 +155,7 @@ the point where he was first briefed or retroactively briefed into UFO legacy-pr
 ## Additional claims (gerb/nukes)
 
 - Per Gerb, [[robert-jacobs]] testified under oath to AARO and Kirkpatrick on 10 Feb 2023 about the [[jacobs-vandenberg-ufo-incident-1964]]. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 7:50-8:07)*
+
+## Additional claims (rc/grusch)
+
+- [[david-grush]] says he has known Kirkpatrick about 8 years, told him about a year before the interview what he was uncovering, and received no follow-up; he says he hopes Kirkpatrick "ultimately does the right thing". NewsNation quotes Kirkpatrick's 19 April 2023 testimony that AARO found no credible evidence of extraterrestrial activity, off-world technology or objects defying known physics. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 25:01-26:21)*

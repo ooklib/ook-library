@@ -17,6 +17,8 @@ relations:
 sources:
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
+    label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
 ---
 
 # Malmstrom Minuteman Missile Shutdown (1967)
@@ -35,3 +37,7 @@ Alleged 24 March 1967 event at [[malmstrom-air-force-base]] in which a hovering 
 
 - Located at [[malmstrom-air-force-base]]; told by [[robert-salas]]; part of [[ufo-nuclear-connection]].
 
+
+## Additional claims (rc/grusch)
+
+- [[david-grush]] describes the incident as a craft hovering over a silo and shutting down ten ICBMs, and reads it as "preparatory probing" or ISR of US nuclear capability. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 18:27-19:07)*

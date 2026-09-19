@@ -28,6 +28,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
+    label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
 ---
 
 The DoD's All-domain Anomaly Resolution Office ("Arrow" in the ASR transcript), the official
@@ -116,3 +118,7 @@ and [[condon-committee]]. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:09:03â€
 ## Additional claims (gerb/nukes)
 
 - Gerb says the [[jacobs-vandenberg-ufo-incident-1964]] was reported to AARO director [[sean-kirkpatrick]] in 2023 with sworn testimony. *([gerb/nukes](<../raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md>) 7:50-8:07)*
+
+## Additional claims (rc/grusch)
+
+- The NewsNation narration describes AARO as the renamed [[uap-task-force]]; [[david-grush]] says he was not part of it during the later hearings, and disputes AARO director [[sean-kirkpatrick]]'s April 2023 testimony that it found no evidence of off-world technology. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 3:31-3:48,)*

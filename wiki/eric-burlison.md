@@ -23,6 +23,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
+    label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
 ---
 
 US Representative Eric Burlison (ASR-transcribed throughout as "Berles"/"Burles") is a
@@ -72,3 +74,7 @@ from Burlison; not otherwise detailed in this source.
   and the whistleblower meeting referenced re: [[tic-tac-factory-uso]]; also sent interrogatories
   to the CIA, [[aerospace-corporation]], and the Navy; named the [[edward-j-ruppelt|Ruppelt]]
   briefing film held at MIT Lincoln Labs.
+
+## Additional claims (rc/grusch)
+
+- NewsNation's 2025 editor's note says Burlison hired [[david-grush]] onto his staff in March 2025 to advise on UFO investigations. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 0:00)*

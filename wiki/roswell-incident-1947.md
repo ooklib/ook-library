@@ -48,6 +48,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
+    label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -163,3 +165,7 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
 ## Additional claims (rc/mj12)
 
 - Coulthart: based on his own sources he believes at least one, possibly two, craft were recovered at Roswell. [[jed-davis]]: DDCI E. K. Wright's diary shows a trip to the West Coast on 4 July 1947; Truman met Air Force leaders 8-9 July; and the [[nia-meeting-1947-06-26]] preceded it. Early on, officials wondered if Roswell was a Russian device (Davis). *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 32:15-33:38, 36:08-36:53, 39:10-39:57)*
+
+## Additional claims (rc/grusch)
+
+- [[david-grush]] declines to discuss Roswell craft details but calls the 1994 Air Force report a "total hack job" that conflated crash-test dummies and Mogul balloons and dismissed witnesses. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 16:08-17:55)*

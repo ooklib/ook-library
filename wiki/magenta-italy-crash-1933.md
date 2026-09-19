@@ -34,6 +34,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
+    label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
 ---
 
 Cited by Gerb as an example of a prior alleged UFO crash retrieval before Roswell; he assesses
@@ -90,3 +92,7 @@ Gerb's full video on the case, positioned as "the Roswell before Roswell", with 
 ## Additional claims (rc/mj12)
 
 - Coulthart repeats [[david-grush]]'s June 2023 claim that Dulles, Angleton and OSS staff moved the craft to the US around 1944 with Vatican help. [[geoffrey-cruickshank]] adds Dulles received Ciano's diary from Edda Mussolini and, speculatively, a fusion-device link through [[rs-33]] leadership passing from Marconi (d. 1937) to Fermi (see [[samuel-goudsmit]]). *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 12:52-13:40, 16:11-16:59, 1:05:23-1:07:40)*
+
+## Additional claims (rc/grusch)
+
+- [[david-grush]]'s 2023 NewsNation account: a partially intact vehicle recovered at Magenta in 1933, moved to a secure Italian air base under the fascist regime until 1944-45; [[pope-pius-xii]] back-channelled it to the Americans who "scooped it". Coulthart's narration shows an Italian secret-service memo with crude UAP drawings. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 14:59-15:58)*
