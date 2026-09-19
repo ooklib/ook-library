@@ -39,6 +39,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arthur Schlesinger, briefed President-elect John F. Kennedy that [[laos]], not Vietnam, was his chief Southeast Asian worry. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 0:44-1:07)*
@@ -95,3 +97,7 @@ Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arth
 ## Additional claims (gerb/corso)
 
 - Per Gerb, Eisenhower and [[c-d-jackson]] alone knew of Corso's clearances; Corso claims Eisenhower's Operations Coordinating Board and NSC role ([[operations-coordinating-board]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 41:53-42:26, 8:59-9:07)*
+
+## Claims (jm/pines)
+
+- Pines says he once thought the Eisenhower agreement with the grays was BS but has now heard from senior Navy people it might be real; see [[nhi-counterintelligence-and-polygraph-claims]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:11:16-3:12:41)*

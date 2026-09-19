@@ -33,6 +33,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Former deputy assistant secretary of defense for intelligence and a UFO-disclosure-advocate
@@ -74,3 +76,7 @@ figure Gerb repeatedly discusses as possibly "knowing more than he's saying."
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda met Mellon in Austin; see [[austin-to-the-stars-meeting]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 3:53:13)*
+
+## Claims (jm/pines)
+
+- Pines lists Mellon among the senior voices talking openly, and cites his open-system contrast with China. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:00:35-3:00:44, 4:01:40-4:01:56)*

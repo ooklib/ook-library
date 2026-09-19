@@ -43,6 +43,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Jesse Michels is the host of the American Alchemy YouTube channel (registry channel `jm`), which conducts long-form interviews on UFO/UAP, deep politics and secret science. The channel's sponsor/advertisement segments are not recorded in this wiki.
@@ -111,3 +113,8 @@ Interviewed [[peter-levenda]] for a 4h40m episode: [[levenda-michels-interview-2
 ## Claims (jm/matthew-brown)
 
 - Interviewed [[matthew-brown]] on American Alchemy ([[matthew-brown-michels-interview-2026]]), 2026-08-29. He floats the psionic "breeding stock" hypothesis ([[psionic-assets-and-breeding-claims]]), the Musk-tweet questions ([[brown-tweet-to-elon-musk-2025]]) and praises [[uap-gerb]] as mapping FFRDCs and SAPs. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:52:29-2:53:59, 1:51:46-1:53:55, 1:35:40-1:36:44)*
+
+## Claims (jm/pines)
+
+- Hosts [[pines-michels-interview-2024]] with [[matthew-pines]] (about 4h12m, published 2024-11-15), covering Trump-era disclosure leverage, CIA privatization, the Simons physics-network fact pattern ([[simons-secret-physics-network-claims]]), hypergraph physics and consciousness, and AI and NHI communication ([[ai-and-nhi-communication-claims]]). *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 0:00-1:27, 55:54-59:51)*
+- Frames the UFO field as thieftdoms and gatekeepers running a "cargo cult" for 70 years, retells the [[mark-mccandlish]]/[[brad-sorenson]] flux liner story with a [[frank-carlucci]] guess, and retells the [[harald-malmgren]] briefing story. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 31:18-31:34, 50:51-52:23, 2:42:24-2:44:34)*

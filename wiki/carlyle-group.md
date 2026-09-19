@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/911mmry/911MmRy - 2008-02-12 - Carlyle Group - Bush connection to Bin Laden.md"
     label: "Carlyle Group - Bush connection to Bin Laden (911MmRy)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 The Carlyle Group is described in the 911mmry compilation as a multinational conglomerate that invests in heavily government-regulated industries: telecommunications, healthcare and particularly defense. The compilation says both [[george-w-bush]] and [[george-h-w-bush]] worked for it and that the [[bin-laden-family]] counted among its investors. A speaker calls it in effect the 11th largest US defense contractor. *(*([911mmry/carlyle](<../raw/911mmry/911MmRy - 2008-02-12 - Carlyle Group - Bush connection to Bin Laden.md>) 0:00)*)* *(*([911mmry/carlyle](<../raw/911mmry/911MmRy - 2008-02-12 - Carlyle Group - Bush connection to Bin Laden.md>) 1:22)*)*
@@ -32,3 +34,8 @@ The Carlyle Group is described in the 911mmry compilation as a multinational con
 - Counted the [[bin-laden-family]] among its investors.
 - Owned [[united-defense-industries]].
 - Central to [[carlyle-group-video-2008]] and [[bush-saudi-financial-ties-claims]].
+
+## Claims (jm/pines)
+
+- Michels asks whether purged CIA officers ended up at the Carlyle Group, citing Vallee's diaries; Pines says he has no evidence either way, and says the group has not lasted as long as the Mormon church ([[mormon-church-and-intelligence-claims]]). *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 50:07-50:46, 1:01:05-1:01:43, 3:27:19-3:27:45)*
+- Michels says researchers think a Carlyle-associated figure, [[frank-carlucci]], may be the financier in the Sorenson story; see [[carter-purge-and-privatization-claims]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 52:09-52:23)*

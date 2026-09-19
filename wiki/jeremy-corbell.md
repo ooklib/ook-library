@@ -15,6 +15,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Filmmaker and journalist, co-host with [[george-knapp]] of the Weaponized podcast, referred to throughout [[borland-michels-interview-2026]] as the source of several Borland-related claims. Additional Corbell material may exist under other sources.
@@ -32,3 +34,7 @@ Filmmaker and journalist, co-host with [[george-knapp]] of the Weaponized podcas
 ## Claims (jm/matthew-brown)
 
 - Brown says Corbell and [[michael-shellenberger]] handed the IMCON documents to Rep. Nancy Mace and stresses it is very important to mention Corbell; Michels also cites the Corbell-Knapp interview where Brown discussed the Northrop "dirty tricks" group. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 36:57-37:14, 1:40:08-1:41:06)*
+
+## Claims (jm/pines)
+
+- Named with Ross Coulthart for legacy-program insiders' hints of an ontologically shocking truth; see [[nhi-counterintelligence-and-polygraph-claims]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 4:07:59-4:08:35)*

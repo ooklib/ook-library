@@ -23,6 +23,8 @@ sources:
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Ross Coulthart, Australian investigative journalist (host of *Need to Know* with Bryce Sable),
@@ -65,3 +67,7 @@ privately told him the 2004 Nimitz "tic tac" originated from Lockheed Skunk Work
 ## Claims (jm/cover-up)
 
 - Cited by [[jason-samosa]] for the observation that Republican presidents seem to receive UFO information while Democratic ones do not; see [[presidential-ufo-briefing-claims]]. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 46:22, 46:30)*
+
+## Claims (jm/pines)
+
+- Michels and Pines cite Ross Coulthart and Jeremy Corbell as hearing from legacy-program insiders that "if you knew what I know you wouldn't be pro-disclosure"; Pines says Coulthart reports Jake Sullivan was in at least one Senate briefing. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:53:11-2:53:27, 4:07:59-4:08:35)*

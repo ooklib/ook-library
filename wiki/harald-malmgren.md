@@ -54,6 +54,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Harald Malmgren (13 July 1935 - 13 February 2025) was, per the host, a "whiz kid" aide to Defense Secretary [[robert-mcnamara]] and presidential adviser to [[john-f-kennedy]], [[lyndon-b-johnson]], [[richard-nixon]] and Gerald Ford, later an adviser to many foreign leaders (every Japanese prime minister since Tanaka, per [[pippa-malmgren]]). In this final interview (recorded days before he was hospitalised, with a follow-up phone call three days before his death) he claims to have directly handled UFO debris in 1962 after the [[bluegill-triple-prime]] nuclear test and to have been briefed on "otherworld technologies" by [[richard-bissell]]. Everything below is his uncorroborated account or the host's/daughter's relay of it.
@@ -124,3 +126,8 @@ See [[richard-bissell]]: Malmgren claims Bissell said "this didn't start last we
 ## Additional claims (jm/jorjani-hitler)
 
 - Jorjani cites Malmgren for the Monte Carlo group of the Knights of Malta and Magenta-craft rat lines. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 2:23:10)*
+
+## Claims (jm/pines)
+
+- In the jm/pines discussion Michels says Pines' colleague retold Malmgren's story: sent by Kennedy at 26-27 into the tank to stall [[curtis-lemay]] from a nuclear strike, then to Los Alamos/Albuquerque in 1963 to cost the anti-ballistic missile system, where [[lawrence-preston-gise]] told him the AEC had been recovering and reverse-engineering UFO objects, and a decade later [[richard-bissell]] privately mentioned "otherworld technologies". *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:42:24-2:44:34)*
+- [[matthew-pines]] says Malmgren was tapped at 12-13 for MIT, went to Rensselaer and Yale, was "the shadow Kissinger", and was used by [[richard-nixon]] as a check on [[henry-kissinger]]; Pines infers that a former-CIA insider saying NHI are real hints at a pro-disclosure CIA branch. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:42:25-3:42:53, 2:46:07-2:47:17)*

@@ -24,6 +24,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Howard Hughes is the aviation billionaire [[eyes-wide-open]] uses to illustrate wartime
@@ -102,3 +104,7 @@ page also covers his firms Hughes Aircraft Company and Transworld Airline (TWA).
 ## From Jason Jorjani on American Alchemy (jm/jorjani-religion)
 
 - Jorjani says Hughes used to land at George Van Tassel's airstrip and eat his wife's pie; Michels repeats the RFK Jr. claim that Bob Maheu, Hughes's counsel, set up the Robert Kennedy killing. See [[contactee-nordic-racialism-claims]]. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 2:40:06, 3:01:01)*
+
+## Claims (jm/pines)
+
+- Pines says Hughes was an extension of the national security apparatus as a private aerospace contractor, whose Mormon managers handled CIA covert actions; see [[mormon-church-and-intelligence-claims]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 49:40-49:56, 3:22:29-3:23:13)*

@@ -30,6 +30,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Project Stargate was a joint, secret Army/DIA/CIA/SRI-International-contractor program (begun
@@ -96,3 +98,7 @@ Centerlane (DIA). *([gerb/saic](../raw/gerb/saic.md) 1:42:34–1:43:21)*
 ## Claims (jm/matthew-brown)
 
 - Michels and Brown discuss Stargate, remote viewing (Rosemary Smith's 1979 Zaire plane find, Joe McMoneagle), the view that psi is foundational to the phenomenon and that the head of Stargate ([[hal-puthoff]]) is a UFO-propulsion figure; Brown says unwitting civilian remote viewers would be cheaper and more deniable. See [[psionic-assets-and-breeding-claims]]. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:23:33-1:26:44, 2:42:58-2:43:37)*
+
+## Claims (jm/pines)
+
+- Michels mentions the Air Force funded a Stargate movie and wonders about deeper links to space programs; see [[secret-physics-program-claims-pines]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:20:18-3:20:24)*

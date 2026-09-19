@@ -31,6 +31,8 @@ sources:
     label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Robert F. Kennedy appears briefly in this episode as a young Justice Department attorney who lost
@@ -80,3 +82,7 @@ anti-Mafia campaign as Attorney General.
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says he holds a letter from RFK dated a month before his death calling himself a card-carrying member of the Amalgamated Flying Saucer Association of America, which he says shows he knew JFK was killed over UFOs; Michels adds RFK Jr.'s claim about Eugene Cesar. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:31:54-1:33:50)*
+
+## Claims (jm/pines)
+
+- Pines lists RFK (Jr.) among the Trump 2.0 figures interested in the UFO subject, though he prefers the [[uap-disclosure-act-2023]] over an ad hoc truth commission. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 4:03:04-4:03:14, 4:05:35-4:05:52)*

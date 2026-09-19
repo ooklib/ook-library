@@ -57,6 +57,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -258,3 +260,8 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 ## Claims (jm/matthew-brown)
 
 - Brown notes Grusch under oath was asked about agreements and could not provide detail, hoping legacy-program people come forward. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:16:39-1:16:51)*
+
+## Claims (jm/pines)
+
+- Pines says Grusch's testimony implies rogue elements, that the UAP Task Force was staffed part-time with Grusch among the full-timers, that Grusch dodged the "agreements" question, and that it matters the Grusch story arrived because legacy programs decayed. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 32:15-32:38, 34:23-34:47, 2:49:05-2:49:35, 3:04:49-3:05:05, 3:10:53-3:10:57)*
+- Pines' hearsay: "AI, quantum, and the Grusch stuff" as a triangle; see [[ai-and-nhi-communication-claims]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:49:36-3:49:45)*

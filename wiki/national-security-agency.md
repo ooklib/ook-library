@@ -15,6 +15,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 The National Security Agency, one of the US's "big five" intelligence agencies (alongside NRO,
@@ -43,3 +45,7 @@ a 2018 *Baltimore Sun* article and James Bamford's *The Shadow Factory*.
 ## Claims (jm/borland)
 
 - Borland says NSA "cleaned house" on the classified JWICS database in 2024, shutting down Intelink and Intelink docs; Michels notes the current AARO director is ex-NSA and [[chuck-mccullough]] has an NSA background. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:18:25-1:18:50, 1:21:03-1:21:12, 2:05:36-2:06:08)*
+
+## Claims (jm/pines)
+
+- Pines says [[jim-simons]] used to work for the NSA and that a Utah NSA data center's code name was Bumblehive, the symbol of Deseret ([[mormon-church-and-intelligence-claims]]); Michels says the NSA's core skill of decryption maps onto decoding NHI communication ([[ai-and-nhi-communication-claims]]). *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 56:48-57:04, 3:26:00-3:26:18, 3:53:24-3:54:12)*

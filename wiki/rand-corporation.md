@@ -22,6 +22,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 RAND Corporation is an FFRDC created to answer Air Force air-defense and systems-engineering
@@ -57,3 +59,7 @@ and no hardware to sell. *([gerb/mitre](../raw/gerb/mitre.md) 32:28–32:48)*
 ## Additional claims (jm/nasa-chief)
 
 - Michels says Brown dealt with LeMay and RAND. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 46:53-47:01)* See [[thomas-townsend-brown]].
+
+## Claims (jm/pines)
+
+- Michels mentions a RAND initiative for global control of compute for the AGI race and possible RAND links to secret propulsion work. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:47:33-3:47:53)*

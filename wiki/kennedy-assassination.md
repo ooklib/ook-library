@@ -44,6 +44,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 The 22 November 1963 assassination of President John F. Kennedy in Dallas. In this episode Eyes Wide Open covers only [[e-howard-hunt]]'s alleged presence and deathbed confession; the host says his own research indicates a fundamental mob element in the conspiracy. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:48-11:00)*
@@ -138,3 +140,7 @@ The 22 November 1963 assassination of President John F. Kennedy in Dallas. In th
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 [[peter-levenda]] argues the UFO-JFK link through documented people ([[fred-crisman]], [[guy-banister]], [[david-ferrie]], [[clay-shaw]]) and the [[american-orthodox-catholic-church]], plus [[council-of-nine-seance-claims]]; he distrusts the deathbed "alien presence" claim. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 22:32, 1:22:44)*
+
+## Claims (jm/pines)
+
+- Michels says Sheehan's account has Dulles and S-Force targeting JFK; Pines says it "so comports with priors" but doubts Sheehan's McCord defense. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 41:05-41:32, 2:39:15-2:39:59)*

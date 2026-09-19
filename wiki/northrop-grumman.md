@@ -55,6 +55,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Northrop Grumman has primary offices in [[crystal-city-virginia|Crystal City]] and is listed
@@ -183,3 +185,7 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
 ## Claims (jm/matthew-brown)
 
 - [[matthew-brown]] says Northrop has for some time been given authority to implement program security through corporate security forces and to carry out deniable actions punishing leakers, a "current bad actor"; a sister of a WSJ co-author was allegedly a Northrop VP ([[wall-street-journal-malmstrom-emp-claims]]); and an ex-Northrop president becoming Under Secretary of Defense for Policy is his revolving-door example. See [[legacy-program-privatization-and-family-lines-claims]]. Speculation that [[jake-barber]] worked at Northrop is noted by Michels. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:37:38-1:37:53, 1:40:08-1:41:55, 1:44:27-1:44:39)*
+
+## Claims (jm/pines)
+
+- Pines cites Rep. Mike Turner's Dayton district and Northrop as a donor as a reason for congressional skepticism. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 38:35-38:51)*

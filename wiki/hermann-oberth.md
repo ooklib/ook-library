@@ -14,6 +14,8 @@ sources:
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Hermann Oberth, "father of German rocketry" and mentor to [[wernher-von-braun]], performed
@@ -38,3 +40,7 @@ Michels cites Oberth as on record saying non-human intelligence helped build roc
 ## Additional claims (gerb/corso)
 
 - Corso quotes Oberth in the manuscript's introduction: certain scientific advances were helped "by people of other worlds" ([[dawn-of-a-new-age-manuscript]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 22:02-22:24)*
+
+## Claims (jm/pines)
+
+- Pines names Oberth as von Braun's mentor who went through neo-pagan rituals. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:18:01-3:18:15)*

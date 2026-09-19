@@ -26,6 +26,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 George Knapp, Las Vegas investigative journalist (KLAS-TV), has reported for decades on Area 51,
@@ -81,3 +83,7 @@ Levenda says Knapp's questioning of Bob Lazar was artful. *([jm/levenda](<../raw
 ## Claims (jm/matthew-brown)
 
 - Brown recalls his earlier interview with Knapp and [[jeremy-corbell]] ("made for purpose" craft, Northrop's "dirty tricks department", not as free as you think) and calls them "true warriors for the good" in his Musk tweet. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:05:44-1:05:52, 1:40:08-1:41:06, 1:53:38-1:53:47)*
+
+## Claims (jm/pines)
+
+- Michels notes Knapp went to Russia and brought back files about Russian UFO activity, as evidence adversaries interface with the topic. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:59:51-3:00:08)*

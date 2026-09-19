@@ -47,6 +47,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 The "Alien Reproduction Vehicle" (ARV) concept — a human-built craft reverse-engineered from
@@ -134,3 +136,8 @@ recovered nonhuman technology — is most associated in the UFO research communi
 ## Claims (jm/matthew-brown)
 
 - Brown says the IMCON briefing expanded ARV once as "alien reproduction vehicle" but he thinks it may be a counterintelligence tag and that "advanced reconnaissance vehicle" (TRW) is a better FOIA term. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 32:02-34:43)*
+
+## Claims (jm/pines)
+
+- Michels describes the flux liner as a bell- or acorn-shaped alien reproduction vehicle with wear and tear, from the Sorenson/McCandlish account. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 51:35-52:09)*
+- Pines says AI is reportedly used to identify UAP and maybe ARVs by morphology ([[ai-and-nhi-communication-claims]]). *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:50:19-3:50:42)*

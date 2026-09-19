@@ -61,6 +61,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Thomas Townsend Brown, associated with the [[biefeld-brown-effect]] and alleged antigravity research. In the Malmgren interview he is central to Malmgren's late-life research.
@@ -131,3 +133,7 @@ Jesse Michels' 2024 documentary, based on Paul Schatzkin's biography *The Man Wh
 ## Claims (jm/matthew-brown)
 
 - Michels asks whether the propulsion behind Brown's Musk tweet roots back to Townsend Brown; [[matthew-brown]] says it is a really interesting thread. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:55:50-1:56:19)*
+
+## Claims (jm/pines)
+
+- Michels calls Brown a mid-century inventor who made "much more progress than meets the eye" tying electromagnetism to gravity, obsessed with time travel, and cites him with Tesla as anomalies in the secret-physics story; see [[secret-physics-program-claims-pines]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:20:32-3:20:48, 3:28:41-3:29:35)*

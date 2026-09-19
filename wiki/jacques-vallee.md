@@ -24,6 +24,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Jacques Vallee is the French-American computer scientist and ufologist whose books (notably Messengers of Deception) and published journals are the main intellectual frame for guest [[jason-samosa]] in the `jm/cover-up` episode. The episode uses him as a source for a "control system" or belief-shaping reading of UFOs, for the AAWSAP-era journals, and as validation of the Tom DeLonge/Podesta story. This page records what the episode attributes to him; the wiki treats these as claims about his positions.
@@ -65,3 +67,7 @@ Levenda met Vallee at the Austin meeting and says Vallee's "control mechanism" i
 ## Claims (jm/borland)
 
 - Michels cites Vallee on UFOs as social-coordination and belief-system instruments, and the Trinity test and a 20-day-later event. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 3:00:31-3:00:58)*
+
+## Claims (jm/pines)
+
+- Michels cites Jacques Vallee's Forbidden Science diaries, in which Vallee's insiders repeatedly mention the Carlyle Group. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 50:17-50:46)*

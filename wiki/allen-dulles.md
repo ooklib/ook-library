@@ -119,6 +119,8 @@ sources:
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -345,3 +347,7 @@ calls him "arguably one of, if not the most important person in modern American 
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda says Dulles's partner Mary (ASR "Mary Douglas") was best friend of Ruth Forbes Paine Young, and that as a Warren Commission member he cut off Ruth Paine's testimony. See [[council-of-nine-seance-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 16:19, 21:45)*
+
+## Claims (jm/pines)
+
+- Pines and Michels discuss Dulles reactivating [[s-force]] from [[brown-brothers-harriman]] to go after JFK; see [[carter-purge-and-privatization-claims]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 41:47-42:17, 49:40-50:07)*

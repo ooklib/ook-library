@@ -22,6 +22,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 UFO researcher who corresponded with [[robert-sarbacher]] in November 1983 and interviewed [[eric-a-walker]] shortly after [[stanton-friedman]] released the MJ-12 documents. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 8:37-9:00, 15:22-15:54)*
@@ -42,3 +44,7 @@ UFO researcher who corresponded with [[robert-sarbacher]] in November 1983 and i
 ## Additional claims (gerb/timeline)
 
 - Timeline video: interviewed both [[robert-sarbacher]] (1980s) and [[eric-a-walker]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 37:37-37:46, 1:34:35)*
+
+## Claims (jm/pines)
+
+- Michels cites Steinman's book on the 1948 Aztec crash for its "Eric Henry Wing" and "H A K" passage; see [[eric-henry-wang]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:45:22-2:45:58)*

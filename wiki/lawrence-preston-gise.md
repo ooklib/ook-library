@@ -15,6 +15,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Lawrence Preston Gise (ASR: "Geese", "Gise") is described in the transcript as head of the Albuquerque division of the [[atomic-energy-commission]], overseeing Los Alamos and high-altitude tests.
@@ -32,3 +34,7 @@ Lawrence Preston Gise (ASR: "Geese", "Gise") is described in the transcript as h
 ## Additional claims (jm/kissinger)
 
 - [[jesse-michels]] (with the 1962 [[bluegill-triple-prime]] story): debris recovered from the blast plume was sent to the Albuquerque Operations Office overseeing Los Alamos and Sandia at Kirtland, run by Gise (also called Jeff Bezos's maternal grandfather); per [[harald-malmgren]]'s tweets Gise was directly involved in reverse engineering recovered craft. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 31:58, 32:06, 32:15, 32:22, 32:40, 32:47, 33:02)*
+
+## Claims (jm/pines)
+
+- Michels retells (via Malmgren) that in 1963 Gise, then AEC Western Division director, told Malmgren the AEC had been recovering and trying to reverse engineer UFO objects, and mentions Gise as Jeff Bezos' grandfather. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:42:24-2:44:08)*

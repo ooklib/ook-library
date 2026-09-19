@@ -34,6 +34,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 The DoD's All-domain Anomaly Resolution Office ("Arrow" in the ASR transcript), the official
@@ -136,3 +138,7 @@ and [[condon-committee]]. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:09:03â€
 ## Claims (jm/matthew-brown)
 
 - Brown notes AARO's Latin motto, roughly "our life is what our thoughts make it", as strange for an office nominally downplaying sightings, and Michels sees a fly-trap role; Brown compares to wink-and-nod symbolism in black-project patches (Trevor Paglen's book). *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:28:21-1:30:23)*
+
+## Claims (jm/pines)
+
+- Pines says AARO was compromised by "CIA Air Force guys" like Kirkpatrick after the UAP Task Force moved into it, and hearsay of an AARO meeting with a senior former DoD SAP manager ([[ai-and-nhi-communication-claims]]). *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:52:23-2:52:39, 3:47:53-3:49:27)*

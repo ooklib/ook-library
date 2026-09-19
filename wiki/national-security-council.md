@@ -32,6 +32,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 The National Security Council historically housed the covert-activities oversight structure for
@@ -94,3 +96,7 @@ evolving into the "committee of 27" [[ufo-control-group]] formed in 1994. *([ger
 ## Claims (jm/matthew-brown)
 
 - [[matthew-brown]] says the cognizant authority for [[immaculate-constellation]] appears to be a specific director at the NSC, probably for a long time; the NSC is a de facto governing body of many hundreds, of which only a small subset knows about UFO programs, and he could identify likely candidates from an org chart. He says UFO programs rolling up to the president/NSC contrasts with the lore of an uninformed president. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 20:02-20:17, 1:30:39-1:35:32)*
+
+## Claims (jm/pines)
+
+- Pines' hearsay: an NSC staffer told Andreessen and Horowitz "we have classified entire areas of fundamental physics before"; and Jake Sullivan reportedly kicked the UAP issue to the next administration. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:47:08-3:47:31, 2:52:42-2:53:57)*

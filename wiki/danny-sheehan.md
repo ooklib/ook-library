@@ -15,6 +15,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Danny Sheehan is an American public-interest lawyer and the founder of the New Paradigm Institute, appearing as the main guest of Jesse Michels's 2025 JFK episode. In the interview he presents a detailed, chronologically ordered narrative of the Kennedy assassination as an operation by the CIA-trained "S force" of Cuban exiles, rooted in a Nixon-Hughes-mafia plot against Castro and activated by a Dulles-centered China-lobby network; he also recounts his work with John Mack, a claimed deathbed account of a live extraterrestrial at S-4, a Scientology file on Ingo Swan, and his current lobbying for UAP disclosure legislation. This wiki records his statements as attributed claims. Speaker labels are absent from the transcript, so some attributions to him (versus Michels or Jeremy Rys) are inferred from first-person references such as his Jesuit-headquarters and Watergate-law-office anecdotes.
@@ -34,3 +36,7 @@ Danny Sheehan is an American public-interest lawyer and the founder of the New P
 ## Additional claims (gerb/corso)
 
 - Says an 8mm film Corso made for his grandchildren (shown to Sheehan) recounts contact with a downed craft whose occupants asked him to shut down radar; Sheehan finds Corso credible and expects contractors to obfuscate ([[corso-white-sands-nhi-encounter-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:18:19-1:21:28)*
+
+## Claims (jm/pines)
+
+- Pines calls Sheehan's history of the CIA and Dulles-era events "fascinating" but doubts his account of James McCord at Watergate; Michels retells the Sheehan Carter-era Blue Book skiff story and wonders about AI decoding the hieroglyph-like symbols. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 40:51-41:32, 2:38:26-2:39:59, 3:54:50-3:55:25)*

@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Russian cosmism is the late-19th-century philosophy that [[jesse-michels]] presents as the Soviet counterpart to Western mystical rocketry. Nikolai Fyodorov held that humanity's task was to resurrect all the dead by technology and then colonize the cosmos; his follower Konstantin Tsiolkovsky (father of Russian spaceflight, rocket equation 1903) saw space travel as necessary. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 32:29-33:45)*
@@ -22,3 +24,7 @@ Russian cosmism is the late-19th-century philosophy that [[jesse-michels]] prese
 ## Relationships
 
 - Part of the thesis in [[nasa-occult-symbolism-claims]].
+
+## Claims (jm/pines)
+
+- Pines cites Tsiolkovsky's cosmism, his belief he was in touch with angelic beings, as the Russian version of rocket-founder mysticism. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:17:44-3:18:01)*

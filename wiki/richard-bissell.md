@@ -40,6 +40,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Richard Bissell is described by [[eyes-wide-open]] as an OSS "old boy" and covert operator from the former [[office-of-policy-coordination]] whom [[frank-wisner]] put in charge of planning [[operation-pbsuccess]] in 1954; he entrusted [[e-howard-hunt]] with a major covert role there. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 13:38-14:19)*
@@ -87,3 +89,7 @@ Richard Bissell is described by [[eyes-wide-open]] as an OSS "old boy" and cover
 ## Claims (jm/sheehan)
 
 - Sheehan and Michels say Bissell ('mayor of Area 51') briefed Harald Malmgren on otherworld technologies and past crashes including Magenta, and that Bissell told Dulles about Kennedy's June 1963 UFO briefing request. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 52:23)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 53:43)*
+
+## Claims (jm/pines)
+
+- Michels retells Malmgren's account that Bissell privately told him of "otherworld technologies" they had been working on, and notes Bissell scouted and established Area 51 and created the NRO. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:44:08-2:44:34)*

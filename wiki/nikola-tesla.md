@@ -18,6 +18,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Inventor Nikola Tesla. In the Malmgren interview he is the subject of a claimed antigravity collaboration with [[thomas-townsend-brown]] and of a suppressed-papers narrative.
@@ -46,3 +48,7 @@ Inventor Nikola Tesla. In the Malmgren interview he is the subject of a claimed 
 ## From Jason Jorjani on American Alchemy (jm/jorjani-religion)
 
 - Jorjani names Tesla's dynamic ether as one toolkit for electrogravitic craft; Michels says Tesla claimed to see past, present and future at high voltage and to speak to aliens. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 29:38, 3:13:20)*
+
+## Claims (jm/pines)
+
+- Pines and Michels cite the work of Tesla and Townsend Brown in the context of possible lost physics branches. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 1:05:05-1:05:22)*

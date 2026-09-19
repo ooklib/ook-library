@@ -18,6 +18,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Colonel Karl Nell, US Army Futures Command, is a vocal advocate for [[david-grush|David Grush]]'s
@@ -44,3 +46,7 @@ satellite constellation." *([gerb/lockheed](../raw/gerb/lockheed.md) 2:19:41–2
 ## Additional claims (gerb/northrop)
 
 - Gerb ([[northrop-investigation-video-2025]]) quotes his "zero doubt" statement and notes his 13 years as Northrop's deputy CTO plus service as command representative to CENTCOM for the Army foreign material program. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 23:00-24:04)*
+
+## Claims (jm/pines)
+
+- Pines lists Nell among the senior figures coming out on a "ratchet" and cites his framing of instruments of national power for the proposed review board ([[uap-disclosure-act-2023]]). *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 4:01:40-4:02:04, 4:04:07-4:04:16)*

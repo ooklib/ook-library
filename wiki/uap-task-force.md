@@ -12,6 +12,8 @@ sources:
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 The Pentagon UAP investigation team that [[david-grush]] joined in 2019 (per the source) as an intelligence officer; per the NewsNation narration it was later renamed [[aaro]]. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 3:31-3:48,)*
@@ -28,3 +30,7 @@ The Pentagon UAP investigation team that [[david-grush]] joined in 2019 (per the
 ## Claims (jm/borland)
 
 - Borland says a person affiliated with the UAP Task Force, who had lost their job, said lives were in danger, prompting his whistleblowing; Michels floats the red-teaming hypothesis that AATIP/[[aawsap]]/UAPTF fed civilian ideas back into the legacy program. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:47:08-1:47:31, 1:19:00-1:20:10)*
+
+## Claims (jm/pines)
+
+- Pines describes the task force as an interagency group with mostly part-time members, and relays hearsay that its polygraph screening added a loyalty-to-a-non-human-faction question ([[nhi-counterintelligence-and-polygraph-claims]]). *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:04:02-3:06:40)*

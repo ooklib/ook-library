@@ -14,6 +14,8 @@ relations:
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Brookhaven National Laboratory, in Upton, New York, is a DOE-sponsored FFRDC.
@@ -37,3 +39,7 @@ Brookhaven National Laboratory, in Upton, New York, is a DOE-sponsored FFRDC.
 
 - DOE-sponsored FFRDC; SDI contractor alongside [[science-applications-international-
   corporation]]; alleged custodian following [[mattituck-bay-crash-1989]].
+
+## Claims (jm/pines)
+
+- Michels says townspeople near Brookhaven reported a UFO crash collected by the facility in 1992, and Pines says [[jim-simons]] engineered the Stony Brook and Battelle co-management partnership for the lab; see [[simons-secret-physics-network-claims]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 58:14-58:38, 1:00:32-1:00:46)*

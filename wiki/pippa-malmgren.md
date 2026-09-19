@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Pippa Malmgren is [[harald-malmgren]]'s daughter, described by [[jesse-michels]] as a former special assistant to President George W. Bush on the National Economic Council. She co-hosts the interview, relays what her father told her off air, and supplies context on his career.
@@ -29,3 +31,7 @@ Pippa Malmgren is [[harald-malmgren]]'s daughter, described by [[jesse-michels]]
 ## Relationships
 
 - Daughter of [[harald-malmgren]]; co-host with [[jesse-michels]].
+
+## Claims (jm/pines)
+
+- Pines cites Pippa Malmgren's insight that Amazon and Bezos may hold better intelligence than the NSA. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:41:28-2:41:53)*

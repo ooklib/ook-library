@@ -26,6 +26,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 # UFO-Nuclear Connection
@@ -62,3 +64,7 @@ The thesis, presented by [[uap-gerb]] in "UFOs and Nuclear Weapons - A Fascinati
 ## Claims (jm/matthew-brown)
 
 - [[matthew-brown]] says UAP interest in nuclear and WMD sites is "established beyond reasonable doubt", was widely reported in his counter-WMD intelligence streams, and cites [[robert-hastings]] (167 whistleblowers), Fukushima's UFO museum, Chernobyl and Bariloche; his explanations are radiation and weapons interfering with propulsion, storage of exotic samples at national labs and personnel connected to the phenomenon (Los Alamos, Redstone). See [[white-sands-el-paso-airspace-closure-2026]]. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 20:56-21:54, 44:36-46:26, 2:24:32-2:29:31)*
+
+## Claims (jm/pines)
+
+- Michels says UFOs "seem to specifically show up around" nuclear assets, agreed by Pines as "pretty definitive at this point", and also mentions nuclear subs and the 1992 Brookhaven crash rumor. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 1:00:46-1:01:05, 2:15:11-2:15:19)*

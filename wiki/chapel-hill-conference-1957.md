@@ -17,6 +17,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 The 1957 Chapel Hill gravitation conference, funded via Wright Field and hosted by [[agnew-bahnson]], gathered leading theoretical physicists.
@@ -35,3 +37,7 @@ The 1957 Chapel Hill gravitation conference, funded via Wright Field and hosted 
 ## Additional claims (jm/kissinger)
 
 - [[jesse-michels]] dates the UNC Chapel Hill gravity conference to 1956, sponsored by Wright Airfield, under the Institute of Field Physics of [[agnew-bahnson]] with [[gordon-gray]] as UNC president. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 23:33, 23:41, 23:49)*
+
+## Claims (jm/pines)
+
+- Michels, citing Eric Weinstein's Rogan remarks, says Hermann Bondi asked at Chapel Hill about negative mass and negative energy anomalies, and Pines links this to the Casimir effect and Alcubierre; see [[secret-physics-program-claims-pines]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:33:57-3:34:39)*

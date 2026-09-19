@@ -23,6 +23,8 @@ sources:
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Wernher von Braun, Nazi V2 rocket scientist transferred to the US via Operation Paperclip,
@@ -57,3 +59,7 @@ commanded the [[army-ballistic-missile-agency|Army Ballistic Missile Agency]].
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 Levenda notes von Braun's Nazi-era program was transplanted into NASA, and that in his Rhode Island Men-in-Black story the name the women asked about matched a company a former Huntsville engineer who had met von Braun had once recommended; see [[levenda-nazi-saucer-lineage-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:22:04, 2:51:08)*
+
+## Claims (jm/pines)
+
+- Pines says von Braun and mentor [[hermann-oberth]] went through neo-pagan rituals in the Nazi space program, and that Parsons's information impressed von Braun. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:17:06-3:18:15)*

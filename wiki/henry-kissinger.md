@@ -53,6 +53,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Henry Kissinger appears in War Conspiracy 2 as the then-little-known Harvard professor who co-directed the Rockefeller [[special-studies-project]] and personally directed Panel II; the host adds that he later became Nixon's "bloodthirsty" National Security Advisor and an architect of the Southeast Asian bombing campaign (host's characterization, "clearly reassessed as war crimes"). *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 27:12-27:35, 27:44-27:59)*
@@ -116,3 +118,8 @@ Henry Kissinger appears in War Conspiracy 2 as the then-little-known Harvard pro
 ## Additional claims (jm/jorjani-hitler)
 
 - Jorjani says the Monte Carlo group included Nazis and figures such as Kissinger. See [[nazi-deep-state-infiltration-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 2:23:10)*
+
+## Claims (jm/pines)
+
+- Pines and Michels discuss whether Kissinger knew of the UFO issue: Pines thinks there was peripheral awareness in the boundary layer around such programs, and Michels notes William Steinman's Aztec-crash book names an "Eric Henry Wing" and boss "H A K", read by Michels as Henry A. Kissinger. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:44:41-2:45:58)*
+- Malmgren is described as Nixon's check on Kissinger. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:46:07-2:46:58)*

@@ -52,6 +52,8 @@ sources:
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Described as "disgraced" former director of [[aaro]] (All-domain Anomaly Resolution Office).
@@ -165,3 +167,7 @@ the point where he was first briefed or retroactively briefed into UFO legacy-pr
 ## Claims (jm/borland)
 
 - On [[borland-michels-interview-2026]], Michels calls Kirkpatrick's first AARO iteration "patently" a fly trap for UFO information with legacy ties, and Borland says Kirkpatrick "ducked" him after a proposed meeting; Borland never spoke to him or the later director. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:56:37-1:57:26, 2:00:36-2:01:04)* See [[borland-whistleblower-reprisal-claims]].
+
+## Claims (jm/pines)
+
+- Pines says AARO under Kirkpatrick was "compromised by the CIA Air Force guys". *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:52:23-2:52:39)*

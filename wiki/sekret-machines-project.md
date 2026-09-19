@@ -18,6 +18,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 *Sekret Machines* is the [[tom-delonge]] / [[peter-levenda]] book and project whose thesis, per [[jesse-michels]], is that UAP are "mystical machines" and human consciousness is central. Michels says senior Skunk Works figures Robert Weiss, Steve Justice and Eric Schrock, and Air Force Research Lab commander Neil McCasland, advised it, and that these defense technologists keep returning to consciousness in conversation. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 58:34-59:26)*
@@ -47,3 +49,7 @@ Levenda discusses the cargo-cult prologue and the alleged Prometheus hint: [[car
 ## Claims (jm/matthew-brown)
 
 - Michels cites Tom DeLonge's Sekret Machines writing on Skorzeny and the World Commerce Corporation and a pseudonymous "Maynard Corporation"; Jason Samosa maps Brown's global-cabal testimony onto it. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:30:06-2:31:22)*
+
+## Claims (jm/pines)
+
+- In jm/pines the [[tom-delonge]] narrative (as told by Michels and Pines) of legacy programs run by a boardroom of about 12 people, akin to the [[maynard-consortium]] story, is discussed and judged by Pines a less plausible scenario than fragmentation. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 1:01:59-1:02:31)*

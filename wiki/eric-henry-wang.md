@@ -22,6 +22,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Dr. Eric Henry Wang is, per Gerb, one of the most enigmatic figures associated with early-1950s
@@ -93,3 +95,7 @@ and an April 1961 *Mechanical Engineering* magazine obituary that finally fleshe
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Wang (1953 technical/scientific monitor for the Air Force in Upshot-Knothole; chief of special studies at Wright-Patterson under ARDC; 1949-56 head of special studies at the Wright Air Development Center; department moved to Sandia/Kirtland 1956; died 1960 aged 54) is used to trace a Kingman lineage through [[air-force-special-weapons-center]] into [[air-force-research-laboratory]] and [[air-force-material-command]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 44:52-47:16, 1:42:07-1:42:30)*
+
+## Claims (jm/pines)
+
+- Michels, reading William Steinman's Aztec-crash book, says the special projects head at Wright-Patterson brought by Operation Paperclip (transcribed "Eric Henry Wing") is someone Steinman "can't get anything on", and suggests his boss "H A K" was Henry Kissinger. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:45:22-2:45:58)*

@@ -19,6 +19,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Sentient is a real, FOIA-confirmed [[national-reconnaissance-office|NRO]] "ongoing research and
@@ -64,3 +66,7 @@ unverified inference, not documented Sentient functionality.
 ## Claims (jm/matthew-brown)
 
 - [[matthew-brown]] says Sentient would have come online after [[immaculate-constellation]] and been integrated to source and detect events, compartmentalize collections and rapidly retask sensors; he answered "no comment" on the NGA's Marsupial program. His tweet also alludes to the "murder" of the first sentient AIs ([[brown-tweet-to-elon-musk-2025]]), unexplained. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 59:21-1:00:36, 1:54:15-1:54:37)*
+
+## Claims (jm/pines)
+
+- Pines links the AI-and-UAP-identification program in press reports to broader AI-plus-quantum-plus-"Grusch stuff" hearsay; see [[ai-and-nhi-communication-claims]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:50:19-3:50:42)*

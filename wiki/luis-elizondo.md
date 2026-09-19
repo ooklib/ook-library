@@ -45,6 +45,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Luis Elizondo (ASR-transcribed "Lou Alzando"/"Luis Alzando") claimed to direct, work for, or
@@ -157,3 +159,7 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
 ## Claims (jm/matthew-brown)
 
 - Brown recounts Elizondo's Glomar-style reply when asked whether he was read into [[immaculate-constellation]], calls the Glomar response spent, and argues the briefing's claim that IMCON was created after Elizondo exposed AATIP in 2017 is a counterintelligence half-truth and signature, as the mission is older and run by the NSC. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 36:43-40:58)*
+
+## Claims (jm/pines)
+
+- Pines takes the title of Elizondo's book seriously, says it signals disruption "not kick-the-can for decades", and cites Elizondo among the ratchet of whistleblowers. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 4:00:29-4:00:47, 4:01:40-4:01:56)*

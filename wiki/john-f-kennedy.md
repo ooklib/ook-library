@@ -41,6 +41,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the president who inherited [[laos]] from [[dwight-d-eisenhower]], approved and then cancelled the planned bombing ([[operation-milpond]]), and pursued a diplomatic settlement. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 52:54-53:18, 1:08:52-1:09:10)*
@@ -115,3 +117,7 @@ US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the presi
 
 - [[danny-sheehan]] says Kennedy was killed by the [[s-force]] after he secretly negotiated with Khrushchev to destroy nuclear warheads, proposed a joint space program, and on June 5, 1963 asked CIA director [[john-mccone]] for a full UFO briefing to share with Khrushchev; see [[sheehan-jfk-assassination-claims]] and [[jfk-khrushchev-disarmament-claims]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 48:53)*
 - Sheehan says Kennedy blamed the CIA for the Bay of Pigs, forced out Allen Dulles in fall 1961, converted Operation 40 into [[operation-mongoose]] while lying to Khrushchev, and in December 1962 sent marshals to burn exile bases. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 30:51)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 34:53)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 39:28)*
+
+## Claims (jm/pines)
+
+- In the Malmgren retelling Kennedy sent the 26-year-old Malmgren into the nuclear tank to stall [[curtis-lemay]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:42:41-2:43:19)*

@@ -18,6 +18,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Ben Rich, the second director of [[skunk-works|Lockheed Skunk Works]] (1975–1991), is famous in
@@ -71,3 +73,7 @@ Lockheed possessed physics-defying, possibly nonhuman-derived technology.
 ## Additional claims (gerb/tr-3b)
 
 - [[edgar-fuche]] said the senior TR-3B designer "would have been Ben Rich" rather than Kelly Johnson, and the two Lockheed engineers who spoke to [[bill-mcdonald]] in 1992 claimed to work for Rich at Skunk Works on the Helendale range ([[xf-131-super-sentinel]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 58:42-59:12)*
+
+## Claims (jm/pines)
+
+- Michels cites Ben Rich lamenting a runaway of control with an international board of directors on the UFO topic; Pines has no evidence either way. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 1:01:14-1:01:43)*

@@ -1,0 +1,33 @@
+---
+title: UAP Disclosure Act (2023 Senate proposal)
+kind: event
+aliases: ["UAP Disclosure Act", "UFO Disclosure Act"]
+tags: [legislation, congress, disclosure, eminent-domain]
+relations:
+  - relation: alleged_by
+    target: matthew-pines
+    note: "described in jm/pines"
+  - relation: references_testimony_of
+    target: david-grush
+    note: "act arose from Grusch's testimony context"
+  - relation: part_of
+    target: legacy-program-decay-and-accountability-claims
+sources:
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+---
+
+The UAP Disclosure Act is the Senate bill (sponsored, per [[matthew-pines]], by Schumer, Rounds, Gillibrand, Heinrich and Todd Young) that would create a UAP records review board with unilateral declassification authority and eminent-domain reach over privately held UAP material. This page records how Pines describes it in [[pines-michels-interview-2024]], not the bill text.
+
+## Claims
+
+- Pines says the bill's function is accountability, "not to do disclosure now", to put mechanisms in place because "credible evidence indicates" records were withheld from elected officials. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:54:43-2:55:17)*
+- He describes the proposed review board as having the status of an executive department agency, subpoena power, unilateral declassification authority with presidential override, and Federal Acquisition Regulation contracting power to hire staff and third-party advisers, reporting on all instruments of national power (as [[karl-nell]] has discussed). *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 4:03:37-4:04:16)*
+- Pines says the bill was written before a unified Trump government looked likely and that a "messier" outcome is more likely, but he would still push the bill over an ad hoc truth-and-reconciliation committee, since the board's independence makes it a "hot potato" everyone can pass along. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 4:02:11-4:02:47, 4:04:32-4:05:52, 4:06:25-4:07:17)*
+- He names House "legacy folks" such as Rogers and Turner as obstacles, and notes Turner's district (Dayton) with Lockheed, Northrop and Boeing donors in the discussion. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 4:06:09-4:06:17, 38:35-38:51)*
+- Pines argues the fact of non-human intelligence is not "government information" and cannot properly be covered by the National Security Act or Atomic Energy Act, while propulsion, materials and perhaps physics research can be classified under lawful oversight; the accountability objective needs work first, then disclosure. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 4:10:53-4:12:05)*
+- He forecasts no return "into the bottle" and more senior figures coming out ([[david-grush]], [[luis-elizondo]], [[karl-nell]], Chris Mellon, Haim Eshed and a former Canadian defense minister) on a "ratchet", but rejects a 2027 arrival clock as his baseline. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 4:00:16-4:02:04, 4:00:47-4:01:10)*
+
+## Relationships
+
+- Discussed in [[pines-michels-interview-2024]] by [[matthew-pines]]; see [[legacy-program-decay-and-accountability-claims]], [[trump-disclosure-leverage-claims]], [[uap-task-force]], [[aaro]], [[christopher-mellon]].

@@ -19,6 +19,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Donald Trump appears in this episode as a later protégé of [[roy-cohn]] — the McCarthy-era "Deep
@@ -54,3 +56,7 @@ American power politics — and as the brief 1986 owner of [[resorts-internation
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says he has spoken to "senior" advisers and funders of the Trump team, that Trump has virtually no knowledge and risks being shown false evidence, and hands Michels a briefing document for him. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 4:06-4:38, 1:35:38-1:35:48, 3:19:09-3:19:27)*
+
+## Claims (jm/pines)
+
+- Pines believes Trump has been briefed on legacy programs and would treat disclosure as leverage; see [[trump-disclosure-leverage-claims]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 24:04-26:34)*

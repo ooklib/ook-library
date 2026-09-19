@@ -14,6 +14,8 @@ sources:
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 Brown Brothers Harriman (ASR: "Brown Brothers Herman") is the Wall Street "white shoe" bank formed
@@ -53,3 +55,7 @@ of Secrets* and Joseph Trento's *Prelude to Terror*.
 ## Claims (jm/sheehan)
 
 - Sheehan says the firm's investor families (Rockefellers, Harrimans, Carnegies, Mellons) financed German rearmament after Versailles, later fed the CIA (Robert Lovett's memo to Truman), formed the China lobby, and that Dulles acted as its consigliere in the JFK plot; Lovett and Robert Anderson, senior partners, sat with Stimson when Truman set up the [[anderson-trust]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 54:00)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:43:53)*
+
+## Claims (jm/pines)
+
+- Michels says (per Sheehan) the CIA was formed at the behest of Brown Brothers Harriman and its robber-baron cap table. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 41:47-42:17)*

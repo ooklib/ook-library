@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
+    label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
 ---
 
 The "S force" is the label [[danny-sheehan]] gives to a roughly 15-man team of anti-Castro Cuban exiles and mafia gunmen, hand-picked by [[santo-trafficante]] in 1960 for a plot to kill Fidel Castro, Che Guevara and other Cuban leaders, and later allegedly reactivated to kill [[john-f-kennedy]]. The name and structure appear in this wiki only through Sheehan's account; treat it as unverified.
@@ -32,3 +34,7 @@ The "S force" is the label [[danny-sheehan]] gives to a roughly 15-man team of a
 - Part of [[operation-40]] lineage; recruited by [[santo-trafficante]].
 - Alleged killers per [[sheehan-jfk-assassination-claims]].
 - Related: [[david-sanchez-morales]], [[frank-sturgis]], [[e-howard-hunt]].
+
+## Claims (jm/pines)
+
+- Michels says Danny Sheehan's account has [[howard-hughes]] creating S-Force and Dulles reoperationalizing it against JFK; Pines says Hughes was deputized by Nixon. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 41:05-41:11, 49:56-50:07)*
