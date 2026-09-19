@@ -17,6 +17,8 @@ relations:
     target: groom-lake
     note: "reconstructs S4 at Area 51"
 sources:
+  - file: "raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md"
+    label: "Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87 (Area52)"
   - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
@@ -35,3 +37,7 @@ Nothing in the interview independently verifies the reconstruction: its only ref
 ## Relationships
 
 - Authored by [[luigi-vendittelli]]; features [[bob-lazar]]; discussed in [[lazar-ramsey-interview-2025]] by [[chris-ramsey]]; reconstructs [[groom-lake]] S4 and the [[lazar-sport-model-craft-claims]].
+
+## Claims (a52/lazar-secret)
+
+- The documentary's first cut reportedly included a scene where Lazar names guard [[chuck-payne]]; it was removed as unexplained. Vendittelli says the crew also filmed Lazar in the desert with a Delorean "time machine" that is not in the film: *([a52/lazar-secret](<../raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md>) 8:16-9:52)*, see [[lazar-ramsey-followup-interview-2026]].

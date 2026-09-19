@@ -17,6 +17,8 @@ relations:
     target: chronovisor-claims
     note: "host compares it to the alleged time-viewing machine"
 sources:
+  - file: "raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md"
+    label: "Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87 (Area52)"
   - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
@@ -28,3 +30,7 @@ The name overlaps with the unrelated alleged time-viewing "Looking Glass" claims
 ## Relationships
 
 - Part of [[lazar-briefing-projects-trio]]; sibling of [[project-galileo-s4]] and [[project-sidekick-s4]].
+
+## Claims (a52/lazar-secret)
+
+- Lazar says time is the big project but gravity is prerequisite, since without the propulsion machine and power source the others cannot start; he has seen no sign of time viewing. Ramsey relays second-hand claims of a sphere called Looking Glass used through consciousness to peer into time: *([a52/lazar-secret](<../raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md>) 32:48-34:21)*, see [[s4-project-directives-claims]].

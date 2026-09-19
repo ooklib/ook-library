@@ -29,6 +29,8 @@ relations:
     target: travis-walton
     note: "Ramsey proposes a craft comparison"
 sources:
+  - file: "raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md"
+    label: "Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87 (Area52)"
   - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
@@ -56,3 +58,7 @@ Ramsey argues the documentary and the hangar-door photo vindicate Lazar; Lazar h
 
 - Hosted by [[chris-ramsey]]; features [[bob-lazar]], [[luigi-vendittelli]], [[jeremy-corbell]] (mentioned as the earlier film), [[george-knapp]] (mentioned for stories of witnesses dropping out), [[luis-elizondo]] and [[betty-and-barney-hill-abduction-1961]].
 - Ties to [[groom-lake]], [[los-alamos-national-laboratory]] and [[aztec-new-mexico-crash-1948]].
+
+## Claims (a52/lazar-secret)
+
+- A follow-up, [[lazar-ramsey-followup-interview-2026]] (ep. 87), reveals [[chuck-payne]] and revisits [[dennis-mariani]], [[lazar-hiring-rationale-claims]] and [[s4-project-directives-claims]].

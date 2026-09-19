@@ -11,6 +11,8 @@ relations:
     target: bob-lazar
     note: "spent about three years reconstructing S4 with Lazar's corrections"
 sources:
+  - file: "raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md"
+    label: "Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87 (Area52)"
   - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
@@ -21,3 +23,7 @@ Luigi Vendittelli (spelled "Venditelli" in the video description) is the filmmak
 
 - Authored [[project-gravitaur-s4-documentary]]; associate of [[bob-lazar]]; interviewed context for [[chris-ramsey]] in [[lazar-ramsey-interview-2025]].
 - Showed the documentary to Lazar's confidant [[gene-huff]] *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 7:42-7:59)*.
+
+## Claims (a52/lazar-secret)
+
+- Explains that Lazar volunteered the name [[chuck-payne]] in Las Vegas about three years before, during a shoot with a Delorean "time machine", and that the scene was cut from the film because it was not expanded: *([a52/lazar-secret](<../raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md>) 8:05-11:03)*.

@@ -11,6 +11,8 @@ relations:
     target: bob-lazar
     note: "only source in this wiki; Ramsey says a former EG&G contract pilot independently recalled him"
 sources:
+  - file: "raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md"
+    label: "Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87 (Area52)"
   - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
@@ -22,3 +24,7 @@ Ramsey says an anonymous, verified former EG&G contract pilot contacted the chan
 ## Relationships
 
 - Alleged employee of [[eg-and-g]]; described only by [[bob-lazar]]; see [[lazar-eg-and-g-recruitment-and-s4-access-claims]] and [[lazar-ramsey-interview-2025]].
+
+## Claims (a52/lazar-secret)
+
+- Lazar says Mariani phoned him soon after he went public and asked to meet at the Union Plaza Hotel, then ignored him there while ex-S4 security faces walked past: *([a52/lazar-secret](<../raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md>) 12:31-15:46)*, see [[lazar-union-plaza-meeting-claims]]. Ramsey repeats that an EG&G Janet co-pilot (about 1987-91) knew Mariani and knew he had died, and Lazar has seen a gravestone photo people believe is his: *([a52/lazar-secret](<../raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md>) 6:37-7:10,)*. Ramsey speculates, admittedly as a long shot, that Mariani wanted Lazar hired: *([a52/lazar-secret](<../raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md>) 17:36-19:09)*, see [[lazar-hiring-rationale-claims]]. Hub: [[lazar-ramsey-followup-interview-2026]].

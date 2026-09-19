@@ -14,6 +14,8 @@ relations:
     target: eg-and-g
     note: "presumed employer of the S4 propulsion staff (unstated in the interview)"
 sources:
+  - file: "raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md"
+    label: "Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87 (Area52)"
   - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
@@ -25,3 +27,7 @@ Barry gave the first hands-on demonstration of the reactor's force field, the gr
 ## Relationships
 
 - Lab partner of [[bob-lazar]] on [[project-galileo-s4]] at [[groom-lake]]; see [[lazar-ramsey-interview-2025]].
+
+## Claims (a52/lazar-secret)
+
+- Lazar hopes Barry was not punished, recalls his excitement at having a new partner and hinting to him that the work should not stay secret, and says Barry too warned that briefing material contains misleading red herrings: *([a52/lazar-secret](<../raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md>) 22:05-23:45,)*, see [[s4-liquid-and-memory-integrity-claims]] and [[s4-project-directives-claims]].

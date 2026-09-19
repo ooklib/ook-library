@@ -16,6 +16,8 @@ relations:
     target: richard-doty
     note: "alleged overlap in disinformation, per host"
 sources:
+  - file: "raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md"
+    label: "Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87 (Area52)"
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
@@ -39,3 +41,7 @@ John Lear, CIA-contract cargo pilot, aviation-record setter and 1980s UFO circui
 ## Claims (jm/cameron)
 
 - Cameron says Lear was regarded as a wild card and was the intended messenger; Cameron helped take Lear and others to see test flights on 22 March 1989: [[lazar-counterintelligence-hypothesis-cameron]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:21:44-1:24:56)*
+
+## Claims (a52/lazar-secret)
+
+- Lazar says Lear's late-1980s claims (a billion aliens in the mountains near Las Vegas, a civilization in a cool sun, breathable Venus) were so extreme that he told Lear it was nonsense and that S4 would not see him as a threat: *([a52/lazar-secret](<../raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md>) 16:45-17:36)*, see [[lazar-hiring-rationale-claims]] and [[lazar-ramsey-followup-interview-2026]].

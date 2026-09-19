@@ -20,6 +20,8 @@ relations:
     target: los-alamos-national-laboratory
     note: "where Lazar says he met Teller"
 sources:
+  - file: "raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md"
+    label: "Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87 (Area52)"
   - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
@@ -45,3 +47,7 @@ sources:
 ## Relationships
 
 - [[edward-teller]] as the alleged referrer; [[eg-and-g]] special projects as the employer; [[groom-lake]] as the site; [[dennis-mariani]] and [[barry-s4-lab-partner]] as the people he meets. Part of [[lazar-ramsey-interview-2025]].
+
+## Claims (a52/lazar-secret)
+
+- Lazar says Teller's weight is the likeliest reason for his hire ([[lazar-hiring-rationale-claims]]), describes Chuck Payne as the one extroverted, well-known S4 guard ([[chuck-payne]]), and the yellow drink as an immune booster ([[s4-liquid-and-memory-integrity-claims]]): *([a52/lazar-secret](<../raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md>) 4:03-5:34,)*.

@@ -14,6 +14,8 @@ relations:
     target: luis-elizondo
     note: "says Elizondo was a previous guest"
 sources:
+  - file: "raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md"
+    label: "Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87 (Area52)"
   - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
@@ -25,3 +27,7 @@ Chris Ramsey is the host of the Area52 (DEBRIEFED) YouTube channel and podcast, 
 - Hosts [[lazar-ramsey-interview-2025]].
 - Works with the documentary crew of [[luigi-vendittelli]] (footage credit to Luigi Venditelli and Christopher Matteau in the description).
 - Referenced guest: [[luis-elizondo]].
+
+## Claims (a52/lazar-secret)
+
+- Hosts [[lazar-ramsey-followup-interview-2026]] (ep. 87), a follow-up to [[lazar-ramsey-interview-2025]]; asks the questions he regretted omitting, offers the speculation in [[lazar-hiring-rationale-claims]] and relays second-hand reports of a conscious "Looking Glass" sphere: *([a52/lazar-secret](<../raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md>) 0:00-2:18,)*.

@@ -11,6 +11,8 @@ relations:
     target: dennis-mariani
     note: "Lazar says Mariani left him alone with the folders"
 sources:
+  - file: "raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md"
+    label: "Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87 (Area52)"
   - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
@@ -22,3 +24,7 @@ The folders also allegedly contained non-technical material ([[lazar-zeta-reticu
 ## Relationships
 
 - Contains [[project-galileo-s4]], [[project-sidekick-s4]], [[project-looking-glass-s4]]; at [[groom-lake]]; part of [[lazar-ramsey-interview-2025]].
+
+## Claims (a52/lazar-secret)
+
+- Ramsey summarizes the trio again (Galileo gravity propulsion, Sidekick weaponization, Looking Glass time), and Lazar says he was assigned two directives, duplicate and remotely disable: *([a52/lazar-secret](<../raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md>) 30:49-34:36)*, see [[s4-project-directives-claims]].

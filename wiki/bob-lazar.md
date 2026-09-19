@@ -29,6 +29,8 @@ relations:
     target: gene-huff
     note: "confidant"
 sources:
+  - file: "raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md"
+    label: "Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87 (Area52)"
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/saic.md
@@ -104,3 +106,7 @@ Chris Ramsey's 2025 interview ([[lazar-ramsey-interview-2025]], hosted by [[chri
 - Other craft, Navy and underwater ideas: [[s4-hangars-and-other-craft-claims]]; comparisons to [[billy-meier]] (photos he says match the craft) and [[travis-walton]] *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 1:37:02-1:50:16)*.
 - Aftermath: says he sleeps "thinking about that technology", would love to be let back into the project, and that he may have "already" taken something from the hangar ([[lazar-s4-camera-and-daily-life-claims]]) *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 1:28:17-1:28:26, 1:54:32-1:57:57)*.
 - Says the documentary and hangar-door photo vindicate him but he needs no vindication, and that people cannot say "total nonsense" without more information *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 26:15-28:27)*. Contrast [[lazar-counterintelligence-hypothesis-cameron]].
+
+## Claims (a52/lazar-secret)
+
+- Names a new S4 security guard, [[chuck-payne]], previously withheld so claimants can be tested: *([a52/lazar-secret](<../raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md>) 1:12-6:11)*. Describes a Union Plaza Hotel meeting with [[dennis-mariani]] soon after going public ([[lazar-union-plaza-meeting-claims]]), rejects a hallucination reading of the yellow drink ([[s4-liquid-and-memory-integrity-claims]]), gives reasons he was hired despite friend [[john-lear]] ([[lazar-hiring-rationale-claims]]) and recalls two propulsion directives ([[s4-project-directives-claims]]). Hub: [[lazar-ramsey-followup-interview-2026]].

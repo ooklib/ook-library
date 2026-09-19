@@ -15,6 +15,8 @@ relations:
     target: dennis-mariani
     note: "Lazar cites Knapp's experience of witnesses dropping out, in the context of a pilot who recalled Mariani"
 sources:
+  - file: "raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md"
+    label: "Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87 (Area52)"
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
@@ -96,3 +98,7 @@ Levenda says Knapp's questioning of Bob Lazar was artful. *([jm/levenda](<../raw
 ## Claims (a52/lazar-everything)
 
 - [[bob-lazar]] says Knapp often lines up a witness who knows Lazar and then loses them, comparing the pilot who recalled [[dennis-mariani]] and vanished *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 21:30-21:53)*.
+
+## Claims (a52/lazar-secret)
+
+- Lazar says he never told Knapp the name [[chuck-payne]], and that Mariani phoned him to meet after he came out through Knapp: *([a52/lazar-secret](<../raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md>) 4:31-4:39,)*, see [[lazar-union-plaza-meeting-claims]].
