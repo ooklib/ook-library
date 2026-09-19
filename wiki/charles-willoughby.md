@@ -9,6 +9,9 @@ relations:
     note: "host: later worked closely with the Texas Raj in funding far-right causes and the militia movement"
   - relation: alleged_by
     target: eyes-wide-open
+sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
+    label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
     label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
@@ -29,3 +32,7 @@ General Charles Willoughby was Douglas MacArthur's intelligence chief in the Pac
 ## Additional claims (The Road to Dallas Chapter 1, ewa/dallas-1)
 
 - Outro: the host calls Willoughby "one of the forgotten Cold War spy masters", head of the US intelligence apparatus in postwar Tokyo who was "instrumental in rehabilitating several high-profile war criminals", and says he pins Willoughby as "a potential overlooked player in JFK assassination plots, specifically related to potential army intelligence plots." A two-part Willoughby series (prior to and during WWII; first two parts on Patreon, on YouTube by end of 2025) follows; the host also plans more Road to Dallas chapters after Willoughby. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 32:22-33:37)*
+
+## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
+
+- Host describes him as the "forgotten spy master" and "in my opinion a major suspect in the JFK hit"; [[jack-cannon]] was his subordinate in Japan (Yakuza collaboration, stay-behind networks), to be covered in the coming Willoughby episodes. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 22:15)*

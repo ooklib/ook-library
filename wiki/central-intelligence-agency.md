@@ -79,6 +79,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
+    label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -187,3 +189,7 @@ shared organization page.
 ## Additional claims (The CIA's Blond Ghost, ewa/shackley)
 
 - Host: covert action rose under Dulles in the 1950s as operator types displaced traditional intelligence; [[halloween-massacre]] (1977) removed Bush as DCI and several old boys; see [[ted-shackley]] for a career-spanning view (Nuremberg, Berlin, Miami, Laos, Saigon, Western Hemisphere Division, ADDO), [[galen-commando-program]] and [[berlin-tunnel]]. *([ewa/shackley](../raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md) 1:17:53-1:19:07, 9:58-10:31)*
+
+## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
+
+- `ewa/dallas-2`: host profiles [[david-atlee-phillips]] and describes the 1959 Havana station; see [[cuban-revolution]] and [[lebanon-crisis-1958]]. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 5:44)*

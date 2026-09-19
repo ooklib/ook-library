@@ -18,6 +18,8 @@ sources:
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
+    label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
 ---
 
 Historian whose 1972 *The Politics of Heroin* the host calls the touchstone of intelligence-narcotics research and the main source for [[operation-paper]]. Cited alongside Douglas Valentine (*The Strength of the Wolf*), [[peter-dale-scott]] (article "Operation Paper: The United States and Drugs in Thailand and Burma"), Whitney Webb, Pierre-Arnaud Chouvy, Arne Kislenko and Victor Kaufman. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 3:31-4:32)*
@@ -36,3 +38,7 @@ Historian whose 1972 *The Politics of Heroin* the host calls the touchstone of i
 - LAOS 2: source for [[operation-x]] ([[roger-trinquier]], [[antoine-savani]]).
 - LAOS 3: [[lucien-conein]], [[ngo-dinh-nhu]].
 - LAOS 4: LAOS 4: [[ouane-rattikone]], [[phoumi-nosavan]].
+
+## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
+
+- Quoted on the Lebanon-Marseilles-Caribbean heroin route (*The Politics of Heroin*, p. 63); see [[lebanon-crisis-1958]]. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 19:17)*

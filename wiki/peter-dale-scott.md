@@ -25,6 +25,8 @@ sources:
     label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
+    label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
 ---
 
 Peter Dale Scott is a researcher credited by Eyes Wide Open as the originator of the "deep
@@ -66,3 +68,7 @@ series on the history of the CIA.
 ## Additional claims (The Road to Dallas Chapter 1, ewa/dallas-1)
 
 - *Deep Politics and the Death of JFK* (p. 178) is quoted for the claim that Castro accepted American soldiers of fortune for their ability to procure surplus or allegedly stolen US military supplies; see [[frank-sturgis]]. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 20:16-20:43)*
+
+## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
+
+- Quoted on [[jack-cannon]] (*Deep Politics and the Death of JFK*, p. 178): a Willoughby Yakuza-operations veteran who "penetrated Castro's guerilla operation against Batista" in the late 1950s. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 23:02)*

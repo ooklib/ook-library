@@ -63,6 +63,8 @@ sources:
     label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
+    label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -218,3 +220,7 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 
 - Chapter 1 of [[road-to-dallas]] (2025-11-14): [[frank-sturgis]] and the soldiers of fortune of the [[cuban-revolution]]. Host cites *Warrior* (Hunt and Risch), Peter Dale Scott, Hinckle and Turner, Argosy (1975, 1993) and the Miami Herald (2008) as sources, and thanks a Twitter user "Young Coxy" for the Argosy lead. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 10:00-10:13, 14:24-14:44)*
 - Host mentions a forthcoming Patreon Japan-history series and a [[charles-willoughby]] series. *([ewa/dallas-1](../raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md) 31:49-33:13)*
+
+## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
+
+- `ewa/dallas-2` (published 2025-11-21; first on Patreon April 1, 2025): Road to Dallas chapter 2 on [[david-atlee-phillips]]; host announces a chronological-order playlist and a Japan series on Patreon. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 27:04, 27:40)*

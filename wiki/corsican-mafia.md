@@ -14,6 +14,8 @@ sources:
     label: "Operation X and the French Indochina War - LAOS 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
+    label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
 ---
 
 Corsican organized crime in Marseille and Saigon; the subject of the upcoming French Connection series. Per Eyes Wide Open, [[lucien-conein]] allegedly forged ties with Corsican mobsters in Vietnam (some met in Marseille during WWII) and connected them to [[vang-pao]]'s army for opium trafficking; he later admitted working with them at the DEA. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 15:45-15:57, 16:17-16:24, 17:02-17:10)*
@@ -33,3 +35,7 @@ Corsican organized crime in Marseille and Saigon; the subject of the upcoming Fr
 - See [[lucien-conein]], [[cia-drug-paradigm]].
 - LAOS 2: [[antoine-savani]], [[binh-xuyen]], [[operation-x]].
 - LAOS 3: [[air-laos-commerce]].
+
+## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
+
+- Host quotes McCoy's *The Politics of Heroin* (1965 Federal Bureau of Narcotics study): Corsican networks linked Turkey's opium fields with New York's heroin markets, importing morphine from Lebanon, processing it in Marseilles labs and exporting to American mafia distributors via Canada and the Caribbean; host ties this to the [[lebanon-crisis-1958]]. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 19:17)*

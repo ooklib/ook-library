@@ -21,6 +21,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
+    label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
 ---
 
 Colonel Joseph Caldwell King, head of the CIA's Western Hemisphere Division, is presented by [[eyes-wide-open]] as an obscure figure who wrote the first CIA policy proposal against Castro, dated December 11, 1959, calling for the "elimination" of Castro. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 8:23-8:45)*
@@ -41,3 +43,9 @@ Colonel Joseph Caldwell King, head of the CIA's Western Hemisphere Division, is 
 ## Additional claims (CIA-Mafia Legend)
 
 - Host: JC King, head of CIA's Western Hemisphere division, graduated West Point in 1923 (same year as Sheffield Edwards) and was put in charge of early Operation 40 activities by Bissell. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:00:55-1:01:12)* See [[sheffield-edwards]].
+
+## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
+
+- Host speculation, flagged as "spitballing": the obscure William Caldwell, CIA station chief in Havana during the revolution (described by John Prados as sympathetic to Castro and an opponent of Batista; replaced when Castro took power in January 1959 by a hardliner, James Null), might be an alias for King, or a future Army general, or simply a nobody. The host says King's promotion to head of the Western Hemisphere division in December 1959 (a big jump from Havana station chief, but plausible) and his prominence in early Castro plots are "somewhat dubious given his relative nobody status." Host calls King "the public face" of early Castro assassination/[[operation-40]] planning since his name is on the documentation. Wiki-internal note: [[operation-40]] and this page give King's rise in 1959 without a Havana station chief history; this episode's identification is unverified. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 1:26, 3:22)*
+
+- Discrepancy note: the host cites Prados for the Caldwell/Null station-chief swap in the narration, while the video bibliography lists Prados's *The Ghosts of Langley*; the narration says "Safe for Democracy: The Secret Wars of the CIA". Kept as spoken. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 1:18)*

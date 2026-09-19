@@ -27,6 +27,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md"
     label: "The CIA's Miami Station - JMWAVE (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
+    label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
 ---
 
 David Sanchez Morales ("El Indio") is described by [[eyes-wide-open]] as one of the CIA's most ruthless early assassination experts and the assassination trainer of [[operation-40]]. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 43:25-43:48)*
@@ -49,3 +51,7 @@ David Sanchez Morales ("El Indio") is described by [[eyes-wide-open]] as one of 
 
 - Host: replaced Rocky Farnsworth as covert operations chief of [[jm-wave-station]]; possibly met Shackley in Germany (former army corporal) and perhaps Shackley had a role in his CIA recruitment; per Shackley's memoir he was [[thomas-clines]]'s direct boss before Shackley arrived, "reportedly the trainer of the shooting team" in [[operation-40]]; later followed Shackley to Laos and Vietnam (Phoenix). *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 34:50-35:33)*
 - Host: ties to Caribbean CIA go back to the 1954 Guatemala coup ([[operation-pbsuccess]]) with [[e-howard-hunt]] and David Atlee Phillips, and he worked from the Havana station 1958-60 alongside Phillips; devoutly loyal to Shackley per Clines; "if you had to point to one man at CIA that was capable of killing JFK or training a killer to do so, nobody would fault you for choosing Elindio" (host's characterization of assassination theories). Phillips deferred to the next episode. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 36:20-38:06)* A photo credited to the tangodown63 blog allegedly shows Morales and Clines at a CIA reunion. *([ewa/jmwave](../raw/ewa/Eyes Wide Open - 2025-11-07 - The CIA's Miami Station - JMWAVE.md) 35:40-36:20)*
+
+## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
+
+- Host calls Morales a "Phillips colleague in Cuba" and suggests a photo of him and Thomas Clines shown in the JM/WAVE episode may have been taken at an [[association-of-former-intelligence-officers]] event (speculative). See [[david-atlee-phillips]]. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 9:04)*

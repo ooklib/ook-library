@@ -34,6 +34,8 @@ sources:
     label: "The Road to Dallas Chapter 0 - JFK Assassination Thesis (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-11-14 - The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (JFK ASSASSINATION SERIES).md"
     label: "The Road to Dallas Chapter 1 - Frank Sturgis and the Soldiers of Fortune (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
+    label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
 ---
 
 Frank Sturgis (born Frank Fiorini) is introduced as an unofficial CIA-asset gunrunner who armed and trained Castro's guerrillas in the late 1950s, later a Bay of Pigs operative and Watergate burglar. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 36:45-37:09)*
@@ -92,3 +94,7 @@ This is the dedicated Sturgis episode of [[road-to-dallas]]; the host calls him 
 ### Relationships (Chapter 1)
 
 - Associate of [[gerry-patrick-hemming]]; connected via family to [[carlos-prio-socarras]]; participant in the [[cuban-revolution]] on Castro's side.
+
+## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
+
+- Host notes Sturgis, the "Castro-aiding soldier of fortune" and later Nixon plumber, was roaming Cuba in 1959 when [[david-atlee-phillips]] and (for a time) [[e-howard-hunt]] were active there. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 6:15)*

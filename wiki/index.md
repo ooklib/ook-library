@@ -11,7 +11,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
 `gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`,
 `rjm/city-of-london`, `mpu/secret-society`, `ewa/oss`, `ewa/sunrise`, `ewa/mafia-allies`,
-`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`, `ewa/laos-4`, `ewa/war-conspiracy-1`, `ewa/war-conspiracy-2`, `ewa/operation-40`, `ewa/cia-mafia`, `ewa/bush-1`, `ewa/bush-2`, `ewa/bush-3`, `ewa/jfk-cia`, `ewa/shackley`, `ewa/jmwave`, `ewa/dallas-0`, `ewa/dallas-1`).
+`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`, `ewa/laos-4`, `ewa/war-conspiracy-1`, `ewa/war-conspiracy-2`, `ewa/operation-40`, `ewa/cia-mafia`, `ewa/bush-1`, `ewa/bush-2`, `ewa/bush-3`, `ewa/jfk-cia`, `ewa/shackley`, `ewa/jmwave`, `ewa/dallas-0`, `ewa/dallas-1`, `ewa/dallas-2`).
 
 Note: the wiki spans four topic areas — the original alleged "UFO legacy programs" ecosystem
 (MITRE, SAIC, NRO, Lockheed, etc.), a British power-structures thread (Fabian Society, Chatham
@@ -152,6 +152,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[counter-intelligence-corps]] — US Army CIC, Shackley's first employer; Oberammergau school · [[us-army-special-forces]] — Green Berets; host's Gehlen-commando origin thesis — added by `ewa/shackley`.
 [[zenith-technical-enterprises]] — CIA cutout firm fronting JM/WAVE · [[university-of-miami]] — lessee of the former naval air base site · [[nugan-hand-bank]] — successor to Castle Bank in the host's shadow-banking chain — added by `ewa/jmwave`; [[jm-wave-station]] greatly expanded.
 
+[[association-of-former-intelligence-officers]] — AFIO, founded 1975 by Phillips — added by `ewa/dallas-2`.
+
 ## Places
 
 [[crystal-city-virginia]] · [[naval-air-station-patuxent-river]] ·
@@ -231,6 +233,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[italian-election-1948]] · [[portella-della-ginestra-massacre-1947]] · [[blue-suite]] ·
 [[kefauver-committee]] · [[plan-bleu-1947]] · [[rose-des-vents]] · [[operation-zipper]] · [[operation-pbsuccess]] · [[bay-of-pigs-invasion]] · [[operation-40]] ·
 [[kennedy-assassination]] · [[watergate-scandal]] · [[secret-war-in-laos]] · [[laos-coups-1958-1960]] · [[operation-brotherhood]] · [[operation-white-star]] · [[operation-momentum]] · [[operation-milpond]] · [[deer-mission]] · [[first-indochina-war]] · [[battle-of-dien-bien-phu]] · [[geneva-conference-1954]] · [[saigon-military-mission]] · [[battle-of-saigon-1955]] · [[strategic-hamlet-program]] · [[nsc-68]] · [[korean-war]] · [[special-studies-project]] · [[operation-mongoose]] · [[zr-rifle]]
+[[lebanon-crisis-1958]] — 1957-58 Beirut CIA electioneering/Operation PECTATE; opium-route thesis — added by `ewa/dallas-2`.
 [[galen-commando-program]] — Gehlen Org/CIA "special forces" paratrooper program · [[berlin-tunnel]] · [[halloween-massacre]] — 1977 CIA purge — added by `ewa/shackley`.
 
 ## People — British power structures
@@ -284,6 +287,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[ho-chi-minh]] · [[dwight-d-eisenhower]] · [[roger-trinquier]] · [[antoine-savani]] · [[touby-lyfoung]] · [[wesley-fishell]] · [[ngo-dinh-nhu]] · [[thomas-corcoran]] · [[whiting-willauer]] · [[william-pawley]] · [[t-v-soong]] · [[paul-nitze]] · [[howard-hughes]] · [[lyndon-b-johnson]] · [[nelson-rockefeller]] · [[laurance-rockefeller]] · [[henry-kissinger]] · [[richard-bissell]] · [[frank-sturgis]] · [[jack-ruby]] · [[david-ferrie]] · [[barry-seal]] · [[lee-harvey-oswald]] · [[carlos-marcello]] · [[charles-rebozo]] · [[fidel-castro]] · [[felix-rodriguez]] · [[david-sanchez-morales]] · [[ted-shackley]] · [[joseph-caldwell-king]] · [[jacob-esterline]] · [[manuel-artime]] · [[orlando-bosch]] · [[william-harvey]] · [[mcgeorge-bundy]]
 [[gerry-patrick-hemming]] — soldier of fortune, Interpen founder, claimed 1959 Oswald contact · [[carlos-prio-socarras]] — exiled Cuban ex-president, Castro financier — added by `ewa/dallas-1`; [[frank-sturgis]] greatly expanded.
 [[franz-six]] · [[lauri-torni]] — added by `ewa/shackley`; [[ted-shackley]] greatly expanded (early life, CIC, Nuremberg, Berlin, career arc).
+[[david-atlee-phillips]] — CIA Latin America officer (Chile, PBSuccess, Cuba, Beirut), AFIO founder · [[jack-cannon]] — Army G2 officer alleged to have penetrated Castro's guerrillas — added by `ewa/dallas-2`.
 [[thomas-clines]] — Shackley's JM/WAVE lieutenant (ASR "Klein") · [[grayston-lynch]] — paramilitary trainer and eyewitness — added by `ewa/jmwave`; [[alfred-cox]], [[paul-helliwell]], [[william-pawley]], [[william-harvey]], [[ted-shackley]] enriched.
 
 ## Concepts

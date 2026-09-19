@@ -22,6 +22,8 @@ sources:
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md"
+    label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
 ---
 
 Operation PBSuccess (1954) is the CIA coup that overthrew Guatemala's elected government of [[jacobo-arbenz]]; per Eyes Wide Open it was the second of the "big three" coups under [[allen-dulles]] (after Iran 1953, before Lumumba 1960), largely at the behest of [[united-fruit-company]], and put [[e-howard-hunt]] on the map. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 5:29-6:16)*
@@ -52,3 +54,11 @@ Operation PBSuccess (1954) is the CIA coup that overthrew Guatemala's elected go
 ## Additional claims (Bush the Father, Chapter 1)
 
 - Host: [[william-pawley]], friend of [[prescott-bush]], "would later play a significant role" in this 1954 Guatemala coup. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 18:29-18:36)*
+
+## Additional claims (The Road to Dallas Chapter 2, ewa/dallas-2)
+
+- [[david-atlee-phillips]] served in deep cover as an American businessman in Guatemala City during the coup; host: he had been an off-the-books asset in Chile, on payroll by 1954. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 11:15)*
+
+- Host: PBSuccess was the blueprint for the Bay of Pigs ([[bay-of-pigs-invasion]]) and "ground zero" for the CIA Caribbean team on the Gulf Coast; many PBSuccess planners were staffed at the 1959 Havana station. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 1:06, 5:00)*
+
+- Che Guevara claim: per Guevara's own words as quoted by the host, the overthrow of [[jacobo-arbenz]] (he was in Guatemala at the time and tried in vain to organize resistance) was the definitive event that inspired him to begin guerrilla activity, ending in his support of [[fidel-castro]]. Guevara's quote names [[john-foster-dulles]] as the visible head of the aggression and as a stockholder and attorney of [[united-fruit-company]]; the host adds that Allen Dulles ran the CIA side. Host: PBSuccess thus formed the CIA team behind anti-Castro activity and also "radicalized" a key revolutionary, making it a "fundamental deep event" of Cold War Latin American history. *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 11:52, 13:17)*
