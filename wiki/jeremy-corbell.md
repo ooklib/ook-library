@@ -10,6 +10,9 @@ relations:
   - relation: associate_of
     target: dylan-borland
     note: "journalist who interviewed Borland"
+  - relation: related_to
+    target: project-gravitaur-s4-documentary
+    note: "Lazar says he only agreed to the later film after Corbell's"
 sources:
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
@@ -17,6 +20,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
+    label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
 
 Filmmaker and journalist, co-host with [[george-knapp]] of the Weaponized podcast, referred to throughout [[borland-michels-interview-2026]] as the source of several Borland-related claims. Additional Corbell material may exist under other sources.
@@ -38,3 +43,7 @@ Filmmaker and journalist, co-host with [[george-knapp]] of the Weaponized podcas
 ## Claims (jm/pines)
 
 - Named with Ross Coulthart for legacy-program insiders' hints of an ontologically shocking truth; see [[nhi-counterintelligence-and-polygraph-claims]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 4:07:59-4:08:35)*
+
+## Claims (a52/lazar-everything)
+
+- [[bob-lazar]] says he thought Corbell's film would be his last public statement, until [[luigi-vendittelli]] persuaded him to do [[project-gravitaur-s4-documentary]] *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 5:13-5:48)*.

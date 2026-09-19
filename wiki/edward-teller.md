@@ -19,6 +19,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
+    label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
 
 Edward Teller, father of the hydrogen bomb, appears in two roles in this source: as the fifth "credible witness" to Brown's experiments and as the figure Lazar said he met before hiring at S4.
@@ -44,3 +46,7 @@ Edward Teller, father of the hydrogen bomb, appears in two roles in this source:
 ## Claims (jm/cameron)
 
 - Cameron says Lazar phoned Teller in November and was on the base on 6 December, which he calls too fast for a Q clearance. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:21:12-1:21:37)*
+
+## Claims (a52/lazar-everything)
+
+- [[bob-lazar]] says he met Teller outside a lecture hall at [[los-alamos-national-laboratory]] on the day the lab newspaper ran Lazar on its front page, and Ramsey says the documentary found evidence Teller lectured there that day *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 12:13-14:01)*. Later Lazar sent Teller a resume and got a reply with an [[eg-and-g]] special projects contact *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 14:30-14:54)*: [[lazar-eg-and-g-recruitment-and-s4-access-claims]].

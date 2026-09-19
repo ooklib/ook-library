@@ -19,9 +19,14 @@ relations:
   - relation: associate_of
     target: al-bielek
     note: "shared the conference bill; Schneider defers to Bielek on the tunnel trains"
+  - relation: analogous_to
+    target: lazar-sport-model-craft-claims
+    note: "both describe a small 'sport model' saucer at S-4"
 sources:
   - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
+  - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
+    label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
 
 Phil Schneider was a self-described geologist, structural engineer and underground-tunneling specialist who lectured in 1995 that he had spent 17 years working on classified government projects. The wiki records only his claims as made in the November 1995 Las Vegas lecture ([[schneider-las-vegas-lecture-1995]]), not verified fact. He is a foundational figure of the "alien underground base" strand of UFO lore that predates and differs from the contractor-legacy-program framing used by [[uap-gerb]].
@@ -44,3 +49,7 @@ Phil Schneider was a self-described geologist, structural engineer and undergrou
 - Central speaker of [[schneider-las-vegas-lecture-1995]]; source of claims on [[dulce-underground-base-incident-1979]], [[greada-treaty-1954]], [[deep-underground-military-bases]], [[corbomite-and-alien-materials-claims]], [[new-world-order-alien-agenda-claims]].
 - Worked at [[groom-lake]]; cites [[los-alamos-national-laboratory]] and [[eg-and-g]].
 - Shared the conference with [[al-bielek]]; recommends [[richard-sauder]]'s book.
+
+## Claims (a52/lazar-everything)
+
+- The "sport model" label used for [[bob-lazar]]'s craft is discussed in [[lazar-sport-model-craft-claims]]; Lazar says he coined "model" and others added "sport" *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 1:51:45-1:51:55)*.

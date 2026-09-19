@@ -10,6 +10,24 @@ relations:
     target: alien-reproduction-vehicle-tr3b
   - relation: associate_of
     target: john-lear
+  - relation: recruited_by
+    target: edward-teller
+    note: "says Teller's referral led to EG&G special projects (a52/lazar-everything)"
+  - relation: worked_at
+    target: groom-lake
+    note: "alleged S4 propulsion work, 1989"
+  - relation: participated_in
+    target: project-galileo-s4
+    note: "assigned to the propulsion project"
+  - relation: associate_of
+    target: barry-s4-lab-partner
+    note: "lab partner at S4"
+  - relation: associate_of
+    target: luigi-vendittelli
+    note: "consultant on the S4 documentary"
+  - relation: associate_of
+    target: gene-huff
+    note: "confidant"
 sources:
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
@@ -29,6 +47,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
+    label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
 
 Bob Lazar claimed to have been hired by [[eg-and-g|EG&G]] to reverse-engineer UFO propulsion
@@ -71,3 +91,16 @@ Levenda says Lazar's Bendix Field Engineering badge raises his credence, because
 ## Claims (jm/cameron)
 
 - Cameron argues Lazar worked on real craft but was placed as a discreditable messenger by a superior who wanted it out: [[lazar-counterintelligence-hypothesis-cameron]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:19:33-1:31:48)*
+
+## Claims (a52/lazar-everything)
+
+Chris Ramsey's 2025 interview ([[lazar-ramsey-interview-2025]], hosted by [[chris-ramsey]]) is Lazar's most detailed recent retelling, prompted by [[luigi-vendittelli]]'s documentary ([[project-gravitaur-s4-documentary]]).
+
+- Hiring: met [[edward-teller]] at [[los-alamos-national-laboratory]] the day he was on the lab newspaper's front page; later sent Teller a resume and got an [[eg-and-g]] special projects contact at McCarran, then a second, personal interview: [[lazar-eg-and-g-recruitment-and-s4-access-claims]] *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 12:13-16:34)*.
+- Access: Janet flight to [[groom-lake]], black bus, hillside door, hand scanner, guards; supervisor [[dennis-mariani]] and lab partner [[barry-s4-lab-partner]] *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 18:37-35:31)*.
+- Briefings: three projects, [[project-galileo-s4]] (his), [[project-sidekick-s4]], [[project-looking-glass-s4]], plus documents on Zeta Reticuli and entities that he distrusts: [[lazar-briefing-projects-trio]], [[lazar-zeta-reticuli-briefing-document-claims]] *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 40:33-53:22)*.
+- Lab and craft: force field, frozen candle, light-bending sphere; the craft, its interior and a test flight with the invisibility effect: [[lazar-gravity-amplifier-lab-claims]], [[lazar-sport-model-craft-claims]] *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 53:36-1:09:00, 1:24:48-1:27:38)*.
+- Theory: element 115 reactor and an undiscovered non-gravitational force: [[element-115-and-lazar-reactor-claims]] *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 1:32:04-1:34:39)*.
+- Other craft, Navy and underwater ideas: [[s4-hangars-and-other-craft-claims]]; comparisons to [[billy-meier]] (photos he says match the craft) and [[travis-walton]] *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 1:37:02-1:50:16)*.
+- Aftermath: says he sleeps "thinking about that technology", would love to be let back into the project, and that he may have "already" taken something from the hangar ([[lazar-s4-camera-and-daily-life-claims]]) *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 1:28:17-1:28:26, 1:54:32-1:57:57)*.
+- Says the documentary and hangar-door photo vindicate him but he needs no vindication, and that people cannot say "total nonsense" without more information *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 26:15-28:27)*. Contrast [[lazar-counterintelligence-hypothesis-cameron]].

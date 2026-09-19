@@ -24,6 +24,9 @@ relations:
   - relation: alleged_by
     target: uap-gerb
     note: "Gerb states he distrusts Elizondo and does not believe his public account of his legacy-program involvement"
+  - relation: related_to
+    target: s4-hangars-and-other-craft-claims
+    note: "Ramsey cites his underwater-craft footage claim"
 sources:
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
@@ -51,6 +54,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
+    label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
 
 Luis Elizondo (ASR-transcribed "Lou Alzando"/"Luis Alzando") claimed to direct, work for, or
@@ -175,3 +180,7 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
 ## Claims (jm/cameron)
 
 - Cameron calls Elizondo part of a "B team" brought in after the Podesta leak, and Michels says Elizondo told him he has seen the Vandenberg film: [[vandenberg-film-sandler-vault-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:10:53-1:11:11, 2:40:03-2:40:13)*
+
+## Claims (a52/lazar-everything)
+
+- [[chris-ramsey]] says Elizondo, a previous guest, described crisp 4K footage of a city-block-sized round object moving about 500 knots underwater near an oil rig, possibly satellite-sourced and part of an AAWSAP/AATIP-type program; second-hand: [[s4-hangars-and-other-craft-claims]] *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 1:40:24-1:41:30)*.

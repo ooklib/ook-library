@@ -24,6 +24,9 @@ relations:
   - relation: investigates
     target: george-knapp
     note: "inverse: Knapp investigated EG&G's Area 51/recovered-materials claims"
+  - relation: related_to
+    target: lazar-eg-and-g-recruitment-and-s4-access-claims
+    note: "Lazar's account of its Las Vegas special projects office and Janet flights"
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
@@ -37,6 +40,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
+    label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
 
 EG&G (Edgerton, Germeshausen, and Grier, Inc.), founded in 1931 by MIT professor
@@ -105,3 +110,7 @@ EG&G (Edgerton, Germeshausen, and Grier, Inc.), founded in 1931 by MIT professor
 ## Claims (jm/matthew-brown)
 
 - In the Brown interview Michels notes EG&G's filming of atomic tests and the [[bluegill-triple-prime]] footage, and Brown says [[amentum]] owns parts of EG&G and that the Navy is the oldest part of the legacy program (ONI being the oldest US intelligence agency). *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:58:07-1:59:39)*
+
+## Claims (a52/lazar-everything)
+
+- [[bob-lazar]] says EG&G special projects occupied a large building at McCarran airport in Las Vegas, ran the Janet jets that flew staff to Groom Lake and other sites, and hired him via a two-stage interview; he says "we still don't" know what "special projects" were *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 14:54-15:22, 18:37-19:21)*. Supervisor: [[dennis-mariani]]. See [[lazar-eg-and-g-recruitment-and-s4-access-claims]].

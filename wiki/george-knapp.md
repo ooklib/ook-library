@@ -11,6 +11,9 @@ relations:
     note: "2020 report on the 2008 Needles, CA object crash and NNSA OST response"
   - relation: associate_of
     target: john-lear
+  - relation: related_to
+    target: dennis-mariani
+    note: "Lazar cites Knapp's experience of witnesses dropping out, in the context of a pilot who recalled Mariani"
 sources:
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
@@ -28,6 +31,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
+    label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
 
 George Knapp, Las Vegas investigative journalist (KLAS-TV), has reported for decades on Area 51,
@@ -87,3 +92,7 @@ Levenda says Knapp's questioning of Bob Lazar was artful. *([jm/levenda](<../raw
 ## Claims (jm/pines)
 
 - Michels notes Knapp went to Russia and brought back files about Russian UFO activity, as evidence adversaries interface with the topic. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:59:51-3:00:08)*
+
+## Claims (a52/lazar-everything)
+
+- [[bob-lazar]] says Knapp often lines up a witness who knows Lazar and then loses them, comparing the pilot who recalled [[dennis-mariani]] and vanished *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 21:30-21:53)*.

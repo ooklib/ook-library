@@ -13,9 +13,14 @@ relations:
   - relation: references
     target: edward-teller
     note: "Lazar's alleged introduction"
+  - relation: related_to
+    target: lazar-ramsey-interview-2025
+    note: "contrast: a sympathetic 2025 retelling by Lazar"
 sources:
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
+    label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
 
 Cameron argues Bob Lazar did work on real non-human craft but that a superior who wanted the material out placed him deliberately, expecting him to be discredited and become a "plausible liability". He says [[john-lear]], seen as a wild card, was the intended messenger, and that the plan backfired when George Knapp's broadcast made it viral.
@@ -32,3 +37,7 @@ Cameron argues Bob Lazar did work on real non-human craft but that a superior wh
 ## Relationships
 
 - See [[bob-lazar]], [[john-lear]], [[groom-lake]], [[disclosure-by-disinformation-claims]], [[dulce-underground-base-incident-1979]].
+
+## See also (a52/lazar-everything)
+
+- Lazar's own 2025 retelling with [[chris-ramsey]] ([[lazar-ramsey-interview-2025]]) repeatedly says the briefing paperwork was allegedly seeded with false material so leaks could be traced *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 48:30-49:33)*, a point Cameron would read as consistent with a managed release.

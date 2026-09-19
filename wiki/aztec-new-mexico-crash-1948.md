@@ -14,6 +14,9 @@ relations:
   - relation: alleged_by
     target: vannevar-bush
     note: "per J. Andrew Kissner and William Steinman's research, Bush allegedly led the scientific recovery team"
+  - relation: related_to
+    target: lazar-sport-model-craft-claims
+    note: "Ramsey draws parallels to transparency and symbols"
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
@@ -25,6 +28,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
+    label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
 ---
 
 An alleged additional 1940s UFO crash retrieval near Aztec, New Mexico, which Gerb speculates
@@ -80,3 +85,7 @@ alongside [[roswell-incident-1947|Roswell]]. *([gerb/mitre](../raw/gerb/mitre.md
 ## Claims (jm/pines)
 
 - Michels mentions William Steinman's book on the Aztec crash in the Kissinger discussion (see [[eric-henry-wang]]). *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:45:22-2:45:51)*
+
+## Claims (a52/lazar-everything)
+
+- [[chris-ramsey]] cites an Aztec-case witness at Wright-Patterson who supposedly saw the craft go translucent when high voltage was injected and mentions symbols in the Aztec craft; [[bob-lazar]] says his craft's blurry "shower door" panel and high voltage skin fit but he does not follow such cases: [[lazar-sport-model-craft-claims]] *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 1:18:53-1:19:26, 1:22:45-1:23:56)*.
