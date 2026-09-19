@@ -1285,3 +1285,11 @@ Source: raw/911mmry/ (key `911mmry/carlyle`), https://www.youtube.com/watch?v=9_
 Summary: A partisan clip compilation (speakers unnamed) asking who benefited from 9/11: the Carlyle Group, on which both Bushes worked and whose investors included the bin Laden family, held its investor conference at the Ritz-Carlton on the morning of 9/11 (Bush Sr., Baker, John Major, Shafik bin Laden named as attendees); Carlyle's United Defense IPO earned $237M in a day; Bush Sr. stayed as Asia board adviser; the White House denies any ethical conflict; and a closing clip alleges $1.4 billion in Saudi money to the Bush family. One commentator says Carlyle is about money, not conspiracy. No UFO content.
 
 Judgment calls: (1) No new relation types. (2) ASR: "Carlile"=Carlyle, "Shafik" spelling kept as in the source. (3) John Major left inline without a page. (4) Music/lyrics segment (4:53-5:44) ignored.
+
+## [2026-09-19] ingest | "I Helped Build It!" A WEF-Davos Insider EXPOSES The Great Reset | Winston Marshall (1m56s)
+
+Source: raw/wm/ (key `wm/wef-insider`), https://www.youtube.com/watch?v=iVYzoGYgjhg by Winston Marshall, dated 2025-12-13; ~85m. Created 9 pages: [[wef-insider-interview-2025]], [[desiree-fixler]], [[winston-marshall]], [[klaus-schwab]], [[world-economic-forum]], [[dws-group]], [[esg-investing]], [[stakeholder-capitalism]], [[davos-agenda-control-claims]]. Updated: [[jpmorgan-chase]], [[index]].
+
+Summary: Interview with ex-DWS (Deutsche Bank) chief sustainability officer Desiree Fixler: ESG as a marketing scam and post-2008 Wall Street rebranding, her internal warning about inflated ESG asset figures, firing and the resulting US/German ESG-fraud findings, the consultant/regulator "industrial complex", and her claim from inside a WEF futures council that the WEF agenda is top-down control of the West. Host adds views on Schwab's books and his departure. All attributed claims; no UFO content.
+
+Judgment calls: (1) No new relation types. (2) ASR: "WF"/"W" = WEF, "Claus"/"Klash Robb" = Klaus Schwab/Klaus Schwab, "Desire" = Desiree, "Jamie Diamond" = Jamie Dimon, "Ian Hirsty Alley" uncertain, left inline. (3) Left inline: Jamie Dimon, Mark Carney, Keir Starmer, Nick Clegg, Milton Friedman, BlackRock, McKinsey, Ed Miliband. (4) Sponsor/Substack promos ignored.
