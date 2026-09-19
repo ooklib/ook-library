@@ -8,6 +8,8 @@ relations:
     target: operation-40
     note: "host calls Op 40 'a key piece of the JFK assassination tapestry'"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
@@ -55,3 +57,8 @@ The 22 November 1963 assassination of President John F. Kennedy in Dallas. In th
 ## Additional claims (Bush the Father, Chapter 1)
 
 - Host: the [[warren-commission]], "the official investigation and coverup of the murder of JFK," included Richard Russell (whom [[prescott-bush]] served under), [[allen-dulles]] and Gerald Ford (who appointed [[george-h-w-bush]] CIA director in 1976); "the connections between Poppy Bush and the investigation of JFK's murder are numerous and wide reaching," deferred to later chapters. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 32:22-33:18)*
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Context claims: Dallas mayor [[earle-cabell]] and brother [[charles-cabell]] (Dulles's deputy) as a CIA-Dallas link; [[george-de-mohrenschildt]]'s friendship with Oswald; General [[charles-willoughby]] as an "overlooked critical player" in private paramilitary networks surrounding Kennedy's death; [[j-edgar-hoover]] covering up the conspiracy per Peter Dale Scott; the Texas oil interests' motive around [[john-f-kennedy]]'s depletion-allowance threat. The host says Season 3 ("The Road to Dallas") will head toward November 22, 1963. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 9:17-9:24, 17:38-17:56, 26:44-27:15, 28:32-28:39, 37:53-38:17, 49:06-49:22)*

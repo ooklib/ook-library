@@ -15,6 +15,8 @@ relations:
   - relation: alleged_by
     target: eyes-wide-open
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
@@ -39,3 +41,8 @@ Baker, that Mallon's real role was helping [[allen-dulles]] procure people for t
 
 - President of [[dresser-industries]]; associate of [[allen-dulles]] and [[prescott-bush]]; mentor to
   [[george-h-w-bush]].
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Tagged along to Texas to help Bush form contacts; founded the Dallas Council on World Affairs in 1951, where the host says he likely introduced Bush to Dallas's rich expat community; hosted Dallas's [[crusade-for-freedom]] chapter for [[radio-free-europe]]; met [[allen-dulles]] with Bush on April 10, 1953 about a "pilot project in the Caribbean." *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 15:54-16:11, 16:59-17:14, 21:01-21:17, 45:14-45:37)*

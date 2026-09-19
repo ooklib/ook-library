@@ -14,6 +14,8 @@ relations:
     target: brigade-2506
     note: "the invasion force"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
@@ -65,3 +67,8 @@ The 1961 CIA-organized invasion of Cuba by anti-Castro exiles. Per Eyes Wide Ope
 - Host: [[william-pawley]] played a role in the invasion, "an operation that Prescott Bush's son George would also play a similar role in, as we will see later"; [[george-h-w-bush]] "would make his name known during the anti-Castro operations starting with the Bay of Pigs." *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 18:29-18:43)* *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 1:56-2:04)*
 - McCone replaced [[allen-dulles]] as CIA director in late 1961 "after the whole Bay of Pigs fiasco." *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 1:09-1:17)*
 - [[joseph-kennedy]]'s PFIAB seat could have leaked the invasion plans to JFK (speculation). *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 30:10-30:32)*
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Host: the [[del-charro-set]] "featured many of the key players in the upcoming Bay of Pigs invasion long before the invasion was even contemplated"; [[charles-cabell]], Dulles's deputy, was forced out by Kennedy for his Bay of Pigs role. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 27:00-27:15, 38:23-38:31)*

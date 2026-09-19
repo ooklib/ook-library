@@ -14,6 +14,8 @@ relations:
   - relation: associate_of
     target: santo-trafficante
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
@@ -33,3 +35,8 @@ Johnny Roselli ("handsome Johnny") is the Chicago-outfit mobster [[eyes-wide-ope
 ## Relationships
 
 - Boss/associate: [[sam-giancana]]; CIA contact [[robert-maheu]]; co-plotter [[santo-trafficante]].
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Host: with Jack Ruby he "emigrated from the underworld of Chicago" to LA (Roselli) and Dallas (Ruby) via the wire-service expansion; a Del Charro employee reportedly saw him poolside with [[j-edgar-hoover]]. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 30:11-30:26, 38:31-38:46)* See [[del-charro-set]].

@@ -8,6 +8,8 @@ relations:
     target: operation-x
     note: "Teamsters Union trucks distributed Operation X heroin across the US (per ewa/mafia-allies)"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
@@ -31,3 +33,8 @@ John and Robert Kennedy.
 ## Additional claims (CIA-Mafia Legend)
 
 - Host (citing Peter Dale Scott): Hoffa's Teamsters gave the [[national-crime-syndicate]] union locals across the US (offices, do-nothing cover jobs), trucking logistics, and a looted pension fund; he leveraged influence between Giancana's outfit, the New York five families and Lansky's Florida network; Hoffa truckers allegedly delivered guns to mob/CIA-backed guerrillas in Florida for Cuba. [[robert-f-kennedy]]'s crusade began with Hoffa. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 54:07-55:33)*
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Davidson worked to prove Hoffa's innocence after his sentence to 13 years; per John Davis he had earlier used Hoffa to get a Teamsters pension loan for [[clint-murchison]]; Hoffa was freed Dec 23, 1971 by [[richard-nixon]]'s commutation ("time served"). Host speculates on a Nixon-Davidson link via Del Charro. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 41:24-42:41)* See [[irving-davidson]].

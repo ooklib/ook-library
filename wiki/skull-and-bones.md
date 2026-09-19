@@ -7,7 +7,12 @@ relations:
   - relation: alleged_by
     target: eyes-wide-open
     note: "War Conspiracy 1 traces its institutional history to the opium trade"
+  - relation: associate_of
+    target: william-f-buckley-jr
+    note: "member alleged by host"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
@@ -53,3 +58,8 @@ mentions on [[henry-luce]] and [[george-h-w-bush]] were passing).
 - Bonesman lore (host: "allegedly") credits Prescott and friends with raiding Geronimo's tomb at Fort Sill, Oklahoma, for his skull, the order's "enduring perverse relic"; the host notes the skull's authenticity is in question but the grave-digging story is "considered real by historians." *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 7:11-7:47)*
 - Host: Prescott was "instrumental in building not only the Bush family's legacy at Yale but also the mythology of the Skull and Bones Society itself." *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 7:11-7:18)*
 - Wiki-internal observation: this transcript does not repeat the opium/Russell Trust origin claim from `ewa/war-conspiracy-1`; it ties Bones to Wall Street banking ([[brown-brothers-harriman]]) and the intelligence recruitment pipeline instead.
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Host: Bush is a "Skull and Bones graduate"; [[william-f-buckley-jr]] was a Skull and Bones initiate who overlapped with Bush at Yale and served in the CIA 1951-53. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 1:02-1:09, 22:05-22:22)*

@@ -8,6 +8,8 @@ relations:
     target: deep-state
     note: "a companion analytical framework Eyes Wide Open layers onto Peter Dale Scott's deep-politics lens"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
@@ -61,3 +63,10 @@ for the series' future Kennedy-assassination chapters.
 - Host frames the early 1960s as a shift of power from the northeastern "Yankee" class to a southwestern "Cowboy" class driven by Sun Belt oil and defense contracts, citing Kirkpatrick Sale's *Power Shift* (ASR "Kirk Patrick sail"; via Whitney Webb's *One Nation Under Blackmail*) and its "Southern Rim." The transition "was by no means a peaceful transfer of power"; Cowboy interests crystallize in post-Bay-of-Pigs Cuba operations, Southeast Asia, then Central and South America in the 1980s. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 2:52-5:23)*
 - [[george-h-w-bush]] is cast as the "Yankee wonder kid posing successfully as Cowboy royalty," an emissary between his father [[prescott-bush]]'s Wall Street and Texas. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 2:04-2:38)* *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 5:14-5:23)*
 - Host: Democrat/Republican labels meant little at the top of either camp. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 14:57-15:26)*
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Applied concretely: the Cowboys are the East Texas oil independents ([[texas-raj]]); Yankees are the Northeastern families (Rockefellers, Morgans, duPonts, Mellons) that oversaw American imperial expansion through colonialism and post-WWII neo-colonialism, whereas the cowboys "did not have the same ancestral colonial holdings" and by the 1940s were vying for control of the US foreign apparatus; Cuba was their first attempt (see [[cuban-venezuelan-oil-voting-trust]]). *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 23:32-24:40)*
+- The cowboys were "largely excluded from ... the Yankee dominated CIA," so built private intelligence ([[jack-crichton]], [[del-charro-set]]); Bush is the Yankee transplant who bridges the two. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 15:04-15:30, 25:27-25:43)*
+- Host introduces Kirkpatrick Sale's "Southern Rim" and calls the [[del-charro-set]] the cowboy equivalent of the [[georgetown-set]]. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 29:39-30:04, 32:05-32:14)*

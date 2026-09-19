@@ -32,6 +32,8 @@ relations:
     target: david-sanchez-morales
     note: "reunited in Miami to train Op 40"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
@@ -72,3 +74,8 @@ E. Howard Hunt, the "Spook," is presented by Eyes Wide Open as a founding CIA me
 - Trained [[operation-40]] members (per Felipe de Diego and others) as the spycraft/regime-change expert; brought many Op 40 operators into the Nixon-era White House plumbers unit; Felipe de Diego, an Op 40 alumnus, was caught in the Fielding break-in. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 40:46-41:16, 42:54-43:25)*
 - Worked alongside [[david-sanchez-morales]] and David Atlee Phillips in Latin America. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 44:19-44:39)*
 - 1968 Bosch-trial tape: Ricardo Morales alleged a "fellow named Hunt" gave $15,000 to Cuban representatives to place bombs (host: likely Hunt); see [[orlando-bosch]]. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 52:55-53:33)*
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Per the host, [[william-f-buckley-jr]] served under Hunt at the CIA's Mexico City station 1951-53; the post-Watergate *Firing Line* interview of Hunt by Buckley is cited as an example of "CIA on CIA" media. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 22:14-23:11)*

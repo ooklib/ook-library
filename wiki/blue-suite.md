@@ -23,6 +23,8 @@ relations:
     target: james-jesus-angleton
     note: "compared by Eyes Wide Open to Angleton/Meyer Lansky's independently alleged compromising photos of Hoover from the same period"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
 ---
@@ -73,3 +75,8 @@ Epstein case.
 - Sole named eyewitness: [[susan-kaufman]].
 - Compared by the host to the independently alleged [[james-jesus-angleton]]/[[meyer-lansky]]
   blackmail photos of Hoover, and to the later Epstein case.
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Host recalls that Hoover was simultaneously blackmailed by Northeastern organized-crime interests through the Blue Suite parties hosted by [[roy-cohn]] at the Plaza Hotel, and bribed by Texas oil (see [[del-charro-set]]). *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 37:29-37:44)*

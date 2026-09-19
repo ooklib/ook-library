@@ -28,7 +28,15 @@ relations:
   - relation: influenced
     target: richard-nixon
     note: "host: Nixon appeared to owe the Bushes; appointed Bush UN ambassador 1971, RNC chair 1974, China envoy"
+  - relation: associate_of
+    target: george-de-mohrenschildt
+    note: "host: befriended in Dallas in 1952"
+  - relation: associate_of
+    target: halliburton
+    note: "host: Bush loyalist Cheney headed Halliburton, which absorbed Bush's former employer Dresser"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
@@ -122,3 +130,18 @@ Trento, Anthony Kimery and Whitney Webb. *([ewa/bush-1](../raw/ewa/Eyes Wide Ope
   in this chapter.
 - Wiki-internal observation: the wiki holds a [[dick-cheney]] page (from UAP Gerb sources); nothing
   in `ewa/bush-1` links him to the Bushes, so no edge is drawn here.
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Host: the "myth" that Bush struck out for Texas oil in 1948 to seek his own fortune (Trento); his success owed more to family connections. He went from Yale to [[dresser-industries]] under adoptive uncle [[neil-mallon]] (owned by Prescott's [[brown-brothers-harriman]]) and was sent to Odessa as a company representative: the "Skull and Bones graduate WASP blue blood" entering Cowboy Country, the first of many roles as an "emissary" between Northeastern circles and Southwestern wildcatter circles; "the most prominent transplant cowboy." *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 0:21-1:50)*
+- Host: Bush joined the network of the cowboys' private intelligence world at age 24 in 1948, allegedly on "training" at Dresser plants in California in the early 1950s; it is "unclear whether Bush was even overtly aware that he was likely being used by the CIA as an intelligence asset." The host argues oil executives, with jet-setting lives and business cover, made ideal spy assets and Bush fit the mold. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 15:30-16:36)*
+- 1948: reportedly escorted a Yugoslav oil executive around Dallas, during the Tito-Soviet split. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 16:36-16:59)*
+- Knew the de Mohrenschildt family through [[dimitri-von-mohrenschildt]] (whose stepson Edward Gordon Hooker was his Andover roommate) and befriended [[george-de-mohrenschildt]] in Dallas in 1952. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 18:35-19:58)*
+- Founded [[zapata-petroleum]] at the end of March 1953 with Hugh and Bill Liedtke (ASR "litkey"), oil expert John Overbey (ASR "Overby"), the local landman, and "a relatively unknown man named Thomas Devine" (ASR "deine"). Host: after five years "of doing seemingly nothing related to oil and gas extraction" at Dresser, the move "appeared to be some sort of a CIA project"; on April 10, 1953, months before the Mossadegh coup, he met [[allen-dulles]] and Mallon about a "pilot project in the Caribbean," apparently involving Zapata. Discrepancy flag: `ewa/bush-1` says Zapata was founded "a couple of weeks" before April 10; this episode says the end of March; compatible. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 44:50-46:03)*
+- Host's thesis: Bush kept loyalists around for his whole career, "from his CIA days to his time as vice president all the way to the White House and even his son's presidency," naming [[dick-cheney]] as "but one example" and saying his CIA buddies would also be brought "to the highest echelons of American intelligence and power." *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 47:16-47:46)* See [[halliburton]].
+- Host: the "Texas Raj" would "one generation later under the likes of George HW Bush" wield the power it then paid lobbyists for. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 44:34-44:50)* See [[texas-raj]].
+
+## Cross-links (Chapter 2)
+- Transcript-level: [[texas-raj]], [[dresser-industries]], [[zapata-petroleum]], [[george-de-mohrenschildt]], [[dimitri-von-mohrenschildt]], [[halliburton]], [[dick-cheney]] (via Halliburton merger/loyalty claim, *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 46:34-47:46)*), [[skull-and-bones]] (Bush as "Skull and Bones graduate," *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 1:02-1:09)*; [[william-f-buckley-jr]] also a Bonesman, *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 22:05-22:14)*), [[allen-dulles]].
+- Wiki-internal observation: the host's Cheney-Bush-Halliburton loyalty pattern is the only bridge in this transcript to the [[dick-cheney]] page; no UFO/UAP, crash-retrieval, Tesla or technology-program content appears.

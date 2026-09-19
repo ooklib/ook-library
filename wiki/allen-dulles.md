@@ -56,6 +56,8 @@ relations:
     target: georgetown-set
     note: "known to drop by; host"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
@@ -249,3 +251,8 @@ calls him "arguably one of, if not the most important person in modern American 
 - Alleged: ordered George H. W. Bush recruited as a "wedge" against Prescott (Corson via Trento); [[neil-mallon]] was "well known to Alan Dulles" and helped procure CIA personnel (Prescott's letter). *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 20:34-22:54)* See [[george-h-w-bush]].
 - April 10, 1953: two months into his CIA directorship, convened Mallon and Bush on a Caribbean "pilot project"; host says he could now "cash in" since Prescott sat on the Senate Armed Services oversight subcommittee. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 33:25-34:14)*
 - One of the [[draft-eisenhower-movement]] figures rewarded with the CIA directorship (1953); later a [[warren-commission]] member. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 28:36-28:50)* *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 32:37-32:53)*
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Per Russ Baker (via host), Wilson's secretary of state Robert Lansing was uncle by marriage of Allen and John Foster Dulles, connecting the de Mohrenschildt family's WWI-era diplomacy to them; [[charles-cabell]] served as his deputy 1953-late 1962; April 10, 1953 meeting with Mallon and Bush about a "pilot project in the Caribbean" (see [[zapata-petroleum]]). *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 18:11-18:35, 26:51-27:15, 45:14-45:37)*

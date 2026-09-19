@@ -11,6 +11,8 @@ relations:
     target: kennedy-assassination
     note: "killed Lee Harvey Oswald"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
@@ -33,3 +35,8 @@ Jack Ruby (Rubenstein), the Dallas nightclub owner who killed [[lee-harvey-oswal
 ## Additional claims (CIA-Mafia Legend)
 
 - Host (citing [[peter-dale-scott]]): Ruby, a Chicago mobster, played a key role in the outfit's wire-service war win and was sent to Dallas alongside a group of [[sam-giancana]] cronies to expand the wire service and the Chicago outfit's influence there. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 53:07-53:38)*
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Host: emigrated from the Chicago underworld to Dallas via the mob's wire-service expansion, as [[johnny-roselli]] did to LA. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 30:11-30:26)*

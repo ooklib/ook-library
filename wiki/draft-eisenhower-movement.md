@@ -7,6 +7,8 @@ relations:
   - relation: alleged_by
     target: eyes-wide-open
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
@@ -28,3 +30,8 @@ The Draft Eisenhower movement swayed [[dwight-d-eisenhower]] to run as a Republi
 ## Relationships
 
 - Participants: [[prescott-bush]], [[allen-dulles]], [[john-foster-dulles]], [[rockefeller-family]].
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- [[clint-murchison]] was "a prominent supporter of the draft Eisenhower movement in 52." *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 9:40-9:48)*

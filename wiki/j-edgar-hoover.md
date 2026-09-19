@@ -25,7 +25,12 @@ relations:
   - relation: participated_in
     target: blue-suite
     note: "alleged attendee, per Susan Kaufman's testimony (per ewa/red-scare)"
+  - relation: associate_of
+    target: clint-murchison
+    note: "alleged recipient of Murchison's paid holidays/gambling (Summers via host)"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md"
@@ -106,3 +111,8 @@ US foreign intelligence functions during the run-up to the CIA's creation.
 ## Additional claims (CIA-Mafia Legend)
 
 - Host: FBI directors' refusal to acknowledge organized crime until at least 1961; early G-man moles (Maheu, "Big Jim" O'Connell, William King Harvey) as possible Hoover implants in the new CIA; Hoover originally wanted international intelligence within the FBI; host says the FBI was allied to these mobsters in many cases (details next episode). *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 10:42-11:15, 45:13-45:38, 1:15:22-1:15:38)*
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Alleged Del Charro dependence: a close friend of [[clint-murchison]], visiting the Hotel del Charro with [[clyde-tolson]] since the early 1930s, allegedly with all expenses (about $460,000) paid, and a compulsive horse-race bettor; allegedly at his request Murchison and Sid Richardson bought the Del Mar racetrack in 1954, with Hoover allegedly sending two FBI men to intimidate the seller; Murchison allegedly covered his losses and let him keep winnings. The host calls this bribery, alongside the mob blackmail via the [[blue-suite]], and says Hoover denied organized crime existed and moved to cover up the Kennedy assassination conspiracy (citing [[peter-dale-scott]]). All per Anthony Summers via the host. See [[del-charro-set]]. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 32:28-38:23)*

@@ -5,6 +5,8 @@ aliases: ["Kennedy", "JFK", "President Kennedy"]
 tags: [president, laos, cia-skeptic]
 relations: []
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
@@ -40,3 +42,8 @@ US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the presi
 ## Additional claims (CIA-Mafia Legend)
 
 - Host: JFK's 1960 win over Nixon by "the slimmest margins"; on the campaign trail he said Cuban exiles should be armed, then wanted any action deniable; rumored Chicago vote help from Giancana (rumor). *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:08:50-1:09:35, 50:10-50:32)*
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Host: his criticism of and "threat of repeal" of the oil depletion allowance pushed the Texas establishment away from the Democrats. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 9:17-9:48)* See [[texas-raj]].

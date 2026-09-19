@@ -11,6 +11,8 @@ relations:
     target: j-edgar-hoover
     note: "widely speculated lifelong companion/lover; alleged subject of compromising 1940s photos with Hoover"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
 ---
@@ -36,3 +38,8 @@ photographs of the two men were held independently by [[james-jesus-angleton]] a
 - Hoover's long-time FBI deputy and alleged lifelong companion/lover.
 - Alleged, with Hoover, to have been photographed compromisingly by parties tied to
   [[james-jesus-angleton]] and [[meyer-lansky]].
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Visited the Hotel del Charro with [[j-edgar-hoover]] since the early 1930s; per Summers, Murchison "made sure that Edgar and Clyde wanted nothing at the Del Charro." Host calls him Hoover's "long rumored boyfriend." *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 32:37-33:35)* See [[del-charro-set]].

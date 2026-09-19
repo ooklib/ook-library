@@ -13,6 +13,8 @@ relations:
   - relation: investigates
     target: operation-gladio
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
@@ -170,3 +172,9 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 ## Additional claims (Bush the Father, Chapter 1)
 
 - 2024-12-25 episode, the Season 2 finale and first of a three-part Bush series (bush-1 to bush-3); the host says the two remaining parts will follow in early 2025 and that it first aired to Patreon subscribers on Oct 9, 2024. Sources: Russ Baker (*Family of Secrets*), Joseph Trento (*Prelude to Terror*), Whitney Webb, Anthony Kimery. See [[george-h-w-bush]], [[prescott-bush]]. *([ewa/bush-1](../raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md) 34:23-35:57)*
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Episode dated 2025-02-16 (first aired to Patreon subscribers October 26, 2024); part 2 of a 3-part Bush series; the host promises part 3 "in the next couple of months." *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 47:54-49:00)*
+- Season 3 is titled "The Road to Dallas," building toward Nov 22, 1963. Documentaries already on Patreon per the host: "Kennedy and the CIA" (Kennedy brothers vs. the agency after the Bay of Pigs) and a deep dive into Ted Shockley's (ASR; see [[ted-shackley]]) early career and the "Gehlen" (ASR "galin") secret intelligence network, with ties to the Green Berets. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 49:06-50:35)*

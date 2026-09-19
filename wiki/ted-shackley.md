@@ -14,6 +14,8 @@ relations:
     target: felix-rodriguez
     note: "closeness; reunited in Saigon"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
 ---
@@ -30,3 +32,8 @@ Scoped page: this covers only what [[eyes-wide-open]]'s Operation 40 episode say
 ## Relationships
 
 - Boss of [[david-sanchez-morales]] and [[felix-rodriguez]]; ran [[jm-wave-station]]; see [[operation-40]], [[secret-war-in-laos]].
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Preview only: host says he completed a deep dive into "Ted Shockley" (ASR), the future Miami CIA station chief "known as the blonde ghost," whose career started in Germany with the counterintelligence corps and CIA, and who was instrumental in assembling Gulf Coast exile groups before the JFK assassination. Not yet ingested. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 49:39-50:14)*

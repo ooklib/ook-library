@@ -11,6 +11,8 @@ relations:
     target: china-lobby
     note: "host: China Lobby elevated his career"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
@@ -52,3 +54,8 @@ whom [[eyes-wide-open]] says the [[china-lobby]] "effectively elevated," and who
 ## Additional claims (CIA-Mafia Legend)
 
 - Host: "Cowboy" vice president to JFK; Cowboy interests (Hughes/Nixon coalition) later aligned with Johnson and profited from the Southeast Asian wars; host promises a General Dynamics "octopus" segment tying Hughes-adjacent interests to LBJ and Texas. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 4:54-5:11, 30:26-30:41, 25:58-26:33)*
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Early patron [[sid-richardson]] backed his 1931 and 1937 campaigns; protege [[john-connally]] was his fixer/"bagman" (Bryce); Texas firm Brown and Root, a major early supporter, was absorbed by [[halliburton]] (host: 1962); a dedicated LBJ video on "the Halliburton octopus" is promised. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 10:19-11:05, 46:52-47:16)*

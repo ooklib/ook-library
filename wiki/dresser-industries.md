@@ -12,7 +12,12 @@ relations:
     note: "per Trento (via host), gave agents cover assignments"
   - relation: alleged_by
     target: eyes-wide-open
+  - relation: acquired_by
+    target: halliburton
+    note: "1998 merger with its main rival (host)"
 sources:
+  - file: "raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md"
+    label: "Bush and the Cowboys - Chapter 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-25 - BUSH THE FATHER - CHAPTER 1.md"
     label: "Bush the Father - Chapter 1 (Eyes Wide Open)"
 ---
@@ -41,3 +46,10 @@ oil companies used by the intelligence community as fronts.
 
 - Owned by [[brown-brothers-harriman]]; led by [[neil-mallon]]; [[prescott-bush]] director;
   first employer of [[george-h-w-bush]].
+
+## Additional claims (Bush and the Cowboys, Chapter 2)
+
+
+- Bush's first job there was, per the host, a cover job: he was sent to Odessa in 1948; its head [[neil-mallon]] tagged along to help him form Texas contacts and founded the Dallas Council on World Affairs in 1951; Mallon hosted Dallas's [[crusade-for-freedom]] chapter, funding [[radio-free-europe]]. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 0:38-1:09, 15:39-16:11, 16:59-17:14, 21:01-21:17)*
+- After "5 years of doing seemingly nothing related to oil and gas extraction," Bush left to found [[zapata-petroleum]], described as "graduating from his cover job at dresser." *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 44:58-45:37)*
+- Host: Dresser stayed independent for five decades "presumably continuing to serve as an intelligence front on the side" (speculation) until its 1998 merger with rival [[halliburton]], then led by [[dick-cheney]]. *([ewa/bush-2](../raw/ewa/Eyes Wide Open - 2025-02-16 - BUSH AND THE COWBOYS - CHAPTER 2.md) 46:11-46:52)*
