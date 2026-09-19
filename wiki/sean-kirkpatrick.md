@@ -50,6 +50,8 @@ sources:
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Described as "disgraced" former director of [[aaro]] (All-domain Anomaly Resolution Office).
@@ -159,3 +161,7 @@ the point where he was first briefed or retroactively briefed into UFO legacy-pr
 ## Additional claims (rc/grusch)
 
 - [[david-grush]] says he has known Kirkpatrick about 8 years, told him about a year before the interview what he was uncovering, and received no follow-up; he says he hopes Kirkpatrick "ultimately does the right thing". NewsNation quotes Kirkpatrick's 19 April 2023 testimony that AARO found no credible evidence of extraterrestrial activity, off-world technology or objects defying known physics. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 25:01-26:21)*
+
+## Claims (jm/borland)
+
+- On [[borland-michels-interview-2026]], Michels calls Kirkpatrick's first AARO iteration "patently" a fly trap for UFO information with legacy ties, and Borland says Kirkpatrick "ducked" him after a proposed meeting; Borland never spoke to him or the later director. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:56:37-1:57:26, 2:00:36-2:01:04)* See [[borland-whistleblower-reprisal-claims]].

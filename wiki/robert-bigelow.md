@@ -14,6 +14,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Robert Bigelow is the Las Vegas hotel-and-aerospace billionaire behind [[bigelow-aerospace-advanced-space-studies]]. [[steven-greer]] says he knew him at the 1993 [[laurance-rockefeller]] ranch gathering and that Bigelow wanted access to the secret technology. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 44:04-44:14, 2:10:20-2:11:03)*
@@ -31,3 +33,7 @@ Robert Bigelow is the Las Vegas hotel-and-aerospace billionaire behind [[bigelow
 ## Claims (jm/sheehan)
 
 - Sheehan says Bigelow later tried to hire him as his lawyer, and that Bigelow appears in the story of the burned 555 Camp Street office (no further explanation given). *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:17:06)*
+
+## Claims (jm/borland)
+
+- Cited by [[george-knapp]] as negotiating with [[lockheed-martin]] for a stashed quantity of unusual material; Borland asks why no lawsuit followed and says [[glenn-gaffney]] stepped in. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 2:28:26-2:29:29)*

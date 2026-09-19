@@ -13,6 +13,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Commander David Fravor, US Navy (ret.), is the pilot whose 2004 "Tic Tac" encounter off San
@@ -41,3 +43,7 @@ Diego is one of the most widely publicized UAP sighting cases.
 ## Additional claims (jm/nasa-chief)
 
 - Michels notes the [[gary-mckinnon]] Tic Tac claim predates Fravor's Nimitz sighting. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:44:02-1:44:16)*
+
+## Claims (jm/borland)
+
+- Borland says Fravor ("Commander David Fraver") reportedly works at [[bae-systems]], and Michels imagines Fravor would want to learn how it works; Borland says he cannot confirm. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:35:15-1:35:38)* See [[project-greenglow]].

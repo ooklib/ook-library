@@ -1,0 +1,29 @@
+---
+title: UFO Baiting and Directed-Energy Shootdown Claims
+kind: concept
+aliases: ["baiting craft"]
+tags: [directed-energy, nuclear, shootdown, speculation]
+relations:
+  - relation: alleged_by
+    target: dylan-borland
+    note: "claims to have seen AARO reports on baiting"
+  - relation: alleged_by
+    target: jesse-michels
+    note: "offers a best-guess mechanism"
+sources:
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+---
+
+Speculative claims in [[borland-michels-interview-2026]] that US programs bait non-human craft with nuclear material and bring them down with directed energy and high-power radar. Speculative and attributed.
+
+## Claims
+
+- Borland says that as a counter-WMD analyst he legally pulled reports and briefings from [[aaro]] about baiting craft and how to take them down, matching things he had learned earlier. He gives no specifics. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:38:35-1:38:58)*
+- [[jesse-michels]] adds his own best guess, from open sources, that craft are baited with nuclear material and brought down with directed energy and high-power radar, and Borland calls it "a hell of a statement". Michels says it feels "ubiquitously known". *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:39:06-1:39:29)*
+- Michels later suggests crashes are concentrated by a directed-energy plus nuclear interaction. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 2:30:31-2:30:40)* See [[ufo-nuclear-connection]].
+- Borland says radar signatures of UFOs occur in specific ranges, "hypothetically". *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:06:04-1:06:14)*
+
+## Relationships
+
+- Related: [[ufo-nuclear-connection]], [[legacy-program-claims-borland]].

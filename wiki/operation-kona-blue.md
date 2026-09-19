@@ -24,6 +24,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Kona Blue was a prospective special access program (PAP) proposed to operate as a waived USAP
@@ -77,3 +79,7 @@ subsequently declassified AARO slide deck. *([gerb/lockheed](../raw/gerb/lockhee
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]]: cites Kona Blue and the alleged asset transfer between Lockheed Martin and Bigelow Aerospace as part of the publicly discussed program layer, whose budgets are tiny relative to a real legacy program. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 55:08, 55:17)*
+
+## Claims (jm/borland)
+
+- Borland says the Kona Blue documents show government capability to implant false memories without drugs, and asks how an experiencer could tell CIA, China, Russia, a private company or an NHI apart. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 2:24:38-2:25:57)*

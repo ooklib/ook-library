@@ -22,6 +22,8 @@ sources:
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Jacques Vallee is the French-American computer scientist and ufologist whose books (notably Messengers of Deception) and published journals are the main intellectual frame for guest [[jason-samosa]] in the `jm/cover-up` episode. The episode uses him as a source for a "control system" or belief-shaping reading of UFOs, for the AAWSAP-era journals, and as validation of the Tom DeLonge/Podesta story. This page records what the episode attributes to him; the wiki treats these as claims about his positions.
@@ -59,3 +61,7 @@ Levenda met Vallee at the Austin meeting and says Vallee's "control mechanism" i
 ## Additional claims (gerb/corso)
 
 - Critic of Corso's integrated-circuit claims (undocumented) but says his story never wavered; Corso told him the [[corso-white-sands-nhi-encounter-claims]]; *Forbidden Science: Pacific Heights* is Gerb's source for the [[eric-davis]]-[[george-h-w-bush]] exchange ([[mendel-rivers-hearings-1968]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:09:51-1:10:07, 1:24:45-1:24:54)*
+
+## Claims (jm/borland)
+
+- Michels cites Vallee on UFOs as social-coordination and belief-system instruments, and the Trinity test and a 20-day-later event. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 3:00:31-3:00:58)*

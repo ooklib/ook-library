@@ -22,6 +22,8 @@ sources:
     label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 # UFO-Nuclear Connection
@@ -50,3 +52,7 @@ The thesis, presented by [[uap-gerb]] in "UFOs and Nuclear Weapons - A Fascinati
 ## Additional claims (jm/nasa-chief)
 
 - [[beatriz-villarroel]]'s Palomar-plate transients are said to occur about 68% more often after nuclear tests (about 11% of days versus 19%). *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:06:49-1:07:36)*
+
+## Claims (jm/borland)
+
+- Michels and Borland tie the 2023 [[langley-drone-incursions-2023]] and UFO reports to nuclear sites, citing Robert Hastings's about 167 witnesses and carrier nuclear weapons, and Borland says the phenomenon's speed, ionization and power source imply nuclear principles. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 51:06-51:45, 38:28-38:59)* See also [[ufo-baiting-and-directed-energy-claims]] and the Bettis atomic power lab near Pittsburgh (*([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 10:37-11:10)*).

@@ -12,6 +12,8 @@ sources:
     label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 NASA, established 29 July 1958, is the US civilian space agency. In [[jesse-michels]]'s 2025 episode it appears as the public face of a program with a hidden, secrecy-enabled side (alongside the [[national-reconnaissance-office]]) and an "esoteric dimension" of symbols, dates and personnel. See [[nasa-occult-symbolism-claims]].
@@ -32,3 +34,7 @@ NASA, established 29 July 1958, is the US civilian space agency. In [[jesse-mich
 - In [[buhler-michels-interview-2026]] [[jesse-michels]] presents [[charles-buhler]] as NASA's lead electrostatics scientist (its [[nasa-electrostatics-and-surface-physics-laboratory]] at [[kennedy-space-center]]) reporting the propellantless [[exodus-force-claims]]; Buhler says this is outside NASA, not sanctioned and "not in my laboratory", and expects NASA to be "a customer later on". *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 14:11-14:50)*
 - Buhler says NASA's own UAP study effort (a report and a follow-on) approached him and his wife, but the team had no physicists and was an instruments group. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:40:46-1:41:38)* Michels lists this among possibilities: they already know, a limited hangout, incompetence, or physics being unequipped for the phenomenon. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:41:41-1:42:14)*
 - Michels cites [[sonny-white]] (Eagleworks) and [[gary-mckinnon]]'s claims about Johnson Space Center images ([[donna-hair]]). *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:04:44-1:05:54, 1:43:26-1:44:11)*
+
+## Claims (jm/borland)
+
+- Borland's 2012 sighting began near the NASA hangar at [[langley-air-force-base]]; he says NASA Langley is separate from the Air Force side and that its employees posted puzzle and labyrinth photos on Google Maps ([[langley-google-maps-tags-claims]]). *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 26:40-27:48, 43:51-44:13)* He asks whether NASA houses reverse-engineered craft but only says the hangar is huge. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 40:39-41:01)*

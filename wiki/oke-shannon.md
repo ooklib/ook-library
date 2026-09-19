@@ -17,6 +17,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Oke Shannon, former manager of special projects at [[los-alamos-national-laboratory|Los
@@ -50,3 +52,7 @@ facility, supervised by [[john-b-alexander|Col. John B. Alexander]].
 ## Claims (from "The Wilson Davis Memo" video)
 
 - In the notes, Wilson raises Shannon first and says Shannon asked him to talk to [[eric-davis]]. Gerb says Shannon later confirmed the memo's authenticity in a Jay Anderson Project Unity interview and describes him as former manager of special projects at Los Alamos and former DOE nuclear physicist. *([gerb/wilson-davis](<../raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md>) 6:17-6:49)*
+
+## Claims (jm/borland)
+
+- On [[borland-michels-interview-2026]], Michels calls Shannon (Los Alamos, advanced theoretical physics group with [[hal-puthoff]]) the closest thing to a theoretical UFO model and links him to Ferris Williams's five-dimensional model tying electromagnetism to gravity; Borland says Shannon was a big topic on classified servers (JWICS) before an NSA cleanup. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:17:31-1:19:00)* See [[salvatore-pais]].

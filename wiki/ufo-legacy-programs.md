@@ -26,6 +26,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Gerb's umbrella term for the alleged, decades-old, fragmented network of US government,
@@ -169,3 +171,7 @@ vehicles" (UFOs), running from 1947 to the present. *([gerb/mitre](../raw/gerb/m
 ## Additional claims (gerb/corso)
 
 - Corso video: Gerb treats the [[army-foreign-technology-division]] as possibly one of the first structured legacy programs, using contractors, universities and semi-private institutions ([[corso-technology-seeding-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:27:12-1:28:14)*
+
+## Claims (jm/borland)
+
+- Borland's account of legacy-program exposure through [[bae-systems]] colleagues, genetics and umbrella claims, and the alleged government retaliation is on [[legacy-program-claims-borland]] and [[borland-whistleblower-reprisal-claims]]; hub: [[borland-michels-interview-2026]].

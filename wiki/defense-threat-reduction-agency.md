@@ -23,6 +23,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 The Defense Threat Reduction Agency (DTRA, colloquially "Ditra"), a DoD combat-support agency for
@@ -76,3 +78,8 @@ and an annual budget of roughly $2 billion. *([gerb/sandia](../raw/gerb/sandia.m
 ## Additional claims (jm/malmgren)
 
 - Host: in 1998 the Defense Special Weapons Agency (DTRA's predecessor), led by Dr. Byron Ristvet, sanitized the declassified [[bluegill-triple-prime]] footage with a white triangle. *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:05:37-1:05:58)**)*
+
+## Claims (jm/borland)
+
+- Borland says DTRA (his employer January 2019 to summer 2024) was CWMD-focused, that he worked with ACCM-red not SAP-red access, and that DTRA's roots lead back to the Department of Energy and the UFO legacy. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 49:33-50:00, 1:38:01-1:38:10, 1:45:25-1:45:46)*
+- His contract ending in 2024 preceded renewed polygraph and clearance problems. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:45:46-1:46:03)*

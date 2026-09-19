@@ -26,6 +26,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Project Stargate was a joint, secret Army/DIA/CIA/SRI-International-contractor program (begun
@@ -84,3 +86,7 @@ Centerlane (DIA). *([gerb/saic](../raw/gerb/saic.md) 1:42:34–1:43:21)*
 ## From Jason Jorjani on American Alchemy (jm/jorjani-religion)
 
 - Jorjani claims a separate 1970s-80s black unit used psychokinesis against targets, recruited SRI viewers (he names [[pat-price]] as a probable recruit), and that Stargate was defunded while it continued; Michels notes many early viewers came from Sidney Gottlieb's technical staff. See also [[ingo-swann]], [[lynn-buchanan]]. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 14:07, 16:19, 16:49, 2:50:56)*
+
+## Claims (jm/borland)
+
+- Borland believes in remote viewing and says it is under one umbrella with MK-Ultra and UFOs; a leaked 2017 phone call of [[kit-green]] and [[ed-may]] reportedly discusses remote viewing Uri Geller in MRIs. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:02:18-1:03:42, 2:15:54-2:17:10, 2:19:43-2:20:14)*

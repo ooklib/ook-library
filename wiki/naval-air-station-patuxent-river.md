@@ -24,6 +24,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Naval Air Station Patuxent River ("Pax River") is headquarters for
@@ -64,3 +66,7 @@ Facility Bases (MRTFBs). *([gerb/mitre](../raw/gerb/mitre.md) 1:14:52–1:16:48)
 - Headquarters of [[naval-air-systems-command]]; hosts the alleged MITRE reverse-engineering
   program alongside [[mitre-corporation]]'s MLAN, VA campus; alleged material storage per
   [[matthew-brown]] at [[amentum]]-owned hangars; SAIC presence.
+
+## Claims (jm/borland)
+
+- Michels notes Pax River's hangars for advanced naval aviation and [[eric-burlison]]'s remark that it looks like a place to transfer or hold a UFO, ideal for the [[lockheed-martin]] to [[robert-bigelow]] transfer; Borland adds Pax River's strategic value for a Golden Dome and places it in the I-81 corridor of UFO reports. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:12:59-1:14:17, 11:23-11:48)* [[salvatore-pais]]'s 2018 Navy patents come from Pax River.

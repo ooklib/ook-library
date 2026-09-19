@@ -39,6 +39,8 @@ sources:
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 The Atomic Energy Commission (AEC), created by the 1946 Atomic Energy Act, was the civilian
@@ -140,3 +142,7 @@ administration|NNSA]] UFO legacy-program gatekeeping structure. *([gerb/sandia](
 ## Additional claims (gerb/timeline)
 
 - Timeline video: per PEADs and Kissner, AEC national laboratories were given custody of recovered discs by classified presidential executive order (July 1948). *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 34:22-34:36, 1:50:31-1:50:49)*
+
+## Claims (jm/borland)
+
+- Borland cites the 1954 Atomic Energy Act's "born secret" restricted data doctrine as a reason UFO-related information may be treated as secret regardless of who holds it. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:04:37-1:05:17)* See [[borland-whistleblower-reprisal-claims]].

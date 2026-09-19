@@ -30,6 +30,8 @@ sources:
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
   - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 The DoD's All-domain Anomaly Resolution Office ("Arrow" in the ASR transcript), the official
@@ -122,3 +124,9 @@ and [[condon-committee]]. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:09:03â€
 ## Additional claims (rc/grusch)
 
 - The NewsNation narration describes AARO as the renamed [[uap-task-force]]; [[david-grush]] says he was not part of it during the later hearings, and disputes AARO director [[sean-kirkpatrick]]'s April 2023 testimony that it found no evidence of off-world technology. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 3:31-3:48,)*
+
+## Claims (jm/borland)
+
+- Borland says he went to AARO at the end of March 2025 and alleges it created a false memorandum for record later sent to ODNI, and recorded his sighting as unclassified while classifying his other drawings. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:56:29-2:00:22, 1:36:04-1:36:22)* See [[borland-whistleblower-reprisal-claims]] and [[odni-directors-initiatives-group]].
+- Michels calls the [[sean-kirkpatrick]] era a "fly trap" and cites people whose emails were deleted after speaking to AARO; Borland says he is not sure the current office is better. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:56:37-1:57:26, 2:02:06-2:02:25)*
+- Michels notes the current director is a former NSA official; Borland says AARO cannot classify on its own and had to poll industry. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:21:03-1:21:12, 2:22:33-2:22:56)*

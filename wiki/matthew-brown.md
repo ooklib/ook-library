@@ -16,6 +16,8 @@ sources:
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Matthew Brown, a self-identified [[immaculate-constellation|Immaculate Constellation]]
@@ -48,3 +50,7 @@ whistleblower, posted a tweet on 5 June 2025 alleging UFO materials/craft were b
   [[sentient-nro-ai-program]] as a tasked resource; separately alleges an unnamed
   [[northrop-grumman]]-affiliated "deputy SAPCO for DARPA" figure runs whistleblower-targeting
   disinformation/psy-ops.
+
+## Claims (jm/borland)
+
+- Borland calls Brown a close friend and co-founder of [[vanguard-enterprise]]. Michels says Brown is a deep thinker who was reprised against, and that Brown said UFOs seem made for purpose and that humans are a resource. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 2:34:12-2:34:40, 2:47:29-2:48:50, 3:07:20-3:07:36)* See [[nhi-control-and-simulation-claims]].

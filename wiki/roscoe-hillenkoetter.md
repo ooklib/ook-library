@@ -27,6 +27,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/gerb/secrecy_1.md"
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Roscoe Hillenkoetter (rendered "Hillenk Oetter" in Eyes Wide Open's ASR captions) was a US naval
@@ -66,3 +68,7 @@ effectiveness.
 
 - Named as an original [[majestic-12]] member on the Eisenhower Briefing Document roster. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:30:54-1:31:26)*
 - Named among the first six members by Gerb and Wood *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 2:46, 3:34, 22:35)*; Davis notes the dossier packet lists him first, then Bush, as in the EBD *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 1:11:39-1:11:56)*
+
+## Claims (jm/borland)
+
+- Borland notes Hillenkoetter's New York board role and Michels adds that the first CIA director, reportedly frustrated over Roswell information, was supposedly in [[majestic-12]]. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 12:02-12:53)*

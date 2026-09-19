@@ -91,6 +91,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -322,3 +324,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Additional claims (jm/nasa-chief)
 
 - Michels says engineers at Lockheed and Northrop hint Biefeld-Brown work is on the right path. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:29:11-1:29:48)* See [[electrogravitics]].
+
+## Claims (jm/borland)
+
+- Borland quotes Knapp's congressional statement on the alleged sale of a craft or material to [[robert-bigelow]]'s company, and says [[bae-systems]] has joint ventures with Skunk Works. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 2:28:26-2:29:29, 1:34:53-1:35:15)* Michels mentions the alleged transfer at [[naval-air-station-patuxent-river]] (*([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:12:59-1:13:37)*).

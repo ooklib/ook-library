@@ -15,6 +15,8 @@ sources:
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Tim Phillips, disgraced former deputy director of [[aaro|AARO]], claimed on 30 July 2025 that
@@ -48,3 +50,7 @@ investigation.
 - Former deputy director of [[aaro]]; accused by Gerb of a pattern similar to
   [[sean-kirkpatrick]]'s attacks on [[david-grush]]; theorized "useful idiot" partially briefed
   into [[ufo-legacy-programs]].
+
+## Claims (jm/borland)
+
+- Borland says Phillips (who took over from Kirkpatrick) told Chris Sharp that triangles are real and that AARO wants to know where they come from, and acknowledged that Borland drew two drawings and that AARO was told what to classify. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:36:22-1:37:22)* See [[borland-whistleblower-reprisal-claims]].

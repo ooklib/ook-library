@@ -22,6 +22,8 @@ sources:
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 George Knapp, Las Vegas investigative journalist (KLAS-TV), has reported for decades on Area 51,
@@ -69,3 +71,7 @@ Levenda says Knapp's questioning of Bob Lazar was artful. *([jm/levenda](<../raw
 ## Additional claims (gerb/corso)
 
 - 1997 Corso interview and a lost "weaponized" interview where Corso drew the being he met ([[corso-white-sands-nhi-encounter-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:17:21-1:17:28, 1:24:45-1:24:54)*
+
+## Claims (jm/borland)
+
+- On [[borland-michels-interview-2026]], Borland cites Knapp's congressional statement on the Lockheed-Bigelow material deal and Knapp's Weaponized interviews with Borland; Corbell and Knapp were told by ODNI of a "Rubik's Cube" program. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 5:40-6:48, 2:28:26-2:29:29)* See [[jeremy-corbell]], [[rubiks-cube-program-claims]].

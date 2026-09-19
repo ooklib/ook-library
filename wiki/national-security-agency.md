@@ -13,6 +13,8 @@ relations:
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 The National Security Agency, one of the US's "big five" intelligence agencies (alongside NRO,
@@ -37,3 +39,7 @@ a 2018 *Baltimore Sun* article and James Bamford's *The Shadow Factory*.
 
 - Deeply entwined ("NSA West") with [[science-applications-international-corporation]];
   sponsored SAIC's Project Trailblazer.
+
+## Claims (jm/borland)
+
+- Borland says NSA "cleaned house" on the classified JWICS database in 2024, shutting down Intelink and Intelink docs; Michels notes the current AARO director is ex-NSA and [[chuck-mccullough]] has an NSA background. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:18:25-1:18:50, 1:21:03-1:21:12, 2:05:36-2:06:08)*

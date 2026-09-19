@@ -16,6 +16,8 @@ sources:
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Dr. Jim Lacatski, one of the founders of the DIA's [[aawsap|OAP/AAWSAP]] program, claimed in a
@@ -42,3 +44,7 @@ exhaust, wings, or control surfaces." *([gerb/lockheed](../raw/gerb/lockheed.md)
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]] (ASR "Latsky"): Lacatski writes about the craft like a "platonic puzzle", more mystical than physics; [[eric-davis]] reportedly said there were no physicists on the program. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:01:52, 1:02:00, 1:02:16)*
+
+## Claims (jm/borland)
+
+- On [[borland-michels-interview-2026]], Michels recounts Lacatski's statement to Corbell and Knapp that he breached the hull of a craft, his "UFOs as puzzles" and ancillary-technology framing, and ceramic superconductors similar to Ning Li's model. Borland calls him his favorite old-timer, says some of what he said is true, and adds that third-party physicists were missing from the program. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 45:25-48:25, 1:15:57-1:16:10)*

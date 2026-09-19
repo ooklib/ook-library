@@ -43,6 +43,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -118,3 +120,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Additional claims (gerb/tr-3b)
 
 - November 2024 video on triangles, TR-3B, and Fouche: [[tr3b-triangle-arv-video-2024]]; mentions upcoming interviews with Jesse Michels and [[eric-davis]] and future projects on DUMBs, Boeing, and Army INSCOM. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 1:06:42-1:07:14, 24:40-24:48, 33:52-34:02)*
+
+## Claims (jm/borland)
+
+- Michels and Borland praise Gerb as deep into OSINT, explaining FFRDC and SAP interactions in multi-hour videos, and say the government "created monsters" in open-source researchers like him. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 13:55-14:52, 1:25:46-1:26:04)* Gerb's prior treatment of Borland is on [[dylan-borland]].

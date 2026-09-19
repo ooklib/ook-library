@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md"
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 The office that received [[david-grush]]'s whistleblower complaint about the alleged crash retrieval program and reprisals. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 9:12-9:27)*
@@ -22,3 +24,8 @@ The office that received [[david-grush]]'s whistleblower complaint about the all
 ## Relationships
 
 - See [[grusch-newsnation-interview-2023]].
+
+## Claims (jm/borland)
+
+- Borland says he went to the ICIG with an attorney in 2025, that the ICIG "extremely hinted" humans are not in charge, and that the 2024 law allowed disclosure of CIA and DOE secrets to the ICIG without espionage prosecution. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:03:42-1:04:28, 2:30:57-2:31:22)* See [[nhi-control-and-simulation-claims]], [[chuck-mccullough]] (first ICIG).
+- He says the ICIG is a separate body from CIA and DoD IGs. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 2:32:04-2:32:14)*

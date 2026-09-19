@@ -41,6 +41,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Luis Elizondo (ASR-transcribed "Lou Alzando"/"Luis Alzando") claimed to direct, work for, or
@@ -144,3 +146,8 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says Elizondo ("Alzando") deliberately mixes partial truth with disinformation, that his "we don't know what these are" and "threat to national security" lines serve the alien-threat narrative, that his mentor is [[john-b-alexander]], and that Elizondo has walked some of it back. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 27:53-28:16, 1:02:43-1:03:26, 2:09:44-2:09:52, 3:07:53-3:08:12)*
+
+## Claims (jm/borland)
+
+- On [[borland-michels-interview-2026]], Michels recounts Elizondo's sandbox-toy analogy for a shareable technology, and Borland says Elizondo's book "Imminent" reveals a lot in "IC talk", including [[bae-systems]] as an inheritor of UFO technology and locations near recent events, and that he will analyze the interview. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:10:24-1:12:58)*
+- Michels says Elizondo admitted he is holding a lot back and that "time is not a luxury we can afford", fueling predicted disclosure dates. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:24:39-1:25:26)* See [[rubiks-cube-program-claims]].

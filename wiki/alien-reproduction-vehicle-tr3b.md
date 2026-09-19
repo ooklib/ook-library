@@ -43,6 +43,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 The "Alien Reproduction Vehicle" (ARV) concept — a human-built craft reverse-engineered from
@@ -122,3 +124,7 @@ recovered nonhuman technology — is most associated in the UFO research communi
 - Propulsion: a circular plasma accelerator ring, the magnetic field disruptor (MFD), spins mercury-based plasma (250,000 atm, 150 K, 60,000 rpm) around a rotatable crew compartment, reducing local mass and gravity effects by 89%; Fouche says this is not repulsive anti-gravity, allows Mach 9, and hence apparent right-angle turns. Reverse-engineered from a crash by [[sandia-national-laboratories]] and [[lawrence-livermore-national-laboratory]] (both [[ffrdc]]s); managed by [[national-reconnaissance-office]], CIA and NSA; built by Lockheed, Boeing, Northrop, Teledyne Ryan. Gerb sees parallels with [[electrogravitics]] claims about the [[b-2-stealth-bomber]] and with a University-Affiliated Research Center model (cf. [[eric-a-walker]] at Penn State ARL in the [[kecksburg-ufo-crash-1965]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 30:20-40:02)*
 - TR-3A vs TR-3B: see [[boscombe-down-crash-1994]]; a control-ball scheme in the novel "Secret Machines" (the Astra 3B "Locust") matches the trackball [[mark-mccandlish]] and [[brad-sorenson]] describe for the flux liner, so Gerb suggests the flux liner and TR-3B may share origins ([[flux-liner-arv-saga]], [[sekret-machines-project]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 42:10-45:01)*
 - Separate triangle lead: [[xf-131-super-sentinel]]. Gerb's distinction of two ARV families: [[tr3b-triangle-arv-video-2024]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 1:14:16-1:15:39)*
+
+## Claims (jm/borland)
+
+- Borland's Langley triangle ([[borland-langley-triangle-2012]]) is again cited as the archetypal black triangle, though he says he only reports what he saw and cannot say if it cloaked. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 28:52-29:14)*

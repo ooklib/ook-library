@@ -30,6 +30,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Physicist Hal Puthoff sponsored Ferris Williams's propulsion research presented at a June 2001
@@ -86,3 +88,7 @@ UFO technology conference in La Jolla, San Diego. *([gerb/saic](../raw/gerb/saic
 ## From Peter Levenda on American Alchemy (jm/levenda)
 
 At the [[austin-to-the-stars-meeting]] Puthoff reportedly said "we need a SCIF for this one" when Skinwalker Ranch was raised; Levenda cites his Rogan remark of 15 crash craft and calls him cautious. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 3:55:28, 4:27:04)*
+
+## Claims (jm/borland)
+
+- Michels notes [[oke-shannon]]'s advanced theoretical physics group with Puthoff in the 1980s-90s and Ferris Williams's 5D model. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:17:31-1:18:02)*

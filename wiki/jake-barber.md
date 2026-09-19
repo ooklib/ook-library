@@ -16,6 +16,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Jake Barber's more recent claims have been associated with psionics and programs focused on
@@ -39,3 +41,7 @@ older claims (e.g. [[philip-j-corso|Corso]]'s) about consciousness-linked UFO gu
 ## From Jason Jorjani on American Alchemy (jm/jorjani-religion)
 
 - [[jason-jorjani]] cites Barber as an example of Lockheed-origin people now saying telepathy and clairvoyance are used to summon craft. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 20:50)*
+
+## Claims (jm/borland)
+
+- Michels notes the haunted look in Barber's and [[david-grush]]'s eyes, and Borland lists him among experiencer-whistleblowers in [[vanguard-enterprise]]'s framing. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 24:29-24:57, 3:09:38-3:10:25)*

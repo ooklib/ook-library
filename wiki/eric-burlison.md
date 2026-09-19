@@ -27,6 +27,8 @@ sources:
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 US Representative Eric Burlison (ASR-transcribed throughout as "Berles"/"Burles") is a
@@ -84,3 +86,7 @@ from Burlison; not otherwise detailed in this source.
 ## Additional claims (gerb/tr-3b)
 
 - Quoted in a clip saying he had heard the term ARV before, from people in the UFO community who say there are truly extraterrestrial craft and craft that were reverse engineered and reproduced, which Gerb ties to the Immaculate Constellation triangle claims ([[immaculate-constellation]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 1:14-2:09)*
+
+## Claims (jm/borland)
+
+- Michels recalls Burlison saying [[naval-air-station-patuxent-river]] looks like a place to transfer or hold a UFO, and Borland thanks Burlison, [[anna-paulina-luna]] and Moskowitz for pushing. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:13:09-1:13:21, 2:29:29-2:29:44)*

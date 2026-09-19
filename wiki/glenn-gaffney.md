@@ -25,6 +25,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 A recurring "Rogues Gallery" figure on Gerb's channel: [[cia-directorate-of-science-and-
@@ -65,3 +67,7 @@ UFO-materials transfer. *([gerb/nro](../raw/gerb/nro.md) 2:44:52–2:45:09)*
 ## Additional claims (gerb/corso)
 
 - Cited in the Corso video for stopping Lockheed Martin divesting UAP material to AAWSAP in 2008, in context of [[ufo-working-group-1987]]. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:06:01-1:06:17)*
+
+## Claims (jm/borland)
+
+- On [[borland-michels-interview-2026]], Michels names Gaffney (CIA director of science and technology, per Michels) as one of the last leaders of the legacy program who refused to speak to [[eric-davis]]; Borland agrees. He also cites [[george-knapp]]'s congressional statement of a [[lockheed-martin]] to [[robert-bigelow]] material transfer stopped by Gaffney and names Gaffney as a gatekeeper. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:03:10-1:03:42, 2:28:26-2:29:29)*

@@ -57,6 +57,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Thomas Townsend Brown, associated with the [[biefeld-brown-effect]] and alleged antigravity research. In the Malmgren interview he is central to Malmgren's late-life research.
@@ -119,3 +121,7 @@ Jesse Michels' 2024 documentary, based on Paul Schatzkin's biography *The Man Wh
 - Michels' Brown recap: witnessed by Curtis LeMay, [[edward-teller]], [[bill-lear]], [[agnew-bahnson]], Victor Bertrandias (1952) and Jacques Coron (1956 Paris vacuum test, deathbed audio 2009, at Sud Ouest); FBI file calling him the Navy's lead radar scientist; EHD work in the [[b-2-stealth-bomber]]; at Martin the year Skunk Works formed. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 4:37-5:53, 45:13-47:11)*
 - Buhler: Brown's oil-immersion experiments may have avoided ion wind; Brown may not be the only one; [[andrew-arjima]] works in the electrogravitics camp. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 36:35-36:48, 50:54-51:31)*
 - Catalina orb parallel with the [[cocoa-beach-lights-encounter]]. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:22:09-1:23:17)*
+
+## Claims (jm/borland)
+
+- On [[borland-michels-interview-2026]], Michels applies Brown's megavolt ionization experiments to the Langley craft's glow and ozone smell, and Borland uses a Model T versus Ferrari analogy while citing Brown discussion in an earlier conversation. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 39:06-39:38, 1:09:47-1:10:24)* Michels calls Brown his highest-conviction thread for how craft fly (*([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 2:27:04-2:27:15)*).

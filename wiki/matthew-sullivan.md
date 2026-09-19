@@ -14,6 +14,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Matthew "Quake" Sullivan, a decorated Air Force veteran (Bronze Star for Valor, Operation
@@ -42,3 +44,7 @@ this as a possible example of "wet works" against a prospective whistleblower.
 ## Additional claims (gerb/timeline)
 
 - Timeline video: cited as having worked on the legacy program in a dual-headed unacknowledged capacity while at [[national-air-and-space-intelligence-center]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:02:57-2:03:08)*
+
+## Claims (jm/borland)
+
+- Borland cites Sullivan's death as a motivation for [[vanguard-enterprise]] and says he wishes his family the best. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:46:54-1:47:08)*

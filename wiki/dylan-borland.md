@@ -9,6 +9,17 @@ relations:
   - relation: employed_by
     target: defense-threat-reduction-agency
     note: "worked as an all-source analyst at DTRA"
+  - relation: worked_at
+    target: bae-systems
+    note: "2015-2018, per jm/borland"
+  - relation: participated_in
+    target: borland-langley-triangle-2012
+  - relation: accuses
+    target: odni-directors-initiatives-group
+    note: "alleges falsified evidence and leaks"
+  - relation: founded
+    target: vanguard-enterprise
+    note: "with Matthew Brown"
 sources:
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
@@ -16,6 +27,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
+    label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
 ---
 
 Witness who testified under oath to observing a 100 ft black triangle above Langley Air Force
@@ -68,3 +81,13 @@ Base in 2012, seemingly originating from a nearby NASA hangar. *([gerb/nro](../r
   extraterrestrial-related files.
 - Sighting theorized by Gerb as a possible [[saf-aa|SAF/AAH]]-brokered Air Combat Command
   operation.
+
+## Claims (jm/borland)
+
+- On [[borland-michels-interview-2026]] (American Alchemy, 2026-08-05) he gives his full account: enlisted 2010, medically discharged 2013, a 1N1 imagery analyst in the drone program supporting special operations, later [[bae-systems]] (2015-2018) and [[defense-threat-reduction-agency]] (January 2019 to summer 2024). *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 15:22-19:16, 57:12-57:33, 1:45:18-1:45:46)*
+- The sighting details are on [[borland-langley-triangle-2012]]; his testimony to Congress was in September 2025. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 2:47-3:34)*
+- He says a BAE colleague read into a legacy program thought he was too, leading him to learn of a "very specific program" (*([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 58:36-59:19)*); see [[legacy-program-claims-borland]].
+- Reprisal claims (AARO false memorandum, ODNI DIG, clearance withdrawal, VA tests, brake lines) are on [[borland-whistleblower-reprisal-claims]]; program-name claims on [[rubiks-cube-program-claims]]; the philosophy is on [[nhi-control-and-simulation-claims]].
+- He co-founded [[vanguard-enterprise]] with [[matthew-brown]].
+- He says he was raised near Pittsburgh (born in Washington, D.C.), is a Catholic, and holds a master's degree. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 9:33-10:26, 1:47:43-1:48:08)*
+- He reports personal-history claims (Catholic conversion event, dreams, synchronicities) documented on [[nhi-control-and-simulation-claims]] and friend [[paul-thigpen]].
