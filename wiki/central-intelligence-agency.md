@@ -61,6 +61,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md"
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
+    label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -120,6 +122,7 @@ shared organization page.
   defeat a feared Communist/Socialist super-majority — framed by Eyes Wide Open as arguably the
   first [[operation-gladio]] operation. *([ewa/italy-1948](../raw/ewa/Eyes Wide Open - 2023-05-17 - THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [pt. 5.1].md) 18:17-20:15)*
 - Per Part 5.3, the CIA funded [[american-committee-on-united-europe]], [[le-cercle]] (alleged) and the French [[rose-des-vents]] stay-behind, and consolidated front funding in the [[cia-international-organizations-division]] under [[thomas-braden]]. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 22:58-27:16)*
+- LAOS 1 claim: from 1964 to 1971 the CIA was primarily in charge of the US campaign in [[laos]], its first full-on secret war, run without Congressional approval; see [[secret-war-in-laos]]. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 3:55-4:26)*
 
 ## Relationships
 
@@ -133,3 +136,4 @@ shared organization page.
 - Operates the [[office-of-policy-coordination]], run via the [[italian-election-1948]] and
   [[operation-gladio]].
 - See [[cia-international-organizations-division]], [[american-committee-on-united-europe]], [[rose-des-vents]].
+- See [[secret-war-in-laos]].

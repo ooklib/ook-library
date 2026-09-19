@@ -148,7 +148,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[kirtland-air-force-base]] · [[dugway-proving-ground]] ·
 [[fairfax-county-waste-management-depot]] · [[nevada-national-security-site]] ·
 [[pine-gap-australia]] · [[tonopah-test-range]] · [[air-force-plant-42]] · [[area-6]] ·
-[[tahone-radar-cross-section-facility]] · [[fort-hunt-virginia]] · [[golden-triangle]]
+[[tahone-radar-cross-section-facility]] · [[fort-hunt-virginia]] · [[golden-triangle]] · [[laos]] · [[french-indochina]]
 
 ## People — investigators & witnesses
 
@@ -214,7 +214,7 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[national-security-act-1947]] · [[truman-doctrine]] · [[marshall-plan]] · [[operation-husky]] ·
 [[italian-election-1948]] · [[portella-della-ginestra-massacre-1947]] · [[blue-suite]] ·
 [[kefauver-committee]] · [[plan-bleu-1947]] · [[rose-des-vents]] · [[operation-zipper]] · [[operation-pbsuccess]] · [[bay-of-pigs-invasion]] ·
-[[kennedy-assassination]] · [[watergate-scandal]]
+[[kennedy-assassination]] · [[watergate-scandal]] · [[secret-war-in-laos]] · [[deer-mission]]
 
 ## People — British power structures
 
@@ -255,7 +255,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[charles-de-gaulle]] · [[jacques-foccart]] · [[francois-mitterrand]] · [[e-howard-hunt]] · [[john-singlaub]] · [[lucien-conein]] ·
 [[mitchell-werbell]] · [[edward-lansdale]] · [[vang-pao]] · [[nelson-bunker-hunt]] ·
 [[ngo-dinh-diem]] · [[john-mccone]] · [[li-mi]] · [[willis-bird]] · [[alfred-cox]] ·
-[[phao-sriyanon]] · [[plaek-phibunsongkhram]] · [[sarit-thanarat]] · [[khun-sa]] · [[alfred-mccoy]]
+[[phao-sriyanon]] · [[plaek-phibunsongkhram]] · [[sarit-thanarat]] · [[khun-sa]] · [[alfred-mccoy]] ·
+[[ho-chi-minh]] · [[dwight-d-eisenhower]]
 
 ## Concepts
 
@@ -267,4 +268,4 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[atomic-energy-act-1954]] · [[content-only-special-access-program]] ·
 [[covert-action-program]] · [[yankee-blue]] · [[permeation]] · [[deep-state]] ·
 [[non-aligned-movement]] · [[relation-types]] · [[yankee-cowboy-thesis]] ·
-[[strategy-of-tension]] · [[pan-europa-movement]] · [[cia-drug-paradigm]] · [[narco-counterinsurgency]]
+[[strategy-of-tension]] · [[pan-europa-movement]] · [[cia-drug-paradigm]] · [[narco-counterinsurgency]] · [[hmong-people]]

@@ -22,6 +22,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
+    label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
 ---
 
 Lucien Conein, the "Operator," was a French-born, Kansas City-raised OSS Detachment 202 alumnus who, per Eyes Wide Open, became a main CIA point man in Vietnam under Edward Lansdale, is alleged to have connected Corsican mobsters in Saigon with Vang Pao's army in Laos, and ended as chief of covert operations for the DEA. (ASR spells him 'Kunai'/'Kane'.) *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 14:48-15:11)*
@@ -33,7 +35,9 @@ Lucien Conein, the "Operator," was a French-born, Kansas City-raised OSS Detachm
 - Per Alfred McCoy, helped establish a narcotics connection between Corsican mobsters in Saigon and [[vang-pao]]'s guerrilla army; instrumental to the Strategic Hamlet program and CORDS; allegedly gave the green light to South Vietnamese generals to kill [[ngo-dinh-diem]] in 1963. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 16:12-16:42)*
 - Recommended by [[e-howard-hunt]] to Nixon as White House narcotics advisor post-Watergate; ended mid-1970s as chief of covert operations for the [[drug-enforcement-administration]], later admitting he worked with Corsican mobsters there as he had under Lansdale. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 16:47-17:10)*
 - Host: shows the importance of narcotics smuggling to counter-insurgency work ([[cia-drug-paradigm]]). *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 17:10-17:26)*
+- Named in LAOS 1 as a member of the 1945 [[deer-mission]], described as 'counterinsurgency expert and future Ho Chi Minh Trail strategist' (ASR 'Lucien K'). *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 18:46-19:06)*
 
 ## Relationships
 
 - Alumnus of [[oss-detachment-202]] under [[paul-helliwell]]; aide to [[edward-lansdale]]; connected to [[corsican-mafia]], [[vang-pao]], [[ngo-dinh-diem]] coup; recommended by [[e-howard-hunt]]; served [[drug-enforcement-administration]].
+- Member of the [[deer-mission]].

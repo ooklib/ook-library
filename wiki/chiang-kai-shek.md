@@ -23,6 +23,8 @@ sources:
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
+    label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
 ---
 
 Generalissimo Chiang Kai-shek led the Nationalist Chinese (KMT) forces in China's WWII-era dual
@@ -47,6 +49,7 @@ a policy that drew [[paul-helliwell]] and the OSS into narcotics facilitation.
 - [[paul-helliwell]] of [[oss-detachment-202]] helped Chiang's Nationalists against Mao's Communists from Yunnan. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 2:50-3:03)*
 
 - After fleeing to Taiwan in 1949, his China Lobby pushed US involvement; Taipei was pressured (Burma, UN, US) to withdraw [[li-mi]]'s force, agreeing in Sept 1953. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 11:36-13:38, 43:17-44:22)*
+- LAOS 1: his KMT sent Gen. Lu Han's (ASR 'luhan') 200,000-man army from Yunnan to expel the Japanese from Indochina; in 1946 France and the KMT agreed that France regained its colony while renouncing its concessions in China. Host says he was uninterested in Indochina, focused on the civil war. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 20:22-20:58)*
 
 ## Relationships
 
@@ -55,3 +58,4 @@ a policy that drew [[paul-helliwell]] and the OSS into narcotics facilitation.
 - Backed by [[claire-chennault]]'s air force, which became [[civil-air-transport]].
 - See [[oss-detachment-202]].
 - See [[operation-paper]], [[li-mi]].
+- See [[french-indochina]].

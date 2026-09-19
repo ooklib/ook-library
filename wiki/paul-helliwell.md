@@ -31,6 +31,8 @@ sources:
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
+    label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
 ---
 
 Colonel Paul E. Helliwell served as chief of special intelligence for the
@@ -73,6 +75,7 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
 - Per Eyes Wide Open, introduced [[claire-chennault]] to [[frank-wisner]] (leading to CIA funding of [[civil-air-transport]]) and created [[sea-supply-corporation]] for [[operation-paper]]. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 15:48-16:31, 32:22-32:34)*
 - Cited quote (1980 WSJ): he gathered wartime information with shipments of opium, "three sticky brown bars"; described as the series' main character and architect of the American side of the French Connection. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 10:39-11:34)*
 - A Thai consulate was allegedly housed in his Miami law firm offices in 1953-54. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 45:20-45:53)*
+- Named in LAOS 1 as a member of the 1945 [[deer-mission]] to [[ho-chi-minh]], described as 'the future American architect of the French Connection'. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 18:46-19:06)*
 
 ## Relationships
 
@@ -87,3 +90,4 @@ organized crime, first in wartime China/Burma and then, via "Operation X," in po
 - Architect of [[operation-x]].
 - Led [[oss-detachment-202]]'s intelligence unit; alumni include [[e-howard-hunt]], [[john-singlaub]], [[lucien-conein]], [[mitchell-werbell]]; see [[cia-drug-paradigm]], [[golden-triangle]].
 - Created [[sea-supply-corporation]] for [[operation-paper]].
+- Member of the [[deer-mission]].

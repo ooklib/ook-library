@@ -31,6 +31,8 @@ sources:
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
+    label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -110,6 +112,7 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 
 - Part 5.4 (4 Sept 2023), 'Spy Stories: OSS Detachment 202 - Secret Cold Warriors', is a short prelude to the upcoming French Connection series (Burma CIA operations, then the First Indochina War). It profiles four [[oss-detachment-202]] alumni: [[e-howard-hunt]], [[john-singlaub]], [[lucien-conein]], [[mitchell-werbell]], under [[paul-helliwell]]; sources include Valentine, McCoy, Webb, Lernoux, Talbot, Baker, Fonzi. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 0:00-2:25, 22:16-24:00)*
 - Part 6 (4 Oct 2023), 'Operation PAPER and Trouble in the Golden Triangle', opens the French Connection mini-series in Southeast Asia: CIA arming of [[li-mi]]'s KMT remnant in Burma via Thailand; see [[operation-paper]], [[narco-counterinsurgency]]. Sources: [[alfred-mccoy]], Valentine, Webb, [[peter-dale-scott]]. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 0:00-5:07, 47:54-49:51)*
+- Season 2 begins (Patreon premiere 18 Mar 2024, YouTube 1 Nov 2024) with a 4-part Laos series, 'The Secret War in Laos' (LAOS 1: history of Laos c.1890-1945); host says the series cites all sources per chapter with a full book list promised in a bonus video at the series' end, and that Season 3's first video is on Patreon for a late-2025 premiere. LAOS 2 is previewed as covering the French Indochina War and [[operation-x]]. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 0:00-0:44, 5:14-5:52, 23:16-24:57)*
 
 ## Relationships
 
@@ -121,3 +124,4 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
   continuing into Part 5.2's domestic blackmail/Red Scare coverage.
 - Part 5.3 sources: [[daniele-ganser]], [[david-teacher]], [[richard-aldrich]], [[hennie-van-vuuren]].
 - Part 5.4 subjects: [[oss-detachment-202]] alumni; see [[cia-drug-paradigm]].
+- LAOS 1 overview: [[secret-war-in-laos]], [[laos]], [[french-indochina]], [[hmong-people]], [[ho-chi-minh]], [[deer-mission]], [[dwight-d-eisenhower]].

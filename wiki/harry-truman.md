@@ -27,6 +27,8 @@ sources:
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md"
     label: "THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [Pt. 6] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
+    label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
 ---
 
 Harry Truman was President of the United States when, per Eyes Wide Open, he lost faith in
@@ -66,6 +68,7 @@ with [[roscoe-hillenkoetter]] as (per the host) first director of the CIA.
   US Air Force, and the [[central-intelligence-agency|CIA]] itself. *([ewa/cold-war](../raw/ewa/Eyes Wide Open - 2023-05-03 - THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4].md) 21:52-22:39, 22:57-24:27)*
 
 - Approved [[operation-paper]] in late 1950 on Joint Chiefs/OPC advice over DCI Smith's objection; NSC 342 was approved 3 March 1949. *([ewa/operation-paper](../raw/ewa/Eyes Wide Open - 2023-10-04 - THE HISTORY OF THE CIA - Operation PAPER and Trouble in the Golden Triangle [pt. 6].md) 20:16-22:17)*
+- LAOS 1: largely ignored [[ho-chi-minh]]'s Feb 1946 cable requesting support for Vietnamese independence, focused on the Cold War; host calls this a 'massive foreign policy mistake'. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 21:15-22:51)*
 
 ## Relationships
 
@@ -76,3 +79,4 @@ with [[roscoe-hillenkoetter]] as (per the host) first director of the CIA.
 - Created the [[central-intelligence-group]] in 1946; declared the [[truman-doctrine]] and signed
   the [[national-security-act-1947]] in 1947, creating the [[central-intelligence-agency]].
 - Approved [[operation-paper]].
+- See [[ho-chi-minh]].

@@ -26,6 +26,8 @@ sources:
     label: "THE HISTORY OF THE CIA - France's Secret Armies and the Pan-Europa Project [Pt. 5.3] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md"
     label: "SPY STORIES: OSS Detachment 202 - Secret Cold Warriors [Pt. 5.4] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md"
+    label: "The Secret War in Laos: South East Asia's Heart of Darkness - LAOS 1 (Eyes Wide Open)"
 ---
 
 Richard Nixon appears in this episode as a junior California congressman who built his
@@ -62,6 +64,7 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
 - Named as an alleged [[le-cercle]] member after his time in office. *([ewa/pan-europa](../raw/ewa/Eyes Wide Open - 2023-07-28 - THE HISTORY OF THE CIA - France’s Secret Armies and the Pan-Europa Project [pt. 5.3].md) 36:22-36:37)*
 
 - Per the Detachment 202 episode, [[e-howard-hunt]] served as one of his "plumbers" ([[watergate-scandal]]), and Hunt recommended [[lucien-conein]] to him as White House narcotics advisor. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 9:10-9:42, 16:47-16:55)*
+- LAOS 1: the bombing of [[laos]] that began under Johnson was 'massively expanded' under Nixon; see [[secret-war-in-laos]]. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 2:26-2:33)*
 
 ## Relationships
 
@@ -71,3 +74,4 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
   [[yankee-cowboy-thesis]].
 - Alleged member of [[le-cercle]].
 - See [[watergate-scandal]], [[e-howard-hunt]].
+- See [[secret-war-in-laos]].
