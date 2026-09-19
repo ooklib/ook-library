@@ -40,6 +40,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Richard Nixon appears in this episode as a junior California congressman who built his
@@ -101,3 +103,10 @@ beginning of a partnership between the Eastern "Yankee" establishment and the ri
 
 - The June 23, 1972 Oval Office "smoking gun" tape: Nixon on [[e-howard-hunt]] "knows too damn much... likely to blow the whole Bay of Pigs thing"; host reads it as Nixon threatening the CIA (which he believes orchestrated Watergate to remove Nixon) with mutual destruction, and notes speculation (Haldeman) that it referred to CIA involvement in the JFK killing. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 0:00-2:59)*
 - As vice president was political liaison on the Bay of Pigs planning and had to "feign weakness" on Cuba in the 1960 campaign to protect the secret. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 12:23-12:37, 21:07-21:44)*
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: Nixon as vice president was Eisenhower's chief fundraiser, with a donor network of Southern/Southwestern billionaires and local elites; in late 1959 he became White House liaison to the CIA effort to overthrow Castro and, the host says, "an equal partner" to [[allen-dulles]] in early plotting including assassination. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 5:45-8:35)*
+- Host (citing Hougan): in early 1954 Nixon worked with the CIA to bring in [[robert-maheu]]'s firm to sink the [[jeddah-agreements]]; a Maheu-firm journalist is quoted saying Nixon was "a frontman for the multinational oil companies". *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 17:32-18:29)* The host says Maheu was a "great eminence" Nixon likely retained; Maheu's firm's Onassis operation foreshadowed Watergate. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 18:29-18:37, 22:11-22:33)*
+- Host: Howard Hughes was a long-standing covert Nixon backer (Donald Nixon loan; alleged Watergate-era $100,000 bribe via Maheu and [[charles-rebozo]]). See [[howard-hughes]]. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 22:40-27:35)*
+- Host speculation: the CIA-Mafia plots may have been timed for an "October surprise" before the 1960 election. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:08:11-1:08:50)* See [[cia-mafia-assassination-plots]].

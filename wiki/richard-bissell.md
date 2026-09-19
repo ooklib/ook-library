@@ -21,6 +21,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Richard Bissell is described by [[eyes-wide-open]] as an OSS "old boy" and covert operator from the former [[office-of-policy-coordination]] whom [[frank-wisner]] put in charge of planning [[operation-pbsuccess]] in 1954; he entrusted [[e-howard-hunt]] with a major covert role there. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 13:38-14:19)*
@@ -41,3 +43,7 @@ Richard Bissell is described by [[eyes-wide-open]] as an OSS "old boy" and cover
 - Deputy director of plans (DDP) for under two years by 1960, replacing [[frank-wisner]], a Dulles protege and Ivy League (Yale) man; main planner of PBSuccess; given authority over the U-2 spy plane and the evolving spy satellite programs by 1960 (technology thread: see [[national-reconnaissance-office]]). *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 12:37-13:47)*
 - Instructed by [[allen-dulles]] on Jan 18, 1960 to create WH/4; secured the Guatemala site; in an internal interview blamed [[joseph-caldwell-king]] for first advocating Mafia use. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 11:16-11:37, 25:43-26:09, 10:50-11:08)*
 - Host: likely heard the anti-Castro ideas in the [[georgetown-set]]. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 14:05-14:27)*
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: Dulles delegated the Castro plots to Bissell as deputy director of plans; Bissell chose the Office of Security and [[sheffield-edwards]] to manage them, entrusting both key early anti-Castro elements to former Army intelligence officers (Edwards and [[joseph-caldwell-king]]); he had ordered U-2 pilot cyanide-poison development from [[sidney-gottlieb]]'s division, which then became the plots' poison source (host: the U-2 program intersects with the anti-Castro work). *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:00:07-1:01:44, 1:06:31-1:07:08)* See [[cia-mafia-assassination-plots]].

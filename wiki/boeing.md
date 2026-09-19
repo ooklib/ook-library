@@ -17,6 +17,8 @@ sources:
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-29 - The Origins of the Military-Industrial Complex - War Conspiracy 1.md"
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Boeing has primary offices in [[crystal-city-virginia|Crystal City]] and is listed with less
@@ -29,3 +31,7 @@ confidence among contractors Gerb suspects are involved in MITRE's UFO work. *([
 
 - Lower-confidence alleged contractor to [[mitre-corporation]].
 - War Conspiracy 1: [[military-industrial-complex]], [[pan-american-airways]], [[howard-hughes]].
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: TWA's 1961 purchase of Boeing 707s (over Hughes's preference for the Convair 880); Hughes and Boeing had been in conflict since the 1940s Owen Brewster affair; PanAm long tied to Boeing. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 28:44-30:26)* See [[howard-hughes]].

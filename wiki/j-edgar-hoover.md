@@ -32,6 +32,8 @@ sources:
     label: "THE HISTORY OF THE CIA - The Real Cold War and the Creation of CIA [pt. 4] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 J. Edgar Hoover was the first, long-time director of the
@@ -100,3 +102,7 @@ US foreign intelligence functions during the run-up to the CIA's creation.
   fueled [[joseph-mccarthy]]'s crusade.
 - Alleged attendee of the [[blue-suite]] parties; alleged target of independent blackmail
   photographs held by [[james-jesus-angleton]] and [[meyer-lansky]].
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: FBI directors' refusal to acknowledge organized crime until at least 1961; early G-man moles (Maheu, "Big Jim" O'Connell, William King Harvey) as possible Hoover implants in the new CIA; Hoover originally wanted international intelligence within the FBI; host says the FBI was allied to these mobsters in many cases (details next episode). *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 10:42-11:15, 45:13-45:38, 1:15:22-1:15:38)*

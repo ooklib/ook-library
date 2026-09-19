@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Charles B. "Bebe" Rebozo (ASR "Raboso") is the Cuban-American real estate developer and "shady financier" and longtime friend of [[richard-nixon]] who, per [[eyes-wide-open]] citing Henrik Kruger, Nixon met in 1943 while working at the Office of Price Administration. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 54:23-54:38)*
@@ -30,3 +32,7 @@ Charles B. "Bebe" Rebozo (ASR "Raboso") is the Cuban-American real estate develo
 ## Relationships
 
 - Friend of [[richard-nixon]]; associates [[paul-helliwell]], [[santo-trafficante]], [[meyer-lansky]].
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host (citing a Las Vegas Sun article): the $50,000 cash portion of an alleged $100,000 Hughes bribe to Nixon went from [[robert-maheu]] through Rebozo ("babe Roso" per ASR); host notes Rebozo was Nixon's bagman, as seen in the War Conspiracy series. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 27:11-27:35)*

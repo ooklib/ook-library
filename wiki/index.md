@@ -11,7 +11,7 @@ and `CLAUDE.md` for the wiki schema and source registry (short citation keys: `g
 `gerb/nro`, `gerb/lockheed`, `gerb/sandia`, `gerb/northrop_trw`, `gerb/hidden_wing`, `gerb/secrecy_1`,
 `gerb/secrecy_2`, `gp/secret-society`, `gp/chatham-house`, `gp/older-than-parliament`,
 `rjm/city-of-london`, `mpu/secret-society`, `ewa/oss`, `ewa/sunrise`, `ewa/mafia-allies`,
-`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`, `ewa/laos-4`, `ewa/war-conspiracy-1`, `ewa/war-conspiracy-2`).
+`ewa/cold-war`, `ewa/italy-1948`, `ewa/red-scare`, `ewa/pan-europa`, `ewa/detachment-202`, `ewa/operation-paper`, `ewa/laos-1`, `ewa/laos-2`, `ewa/laos-3`, `ewa/laos-4`, `ewa/war-conspiracy-1`, `ewa/war-conspiracy-2`, `ewa/operation-40`, `ewa/cia-mafia`).
 
 Note: the wiki spans four topic areas — the original alleged "UFO legacy programs" ecosystem
 (MITRE, SAIC, NRO, Lockheed, etc.), a British power-structures thread (Fabian Society, Chatham
@@ -123,6 +123,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 
 ## Organizations — OSS/CIA history (Eyes Wide Open)
 
+[[church-committee]] · [[jeddah-agreements]] (event, 1954) — added by `ewa/cia-mafia`.
+
 [[office-of-strategic-services]] · [[sullivan-and-cromwell]] · [[ig-farben]] ·
 [[gehlen-organization]] · [[bank-for-international-settlements]] · [[civil-air-transport]] ·
 [[air-america]] · [[operation-paper]] · [[sea-supply-corporation]] · [[general-development-corporation]] · [[national-crime-syndicate]] ·
@@ -195,6 +197,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 
 ## Programs / Events
 
+[[cia-mafia-assassination-plots]] — alleged 1960-61+ CIA/mob Castro plots (`ewa/cia-mafia`) · [[jeddah-agreements]]
+
 [[ufo-legacy-programs]] · [[sage-semi-automatic-ground-environment]] ·
 [[project-whirlwind]] · [[tic-tac-factory-uso]] · [[roswell-incident-1947]] ·
 [[aztec-new-mexico-crash-1948]] · [[magenta-italy-crash-1933]] ·
@@ -232,6 +236,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 
 ## People — OSS/CIA history (Eyes Wide Open)
 
+[[robert-maheu]] · [[johnny-roselli]] · [[sam-giancana]] · [[sheffield-edwards]] · [[sidney-gottlieb]] · [[aristotle-onassis]] — added by `ewa/cia-mafia`.
+
 [[eyes-wide-open]] · [[william-donovan]] · [[allen-dulles]] · [[john-foster-dulles]] ·
 [[roscoe-hillenkoetter]] · [[j-edgar-hoover]] · [[franklin-d-roosevelt]] · [[harry-truman]] ·
 [[peter-dale-scott]] · [[reinhard-gehlen]] · [[karl-wolff]] · [[hjalmar-schacht]] ·
@@ -261,6 +267,8 @@ origin-story claims/relations), and to the British-power-structures thread throu
 [[ho-chi-minh]] · [[dwight-d-eisenhower]] · [[roger-trinquier]] · [[antoine-savani]] · [[touby-lyfoung]] · [[wesley-fishell]] · [[ngo-dinh-nhu]] · [[thomas-corcoran]] · [[whiting-willauer]] · [[william-pawley]] · [[t-v-soong]] · [[paul-nitze]] · [[howard-hughes]] · [[lyndon-b-johnson]] · [[nelson-rockefeller]] · [[laurance-rockefeller]] · [[henry-kissinger]] · [[richard-bissell]] · [[frank-sturgis]] · [[jack-ruby]] · [[david-ferrie]] · [[barry-seal]] · [[lee-harvey-oswald]] · [[carlos-marcello]] · [[charles-rebozo]] · [[fidel-castro]] · [[felix-rodriguez]] · [[david-sanchez-morales]] · [[ted-shackley]] · [[joseph-caldwell-king]] · [[jacob-esterline]] · [[manuel-artime]] · [[orlando-bosch]]
 
 ## Concepts
+
+[[cia-mafia-legend]] — host's thesis that the bungling-CIA story is a cover legend (`ewa/cia-mafia`)
 
 [[ffrdc]] · [[special-access-program]] · [[special-access-program-oversight-committee]] ·
 [[onion-secrecy-model]] · [[seventh-veil-analogy]] · [[ufo-control-group]] · [[majestic-12]] ·

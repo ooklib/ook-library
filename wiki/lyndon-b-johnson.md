@@ -17,6 +17,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Lyndon Johnson appears in War Conspiracy 1 as one of the two politicians (with [[richard-nixon]])
@@ -46,3 +48,7 @@ whom [[eyes-wide-open]] says the [[china-lobby]] "effectively elevated," and who
 ## Additional claims (Operation 40)
 
 - Joseph Alsop recommended Johnson as running mate at the 1960 convention; host calls Johnson not a Georgetown member. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 19:51-20:36)*
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: "Cowboy" vice president to JFK; Cowboy interests (Hughes/Nixon coalition) later aligned with Johnson and profited from the Southeast Asian wars; host promises a General Dynamics "octopus" segment tying Hughes-adjacent interests to LBJ and Texas. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 4:54-5:11, 30:26-30:41, 25:58-26:33)*

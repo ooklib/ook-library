@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 The Yankee-Cowboy Thesis, developed by [[carl-oglesby]] in his 1976 book *The Yankee and Cowboys
@@ -47,3 +49,7 @@ for the series' future Kennedy-assassination chapters.
 
 - Authored by [[carl-oglesby]]; independently echoed by [[peter-dale-scott]].
 - Applied by the host to [[allen-dulles]] (Yankee) and [[richard-nixon]] (Cowboy).
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: Nixon and Hughes as the "rising Cowboys" (new Southwest oil/gas/military-industrial money) vs Yankee old-money multinationals (Aramco's Rockefeller-descended firms); the mob "realigning" from the Eastern establishment towards the Cowboys; the anti-Castro coalition became an anti-Kennedy coalition that aligned with Johnson. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 2:00-3:26, 4:37-5:11, 15:41-16:21)* See [[jeddah-agreements]], [[howard-hughes]].

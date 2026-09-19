@@ -32,6 +32,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Meyer Lansky, per Eyes Wide Open, was "often considered the most prolific and wealthy Mafia boss
@@ -79,3 +81,10 @@ when it covers the Kennedy assassination (per `raw/index.md`, covered at length 
 
 
 - Havana casinos lost in 1959; shifted to Nevada and the Bahamas as a new node for gambling and offshore banking; Guatemala casinos via representatives. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 49:27-50:08, 15:52-16:09)*
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: "the mob's accountant" and moneyman for five decades; charged with tax evasion in 1970 (prosecuted formally only in 1972), moved to Israel under the law of return, deported after two years, and walked free on technicalities; the host argues Lansky could not be prosecuted the way [[lucky-luciano]] could because of his ties to the "Overworld". *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 46:41-48:46)*
+- Host: hardest hit by Castro's Cuban nationalization alongside Trafficante and [[carlos-marcello]]; reportedly had "his hands in every casino joint" in Cuba and personally put a million-dollar bounty on Castro; Florida node with Miami and the Bahamas. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 34:16-34:39, 50:49-51:13)*
+- Host: a 1969 Orlando Sentinel article claimed Lansky had substantial Swiss holdings and used Canadian-Russian banker John Pullman (ASR "pulman") as his Swiss banker; host links this to the "Rosemark" Swiss loan to Hughes' TWA (speculative). *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 31:55-32:18)* See [[howard-hughes]].
+- Host: Prohibition-era, young Lansky and Bugsy Siegel bootlegged alongside Italians in the same New York neighborhoods. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 43:22-43:39)*

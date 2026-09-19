@@ -33,6 +33,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Italy 1948 - How to Steal an Election [Pt. 5.1] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Charles "Lucky" Luciano was a Sicilian-American Mafia boss within the
@@ -86,3 +88,7 @@ CIA's later mafia alliances.
   [[santo-trafficante]] and funding [[operation-gladio]] through the Sicilian mob.
 - Provided Mafia intelligence for [[operation-husky]]; endorsed [[calogero-vizzini]]; paroled to
   Sicily via [[george-white]] and [[james-jesus-angleton]].
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: NY Dewey prosecution, 1936 arrest on prostitution charges, deported to Sicily in 1946; in exile helped establish the French heroin connection through Corsican gangsters in Marseille, in the host's telling reflecting the mob's origin as strikebreakers; the host classifies Luciano as a prosecutable "street" figure unlike Lansky. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 40:32-40:40, 47:44-48:48)*

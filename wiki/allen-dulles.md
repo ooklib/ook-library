@@ -80,6 +80,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -233,3 +235,7 @@ calls him "arguably one of, if not the most important person in modern American 
 
 - Approved [[joseph-caldwell-king]]'s Dec 11, 1959 memo after pencilling "eliminate" to "removal"; instructed Bissell on Jan 18, 1960 to create WH/4; at the top of the Bay of Pigs structure with Nixon as political liaison. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 9:50-10:10, 11:24-11:37, 12:23-12:37)*
 - Rumor (host): Dulles or a subordinate fed internal Cuba intelligence to the Kennedy campaign in 1960 via Georgetown sources. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 20:42-21:07)*
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: with [[richard-nixon]], top planner of the anti-Castro project; a longtime covert Nixon backer since their 1946 meeting on the Queen Mary; his 1953 Iran coup context for the [[jeddah-agreements]] episode; Dulles's letters to Justice Jackson helped spare [[hjalmar-schacht]] at Nuremberg (as recalled from ewa/sunrise). *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 7:48-8:26, 16:54-17:09, 20:05-20:12, 1:00:00-1:00:16)*

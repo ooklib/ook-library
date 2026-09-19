@@ -45,6 +45,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Eyes Wide Open is a YouTube channel (formerly "Everything You Need to Know," rebranded after a
@@ -158,3 +160,7 @@ citations shown on screen. This video, "The OSS and the Birth of American Intell
 ## Additional claims (Operation 40)
 
 - Season 2 "Cuba show" episode: [[operation-40]] (first of the CIA-Cuba parts; next episode on the CIA-Mafia plots). Host mentions Season 3 premieres in 2025. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 0:00-0:10, 59:35-59:52)*
+
+## Additional claims (CIA-Mafia Legend)
+
+- Ingest of *The CIA-Mafia Legend* (2024-12-20), described as number eight of the year's public videos in Season 2 (ending 1 Jan 2025); the host says the next video is a ~2-hour Bush/Texas/oil-lobby documentary and that season 3 in 2025 will have 10-12 videos; he says organized crime is "not really my area of expertise" and this episode was a "primer on the mafia". *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:23:52-1:26:30)* Primary sources cited: Hougan's *Spooks*, Talbot's *Devil's Chessboard*, Drosnin's *Citizen Hughes*, Scott's *Deep Politics*, Valentine's *Strength of the Wolf*, Webb's *One Nation Under Blackmail*, Summers's *Official and Confidential*, Kinzer's *Poisoner in Chief*. See [[cia-mafia-assassination-plots]], [[cia-mafia-legend]], [[robert-maheu]].

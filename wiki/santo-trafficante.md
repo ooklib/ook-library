@@ -16,6 +16,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Santo Trafficante was a Mafia figure who controlled Cuban heroin-processing labs central to
@@ -43,3 +45,10 @@ up especially in relation to the Kennedy assassination" in later episodes.
 ## Additional claims (Operation 40)
 
 - Host: it has been alleged Trafficante was a double agent for both Castro and the CIA; more promised next episode. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 29:56-30:16)*
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: introduced to [[robert-maheu]] as "Joe" at the Miami Kenilworth Hotel, head of the Florida outfit; a "Lansky associate"; among the hardest hit by Castro's nationalizations (Tampa, Florida). *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:19-1:44, 34:09-34:23, 59:03-59:20)*
+- Host (citing [[peter-dale-scott]]): the CIA protected him and [[sam-giancana]] after [[robert-f-kennedy]]'s 1960 book named them. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:14:42-1:15:06)*
+- Host (citing Hougan): possible double agent for Castro (cushy jailing and release; Castro skipped his favorite restaurant the day the poison-pill plot was to be executed); alternative: Roselli's remark (via 1981 Chicago Tribune / Jimmy Fratianno) that Trafficante "conned everybody" and "just sat on it". See [[cia-mafia-legend]]. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:16:19-1:19:33)* Named as the CIA's main mob ally later in Southeast Asian heroin importing. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:16:19-1:16:34, 1:17:23-1:17:32)*
+- Not called before the [[church-committee]]; testified to the HSCA in 1978, downplaying his role as a "Spanish interpreter", denying involvement in JFK's murder; died of natural causes in 1987 at 72. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:21:40-1:22:28)*

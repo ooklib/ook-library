@@ -12,6 +12,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-15 - The French Connection in South East Asia - LAOS 3.md"
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Joseph Kennedy, father of John and Robert Kennedy and, like [[lewis-rosenstiel]], a bootlegger
@@ -30,3 +32,9 @@ a connection the host calls "strange and fascinating."
 
 - Co-founded the J. Edgar Hoover Foundation with [[lewis-rosenstiel]] in 1960.
 - LAOS 3: met [[ngo-dinh-diem]]; see [[vietnam-lobby]].
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: often theorized that Kennedy made part of the family fortune from bootlegging through Canadian liquor houses (Bronfman and Lewis Rosenstiel, "Rosen steel" per ASR; see [[lewis-rosenstiel]]), remaining close to Rosenstiel afterward; extensive Hollywood organized-crime ties in the 1920s; excluded from the "Italian mafia" frame as an Irish American. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 43:39-44:28)*
+- Host: rumored bootlegging-era work with [[sam-giancana]] and rumored help swinging Chicago for JFK in 1960 (rumor). *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 50:02-50:32)*
+- Host citing Drosnin: Kennedy majority-owned RKO, later bought by Hughes; Hughes resented that Old Joe "had stolen" the White House from him; the two did not circulate in the same circles per Drosnin. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 24:34-25:34)* See [[howard-hughes]].

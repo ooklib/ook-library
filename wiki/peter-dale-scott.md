@@ -19,6 +19,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Peter Dale Scott is a researcher credited by Eyes Wide Open as the originator of the "deep
@@ -48,3 +50,7 @@ series on the history of the CIA.
 
 
 - Heavily cited in WC2: Itek link, Laos airlift and PanAm, mob casinos in Guatemala, Ruby quotes. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 23:53-24:07, 34:23-34:47, 16:00-16:16, 40:09-40:47)*
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host cites *Deep Politics and the Death of JFK* on the wire-service expansion, Jack Ruby and Roselli's LA posting, gambling as a mob-nationalizing vector, and a quoted line that the CIA gave Giancana and Trafficante protection by involving them in the plots; the host says the "throwaway line" is a key to the plots' nature. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 52:10-53:53, 1:14:27-1:15:14)*

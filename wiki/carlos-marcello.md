@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Carlos Marcello (ASR "Marcelo") is the New Orleans crime boss whom [[eyes-wide-open]] calls a prominent player in the CIA's future anti-Castro operations; Louisiana became "arguably the second most important node" after South Florida. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 16:00-16:15, 41:11-41:29)*
@@ -25,3 +27,7 @@ Carlos Marcello (ASR "Marcelo") is the New Orleans crime boss whom [[eyes-wide-o
 ## Relationships
 
 - Part of [[national-crime-syndicate]]; see [[operation-pbsuccess]] aftermath, [[david-ferrie]], [[civil-air-patrol]].
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: among the Southern mobsters most affected by the loss of Havana; part of the Florida node with Texas ties per the host's model of the [[national-crime-syndicate]]. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 34:16-34:23, 50:56-51:13)*

@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-20 - THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [pt. 3].md"
     label: "THE HISTORY OF THE CIA - Mafia Allies and the Beginning of the Global Drug Connection [Pt. 3] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Jimmy Hoffa, head of the Teamsters Union, is introduced by Eyes Wide Open only briefly here as
@@ -25,3 +27,7 @@ John and Robert Kennedy.
 ## Relationships
 
 - Teamsters Union trucking network distributed [[operation-x]] heroin domestically.
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host (citing Peter Dale Scott): Hoffa's Teamsters gave the [[national-crime-syndicate]] union locals across the US (offices, do-nothing cover jobs), trucking logistics, and a looted pension fund; he leveraged influence between Giancana's outfit, the New York five families and Lansky's Florida network; Hoffa truckers allegedly delivered guns to mob/CIA-backed guerrillas in Florida for Cuba. [[robert-f-kennedy]]'s crusade began with Hoffa. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 54:07-55:33)*

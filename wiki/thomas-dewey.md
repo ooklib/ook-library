@@ -22,6 +22,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Thomas Dewey, governor of New York and twice a Republican presidential candidate, both prosecuted
@@ -51,3 +53,7 @@ investment in what became [[resorts-international]].
 - Imprisoned, then later paroled/extradited, [[lucky-luciano]]; approached by [[george-white]] for
   the extradition.
 - Investor in the predecessor of [[resorts-international]].
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: as NY DA in the 1930s his war on Italian mobsters led to [[lucky-luciano]]'s 1936 arrest; as governor he deported Luciano in 1946; host says Hoover's and Dewey's later dealings with the underworld undercut serious efforts against the top of the hierarchy. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 40:24-41:44, 47:52-47:58)*

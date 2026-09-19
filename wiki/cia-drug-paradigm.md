@@ -16,6 +16,8 @@ sources:
     label: "The French Connection in South East Asia - LAOS 3 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md"
     label: "The Paramilitary CIA and the Seeds of a Secret War - LAOS 4 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 "CIA drug paradigm" (also "drug financing paradigm" or "global narcotics paradigm") is Eyes Wide Open's term for the alleged decades-long pattern in which narcotics smuggling funds, or is tolerated to sustain, American covert and proxy operations. The host credits [[paul-helliwell]] as a critical driver and the [[oss-detachment-202]] alumni as its practitioners. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 0:59-1:11, 2:44-2:50)*
@@ -38,3 +40,7 @@ sources:
 - See [[operation-paper]], [[narco-counterinsurgency]].
 - LAOS 3: [[air-laos-commerce]], [[yamashita-gold]] (host's speculation on early covert funding).
 - LAOS 4: LAOS 4: [[narco-counterinsurgency]], [[ouane-rattikone]].
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host (episode aside): Trafficante was "the main American mafioso to make the leap to the Southeast Asian heroin trade" and the CIA's main mob ally in both the Castro war and later heroin trafficking; Lucky Luciano's French heroin connection via Corsican gangsters. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:16:19-1:16:34, 1:22:21-1:22:36, 47:52-48:23)*

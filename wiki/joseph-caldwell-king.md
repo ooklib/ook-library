@@ -19,6 +19,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Colonel Joseph Caldwell King, head of the CIA's Western Hemisphere Division, is presented by [[eyes-wide-open]] as an obscure figure who wrote the first CIA policy proposal against Castro, dated December 11, 1959, calling for the "elimination" of Castro. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 8:23-8:45)*
@@ -35,3 +37,7 @@ Colonel Joseph Caldwell King, head of the CIA's Western Hemisphere Division, is 
 ## Relationships
 
 - Superior of [[jacob-esterline]]; memo approved by [[allen-dulles]]; see [[bay-of-pigs-invasion]], [[fidel-castro]].
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: JC King, head of CIA's Western Hemisphere division, graduated West Point in 1923 (same year as Sheffield Edwards) and was put in charge of early Operation 40 activities by Bissell. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:00:55-1:01:12)* See [[sheffield-edwards]].

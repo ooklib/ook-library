@@ -25,6 +25,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-06-28 - THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [pt. 5.2].md"
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Lewis Rosenstiel, a former Prohibition-era bootlegger who became a legitimate businessman as
@@ -65,3 +67,7 @@ and used blackmail as a tool — allegedly hosting the [[blue-suite]] parties an
 - Alleged host of the [[blue-suite]] parties.
 - Routed Hoover's subversive-name lists to [[joseph-mccarthy]] via his Jewish League Against
   Communism front group.
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host (ASR "Lewis Rosensteel"/"Rosen steel"): Schenley liquor owner; a Canadian-side liquor supplier during Prohibition and, per the host, Joseph Kennedy remained close to him afterward. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 43:16-44:04)*

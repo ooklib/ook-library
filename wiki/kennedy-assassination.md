@@ -16,6 +16,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 The 22 November 1963 assassination of President John F. Kennedy in Dallas. In this episode Eyes Wide Open covers only [[e-howard-hunt]]'s alleged presence and deathbed confession; the host says his own research indicates a fundamental mob element in the conspiracy. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:48-11:00)*
@@ -43,3 +45,7 @@ The 22 November 1963 assassination of President John F. Kennedy in Dallas. In th
 - Host: [[operation-40]] "would become a key piece of the JFK assassination tapestry" as radical Cuban killers grew frustrated at Kennedy's inaction; Haldeman speculated Nixon's "Bay of Pigs thing" concerned the CIA's role in JFK's death. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 2:41-3:12, 59:16-59:28)*
 - Alleged: [[david-sanchez-morales]] said in 1973 he was "in Dallas when we got the son of a [expletive]" and in LA "when we got the little bastard"; Bill Turner (Garrison team) brought Banister, Ferrie and Clay Shaw to the fore. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 40:07-40:34, 46:12-46:32)* See [[david-ferrie]].
 - Host's speculation that the Jan 1963 Mexico City Op 40 photo (with Seal) concerned a briefing about the "Kennedy hit" 10 months later. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 56:23-56:36)*
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: previews that anti-Castro/oil-lobby Cowboy interests would turn against the Kennedys; Roselli, Giancana and Trafficante figures will recur; Trafficante told the HSCA in 1978 he had no role in JFK's murder; [[jack-ruby]] was sent to Dallas by the Chicago outfit per Scott. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 4:44-5:02, 53:22-53:38, 1:21:48-1:22:13)*

@@ -71,6 +71,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -160,3 +162,7 @@ shared organization page.
 
 
 - Host: Eisenhower gave the CIA largely free rein; MK-Ultra, Artichoke, Bluebird mentioned; PBSuccess, Iran, Laos; see [[jm-wave-station]] and [[richard-bissell]]. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 5:07-7:02)*
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: the CIA and the mob allied in 1960 via [[robert-maheu]]; host argues the agency's "bungling" reputation is a cover ("legend") for a ruthlessly effective regime-change machine; early CIA composed of ex-OSS, ex-FBI and ex-Army intelligence factions. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 11:40-11:56, 1:10:06-1:14:18, 1:19:57-1:20:19)* See [[cia-mafia-legend]], [[cia-mafia-assassination-plots]], [[sheffield-edwards]], [[sidney-gottlieb]].

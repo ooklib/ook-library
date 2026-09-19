@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2023-04-05 - THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [pt. 2].md"
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Hjalmar Schacht was Hitler's personal banker, saved from Nuremberg sentencing by
@@ -34,3 +36,7 @@ preserve useful Nazi elements after the war.
 
 - Saved from Nuremberg sentencing by [[allen-dulles]] and [[william-donovan]] as part of
   [[operation-sunrise]].
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: hired by [[aristotle-onassis]] as intermediary in the [[jeddah-agreements]] talks; described as Hitler's economic minister for three years, Reichsbank president until 1939, held in a concentration camp at the war's end over the assassination attempt, spared at Nuremberg via Donovan and Dulles letters; Maheu's smear campaign used his role to imply Onassis backed German rearmament. Host says he needs a deep dive on "Schacht" because he "shows up everywhere". *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 19:09-20:58, 20:20-20:28)*

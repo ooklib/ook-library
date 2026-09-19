@@ -11,6 +11,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the president who inherited [[laos]] from [[dwight-d-eisenhower]], approved and then cancelled the planned bombing ([[operation-milpond]]), and pursued a diplomatic settlement. *([ewa/laos-4](../raw/ewa/Eyes Wide Open - 2024-11-22 - The Paramilitary CIA and the Seeds of a Secret War - LAOS 4.md) 52:54-53:18, 1:08:52-1:09:10)*
@@ -34,3 +36,7 @@ US president from January 21, 1961. In [[eyes-wide-open]] LAOS 4 he is the presi
 ## Additional claims (Operation 40)
 
 - Host: allegedly attended a few Georgetown functions; campaigned on arming exiles; [[operation-40]] exiles later frustrated by his perceived inaction (host's framing). *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 19:31-21:44, 59:16-59:28)*
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: JFK's 1960 win over Nixon by "the slimmest margins"; on the campaign trail he said Cuban exiles should be armed, then wanted any action deniable; rumored Chicago vote help from Giancana (rumor). *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:08:50-1:09:35, 50:10-50:32)*

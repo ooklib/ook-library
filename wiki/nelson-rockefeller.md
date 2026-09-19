@@ -20,6 +20,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Nelson Rockefeller, per [[eyes-wide-open]]'s War Conspiracy 2, was brought in by [[dwight-d-eisenhower]] as special assistant on foreign policy in 1954, then led the private [[special-studies-project]] after resigning in 1955. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 10:20-10:28, 26:34-27:12)*
@@ -37,3 +39,7 @@ Nelson Rockefeller, per [[eyes-wide-open]]'s War Conspiracy 2, was brought in by
 ## Additional claims (Operation 40)
 
 - His WWII Office of the Coordinator of Inter-American Affairs is described as an intelligence front placing spies across Latin America; [[joseph-caldwell-king]] worked there before joining the CIA. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 8:51-9:17)*
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: Eisenhower's Special Assistant on Foreign Affairs while Rockefeller-descended oil majors lobbied against the [[jeddah-agreements]]. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 16:38-16:54)*

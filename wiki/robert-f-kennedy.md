@@ -15,6 +15,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Red Scare, Blackmail, and the Blue Suite [Pt. 5.2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Robert F. Kennedy appears briefly in this episode as a young Justice Department attorney who lost
@@ -38,3 +40,7 @@ anti-Mafia campaign as Attorney General.
 ## Additional claims (Operation 40)
 
 - Host: after the Bay of Pigs the guerrilla operations were reorganized under Operation Mongoose, "Bobby Kennedy's show and his obsession"; Morales allegedly claimed a role in killing both Kennedys. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 5:10-5:29, 46:12-46:32)*
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: an "archenemy of the mob"; his 1960 book *The Enemy Within* named Giancana and Trafficante (per Scott, the CIA then protected them via the plots); his zealous pursuit of the national crime syndicate "in many ways ... spelled he and his brother's undoing". *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 3:11-3:26, 1:14:42-1:16:19, 55:25-55:49)* See [[cia-mafia-assassination-plots]].

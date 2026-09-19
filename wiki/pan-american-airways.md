@@ -18,6 +18,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Pan American Airways (PanAm), founded and long chaired by Juan Trippe, is presented by
@@ -47,3 +49,7 @@ establishment and intelligence world.
 
 
 - Quoting [[peter-dale-scott]], the Laos airlift was a "godsend" to PanAm: charter revenue rose almost 300% in 4 years; profit in 1961 first since 1956; it supplied off-duty pilots and old aircraft to CAT/Air America. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 34:15-35:19)*
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: rival of TWA/Hughes; long-standing ties to Boeing; alongside TWA ushered in the jet age. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 29:32-30:06)*

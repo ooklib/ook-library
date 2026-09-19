@@ -19,6 +19,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Operation 40 is, per [[eyes-wide-open]], the shorthand for an elite group of Cuban exile assets that CIA trainers split off from [[brigade-2506]] in 1960-61. The host uses "Operation 40" as a catch-all label (he says the name never appears in declassified or official CIA material, but exiles have referred to it) for a group he presents as simultaneously a would-be post-Castro intelligence service, an assassination and "purge" unit, and a private, deniable pool of contract operators for later CIA operations. This is the host's argument, not established fact. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 32:16-32:46)*
@@ -64,3 +66,7 @@ Host's summary: Op 40 was the CIA's first foreign-intelligence-apparatus attempt
 - Part of / side project of [[bay-of-pigs-invasion]]; linked to [[brigade-2506]]; sponsored by [[central-intelligence-agency]].
 - Leaders/trainers: [[felix-rodriguez]], [[david-sanchez-morales]], [[e-howard-hunt]]; alleged presence of [[frank-sturgis]], [[barry-seal]].
 - Veterans: [[orlando-bosch]]; supervisors [[ted-shackley]]; [[jm-wave-station]].
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host recap: the previous episode covered Bay of Pigs and the creation of the "Operation 40 death squad project"; this episode adds the parallel CIA-Mafia plots and notes JC King (put in charge of early Op 40 activities by Bissell) and Sheffield Edwards were both West Point grads of 1923 and ex-Army; Cuban exiles Alpha 66 and early militias later showed Army-intelligence involvement. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 8:03-8:19, 1:00:23-1:01:44)* See [[cia-mafia-assassination-plots]].

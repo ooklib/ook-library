@@ -22,6 +22,8 @@ sources:
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md"
     label: "The CIA's OPERATION 40 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 The 1961 CIA-organized invasion of Cuba by anti-Castro exiles. Per Eyes Wide Open, [[e-howard-hunt]] organized it as political liaison to exile groups and trained exile mercenaries in Guatemala; many speculate it was partly financed by [[paul-helliwell]]'s secret banking network, and researchers consider it the Hunt/CIA grievance behind later JFK-plot speculation. The host plans several episodes on it. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:21-6:46, 12:14-12:31)*
@@ -51,3 +53,7 @@ The 1961 CIA-organized invasion of Cuba by anti-Castro exiles. Per Eyes Wide Ope
 - Organization: [[e-howard-hunt]] political officer; camp in Guatemala ([[brigade-2506]]); [[manuel-artime]]'s MRR as "government in arms" so a wider US intervention (Marines, air) could follow; force reached only ~1,500 not 10,000. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 26:16-28:19)*
 - Host: an "open secret" by April 17, 1961, possibly somewhat intentionally. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 25:03-25:31)* Kennedy campaigned on arming exiles while Nixon, bound by the secret, could not respond. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 21:07-21:44)*
 - [[operation-40]] as critical side project. *([ewa/operation-40](../raw/ewa/Eyes Wide Open - 2024-12-13 - The CIA's OPERATION 40.md) 32:09-32:16)*
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: the plots' timing overlaps with the shift of invasion planning from an exile guerrilla campaign to a conventional amphibious assault; host suggests "the agency was reorienting their plans towards failure" that would fall on Kennedy (speculation). *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 1:22:53-1:23:44)* Nixon is said to be an "equal partner" to Dulles in the early plotting. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 8:12-8:26)* See [[cia-mafia-assassination-plots]].

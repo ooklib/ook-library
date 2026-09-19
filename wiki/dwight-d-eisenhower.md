@@ -22,6 +22,8 @@ sources:
     label: "The Origins of the Military-Industrial Complex - War Conspiracy 1 (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arthur Schlesinger, briefed President-elect John F. Kennedy that [[laos]], not Vietnam, was his chief Southeast Asian worry. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 0:44-1:07)*
@@ -49,3 +51,7 @@ Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arth
 - Did not learn of Cuba planning until he asked Dulles in 1960; gave green light March 17, 1960. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 52:22-53:32)*
 - Farewell address of Jan. 17, 1961 quoted; host reads it as ironic or as endorsing covert ops. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 59:23-1:02:11)*
 - See [[new-look-policy]].
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host: Nixon was chosen as a hardline foil to Eisenhower's "grandfatherly moderation" (host: reportedly they did not get along); Nixon was in charge of the Cuba show as his final VP assignment and Dulles "secretly tapped" him behind Eisenhower's back. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 5:45-8:03)*

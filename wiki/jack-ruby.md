@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md"
     label: "Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2 (Eyes Wide Open)"
+  - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
+    label: "The CIA-Mafia Legend (Eyes Wide Open)"
 ---
 
 Jack Ruby (Rubenstein), the Dallas nightclub owner who killed [[lee-harvey-oswald]], is presented by [[eyes-wide-open]] as a late-1950s gunrunner to Cuba, first to Batista's forces for mob friends (Havana casino manager Lewis McWillie, who managed [[meyer-lansky]]'s Tropicana, per the host), also to Castro. *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 39:29-39:53)*
@@ -27,3 +29,7 @@ Jack Ruby (Rubenstein), the Dallas nightclub owner who killed [[lee-harvey-oswal
 ## Relationships
 
 - Killed [[lee-harvey-oswald]]; linked to [[santo-trafficante]], [[meyer-lansky]]; see [[kennedy-assassination]].
+
+## Additional claims (CIA-Mafia Legend)
+
+- Host (citing [[peter-dale-scott]]): Ruby, a Chicago mobster, played a key role in the outfit's wire-service war win and was sent to Dallas alongside a group of [[sam-giancana]] cronies to expand the wire service and the Chicago outfit's influence there. *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 53:07-53:38)*
