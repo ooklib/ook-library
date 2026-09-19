@@ -54,6 +54,8 @@ sources:
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -181,3 +183,7 @@ entire US "UFO legacy program" apparatus, which he dubs "Manhattan Project 2.0."
 ## Additional claims (jm/jorjani-hitler)
 
 - Jorjani argues that the Nazis "created the crisis at Roswell" via saucer launches attributed to Skorzeny and Franco as psychological warfare, while saying not all crashes are Nazi; the National Security Act followed two months later. See [[nazi-saucer-program-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 58:38, 1:02:46, 1:03:07)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says Roswell may have been "exotic human technology" and notes Dornberger's presence at Wright Patterson. See [[levenda-nazi-saucer-lineage-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:14:20, 2:17:15, 2:17:38)*

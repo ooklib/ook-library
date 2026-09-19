@@ -42,6 +42,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 The 22 November 1963 assassination of President John F. Kennedy in Dallas. In this episode Eyes Wide Open covers only [[e-howard-hunt]]'s alleged presence and deathbed confession; the host says his own research indicates a fundamental mob element in the conspiracy. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 6:48-11:00)*
@@ -132,3 +134,7 @@ The 22 November 1963 assassination of President John F. Kennedy in Dallas. In th
 
 - [[danny-sheehan]]'s narrative (2025): the shot from the grassy knoll was fired by [[david-sanchez-morales]] of the [[s-force]], the Nixon-Hughes-Trafficante assassination team repurposed after Kennedy's disarmament turn, with Dulles and the China-lobby network behind it; [[lee-harvey-oswald]] was an intelligence-linked patsy meant to fire a miss to blame Cuba. See [[sheehan-jfk-assassination-claims]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 5:15)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:18:30)*
 - Michels and Rys describe the 2025 JFK file release as confusing, and cite Priscilla Johnson McMillan as a witting CIA asset revealed there. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 4:32)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+[[peter-levenda]] argues the UFO-JFK link through documented people ([[fred-crisman]], [[guy-banister]], [[david-ferrie]], [[clay-shaw]]) and the [[american-orthodox-catholic-church]], plus [[council-of-nine-seance-claims]]; he distrusts the deathbed "alien presence" claim. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 22:32, 1:22:44)*

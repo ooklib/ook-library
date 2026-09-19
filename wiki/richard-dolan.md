@@ -21,6 +21,8 @@ sources:
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Author of *UFOs and the National Security State*, praised by
@@ -68,3 +70,7 @@ mechanisms behind the black-budget infrastructure. *([gerb/saic](../raw/gerb/sai
 ## Additional claims (gerb/dugway)
 
 - Appears in a Quest TV video on "Area 51 to Area 52" with Nick Pope; Gerb criticizes it as presenting no evidence for Dugway. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 1:04:35, 1:04:51, 1:05:13)*)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda met Dolan and Timothy Good at the Amsterdam secret-space-program symposium; Michels calls Dolan a credible advocate of MJ-12's authenticity. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 1:15:32, 3:48:43)*

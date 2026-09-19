@@ -12,6 +12,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 The Avrocar (ASR: "avocar") was a joint US-Canadian disc aircraft project led by John Frost. The source frames it as an attempt to rebuild the Nazi disc program.
@@ -26,3 +28,7 @@ The Avrocar (ASR: "avocar") was a joint US-Canadian disc aircraft project led by
 ## Relationships
 
 - Reported to have moved under [[wright-patterson-air-force-base]]; linked to [[operation-paperclip]] engineers.
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda recalls a plastic model of the Avrocar from his childhood, says it moved to Wright Patterson as Project Y and was possibly a front, and notes Coanda consulted. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:18:06, 2:19:17)*

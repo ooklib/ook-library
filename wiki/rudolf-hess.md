@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Deputy Fuhrer of Nazi Germany who flew to Scotland in 1941; imprisoned for life. [[jason-jorjani]] claims Hess was one of the principal men sent to Antarctica before the war and that his flight was an unauthorised final peace or alliance proposal to about 30 pro-Hitler British parliamentarians (Hitler having made three peace offers). Jorjani asks why Hess was quarantined until his death and what he knew or saw in Antarctica. The Antarctic claim is unverified (Hess is not generally recorded as a member of the 1938-39 expedition), and the interview also mentions Hess as a Steiner admirer.
@@ -21,3 +23,7 @@ Deputy Fuhrer of Nazi Germany who flew to Scotland in 1941; imprisoned for life.
 ## Relationships
 
 - See [[antarctica-atlantis-nazi-claims]], [[jorjani-hitler-interview-2025]].
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says Hess believed in astrology and telepathy and timed his flight astrologically; Ewen Cameron of Montreal evaluated whether he was a double; Hitler jailed occultists afterward. See [[levenda-nazi-saucer-lineage-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 3:28:24, 3:30:07, 3:30:35)*

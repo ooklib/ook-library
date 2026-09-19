@@ -18,6 +18,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Jacques Vallee is the French-American computer scientist and ufologist whose books (notably Messengers of Deception) and published journals are the main intellectual frame for guest [[jason-samosa]] in the `jm/cover-up` episode. The episode uses him as a source for a "control system" or belief-shaping reading of UFOs, for the AAWSAP-era journals, and as validation of the Tom DeLonge/Podesta story. This page records what the episode attributes to him; the wiki treats these as claims about his positions.
@@ -47,3 +49,7 @@ Jacques Vallee is the French-American computer scientist and ufologist whose boo
 
 - [[jason-jorjani]] says Vallee declined to be direct about the time-travel/breakaway-civilization and religious dimensions of the phenomenon because of the "sociological" risk to religious belief; he also says Vallee gave him a book titled on Satan with 666 pages and remarked the French see the devil less sensationally. Vallee's *Wonders in the Sky* is cited for 15th-century sky-battle broadsheets and *Passport to Magonia* for the Agobard story. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 42:18, 43:19, 45:14, 51:00, 57:11)*
 - Michels relays that Vallee judged some Billy Meier photos plausible only with ILM-level access. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 2:46:39)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda met Vallee at the Austin meeting and says Vallee's "control mechanism" idea matches his own view; Michels calls Vallee roughly gnostic. See [[austin-to-the-stars-meeting]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 3:53:13, 1:24:42, 1:50:32)*

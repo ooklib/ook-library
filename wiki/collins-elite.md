@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 The Collins Elite is a name used in ufology for a purported group or program investigating whether UFOs are demonic. In the `jm/cover-up` episode [[jason-samosa]] says the label is used by insiders (naming [[jacques-vallee]] and [[george-knapp]]) to refer to multiple things, and that he cannot say with confidence who they are.
@@ -33,3 +35,7 @@ The Collins Elite is a name used in ufology for a purported group or program inv
 
 - Funded by (alleged) the [[central-intelligence-agency]] Directorate of Plans, 1952.
 - Possibly conflated with [[the-family-fellowship]].
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says he does not know how real it is and thinks such groups are informal religious attitudes in Congress, military and intelligence that block UFO study. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 4:10:33, 4:11:02)*

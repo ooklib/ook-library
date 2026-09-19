@@ -23,6 +23,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md"
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Dr. James T. Ryder served nearly 40 years at [[lockheed-martin|Lockheed Martin]], culminating as
@@ -74,3 +76,7 @@ recovered UFO materials via the [[operation-kona-blue|Kona Blue]] PAP. Ryder die
 ## Additional claims (jm/nasa-pagan)
 
 - Michels: former Lockheed Martin VP and Skunk Works director who in 2018 gave a talk called "The Garment of God" on mysticism, consciousness and technological progress, and a separate UAP lecture discussing ritual altered states. See [[sekret-machines-project]]. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 56:56-57:25)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Michels cites Ryder's Lucis Trust talk (devas, angels, mind-matter connection) as a Lockheed Martin VP, and Levenda says such religious framing is a fallback in Congress. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 4:08:18, 4:10:00)*

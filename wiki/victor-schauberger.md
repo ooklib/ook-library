@@ -14,6 +14,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Austrian inventor of an inward-flowing "impeller" (ASR: "Victor shurger", "sha bger"), said to have worked for the German saucer program.
@@ -34,3 +36,7 @@ Austrian inventor of an inward-flowing "impeller" (ASR: "Victor shurger", "sha b
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]] lists Miethe, Schriever, Habermohl and Schauberger-type disc-craft stories (with a Pilsen Skoda works angle) as evidence of Nazi disc experiments, arguing a middle ground of partial success; Miethe's 1952 French-newspaper interview is cited. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:12:13, 1:12:22, 1:13:06, 1:14:41)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda lists Schauberger's saucer-shaped "impeller" among documented projects. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:15:18)*

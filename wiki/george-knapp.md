@@ -18,6 +18,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 George Knapp, Las Vegas investigative journalist (KLAS-TV), has reported for decades on Area 51,
@@ -57,3 +59,7 @@ George Knapp, Las Vegas investigative journalist (KLAS-TV), has reported for dec
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]]: DeLonge appeared on Coast to Coast with Knapp in 2011, and Knapp used the "Collins Elite" label. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 16:19, 45:11)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says Knapp's questioning of Bob Lazar was artful. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 4:22:07)*

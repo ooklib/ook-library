@@ -117,6 +117,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -339,3 +341,7 @@ calls him "arguably one of, if not the most important person in modern American 
 ## Additional claims (jm/jorjani-hitler)
 
 - Jorjani says Allen and John Foster Dulles helped fund the rise of the Nazis and that the Dulles-era CIA absorbed SS networks. See [[nazi-deep-state-infiltration-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 2:25:07, 2:25:22)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says Dulles's partner Mary (ASR "Mary Douglas") was best friend of Ruth Forbes Paine Young, and that as a Warren Commission member he cut off Ruth Paine's testimony. See [[council-of-nine-seance-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 16:19, 21:45)*

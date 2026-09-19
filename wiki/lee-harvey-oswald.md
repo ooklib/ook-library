@@ -30,6 +30,8 @@ sources:
     label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Lee Harvey Oswald is treated by [[eyes-wide-open]] only in his pre-assassination context: allegedly a Louisiana [[civil-air-patrol]] cadet under [[david-ferrie]] in 1955 alongside [[barry-seal]], and later a Marine posted at a top-secret U-2 spy plane base in Japan around 1957, "an unusual assignment for an allegedly mediocre soldier and pilot." *([ewa/war-conspiracy-2](../raw/ewa/Eyes Wide Open - 2024-12-06 - Eisenhower, Bananas, and the CIA Imperium - War Conspiracy 2.md) 43:04-44:25)*
@@ -70,3 +72,7 @@ Lee Harvey Oswald is treated by [[eyes-wide-open]] only in his pre-assassination
 ## Claims (jm/sheehan)
 
 - Sheehan says Oswald was trained by the Office of Naval Intelligence, worked in a private political-spying operation with [[guy-banister]] in New Orleans, infiltrated the Free Cuba group as a fake Marxist, and was set up to fire a miss at the motorcade before real shots killed Kennedy; the CIA had a file on him since 1959 and Ruben Efron's mail intercept read his mail. See [[sheehan-jfk-assassination-claims]], [[ruth-paine]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:14:50)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:18:30)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 11:11)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda's chain from a 1952-53 Maine seance through the [[arthur-young]] family to [[ruth-paine]], and his Maeterlinck "Alec" coincidence, are in [[council-of-nine-seance-claims]] and [[prescient-fiction-synchronicity-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 18:33, 1:24:33)*

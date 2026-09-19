@@ -22,6 +22,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 The early-1970s Watergate burglary and scandal. Eyes Wide Open notes only that [[e-howard-hunt]] was one of Nixon's "plumbers", a secret group of White House political fixers, planned and executed the burglary, testified to the Senate Watergate committee and served 33 months. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 9:10-9:42)*
@@ -57,3 +59,7 @@ The early-1970s Watergate burglary and scandal. Eyes Wide Open notes only that [
 ## Claims (jm/sheehan)
 
 - Sheehan says the burglary was aimed at Larry O'Brien, ex-Hughes lobbyist, because Nixon feared O'Brien would reveal that Nixon had commissioned the [[s-force]]; McCord (Dulles's protege) refused to plead guilty, and Sheehan says the lawyer Bailey who brought him onto the defense was on the CIA's 'index 4'. See [[sheehan-jfk-assassination-claims]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:28:44)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:29:54)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:30:59)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says he read three newspapers a day during Watergate, felt it defied ordinary political analysis, and that shredders ran overtime at Bendix's international division, where he worked, because of field-engineering paperwork; see [[bendix-field-engineering]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 3:59, 4:15, 4:24:03)*

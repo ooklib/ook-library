@@ -14,6 +14,8 @@ sources:
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Richard "Rick" Doty (rendered "Rick Dodie" in the ASR transcript), a former AFOSI
@@ -54,3 +56,7 @@ initiatives, yet remains controversial. *([gerb/hidden_wing](../raw/gerb/hidden_
 ## Additional claims (jm/townsend-brown)
 
 - Alleged to have deceived Paul Bennewitz and Linda Molton with materials resembling Lazar's documents; host reads as coordinated disinformation. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 36:12-37:07)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says Doty "messed with everybody in the UFO community"; Michels adds Doty's role with Paul Bennewitz. See [[non-lethal-warfare-ufo-psyop-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:41:16, 2:41:27)*

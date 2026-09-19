@@ -24,6 +24,8 @@ sources:
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Operation Paperclip is described by [[eyes-wide-open]] in chapter 5 of [[road-to-dallas]] as "the oft-discussed US counterintelligence corps directed program that sought to smuggle out German rocket scientists in the immediate post-war period and to install them in positions in the nascent military-industrial complex and eventually at NASA." *([ewa/dallas-5](../raw/ewa/Eyes Wide Open - 2025-12-12 - The Secret History of the Havana Hilton - The Road to Dallas Chapter 5.md) 19:38-19:56)* This page is a light stub scoped to that video; other wiki pages ([[wernher-von-braun]], [[counter-intelligence-corps]], [[hans-kammler]]) discuss Paperclip from other sources.
@@ -61,3 +63,7 @@ Operation Paperclip is described by [[eyes-wide-open]] in chapter 5 of [[road-to
 ## Additional claims (jm/jorjani-hitler)
 
 - Jorjani says Paperclip was only part of a larger absorption of SS networks, including the Gehlen organization, into the CIA, and that the CIA sanitized the scientists' files; he calls it a "homecoming" of Nazi field-laboratory results. See [[nazi-deep-state-infiltration-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 59:05, 1:00:23, 2:25:31)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says the Soviets ran a larger version (3,000+ scientists) and that US trust in Nazi scientists was ideologically costly; see [[levenda-nazi-saucer-lineage-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:09:29, 2:22:47, 2:23:46)*

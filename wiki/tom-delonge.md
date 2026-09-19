@@ -26,6 +26,8 @@ sources:
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Musician who founded [[to-the-stars-academy|To the Stars Academy]], publicly launched on Joe
@@ -81,3 +83,7 @@ Rogan Experience episode 1029 (26 October 2017). ASR-transcribed as "Tom Dong" i
 - Samosa cites the hacked Podesta emails (about 35 exchanges) and a meeting with McCasland, Kerry, Robert Vice and [[john-podesta]], and says [[jacques-vallee]]'s journals validate the contacts; DeLonge had been on Coast to Coast with [[george-knapp]] in 2011. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 39:59, 40:06, 45:11)*
 - DeLonge reportedly said his advisers went quiet when he asked about hybrids, and early on tied some Iraq activity to groups connected with non-human entities. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 2:08:38, 2:15:32)*
 - Samosa suspects the project reflected confluence of DeLonge's organic interest and government interest, tied to 2013 White House "confirmation" rumors. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 41:25, 43:19)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says DeLonge contacted him in November 2014, pitched "knocking on doors", and asked for a short document that became the [[cargo-cult-contact-thesis]]; DeLonge relayed emails from an unnamed adviser pointing at Prometheus. He hosted the [[austin-to-the-stars-meeting]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 1:13:24, 1:38:06, 1:48:14)*

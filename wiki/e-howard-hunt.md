@@ -50,6 +50,8 @@ sources:
     label: "Cactus Jack Canon Does Havana - The Road to Dallas Chapter 3 (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 E. Howard Hunt, the "Spook," is presented by Eyes Wide Open as a founding CIA member who began under Helliwell's OSS Detachment 202 in China, ran CIA operations from Mexico, helped organize the 1954 Guatemala coup and the Bay of Pigs, became a Nixon "plumber" in Watergate, and left a disputed deathbed confession about the Kennedy assassination. He wrote spy novels under pen names. *([ewa/detachment-202](../raw/ewa/Eyes Wide Open - 2023-09-04 - SPY STORIES OSS Detachment 202 - Secret Cold Warriors [pt. 5.4].md) 4:48-5:29)*
@@ -110,3 +112,7 @@ E. Howard Hunt, the "Spook," is presented by Eyes Wide Open as a founding CIA me
 ## Claims (jm/sheehan)
 
 - Sheehan says Hunt was liaison to the Everglades exile group, arrested with them by Kennedy's marshals. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 41:04)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says Hunt wrote at least three occult novels attacking the Kennedys as Satan worshippers and lived on "Witches Island", and that a colleague from Hunt's Robert Mullen Company front sat beside him at a Queens job around 1979-80. Hunt's lawyer Douglas Caddy reportedly said Hunt claimed JFK died over "the alien presence"; Levenda accepts only Hunt's deathbed claim of a CIA-related plot. Hunt may have been one of the Dallas "hobos", a rumor Levenda repeats. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 6:15, 7:16, 9:54, 10:38, 24:24)*

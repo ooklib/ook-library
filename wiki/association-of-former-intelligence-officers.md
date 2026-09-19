@@ -13,6 +13,8 @@ sources:
     label: "David Atlee Phillips: the Spy's Spy - The Road to Dallas Chapter 2 (Eyes Wide Open)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 AFIO is, per [[eyes-wide-open]] in chapter 2 of [[road-to-dallas]], the Association of Former Intelligence Officers, founded in 1975 by [[david-atlee-phillips]] in response to the scrutiny of the 1975 "year of intelligence" hearings ([[church-committee]]); host notes it "still exists to this day." *([ewa/dallas-2](../raw/ewa/Eyes Wide Open - 2025-11-21 - David Atlee Phillips_ the Spy's Spy - The Road to Dallas Chapter 2.md) 7:33)*
@@ -34,3 +36,7 @@ AFIO is, per [[eyes-wide-open]] in chapter 2 of [[road-to-dallas]], the Associat
 ## Additional claims (rc/mj12)
 
 - [[geoffrey-cruickshank]] says [[scotty-miller]] was president of the New Mexico chapter and observed [[timothy-cooper]] at meetings before leaking to him. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 26:40-27:14)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says a Las Vegas AFIO meeting welcomed [[michael-aquino]], and that his Queens coworker Arthur Hawkberg, an ex-CIA colleague of Hunt, talked about AFIO about ten years before Levenda was invited to one. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:36:48, 9:17)*

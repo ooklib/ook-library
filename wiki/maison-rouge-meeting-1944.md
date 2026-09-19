@@ -18,6 +18,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 The Maison Rouge meeting is a purported secret meeting, dated by [[jason-samosa]] to around August 10, 1944 and placed in Paris, at which Martin Bormann assembled German industry leaders to plan the mass evacuation of German industry, technology, people and money as the war turned. The wiki records it as Samosa's account, built on [[peter-levenda]]'s documentation and a State Department document.
@@ -35,3 +37,7 @@ The Maison Rouge meeting is a purported secret meeting, dated by [[jason-samosa]
 
 - Precursor, in Samosa's narrative, to the [[world-commerce-corporation]] and the [[maynard-consortium]] parallel.
 - Related: [[operation-paperclip]], [[nazi-occultism-claims]].
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says a June 1945 US Congressional report (about two inches thick) documented the meeting and Germany's overseas holdings, including South American estates. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:11:48, 2:12:41)*

@@ -149,7 +149,7 @@ which transcripts still await ingestion.
 | `jm/sheehan` | `raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md` | UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels) | true |
 | `jm/jorjani-religion` | `raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md` | Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels) | true |
 | `jm/jorjani-hitler` | `raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md` | I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels) | true |
-| `jm/levenda` | `raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md` | CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels) | false |
+| `jm/levenda` | `raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md` | CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels) | true |
 | `jm/nasa-chief` | `raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md` | NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels) | false |
 | `jm/censored-book` | `raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md` | Why The Pentagon Tried To Censor This UFO Book (Jesse Michels) | false |
 | `jm/cover-up` | `raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md` | The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels) | true |

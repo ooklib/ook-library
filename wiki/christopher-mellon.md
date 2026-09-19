@@ -31,6 +31,8 @@ sources:
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Former deputy assistant secretary of defense for intelligence and a UFO-disclosure-advocate
@@ -68,3 +70,7 @@ figure Gerb repeatedly discusses as possibly "knowing more than he's saying."
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says Mellon and Elizondo are told "to tell part of the truth"; Michels asks how that squares with [[paul-mellon]], whom Greer names as a CIA founder-era figure; Greer does not directly answer. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 21:25-21:58, 1:27:23-1:27:28)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda met Mellon in Austin; see [[austin-to-the-stars-meeting]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 3:53:13)*

@@ -10,6 +10,8 @@ sources:
     label: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Hermann Oberth, "father of German rocketry" and mentor to [[wernher-von-braun]], performed
@@ -26,3 +28,7 @@ extensive study on UFOs, per Gerb. *([gerb/saic](../raw/gerb/saic.md) 1:10:31–
 ## Claims (jm/cover-up)
 
 - [[jesse-michels]] says an audio exists of Oberth saying the Germans had help, and that Japanese researcher Takano Joseen met him and discussed UFOs; Oberth "truly respected the beings actually riding in UFOs". *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:11:09, 1:11:27, 1:11:43, 1:11:59)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Michels cites Oberth as on record saying non-human intelligence helped build rockets; Levenda agrees the theme appears in *Sekret Machines*. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:08:30)*

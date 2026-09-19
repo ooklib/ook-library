@@ -14,6 +14,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Jim Semivan is described in the `jm/cover-up` episode as a To The Stars Academy adviser and a senior CIA executive ("two people under the CIA director"). Attributed claims:
@@ -30,3 +32,7 @@ Jim Semivan is described in the `jm/cover-up` episode as a To The Stars Academy 
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says Semivan and [[luis-elizondo]] gaslight Congress by blending the three categories; Michels says Chris Bledsoe (Hal Puthoff's contact) was intercepted by Semivan. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 52:19-52:33, 2:38:27-2:38:53)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says Semivan openly described an abduction experience he and his wife had while high in CIA and asks what security implications followed; see [[austin-to-the-stars-meeting]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 3:59:44, 4:00:25)*

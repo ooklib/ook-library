@@ -43,6 +43,8 @@ sources:
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md"
     label: "JFK and the CIA (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 J. Edgar Hoover was the first, long-time director of the
@@ -129,3 +131,7 @@ US foreign intelligence functions during the run-up to the CIA's creation.
 
 
 - Host's speculation: Hoover wanted to absorb international intelligence functions into the Bureau and may have planted loyal agents in the new CIA in 1947, pointing to [[william-harvey]] and [[robert-maheu]] both leaving the FBI that year; the official story is that Harvey resigned after Hoover ordered him to Indianapolis. *([ewa/jfk-cia](../raw/ewa/Eyes Wide Open - 2025-09-05 - JFK and the CIA.md) 1:12:42-1:14:04)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says Hoover received teletyped UFO reports from [[guy-banister]] and personally vetted priests of the [[american-orthodox-catholic-church]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 23:35, 55:09)*

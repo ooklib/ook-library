@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Whitley Strieber is the author of *Communion* and the archetypal 1980s abductee/contactee. In the `jm/jorjani-religion` episode he is discussed by [[jesse-michels]] and [[jason-jorjani]], including a light-hearted on-camera touch of the alleged implant in his ear.
@@ -24,3 +26,7 @@ Whitley Strieber is the author of *Communion* and the archetypal 1980s abductee/
 ## Relationships
 
 - Related: [[jorjani-michels-interview-2025]], [[james-jesus-angleton]], [[sidney-gottlieb]].
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says Strieber contacted him years earlier, a chapter of *Communion* covers their emails, and Strieber told him a loud buzzing and knocking at 2 a.m. was "just the visitors saying hello". *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 1:18:00, 2:55:15)*

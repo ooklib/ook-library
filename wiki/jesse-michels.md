@@ -35,6 +35,8 @@ sources:
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Jesse Michels is the host of the American Alchemy YouTube channel (registry channel `jm`), which conducts long-form interviews on UFO/UAP, deep politics and secret science. The channel's sponsor/advertisement segments are not recorded in this wiki.
@@ -85,3 +87,7 @@ Jesse Michels is the host of the American Alchemy YouTube channel (registry chan
 ## Additional claims (jm/jorjani-hitler)
 
 - Interviews [[jason-jorjani]] again in [[jorjani-hitler-interview-2025]] on Nazi saucer technology and SS survival in the deep state; Michels is sympathetic, adds Coanda's 1937 saucer patent and Tesla/Townsend Brown independent-invention context, and pushes back on the Nazi-Nordic alliance, JFK disarmament, communism and Ted Owens. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 53:54, 54:35)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Interviewed [[peter-levenda]] for a 4h40m episode: [[levenda-michels-interview-2025]]. Michels supplies the Sheehan-style "S force" JFK narrative and many synchronicity examples himself ([[prescient-fiction-synchronicity-claims]]), and notes his own disbelief in secret-space-program lore. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 11:26, 1:25:22, 1:18:26)*

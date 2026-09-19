@@ -53,6 +53,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
@@ -196,3 +198,7 @@ Comparison with Gerb: rc/mj12 agrees that MJ-12 personnel/dates line up with rea
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer calls MJ-12 the old name of his alleged transnational organization, cites "Magic/Magi" from a 1990s NRO document and Detlev Bronk's role, and warns MJ-12 documents may have been seeded by [[james-jesus-angleton]]-style counterintelligence. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 23:21-23:48, 54:18-54:32, 58:35-58:59)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda tells Stanton Friedman he thinks the MJ-12 documents "look real" and are a very good hoax if hoax; [[michael-aquino]] separately told him "MJ" meant non-terrestrial biologics in Space Command. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 3:50:53, 3:51:40, 3:49:41)*

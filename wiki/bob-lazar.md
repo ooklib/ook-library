@@ -21,6 +21,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Bob Lazar claimed to have been hired by [[eg-and-g|EG&G]] to reverse-engineer UFO propulsion
@@ -47,3 +49,7 @@ systems at Area 51's S4 site. *([gerb/saic](../raw/gerb/saic.md) 1:21:52–1:22:
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says he has found no one to corroborate Lazar's presence at S4 and thinks he saw something but was given a mix of true and false information in a controlled leak, like Rick Doty's operation on Linda Moulton Howe and Paul Bennewitz. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 56:33-58:13)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says Lazar's Bendix Field Engineering badge raises his credence, because he knows that division served as cover; see [[bendix-field-engineering]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 4:22:53, 4:24:37)*

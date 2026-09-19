@@ -19,6 +19,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Director of numerous Nazi special-weapons projects (ASR-transcribed as "Hans Comler," likely
@@ -42,3 +44,7 @@ was claimed to be working with Americans afterward. *([gerb/saic](../raw/gerb/sa
 ## Additional claims (jm/jorjani-hitler)
 
 - Jorjani credits a project under Kammler with developing [[the-bell]] in parallel to the Skoda saucer airframes. See [[nazi-saucer-program-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 42:26, 45:00)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda cites Skoda Works under Kammler as documented saucer work, and repeats Speer's remark that Kammler was the most ruthless man he had to work with, plus a plan to assassinate Hitler. See [[levenda-nazi-saucer-lineage-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:15:00, 2:16:23)*

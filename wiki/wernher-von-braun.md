@@ -21,6 +21,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Wernher von Braun, Nazi V2 rocket scientist transferred to the US via Operation Paperclip,
@@ -51,3 +53,7 @@ commanded the [[army-ballistic-missile-agency|Army Ballistic Missile Agency]].
 ## Additional claims (jm/jorjani-hitler)
 
 - Jorjani alleges von Braun, an SS major, passed classified data to Nazi counterparts in Argentina at Mexican border towns while in Texas, and that a V-2 went astray into Mexico as a warning when confronted. See [[nazi-deep-state-infiltration-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 1:05:32, 1:06:23)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda notes von Braun's Nazi-era program was transplanted into NASA, and that in his Rhode Island Men-in-Black story the name the women asked about matched a company a former Huntsville engineer who had met von Braun had once recommended; see [[levenda-nazi-saucer-lineage-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:22:04, 2:51:08)*

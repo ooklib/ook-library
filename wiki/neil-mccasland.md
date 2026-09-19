@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 General William Neil McCasland is described in the `jm/cover-up` episode as a general who ran the Air Force Research Laboratory at Wright-Patterson, where Roswell wreckage was rumored to have been taken, and as a key adviser of [[tom-delonge]]. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 33:42, 38:14)*
@@ -27,3 +29,7 @@ General William Neil McCasland is described in the `jm/cover-up` episode as a ge
 ## Relationships
 
 - Adviser to [[tom-delonge]]; alleged Podesta meeting participant.
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Michels raised McCasland and Rob Weiss as senior officials drawn to Levenda and DeLonge; Levenda does not comment on them directly. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 1:12:49, 1:13:24)*

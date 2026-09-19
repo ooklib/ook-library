@@ -17,6 +17,8 @@ sources:
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Nuclear physicist turned UFO researcher. In 1983 he learned of Smith's 1950 memo and tracked down [[robert-sarbacher]]; he is also credited by Gerb with making the MJ-12 documents public. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 11:22-11:44, 15:37-15:44)*
@@ -30,3 +32,7 @@ Nuclear physicist turned UFO researcher. In 1983 he learned of Smith's 1950 memo
 
 - Friedman authenticated the [[eisenhower-briefing-document]] members, traced the 18 Nov 1952 briefing at the National Archives and Hillenkoetter's whereabouts; wrote *Top Secret/Majic*; he said EBD, TFM, CTM are "almost certainly genuine" and the Psalm 101 memo "very likely genuine". *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 10:20, 14:37)*
 - Gerb credits him with "gray basket" for undecided documents and with being hired by [[dr-robert-wood]] to study UFO propulsion physics. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:06:31, 1:26:08)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says he told Friedman at Contact in the Desert that the MJ-12 documents look real after research at the archives. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 3:50:53)*

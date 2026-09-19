@@ -12,6 +12,8 @@ sources:
     label: "THE HISTORY OF THE CIA - Operation Sunrise and the Plan for a New Europe [Pt. 2] (Eyes Wide Open)"
   - file: "raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md"
     label: "The CIA-Mafia Legend (Eyes Wide Open)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Hjalmar Schacht was Hitler's personal banker, saved from Nuremberg sentencing by
@@ -40,3 +42,7 @@ preserve useful Nazi elements after the war.
 ## Additional claims (CIA-Mafia Legend)
 
 - Host: hired by [[aristotle-onassis]] as intermediary in the [[jeddah-agreements]] talks; described as Hitler's economic minister for three years, Reichsbank president until 1939, held in a concentration camp at the war's end over the assassination attempt, spared at Nuremberg via Donovan and Dulles letters; Maheu's smear campaign used his role to imply Onassis backed German rearmament. Host says he needs a deep dive on "Schacht" because he "shows up everywhere". *([ewa/cia-mafia](../raw/ewa/Eyes Wide Open - 2024-12-20 - The CIA-Mafia Legend.md) 19:09-20:58, 20:20-20:28)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says Schacht visited Sukarno urging a Muslim bloc and an anti-IMF fund tied to Nazi gold. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 2:13:40)*

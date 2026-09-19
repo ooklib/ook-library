@@ -29,6 +29,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 To the Stars Academy, founded by musician [[tom-delonge|Tom DeLonge]] ("Tom Dong" per ASR),
@@ -89,3 +91,7 @@ EVP Rob Weiss, and 30+-year Skunk Works veteran Steve Justice. *([gerb/nro](../r
 ## Claims (jm/cover-up)
 
 - [[jason-samosa]]: [[jim-semivan]] is described as an adviser and senior CIA executive; the [[tom-delonge]] story is reviewed with Podesta emails. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 35:03, 1:15:32)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Levenda says a sample of material reached the group via Art Bell, that military lab relationships halted at COVID, and that Steve Justice wanted to know how saucers fly. See [[austin-to-the-stars-meeting]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 4:20:29, 4:21:47)*

@@ -15,6 +15,8 @@ sources:
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Jason Reza Jorjani is an Iranian-American philosopher and author (14 books by his count), including *Prometheus and Atlas* (dissertation 2012, book 2016), *World State of Emergency*, *Prometheism*, *Lovers of Sophia* and *Closer Encounters* (2021, his UFO study), with a forthcoming afterlife book, *Thanosis*. He publishes on Substack. He says he has studied the UFO phenomenon for about 25 years and describes himself as a philosopher using ufology material, not a ufologist. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 36:47, 1:37:05, 3:17:59)* Named in ASR as "Georgiani". His positions here are his own speculation; the wiki records them as attributed claims.
@@ -48,3 +50,7 @@ Jason Reza Jorjani is an Iranian-American philosopher and author (14 books by hi
 - Frames 1945-2045 as a century of social engineering toward a "thousand-year Reich" ([[thousand-year-reich-worldview-war-claims]]) and proposes Antarctica as Atlantis ([[antarctica-atlantis-nazi-claims]]). *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 1:24:06, 1:38:16)*
 - Describes Nordic rebels sheltered in the Colorado Rockies ([[nordic-rebels-underground-railroad-claims]]), Nazi impersonation of contactees ([[nazi-contactee-impersonation-claims]]), soul harvesting ([[soul-harvesting-control-system-claims]]), Missing 411 ([[missing-411-claims]]) and a trickster AI ([[trickster-ai-and-god-as-test-claims]]). *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 2:08:25, 2:16:36, 2:26:16, 2:59:28, 3:05:51)*
 - Says he was invited to a Knights of Malta initiation by a man known for blackmail recordings and declined. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 2:23:54)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+Michels mentions the Jorjani episode to Levenda, who says he disagrees with Jorjani's Traditionalist premises. See [[celestial-ascent-claims]]. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 4:13:39, 4:14:25)*

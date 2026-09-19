@@ -28,6 +28,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
+    label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
 
 Physicist Hal Puthoff sponsored Ferris Williams's propulsion research presented at a June 2001
@@ -80,3 +82,7 @@ UFO technology conference in La Jolla, San Diego. *([gerb/saic](../raw/gerb/saic
 ## Claims (jm/sheehan)
 
 - Sheehan says Puthoff is more knowledgeable than almost anyone, has probably worked on or seen a craft, and does not say everything he knows; see [[scientology-remote-viewing-claims]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:57:47)*
+
+## From Peter Levenda on American Alchemy (jm/levenda)
+
+At the [[austin-to-the-stars-meeting]] Puthoff reportedly said "we need a SCIF for this one" when Skinwalker Ranch was raised; Levenda cites his Rogan remark of 15 crash craft and calls him cautious. *([jm/levenda](<../raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md>) 3:55:28, 4:27:04)*
