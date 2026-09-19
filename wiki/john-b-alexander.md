@@ -17,6 +17,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
+    label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
 ---
 
 Colonel John B. Alexander supervised the 1985 "Advanced Theoretical Physics Working Group"
@@ -34,3 +36,7 @@ facility. *([gerb/saic](../raw/gerb/saic.md) 46:24–46:42)*
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says Alexander ("Colonel Alexander") is a career debunker whose job is to deflect, that he was [[robert-bigelow]]'s counsel and mentor of [[luis-elizondo]], and that he steered the $22 million [[harry-reid]] helped fund. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 43:14-43:26, 2:08:37-2:09:52)*
+
+## From Jason Jorjani on American Alchemy (jm/jorjani-religion)
+
+- [[jason-jorjani]] says Alexander reported the Skinwalker Ranch camera "time-cut" incident, told him of overhearing telepathic Nordics in a Las Vegas hotel casino, and argues that Alexander's claim that no Majestic-like group exists reflects ego; he adds he heard Alexander might "represent the power structure" but did not sense that himself. Michels says Alexander threatened Martin Cannon over *The Controllers*. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 1:50:19, 1:51:12, 3:01:35)*

@@ -7,6 +7,8 @@ relations: []
 sources:
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
+    label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
 ---
 
 Robert Maxwell, the publisher and father of Ghislaine Maxwell, appears in the `jm/cover-up` episode as a proposed node of the transnational network. Claims by [[jason-samosa]] and [[jesse-michels]] (speculative):
@@ -17,3 +19,7 @@ Robert Maxwell, the publisher and father of Ghislaine Maxwell, appears in the `j
 ## Relationships
 
 - Father of Ghislaine Maxwell; associated with [[jeffrey-epstein]].
+
+## From Jason Jorjani on American Alchemy (jm/jorjani-religion)
+
+- [[jason-jorjani]] describes Maxwell as a triple agent (MI6, KGB, Mossad) who may have gatekept propulsion papers through Pergamon Press, and calls the Pergamon name (Satan's throne) no accident; a friend of Jacques Cousteau. See [[epstein-atlantis-gravity-claims]]. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 2:30:53, 2:31:13, 2:36:51)*

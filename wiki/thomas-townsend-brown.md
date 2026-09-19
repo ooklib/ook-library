@@ -53,6 +53,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
+    label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
 ---
 
 Thomas Townsend Brown, associated with the [[biefeld-brown-effect]] and alleged antigravity research. In the Malmgren interview he is central to Malmgren's late-life research.
@@ -104,3 +106,7 @@ Jesse Michels' 2024 documentary, based on Paul Schatzkin's biography *The Man Wh
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer places his work in the late 1920s electrogravitics lineage feeding RAND, cites a claimed Tesla-Brown submarine collaboration via foreign intelligence (relayed by Michels from [[harald-malmgren]]), and, when Michels says [[eric-davis]] called Brown a phony, replies that Brown was counterintelligence and that he has known this since the early 2000s (Greer's claim). *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 11:48-12:47, 1:16:53-1:17:48, 1:28:52-1:29:07)*
+
+## From Jason Jorjani on American Alchemy (jm/jorjani-religion)
+
+- Michels lists Townsend Brown's dynamic-ether/Tesla line as one candidate physics; Jorjani says the point is that different models suit different tools. Jorjani ties Brown's Nassau gravity expeditions to Epstein's Bahamas gravity interest; see [[epstein-atlantis-gravity-claims]]. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 28:37, 2:35:41)*

@@ -22,6 +22,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
+    label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
 ---
 
 Howard Hughes is the aviation billionaire [[eyes-wide-open]] uses to illustrate wartime
@@ -96,3 +98,7 @@ page also covers his firms Hughes Aircraft Company and Transworld Airline (TWA).
 
 - [[danny-sheehan]] says Nixon, as 5412 Committee chair, asked Hughes (a consultant to the committee who designed the Spruce Goose and the Glomar Explorer) in June 1960 to set up an assassination team against Castro, and Hughes had lawyer [[robert-maheu]] enlist [[johnny-roselli]], Sam Giancana and [[santo-trafficante]]; Sheehan declines to reveal other sensitive Hughes programs but says they were not UFO-related. See [[sheehan-jfk-assassination-claims]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 14:14)* *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 19:22)*
 - Larry O'Brien is said to have been Hughes's chief Washington lobbyist, which Sheehan uses to explain Nixon's Watergate bugging of O'Brien. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 1:29:03)*
+
+## From Jason Jorjani on American Alchemy (jm/jorjani-religion)
+
+- Jorjani says Hughes used to land at George Van Tassel's airstrip and eat his wife's pie; Michels repeats the RFK Jr. claim that Bob Maheu, Hughes's counsel, set up the Robert Kennedy killing. See [[contactee-nordic-racialism-claims]]. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 2:40:06, 3:01:01)*

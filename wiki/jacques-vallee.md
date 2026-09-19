@@ -16,6 +16,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
+    label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
 ---
 
 Jacques Vallee is the French-American computer scientist and ufologist whose books (notably Messengers of Deception) and published journals are the main intellectual frame for guest [[jason-samosa]] in the `jm/cover-up` episode. The episode uses him as a source for a "control system" or belief-shaping reading of UFOs, for the AAWSAP-era journals, and as validation of the Tom DeLonge/Podesta story. This page records what the episode attributes to him; the wiki treats these as claims about his positions.
@@ -40,3 +42,8 @@ Jacques Vallee is the French-American computer scientist and ufologist whose boo
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says Vallee ("great guy") became compromised in the 1980s by the Alexander/Stubblebine circle, holds a CIA document (1985 entry in his 1992 book) on staged abductions in Argentina and Brazil for psychological-warfare value, and refused to release it. Michels defends Vallee as deeper. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 53:20-54:00, 2:12:50-2:14:01)*
+
+## Claims (jm/jorjani-religion)
+
+- [[jason-jorjani]] says Vallee declined to be direct about the time-travel/breakaway-civilization and religious dimensions of the phenomenon because of the "sociological" risk to religious belief; he also says Vallee gave him a book titled on Satan with 666 pages and remarked the French see the devil less sensationally. Vallee's *Wonders in the Sky* is cited for 15th-century sky-battle broadsheets and *Passport to Magonia* for the Agobard story. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 42:18, 43:19, 45:14, 51:00, 57:11)*
+- Michels relays that Vallee judged some Billy Meier photos plausible only with ILM-level access. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 2:46:39)*

@@ -31,6 +31,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
+    label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
 ---
 
 Jesse Michels is the host of the American Alchemy YouTube channel (registry channel `jm`), which conducts long-form interviews on UFO/UAP, deep politics and secret science. The channel's sponsor/advertisement segments are not recorded in this wiki.
@@ -73,3 +75,7 @@ Jesse Michels is the host of the American Alchemy YouTube channel (registry chan
 ## Claims (jm/sheehan)
 
 - Hosted [[sheehan-michels-interview-2025]] with guest [[danny-sheehan]] and [[jeremy-rys]].
+
+## Claims (jm/jorjani-religion)
+
+- Hosted [[jason-jorjani]] in [[jorjani-michels-interview-2025]] (2025-09-27, about 3h18m) on religion, psi, the [[nordic-control-system-claims]], [[information-physics-simulation-claims]] and [[epstein-atlantis-gravity-claims]]. Michels pushes back on dark matter and Nordic-specific claims and says he struggles with race-based categories, while endorsing psi data and the idea of a computational universe. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 2:32:35, 45:34, 2:07:12)*

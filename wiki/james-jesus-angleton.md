@@ -63,6 +63,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
+    label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
 ---
 
 James Jesus Angleton was the OSS station chief in Rome during WWII and, per Eyes Wide Open, would
@@ -165,3 +167,7 @@ viewed [[allen-dulles]] as a mentor and personally helped extract fascist collab
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer says an Angleton-signed document about a 1962 wiretap of Marilyn Monroe threatening a press conference is in the DPI briefing and was taken from a vault by an NSA source; Michels suggests Angleton pushed MJ12 as counterintelligence. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 58:35-58:50, 1:36:10-1:36:44)*
+
+## From Jason Jorjani on American Alchemy (jm/jorjani-religion)
+
+- Michels says Whitley Strieber told him Angleton refused to recruit him ("not you"); see [[whitley-strieber]]. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 2:59:47)*

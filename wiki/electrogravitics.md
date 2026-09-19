@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
+    label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
 ---
 
 Electrogravitics is the label for coupling of electric fields to gravity, coined around [[thomas-townsend-brown]]'s work (the "lowbrow applied version" per Eric Weinstein's framing).
@@ -24,3 +26,7 @@ Electrogravitics is the label for coupling of electric fields to gravity, coined
 ## Relationships
 
 - Umbrella concept for [[biefeld-brown-effect]] work.
+
+## From Jason Jorjani on American Alchemy (jm/jorjani-religion)
+
+- [[jason-jorjani]] argues zero-point electrogravitic propulsion is a time machine; he cites 1950s Martin Aircraft statements and Michael Masters, and thinks this explains disclosure reluctance. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 1:26:32, 1:30:16)* See [[nordic-control-system-claims]] and [[epstein-atlantis-gravity-claims]].

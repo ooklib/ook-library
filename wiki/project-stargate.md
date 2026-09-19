@@ -24,6 +24,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
+    label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
 ---
 
 Project Stargate was a joint, secret Army/DIA/CIA/SRI-International-contractor program (begun
@@ -78,3 +80,7 @@ Centerlane (DIA). *([gerb/saic](../raw/gerb/saic.md) 1:42:34–1:43:21)*
 ## Claims (jm/sheehan)
 
 - Sheehan claims a deeper Office of Naval Intelligence remote-viewing program than Stargate, documented in Ingo Swan reports leaked to Scientology; see [[scientology-remote-viewing-claims]]. *([jm/sheehan](<../raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md>) 2:04:46)*
+
+## From Jason Jorjani on American Alchemy (jm/jorjani-religion)
+
+- Jorjani claims a separate 1970s-80s black unit used psychokinesis against targets, recruited SRI viewers (he names [[pat-price]] as a probable recruit), and that Stargate was defunded while it continued; Michels notes many early viewers came from Sidney Gottlieb's technical staff. See also [[ingo-swann]], [[lynn-buchanan]]. *([jm/jorjani-religion](<../raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md>) 14:07, 16:19, 16:49, 2:50:56)*
