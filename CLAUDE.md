@@ -77,34 +77,48 @@ sources:
 
 ## Source registry (short keys)
 
-See [`raw/index.md`](raw/index.md) for the full table of short citation keys, raw files, and
-titles. Add a row there whenever a new raw source is ingested, and give it a short, memorable
-key (lowercase, no spaces — typically the contractor/org the video centers on).
+See [`raw/index.md`](raw/index.md) for the full table of short citation keys, raw files, titles,
+and `ingested` status. Add a row there whenever a new raw source is added, give it a short,
+memorable key (lowercase, no spaces — typically the contractor/org the video centers on), and
+register it with `ingested` = `false`. Adding a new raw source (the raw file plus its index row) is
+its own separate commit, made before the ingest; the ingest commit then only flips `ingested` to
+`true` in that row, besides the wiki changes.
+
+## Formatting conventions
+
+- Wiki markdown pages must **not** hard-wrap prose: one paragraph is one line, and each list item
+  is one line, since hard-wrapping hurts readability. Existing pages are not being reformatted,
+  but new pages and new additions to existing pages must follow this.
+- Commit messages, in contrast, are hard-wrapped at about 72 characters where possible, except for
+  long URLs.
 
 ## Ingest workflow
 
-In each each transcript separately one by one in a subagent and create one commit. Using subagents
-allows the main context not to fill quickly, running them sequentially prevents overwriting shared
-state in the files and makes it easy to select which files to be committed. The subagent just
-edits files, while the main agent does the commit.
+Ingest each transcript separately, one by one, in a subagent, and create one commit per
+transcript. Using subagents allows the main context not to fill quickly, running them
+sequentially prevents overwriting shared state in the files and makes it easy to select which
+files to be committed. The subagent just edits files, while the main agent does the commit.
+The source must already be registered in `raw/index.md` (see above) before ingesting.
 
 1. Note the start time, then read the new raw source fully.
 2. Extract entities; check `wiki/index.md` and aliases for existing pages before creating new
    ones (normalize spelling/casing of names/orgs across ASR transcripts).
 3. Create/update entity pages with new claims, relations, and citations.
-4. Update `wiki/index.md` and append an entry to `wiki/log.md`.
+4. Update `wiki/index.md`, append an entry to `wiki/log.md`, and flip the source's `ingested`
+   column to `true` in `raw/index.md` (so it lands in the ingest commit).
 5. Note the end time and record the elapsed wall-clock duration (e.g. `6m17s`) of the whole
    ingestion (steps 1-4) in two places: appended to the `wiki/log.md` entry's source line (e.g.
-   `## [YYYY-MM-DD] ingest | Source Title (6m17s)`) and as a line in the commit message
+   `## [YYYY-MM-DD] ingest | Source Title (6m17s)`) and as a line in the commit message.
    This lets future ingests be estimated/budgeted from past ones.
-6. Commit message:
-    - start with the source in form: `- source: {title} ({url})
-  by {channel/author}`, e.g. `- source: UFO Legacy Programs - Science Applications International
-  Corporation (SAIC) (https://www.youtube.com/watch?v=9p99lTsC7wQ)
-  by UAP Gerb`
-    - ingestion time in form: `- ingested in: {minutes}m{seconds}s` , e.g. `- ingested in: 6m17s`
-    - summary of the ingention
-    - LLM tag stating which model was used, e.g. `Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>`
+6. Commit message (hard-wrapped at about 72 characters, except long URLs):
+    - subject line, e.g. `Ingest {title} ({key})`
+    - blank line, then the source line: `- source: {title} ({url}) by {channel/author}`, e.g.
+      `- source: UFO Legacy Programs - Science Applications International Corporation (SAIC)
+      (https://www.youtube.com/watch?v=9p99lTsC7wQ) by UAP Gerb` (wrapped lines are indented)
+    - ingestion time: `- ingested in: {minutes}m{seconds}s`, e.g. `- ingested in: 6m17s`
+    - summary of the ingestion
+    - LLM tag stating which model was used, e.g.
+      `Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>`
 
 ## Relation type registry
 
