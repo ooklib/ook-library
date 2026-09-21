@@ -69,6 +69,8 @@ sources:
     label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md"
     label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md"
+    label: "FASTWALKERS - UFOs Outside Earth (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -200,3 +202,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/battelle)
 
 - Commentary video ([[gerb-battelle-video]]) opening a private-sector series with [[battelle-memorial-institute]]: Project Stork, Special Report 14, the 1949 nitinol contract, [[ej-center]], Vallee's hint, and Moultrie's Battelle board seat; he promises videos on Lockheed Martin and the Carlyle Group. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 0:00-1:26, 15:34-15:51)*
+
+## Claims (gerb/fastwalkers)
+
+- Video: 2024-02-27 investigation of the fastwalker designation, FOIA denials and DSP-linked cases, with an appeal for help deciphering DSP printouts and reaching Lee Graham. See [[gerb-fastwalkers-video]], [[fastwalker-designation]] and [[defense-support-program]]. *([gerb/fastwalkers](<../raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md>) 0:00-1:37, 21:19-21:57)*

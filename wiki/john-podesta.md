@@ -21,6 +21,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md"
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md"
+    label: "FASTWALKERS - UFOs Outside Earth (UAP Gerb)"
 ---
 
 Political operative mentioned by [[uap-gerb]] in two timeline contexts: as a partner in the alleged [[advanced-aerospace-threat-identification-program]]-era effort to establish Hillary Clinton as "the disclosure president" and in the [[to-the-stars-academy]] circle alongside General McAlant and Lockheed Skunk Works personnel; and, via [[j-andrew-kissner]]'s mention of the Rockefeller Institute, in a remark that the Rockefellers played a hand in Podesta's disclosure initiative. Gerb frames the AATIP-Clapper effort as a psychological-operations/partial-disclosure attempt to protect legacy equities. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:50:01-1:50:09, 2:16:55-2:17:38)*
@@ -32,3 +34,7 @@ Political operative mentioned by [[uap-gerb]] in two timeline contexts: as a par
 ## Claims (jm/cameron)
 
 - Cameron says Podesta ran an internal check before meeting DeLonge in January 2016 and that Podesta emails show he wanted Hillary Clinton asked about aliens: [[hillary-clinton-disclosure-plan-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:37:40-2:41:10)*
+
+## Claims (gerb/fastwalkers)
+
+- Recipient of a March 2015 email from [[bob-fish]] in the Wikileaks Clinton campaign leaks claiming the DSP collects UFO data and describing a fastwalker anecdote. *([gerb/fastwalkers](<../raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md>) 8:02-10:06)*

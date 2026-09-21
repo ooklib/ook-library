@@ -17,6 +17,8 @@ sources:
     label: "The 1933 Magenta, Italy UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md"
+    label: "FASTWALKERS - UFOs Outside Earth (UAP Gerb)"
 ---
 
 The Black Vault, a FOIA-focused transparency site/organization, received the list of 38
@@ -42,3 +44,7 @@ The Black Vault, a FOIA-focused transparency site/organization, received the lis
 ## Additional claims (gerb/corso)
 
 - July 2024 release of FBI documents on Corso by John Greenewald ([[corso-criticism-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:14:39-1:15:03)*
+
+## Claims (gerb/fastwalkers)
+
+- John Greenwald received a Space Force FOIA denial (Exemption 1) in late 2023 and a 2013 USNORTHCOM/NORAD denial on fastwalker and slowwalker requests, per Gerb; the 2013 response released two papers. See [[fastwalker-designation]] and [[norad]]. *([gerb/fastwalkers](<../raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md>) 1:33-3:25)*

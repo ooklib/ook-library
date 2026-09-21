@@ -20,6 +20,8 @@ sources:
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
     label: "The Origin of the UFO Stigma (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md"
+    label: "FASTWALKERS - UFOs Outside Earth (UAP Gerb)"
 ---
 
 J. Allen Hynek (ASR "heinik") is presented by [[uap-gerb]] as the scientific adviser to [[project-blue-book]] and "one of the OG whistleblowers". *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 11:44-12:08, 14:41)*
@@ -44,3 +46,7 @@ J. Allen Hynek (ASR "heinik") is presented by [[uap-gerb]] as the scientific adv
 - Gerb presents him as the scientific adviser to [[project-blue-book]] who self-admittedly took part in the UFO cover-up, whose dissatisfaction with planned debunking was an "open secret", and who called [[project-grudge]] "less science and more of a public relations campaign". He is also quoted on the Robertson Panel being handed the Air Force's unwritten law "Don't rock the boat, play it cool", and on the panel and Condon report ignoring key evidence (25 to 30 percent of Condon's cases unexplained). *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 5:45-8:03,)*
 - At the [[house-armed-services-ufo-hearing-1966]] he asked for a civilian panel of scientists, was denied a seat with [[james-e-mcdonald]], and later listed anomalous radar cases (Goose Bay 1951, Lakenheath 1956, Shreveport 1957) that Blue Book could not explain. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 14:27-15:13)*
 - Gerb opens with a clip of Hynek's three "incontrovertible points" (persistence, global reach in about 140 countries, credible trained witnesses). *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 1:47-2:28)*
+
+## Claims (gerb/fastwalkers)
+
+- Gerb says that on 6 January 1967 Hynek told Goddard Space Flight Center that NORAD tracks UFOs and has since 1957, and that every continental US military Blue Book case is a NORAD case. See [[norad]]. *([gerb/fastwalkers](<../raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md>) 7:21-7:53)*

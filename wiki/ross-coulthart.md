@@ -38,6 +38,8 @@ sources:
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md"
+    label: "FASTWALKERS - UFOs Outside Earth (UAP Gerb)"
 ---
 
 Ross Coulthart, Australian investigative journalist (host of *Need to Know* with Bryce Sable),
@@ -97,3 +99,7 @@ In this Area52 interview [[ross-coulthart]] is the guest; see [[coulthart-ramsey
 - He claims 15+ program sources ([[legacy-program-insider-claims-coulthart]]), that certain senators are being read in ([[congressional-oversight-and-read-in-claims-coulthart]]), that people in the program use HPM weapons to down craft ([[craft-downing-and-nhi-casualty-claims-coulthart]]), and that agreements with NHI exist ([[human-nhi-agreements-claims-coulthart]]).
 - He describes his source method ([[coulthart-source-cultivation-tradecraft]]), a secret space program ([[secret-space-program-claims-coulthart]]), the giant building ([[giant-craft-shaped-building-claims-coulthart]]) and the [[esalen-inviting-session-skywatcher]].
 - He states his cross-examination stance in [[coulthart-critique-of-credulity-in-ufology]] and his book is [[in-plain-sight-book]].
+
+## Claims (gerb/fastwalkers)
+
+- Gerb says Coulthart vetted [[bob-fish]], and that a source told Coulthart in In Plain Sight of an aerospace company in Long Beach with access to wreckage, which Gerb reads as [[aerospace-corporation]]. *([gerb/fastwalkers](<../raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md>) 8:26-8:43, 19:30-20:17)*

@@ -31,6 +31,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md"
+    label: "FASTWALKERS - UFOs Outside Earth (UAP Gerb)"
 ---
 
 The Aerospace Corporation is a systems-and-integration-center FFRDC, spun off from TRW in 1960
@@ -83,3 +85,9 @@ concerns over TRW's close Air Force relationship. *([gerb/mitre](../raw/gerb/mit
 ## Additional claims (gerb/northrop)
 
 - Gerb notes it was spun off from [[trw]] in June 1960, one year after [[mitre-corporation]] (1959), both [[ffrdc]]s, and relates the timing to [[philip-j-corso]]'s 1958-1962 Army R&D golden age; TRW was reportedly principal investigator for the first ~29 years, and [[eric-davis]]'s employment there is noted. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 10:34-13:35)*
+
+## Claims (gerb/fastwalkers)
+
+- Gerb notes the 2014 DSP fact sheet says Aerospace researchers used DSP to develop parts of a hazard support system, and reads this as a possible link to covert UAP study; see [[defense-support-program]]. *([gerb/fastwalkers](<../raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md>) 10:14-10:39, 20:24-20:47)*
+- Per Gerb, Vallee's Hidden Science journals (2000s-2009), with [[kit-green]], [[hal-puthoff]], [[eric-davis]] and Kristen B. Zimmerman, suspect Aerospace, Lockheed and Northrop Grumman of deep UFO work. *([gerb/fastwalkers](<../raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md>) 18:44-19:30)*
+- Gerb says [[ross-coulthart]]'s In Plain Sight has a source describing an aerospace company in Long Beach, California with access to wreckage and sprawling gardens, and that Aerospace is the only major Long Beach aerospace company with such a campus (Gerb's inference). *([gerb/fastwalkers](<../raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md>) 19:30-20:17)*
