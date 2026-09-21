@@ -17,6 +17,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md"
+    label: "Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb)"
 ---
 
 Air Force Captain Edward J. Ruppelt served as director of Project Grudge and, later,
@@ -42,3 +44,7 @@ depicts sensitive material regarding non-human technical vehicles.
 ## Claims (gerb/moondust)
 
 - Gerb says Ruppelt conducted the first official US study of the phenomenon under Project Grudge (1948-1949), directed Sign and Blue Book, concluded UFOs had an "interplanetary explanation", and on 24 April 1952 suggested parallel programs "conducting a more complete investigation"; Gerb reads this as room for a classified crash retrieval program such as [[project-moon-dust]]. *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 1:37-2:51)*
+
+## Claims (gerb/air-force-encounters)
+
+- Gerb says Ruppelt, as Project Sign, Grudge and Blue Book director, wrote up the [[gorman-dogfight-1948]] as one of three classic 1948 incidents that "proved to Air Force intelligence specialists that UFOs were real". *([gerb/air-force-encounters](<../raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md>) 0:51-1:13)*

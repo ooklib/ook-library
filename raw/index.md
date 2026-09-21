@@ -72,7 +72,7 @@ which transcripts still await ingestion.
 | `gerb/moondust` | `raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md` | MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb) | true |
 | `gerb/kirkpatrick` | `raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md` | The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb) | true |
 | `gerb/nukes` | `raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md` | UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb) | true |
-| `gerb/air-force-encounters` | `raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md` | Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb) | false |
+| `gerb/air-force-encounters` | `raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md` | Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb) | true |
 | `gerb/flyby` | `raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md` | Incredible UFO Footage - FLYBY (UAP Gerb) | false |
 | `gerb/stigma` | `raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md` | The Origin of the UFO Stigma (UAP Gerb) | false |
 | `gerb/metapod` | `raw/gerb/UAP Gerb - 2024-02-12 - Incredible UFO Footage - METAPOD.md` | Incredible UFO Footage - METAPOD (UAP Gerb) | false |

@@ -34,6 +34,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md"
+    label: "Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb)"
 ---
 
 The historical Air Force UFO-investigation project, referenced as a comparison point: AARO was
@@ -107,3 +109,7 @@ became **Project Grudge** in 1949 (running until 1951), superseded by **Project 
 ## Claims (gerb/moondust)
 
 - Gerb says other classified UFO-studying programs ran alongside Blue Book, possibly including the crash retrieval program [[project-moon-dust]], and calls the years from Blue Book's end (1969) to 2008 a "Dark Ages" with no official US UAP investigation group. *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 2:35-2:51, 12:54-13:16)*
+
+## Claims (gerb/air-force-encounters)
+
+- Gerb notes [[project-sign]] (1948) was the earlier USAF project that investigated the [[gorman-dogfight-1948]]. *([gerb/air-force-encounters](<../raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md>) 4:33-5:59)*

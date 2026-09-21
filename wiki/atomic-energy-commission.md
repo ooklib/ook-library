@@ -45,6 +45,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md"
+    label: "Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb)"
 ---
 
 The Atomic Energy Commission (AEC), created by the 1946 Atomic Energy Act, was the civilian
@@ -158,3 +160,7 @@ administration|NNSA]] UFO legacy-program gatekeeping structure. *([gerb/sandia](
 ## Claims (gerb/kirkpatrick)
 
 - Gerb says the 1954 atomic energy agreement is referenced multiple times in the 2024 NDAA and that UAP records were misclassified under the AEC as transclassified foreign nuclear material, which he uses to rebut [[sean-kirkpatrick]]'s "2008 conspiracy" story. *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 5:08-5:23)*
+
+## Claims (gerb/air-force-encounters)
+
+- Gerb says Project Sign reports were required to go to the AEC (with the Army and Navy R&D Board and the USAF Scientific Advisory Board), and that Sign found Gorman's P-51 measurably radioactive, which it concluded meant flying near an "atomic powered object" before attributing it to less shielding at altitude ([[gorman-dogfight-1948]]). *([gerb/air-force-encounters](<../raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md>) 4:41-5:44)*

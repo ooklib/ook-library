@@ -57,6 +57,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md"
+    label: "Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -164,3 +166,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/kirkpatrick)
 
 - Off-the-cuff rant ([[gerb-kirkpatrick-video]]) calling [[sean-kirkpatrick]] a "modern-day disinformation agent" over his Scientific American op-ed ([[kirkpatrick-scientific-american-op-ed-2024]]); he says he will cover the Wilson-Davis memo and the Moon Dust paper trail in future videos and apologizes for the rough edit. *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 0:00-5:00, 11:57-13:09)*
+
+## Claims (gerb/air-force-encounters)
+
+- Short case-compilation video on four air-force encounters ([[gerb-air-force-encounters-video]]): the [[gorman-dogfight-1948]], [[finnish-pori-ufo-sighting-1969]], [[arequipa-peru-ufo-incident-1980]] and [[campeche-mexico-ufo-incident-2004]]; he promises a part two and invites viewers to his Discord where he says he shares case files. *([gerb/air-force-encounters](<../raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md>) 0:00-14:16)*
