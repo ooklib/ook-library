@@ -28,6 +28,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
+    label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
 ---
 
 Gerb's umbrella term for the alleged, decades-old, fragmented network of US government,
@@ -175,3 +177,7 @@ vehicles" (UFOs), running from 1947 to the present. *([gerb/mitre](../raw/gerb/m
 ## Claims (jm/borland)
 
 - Borland's account of legacy-program exposure through [[bae-systems]] colleagues, genetics and umbrella claims, and the alleged government retaliation is on [[legacy-program-claims-borland]] and [[borland-whistleblower-reprisal-claims]]; hub: [[borland-michels-interview-2026]].
+
+## Claims (gerb/whistleblowers-1)
+
+- Gerb (via [[stephen-lovekin]]) infers the legacy program broke from congressional and presidential oversight around the 1960s under Eisenhower as parts moved to private corporations. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 28:11-28:34)*

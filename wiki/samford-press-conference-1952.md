@@ -9,6 +9,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
     label: "The Origin of the UFO Stigma (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
+    label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
 ---
 
 A Pentagon press conference in July 1952 held by USAF Maj. Gen. John Samford (director of intelligence) with Roger M. Ramey (director of operations), in the wake of the [[washington-dc-ufo-incident-1952]]. Per [[uap-gerb]] (who says "Lt. General" in the chapter title).
@@ -22,3 +24,7 @@ A Pentagon press conference in July 1952 held by USAF Maj. Gen. John Samford (di
 ## Relationships
 
 - Responds to the [[washington-dc-ufo-incident-1952]]; followed by the [[robertson-panel-1953]] in Gerb's narrative.
+
+## Claims (gerb/whistleblowers-1)
+
+- Gerb notes Gen. [[roger-ramey]] gave the 1952 press release with Samford, connecting him to the 1947 Roswell retraction. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 27:30-27:48)*

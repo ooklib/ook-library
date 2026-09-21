@@ -43,6 +43,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
+    label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
 ---
 
 Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arthur Schlesinger, briefed President-elect John F. Kennedy that [[laos]], not Vietnam, was his chief Southeast Asian worry. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 0:44-1:07)*
@@ -107,3 +109,7 @@ Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arth
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] says he is told there was a secret executive order under Eisenhower too, and cites an "Eisenhower briefing" in the MJ-12 documents. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 40:12-40:28, 1:33:52-1:33:59)*
+
+## Claims (gerb/whistleblowers-1)
+
+- [[stephen-lovekin]] alleges Eisenhower was read into the UFO estimate but was 'sold out,' losing control as work was farmed out to agencies and corporations, which Gerb links to the 1961 military-industrial-complex speech and to the legacy program slipping congressional oversight. Gerb also mentions the alleged 1954 Holloman meeting with extraterrestrials (see [[eisenhower-et-meeting-claims]]). *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 19:46-24:41)*

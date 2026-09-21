@@ -28,6 +28,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
+    label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
 ---
 
 Vice Admiral Thomas Wilson, former DIA director, is the central figure (with
@@ -85,3 +87,7 @@ controversial whistleblower discussed earlier in the same video.
 ## Claims (gerb/moondust)
 
 - Gerb recalls, from his Wilson-Davis video, Wilson's claim that early-1990s special access programs were reorganized to hide crash retrieval and reverse engineering programs, and uses it to explain Air Force denials about [[project-moon-dust]] ([[moon-dust-senate-inquiries-1992-1994]]). *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 12:14-12:54)*
+
+## Claims (gerb/whistleblowers-1)
+
+- Gerb says the 1998 briefing in the Wilson-Davis notes was attended by [[stephen-lovekin]] and that Wilson confirmed it. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 14:00-14:16)*

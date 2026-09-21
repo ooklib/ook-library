@@ -20,6 +20,8 @@ sources:
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md"
     label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
+    label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
 ---
 
 The social ridicule attached to studying UFOs, which [[uap-gerb]] argues in [[gerb-stigma-video]] was deliberately engineered by the US government, the CIA and the USAF in the 1950s and 1960s to lump UFOs with ghosts, Bigfoot and conspiracy theories. This is Gerb's thesis, not an established fact.
@@ -41,3 +43,7 @@ The social ridicule attached to studying UFOs, which [[uap-gerb]] argues in [[ge
 ## Claims (gerb/knuth)
 
 - Gerb opens by saying academia does not conduct hard analysis of UFOs because of powerful stigma, and that claims of craft violating known physics are actively scoffed at, framing [[kevin-knuth]] as a rare accomplished exception. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 0:00-0:32)*
+
+## Claims (gerb/whistleblowers-1)
+
+- Gerb recalls that [[stephen-lovekin]] was told UFOs were the fastest career-ender, matching AFR 200-2, and repeats that Maj. Quintanilla falsely told Congress Blue Book had no radar lock-on cases until corrected by Hynek. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 16:19-17:21)*

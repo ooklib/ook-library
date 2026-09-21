@@ -53,6 +53,8 @@ sources:
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
+    label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -140,3 +142,7 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 ## Claims (gerb/uso)
 
 - Gerb notes Norton Air Force Base, where Vallee's source said UFO and USO files were held, was named in Greer's Disclosure Project's alleged 1996 briefing to Congress. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 7:23-7:46)*
+
+## Claims (gerb/whistleblowers-1)
+
+- Gerb says Greer's [[disclosure-project]] billed [[stephen-lovekin]] as a 'Brigadier General' though it was a North Carolina State Guard rank, which he calls an embellishment or vetting failure. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 13:06-13:38, 28:34-28:58)*

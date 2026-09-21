@@ -44,6 +44,8 @@ sources:
     label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
   - file: raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md
     label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
+    label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
 ---
 
 Battelle Memorial Institute is a contractor that administers multiple FFRDCs on behalf of the
@@ -123,3 +125,7 @@ DOE and other agencies, and is described by Gerb as "no stranger to this channel
 - Gerb says [[jacques-vallee]] on Joe Rogan (with [[james-fox]] prompting via the Robertson Panel) hinted that a private contractor holds UFO materials, which he reads as Battelle. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 11:12-12:47)*
 - Gerb says [[ronald-moultrie]] has been a Battelle board member since 2016 and scrubbed it from his LinkedIn, with POGO screenshots as evidence, and that [[aaro]] and [[sean-kirkpatrick]] reported to him; he also says AARO's 2022 $1.9 million support contract to a firm called Sand Corp (specializing in preventing leaks, per Gerb) was overseen by Moultrie. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 12:51-14:42)*
 - Gerb mentions an online 2023 leaker claiming to be a Battelle biologist working on extraterrestrial biological organisms, which he did not examine for lack of evidence. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 15:51-16:47)*
+
+## Claims (gerb/whistleblowers-1)
+
+- Gerb points viewers to his Battelle video for the claim that Roswell debris was likely studied by Battelle. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 3:46-4:02)*

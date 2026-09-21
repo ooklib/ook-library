@@ -81,6 +81,8 @@ sources:
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
     label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
+    label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -236,3 +238,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/uso)
 
 - Gerb's USO video ([[gerb-uso-video]], 2024-04-17) covers the history and claims of unidentified submerged objects; he says it is the first time he has seen the history of USO study covered, and offers a follow-up on officially reported cases. See [[uso-unidentified-submerged-objects]]. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 0:33-1:05, 24:52-25:33)*
+
+## Claims (gerb/whistleblowers-1)
+
+- Gerb launched a UFO whistleblower series with [[gerb-whistleblowers-1-video]] (2024-05-05), covering [[walter-haut]] and [[stephen-lovekin]], and says he personally believes a non-human craft crashed at Roswell. He mentions a jiu-jitsu purple belt test the day before. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 0:00-1:45, 26:17-27:21)*

@@ -42,6 +42,8 @@ sources:
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
     label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
+    label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
 ---
 
 The historical Air Force UFO-investigation project, referenced as a comparison point: AARO was
@@ -133,3 +135,7 @@ became **Project Grudge** in 1949 (running until 1951), superseded by **Project 
 ## Claims (gerb/uso)
 
 - Gerb says Blue Book member Dewey Fournet ran [[operation-interloper]] in 1951, an extra-governmental study of aerial and undersea UAP that briefed the CIA in 1953, and that USO reporting was restricted from the 1950s ([[janap-146c]], AFR 200-2 sending reports to ATIC instead). *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 1:05-1:55, 6:04-6:44)*
+
+## Claims (gerb/whistleblowers-1)
+
+- [[stephen-lovekin]] alleges the classified Blue Book sections held photos and 200-300 radar lock-on cases that never reached the public reports, and that the Air Force treated UFO talk as career-ending. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 14:25-17:21)*

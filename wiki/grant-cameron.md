@@ -19,6 +19,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
+    label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
 ---
 
 Grant Cameron is a Canadian UFO researcher (YouTube and X handle "whitehouseufo") who has investigated since the 1975 Manitoba "Charlie Red Star" flap and specializes in presidential and government UFO records, FOIA filings and Wilbert Smith's archive. Michels says his name shows up whenever he traces a deep thread. He authored "Beyond Managing Magic 2: Landing the Plane" and a book on people who say they flew the craft (ASR "UFO Skypods"). He also says he made the Wilson-Davis notes public.
@@ -36,3 +38,7 @@ Grant Cameron is a Canadian UFO researcher (YouTube and X handle "whitehouseufo"
 ## Relationships
 
 - Interviewed by [[jesse-michels]] ([[cameron-michels-interview-2026]]); sources cited include [[william-steinman]], [[eric-a-walker]], [[wilbert-b-smith]], [[ron-pandolfi]], [[tim-taylor-nasa]], [[chris-bledsoe]].
+
+## Claims (gerb/whistleblowers-1)
+
+- Gerb cites Cameron's interview of [[stephen-lovekin]], who said he attended Camp David with Eisenhower and overheard a call about the 1952 Washington UFOs. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 24:00-24:25)*
