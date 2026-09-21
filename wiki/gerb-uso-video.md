@@ -22,6 +22,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
+    label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
 ---
 
 A video (about 26 minutes, dated 2024-04-17, [the video](https://www.youtube.com/watch?v=U-jrx_giINA)) in which [[uap-gerb]] surveys the history and claims of unidentified submerged objects (USOs, also called transmedium UAP). Chapters: Intro, USO History, USO Claims, Rear Admiral Timothy Gallaudet, Military USO Encounters, USS Trepang Images, Conclusion. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 0:00-1:05)*
@@ -32,6 +34,10 @@ A video (about 26 minutes, dated 2024-04-17, [the video](https://www.youtube.com
 - The paper trail is thin after the mid-1950s reporting rules ([[janap-146c]], OPNAV 3820, AFR 200-2), so from the 1980s onward he relies on unverified claims of USO studies (Vallee's source, Marc D'Antonio, Oke Shannon's notes, John Ramirez). *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 6:58-10:24)*
 - His most credible voice is retired Rear Admiral [[timothy-gallaudet]] and the 2024 SOL white paper; he also covers military encounters (Elizondo's Caribbean missile-recovery story, John Bowman, Kevin Thomas) and the [[uss-trepang-photographs-1971]]. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 10:30-24:42)*
 - He says he would like to make a follow-up on officially reported USO cases from Blue Book and other channels, and mentions recording the day after the Kona Blue files came out ([[operation-kona-blue]]). *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 20:46-21:01,)*
+
+## Claims (gerb/uso-casebook)
+
+- The promised follow-up on Blue Book and other cases was released as [[gerb-uso-casebook-video]] (2024-04-26). *([gerb/uso-casebook](<../raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md>) 0:17-0:50)*
 
 ## Relationships
 

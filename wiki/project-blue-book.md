@@ -40,6 +40,8 @@ sources:
     label: "The Origin of the UFO Stigma (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
+    label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
 ---
 
 The historical Air Force UFO-investigation project, referenced as a comparison point: AARO was
@@ -75,6 +77,10 @@ became **Project Grudge** in 1949 (running until 1951), superseded by **Project 
   playbook Gerb argues was reused with the [[robertson-panel-1953|1953 Robertson Panel]] and again
   with the 2022 establishment of [[aaro|AARO]]. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md)
   2:11:00–2:11:48)*
+
+## Claims (gerb/uso-casebook)
+
+- Gerb says only about 2% of Blue Book's 13,000+ sightings (258) were ship sightings, 13 rated good, and cites the MV Marcala (1950, unidentified), City of Almaco (1959, called a meteor), ORV Whiskey (1960, called a flare) and Morgantown Victory (1966, called Cosmos 33 decay) as USO cases with questionable conclusions. See [[blue-book-uso-cases]]. *([gerb/uso-casebook](<../raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md>) 0:00-6:27)*
 
 ## Relationships
 

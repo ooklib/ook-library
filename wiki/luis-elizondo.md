@@ -66,6 +66,8 @@ sources:
     label: "Incredible UFO Footage - METAPOD (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
+    label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
 ---
 
 Luis Elizondo (ASR-transcribed "Lou Alzando"/"Luis Alzando") claimed to direct, work for, or
@@ -139,6 +141,10 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
   "you have a chance to still be an American hero ... if there is information you are holding on
   to, individuals you are protecting, lies you are telling, you will go down as a villain."
   *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:57:57–3:20:38)*
+
+## Claims (gerb/uso-casebook)
+
+- Gerb compares the 1960 ORV Whiskey case (a light appearing near a missile-test data cassette) to Elizondo's alleged Caribbean missile-recovery story from his previous USO video. See [[blue-book-uso-cases]]. *([gerb/uso-casebook](<../raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md>) 4:12-4:36)*
 
 ## Relationships
 

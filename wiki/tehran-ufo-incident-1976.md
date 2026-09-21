@@ -14,6 +14,8 @@ sources:
     label: "FASTWALKERS - UFOs Outside Earth (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md"
     label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
+    label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
 ---
 
 A 1976 encounter in which Iranian Imperial Air Force F-4 Phantom II pilots were scrambled to intercept a UFO over Tehran. It appears in the wiki only through [[uap-gerb]], who cites it briefly (ASR "Tyron") as a second case of fighter instrument failure alongside [[manises-ufo-incident-1979]]. Details are Gerb's summary without sources.
@@ -24,6 +26,10 @@ A 1976 encounter in which Iranian Imperial Air Force F-4 Phantom II pilots were 
 - Ten minutes later Jafari was scrambled and, at Mach 1 and 70 miles out, saw the object instantaneously jump 10 degrees to his right; it also made an instantaneous 26 mile jump in under a second. *([gerb/flight-grounded](<../raw/gerb/UAP Gerb - 2024-01-21 - The First Commercial Flight Grounded Due to UFOs.md>) 10:32-10:52)*
 - A smaller sphere separated from a seemingly diamond-shaped UFO and approached the F-4. When Jafari tried to target it his instruments, targeting and radio "went haywire", and he decided to eject if it came within 2 miles. After he flew away his instruments returned to normal. *([gerb/flight-grounded](<../raw/gerb/UAP Gerb - 2024-01-21 - The First Commercial Flight Grounded Due to UFOs.md>) 10:52-11:34)*
 - Gerb calls it one of his favorite encounters and plans a video on global air force UFO encounters. *([gerb/flight-grounded](<../raw/gerb/UAP Gerb - 2024-01-21 - The First Commercial Flight Grounded Due to UFOs.md>) 11:34-11:51)*
+
+## Claims (gerb/uso-casebook)
+
+- Gerb compares the ship communications failures during the alleged 1977 Vulga encounter to those of Major Jafari's jet in the Tehran incident. See [[soviet-uso-cases]]. *([gerb/uso-casebook](<../raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md>) 7:38-7:53)*
 
 ## Relationships
 

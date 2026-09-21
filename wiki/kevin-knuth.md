@@ -15,6 +15,8 @@ sources:
     label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md"
     label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
+    label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
 ---
 
 Kevin Knuth is described by [[uap-gerb]] as a physics professor (ASR "Kevin canth", described as New York University; affiliation as stated by Gerb) who modeled the flight characteristics of anomalous aerial vehicles in famous cases. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 3:14-3:49)*
@@ -22,6 +24,10 @@ Kevin Knuth is described by [[uap-gerb]] as a physics professor (ASR "Kevin cant
 ## Claims
 
 - Gerb cites his paper "Estimating flight characteristics of anomalous unidentified aerial vehicles" for computing the g-forces implied by the 1986 [[japan-airlines-flight-1628-incident-1986]]. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 3:14-4:20)*
+
+## Claims (gerb/uso-casebook)
+
+- Gerb links a 1970 Kamchatka lake USO case (boat engine stalled) to the vehicle disruptions Knuth discussed at the SOL Foundation, and compares an Australian 1960s objects-submerging-without-disturbing-water case to the HMNZS Southland case Knuth described. See [[soviet-uso-cases]] and [[australian-uso-cases]]. *([gerb/uso-casebook](<../raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md>) 9:22-9:46, 14:41-15:02, 26:16-26:32)*
 
 ## Relationships
 

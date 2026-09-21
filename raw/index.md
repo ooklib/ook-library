@@ -85,7 +85,7 @@ which transcripts still await ingestion.
 | `gerb/herrera-1` | `raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md` | Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb) | true |
 | `gerb/sarbacher` | `raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md` | Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb) | true |
 | `gerb/uso` | `raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md` | USO - Unidentified Submerged Objects (UAP Gerb) | true |
-| `gerb/uso-casebook` | `raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md` | USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb) | false |
+| `gerb/uso-casebook` | `raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md` | USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb) | true |
 | `gerb/whistleblowers-1` | `raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md` | UFO Whistleblowers [Vol.1] (UAP Gerb) | false |
 | `gerb/del-rio` | `raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md` | The 1950s Del Rio, Texas UFO Crashes (UAP Gerb) | false |
 | `gerb/whistleblowers-2` | `raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md` | UFO Whistleblowers [Vol.2] (UAP Gerb) | false |

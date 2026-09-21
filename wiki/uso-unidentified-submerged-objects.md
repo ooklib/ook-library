@@ -18,6 +18,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
+    label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
 ---
 
 Unidentified submerged objects (USOs) are UFOs seen entering, leaving or operating beneath water; the term overlaps with "transmedium UAP". [[uap-gerb]] argues USOs show the same shapes as aerial UAP (triangles, orbs, discs, cigars) and that their movements are anomalous in any fluid medium, so he sees no real difference between transmedium UAP and USOs. All specific cases below are attributed claims. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 0:00-0:33)*
@@ -33,6 +35,11 @@ Unidentified submerged objects (USOs) are UFOs seen entering, leaving or operati
 - [[john-ramirez]] (former CIA) claimed in 2022 to have heard of a relationship between the Office of Naval Research and the CIA's Office of Scientific and Weapons Research, at its weapons intelligence, nonproliferation and arms control center, where USO materials are recovered and transferred to the CIA. Gerb calls this an unverified rabbit hole for a future video. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 9:54-10:24)*
 - Cases: [[luis-elizondo]] (2022, Terry Virts interview, unnamed source) described a helicopter crew recovering test-fired cruise missiles near a Caribbean island above the Puerto Rico Trench, where a huge round black object twice rose beneath them, the second time swallowing the missile as a frogman climbed the rope; USN petty officer John Bowman (2010, USS Carl Vinson off Haiti) saw a roughly 20 ft white tic-tac object in the water dart into the depths, and was not debriefed; petty officer Kevin Thomas (1991, USS Nimitz) claimed a triangle near 1 km long rose from the ocean with no water dripping, then men in civilian clothes questioned him. Gerb says he cannot find Thomas's service record and approaches it skeptically. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 16:45-20:46)*
 - Cases from the Gallaudet paper: the 2004 Tic Tac ([[2004-nimitz-encounter]]) hovering above roiling whitewater, the 2013 Aguadilla, Puerto Rico CBP thermal video (40-120 mph, entering and exiting the Atlantic, about 95 mph underwater, splitting in two), and a 1960 Shelburne Harbour, Nova Scotia case in which Royal Canadian Navy divers allegedly saw two disc-shaped craft on the seabed with occupants repairing one, and filmed it. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 14:26-16:29)*
+
+## Claims (gerb/uso-casebook)
+
+- Follow-up video ([[gerb-uso-casebook-video]], 2024-04-26) widens the survey to Blue Book, Soviet, Australian, pre-20th-century and maritime light wheel cases: [[blue-book-uso-cases]], [[soviet-uso-cases]], [[australian-uso-cases]], [[pre-20th-century-uso-cases]], [[maritime-light-wheel]]. *([gerb/uso-casebook](<../raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md>) 0:00-1:17)*
+- Gerb lists recurring themes: Tic Tac or cigar shapes hovering just above the water and quivering or gyrating without affecting the surface, luminous balls rising from the depths, egg-shaped craft entering or leaving the sea, and wheels of light. He says operating in air or sea without changing flight characteristics is what makes USOs fascinating. *([gerb/uso-casebook](<../raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md>) 24:50-27:29)*
 
 ## Relationships
 

@@ -40,6 +40,8 @@ sources:
     label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
+    label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
 ---
 
 Jacques Vallee is the French-American computer scientist and ufologist whose books (notably Messengers of Deception) and published journals are the main intellectual frame for guest [[jason-samosa]] in the `jm/cover-up` episode. The episode uses him as a source for a "control system" or belief-shaping reading of UFOs, for the AAWSAP-era journals, and as validation of the Tom DeLonge/Podesta story. This page records what the episode attributes to him; the wiki treats these as claims about his positions.
@@ -55,6 +57,10 @@ Jacques Vallee is the French-American computer scientist and ufologist whose boo
 - Vallee reportedly cited a private European bank of the 1800s as the possible origin of the hidden power behind this; Samosa suggests [[charles-hambro]]'s bank would fit. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:38:59)*
 - In Messengers of Deception a source called Major Murphy suggests people built flying saucers in the war years and that their real advantage was "psychotronic effect", adding "why are you talking about the Nazis, other people became involved". *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:27:34)*
 - Tom DeLonge's original story (contact at Lockheed Skunk Works) was validated by Vallee, per Samosa. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 35:29)*
+
+## Claims (gerb/uso-casebook)
+
+- Gerb cites Vallee's *UFO Chronicles of the Soviet Union: a Cosmic Samizdat* (pp. 29-30) for the 1977 Vulga incident and Admiral Smirnov's ship UFO-reporting directive. See [[soviet-uso-cases]]. *([gerb/uso-casebook](<../raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md>) 8:15-8:32)*
 
 ## Relationships
 

@@ -35,6 +35,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
+    label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
 ---
 
 George Knapp, Las Vegas investigative journalist (KLAS-TV), has reported for decades on Area 51,
@@ -61,6 +63,10 @@ George Knapp, Las Vegas investigative journalist (KLAS-TV), has reported for dec
   responding "men in black"-type personnel and convoys as [[national-nuclear-security-
   administration|NNSA]] [[office-of-secure-transportation|Office of Secure Transportation]].
   *([gerb/sandia](../raw/gerb/sandia.md) 1:36:55–1:38:26)*
+
+## Claims (gerb/uso-casebook)
+
+- Gerb says he would like to contact Knapp to ask whether the UFO files Knapp allegedly smuggled out of Russia pertain to USOs. *([gerb/uso-casebook](<../raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md>) 27:04-27:12)*
 
 ## Relationships
 

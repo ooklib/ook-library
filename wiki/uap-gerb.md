@@ -79,6 +79,8 @@ sources:
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
+    label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -105,6 +107,10 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## From the DUMBs video (gerb/dumbs)
 
 - Video `gerb/dumbs` (2025-03-17, ~1h38m): DUMB survey built on Sauder and Hamilton; Gerb says DUMBs are his passion project, plans a Sauder part 2, a website of transcripts and links, and states he has spoken to nearly half a dozen veterans who visited STFs. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 3:49, 1:27:07, 1:29:38, 1:30:35)* See [[deep-underground-military-bases]].
+
+## Claims (gerb/uso-casebook)
+
+- Gerb's USO case book video ([[gerb-uso-casebook-video]], 2024-04-26), a follow-up to his first USO video prompted by its good reception, surveys Blue Book, Soviet, Australian, pre-20th-century and maritime light wheel cases worldwide. He thanks viewers for growing support after the Kingman video and Ross Coulthart retweeting it, and asks for requests. *([gerb/uso-casebook](<../raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md>) 0:50-1:17, 24:50-28:10)*
 
 ## Relationships
 

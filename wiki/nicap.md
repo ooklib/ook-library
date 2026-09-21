@@ -16,6 +16,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
     label: "The Origin of the UFO Stigma (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
+    label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
 ---
 
 NICAP, the first major civilian UFO-investigation group, is alleged in this source to have been founded by [[thomas-townsend-brown]] on returning from the International Geophysical Year (ASR: "naikap").
@@ -25,6 +27,10 @@ NICAP, the first major civilian UFO-investigation group, is alleged in this sour
 - Brown allegedly used the 1957 IGY to set up listening posts for U-2 overflights, then created NICAP; former CIA director [[roscoe-hillenkoetter]] joined its board. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:09:23-1:10:20)*
 - Brown told Linda to filter out reports describing motion "like a fluttering leaf" because "those are ours"; Jan Lundquist links this to the wobble of the [[avro-avrocar]]. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:10:20-1:10:55)*
 - Host and Lundquist hypothesize NICAP was counterintelligence/crowdsourced intelligence, starting a tradition of intelligence-linked civilian groups (MUFON) that act as honeypots and disinformation ground. *([jm/townsend-brown](<../raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md>) 1:11:01-1:11:39)*
+
+## Claims (gerb/uso-casebook)
+
+- Gerb's video description links NICAP pages for the MV Marcala and Port Augusta 1947 cases and a NICAP report on Blue Book USOs. See [[blue-book-uso-cases]] and [[australian-uso-cases]]. *([gerb/uso-casebook](<../raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md>) 1:40-2:36, 13:26-13:51)*
 
 ## Relationships
 
