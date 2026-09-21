@@ -83,6 +83,8 @@ sources:
     label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -242,3 +244,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/whistleblowers-1)
 
 - Gerb launched a UFO whistleblower series with [[gerb-whistleblowers-1-video]] (2024-05-05), covering [[walter-haut]] and [[stephen-lovekin]], and says he personally believes a non-human craft crashed at Roswell. He mentions a jiu-jitsu purple belt test the day before. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 0:00-1:45, 26:17-27:21)*
+
+## Claims (gerb/del-rio)
+
+- Video [[gerb-del-rio-video]] (2024-05-17) separates the 1950 and 1955 Del Rio crash cases; Gerb rates the [[robert-willingham]] account weak and speculates about [[att-corporation]]'s role at Sandia. He says he is nearing 5,000 subscribers and may make a video on NHI origins and taxonomy from a deleted [[karl-nell]] slide. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 27:15-29:54)*

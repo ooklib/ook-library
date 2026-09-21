@@ -55,6 +55,8 @@ sources:
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -146,3 +148,7 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 ## Claims (gerb/whistleblowers-1)
 
 - Gerb says Greer's [[disclosure-project]] billed [[stephen-lovekin]] as a 'Brigadier General' though it was a North Carolina State Guard rank, which he calls an embellishment or vetting failure. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 13:06-13:38, 28:34-28:58)*
+
+## Claims (gerb/del-rio)
+
+- Gerb cites entries in Greer's Disclosure Project witness archive alleging ET technology transfer to [[att-corporation]], and notes Greer has multiple witnesses on such transfers to the company. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 25:29-26:26)*

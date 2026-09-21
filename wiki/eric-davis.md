@@ -46,6 +46,8 @@ sources:
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 Dr. Eric Davis is the physicist who transcribed the [[wilson-davis-notes|Wilson-Davis notes]],
@@ -140,3 +142,7 @@ the estate of the late astronaut [[edgar-mitchell|Edgar Mitchell]].
 ## Claims (gerb/kirkpatrick)
 
 - Gerb says [[sean-kirkpatrick]]'s op-ed names Davis in a 2008 AATIP-centered "conspiracy", while [[christopher-mellon]] says Davis spent hours briefing Kirkpatrick in a classified setting and received no feedback ([[kirkpatrick-scientific-american-op-ed-2024]]). *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 3:47-4:10, 6:20-6:37)*
+
+## Claims (gerb/del-rio)
+
+- Gerb quotes Davis's June 2018 Coast to Coast AM interview with [[george-knapp]]: "if you're going to throw your bets on Roswell your bets really good. Del Rio, Texas, that was a 1950s case that was another one, and the other ones I won't bring up because those are still classified." Gerb connects this to the Del Rio cases but notes the confusion between the [[el-indio-guerrero-crash-1950]] and [[willingham-langtry-crash-1955]]. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 1:12-1:49)*

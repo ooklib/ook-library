@@ -22,6 +22,8 @@ sources:
     label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 The social ridicule attached to studying UFOs, which [[uap-gerb]] argues in [[gerb-stigma-video]] was deliberately engineered by the US government, the CIA and the USAF in the 1950s and 1960s to lump UFOs with ghosts, Bigfoot and conspiracy theories. This is Gerb's thesis, not an established fact.
@@ -47,3 +49,7 @@ The social ridicule attached to studying UFOs, which [[uap-gerb]] argues in [[ge
 ## Claims (gerb/whistleblowers-1)
 
 - Gerb recalls that [[stephen-lovekin]] was told UFOs were the fastest career-ender, matching AFR 200-2, and repeats that Maj. Quintanilla falsely told Congress Blue Book had no radar lock-on cases until corrected by Hynek. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 16:19-17:21)*
+
+## Claims (gerb/del-rio)
+
+- Gerb recalls his stigma video's claim that the [[condon-committee]] report was created specifically to push the UFO stigma, in the context of the [[rb-47-carswell-encounter-1957]] entry. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 8:00-8:16)*

@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 Gen. Roger M. Ramey was the Eighth Air Force commander at Fort Worth to whom the Roswell debris was flown in July 1947, and who presented it as a weather balloon. Only the claims [[uap-gerb]] relays in one video are recorded here.
@@ -27,3 +29,7 @@ Gen. Roger M. Ramey was the Eighth Air Force commander at Fort Worth to whom the
 
 - Named in [[walter-haut]]'s affidavits and [[jesse-marcel]]'s account.
 - Linked to the [[samford-press-conference-1952]] and [[roswell-incident-1947]].
+
+## Claims (gerb/del-rio)
+
+- Gerb says Gen. Ramey, "the same general from Roswell", cancelled the nationwide US alert of December 1950 at 1316 hours (see [[el-indio-guerrero-crash-1950]]). *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 23:40-23:50)*

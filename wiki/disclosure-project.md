@@ -16,6 +16,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 The Disclosure Project is [[steven-greer]]'s whistleblower-testimony organization, launched publicly at a National Press Club event in 2001 after a private phase codenamed Project Starlight in the mid-1990s. Greer says it holds terabytes of documents and about 760-plus debriefed whistleblowers, published at dpiarchive.com, and that most identities are redacted unless a witness agrees to come forward. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 4:22-4:58, 7:31-7:49, 18:21-18:30, 12:55-13:01, 1:40:19-1:40:28)*
@@ -43,3 +45,7 @@ The Disclosure Project is [[steven-greer]]'s whistleblower-testimony organizatio
 ## Claims (gerb/whistleblowers-1)
 
 - Gerb cites the 2001 Disclosure Project testimony of [[stephen-lovekin]] (Blue Book, Roswell and Eisenhower claims), noting the misleading Brigadier General billing. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 13:06-13:38)*
+
+## Claims (gerb/del-rio)
+
+- Gerb cites two redacted entries in [[steven-greer]]'s Disclosure Project witness list involving [[att-corporation]] and ET technology transfer: a witness "from ACC" with knowledge of ET technology transfer to AT&T, and a redacted company president with knowledge of the ET technology transfer program who has been on a radio show and may have useful pseudonyms. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 25:29-26:10)*

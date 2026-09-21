@@ -18,6 +18,8 @@ sources:
     label: "The Origin of the UFO Stigma (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
     label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 NICAP, the first major civilian UFO-investigation group, is alleged in this source to have been founded by [[thomas-townsend-brown]] on returning from the International Geophysical Year (ASR: "naikap").
@@ -43,3 +45,7 @@ NICAP, the first major civilian UFO-investigation group, is alleged in this sour
 ## Claims (gerb/stigma)
 
 - Gerb says NICAP and Donald Keyhoe offered to brief the [[condon-committee]] and share files, and Condon declined many offers; the [[trick-memo-1966]] link in the description points to a NICAP archive document. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 15:39-15:56)*
+
+## Claims (gerb/del-rio)
+
+- Gerb says clippings of a 1965 Mechanicsburg newspaper article about Colonel [[robert-willingham]] were found 12 years later in NICAP's files, leading researcher Todd Zechel to Willingham and his affidavit. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 5:15-5:37)*

@@ -61,6 +61,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
@@ -220,3 +222,7 @@ Levenda tells Stanton Friedman he thinks the MJ-12 documents "look real" and are
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] says Roscoe Hillenkoetter, an MJ-12 member and CIA's founding director, was also a 1950s disclosure activist and that Australian [[geoffrey-cruickshank]] now finds the MJ-12 documents "almost certainly real". *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 46:17-46:39, 1:33:31-1:34:22)*
+
+## Claims (gerb/del-rio)
+
+- Gerb suggests the MJ-12 documents combine a lot of disinformation and factual information, similar to what [[stanton-friedman]] claimed, and finds the 1950 El Indio crash in the [[eisenhower-briefing-document]] interesting for its context despite sparse detail. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 28:34-28:49)*

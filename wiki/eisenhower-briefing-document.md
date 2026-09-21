@@ -21,6 +21,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 The first Majestic document to surface: an alleged 18 November 1952 briefing of President-elect [[dwight-d-eisenhower]] on "Operation Majestic 12", received on undeveloped film by Jaime Shandera in 1984 and authenticated as far as possible by [[stanton-friedman]]. Gerb reviews it in the 2024 mj12 video. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 7:24, 5:21)*
@@ -44,3 +46,7 @@ The first Majestic document to surface: an alleged 18 November 1952 briefing of 
 ## Additional claims (gerb/corso)
 
 - Per Gerb, in the manuscript Corso recognises the briefing document but says he never saw it at the NSC or White House ([[dawn-of-a-new-age-manuscript]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:08:03-1:08:22)*
+
+## Claims (gerb/del-rio)
+
+- Gerb summarizes the document's 6 December 1950 case: a craft of similar origin to Roswell hit at high speed near El Indio on the Texas-Mexico border, nearly obliterated, with the material sent to the AEC facility at Sandia, New Mexico. This is the [[el-indio-guerrero-crash-1950]]; Gerb finds little corroboration but notes surrounding context and says MJ-12 documents mix disinformation and fact. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 1:49-2:39)* *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 21:44-22:07)* *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 28:34-28:49)*

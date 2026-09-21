@@ -37,6 +37,8 @@ sources:
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
     label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 George Knapp, Las Vegas investigative journalist (KLAS-TV), has reported for decades on Area 51,
@@ -108,3 +110,7 @@ Levenda says Knapp's questioning of Bob Lazar was artful. *([jm/levenda](<../raw
 ## Claims (a52/lazar-secret)
 
 - Lazar says he never told Knapp the name [[chuck-payne]], and that Mariani phoned him to meet after he came out through Knapp: *([a52/lazar-secret](<../raw/a52/Area52 - 2026-05-08 - Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87.md>) 4:31-4:39,)*, see [[lazar-union-plaza-meeting-claims]].
+
+## Claims (gerb/del-rio)
+
+- Gerb cites Knapp's June 2018 Coast to Coast AM interview of [[eric-davis]], in which Davis mentioned Del Rio, Texas as a 1950s crash case. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 1:12-1:42)*

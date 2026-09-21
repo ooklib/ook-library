@@ -101,6 +101,8 @@ sources:
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -352,3 +354,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Claims (a52/coulthart)
 
 - Listed by [[ross-coulthart]] among aerospace companies harbouring control-group members. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 37:44-37:52)*
+
+## Claims (gerb/del-rio)
+
+- Gerb notes [[att-corporation]] managed [[sandia-national-laboratories]] until 1993, when Lockheed Martin took over, and recalls [[edgar-fuche]]'s claim (from his Lockheed video) that part of the TR-3B reverse engineering came from Sandia. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 26:34-26:59)*

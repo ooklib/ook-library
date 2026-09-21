@@ -23,6 +23,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 Former USAF Master Sergeant Edgar Fuche (the ASR transcripts render this variously as "Fuchs" and
@@ -90,3 +92,7 @@ could not provide material evidence for its existence. *([gerb/saic](../raw/gerb
 - Claims: [[defense-advanced-research-center]] (10 underground stories near Papoose Lake with a holographic mountain-face hangar for a TR-3B), [[eg-and-g]] built the hidden facilities, [[project-red-light]] contract, up to 35% of [[strategic-defense-initiative]] funding siphoned to black programs from 1982, 1992 contingency plan relocating exotic aircraft; TR-3B details in [[alien-reproduction-vehicle-tr3b]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 23:03-27:04, 27:22-38:16)*
 - The senior TR-3B designer, he said, would have been [[ben-rich]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 59:04-59:19)*
 - His credibility was attacked in the [[fouche-controversy]]; Gerb's view is that the main weakness is secondhand sourcing. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 45:08-50:37, 1:13:27-1:14:16)*
+
+## Claims (gerb/del-rio)
+
+- Gerb recalls Fouche's claim (USAF Master Sergeant per Gerb) that Lockheed reverse engineered the TR-3B and that part of the program came from Sandia Labs, linking this to AT&T's earlier management of Sandia. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 26:34-26:59)*

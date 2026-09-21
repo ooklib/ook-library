@@ -26,6 +26,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 Kirtland AFB, New Mexico, hosts a deep underground military installation and
@@ -84,3 +86,7 @@ Kirtland AFB, New Mexico, hosts a deep underground military installation and
 ## Additional claims (jm/kissinger)
 
 - [[jesse-michels]]: [[eric-henry-wang]]'s department moved to the Sandia complex here in 1956; [[don-carter]] oversaw advanced research here from 1961 and hosted seminars including [[henry-kissinger]]. *([jm/kissinger](<../raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md>) 4:35, 4:43, 31:28, 31:42, 31:50)*
+
+## Claims (gerb/del-rio)
+
+- Gerb notes Sandia lab sits on Kirtland property and that Kirtland and Sandia have long been intertwined with UFO lore, in the context of the alleged [[el-indio-guerrero-crash-1950]] wreckage going to Sandia. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 25:10-26:26)*

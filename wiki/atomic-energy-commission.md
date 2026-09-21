@@ -53,6 +53,8 @@ sources:
     label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 The Atomic Energy Commission (AEC), created by the 1946 Atomic Energy Act, was the civilian
@@ -182,3 +184,7 @@ administration|NNSA]] UFO legacy-program gatekeeping structure. *([gerb/sandia](
 ## Claims (gerb/kingman)
 
 - Gerb ([[gerb-kingman-video]]) says the AEC orchestrated the 11-shot [[operation-upshot-knothole]] series in early 1953, and that Stansel was an AEC-contract engineer (16 AEC specialists sworn to secrecy at Kingman); he also notes the AEC's role in the [[atomic-energy-act-1954]] classification claim. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 1:44-2:25, 5:23-5:31, 12:16-12:49)*
+
+## Claims (gerb/del-rio)
+
+- Gerb notes the 2024 NDAA language that the AEC was historically used to misclassify and obfuscate UFO information, and that the [[eisenhower-briefing-document]] says the December 1950 El Indio wreckage went to the AEC's Sandia facility. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 24:53-25:10)*

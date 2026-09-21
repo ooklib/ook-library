@@ -74,6 +74,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 Sandia National Laboratories, born from [[los-alamos-national-laboratory|Los Alamos]]'s Z
@@ -276,3 +278,7 @@ DoD/IC oversight channels. *([gerb/sandia](../raw/gerb/sandia.md) 5:44–6:03, 8
 ## Additional claims (gerb/tr-3b)
 
 Fouche says Sandia and Livermore reverse-engineered the TR-3B from an NHI crash and built the MFD; Gerb frames [[ffrdc]]s and University-Affiliated Research Centers as semi-private institutions serving legacy programs, and notes the Sandia mentions in MJ-12 documents ([[majestic-documents]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 30:20-32:55, 1:10:28-1:10:36)*
+
+## Claims (gerb/del-rio)
+
+- Gerb points out that Sandia sits on [[kirtland-air-force-base]] land and was managed by [[att-corporation]] from 1949 (Truman's handover) until [[lockheed-martin]] took over in 1993. He argues that the wreckage of the [[el-indio-guerrero-crash-1950]], said by the briefing document to have gone to Sandia and the [[atomic-energy-commission]], and the redacted [[disclosure-project]] witness entries about ET technology transfer to AT&T make AT&T an early suspect for UFOs in the private sector; he links it to [[edgar-fuche]]'s claim that Lockheed's TR-3B reverse engineering drew on Sandia. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 24:53-26:59)*

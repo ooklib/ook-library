@@ -27,6 +27,8 @@ sources:
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 Leonard Stringfield, a UFO crash-retrieval investigator Gerb describes as "legendary," produced
@@ -80,3 +82,7 @@ a series of "Crash Retrieval Status Reports" analyzed throughout the SAIC video.
 ## Claims (gerb/uso)
 
 - Per Timothy Good's *Need to Know*, Stringfield was allegedly informed of thousands of ONI UAP reports from 1952 to 1956, the source for a list of 1950s Navy sightings Gerb cites. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 3:38-4:07)*
+
+## Claims (gerb/del-rio)
+
+- Gerb says [[william-draeger]] first appears in Stringfield's crash-retrieval reports under "Del Rio, Texas 1950", though the account clearly concerns the 1955 [[willingham-langtry-crash-1955]], an example of the confusion between the two cases. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 19:24-19:45)*

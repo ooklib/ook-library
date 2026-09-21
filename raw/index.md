@@ -87,7 +87,7 @@ which transcripts still await ingestion.
 | `gerb/uso` | `raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md` | USO - Unidentified Submerged Objects (UAP Gerb) | true |
 | `gerb/uso-casebook` | `raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md` | USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb) | true |
 | `gerb/whistleblowers-1` | `raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md` | UFO Whistleblowers [Vol.1] (UAP Gerb) | true |
-| `gerb/del-rio` | `raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md` | The 1950s Del Rio, Texas UFO Crashes (UAP Gerb) | false |
+| `gerb/del-rio` | `raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md` | The 1950s Del Rio, Texas UFO Crashes (UAP Gerb) | true |
 | `gerb/whistleblowers-2` | `raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md` | UFO Whistleblowers [Vol.2] (UAP Gerb) | false |
 | `gerb/special-forces` | `raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md` | US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb) | false |
 | `gerb/herrera-2` | `raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md` | Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb) | false |

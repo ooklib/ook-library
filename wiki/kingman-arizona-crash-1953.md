@@ -34,6 +34,8 @@ sources:
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 Cited by Gerb as an example of "Southwest systems" used to intake recovered craft around this
@@ -100,3 +102,7 @@ period, associated with [[sandia-national-laboratories|Sandia]]. *([gerb/mitre](
 - Second witness: [[bill-uhouse]] claimed the 30 meter craft that crashed at Kingman in 1953 was taken to Area 51 ([[groom-lake]]) and its dead pilots to [[los-alamos-national-laboratory]], and that a flying disc simulator was built from it. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 13:16-15:03)*
 - Weaker witnesses: an unnamed pilot who spoke to [[leonard-stringfield]] in 1997, a man codenamed "JLD" in 1994 who died soon after, and Judy Wolcott (claimed her husband, killed in Vietnam, saw a Kingman retrieval), whom [[nick-redfern]] exposed as false (husband alive, daughter said she lied). Gerb says it is unknown whether this was fame-seeking or disinformation. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 17:12-18:44)*
 - Gerb's view: he is drawn to the case but the biologics are where it "gets strange"; he mentions a debunking theory that the USAF crashed remote-controlled aircraft carrying suited chimpanzees to test nuclear cloud effects, which he says does not explain the craft's resistance to deformation at 1,200 mph. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 18:44-19:40)*
+
+## Claims (gerb/del-rio)
+
+- Gerb contrasts Kingman, with [[arthur-stansel]]'s single affidavit whose details do not change, and connections like Dr. Ed Doll and Eric Wang, with the less credible [[willingham-langtry-crash-1955]]. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 30:19-30:42)*

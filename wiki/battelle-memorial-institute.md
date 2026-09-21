@@ -46,6 +46,8 @@ sources:
     label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 Battelle Memorial Institute is a contractor that administers multiple FFRDCs on behalf of the
@@ -129,3 +131,7 @@ DOE and other agencies, and is described by Gerb as "no stranger to this channel
 ## Claims (gerb/whistleblowers-1)
 
 - Gerb points viewers to his Battelle video for the claim that Roswell debris was likely studied by Battelle. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 3:46-4:02)*
+
+## Claims (gerb/del-rio)
+
+- Gerb says the Willingham fragment shares little with the shape-memory alloy "likely studied by Battelle" from Roswell. See [[willingham-langtry-crash-1955]]. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 14:37-14:54)*

@@ -47,6 +47,8 @@ sources:
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 J. Edgar Hoover was the first, long-time director of the
@@ -141,3 +143,7 @@ Levenda says Hoover received teletyped UFO reports from [[guy-banister]] and per
 ## Additional claims (gerb/corso)
 
 - Per Friedman, Hoover's FBI file on Corso had nothing but bad things to say ([[corso-criticism-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:13:17-1:13:34)*
+
+## Claims (gerb/del-rio)
+
+- Gerb cites an 8 December 1950 confidential memo directed to Hoover about flying saucers and Army intelligence being on high alert for data on them, in the context of the [[el-indio-guerrero-crash-1950]]. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 23:50-24:22)*

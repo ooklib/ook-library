@@ -68,6 +68,8 @@ sources:
     label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
+    label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -225,3 +227,7 @@ Levenda says Roswell may have been "exotic human technology" and notes Dornberge
 
 - Gerb's whistleblower video ([[gerb-whistleblowers-1-video]]) gives a Roswell timeline: radar detections of UFOs from White Sands on 1-3 July 1947, disappearance from radar on 4 July (likely crash date), quarantine north of town on 5 July with guards on Highway 285, debris and bodies shipped from Hangar 84 to Wright Field or Fort Worth, and Mac Brazel bringing debris to the sheriff on 6 July. He stresses two separate sites: the Foster Ranch debris field (3.4 miles long, 300 ft wide, only craft ejecta, near-massless shape-retaining metal) and a more secret craft site just north of town. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 2:11-4:02)*
 - [[walter-haut]] alleges (1993 and 2002 affidavits) he saw an egg-shaped craft and child-sized bodies in Building 84; [[stephen-lovekin]] alleges he heard of 'three or five' bodies and a metal piece from the crash. See also [[jesse-marcel]] and [[roger-ramey]]. Gerb personally believes a non-human craft crashed here and that it is the nexus of reverse-engineering programs. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 10:15-12:56, 17:29-19:46, 26:57-27:21)*
+
+## Claims (gerb/del-rio)
+
+- Gerb calls Roswell the best documented crash, with signed affidavits and many witnesses, and contrasts it with [[willingham-langtry-crash-1955]], nicknamed "The Other Roswell". He notes the Willingham material bears little resemblance to the shape-memory alloy at Roswell studied by [[battelle-memorial-institute]]. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 14:37-14:54)* *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 30:11-30:26)*
