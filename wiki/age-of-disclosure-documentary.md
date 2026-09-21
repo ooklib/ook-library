@@ -17,6 +17,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md"
+    label: "The Greatest Case of an Alien Encounter of our Time - James Fox | DEBRIEFED ep. 70 (Area52)"
 ---
 
 *Age of Disclosure*, a 2025 documentary directed by Dan Farah, features
@@ -52,3 +54,7 @@ Elizondo and Stratton, not at director Dan Farah or the film's production qualit
 - Features [[luis-elizondo]] and [[james-clapper]]; treated by Gerb as a successor
   partial-disclosure/narrative-control vehicle to
   [[advanced-aerospace-threat-identification-program|ATIP]].
+
+## Claims (a52/fox)
+
+- [[james-fox]] says that "on the coattails of Age of Disclosure" with [[luis-elizondo]] and Dan Farah (Fox does not believe it is a scoop) he must tip his hat to those involved for extraordinary claims at the highest levels, and then names Varginha ([[varginha-ufo-incident-1996]]) as "the case". *([a52/fox](<../raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md>) 2:01:29-2:01:54)*

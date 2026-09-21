@@ -48,6 +48,8 @@ sources:
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md"
+    label: "The Greatest Case of an Alien Encounter of our Time - James Fox | DEBRIEFED ep. 70 (Area52)"
 ---
 
 Dr. Eric Davis is the physicist who transcribed the [[wilson-davis-notes|Wilson-Davis notes]],
@@ -146,3 +148,7 @@ the estate of the late astronaut [[edgar-mitchell|Edgar Mitchell]].
 ## Claims (gerb/del-rio)
 
 - Gerb quotes Davis's June 2018 Coast to Coast AM interview with [[george-knapp]]: "if you're going to throw your bets on Roswell your bets really good. Del Rio, Texas, that was a 1950s case that was another one, and the other ones I won't bring up because those are still classified." Gerb connects this to the Del Rio cases but notes the confusion between the [[el-indio-guerrero-crash-1950]] and [[willingham-langtry-crash-1955]]. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 1:12-1:49)*
+
+## Claims (a52/fox)
+
+- [[james-fox]] says he interviewed Davis, an aerospace engineer, for the new cut of [[moment-of-contact-documentary]], tying the congressional-hearing crash-retrieval claims to the Varginha case. *([a52/fox](<../raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md>) 1:58:50-1:59:15)*

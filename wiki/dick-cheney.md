@@ -29,6 +29,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md"
+    label: "The Greatest Case of an Alien Encounter of our Time - James Fox | DEBRIEFED ep. 70 (Area52)"
 ---
 
 Gerb alleges former Vice President Dick Cheney "last ruled with an iron fist" over the
@@ -81,3 +83,7 @@ before leaving office in 2009. *([gerb/mitre](../raw/gerb/mitre.md) 5:03–5:18)
 ## Claims (gerb/edwards-afb)
 
 - Gerb notes [[christopher-have]], former 98th Range Wing commander, served as special adviser on national security affairs to Vice President Cheney, and mentions rumors implicating Cheney as a senior UFO-program member. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 18:52-19:16)*
+
+## Claims (a52/fox)
+
+- Ramsey says in the Fox interview that he has heard Cheney "would have been a good" person to truth-serum about UFOs; [[james-fox]] instead picks [[george-h-w-bush]]. See [[fox-ramsey-interview-2026]]. *([a52/fox](<../raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md>) 2:14:41-2:15:06)*

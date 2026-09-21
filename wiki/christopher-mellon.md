@@ -49,6 +49,8 @@ sources:
     label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md"
+    label: "The Greatest Case of an Alien Encounter of our Time - James Fox | DEBRIEFED ep. 70 (Area52)"
 ---
 
 Former deputy assistant secretary of defense for intelligence and a UFO-disclosure-advocate
@@ -123,3 +125,7 @@ Levenda met Mellon in Austin; see [[austin-to-the-stars-meeting]]. *([jm/levenda
 ## Claims (gerb/navy)
 
 - Gerb says someone should ask Mellon about the [[navy-special-program]], since he was an Assistant Secretary of Defense for Intelligence. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:24:07-1:24:16)*
+
+## Claims (a52/fox)
+
+- [[james-fox]] says everyone he showed the CIA's Glomar reply (to his FOIA request for flight logs around 20 January 1996) to, "including like Chris Melon", finds it highly odd. See [[varginha-usaf-landing-and-foia-claims]]. *([a52/fox](<../raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md>) 1:41:17-1:41:30)*

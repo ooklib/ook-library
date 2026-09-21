@@ -46,6 +46,8 @@ sources:
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
     label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md"
+    label: "The Greatest Case of an Alien Encounter of our Time - James Fox | DEBRIEFED ep. 70 (Area52)"
 ---
 
 An alleged additional 1940s UFO crash retrieval near Aztec, New Mexico, which Gerb speculates
@@ -118,3 +120,7 @@ alongside [[roswell-incident-1947|Roswell]]. *([gerb/mitre](../raw/gerb/mitre.md
 - Gerb ties the crash to early legacy-program structure: [[j-andrew-kissner]]'s 1994 sources on 2-4 discs, Project Supremacy, 1948 executive orders giving the AEC custody, and the AFSWP. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 27:15-30:30)*
 - Discussion of sources and objections: [[silas-newton]], [[leo-gebauer]], [[jp-cahn]], [[aztec-fraud-trial-1953]], [[dr-gee-scientists]], [[aztec-eyewitness-accounts]], [[scott-and-suzanne-ramsay]], [[interplanetary-phenomenon-unit]], [[john-spencer-carr]]. Gerb concludes the case likely happened but may conflate several events, including a 30-foot craft at Farmington. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 2:12:39-2:14:05)*
 - A 1991 [[leonard-stringfield]] status report 6 reproduced a report from a former alleged military officer (published with a collaborator named Chuck, ASR "Chuck. Old") who saw a photo of an intact tilted brushed-aluminum disc near Farmington, New Mexico before 1950, porthole with a pencil-sized puncture, diamond drills and torches failing, 4 ft charred humanoids in woven flight suits and a 30-something foot diameter. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 2:10:19-2:12:32)*
+
+## Claims (a52/fox)
+
+- [[chris-ramsey]] says Aztec was covered up as a hoax almost immediately by the FBI and a smear campaign, and that locals now say "that hoax"; he says people who researched it for 35 years convinced him something happened there. Raised while comparing to [[varginha-ufo-incident-1996]] in [[fox-ramsey-interview-2026]]. *([a52/fox](<../raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md>) 1:06:48-1:07:40)*

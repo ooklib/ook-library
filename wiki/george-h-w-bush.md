@@ -75,6 +75,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md"
+    label: "The Greatest Case of an Alien Encounter of our Time - James Fox | DEBRIEFED ep. 70 (Area52)"
 ---
 
 
@@ -230,3 +232,7 @@ The 911mmry clip compilation is partisan and its speakers are unnamed.
 ## Claims (a52/coulthart)
 
 - Per [[ross-coulthart]] (relaying [[eric-davis]]'s claim), Bush briefed Davis on mantids, reptilians and Nordics. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:10:06-1:10:24)*
+
+## Claims (a52/fox)
+
+- [[james-fox]] says that if he could truth-serum one person about UFOs he would choose Bush senior because he was head of the CIA and, Fox says, "was apparently told about the Hullman [Holloman] landing case"; he does not know if Bush saw evidence. Fox and Ramsey also float Cheney and Carter. *([a52/fox](<../raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md>) 2:14:26-2:15:08)*

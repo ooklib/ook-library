@@ -45,6 +45,8 @@ sources:
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md"
+    label: "The Greatest Case of an Alien Encounter of our Time - James Fox | DEBRIEFED ep. 70 (Area52)"
 ---
 
 Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arthur Schlesinger, briefed President-elect John F. Kennedy that [[laos]], not Vietnam, was his chief Southeast Asian worry. *([ewa/laos-1](../raw/ewa/Eyes Wide Open - 2024-11-01 - The Secret War in Laos - South East Asia's Heart of Darkness - LAOS 1.md) 0:44-1:07)*
@@ -113,3 +115,7 @@ Two-term US president (outgoing in 1961) who, per [[eyes-wide-open]] citing Arth
 ## Claims (gerb/whistleblowers-1)
 
 - [[stephen-lovekin]] alleges Eisenhower was read into the UFO estimate but was 'sold out,' losing control as work was farmed out to agencies and corporations, which Gerb links to the 1961 military-industrial-complex speech and to the legacy program slipping congressional oversight. Gerb also mentions the alleged 1954 Holloman meeting with extraterrestrials (see [[eisenhower-et-meeting-claims]]). *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 19:46-24:41)*
+
+## Claims (a52/fox)
+
+- [[james-fox]] says he would still choose Eisenhower as the person to truth-serum about UFOs, pointing to the farewell address on the military-industrial complex; Ramsey notes lore about gifts Eisenhower was given at meetings. See [[fox-ramsey-interview-2026]]. *([a52/fox](<../raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md>) 2:14:00-2:15:56)*

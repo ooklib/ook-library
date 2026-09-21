@@ -21,6 +21,8 @@ sources:
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md"
+    label: "The Greatest Case of an Alien Encounter of our Time - James Fox | DEBRIEFED ep. 70 (Area52)"
 ---
 
 Nuclear physicist turned UFO researcher. In 1983 he learned of Smith's 1950 memo and tracked down [[robert-sarbacher]]; he is also credited by Gerb with making the MJ-12 documents public. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 11:22-11:44, 15:37-15:44)*
@@ -42,3 +44,7 @@ Levenda says he told Friedman at Contact in the Desert that the MJ-12 documents 
 ## Additional claims (gerb/corso)
 
 - Interview clip in the Corso video: strongly critical of Corso and [[the-day-after-roswell-book]] (no index, false claims, Hoover's poor view, NSC claim); Gerb finds his linking Corso to [[bob-lazar]] inappropriate ([[corso-criticism-claims]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:10:24-1:14:39)*
+
+## Claims (a52/fox)
+
+- [[james-fox]] says Friedman, met at a conference in Peruibe, Brazil, was the reason he first looked seriously at the [[varginha-ufo-incident-1996]]: "he was high conviction on it too" and said Fox should look into it. *([a52/fox](<../raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md>) 15:46-16:26)*

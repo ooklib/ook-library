@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
     label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md"
+    label: "The Greatest Case of an Alien Encounter of our Time - James Fox | DEBRIEFED ep. 70 (Area52)"
 ---
 
 Leslie Kean is the journalist, co-author of the 2017 New York Times article that brought the Pentagon UAP videos and the ASAP (AATIP) story to the public, whom [[uap-gerb]] cites for her Kecksburg work. (ASR: "Keane", "Keen".) *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 30:38-30:55)*
@@ -26,3 +28,7 @@ Leslie Kean is the journalist, co-author of the 2017 New York Times article that
 ## Relationships
 
 - Investigated [[kecksburg-ufo-crash-1965]] and [[nasa]] records.
+
+## Claims (a52/fox)
+
+- [[james-fox]] says he put Kean on camera in the late 1990s or about 2000 with Tim Coleman for Out of the Blue, and that when his sister was dying he asked her for her best evidence of an afterlife; she cited a medium who told her private details about her deceased partner, so either the medium read her mind or spoke to him. See [[fox-ramsey-interview-2026]]. *([a52/fox](<../raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md>) 2:20:20-2:22:17)*

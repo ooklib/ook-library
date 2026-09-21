@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md"
+    label: "The Greatest Case of an Alien Encounter of our Time - James Fox | DEBRIEFED ep. 70 (Area52)"
 ---
 
 A group of cases [[uap-gerb]] proposes as candidates for the South American saucer recovery described by [[special-forces-witness-infographics]], who says the saucer hit a rocky outcropping, smashed the rock and took out a quarter mile of trees but was relatively unharmed. Gerb searched the 1969 to 2004 window using [[ryan-s-wood]]'s Majic Eyes Only and rates the match medium confidence.
@@ -30,3 +32,7 @@ A group of cases [[uap-gerb]] proposes as candidates for the South American sauc
 ## Relationships
 
 - Alleged by [[special-forces-witness-infographics]]; analyzed in [[gerb-special-forces-video]].
+
+## Claims (a52/fox)
+
+- [[james-fox]] presents the 1996 [[varginha-ufo-incident-1996]] in Brazil as a much better documented alleged crash of a cigar-shaped craft with captured beings and a US aircraft landing at Campinas, and says few Americans heard of it. See [[fox-ramsey-interview-2026]], [[moment-of-contact-documentary]]. *([a52/fox](<../raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md>) 10:31-11:46, 17:08-17:50)*

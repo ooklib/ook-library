@@ -93,6 +93,8 @@ sources:
     label: "The Origin of the UFO Stigma (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
+  - file: "raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md"
+    label: "The Greatest Case of an Alien Encounter of our Time - James Fox | DEBRIEFED ep. 70 (Area52)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -229,3 +231,7 @@ shared organization page.
 ## Claims (gerb/coyame)
 
 - In the [[deneb-report]] the CIA allegedly received radio interceptions about the [[coyame-crash-1974]] and rapidly assembled a recovery team at Fort Bliss, which Gerb reads as evidence of a rehearsed or prior-performed exercise. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 6:50-7:15)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 21:29-21:53)*
+
+## Claims (a52/fox)
+
+- [[james-fox]] says that when he filed a FOIA request for all US-bound flight logs around the January 1996 [[varginha-ufo-incident-1996]], the CIA (rather than the Air Force) replied years later with a neither-confirm-nor-deny response citing a 1949 act; Fox and Ramsey read this as telling. See [[varginha-usaf-landing-and-foia-claims]]. *([a52/fox](<../raw/a52/Area52 - 2026-01-09 - The Greatest Case of an Alien Encounter of our Time - James Fox _ DEBRIEFED ep. 70.md>) 1:40:34-1:41:52)*
