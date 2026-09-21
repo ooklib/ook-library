@@ -23,6 +23,8 @@ relations:
   - relation: mission_partner_of
     target: national-reconnaissance-office
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md"
+    label: "MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/nro.md
@@ -74,3 +76,7 @@ Command]]'s muscle for foreign UFO crash retrievals. *([gerb/saic](../raw/gerb/s
 ## Claims (jm/matthew-brown)
 
 - Brown says he was not exposed to its UAP relevance but finds public reporting plausible. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:00:17-1:00:36)*
+
+## Claims (gerb/moondust)
+
+- Gerb lists the Office of Global Access among unacknowledged programs, with Zodiac and Blue Fly, that he wants to cover after Moon Dust. *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 14:12-14:29)*

@@ -19,6 +19,8 @@ relations:
     target: majestic-documents
     note: "interviews Ryan S. Wood, 2024-08-25"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md"
+    label: "MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md"
     label: "The Marines Who Got too Close to UFOs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
@@ -152,3 +154,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/flight-grounded)
 
 - Short documentary on the 1979 Manises incident ([[gerb-flight-grounded-video]], [[manises-ufo-incident-1979]]), which he says is legitimate; he rejects the skeptical explanations and cites the [[tehran-ufo-incident-1976]] parallel. He says he plans more case documentaries, including a global air force encounters video. *([gerb/flight-grounded](<../raw/gerb/UAP Gerb - 2024-01-21 - The First Commercial Flight Grounded Due to UFOs.md>) 0:00-16:33)*
+
+## Claims (gerb/moondust)
+
+- Documentary on [[project-moon-dust]] ([[gerb-moondust-video]]): he argues it was a UFO crash retrieval program, not only a space-debris recovery one, and says he plans a website archiving his research documents. *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 0:00-14:29)*

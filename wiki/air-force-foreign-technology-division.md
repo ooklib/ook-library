@@ -10,6 +10,8 @@ relations:
     target: army-foreign-technology-division
     note: "same name, distinct organization"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md"
+    label: "MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
 ---
@@ -19,3 +21,7 @@ The well-known USAF Foreign Technology Division at [[wright-patterson-air-force-
 ## Relationships
 
 - Contrasted with [[army-foreign-technology-division]]; located at [[wright-patterson-air-force-base]].
+
+## Claims (gerb/moondust)
+
+- Per Gerb's FOIA reading, a 1976 Moon Dust memo asked Canadian officials for photos of non-US satellite metals of particular interest to the USAF foreign technology divisions at Wright-Patterson, and 1968 Nepal cables were addressed to the DIA, the 1127th and Wright-Patterson (see [[project-moon-dust]]). *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 5:13-5:30, 6:13-6:35)*

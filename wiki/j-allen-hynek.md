@@ -14,6 +14,8 @@ relations:
   - relation: references
     target: condon-committee
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md"
+    label: "MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
 ---
@@ -30,3 +32,7 @@ J. Allen Hynek (ASR "heinik") is presented by [[uap-gerb]] as the scientific adv
 ## Relationships
 
 - Scientific adviser to [[project-blue-book]]; critic of [[robertson-panel-1953]] and [[condon-committee]]; hub [[gerb-iceberg-level-2-video]].
+
+## Claims (gerb/moondust)
+
+- Gerb says Hynek, Blue Book's scientific advisor, reached the same conclusion as Ruppelt that a parallel, more complete investigation was being conducted. *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 2:09-2:35)*

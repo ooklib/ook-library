@@ -12,6 +12,8 @@ relations:
   - relation: alleged_by
     target: under-secretary-of-defense-for-acquisition-and-sustainment
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md"
+    label: "MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/saic.md
@@ -79,3 +81,7 @@ controversial whistleblower discussed earlier in the same video.
 ## Claims (jm/cameron)
 
 - Cameron describes the Wilson leak document as the biggest break in the case for a legacy program cut off from high-level people. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:19:09-1:19:25)*
+
+## Claims (gerb/moondust)
+
+- Gerb recalls, from his Wilson-Davis video, Wilson's claim that early-1990s special access programs were reorganized to hide crash retrieval and reverse engineering programs, and uses it to explain Air Force denials about [[project-moon-dust]] ([[moon-dust-senate-inquiries-1992-1994]]). *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 12:14-12:54)*

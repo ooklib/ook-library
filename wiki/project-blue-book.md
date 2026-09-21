@@ -14,6 +14,8 @@ relations:
     target: condon-committee
     note: "the 1969 Condon Committee's findings marked the official end of Project Blue Book"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md"
+    label: "MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
@@ -101,3 +103,7 @@ became **Project Grudge** in 1949 (running until 1951), superseded by **Project 
 ## Claims (gerb/iceberg-2)
 
 - Gerb, via [[j-allen-hynek]]: 12,618 reports analyzed 1952-1969, 701 unexplained; Hynek called it a cover-up and possibly a front for a classified group. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 11:53-13:37)*
+
+## Claims (gerb/moondust)
+
+- Gerb says other classified UFO-studying programs ran alongside Blue Book, possibly including the crash retrieval program [[project-moon-dust]], and calls the years from Blue Book's end (1969) to 2008 a "Dark Ages" with no official US UAP investigation group. *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 2:35-2:51, 12:54-13:16)*

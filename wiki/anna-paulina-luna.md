@@ -8,6 +8,8 @@ relations:
     target: eric-burlison
     note: "jointly met a Navy-source whistleblower with Burlison"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md"
+    label: "MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
@@ -26,3 +28,7 @@ Gerb connects to the [[tic-tac-factory-uso]]. *([gerb/mitre](../raw/gerb/mitre.m
 ## Claims (jm/borland)
 
 - Borland names Luna with Burlison and Moskowitz as members of Congress trying to advance disclosure. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 2:29:29-2:29:44)*
+
+## Claims (gerb/moondust)
+
+- Gerb credits the UAP caucus (Burchett, Luna, Burlison, Moskowitz) with bringing the 1978 Bolivia crash to his attention ([[bolivia-ufo-crash-1978]]). *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 8:36-8:58)*

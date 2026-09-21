@@ -11,6 +11,8 @@ relations:
     target: roswell-incident-1947
     note: "alleged destination of the Roswell wreckage"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md"
+    label: "MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: raw/gerb/mitre.md
@@ -97,3 +99,7 @@ and Air Research and Development Command (ARDC) — forerunners of the modern
 ## Claims (gerb/iceberg-2)
 
 - Gerb lists claimed links: Roswell debris shipped from Hangar 84 on 5 July 1947, 1949-55 [[battelle-memorial-institute]] analysis, [[ben-rich]]'s 1993 talk, a 1956 Afghanistan landing monitored, Goldwater's 1973 denial and LeMay rebuke, and Rep. Mike Turner opposing the 2024 NDAA UAP amendment. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 4:43-7:40)*
+
+## Claims (gerb/moondust)
+
+- Gerb notes that the Moon Dust memos and cables (Nepal 1968, Canada 1976) were addressed to Wright-Patterson, which he calls a hub where UFO crash retrievals are stored, citing Roswell and Goldwater being laughed off when he asked to see the room. *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 5:13-5:30, 6:52-7:32)*

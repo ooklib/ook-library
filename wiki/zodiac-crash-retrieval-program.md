@@ -13,6 +13,8 @@ relations:
     target: eric-davis
     note: "relayed the Zodiac story to Jacques Vallee, 3 March 2001 journal entry"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md"
+    label: "MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
@@ -63,3 +65,7 @@ but has twice deferred a full investigation, saying the topic "deserves its own 
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video notes that [[richard-dolan]] names [[trw]] as primary contractor of Project Zodiac (source pseudonym Sage Masters) and says he may cover it later. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 15:06-15:38)*
+
+## Claims (gerb/moondust)
+
+- Gerb names Zodiac in the outro as an unacknowledged program he plans to cover in the future. *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 14:12-14:29)*

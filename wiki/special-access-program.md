@@ -25,6 +25,8 @@ relations:
   - relation: governed_by
     target: special-access-program-central-office
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md"
+    label: "MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
@@ -201,3 +203,7 @@ and stretch to stay funded and hidden. *([gerb/secrecy_2](../raw/gerb/secrecy_2.
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] describes the hierarchy of SAP, unacknowledged SAP and waived unacknowledged SAP (WUSAP), the last briefed only to the Gang of Eight. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 33:42-34:29)*
+
+## Claims (gerb/moondust)
+
+- Gerb links the 1992-1994 Air Force denials and file destruction about Moon Dust to the early-1990s reorganization of special access programs ([[moon-dust-senate-inquiries-1992-1994]]); speculative. *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 12:14-12:54)*

@@ -17,6 +17,8 @@ relations:
     target: edward-j-ruppelt
     note: "named file AF-ATIC-FILM-0352, a Ruppelt-narrated 1952 briefing film held at MIT Lincoln Labs"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md"
+    label: "MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
@@ -102,3 +104,7 @@ from Burlison; not otherwise detailed in this source.
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] says Burlison has recently indicated willingness to investigate the classified craft-shaped-building allegation and said publicly he has heard it too. See [[giant-craft-shaped-building-claims-coulthart]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:13:58-2:14:16)*
+
+## Claims (gerb/moondust)
+
+- Named with Burchett, Luna and Moskowitz as UAP caucus members whose work surfaced the 1978 Bolivia crash ([[bolivia-ufo-crash-1978]]). *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 8:36-8:58)*

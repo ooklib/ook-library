@@ -11,6 +11,8 @@ relations:
     target: project-blue-book
     note: "1956 book 'The Report on Unidentified Flying Objects'"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md"
+    label: "MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
@@ -36,3 +38,7 @@ depicts sensitive material regarding non-human technical vehicles.
 ## Additional claims (jm/malmgren)
 
 - Host: a 1952 *Look* article quotes Ruppelt saying many sightings originated at one atomic-weapons site or another. *(Host:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:00:35-1:00:59)**)*
+
+## Claims (gerb/moondust)
+
+- Gerb says Ruppelt conducted the first official US study of the phenomenon under Project Grudge (1948-1949), directed Sign and Blue Book, concluded UFOs had an "interplanetary explanation", and on 24 April 1952 suggested parallel programs "conducting a more complete investigation"; Gerb reads this as room for a classified crash retrieval program such as [[project-moon-dust]]. *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 1:37-2:51)*

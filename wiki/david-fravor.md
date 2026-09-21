@@ -7,6 +7,8 @@ relations:
   - relation: references_testimony_of
     target: 2004-nimitz-encounter
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md"
+    label: "MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
     label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: raw/gerb/mitre.md
@@ -51,3 +53,7 @@ Diego is one of the most widely publicized UAP sighting cases.
 ## Claims (gerb/flight-grounded)
 
 - [[uap-gerb]] says Fravor states the objects (plural) in the 2004 Tic Tac sighting jammed the jets' radar and sensors, citing this as a recurring pattern alongside [[manises-ufo-incident-1979]]. *([gerb/flight-grounded](<../raw/gerb/UAP Gerb - 2024-01-21 - The First Commercial Flight Grounded Due to UFOs.md>) 9:35-9:59)*
+
+## Claims (gerb/moondust)
+
+- Gerb compares the pressure-vessel shape of 1978 New Zealand fragments investigated by Moon Dust to Fravor's Tic Tac, described as like a propane tank or pressure vessel with no inlets or outlets. *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 7:39-8:04)*
