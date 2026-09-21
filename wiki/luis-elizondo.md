@@ -64,6 +64,8 @@ sources:
     label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-12 - Incredible UFO Footage - METAPOD.md"
     label: "Incredible UFO Footage - METAPOD (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
+    label: "USO - Unidentified Submerged Objects (UAP Gerb)"
 ---
 
 Luis Elizondo (ASR-transcribed "Lou Alzando"/"Luis Alzando") claimed to direct, work for, or
@@ -209,3 +211,7 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
 ## Claims (gerb/metapod)
 
 - Gerb says the [[metapod-ufo-footage-2015]] shows three of the five UAP observables listed by AATIP and Elizondo: instantaneous acceleration, anti-gravity with no visible means of propulsion, and low observability. *([gerb/metapod](<../raw/gerb/UAP Gerb - 2024-02-12 - Incredible UFO Footage - METAPOD.md>) 8:38-9:20)*
+
+## Claims (gerb/uso)
+
+- Gerb quotes Elizondo's 2022 interview with astronaut Terry Virts recounting, from an unnamed source, a helicopter crew recovering test-fired Navy cruise missiles above the Puerto Rico Trench who twice saw a huge round black object rise from the depths, the second time pulling the missile under as a frogman climbed the rope. See [[uso-unidentified-submerged-objects]]. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 16:45-18:59)*

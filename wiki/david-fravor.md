@@ -19,6 +19,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md"
     label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
+    label: "USO - Unidentified Submerged Objects (UAP Gerb)"
 ---
 
 Commander David Fravor, US Navy (ret.), is the pilot whose 2004 "Tic Tac" encounter off San
@@ -63,3 +65,7 @@ Diego is one of the most widely publicized UAP sighting cases.
 ## Claims (gerb/knuth)
 
 - Gerb notes that [[kevin-knuth]]'s 2019 flight-characteristics paper emphasizes Fravor's testimony alongside the FLIR footage in analyzing the [[2004-nimitz-encounter]]. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 2:22-2:37)*
+
+## Claims (gerb/uso)
+
+- Gerb credits Fravor's Tic Tac sighting, which seemingly interacted with something churning under the water's surface, with reviving attention to transmedium UAP. See [[uso-unidentified-submerged-objects]]. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 0:08-0:25)*

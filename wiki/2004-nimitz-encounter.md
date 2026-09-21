@@ -20,6 +20,8 @@ sources:
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md"
     label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
+    label: "USO - Unidentified Submerged Objects (UAP Gerb)"
 ---
 
 A widely publicized 2004 encounter off San Diego in which US Navy personnel from the USS Nimitz
@@ -60,3 +62,7 @@ maneuvers, following two weeks of radar/sensor detections of objects descending 
 ## Claims (gerb/knuth)
 
 - [[kevin-knuth]]'s paper and talk, as relayed by [[uap-gerb]], estimate the Tic Tac's descent from 28,000 ft to sea level as a lower bound of about 5,000 g (Gerb: 5,400 g), implying roughly 1,100 GW of power for a conservative 1,000 kg mass and an unexplained absence of sonic boom or energy release. The estimate draws on [[david-fravor]]'s testimony, the FLIR footage and radar. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 2:22-2:37, 7:39-9:11, 14:33-15:04)*
+
+## Claims (gerb/uso)
+
+- Gerb, via Gallaudet's paper, points out that the Tic Tac hovered just above roiling ocean whitewater, possibly indicating a larger UAP below the surface; he also recounts Kevin Thomas's alleged 1991 USS Nimitz triangle sighting. See [[uso-unidentified-submerged-objects]]. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 0:17-0:25, 14:26-14:41, 19:57-20:46)*

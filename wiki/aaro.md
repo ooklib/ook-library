@@ -44,6 +44,8 @@ sources:
     label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
+    label: "USO - Unidentified Submerged Objects (UAP Gerb)"
 ---
 
 The DoD's All-domain Anomaly Resolution Office ("Arrow" in the ASR transcript), the official
@@ -170,3 +172,7 @@ and [[condon-committee]]. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:09:03â€
 - Gerb says AARO's Historical Report Volume 1 (March 2024) all but names [[michael-herrera]], summarizing an interviewee who encountered "US Special Forces loading containers onto a large extraterrestrial spacecraft", which he says contains two factual errors (Herrera never said special forces or extraterrestrial), and that Gerb leans toward purposeful disinformation. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 40:58-42:17)*
 - Gerb and [[joeyisnotmyname]] argue the report's page-32 "authentic non-UAP SAP" case (correlated with a platform tested at a military facility, from a precise time and place) is not Herrera, whose event was in remote jungle with an imprecise date and location. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 42:25-43:29)*
 - They say AARO did not record his testimony, only took notes, and carefully avoided accusing any whistleblower of lying, emphasizing belief instead, so it could not be pursued for prosecution. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 43:37-46:43)*
+
+## Claims (gerb/uso)
+
+- Gerb (citing Gallaudet's paper) calls AARO's Historical Report Volume 1 "abysmal" for making zero references to any USO or maritime cases or whistleblowers. See [[timothy-gallaudet]]. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 14:01-14:26)*

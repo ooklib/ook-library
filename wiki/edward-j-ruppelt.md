@@ -23,6 +23,8 @@ sources:
     label: "The Origin of the UFO Stigma (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md"
     label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
+    label: "USO - Unidentified Submerged Objects (UAP Gerb)"
 ---
 
 Air Force Captain Edward J. Ruppelt served as director of Project Grudge and, later,
@@ -60,3 +62,7 @@ depicts sensitive material regarding non-human technical vehicles.
 ## Claims (gerb/battelle)
 
 - Gerb says the secret 1953 Battelle memo on [[project-stork]] called attention to Ruppelt. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 2:44-2:57)*
+
+## Claims (gerb/uso)
+
+- Gerb recalls Ruppelt's statement that Air Force intelligence (AFOIN, with its technical capabilities and collection control branches) ran a more complete UFO investigation parallel to Blue Book, and asks whether the "SG" sender of nine 1952 submarine-UFO reports was a special group of that kind. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 4:15-4:53)*

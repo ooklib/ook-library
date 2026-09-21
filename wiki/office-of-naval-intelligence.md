@@ -24,6 +24,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
+    label: "USO - Unidentified Submerged Objects (UAP Gerb)"
 ---
 
 The Office of Naval Intelligence, founded 1882, is described as the world's oldest intelligence
@@ -69,3 +71,8 @@ agency and the US Navy's premier intelligence arm, part of both the DoD and IC. 
 ## Claims (jm/matthew-brown)
 
 - Brown calls ONI the oldest US intelligence agency and the Navy the oldest part of the legacy program, with earlier intelligence in private banking families' hands. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:59:07-1:59:37)*
+
+## Claims (gerb/uso)
+
+- Gerb says a 24 April 1952 Air Force intelligence letter forwarding nine submarine-UFO contact reports was written with ONI's assistance (the reports are said to be unavailable), and, via Timothy Good and [[leonard-stringfield]], that Stringfield was told of thousands of ONI UAP reports from 1952 to 1956. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 3:13-4:07)*
+- OPNAV directive 3820 (23 January 1954) sent flying object reports to the Director of Naval Intelligence among others; see [[janap-146c]]. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 6:12-6:37)*

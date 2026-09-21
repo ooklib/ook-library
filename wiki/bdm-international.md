@@ -26,6 +26,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
+    label: "USO - Unidentified Submerged Objects (UAP Gerb)"
 ---
 
 BDM International is a defense contractor with a secure facility in McLean, Virginia, where a
@@ -65,3 +67,7 @@ supervised by [[john-b-alexander|Col. John B. Alexander]]) was held — one year
 ## Additional claims (gerb/northrop)
 
 - Gerb's Vol.1 ([[northrop-investigation-video-2025]]): headquartered around Fort Bliss, White Sands and Holloman work on missile guidance, optics and radiation physics; founded 1959 like MITRE and Aerospace Corp; bought by [[trw]] in 1997; [[will-miller]] named BDM with Boeing and Lockheed as keepers of the secrets in DoD middle management and contractors; [[albert-stubblebine]] became a BDM vice president after leaving INSCOM in 1984 and BDM hosted a 1985 theoretical physics conference on UFO reverse engineering; [[sumner-shapiro]] (BDM board member in 1989) told astronaut [[bob-oechsler]] that craft were dismantled in a set sequence and shipped across the country; Northrop today keeps a presence in Tysons Corner near the former BDM headquarters. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 18:33-21:38)*
+
+## Claims (gerb/uso)
+
+- Oke Shannon's notes place the 1985 Advanced Theoretical Physics Working Group at BDM's International McLean secure facility, classified using DOE controls. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 9:21-9:36)*

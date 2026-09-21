@@ -77,6 +77,8 @@ sources:
     label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
+    label: "USO - Unidentified Submerged Objects (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -224,3 +226,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/herrera-1)
 
 - Video ([[gerb-herrera-1-video]]) with guest [[joeyisnotmyname]], now a close friend, breaking down [[michael-herrera]]'s case. Gerb admits earlier bias against Herrera, says he is still torn on the insider (scoop or real information), asks viewers whether Herrera's credibility rose or fell, and announces a Patreon and further follow-ups with Joey. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 0:00-2:49, 52:44-54:37)*
+
+## Claims (gerb/uso)
+
+- Gerb's USO video ([[gerb-uso-video]], 2024-04-17) covers the history and claims of unidentified submerged objects; he says it is the first time he has seen the history of USO study covered, and offers a follow-up on officially reported cases. See [[uso-unidentified-submerged-objects]]. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 0:33-1:05, 24:52-25:33)*

@@ -30,6 +30,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
+    label: "USO - Unidentified Submerged Objects (UAP Gerb)"
 ---
 
 The "Tic Tac Factory" is Gerb's name (given to him by an unnamed source) for an alleged, several
@@ -100,3 +102,7 @@ semi-permanently resides in the Atlantic near the Bahamas.
 ## Claims (jm/censored-book)
 
 - In [[sentinels-of-ether-michels-episode-2026]] Coulthart is quoted saying he knows "categorically that the Tic Tac is Lockheed Martin technology"; Michels ties this to [[john-norseen]]. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:14:46-1:14:59)*
+
+## Claims (gerb/uso)
+
+- Gerb's general USO video does not mention this program by name but covers the wider history and claims of USOs, incl. Gallaudet's paper and the Tic Tac case; see [[uso-unidentified-submerged-objects]]. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 10:33-16:29)*

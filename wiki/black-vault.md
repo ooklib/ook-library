@@ -19,6 +19,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md"
     label: "FASTWALKERS - UFOs Outside Earth (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
+    label: "USO - Unidentified Submerged Objects (UAP Gerb)"
 ---
 
 The Black Vault, a FOIA-focused transparency site/organization, received the list of 38
@@ -48,3 +50,7 @@ The Black Vault, a FOIA-focused transparency site/organization, received the lis
 ## Claims (gerb/fastwalkers)
 
 - John Greenwald received a Space Force FOIA denial (Exemption 1) in late 2023 and a 2013 USNORTHCOM/NORAD denial on fastwalker and slowwalker requests, per Gerb; the 2013 response released two papers. See [[fastwalker-designation]] and [[norad]]. *([gerb/fastwalkers](<../raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md>) 1:33-3:25)*
+
+## Claims (gerb/uso)
+
+- Gerb agrees with John Greenwald that an altered magazine image does not discredit the other [[uss-trepang-photographs-1971]], since publications often enhance photographs for print; the Black Vault hosts an analysis of the images. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 24:05-24:21)*

@@ -38,6 +38,8 @@ sources:
     label: "Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
     label: "The Origin of the UFO Stigma (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
+    label: "USO - Unidentified Submerged Objects (UAP Gerb)"
 ---
 
 The historical Air Force UFO-investigation project, referenced as a comparison point: AARO was
@@ -121,3 +123,7 @@ became **Project Grudge** in 1949 (running until 1951), superseded by **Project 
 - Gerb says Blue Book ran 1952 to 1969, "where the true UFO stigma was born", founded to judge whether UFOs threatened national security and to analyze data scientifically; it analyzed 12,618 reports, 701 left unexplained. It followed [[project-sign]] and [[project-grudge]]. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 5:57-7:15)*
 - [[j-allen-hynek]] is cited as saying it was not a scientific project, withheld information and never notified the media of interesting cases, and was essentially a disinformation project and distraction tool. Gerb says Hynek pushed swamp gas and weather balloon explanations nationally. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 6:00-8:12)*
 - Gerb says it was a tool of the [[ufo-stigma]]; head Maj. Hector Quintanilla told the [[house-armed-services-ufo-hearing-1966]] it had no unexplained radar cases, which Gerb calls a lie. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 13:42-14:18)*
+
+## Claims (gerb/uso)
+
+- Gerb says Blue Book member Dewey Fournet ran [[operation-interloper]] in 1951, an extra-governmental study of aerial and undersea UAP that briefed the CIA in 1953, and that USO reporting was restricted from the 1950s ([[janap-146c]], AFR 200-2 sending reports to ATIC instead). *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 1:05-1:55, 6:04-6:44)*

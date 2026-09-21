@@ -95,3 +95,4 @@ asymmetric (the inverse is implied, not separately stored). Symmetric ones are n
 | `related_to` | entity ↔ entity | loose thematic association drawn by a source, weaker than `analogous_to` or `influenced` | **yes** |
 | `authored_by` | book/document → person | inverse of `authored`, used where the work's page is the subject | no |
 | `criticized_by` | document/event → person/org | who publicly criticized or rebutted it, as reported by a source (used by `gerb/kirkpatrick`) | no |
+| `led_by` | program/org → person | who directed or ran it, per a source | no |

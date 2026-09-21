@@ -51,6 +51,8 @@ sources:
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
+    label: "USO - Unidentified Submerged Objects (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -134,3 +136,7 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 
 - Gerb says the [[herrera-black-program-insider]] asked Greer to connect him with [[michael-herrera]], and that someone who came forward to Greer says the Indonesia containers carried people. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 15:20-16:22)*
 - Gerb argues Herrera and Greer are not "in cahoots": Herrera says Greer embellished details of his story. Gerb still calls Greer one of the only avenues whistleblowers had before [[david-grush]] and suggests [[karl-nell]] or AARO as future ones. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 51:10-52:35)*
+
+## Claims (gerb/uso)
+
+- Gerb notes Norton Air Force Base, where Vallee's source said UFO and USO files were held, was named in Greer's Disclosure Project's alleged 1996 briefing to Congress. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 7:23-7:46)*

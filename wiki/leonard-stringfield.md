@@ -25,6 +25,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
+    label: "USO - Unidentified Submerged Objects (UAP Gerb)"
 ---
 
 Leonard Stringfield, a UFO crash-retrieval investigator Gerb describes as "legendary," produced
@@ -74,3 +76,7 @@ a series of "Crash Retrieval Status Reports" analyzed throughout the SAIC video.
 ## Claims (gerb/kingman)
 
 - Per Gerb ([[gerb-kingman-video]]), in 1997 (as stated) a pilot approached Stringfield after a lecture in Cincinnati claiming to have been at the Kingman crash site in 1953 and describing about 4 ft tall, brown-faced beings in silvery suits similar to Stansel's; in 1994 a man codenamed "JLD" made similar claims and died shortly after. Gerb calls these unnamed sources weak. Gerb also links Stringfield's Kingman writings. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 17:15-17:59)*
+
+## Claims (gerb/uso)
+
+- Per Timothy Good's *Need to Know*, Stringfield was allegedly informed of thousands of ONI UAP reports from 1952 to 1956, the source for a list of 1950s Navy sightings Gerb cites. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 3:38-4:07)*

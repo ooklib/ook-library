@@ -19,6 +19,8 @@ sources:
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
+    label: "USO - Unidentified Submerged Objects (UAP Gerb)"
 ---
 
 Oke Shannon, former manager of special projects at [[los-alamos-national-laboratory|Los
@@ -56,3 +58,7 @@ facility, supervised by [[john-b-alexander|Col. John B. Alexander]].
 ## Claims (jm/borland)
 
 - On [[borland-michels-interview-2026]], Michels calls Shannon (Los Alamos, advanced theoretical physics group with [[hal-puthoff]]) the closest thing to a theoretical UFO model and links him to Ferris Williams's five-dimensional model tying electromagnetism to gravity; Borland says Shannon was a big topic on classified servers (JWICS) before an NSA cleanup. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:17:31-1:19:00)* See [[salvatore-pais]].
+
+## Claims (gerb/uso)
+
+- Gerb reads Shannon's 2022-published notes from the 1985 Advanced Theoretical Physics Working Group (at BDM's McLean secure facility, DOE-classified) as listing a Navy intelligence underwater UFO hotspot near Golfo San Matias off Argentina, besides Mount Hayes, Alaska. Gerb also recalls that Shannon confirmed the authenticity of the Wilson Davis memo ([[wilson-davis-notes]]). *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 9:03-9:54)*

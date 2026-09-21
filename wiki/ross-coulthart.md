@@ -40,6 +40,8 @@ sources:
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md"
     label: "FASTWALKERS - UFOs Outside Earth (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
+    label: "USO - Unidentified Submerged Objects (UAP Gerb)"
 ---
 
 Ross Coulthart, Australian investigative journalist (host of *Need to Know* with Bryce Sable),
@@ -103,3 +105,7 @@ In this Area52 interview [[ross-coulthart]] is the guest; see [[coulthart-ramsey
 ## Claims (gerb/fastwalkers)
 
 - Gerb says Coulthart vetted [[bob-fish]], and that a source told Coulthart in In Plain Sight of an aerospace company in Long Beach with access to wreckage, which Gerb reads as [[aerospace-corporation]]. *([gerb/fastwalkers](<../raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md>) 8:26-8:43, 19:30-20:17)*
+
+## Claims (gerb/uso)
+
+- Gerb quotes Coulthart's NewsNation interview with [[timothy-gallaudet]], in which Gallaudet says we are being visited by non-human intelligence and that the US is in contact. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 11:19-11:52)*
