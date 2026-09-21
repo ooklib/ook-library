@@ -18,6 +18,8 @@ sources:
     label: "UFO whistleblower David Grusch: 'We are not alone' | Official Ross Coulthart NewsNation interview (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md"
+    label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
 ---
 
 A widely publicized 2004 encounter off San Diego in which US Navy personnel from the USS Nimitz
@@ -54,3 +56,7 @@ maneuvers, following two weeks of radar/sensor detections of objects descending 
 ## Claims (gerb/flight-grounded)
 
 - [[uap-gerb]] cites the Nimitz Tic Tac sighting off San Diego, with the objects reportedly jamming the jets' radar and sensors, as a parallel to the fighter avionics jamming in [[manises-ufo-incident-1979]] and [[tehran-ufo-incident-1976]]. *([gerb/flight-grounded](<../raw/gerb/UAP Gerb - 2024-01-21 - The First Commercial Flight Grounded Due to UFOs.md>) 9:26-9:59)*
+
+## Claims (gerb/knuth)
+
+- [[kevin-knuth]]'s paper and talk, as relayed by [[uap-gerb]], estimate the Tic Tac's descent from 28,000 ft to sea level as a lower bound of about 5,000 g (Gerb: 5,400 g), implying roughly 1,100 GW of power for a conservative 1,000 kg mass and an unexplained absence of sonic boom or energy release. The estimate draws on [[david-fravor]]'s testimony, the FLIR footage and radar. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 2:22-2:37, 7:39-9:11, 14:33-15:04)*

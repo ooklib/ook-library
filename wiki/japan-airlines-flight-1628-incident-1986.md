@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md"
+    label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
 ---
 
 [[uap-gerb]] calls the 17 November 1986 Japan Airlines cargo flight 1628 sighting one of his all-time favorite and most underrated UFO cases. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 1:03-1:35)*
@@ -28,3 +30,8 @@ sources:
 ## Relationships
 
 - Analysed by [[kevin-knuth]]; compare [[project-blue-book]] debunking pattern via [[j-allen-hynek]]; hub [[gerb-iceberg-level-2-video]].
+
+## Claims (gerb/knuth)
+
+- Gerb recaps the case as the "1986 JAL encounter" (17 November 1986, about 5:00 p.m., Captain Terauchi and two crew, 35,000 ft): a huge object he sizes at roughly four 747s in diameter with two smaller lights followed the 747 for 31 minutes, orbiting at about 7.5 miles and confirmed by FAA FPS-117 3D phased-array radar sweeps at 12-second intervals. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 12:24-14:09)*
+- [[kevin-knuth]] calculates a speed around 269,000 mph for the craft. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 12:32-12:40)*

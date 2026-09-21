@@ -34,6 +34,8 @@ sources:
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md"
+    label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
 ---
 
 # UFO-Nuclear Connection
@@ -86,3 +88,7 @@ The thesis, presented by [[uap-gerb]] in "UFOs and Nuclear Weapons - A Fascinati
 ## Claims (gerb/kingman)
 
 - Gerb ([[gerb-kingman-video]]) uses the connection to argue a UFO near the Nevada test range after 11 Upshot-Knothole detonations in 1953 is far from surprising, citing Jacobs and Salas. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 12:49-13:16)*
+
+## Claims (gerb/knuth)
+
+- Gerb points out that Minot AFB, like Malmstrom, supported nuclear weapons, calling the [[minot-afb-ufo-incident-1968]] another UFO-nuclear connection. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 11:00-11:15)*

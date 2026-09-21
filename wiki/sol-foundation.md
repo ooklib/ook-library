@@ -18,6 +18,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md"
     label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md"
+    label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
 ---
 
 The SOL Foundation, as [[uap-gerb]] describes it, is a group of scientists and academics, military personnel and government and policy figures that seeks to educate the public on the academic legitimacy of UAP and to push toward a post-disclosure world. Gerb lists as members or participants [[christopher-mellon]], [[david-grush]], Stanford pathologist [[gary-nolan]], physicist [[kevin-knuth]] and [[karl-nell]], and calls their credibility "beyond reproach" (a promotional characterization). *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 1:40-2:11)*
@@ -31,3 +33,7 @@ The SOL Foundation, as [[uap-gerb]] describes it, is a group of scientists and a
 ## Relationships
 
 - Features talks by [[karl-nell]], [[christopher-mellon]], [[david-grush]], [[gary-nolan]] and [[kevin-knuth]]; covered in [[gerb-nell-video]].
+
+## Claims (gerb/knuth)
+
+- Gerb's dedicated video covers the November 2023 SOL Foundation talk by [[kevin-knuth]] on the physics of UAP, alongside speakers he names as [[karl-nell]], [[david-grush]] and [[gary-nolan]]. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 2:44-3:08)*

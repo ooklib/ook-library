@@ -36,6 +36,8 @@ sources:
     label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md"
     label: "FASTWALKERS - UFOs Outside Earth (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md"
+    label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
 ---
 
 Jacques Vallee is the French-American computer scientist and ufologist whose books (notably Messengers of Deception) and published journals are the main intellectual frame for guest [[jason-samosa]] in the `jm/cover-up` episode. The episode uses him as a source for a "control system" or belief-shaping reading of UFOs, for the AAWSAP-era journals, and as validation of the Tom DeLonge/Podesta story. This page records what the episode attributes to him; the wiki treats these as claims about his positions.
@@ -101,3 +103,7 @@ Levenda met Vallee at the Austin meeting and says Vallee's "control mechanism" i
 ## Claims (gerb/fastwalkers)
 
 - Gerb says Vallee's Hidden Science (journals 2000s-2009) records him and colleagues suspecting [[aerospace-corporation]] of involvement in deep UFO work. *([gerb/fastwalkers](<../raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md>) 18:51-19:30)*
+
+## Claims (gerb/knuth)
+
+- The 1953 Canadian Air Force luminosity case used by [[kevin-knuth]] was, per Gerb, summarized and reported by Vallee. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 15:58-16:15)*

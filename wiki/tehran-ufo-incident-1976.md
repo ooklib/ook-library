@@ -12,6 +12,8 @@ sources:
     label: "The First Commercial Flight Grounded Due to UFOs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md"
     label: "FASTWALKERS - UFOs Outside Earth (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md"
+    label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
 ---
 
 A 1976 encounter in which Iranian Imperial Air Force F-4 Phantom II pilots were scrambled to intercept a UFO over Tehran. It appears in the wiki only through [[uap-gerb]], who cites it briefly (ASR "Tyron") as a second case of fighter instrument failure alongside [[manises-ufo-incident-1979]]. Details are Gerb's summary without sources.
@@ -32,3 +34,7 @@ A 1976 encounter in which Iranian Imperial Air Force F-4 Phantom II pilots were 
 - DSP link: Gerb says Lee Graham and Roger Rager, described as satellite sensor technicians at Aerojet in California, claim the UFO was tracked by a [[defense-support-program]] satellite and found a computer printout of an anomalous object in Iranian airspace; Rager often cites a declassified paper "Now You See It, Now You Don't" by USAF Captain Harry S. Shields. *([gerb/fastwalkers](<../raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md>) 14:44-15:40)*
 - Evidence trail: a NICAP report links a dead email chain in which Brad Sparks (an early CAUS founder) questions whether DSP detected the UFO or the scrambled F-4s, citing an out-of-focus graphic that gives only a date and "238 scans possible SR" (39.7 minutes at one scan per 10 seconds; SR may mean strategic reconnaissance). Gerb traced the jpeg to a 1997 UFO World blog post, finds the image mostly illegible, and reports the printout resembles the 1984 case. Unverified. *([gerb/fastwalkers](<../raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md>) 15:48-18:17)*
 - See [[gerb-fastwalkers-video]] and [[fastwalker-dsp-case-1984]].
+
+## Claims (gerb/knuth)
+
+- Gerb cites the case (Major Jafari's avionics scrambled as an orb detached from the object) as an example of electromagnetic effects in [[kevin-knuth]]'s analysis, implying strong electric and magnetic fields. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 16:37-16:53)*

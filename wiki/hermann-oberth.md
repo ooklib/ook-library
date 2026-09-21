@@ -16,6 +16,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md"
+    label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
 ---
 
 Hermann Oberth, "father of German rocketry" and mentor to [[wernher-von-braun]], performed
@@ -44,3 +46,9 @@ Michels cites Oberth as on record saying non-human intelligence helped build roc
 ## Claims (jm/pines)
 
 - Pines names Oberth as von Braun's mentor who went through neo-pagan rituals. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:18:01-3:18:15)*
+
+## Claims (gerb/knuth)
+
+- Via [[kevin-knuth]], Gerb reports Oberth's 1954 lecture on flying saucers: more than 50 radar measurements from USAF and US Navy data gave speeds of about 19 km/s (roughly 42,000 mph, Mach 55), and Oberth said he would not rely on three or four measurements alone. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 9:11-10:24)*
+- Gerb quotes a 1954 American weekly article in which Oberth says flying saucers are real spaceships from another solar system, possibly crewed by observers who may have investigated Earth for centuries, perhaps flying by distorting the gravitational field. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 10:24-10:50)*
+- Gerb notes Oberth mentored [[wernher-von-braun]]. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 9:13-9:29)*

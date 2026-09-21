@@ -25,6 +25,8 @@ sources:
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md"
+    label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
 ---
 
 Wernher von Braun, Nazi V2 rocket scientist transferred to the US via Operation Paperclip,
@@ -63,3 +65,7 @@ Levenda notes von Braun's Nazi-era program was transplanted into NASA, and that 
 ## Claims (jm/pines)
 
 - Pines says von Braun and mentor [[hermann-oberth]] went through neo-pagan rituals in the Nazi space program, and that Parsons's information impressed von Braun. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:17:06-3:18:15)*
+
+## Claims (gerb/knuth)
+
+- Gerb describes von Braun as an Operation Paperclip scientist and father of NASA who was mentored by [[hermann-oberth]]. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 9:13-9:29)*

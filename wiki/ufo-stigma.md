@@ -18,6 +18,8 @@ sources:
     label: "The Origin of the UFO Stigma (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md"
+    label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
 ---
 
 The social ridicule attached to studying UFOs, which [[uap-gerb]] argues in [[gerb-stigma-video]] was deliberately engineered by the US government, the CIA and the USAF in the 1950s and 1960s to lump UFOs with ghosts, Bigfoot and conspiracy theories. This is Gerb's thesis, not an established fact.
@@ -35,3 +37,7 @@ The social ridicule attached to studying UFOs, which [[uap-gerb]] argues in [[ge
 ## Claims (gerb/kingman)
 
 - Gerb ([[gerb-kingman-video]]) says AFR 200-2 stove-piped UFO reporting to USAF intelligence and away from [[project-blue-book]], so fewer credible reports reached Congress and the public, fueling the stigma; he speculates this was meant to protect crash retrievals such as Kingman. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 11:14-12:16)*
+
+## Claims (gerb/knuth)
+
+- Gerb opens by saying academia does not conduct hard analysis of UFOs because of powerful stigma, and that claims of craft violating known physics are actively scoffed at, framing [[kevin-knuth]] as a rare accomplished exception. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 0:00-0:32)*

@@ -27,6 +27,8 @@ sources:
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md"
     label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md"
+    label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
 ---
 
 Colonel Karl Nell, US Army Futures Command, is a vocal advocate for [[david-grush|David Grush]]'s
@@ -70,3 +72,7 @@ satellite constellation." *([gerb/lockheed](../raw/gerb/lockheed.md) 2:19:41–2
 - [[uap-gerb]] ([[gerb-nell-video]]) recaps Nell's one quote in the June 2023 Debrief article backing [[david-grush]] (a decades-long sub rosa terrestrial arms race to reverse-engineer technologies of unknown origin is "fundamentally correct", some derived from NHI) and describes him as a retired Army colonel who worked with Grusch on the UAP Task Force. *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 0:00-1:00)*
 - Gerb breaks down his November 2023 [[sol-foundation]] talk at Stanford: the Schumer Amendment ([[uap-disclosure-act-2023]], [[uap-vs-tno-distinction]]), [[non-disclosure-reasons-nell]], the [[nell-uap-campaign-plan]], and two omitted slides ([[nhi-civilization-development-model-nell]], [[nell-uap-origin-taxonomy]]). *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 2:11-18:46)*
 - Gerb speculates Nell may be one of the 40 witnesses Grusch interviewed, citing Leslie Kean naming him as someone who has "spoken out a little bit" and his LinkedIn biography (DIA technical intelligence operations officer, foreign materials program representative to CENTCOM/CFLCC in Kuwait, CJ2 of the combined joint captured material exploitation center in Iraq); Gerb wonders, unverified, whether the Iraq role involved a downed UAP. *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 18:46-21:20)*
+
+## Claims (gerb/knuth)
+
+- Gerb notes Nell spoke at the November 2023 [[sol-foundation]] alongside [[kevin-knuth]], and that Knuth also criticizes the ambiguity of the term UAP "similar to Nell". *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 2:44-3:59)*
