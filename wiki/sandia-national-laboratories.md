@@ -76,6 +76,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 Sandia National Laboratories, born from [[los-alamos-national-laboratory|Los Alamos]]'s Z
@@ -282,3 +284,7 @@ Fouche says Sandia and Livermore reverse-engineered the TR-3B from an NHI crash 
 ## Claims (gerb/del-rio)
 
 - Gerb points out that Sandia sits on [[kirtland-air-force-base]] land and was managed by [[att-corporation]] from 1949 (Truman's handover) until [[lockheed-martin]] took over in 1993. He argues that the wreckage of the [[el-indio-guerrero-crash-1950]], said by the briefing document to have gone to Sandia and the [[atomic-energy-commission]], and the redacted [[disclosure-project]] witness entries about ET technology transfer to AT&T make AT&T an early suspect for UFOs in the private sector; he links it to [[edgar-fuche]]'s claim that Lockheed's TR-3B reverse engineering drew on Sandia. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 24:53-26:59)*
+
+## Claims (gerb/off-world-tech)
+
+- Gerb notes SAIC's large Sandia contracts and a 2023 hypersonics technology transfer between [[naval-surface-warfare-center-crane]] and Sandia; he recalls his Del Rio video on AEC-Sandia crash-material storage and [[att-corporation]] as Sandia's manager, and Danny Sheehan's 2023 claim that Radiance Technologies' Prompt Global Strike used reverse-engineered UAP technology. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 43:22-44:58)*

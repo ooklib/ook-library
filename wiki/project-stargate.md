@@ -36,6 +36,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 Project Stargate was a joint, secret Army/DIA/CIA/SRI-International-contractor program (begun
@@ -114,3 +116,7 @@ Centerlane (DIA). *([gerb/saic](../raw/gerb/saic.md) 1:42:34–1:43:21)*
 ## Claims (jm/cameron)
 
 - Michels notes Puthoff ran the CIA psychic program from 1972 and Cameron connects the psychic thread to the weird desk: [[cia-weird-desk-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 48:51-49:02)*
+
+## Claims (gerb/off-world-tech)
+
+- Gerb recaps Stargate (SRI, terminated 1995) and says SAIC ran parallel consciousness research and took over its evaluation, mentioning [[david-grush]]'s remarks on JRE and [[ross-coulthart]]'s "psionic" hint, as context for consciousness-interactive technology in the [[off-world-technologies-division]]. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 36:41-39:29)*

@@ -1,7 +1,7 @@
 ---
 title: Randy Anderson
 kind: person
-aliases: []
+aliases: [RA, "RA (Green Beret witness)"]
 tags: [whistleblower, army, nswc-crane]
 relations:
   - relation: references_testimony_of
@@ -20,6 +20,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 18 Bravo (Special Forces weapons sergeant) Randy Anderson claimed that in the mid-2010s he was
@@ -57,3 +59,14 @@ considered a possible weapon. *([gerb/mitre](../raw/gerb/mitre.md) 1:13:12–1:1
 ## Claims (jm/censored-book)
 
 - Michels cites Anderson's account of being taken underground at Crane Naval Surface Warfare Center and shown a metallic gauntlet with a crystalline screen and holographic-looking symbols "integrated into reality itself" as support for advanced hologram or programmable-matter ideas. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 47:15-47:53)* See [[coyame-mountain-base-narrative]] and [[naval-surface-warfare-center-crane]].
+
+## Claims (gerb/off-world-tech)
+
+- Gerb identifies the witness as "RA", a Green Beret 18 Bravo weapons sergeant of the first Special Forces airborne command with TS/SCI clearance, whose certifications and DD214 Gerb says he was shown, and who wanted to remain anonymous. Gerb calls him the most credentialed soldier he has spoken to. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 1:52-3:10)*
+- In 2013-2015 RA was sent to [[naval-surface-warfare-center-crane]] for a weapons course (new minigun setup, SCAR iterations, foreign weapons including Russian bullets said to involve biologics that CIA operatives captured); only he and one other soldier with TS/SCI were taken underground by a former-military contractor instructor to the [[off-world-technologies-division]]. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 3:21-9:03)*
+- RA describes a warm surface and a cold underground, a scrubbed skiff-like entry with several checkpoints, and a pristine spaceship-like area under a run-down 1970s-looking base. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 9:03-11:33)*
+- He saw a basketball-sized seamless metallic sphere apparently repelled off a podium, with a hand-sized indent, and a clear gauntlet-like tablet projecting hieroglyphic-like symbols; the contractor said both interact with consciousness (some people trigger a reaction, others do not) and that the second device discharged an energy pulse and injured someone when recovered. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 11:41-21:44)*
+- RA says his memory of the episode is unusually fuzzy and wonders whether that was done deliberately; his reaction was stoic at the time but he was "freaking out" at the hotel, and he lost contact with the other soldier, who he heard died on a mission. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 16:29-18:36, 24:33-26:37)*
+- Gerb says RA matched the symbols to those Danny Sheehan described in 2021 on classified Blue Book photos (see [[danny-sheehan]]). *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 21:48-23:42)*
+- RA did not contact AARO, [[david-grush]], Lue Elizondo or Chris Mellon; he says he still does OPFOR training for DoD and Department of Energy at Area 51 (TS/SCI active for 12 years), believes many orb sightings are advanced military drones, and has heard second-hand of human-made electrogravitic triangles as distinct from a huge silent alien triangle (about three football fields, seven to nine lights) described by a trusted military contact. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 26:37-29:49)*
+- In late July 2023 he emailed [[steven-greer]] and the [[disclosure-project]] and got no reply (Gerb says he is witness number 10127); Gerb is working with him on drawings and possible 3D models. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 50:41-51:04)*

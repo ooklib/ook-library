@@ -13,6 +13,8 @@ relations:
 sources:
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 Former SAIC administrative employee Denise McKenzie is a legendary figure in the "UFO Legacy
@@ -49,3 +51,7 @@ Program financial analyst community" for her 2001 testimony about fund obfuscati
 
 - SAIC employee whose testimony is central to Gerb's black-budget-diversion thesis; featured in
   [[steven-greer]]'s 2001 disclosure document.
+
+## Claims (gerb/off-world-tech)
+
+- Cited again by Gerb: she said most of the hundreds of millions in SAIC government contracts had almost zero associated activity, surmised black budget money is hidden in legitimate contracts, and faced harassment after raising the discrepancies. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 31:44-32:13)*

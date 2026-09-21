@@ -69,6 +69,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 Science Applications International Corporation (SAIC, called "SIC" throughout the ASR
@@ -232,3 +234,10 @@ whistleblower).
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb ties the 1991 psi-portfolio takeover to the alleged "off-world technologies division" at NSWC Crane, which he thinks SAIC runs, interfacing with consciousness-related recovered technology; calls SAIC "one of the most critical think tanks and contractors" in the legacy space. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:35:54-1:36:33, 1:37:27-1:40:06)*
+
+## Claims (gerb/off-world-tech)
+
+- Gerb argues SAIC is the likely contractor behind [[off-world-technologies-division]] at [[naval-surface-warfare-center-crane]], betting the contractor guide was an SAIC employee, and cites SAIC's Crane contracts, its use of the DoD [[corporate-portfolio-program]] (established 2020 by [[ellen-lord]], who joined SAIC as a strategic adviser in 2021), and Sean Kirkpatrick's patents published under SAIC. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 29:54-36:10, 49:37)*
+- Gerb links the SAIC "electric propulsion study" (about 1990, cited by [[jesse-michels]] on [[thomas-townsend-brown]]) to electrogravitics, and SAIC's 1991-1995 anomalous mental phenomena work (protocols for human subjects, research plan for DIA, evaluation of the [[sri-international]] [[project-stargate]] program, "anomalous cognition" and "anomalous perturbation") to consciousness-interactive technology. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 36:10-39:29)*
+- Gerb repeats [[denise-mckenzie]]'s claim of near-zero activity behind large SAIC contracts, [[will-miller]]'s label of SAIC as a "keeper of the secrets", [[steven-greer]]'s 1996 briefing calling it a "crown jewel", and its appearance in [[katherine-austin-fitts]]'s diverted-funds paper. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 31:44-32:13, 39:38-40:26)*
+- Admiral [[bobby-ray-inman]] joined the SAIC board in 1992; Gerb also notes SAIC's large Sandia contracts (a 2013 $228M IT consolidation). *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 46:09-46:18, 43:22-44:00)*

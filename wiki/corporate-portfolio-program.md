@@ -17,6 +17,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/lockheed.md
     label: "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 A DoD program giving defense-industrial-base corporations like
@@ -39,3 +41,7 @@ Under Secretary of Defense for Acquisition and Sustainment [[ellen-lord|Ellen Lo
 
 - Established by [[ellen-lord]]; gives [[science-applications-international-corporation]] and
   [[lockheed-martin]] privileged DoD/SAP access.
+
+## Claims (gerb/off-world-tech)
+
+- Gerb says SAIC is eligible under the program, which gives contractors broad access to SAP portfolios, and ties it to [[david-grush]]'s description of contractors working with DoD on UAP programs; he suggests Crane's contracts fall under SETA and R&D with money split between acknowledged and unacknowledged SAPs. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 34:33-35:40)*

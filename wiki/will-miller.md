@@ -22,6 +22,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 Naval Reserve Commander Will Miller attended a 1997 meeting with
@@ -64,3 +66,7 @@ place). *([gerb/saic](../raw/gerb/saic.md) 40:33–40:50)*
 ## Claims (gerb/whistleblowers-1)
 
 - Named by Gerb among attendees (with [[stephen-lovekin]]) of the 1998 briefing with Greer and Wilson. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 14:00-14:09)*
+
+## Claims (gerb/off-world-tech)
+
+- Gerb repeats Miller's label of SAIC as one of the "keepers of the secrets" of UAP programs, from the Wilson Davis memo. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 39:38-39:53)*

@@ -23,6 +23,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 Director of [[national-reconnaissance-office|NRO]] Program B (1982–1989), the joint NRO/CIA
@@ -61,3 +63,7 @@ Australia]] — where Heinman was the facility's first chief. Also served as
 ## Additional claims (gerb/timeline)
 
 - Timeline video: named by Inman to [[bob-oechsler]] in 1989 as CIA DS&T deputy director and NRO Program B director to talk to about recovered UFOs. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:32:30-1:32:45)*
+
+## Claims (gerb/off-world-tech)
+
+- Named as a CIA DS&T contact to whom [[bobby-ray-inman]] referred [[bob-oechsler]]. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 46:00-46:09)*

@@ -21,6 +21,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 Rear Admiral Sumner Shapiro, a former Director of Naval Intelligence, sat on the board of
@@ -56,3 +58,7 @@ Shapiro. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 44:42–45:05)*
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video: also a [[bdm-international]] board member in 1989, when he told [[bob-oechsler]] of dismantling craft in an exact sequence and shipping them across the country. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 20:26-21:22)*
+
+## Claims (gerb/off-world-tech)
+
+- Per Oechsler, Shapiro said the US holds extraterrestrial vehicles, had studied one up close, and that teams disassemble craft and ship parts to labs across the country; Gerb asks whether Crane received such a component. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 46:18-46:44)*

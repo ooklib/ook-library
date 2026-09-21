@@ -63,6 +63,8 @@ sources:
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md"
     label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -170,3 +172,7 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 ## Claims (gerb/herrera-2)
 
 - Herrera says Greer set up his June 2023 Washington appearance and Daily Mail contact, that he had first met Greer in Boulder in 2017 to ask whether anyone else had a similar experience, and that Greer showed him the insider's text at the event; see [[national-press-club-disclosure-event-2023]] and [[herrera-black-program-insider]]. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:31:38-1:39:21)*
+
+## Claims (gerb/off-world-tech)
+
+- Per Gerb, [[randy-anderson]] emailed Greer's Disclosure Project in late July 2023 (witness number 10127) and received no reply; Gerb also cites the 1996 Greer briefing to Congress calling SAIC a "crown jewel". *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 40:01-40:09, 50:41-51:04)*

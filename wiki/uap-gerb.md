@@ -91,6 +91,8 @@ sources:
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md"
     label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -266,3 +268,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/herrera-2)
 
 - Video [[gerb-herrera-2-video]] (2024-06-30): an in-person, roughly two-hour interview with [[michael-herrera]] co-hosted with [[joeyisnotmyname]] on lesser-asked details, AARO, squad leader Nathan and the insider; Gerb recounts having shared meals with Herrera and hosted Joey, having privately investigated the case, and having moved from dismissive to engaged. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 0:00-1:30)*
+
+## Claims (gerb/off-world-tech)
+
+- Video dated 2024-07-17 on [[randy-anderson]]'s Crane testimony, with research help from Reddit user Kermit (frognbadger) on SAIC; Gerb says he is a "nuts and bolts" investigator uncomfortable with consciousness topics, and mentions a second witness "Martin" who described a clear basketball-sized sphere that chose who it interacted with, whom he is now speaking with. See [[gerb-off-world-tech-video]]. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 52:14-54:08)*

@@ -14,6 +14,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 Ellen Lord, then Under Secretary of Defense for Acquisition and Sustainment, established the
@@ -31,3 +33,7 @@ NRO-linked gatekeepers. *([gerb/nro](../raw/gerb/nro.md) 2:25:34–2:26:37, 2:50
 - Founded [[corporate-portfolio-program]]; joined [[science-applications-international-
   corporation]]'s advisory board shortly after; held the
   [[under-secretary-of-defense-for-acquisition-and-sustainment]] office.
+
+## Claims (gerb/off-world-tech)
+
+- Gerb notes she established the DoD [[corporate-portfolio-program]] in 2020 as under secretary for acquisition and sustainment and joined [[science-applications-international-corporation]] as a strategic adviser after leaving the Pentagon in 2021, using this to speculate that Crane's SAIC contracts may fund the [[off-world-technologies-division]] through split acknowledged/unacknowledged SAP money. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 34:41-35:40)*

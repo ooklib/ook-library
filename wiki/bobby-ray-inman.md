@@ -46,6 +46,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 Admiral Bobby Ray Inman had one of the most extensive intelligence/defense careers of any
@@ -108,3 +110,7 @@ director of the [[central-intelligence-agency|CIA]], vice director of the
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video: introduced retired Rear Adm. [[sumner-shapiro]] to astronaut [[bob-oechsler]] in 1989 while an SAIC and Wackenhut board member, present at Wilson's alleged 1971 S4 test, and head of [[decision-science-applications]] per Wilson's chart. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 20:26-20:52, 38:44-39:00, 45:58-46:23)*
+
+## Claims (gerb/off-world-tech)
+
+- Gerb repeats [[bob-oechsler]]'s claim that in 1989 Inman told him about "recovered vehicles available for research", referred him to [[everett-heinman]] and [[sumner-shapiro]], and joined the SAIC board in 1992. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 45:02-46:18)*

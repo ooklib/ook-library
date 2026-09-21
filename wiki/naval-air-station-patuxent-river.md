@@ -28,6 +28,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 Naval Air Station Patuxent River ("Pax River") is headquarters for
@@ -76,3 +78,7 @@ Facility Bases (MRTFBs). *([gerb/mitre](../raw/gerb/mitre.md) 1:14:52–1:16:48)
 ## Claims (jm/matthew-brown)
 
 - Brown points out that [[eric-burlison]] got a Pax River tour and was shown nothing exotic, treating that as evidence of how little candor is extended to elected officials; see [[brown-tweet-to-elon-musk-2025]]. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:57:07-1:57:50)*
+
+## Claims (gerb/off-world-tech)
+
+- Gerb calls it a near counterpart to [[naval-surface-warfare-center-crane]] with a history of SAIC contracts, where [[salvatore-pais]] filed his 2017 craft patent. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 47:19-48:57)*

@@ -34,6 +34,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 Eric A. Walker was president of Penn State University 1956-1971, chairman of the Institute for Defense Analyses, and executive secretary of the Defense Research Board 1950-51. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 14:00-14:30)* UAP Gerb treats him as the man [[robert-sarbacher]] described as "smug" from Philadelphia at the Wright Field crash meeting. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 12:37-13:10)*
@@ -66,3 +68,7 @@ Eric A. Walker was president of Penn State University 1956-1971, chairman of the
 - Cameron says Walker spoke in rhymes and riddles; asked about MJ-12, he asked "what do you know about ESP" and said members were "elites": [[eric-walker-esp-control-group-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:46:45-1:49:26)*
 - Cameron says Walker admitted being at the 1950 Wright-Patterson briefing and at the 1965 Kecksburg crash, had known of MJ-12 for 40 years, and told researchers they were "just curious"; Kit Green was allegedly thrown out of his office. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:48:18-1:48:42, 1:53:44-1:56:22, 2:35:19-2:36:29)*
 - Cameron notes Walker chaired the Institute for Defense Analyses, a top military think tank he says produced DARPA and the Jasons. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:48:00-1:48:18)*
+
+## Claims (gerb/off-world-tech)
+
+- Gerb quotes Walker on ESP ("How good is your sixth sense?... Only a few know about it") as an odd fit with consciousness-activated technology, and notes he confirmed presence at the 1965 Kecksburg crash. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 42:22-43:22)*

@@ -55,6 +55,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program? (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 Dr. Vannevar Bush is presented as the intellectual architect of the modern
@@ -174,3 +176,7 @@ Dr. Vannevar Bush is presented as the intellectual architect of the modern
 ## Claims (jm/cameron)
 
 - Cameron says Bush's Joint Research and Development Board was the US counterpart to Canada's defence research board that [[wilbert-b-smith]] worked with, and that Smith's propulsion idea was sent to Bush; [[omond-solandt]] is called his Canadian equivalent. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 32:34-32:52, 35:26-35:57, 52:06-52:59)*
+
+## Claims (gerb/off-world-tech)
+
+- Named in the alleged FDR special-committee memo that Gerb links to [[off-world-technologies-division]], with [[robert-sarbacher]] having stated Bush's involvement in covert UFO programs. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 41:22-42:14)*

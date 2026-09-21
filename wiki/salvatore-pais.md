@@ -12,6 +12,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 Navy engineer whose 2018 patents from [[naval-air-station-patuxent-river]] describe technologies such as room-temperature superconductivity, mass reduction and a device breaking the Schwinger limit; discussed by [[jesse-michels]] and [[dylan-borland]] on [[borland-michels-interview-2026]] (transcribed "Salvatore Py", "Paise").
@@ -29,3 +31,7 @@ Navy engineer whose 2018 patents from [[naval-air-station-patuxent-river]] descr
 ## Claims (jm/censored-book)
 
 - Michels cites the 2016 Navy patent by Pais for a "craft using an inertial mass reduction device", noting its need for real-time control of electromagnetic field geometry, and links it (layer two) with Lockheed brain-machine interfaces (layer one) and psionic assets (layer three) as a speculative stack behind [[jake-barber]]'s claims. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:20:32-1:21:57)* See [[psychic-joystick-brain-interface-claims]].
+
+## Claims (gerb/off-world-tech)
+
+- Gerb recaps the 2017 Pax River patent for a triangle/diamond craft with anti-gravity effects resembling the alleged TR-3B, supported by Naval Air Enterprise CTO James Sheehy, and Ross Coulthart's account of Nat Corbett saying colleagues knew nothing of it; Gerb speculates NHI-technology work may also occur at Pax River. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 47:19-48:57)*

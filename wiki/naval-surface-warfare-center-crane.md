@@ -28,6 +28,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 NSWC Crane, at the Naval Support Activity in Crane, Indiana, is a site Gerb says he has covered
@@ -89,3 +91,9 @@ extensively in prior work. *([gerb/mitre](../raw/gerb/mitre.md) 1:13:04–1:13:1
 ## Claims (jm/censored-book)
 
 - Cited via [[randy-anderson]]'s account of a holographic-looking display underground at Crane. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 47:15-47:53)*
+
+## Claims (gerb/off-world-tech)
+
+- Gerb's dedicated video on [[randy-anderson]]'s testimony: NSWC Crane is described as a very large Navy lab with several underground layers (bunkers, an underground 100 m range), about 2,489 contractor employees, a history of reverse engineering an unknown "black box" into a component of the AN/SLQ-32 shipboard electronic warfare suite, and a mission that includes advanced concepts. Gerb says searches for the "off-world technologies division" return zero results and treats the account as the only lead. See [[off-world-technologies-division]]. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 3:21-6:35, 40:39-40:58)*
+- Gerb lists SAIC contracts with Crane (2010 $351M including support for the Joint Special Operations Response Department, 2020 $133M mission engineering, 2023 $240M IDIQ, 2024 $63M hypersonics) and notes some SAIC web pages about them disappeared in 2024. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 32:13-33:44)*
+- Gerb compares Crane to its "sister facility" [[naval-air-station-patuxent-river]], which also has a history of SAIC contracts, and speculates similar reverse-engineering efforts may exist there. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 48:32-48:57)*

@@ -40,6 +40,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
+    label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
 ---
 
 Dr. Robert Sarbacher, a respected physicist and 1950s consultant to the DoD's Research and
@@ -114,3 +116,7 @@ Dedicated deep-dive video. Sarbacher: physicist, Einstein student, Harvard gradu
 
 - Gerb cites Sarbacher's information to [[wilbert-b-smith]] (1950) that the US was studying UAP in an effort classified higher than the H-bomb, as evidence the program was already in place around the Korean War, and Sarbacher's naming of John von Neumann, Vannevar Bush and Robert Oppenheimer as involved in UFO recovery. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 11:18-11:47, 36:47-37:03)*
 - Gerb says Dr. Eric Walker, an alleged original program manager, claimed to have been on site at the 1965 Kecksburg, Pennsylvania bell-shaped crash. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 25:31-25:39)*
+
+## Claims (gerb/off-world-tech)
+
+- Gerb recalls Sarbacher's Stanton Friedman interview naming [[eric-a-walker]] as a crash-retrieval member and stating Bush's involvement. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 42:06-42:29)*
