@@ -10,6 +10,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-12 - Incredible UFO Footage - METAPOD.md"
+    label: "Incredible UFO Footage - METAPOD (UAP Gerb)"
 ---
 
 UFO skeptic named by [[uap-gerb]] as claiming the Gimbal video shows a bird or a jet moving away, an artifact of the FLIR footage. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 27:51-28:20)*
@@ -25,3 +27,7 @@ UFO skeptic named by [[uap-gerb]] as claiming the Gimbal video shows a bird or a
 ## Claims (gerb/flight-grounded)
 
 - Possibly the "McWest" whose "debunk panel" style [[uap-gerb]] mocks in [[manises-ufo-incident-1979]]; the transcript is ambiguous (see also [[mc-west]]). *([gerb/flight-grounded](<../raw/gerb/UAP Gerb - 2024-01-21 - The First Commercial Flight Grounded Due to UFOs.md>) 11:58-12:04)*
+
+## Claims (gerb/metapod)
+
+- Gerb notes that even the balloon explanation of the [[metapod-ufo-footage-2015]] is discussed on Mick West's Metabunk, where the frame jitter is attributed to a balloon buffeted by air currents rather than CGI; he does not claim to be able to judge visual artifacts. *([gerb/metapod](<../raw/gerb/UAP Gerb - 2024-02-12 - Incredible UFO Footage - METAPOD.md>) 12:14-13:11)*

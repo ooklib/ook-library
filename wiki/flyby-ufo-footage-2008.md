@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md"
     label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-12 - Incredible UFO Footage - METAPOD.md"
+    label: "Incredible UFO Footage - METAPOD (UAP Gerb)"
 ---
 
 A roughly 20-second, sub-240p clip of a disc-shaped object moving beside the wing of a jet, first traced to April 2008 and uploaded to YouTube on 14 May 2008. [[uap-gerb]] analyzes it in [[gerb-flyby-video]] and finds it unexplained, without claiming it is authentic. Origin and authenticity are unverified.
@@ -32,3 +34,7 @@ A roughly 20-second, sub-240p clip of a disc-shaped object moving beside the win
 
 - Possibly described by [[alleged-uaptf-classified-report-leak]] (Gerb's speculation).
 - Craft compared to [[mcminnville-ufo-photographs-1950]], and the saucer of [[robert-jacobs]].
+
+## Claims (gerb/metapod)
+
+- Gerb compares the [[metapod-ufo-footage-2015]] to FLYBY as an equally anomalous, clear and strange piece of footage, and calls the alleged 2022 Blue Angel cockpit frames a second-generation recording similar to FLYBY. *([gerb/metapod](<../raw/gerb/UAP Gerb - 2024-02-12 - Incredible UFO Footage - METAPOD.md>) 2:50-3:05, 15:12-15:30)*

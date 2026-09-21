@@ -43,6 +43,8 @@ sources:
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md"
     label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-12 - Incredible UFO Footage - METAPOD.md"
+    label: "Incredible UFO Footage - METAPOD (UAP Gerb)"
 ---
 
 Former deputy assistant secretary of defense for intelligence and a UFO-disclosure-advocate
@@ -105,3 +107,7 @@ Levenda met Mellon in Austin; see [[austin-to-the-stars-meeting]]. *([jm/levenda
 ## Claims (gerb/flyby)
 
 - On Joe Rogan he said he had seen footage of a UAP right next to a pilot; Gerb is sure this is not the [[flyby-ufo-footage-2008]] clip. *([gerb/flyby](<../raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md>) 2:51-3:22)*
+
+## Claims (gerb/metapod)
+
+- Gerb says the Sol Foundation had just released interviews with Grusch, Mellon, Knuth and Puthoff (around 11 February 2024) and that his next video would review those panels. *([gerb/metapod](<../raw/gerb/UAP Gerb - 2024-02-12 - Incredible UFO Footage - METAPOD.md>) 18:20-18:35)*

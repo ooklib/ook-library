@@ -62,6 +62,8 @@ sources:
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md"
     label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-12 - Incredible UFO Footage - METAPOD.md"
+    label: "Incredible UFO Footage - METAPOD (UAP Gerb)"
 ---
 
 Luis Elizondo (ASR-transcribed "Lou Alzando"/"Luis Alzando") claimed to direct, work for, or
@@ -203,3 +205,7 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
 ## Claims (gerb/flyby)
 
 - Quoted from a 2021 GQ interview: there are government videos not yet public, one 23 minutes long and one where the object is 50 ft from the cockpit, which he says is not ours and 99% not foreign aerospace technology; Gerb hopes but does not claim the FLYBY footage ([[flyby-ufo-footage-2008]]) is related, and says it shows 3 of Elizondo's 5 observables. *([gerb/flyby](<../raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md>) 1:39-2:51)*
+
+## Claims (gerb/metapod)
+
+- Gerb says the [[metapod-ufo-footage-2015]] shows three of the five UAP observables listed by AATIP and Elizondo: instantaneous acceleration, anti-gravity with no visible means of propulsion, and low observability. *([gerb/metapod](<../raw/gerb/UAP Gerb - 2024-02-12 - Incredible UFO Footage - METAPOD.md>) 8:38-9:20)*
