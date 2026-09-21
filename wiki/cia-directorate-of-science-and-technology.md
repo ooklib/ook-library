@@ -47,6 +47,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 CIA's Directorate of Science and Technology is listed among "program administrator" agencies in
@@ -92,3 +94,7 @@ Gerb's [[ufo-legacy-programs|legacy program pyramid]]. *([gerb/mitre](../raw/ger
 ## Additional claims (gerb/corso)
 
 - Corso lists CIA S&T technical team members in the [[ufo-working-group-1987]], which Gerb ties to DS&T's alleged UFO portfolio. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:05:05-1:06:01)*
+
+## Claims (gerb/navy)
+
+- Gerb recalls that former DS&T director [[glenn-gaffney]] is accused of ending Lockheed's attempt to divest UFO material (likely Kingman) to OSAT in 2008 and that former deputy director Doug Wolf helped found the Office of Global Access in 2003; he proposes DS&T as logistics coordinator for undersea retrieval and notes NURO's DS&T/ONI co-founding and Palladium ([[project-palladium]]). *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 7:03-7:51, 11:29-11:44, 24:58-25:12)*

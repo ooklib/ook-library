@@ -23,6 +23,8 @@ sources:
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
     label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Danny Sheehan is an American public-interest lawyer and the founder of the New Paradigm Institute, appearing as the main guest of Jesse Michels's 2025 JFK episode. In the interview he presents a detailed, chronologically ordered narrative of the Kennedy assassination as an operation by the CIA-trained "S force" of Cuban exiles, rooted in a Nixon-Hughes-mafia plot against Castro and activated by a Dulles-centered China-lobby network; he also recounts his work with John Mack, a claimed deathbed account of a live extraterrestrial at S-4, a Scientology file on Ingo Swan, and his current lobbying for UAP disclosure legislation. This wiki records his statements as attributed claims. Speaker labels are absent from the transcript, so some attributions to him (versus Michels or Jeremy Rys) are inferred from first-person references such as his Jesuit-headquarters and Watergate-law-office anecdotes.
@@ -59,3 +61,7 @@ Danny Sheehan is an American public-interest lawyer and the founder of the New P
 ## Claims (gerb/kecksburg)
 
 - Gerb compares the Kecksburg writing to the writing along the lip of a crashed craft in Blue Book photos that Sheehan says he saw under order from President Carter. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 38:31-38:40)*
+
+## Claims (gerb/navy)
+
+- Gerb again cites Sheehan's description of classified Blue Book photos of a crashed saucer with geometric hieroglyphic-like characters along its circumference, as a parallel to the 1991 triangle. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:03:26-1:03:42, 1:41:40-1:41:56)*

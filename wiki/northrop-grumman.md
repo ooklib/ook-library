@@ -63,6 +63,8 @@ sources:
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Northrop Grumman has primary offices in [[crystal-city-virginia|Crystal City]] and is listed
@@ -207,3 +209,7 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
 ## Claims (gerb/mccandlish)
 
 - Gerb notes Northrop was involved in Carlyle investment and, via Fouche, TR-3B construction and the alleged "Great Pumpkin" antigravity disc from its Palmdale advanced concepts division, and adds it to the ARV core contractors near Plant 42. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 8:55-9:03, 48:37-49:19)*
+
+## Claims (gerb/navy)
+
+- Gerb says BDM International was purchased by Northrop Grumman, and that Grumman, which he implicates in legacy programs, overcharged the Navy in 1985; see [[navy-ashtray-overpricing-scandal-1985]]. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 38:13-38:31, 1:35:38-1:36:03)*

@@ -101,6 +101,8 @@ sources:
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -296,3 +298,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/mccandlish)
 
 - Video hub: [[gerb-mccandlish-video]] (2024-10-21), his first ARV deep dive and, by his account, one of his favorite investigations; it introduces [[sorenson-scott-interview-1990]], which Gerb says he had never seen discussed. Gerb reports Sorenson's death threats and warnings toward him, and mentions the Patreon and attending the November 13 hearings and the SOL Foundation event. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 22:39-23:20, 1:08:36-1:09:09)*
+
+## Claims (gerb/navy)
+
+- Video hub: [[gerb-navy-video]] (2025-04-11), his Navy deep dive on undersea retrieval, NURO, the Navy Special Program and craft storage, asking viewers for contacts with undersea retrieval knowledge and saying Navy USO programs are reportedly more secretive than the others. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 3:38-5:39, 1:36:11-1:36:35, 1:45:09-1:45:33)*

@@ -68,6 +68,8 @@ sources:
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 The National Reconnaissance Office develops, acquires, launches, and operates US intelligence
@@ -242,3 +244,7 @@ shared office threads Gerb draws between them. *([gerb/nro](../raw/gerb/nro.md)
 ## Claims (gerb/edwards-afb)
 
 - Gerb discusses an alleged July 1991 NRO document on civilian saucer groups planning Nevada protests, listing programs including Blackjack; see [[blackjack-control-and-team]]. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 38:45-39:31)*
+
+## Claims (gerb/navy)
+
+- Gerb discusses the NRO's Project Sentient UAP tracking (FOIA documents; a 2021 tic-tac detection), the 2015 NRO statement that UFOs are outside its remit, alleged retrieval support, the 1991 NRO document naming Magi Ops, Red Flag MOC, Sea Spray SOG and Aquitech SOG that Greer gave [[thomas-wilson]] in 1997, and its sister agency [[national-underwater-reconnaissance-office]]. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 16:53-20:22)*

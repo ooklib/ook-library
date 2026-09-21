@@ -10,6 +10,8 @@ relations:
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 AUTEC is the US Navy's Major Range and Test Facility Base (MRTFB) located in the "Tongue of the
@@ -28,3 +30,7 @@ submarines, weapons, and sonar systems. *([gerb/mitre](../raw/gerb/mitre.md) 1:2
 ## Relationships
 
 - Geographically proximate Navy test range to the alleged [[tic-tac-factory-uso]] location.
+
+## Claims (gerb/navy)
+
+- Gerb lists it (Andros Island, Bahamas) among Navy major range and test facility bases where stored craft might be held. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:14:41-1:15:14)*

@@ -24,6 +24,8 @@ sources:
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Described as the US's "most secret intelligence agency," co-founded by the
@@ -56,3 +58,12 @@ US Navy. Gerb connects it to underwater UFO crash retrievals.
 - Co-founded by [[cia-directorate-of-science-and-technology]] and the Navy; linked to undersea
   UFO retrieval work relevant to [[tic-tac-factory-uso]]-style claims; sister agency to
   [[national-reconnaissance-office]]; career start for [[glenn-gaffney]].
+
+## Claims (gerb/navy)
+
+- Gerb calls it the hidden younger brother of the NRO, formed to coordinate CIA and Navy reconnaissance, and notes the Association of Former Intelligence Officers says an entire agency, NURO, is protected by a special access program. He also notes it appears in NSDM 40 in a 1975 submission to the Senate Select Committee on Intelligence. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 20:06-21:43)*
+- Per Nigel West and Jeffrey Richelson, it began as a joint Navy/CIA group to coordinate submarine special projects; Richelson says it was established in 1969 with Navy Secretary John Warner as first director, and that its missions included recovering the Soviet K-129, tapping Soviet cables (Ivy Bells), ocean floor mapping (Desktop) and the "special Navy control program". Richelson himself was denied FOIA requests on it. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 21:43-22:59)*
+- Ships and submarines attributed to it include the USS Parche, the [[hughes-glomar-explorer]], the USS Halibut, the NR-1 (1969 to 2008, search and recovery, acknowledged 1976 F-14 recovery) and the USS Jimmy Carter; Gerb cites a 1981 Swedish waters incident and Navy Secretary John Lehman as director 1981-87. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 22:59-24:35, 1:30:04-1:30:12)*
+- Per Blind Man's Bluff it was set up under CIA director [[richard-helms]] after K-129 sank in 1968; the CIA took charge from the start, the Navy regained some control by 1972, and Gerb thinks the Glomar's later Lockheed use was conducted under NURO. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 24:43-26:27)*
+- Gerb proposes NURO supplied transport and logistics for [[operation-sand-dollar]] and the undersea UFO retrievals in [[deep-sea-triangle-recovery-1991]] and [[great-lakes-naval-station-craft-1973]], and may be rolled under the [[navy-special-program]]. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 26:44-27:41, 1:23:34-1:24:49)*
+- [[bobby-ray-inman]] said in a clip and in a 2021 Caltech Heritage Project interview that he directed NURO from 1974 and was harassed for speaking of it; Gerb also asks why it is missing from the list of five big intelligence agencies. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 27:45-31:26, 1:37:41-1:38:16)*

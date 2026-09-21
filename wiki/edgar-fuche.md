@@ -29,6 +29,8 @@ sources:
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Former USAF Master Sergeant Edgar Fuche (the ASR transcripts render this variously as "Fuchs" and
@@ -108,3 +110,7 @@ could not provide material evidence for its existence. *([gerb/saic](../raw/gerb
 ## Claims (gerb/mccandlish)
 
 - Gerb ties the TR-3B and secret space fleet claims (DARC 1979, Northrop, Lockheed, Boeing, Teledyne, run by the NRO, CIA and NSA, pilots from the Edwards 412th test pilot school) to McCandlish's secret space program talk, plus Gary McKinnon's alleged files, and says Fouche is important to his own Edwards/Nellis thesis. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 43:12-45:51)*
+
+## Claims (gerb/navy)
+
+- Gerb cites Fouche's claim that UFO/TR3B programs moved from Area 51 in the early 1990s to installations including Dugway and Diego Garcia, and that the NRO/NSA/CIA managed the TR3B. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 18:43-19:00, 1:21:47-1:22:08)*

@@ -48,6 +48,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Admiral Bobby Ray Inman had one of the most extensive intelligence/defense careers of any
@@ -114,3 +116,10 @@ director of the [[central-intelligence-agency|CIA]], vice director of the
 ## Claims (gerb/off-world-tech)
 
 - Gerb repeats [[bob-oechsler]]'s claim that in 1989 Inman told him about "recovered vehicles available for research", referred him to [[everett-heinman]] and [[sumner-shapiro]], and joined the SAIC board in 1992. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 45:02-46:18)*
+
+## Claims (gerb/navy)
+
+- Gerb builds a NURO section on Inman: he said he became director of naval intelligence on 13 September 1974 and also director of NURO, and told the Caltech Heritage Project in 2021 that NURO was a black program buying undersea reconnaissance technology, with missions run by the Navy, submarine force and NSA. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 27:45-31:26)*
+- Gerb notes Inman's 2022 Project Unity statement that he found plausible explanations for virtually everything, against a clip (apparently Timothy Good, speaker unnamed) recounting an Inman conversation about hardware in operational condition, and the 1989 call to [[bob-oechsler]] naming [[everett-heinman]]; Inman's office (Tom King) later warned Oechsler about confidentiality. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 32:13-36:19)*
+- Gerb notes Inman's SAIC and Wackenhut roles and that Inman also introduced Oechsler to [[sumner-shapiro]]. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 28:46-29:24, 37:57-38:05)*
+- Gerb suggests he may have met the Glomar's activities in Hawaii in 1972-74, tying him to [[great-lakes-naval-station-craft-1973]]. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 31:26-31:58, 1:43:50-1:44:07)*

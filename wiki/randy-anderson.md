@@ -22,6 +22,8 @@ sources:
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 18 Bravo (Special Forces weapons sergeant) Randy Anderson claimed that in the mid-2010s he was
@@ -70,3 +72,7 @@ considered a possible weapon. *([gerb/mitre](../raw/gerb/mitre.md) 1:13:12–1:1
 - Gerb says RA matched the symbols to those Danny Sheehan described in 2021 on classified Blue Book photos (see [[danny-sheehan]]). *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 21:48-23:42)*
 - RA did not contact AARO, [[david-grush]], Lue Elizondo or Chris Mellon; he says he still does OPFOR training for DoD and Department of Energy at Area 51 (TS/SCI active for 12 years), believes many orb sightings are advanced military drones, and has heard second-hand of human-made electrogravitic triangles as distinct from a huge silent alien triangle (about three football fields, seven to nine lights) described by a trusted military contact. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 26:37-29:49)*
 - In late July 2023 he emailed [[steven-greer]] and the [[disclosure-project]] and got no reply (Gerb says he is witness number 10127); Gerb is working with him on drawings and possible 3D models. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 50:41-51:04)*
+
+## Claims (gerb/navy)
+
+- Gerb says the Navy and SAIC at NSWC Crane engaged with recovered technology responding to consciousness, and in the conclusion suggests the Navy's secrecy may relate to weapons-like technology such as the gauntlet and orb that reportedly discharged energy during recovery. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 14:55-15:12, 1:36:58-1:37:08)*

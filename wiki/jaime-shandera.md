@@ -12,6 +12,8 @@ relations:
 sources:
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Los Angeles TV writer/producer who in mid-December 1984 received an undeveloped roll of film in a brown envelope through his mail slot; the images were the first [[majestic-documents]], including the [[eisenhower-briefing-document]]. Coulthart opens the episode with this "every journalist's fantasy" story. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 1:11-2:33)*
@@ -25,3 +27,7 @@ Los Angeles TV writer/producer who in mid-December 1984 received an undeveloped 
 ## Relationships
 
 - Associate of [[william-moore]]; recipient of the [[eisenhower-briefing-document]] film.
+
+## Claims (gerb/navy)
+
+- Gerb notes the Majestic documents that mention Palladium were dropped to Shandera in 1984, before its declassification. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:28:31-1:28:54)*

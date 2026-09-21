@@ -41,6 +41,8 @@ sources:
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Leonard Stringfield, a UFO crash-retrieval investigator Gerb describes as "legendary," produced
@@ -123,3 +125,7 @@ a series of "Crash Retrieval Status Reports" analyzed throughout the SAIC video.
 ## Claims (gerb/mccandlish)
 
 - Gerb cites Michael Schratt's access to Stringfield's files: a Class A witness who cut across Edwards in a USAF vehicle saw a disc with a clear dome in open hangars in the 1960s, and Mr. Hines' second-hand Bell Labs story of a retrieved craft with a cutaway in the early 1950s, as possible corroboration of the ARV at Edwards ([[kent-selin]]). *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 34:10-35:22)*
+
+## Claims (gerb/navy)
+
+- Gerb draws heavily on Stringfield's status reports for naval storage stories (Hack, Jeffers/Goldberg film, Lieutenant Colonel X, Yuma, and Great Lakes); see [[naval-craft-storage-claims]] and [[great-lakes-naval-station-craft-1973]]. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:11:41-1:20:10)*

@@ -58,6 +58,8 @@ sources:
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Harald Malmgren (13 July 1935 - 13 February 2025) was, per the host, a "whiz kid" aide to Defense Secretary [[robert-mcnamara]] and presidential adviser to [[john-f-kennedy]], [[lyndon-b-johnson]], [[richard-nixon]] and Gerald Ford, later an adviser to many foreign leaders (every Japanese prime minister since Tanaka, per [[pippa-malmgren]]). In this final interview (recorded days before he was hospitalised, with a follow-up phone call three days before his death) he claims to have directly handled UFO debris in 1962 after the [[bluegill-triple-prime]] nuclear test and to have been briefed on "otherworld technologies" by [[richard-bissell]]. Everything below is his uncorroborated account or the host's/daughter's relay of it.
@@ -137,3 +139,7 @@ See [[richard-bissell]]: Malmgren claims Bissell said "this didn't start last we
 ## Claims (jm/cameron)
 
 - Cameron says he believes Malmgren, who served at the Institute for Defense Analyses under Walker's board. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:51:42-1:52:40)*
+
+## Claims (gerb/navy)
+
+- Gerb recounts Malmgren's Bluegill Triple Prime account and the recovery of the pod by the USS Safeguard as the one acknowledged Navy USO retrieval. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 15:44-16:41)*

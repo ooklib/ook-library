@@ -25,6 +25,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Director of [[national-reconnaissance-office|NRO]] Program B (1982–1989), the joint NRO/CIA
@@ -67,3 +69,8 @@ Australia]] — where Heinman was the facility's first chief. Also served as
 ## Claims (gerb/off-world-tech)
 
 - Named as a CIA DS&T contact to whom [[bobby-ray-inman]] referred [[bob-oechsler]]. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 46:00-46:09)*
+
+## Claims (gerb/navy)
+
+- Gerb adds that Heinman met Oechsler at CIA headquarters on 10 August 1989 and denied knowledge, that in 2022 he told Twitter user RGH_UFOs he was "a long way and quite a few years" from that area without answering follow-ups, and that Gerb's own contact attempts got no reply. He ran NRO Program B (1982-89) and was first chief of its ground facility at Pine Gap. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 36:12-37:57, 1:38:30-1:38:44)*
+- The 14 December 1984 memo on the [[navy-special-program]] suggested including a representative from Heinman's department on an ad hoc requirements committee. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:29:49-1:30:36)*

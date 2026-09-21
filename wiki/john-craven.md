@@ -24,6 +24,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 John Piña Craven, described as senior scientist of the Navy Special Projects Office, is credited
@@ -80,3 +82,8 @@ by Gerb with the "seventh veil" analogy for extreme compartmentation. *([gerb/mi
 ## Additional claims (gerb/timeline)
 
 - Timeline video: led DSSP (1964) and was briefed on Sand Dollar in 1965; see [[deep-submergence-systems-project]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:02:01-1:03:50)*
+
+## Claims (gerb/navy)
+
+- Gerb quotes The Silent War on his 1964 DSSP, the 1965 Sand Dollar briefing and the DSRV's availability for classified missions, and notes Craven asked whether he could run the program without his family and closest colleagues knowing. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 51:34-52:32, 54:59-55:16)*
+- Gerb reads Craven's statements that DSRV units were sent almost exclusively on clandestine operations as explaining the NDAs in [[deep-sea-triangle-recovery-1991]]. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:08:45-1:08:56, 1:42:26-1:42:43)*

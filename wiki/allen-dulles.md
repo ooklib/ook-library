@@ -123,6 +123,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Allen Dulles (transcribed "Alan Dulles" in Eyes Wide Open's ASR captions) was an
@@ -357,3 +359,7 @@ Levenda says Dulles's partner Mary (ASR "Mary Douglas") was best friend of Ruth 
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] says Dulles and [[james-jesus-angleton]] did illegal things at the CIA, misled presidents and enshrined a culture that made [[john-f-kennedy]] want to break it up, and that he believes Dulles's conspiracy is integrally connected to UAP. See [[coulthart-constitutional-crisis-framing]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:32:03-1:33:24)*
+
+## Claims (gerb/navy)
+
+- Gerb, via Crookshank, reads the alleged 1961 JFK "Tur" memo to Dulles as referencing [[project-palladium]], and notes Dulles and JFK did meet on 28 June 1961. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:27:15-1:27:45)*

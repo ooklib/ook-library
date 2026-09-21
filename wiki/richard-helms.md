@@ -29,6 +29,8 @@ sources:
     label: "JFK and the CIA (Eyes Wide Open)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Richard Helms, future CIA director, is noted by Eyes Wide Open (citing Jefferson Morley) as one
@@ -75,3 +77,7 @@ ground during WWII, alongside [[frank-wisner]], [[william-colby]], and [[james-j
 ## Additional claims (rc/mj12)
 
 - [[geoffrey-cruickshank]] says Helms, in office only two weeks in 1973 (as stated), ordered documents burned, and that he was a friend of Angleton, Ray Rocca and [[scotty-miller]]; loyalty to Helms after [[richard-nixon]] fired him allegedly motivated the leaks. [[jed-davis]] adds that Helms's MK-Ultra destruction order failed only because 20,000 files were misfiled. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 48:18-48:49, 1:08:53-1:10:51)*
+
+## Claims (gerb/navy)
+
+- Gerb cites Blind Man's Bluff that NURO was established under CIA director Helms after the K-129 loss. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 24:50-25:12)*

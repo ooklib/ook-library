@@ -23,6 +23,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Rear Admiral Sumner Shapiro, a former Director of Naval Intelligence, sat on the board of
@@ -62,3 +64,7 @@ Shapiro. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 44:42–45:05)*
 ## Claims (gerb/off-world-tech)
 
 - Per Oechsler, Shapiro said the US holds extraterrestrial vehicles, had studied one up close, and that teams disassemble craft and ship parts to labs across the country; Gerb asks whether Crane received such a component. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 46:18-46:44)*
+
+## Claims (gerb/navy)
+
+- Gerb repeats Oechsler's 1989 meeting in which Shapiro, then a BDM International executive, said factions hold extraterrestrial vehicles he studied at close quarters, that teams took the craft apart, packed them and shipped them to laboratories, and that interlocking components had to be disassembled in exact sequence; the 1990 second meeting ended abruptly when Oechsler showed an alien-head hologram, per Timothy Good. Gerb says he cannot tell whether Shapiro served on NURO and that Shapiro's family did not answer him. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 37:57-39:51, 1:38:37-1:38:54)*

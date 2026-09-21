@@ -33,6 +33,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
     label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Alleged 1965 crash of a small bell- or acorn-shaped UFO at Kecksburg, Pennsylvania, roughly 100 miles from [[eric-a-walker]]'s Penn State base. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 17:17-17:55)*
@@ -71,3 +73,7 @@ Alleged 1965 crash of a small bell- or acorn-shaped UFO at Kecksburg, Pennsylvan
 - Hieroglyph-like writing is compared to [[jesse-marcel]]'s Roswell debris, [[danny-sheehan]]'s Blue Book photo description, and witness RA's tablet at the [[off-world-technologies-division]]; the piece-shedding to [[stephen-lovekin]]'s claim of Blue Book recovering Roswell debris. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 38:13-38:49)*
 - [[eric-a-walker]] told Armen Victorian he went to the site with two off-duty military men and a colleague and prepared no reports; Gerb reads this as possibly the men in civilian clothes or trench coats. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 40:11-41:19)*
 - Related claims: [[johnson-schedule-after-kecksburg-1965]], [[kecksburg-wright-patterson-transport-claims]], [[kecksburg-bodies-claims]]. Gerb concludes he leans toward a legitimate UAP retrieval, not a meteor or a human-made capsule, and that only official documents are missing. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 1:13:04-1:14:38)*
+
+## Claims (gerb/navy)
+
+- Gerb compares the hieroglyphic-like characters on the [[deep-sea-triangle-recovery-1991]] craft to the Kecksburg bell's lower lip lettering. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:03:10-1:03:42)*

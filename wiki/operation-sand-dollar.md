@@ -26,6 +26,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Per [[john-craven|Dr. John Piña Craven]]'s memoir *The Silent War*, Operation Sand Dollar was a
@@ -61,3 +63,9 @@ shelf" and deep marine environments. It remains classified. *([gerb/saic](../raw
 ## Additional claims (gerb/timeline)
 
 - Timeline video: cited as the reason for the 1964 [[deep-submergence-systems-project]]; Gerb believes it also boosted maritime UFO/USO retrieval. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:03:25-1:04:29)*
+
+## Claims (gerb/navy)
+
+- Gerb restates Craven's account (chief scientist of the special projects office, briefed by a naval intelligence officer in 1965, shown an inventory and world map of seabed items, hidden inside the Polaris subprogram, still classified as of 2002) and hypothesizes Sand Dollar was the Navy's first UFO legacy program. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 51:34-54:59)*
+- Craven wrote of the Halibut and Seawolf that they only transported top secret equipment and teams of industry specialists, and "the performers and the performances were invisible". *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 53:50-54:13)*
+- Gerb links it to [[deep-sea-triangle-recovery-1991]] because Sand Dollar targeted radioactive items, and to the 1964 DSSP occurring two years after the 1962 [[bluegill-triple-prime]] recovery. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:10:07-1:10:25, 1:40:09-1:40:35)*

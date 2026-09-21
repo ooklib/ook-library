@@ -44,6 +44,8 @@ sources:
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
     label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Eric A. Walker was president of Penn State University 1956-1971, chairman of the Institute for Defense Analyses, and executive secretary of the Defense Research Board 1950-51. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 14:00-14:30)* UAP Gerb treats him as the man [[robert-sarbacher]] described as "smug" from Philadelphia at the Wright Field crash meeting. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 12:37-13:10)*
@@ -87,3 +89,7 @@ Eric A. Walker was president of Penn State University 1956-1971, chairman of the
 - In the Victorian interview Walker says he went to Kecksburg with two military men not on duty and a colleague, cannot comment on whether it was a UFO, and that no reports were prepared. Gordon says a report placed someone fitting Walker's description at the site. Gerb reads the refusal as possibly an admission. See [[kecksburg-ufo-crash-1965]]. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 40:03-41:19)*
 - Gerb ties Walker to the [[penn-state-applied-research-laboratory]] (created 1945 at the Navy's request) and the witness "TB"'s UARC claim. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 41:19-42:38)*
 - Walker met Johnson at a 3 August 1964 luncheon, exchanged letters (10 and 24 September 1964, 18 May 1966) and was the only university president invited to the 1967 Clean Air Act signing; see [[johnson-schedule-after-kecksburg-1965]]. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 43:13-44:42)*
+
+## Claims (gerb/navy)
+
+- Gerb recalls Walker founded Penn State's UARC in 1945, was named by Sarbacher as taking part in 1950s retrieval programs, and admitted being at Kecksburg and knowing of MJ-12; Gerb calls it striking for a former TRW board member. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 13:42-14:30)*

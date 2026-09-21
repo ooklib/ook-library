@@ -111,6 +111,8 @@ sources:
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -382,3 +384,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Claims (gerb/mccandlish)
 
 - In the ARV story a Lockheed Skunk Works pair commissioned McCandlish, Aurora is a Lockheed craft, and Gerb links the Plant 42 hangar and a 1989 East Germany recovery of a Lockheed advanced vehicle to Lockheed's alleged joint role. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 7:10-7:36, 46:15-46:51, 54:05-54:21)*
+
+## Claims (gerb/navy)
+
+- Gerb ties Lockheed Missiles and Space Company's Sunnyvale to the DSRVs Mystic and Avalon ([[deep-submergence-rescue-vehicles]]), the Glomar lease via Ocean Minerals Company ([[hughes-glomar-explorer]]), and Sharp's mention of a Lockheed dry submersible, which SOCOM declared operational in 2023. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 4:08-4:24, 26:27-26:53, 49:43-50:08, 1:31:03-1:31:25)*

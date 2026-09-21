@@ -28,6 +28,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 BDM International is a defense contractor with a secure facility in McLean, Virginia, where a
@@ -71,3 +73,7 @@ supervised by [[john-b-alexander|Col. John B. Alexander]]) was held — one year
 ## Claims (gerb/uso)
 
 - Oke Shannon's notes place the 1985 Advanced Theoretical Physics Working Group at BDM's International McLean secure facility, classified using DOE controls. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 9:21-9:36)*
+
+## Claims (gerb/navy)
+
+- Gerb notes it was purchased by Northrop Grumman and that [[sumner-shapiro]] was a BDM executive when he met Oechsler in 1989. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 38:13-38:31)*

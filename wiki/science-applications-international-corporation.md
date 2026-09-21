@@ -73,6 +73,8 @@ sources:
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Science Applications International Corporation (SAIC, called "SIC" throughout the ASR
@@ -247,3 +249,7 @@ whistleblower).
 ## Claims (gerb/edwards-afb)
 
 - Gerb cites a 1988 SAIC study for [[edwards-air-force-base]] on electronic propulsion mechanisms alongside the Edwards Aeronautics Lab's 1988 [[biefeld-brown-effect]] report. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 32:24-32:55)*
+
+## Claims (gerb/navy)
+
+- Gerb again calls SAIC the likely contractor running the Off-World Technologies Division below NSWC Crane, notes Inman's SAIC directorship, and cites Woods Hole R&D contracts with SAIC. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 28:46-29:16, 47:16-47:24)*

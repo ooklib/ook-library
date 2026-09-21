@@ -26,6 +26,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 The Office of Naval Intelligence, founded 1882, is described as the world's oldest intelligence
@@ -76,3 +78,7 @@ agency and the US Navy's premier intelligence arm, part of both the DoD and IC. 
 
 - Gerb says a 24 April 1952 Air Force intelligence letter forwarding nine submarine-UFO contact reports was written with ONI's assistance (the reports are said to be unavailable), and, via Timothy Good and [[leonard-stringfield]], that Stringfield was told of thousands of ONI UAP reports from 1952 to 1956. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 3:13-4:07)*
 - OPNAV directive 3820 (23 January 1954) sent flying object reports to the Director of Naval Intelligence among others; see [[janap-146c]]. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 6:12-6:37)*
+
+## Claims (gerb/navy)
+
+- Gerb treats ONI alongside ONR as an operating office of naval UFO legacy programs, notes Inman and Shapiro as former directors and an alleged NSP chief information security officer role for a contact of Gerb; see [[navy-special-program]]. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 3:51-3:59, 27:45-28:14, 1:31:25-1:31:35)*

@@ -35,6 +35,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 The CIA's Office of Global Access, established under the [[cia-directorate-of-science-and-
@@ -86,3 +88,7 @@ Command]]'s muscle for foreign UFO crash retrievals. *([gerb/saic](../raw/gerb/s
 ## Claims (gerb/coyame)
 
 - Gerb notes the CIA role in the [[deneb-report]] (facilitating entry, gathering intelligence, assembling a retired-personnel recovery team) closely resembles [[chris-sharp]]'s anonymous-source description of the OGA, and infers CIA departments engaged in crash retrieval well before the OGA's 2003 creation; his CIA FOIA request for the alleged 1974 collision returned nothing. See [[coyame-crash-1974]]. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 21:45-22:39)*
+
+## Claims (gerb/navy)
+
+- Gerb notes Sharp says the OGA works with JSOC on retrieval of objects on foreign soil and uses it as a model for undersea logistics; per Gerb, former DS&T deputy director Doug Wolf helped found it in 2003. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 7:35-8:58, 11:22-11:44)*

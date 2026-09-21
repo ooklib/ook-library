@@ -27,6 +27,8 @@ sources:
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Joint Special Operations Command. Gerb and journalist [[chris-sharp]] have accused JSOC
@@ -78,3 +80,7 @@ elements of participating in foreign UFO crash-retrieval operations alongside th
 ## Claims (gerb/coyame)
 
 - Gerb notes [[chris-sharp]]'s article claims the CIA's [[cia-office-of-global-access]] coordinates with JSOC to collect craft, and compares this to the 1974 US team of the [[coyame-crash-1974]]. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 21:45-22:16)*
+
+## Claims (gerb/navy)
+
+- Sharp's 2024 article names JSOC (rendered "JOCK" in the ASR) alongside the CIA OGA in foreign-soil retrievals, and Gerb assigns it the men-at-arms and security role in undersea retrievals. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 7:51-8:58, 11:29-11:44)*

@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Navy major range and test facility base, the Navy's largest single land holding (85% of Navy weapons and armaments RDT&E, per Gerb), just north of the [[antelope-valley]]. [[uap-gerb]] says it has repeatedly been named an underground legacy program location and plans a dedicated video. The wiki owner's notes place the "Cindercone" (also called "Red Hill") near China Lake, in the DUMB list of [[deep-underground-military-bases]]. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 21:25, 21:33, 51:52, 52:16)*
@@ -28,3 +30,7 @@ Navy major range and test facility base, the Navy's largest single land holding 
 ## Relationships
 
 - Part of the [[antelope-valley]] alleged network; see [[dumb-tunnel-and-maglev-network]].
+
+## Claims (gerb/navy)
+
+- Gerb lists NAWC China Lake among Navy stations in the alleged naval UFO programs and says more investigation is needed there. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 4:08-4:17, 1:44:16-1:44:24)*

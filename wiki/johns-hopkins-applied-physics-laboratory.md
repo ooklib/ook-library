@@ -9,6 +9,8 @@ relations:
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 A University Affiliated Research Center (UARC) — the academic counterpart to FFRDCs — that Gerb
@@ -22,3 +24,7 @@ identifies as itself a "legacy program" institution. *([gerb/mitre](../raw/gerb/
 ## Relationships
 
 - Prior employer of [[william-laplante]] before his MITRE and Air Force acquisition roles.
+
+## Claims (gerb/navy)
+
+- Gerb lists it among Navy UARCs that may liaise between the government and contractors in UFO programs. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 13:27-13:42)*

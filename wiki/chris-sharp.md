@@ -29,6 +29,8 @@ sources:
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Chris Sharp, a journalist with the Liberation Times, is cited by Gerb for his article "UFO
@@ -79,3 +81,7 @@ reported sources describing a vehicle or vehicles of unknown origin stored at
 ## Claims (gerb/coyame)
 
 - Gerb cites Sharp's article on the [[cia-office-of-global-access]] and its anonymous sources (a facilitator for getting in and out of countries; physical retrieval by the military, then quickly moved into private hands; JSOC and nuclear experts such as NEST also involved, per two Daily Mail sources) as resembling the CIA role in the [[deneb-report]], suggesting CIA retrieval work predated the OGA's 2003 creation. See [[coyame-crash-1974]]. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 21:45-24:26)*
+
+## Claims (gerb/navy)
+
+- Gerb credits Sharp's September 2024 Liberation Times reporting with kicking off his Navy investigation; see [[sharp-undersea-retrieval-report-2024]]. Gerb also notes Sharp and Eric Davis accuse CIA DS&T of taking part in retrievals, and Sharp says the edits removed sourced details because of threats to him. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 6:16-10:58, 1:38:00-1:38:16)*

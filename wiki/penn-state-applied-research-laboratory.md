@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
     label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 The Applied Research Laboratory (ARL) at Penn State is a University Affiliated Research Center (UARC) for the US Navy. [[uap-gerb]] raises it as a possible institutional link for [[eric-a-walker]] and the Kecksburg crash. This is Gerb's speculation, built on alleged emails from the witness "TB" to [[steven-greer]] saying UFO unacknowledged special access programs are embedded in UARCs. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 41:19-42:38)*
@@ -26,3 +28,7 @@ The Applied Research Laboratory (ARL) at Penn State is a University Affiliated R
 ## Relationships
 
 - Related to [[eric-a-walker]] and [[kecksburg-ufo-crash-1965]].
+
+## Claims (gerb/navy)
+
+- Gerb lists Penn State's ARL among Navy UARCs that could serve as the intermediary between the Navy and contractors in UFO programs. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 13:19-13:55)*

@@ -15,6 +15,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Retired US Navy Rear Admiral, former assistant secretary of commerce for oceans and atmosphere and former NOAA administrator, presented by [[uap-gerb]] as the most credible figure to speak on USOs and one of the biggest inspirations for the video. He spoke on the [[sol-foundation]]'s November 2023 panel. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 10:33-10:57,)*
@@ -30,3 +32,7 @@ Retired US Navy Rear Admiral, former assistant secretary of commerce for oceans 
 ## Relationships
 
 - Advocates [[uso-unidentified-submerged-objects]] study; associated with the [[sol-foundation]]; his paper is used by Gerb to criticize [[aaro]]; covered in [[gerb-uso-video]].
+
+## Claims (gerb/navy)
+
+- Gerb notes Gallaudet has said on the congressional record that he knew of testimony about naval UFO legacy programs but was not briefed on them, which Gerb reads as consistent with compartmentation in the [[navy-special-program]]. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:25:23-1:25:49)*

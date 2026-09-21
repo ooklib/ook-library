@@ -28,6 +28,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Bluegill Triple Prime was the fourth-of-series high-altitude Bluegill nuclear test of 1962's [[operation-dominic]] at Johnston Island, an X-ray-based missile-defense experiment. In this transcript [[harald-malmgren]] and host [[jesse-michels]] allege it was also a UFO shootdown. All claims below are attributed.
@@ -61,3 +63,7 @@ Bluegill Triple Prime was the fourth-of-series high-altitude Bluegill nuclear te
 ## Claims (jm/matthew-brown)
 
 - Michels cites the EG&G footage of a UFO leaving the plume and oceanographer Tim Gallaudet's reading of Navy deck logs suggesting retrieval of something radioactive; Brown says the Navy is the oldest part of the program. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:58:20-1:59:39)*
+
+## Claims (gerb/navy)
+
+- Gerb calls it the one acknowledged Navy USO retrieval: per [[harald-malmgren]], the 1962 test disabled a nearby UFO that fell into the sea and was recovered by the USS Safeguard (with the USS Engage), which searched a square grid, used divers to recover a "pod", lost power while netting it and released it for helicopter pickup. He later links it to the DSSP and the 1991 triangle timeline. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 15:44-16:41, 1:10:07-1:10:25)*

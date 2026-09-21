@@ -20,6 +20,8 @@ sources:
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
     label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Unidentified submerged objects (USOs) are UFOs seen entering, leaving or operating beneath water; the term overlaps with "transmedium UAP". [[uap-gerb]] argues USOs show the same shapes as aerial UAP (triangles, orbs, discs, cigars) and that their movements are anomalous in any fluid medium, so he sees no real difference between transmedium UAP and USOs. All specific cases below are attributed claims. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 0:00-0:33)*
@@ -44,3 +46,7 @@ Unidentified submerged objects (USOs) are UFOs seen entering, leaving or operati
 ## Relationships
 
 - Related to [[tic-tac-factory-uso]]; involves [[office-of-naval-intelligence]], [[operation-interloper]], [[janap-146c]] and [[uss-trepang-photographs-1971]]; advocated by [[timothy-gallaudet]]; covered in [[gerb-uso-video]].
+
+## Claims (gerb/navy)
+
+- Gerb's Navy video is his third USO project; it argues for Navy/CIA/NURO undersea retrievals and cites the OPNAV 3820 reporting restriction from his earlier work. See [[sharp-undersea-retrieval-report-2024]], [[deep-sea-triangle-recovery-1991]] and [[gerb-navy-video]]. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 2:42-5:02, 1:36:11-1:36:27)*

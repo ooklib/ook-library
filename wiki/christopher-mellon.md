@@ -47,6 +47,8 @@ sources:
     label: "Incredible UFO Footage - METAPOD (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md"
     label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
+    label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
 ---
 
 Former deputy assistant secretary of defense for intelligence and a UFO-disclosure-advocate
@@ -117,3 +119,7 @@ Levenda met Mellon in Austin; see [[austin-to-the-stars-meeting]]. *([jm/levenda
 ## Claims (gerb/nell)
 
 - Gerb lists him as a [[sol-foundation]] figure; [[karl-nell]] thanks Mellon and Luis Elizondo for their work getting the 2017 videos released. *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 2:04-2:11, 3:01-3:16)*
+
+## Claims (gerb/navy)
+
+- Gerb says someone should ask Mellon about the [[navy-special-program]], since he was an Assistant Secretary of Defense for Intelligence. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:24:07-1:24:16)*
