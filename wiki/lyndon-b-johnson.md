@@ -31,6 +31,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 Lyndon Johnson appears in War Conspiracy 1 as one of the two politicians (with [[richard-nixon]])
@@ -90,3 +92,8 @@ whom [[eyes-wide-open]] says the [[china-lobby]] "effectively elevated," and who
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb names LBJ (with Nixon) as a president "absolutely involved" in the programs, via NSAM 303 (June 1964) and his relationship with [[eric-a-walker]]; the day after Kecksburg he coordinated national security advisers (including James Webb) at the Texas White House. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:01:30-1:01:59, 2:35:55-2:36:20)*
+
+## Claims (gerb/kecksburg)
+
+- Gerb treats Johnson as a suspected recipient of Kecksburg briefings, citing [[luis-elizondo]]'s 2024 book naming him among presidents "read in", his ties to [[eric-a-walker]], and his 9-11 December 1965 schedule from [[grant-cameron]]'s files; see [[johnson-schedule-after-kecksburg-1965]]. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 42:47-43:13)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 45:20-51:41)*
+- As a senator Johnson tried to set up a military subcommittee to report UFO sightings to him, and in 1960 wrote to Major Donald Keyhoe thanking him for documented UFO evidence. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 44:49-45:13)*

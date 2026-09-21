@@ -42,6 +42,8 @@ sources:
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 Dr. Robert Sarbacher, a respected physicist and 1950s consultant to the DoD's Research and
@@ -120,3 +122,7 @@ Dedicated deep-dive video. Sarbacher: physicist, Einstein student, Harvard gradu
 ## Claims (gerb/off-world-tech)
 
 - Gerb recalls Sarbacher's Stanton Friedman interview naming [[eric-a-walker]] as a crash-retrieval member and stating Bush's involvement. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 42:06-42:29)*
+
+## Claims (gerb/kecksburg)
+
+- Gerb recaps that Sarbacher named [[eric-a-walker]] to Stanton Friedman as an integral crash-retrieval figure, and says Walker's Kecksburg admission supports that. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 38:52-39:17)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 1:10:01-1:10:17)*

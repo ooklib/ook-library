@@ -67,6 +67,8 @@ sources:
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
@@ -238,3 +240,7 @@ Levenda tells Stanton Friedman he thinks the MJ-12 documents "look real" and are
 ## Claims (gerb/coyame)
 
 - Gerb cites the MJ-12 first annual report (section F, "government policy of control and denial", and the "Research Findings on the Chihuahua Disk Crash" item) on four Sandia technicians who contacted UFO debris and bodies (one collapsed removing a body, one in a coma four hours) and all died of seizures and profuse bleeding at Los Alamos, with a medical adviser calling equipment "wholly inadequate" for a large-scale outbreak of "the alien virus". He uses it as a parallel to the [[coyame-crash-1974]] deaths. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 29:41-30:41)*
+
+## Claims (gerb/kecksburg)
+
+- Gerb says [[eric-a-walker]] confirmed knowing of MJ-12 in the 1980s and discusses Bush-to-Walker continuity; Hornig as presidential science adviser is linked to the "Majestic documents" tradition. See [[johnson-schedule-after-kecksburg-1965]]. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 39:39-40:03)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 50:07-50:22)*

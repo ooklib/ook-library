@@ -21,6 +21,8 @@ sources:
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 Grant Cameron is a Canadian UFO researcher (YouTube and X handle "whitehouseufo") who has investigated since the 1975 Manitoba "Charlie Red Star" flap and specializes in presidential and government UFO records, FOIA filings and Wilbert Smith's archive. Michels says his name shows up whenever he traces a deep thread. He authored "Beyond Managing Magic 2: Landing the Plane" and a book on people who say they flew the craft (ASR "UFO Skypods"). He also says he made the Wilson-Davis notes public.
@@ -42,3 +44,7 @@ Grant Cameron is a Canadian UFO researcher (YouTube and X handle "whitehouseufo"
 ## Claims (gerb/whistleblowers-1)
 
 - Gerb cites Cameron's interview of [[stephen-lovekin]], who said he attended Camp David with Eisenhower and overheard a call about the 1952 Washington UFOs. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 24:00-24:25)*
+
+## Claims (gerb/kecksburg)
+
+- Gerb's Kecksburg video uses Cameron's 2024 file release ("James Webb Kecksburg", "Johnson Weird Walker", "Kecksburg Period Logs", "Kecksburg Presidential Schedule", "Kecksburg 1-5") from the LBJ Library, including the off-the-record 13 December 1965 Califano-Ellington meeting; see [[johnson-schedule-after-kecksburg-1965]]. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 45:28-45:37)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 49:35-49:51)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 1:10:33-1:10:59)*

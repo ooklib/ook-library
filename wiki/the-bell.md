@@ -13,6 +13,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 Die Glocke ("the Bell"), a legendary Nazi bell-shaped high-voltage machine, is raised as a model for Brown-style time manipulation.
@@ -30,3 +32,7 @@ Die Glocke ("the Bell"), a legendary Nazi bell-shaped high-voltage machine, is r
 ## Additional claims (jm/jorjani-hitler)
 
 - [[jason-jorjani]] describes the Bell (die Glocke, "Der Bienenstock") as a mercury-thorium rotating device with electromagnets and pulsed high-voltage DC, an alleged over-unity plasma-fusion source that levitated, killed its first team and produced time distortions; he places integration into the saucer airframe in 1944 and cites a Serbian source dating it to 1937. See [[nazi-saucer-program-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 42:26, 48:48, 53:00, 56:34)*
+
+## Claims (gerb/kecksburg)
+
+- Gerb notes the Kecksburg craft has a shape similar to Die Glocke (transcribed "delock"), the alleged Nazi wonder weapon, and to the Liberty Bell, and defers [[nick-cook]]'s work to another video. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 1:08:02-1:08:25)*

@@ -18,6 +18,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 Stephen Lovekin was a US Army technician who worked in the White House Army Signal Agency during the Eisenhower and Kennedy administrations and appeared in [[steven-greer]]'s [[disclosure-project]] (2001). He claims knowledge of [[project-blue-book]]'s classified content, of Roswell wreckage and bodies, and of Eisenhower losing control of the UFO effort. All below are his claims as relayed by [[uap-gerb]], who finds him "quite credible" apart from an inflated title.
@@ -39,3 +41,7 @@ Stephen Lovekin was a US Army technician who worked in the White House Army Sign
 - Subject of [[gerb-whistleblowers-1-video]].
 - Associate of [[steven-greer]] via the [[disclosure-project]]; present at the briefing in the [[wilson-davis-notes]].
 - Speaks about [[project-blue-book]], [[dwight-d-eisenhower]] and [[roswell-incident-1947]].
+
+## Claims (gerb/kecksburg)
+
+- Gerb recalls Lovekin's claim that a classified Blue Book portion recovered Roswell debris in connection with pieces reportedly shed by the Kecksburg fireball. See [[kecksburg-ufo-crash-1965]]. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 38:06-38:22)*

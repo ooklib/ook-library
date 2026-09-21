@@ -15,6 +15,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 The alleged December 1963 two-week guard detail over a disc-shaped craft at an undisclosed military base, as told by [[marine-rb]] and relayed by [[uap-gerb]]. Nothing is verifiable.
@@ -32,3 +34,7 @@ The alleged December 1963 two-week guard detail over a disc-shaped craft at an u
 ## Relationships
 
 - Alleged by [[marine-rb]]; covered in [[gerb-whistleblowers-2-video]]; recorded by [[leonard-stringfield]]; speculatively tied to [[blue-room-wright-patterson]].
+
+## Claims (gerb/kecksburg)
+
+- Gerb compares Marine RB's account of scientists failing to gain entry to a guarded craft to [[myron-brick-delivery-witness]]'s Kecksburg warehouse account of torches, drills and acid failing to open the bell. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 56:53-57:10)*

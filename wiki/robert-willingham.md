@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 Robert Burton Willingham (died 2015) was a US Army Air Force, Air Force Reserve and Civil Air Patrol pilot who claimed to have seen a UFO crash and its wreckage near the Texas-Mexico border in 1955. He signed an affidavit in 1977. [[uap-gerb]] treats the account as fascinating in context but weak in credibility. All below are claims as relayed by Gerb.
@@ -32,3 +34,7 @@ Robert Burton Willingham (died 2015) was a US Army Air Force, Air Force Reserve 
 
 - Subject of [[willingham-langtry-crash-1955]]; featured in [[gerb-del-rio-video]].
 - Associated with [[william-draeger]]; his story was popularized by [[noe-torres]].
+
+## Claims (gerb/kecksburg)
+
+- Gerb contrasts the Kecksburg body witness Myron's late addition of a body with Willingham's changed story in the Del Rio case (transcribed 1955), which Gerb places around the time of Noe Torres's book. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 1:11:49-1:12:14)*

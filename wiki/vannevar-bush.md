@@ -57,6 +57,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program? (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 Dr. Vannevar Bush is presented as the intellectual architect of the modern
@@ -180,3 +182,7 @@ Dr. Vannevar Bush is presented as the intellectual architect of the modern
 ## Claims (gerb/off-world-tech)
 
 - Named in the alleged FDR special-committee memo that Gerb links to [[off-world-technologies-division]], with [[robert-sarbacher]] having stated Bush's involvement in covert UFO programs. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 41:22-42:14)*
+
+## Claims (gerb/kecksburg)
+
+- Gerb notes presidential science adviser Donald Hornig attended Johnson's post-Kecksburg meetings, and that the post was first held by Bush. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 50:07-50:22)*

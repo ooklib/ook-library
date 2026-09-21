@@ -12,6 +12,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 Jesse Marcel Sr. was the 509th Bomb Group intelligence officer dispatched to recover the Foster Ranch debris in July 1947. Only the claims [[uap-gerb]] relays in one video are recorded here; see [[roswell-incident-1947]] for the wider case.
@@ -26,3 +28,7 @@ Jesse Marcel Sr. was the 509th Bomb Group intelligence officer dispatched to rec
 
 - Named in the accounts of [[walter-haut]] and [[stephen-lovekin]].
 - Central to [[roswell-incident-1947]].
+
+## Claims (gerb/kecksburg)
+
+- Gerb compares the Kecksburg hieroglyphic-like writing to the markings on Roswell debris described by Marcel Sr. See [[kecksburg-ufo-crash-1965]]. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 38:22-38:31)*

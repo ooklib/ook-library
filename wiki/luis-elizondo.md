@@ -70,6 +70,8 @@ sources:
     label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 Luis Elizondo (ASR-transcribed "Lou Alzando"/"Luis Alzando") claimed to direct, work for, or
@@ -227,3 +229,7 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
 ## Claims (gerb/coyame)
 
 - Gerb cites Elizondo's statement that unknown UAP programs operated in the 1980s while speculating on who the "Deneb team" of the [[deneb-report]] was. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 16:41-17:03)*
+
+## Claims (gerb/kecksburg)
+
+- Gerb cites Elizondo's 2024 book *Imminent* for naming Lyndon Johnson among presidents "read in" on the UFO phenomenon, and for a graphic on dangers of proximity to UAP. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 37:36-37:43)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 42:47-42:56)*

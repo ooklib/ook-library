@@ -65,6 +65,8 @@ sources:
     label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -176,3 +178,7 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 ## Claims (gerb/off-world-tech)
 
 - Per Gerb, [[randy-anderson]] emailed Greer's Disclosure Project in late July 2023 (witness number 10127) and received no reply; Gerb also cites the 1996 Greer briefing to Congress calling SAIC a "crown jewel". *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 40:01-40:09, 50:41-51:04)*
+
+## Claims (gerb/kecksburg)
+
+- Gerb mentions the alleged TB emails to Greer about UARC-embedded USAPs, and witness Clifford Stone's Kecksburg claim in the 2001 National Press Club event, which he saves for another video. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 41:29-41:46)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 1:08:25-1:08:42)*

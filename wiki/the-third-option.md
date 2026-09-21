@@ -6,7 +6,6 @@ tags: [covert-action, counterinsurgency, paramilitary, shackley, ewa-season-3]
 relations:
   - relation: alleged_by
     target: eyes-wide-open
-    note: ""
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"

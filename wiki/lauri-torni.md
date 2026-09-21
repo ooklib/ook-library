@@ -9,7 +9,6 @@ relations:
     note: "joined Army 1954 under the Lodge Act; 10th Special Forces Group at Bad Tolz 1958-62"
   - relation: alleged_by
     target: eyes-wide-open
-    note: ""
 sources:
   - file: "raw/ewa/Eyes Wide Open - 2025-10-03 - The CIA's Blond Ghost - Ted Shackley.md"
     label: "The CIA's Blond Ghost - Ted Shackley (Eyes Wide Open)"

@@ -27,6 +27,8 @@ sources:
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 Official USAF group proposed in 1961, with companion Project Blue Fly and Foreign Technology Division, tasked to "locate, recover and deliver descended foreign space vehicles". Gerb covered cases in Nepal, Afghanistan, Canada and a 1965 Congo metal fragment in a separate video. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:26:23, 1:26:39)*
@@ -69,3 +71,7 @@ Official USAF group proposed in 1961, with companion Project Blue Fly and Foreig
 ## Claims (gerb/special-forces)
 
 - Gerb recommends his Moon Dust video and cites the USAF draft policy AFCI-e stating Project UFO and Moon Dust, both headquartered in the Air Force, had collection responsibilities for UAP and descended foreign space vehicles, as background for the Air Force role in [[special-forces-witness-infographics]]'s account; he excludes the 1978 Moon Dust retrieval in Bolivia as not saucer-like. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 9:10-9:40, 26:31-26:40)*
+
+## Claims (gerb/kecksburg)
+
+- Gerb links [[project-moon-dust]] to Kecksburg via [[leslie-kean]]'s lawsuit: NASA's 2009 disclosure produced 20 Moon Dust pages with no Kecksburg relation, and Gerb notes the program (with Blue Fly) was tasked with recovering descended foreign space vehicles, with a strange convenience of the lost files. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 32:56-33:34)*

@@ -35,6 +35,8 @@ sources:
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 Leonard Stringfield, a UFO crash-retrieval investigator Gerb describes as "legendary," produced
@@ -104,3 +106,8 @@ a series of "Crash Retrieval Status Reports" analyzed throughout the SAIC video.
 ## Claims (gerb/coyame)
 
 - Stringfield's Crash Retrieval Status Report 7 part 9 (p. 536) covers the [[coyame-crash-1974]]. In 1994 he said he heard of the Chihuahua case in the late 1970s or early 1980s, with only a vague memory that a US team covertly crossed into Mexico, and that at his 1978 MUFON talk the CIA had circuitously advised against discussing Mexico or West Germany crash information. He received the [[deneb-report]] from [[elaine-douglass]] and judged it authoritative, using correct military terminology and separating hard evidence from speculation. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 1:25-1:53)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 2:10-2:32)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 15:13-16:10)*
+
+## Claims (gerb/kecksburg)
+
+- Gerb leans on Stringfield's crash retrieval status reports for the Blue Beret unit ([[blue-beret-claims]]), the Fort Maguire incident, Kecksburg witness interviews and the "Uncle" insider, and calls his Kecksburg approach balanced over about a decade. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 5:57-7:45)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 53:03-54:13)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 1:10:50-1:11:16)*
+- Stringfield interviewed [[jim-romansky]] and, with Dr. Brian Thompson, [[myron-brick-delivery-witness]] (October 1990 and 30 March-1 April 1991 for his cousin), and wrote he was convinced of Myron's sincerity. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 53:11-53:27)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 59:16-59:57)*

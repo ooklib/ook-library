@@ -95,6 +95,8 @@ sources:
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -278,3 +280,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/coyame)
 
 - Video dated 2024-08-09 on the [[coyame-crash-1974]] ("Mexico's Roswell"), built on the [[deneb-report]] and the books of [[noe-torres]] and [[ruben-uriarte]]; Gerb says he met [[ryan-s-wood]], tried to contact the Mexican official Jesus Alberto about his deleted tweet, and first heard of the case from a UAP Caucus list of crash-retrieval events to bring before Congress. See [[gerb-coyame-video]]. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 39:25-40:30)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 41:40-42:25)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 44:02-44:36)*
+
+## Claims (gerb/kecksburg)
+
+- Video: [[gerb-kecksburg-video]] (2024-09-12), on the 1965 Kecksburg crash; Gerb says he leans toward a legitimate UAP retrieval, plans follow-ups on the Blue Beret ([[blue-beret-claims]]), Die Glocke and Nick Cook, and Clifford Stone's Kecksburg claims, and says he does about one live a week and wants more interviews. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 1:13:04-1:14:38)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 1:08:02-1:08:42)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 1:15:01-1:15:32)*

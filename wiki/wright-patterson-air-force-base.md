@@ -37,6 +37,8 @@ sources:
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 Wright-Patterson Air Force Base in Dayton, Ohio, was headquarters of Air Materiel Command (AMC)
@@ -121,3 +123,7 @@ and Air Research and Development Command (ARDC) — forerunners of the modern
 ## Claims (gerb/special-forces)
 
 - [[special-forces-witness-infographics]] says Wright-Patterson and the Foreign Technology Division were a red herring where the Soviets would look first and that "we faked some stuff going into Wright Patterson"; Gerb infers material shown there from about 1969 to 2004 may be program hoaxes, though early on it likely housed crashes and biological material. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 21:02-22:06)*
+
+## Claims (gerb/kecksburg)
+
+- Kecksburg witnesses say the recovered bell was taken to Wright-Patterson (first via Lockbourne AFB) and held in a warehouse with a lead-lined brick structure; see [[kecksburg-wright-patterson-transport-claims]]. Gerb also recalls [[jim-romansky]]'s claim about his son being barred from Wright-Patterson duty, and Blue Book's chaff sent to the base. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 20:55-21:03)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 27:58-28:07)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 52:39-57:37)*

@@ -24,6 +24,8 @@ sources:
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 NASA, established 29 July 1958, is the US civilian space agency. In [[jesse-michels]]'s 2025 episode it appears as the public face of a program with a hidden, secrecy-enabled side (alongside the [[national-reconnaissance-office]]) and an "esoteric dimension" of symbols, dates and personnel. See [[nasa-occult-symbolism-claims]].
@@ -68,3 +70,7 @@ NASA, established 29 July 1958, is the US civilian space agency. In [[jesse-mich
 ## Claims (gerb/special-forces)
 
 - Gerb cites a 13 December 1977 letter to NASA's chief of ground operation safety describing what could be a piece of a UFO examined at Los Alamos for over two months, and an internal memo (Black Vault FOIA release) admitting a late 1970s NASA UFO hard-evidence analysis program called "UFO HEAP", in the context of the witness's claim that the program tasked NASA to look for a craft fabrication site. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 35:49-36:38)*
+
+## Claims (gerb/kecksburg)
+
+- Kecksburg: NASA's 1965 press release said Cosmos 96 could not have been the object; NASA's Nicholas Johnson said no man-made object landed in Pennsylvania; after [[leslie-kean]]'s lawsuit NASA settled in 2007 and by 2009 produced 20 unrelated Moon Dust pages, saying files sent to the National Archives were marked lost since 1987. See [[kecksburg-ufo-crash-1965]]. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 28:24-33:12)*

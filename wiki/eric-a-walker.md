@@ -23,6 +23,12 @@ relations:
   - relation: associate_of
     target: ryan-s-wood
     note: "Wood says Walker took over Bush organization"
+  - relation: related_to
+    target: penn-state-applied-research-laboratory
+    note: "Walker created it in 1945, per Gerb"
+  - relation: associate_of
+    target: lyndon-b-johnson
+    note: "exchanged letters, per Gerb"
 sources:
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
@@ -36,6 +42,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 Eric A. Walker was president of Penn State University 1956-1971, chairman of the Institute for Defense Analyses, and executive secretary of the Defense Research Board 1950-51. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 14:00-14:30)* UAP Gerb treats him as the man [[robert-sarbacher]] described as "smug" from Philadelphia at the Wright Field crash meeting. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 12:37-13:10)*
@@ -72,3 +80,10 @@ Eric A. Walker was president of Penn State University 1956-1971, chairman of the
 ## Claims (gerb/off-world-tech)
 
 - Gerb quotes Walker on ESP ("How good is your sixth sense?... Only a few know about it") as an odd fit with consciousness-activated technology, and notes he confirmed presence at the 1965 Kecksburg crash. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 42:22-43:22)*
+
+## Claims (gerb/kecksburg)
+
+- Gerb summarizes Walker as Penn State president 1956-1971, chairman of the Institute for Defense Analyses and executive secretary of the Defense Research Board (1950-51), and cites [[robert-sarbacher]]'s naming of him alongside [[vannevar-bush]]. In the 1980s William Steinman and "Habib Henry Adel" (a pseudonym for Armen Victorian) interviewed him about 1949-50 crash retrieval meetings, MJ-12 and ESP. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 38:52-40:03)*
+- In the Victorian interview Walker says he went to Kecksburg with two military men not on duty and a colleague, cannot comment on whether it was a UFO, and that no reports were prepared. Gordon says a report placed someone fitting Walker's description at the site. Gerb reads the refusal as possibly an admission. See [[kecksburg-ufo-crash-1965]]. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 40:03-41:19)*
+- Gerb ties Walker to the [[penn-state-applied-research-laboratory]] (created 1945 at the Navy's request) and the witness "TB"'s UARC claim. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 41:19-42:38)*
+- Walker met Johnson at a 3 August 1964 luncheon, exchanged letters (10 and 24 September 1964, 18 May 1966) and was the only university president invited to the 1967 Clean Air Act signing; see [[johnson-schedule-after-kecksburg-1965]]. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 43:13-44:42)*

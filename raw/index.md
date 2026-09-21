@@ -94,7 +94,7 @@ which transcripts still await ingestion.
 | `gerb/off-world-tech` | `raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md` | Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb) | true |
 | `gerb/coyame` | `raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md` | The 1974 Coyame, Mexico UFO Crash (UAP Gerb) | true |
 | `gerb/mj12` | `raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md` | The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb) | true |
-| `gerb/kecksburg` | `raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md` | The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb) | false |
+| `gerb/kecksburg` | `raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md` | The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb) | true |
 | `gerb/edwards-afb` | `raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md` | UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb) | false |
 | `gerb/mccandlish` | `raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md` | Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb) | false |
 | `gerb/tr-3b` | `raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md` | Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb) | true |

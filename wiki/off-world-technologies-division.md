@@ -18,6 +18,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 The "Off-World Technologies Division" is a program named by Green Beret witness RA ([[randy-anderson]]), who says that between 2013 and 2015 a contractor instructor took him and one other TS/SCI soldier deep beneath [[naval-surface-warfare-center-crane]] and casually announced they were entering it. The account was first told publicly by [[uap-gerb]] in [[gerb-off-world-tech-video]]. Gerb says he found no other mention of the name anywhere. All of this is one anonymous witness's uncorroborated claim.
@@ -36,3 +38,7 @@ The "Off-World Technologies Division" is a program named by Green Beret witness 
 
 - Alleged to be located at [[naval-surface-warfare-center-crane]], reported by [[randy-anderson]], possibly run by [[science-applications-international-corporation]].
 - Thematically related to [[majestic-12]] and [[project-stargate]] consciousness research.
+
+## Claims (gerb/kecksburg)
+
+- Gerb compares the symbols projected from witness RA's tablet to the Kecksburg hieroglyph-like writing. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 38:40-38:52)*

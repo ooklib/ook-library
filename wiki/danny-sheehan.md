@@ -21,6 +21,8 @@ sources:
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 Danny Sheehan is an American public-interest lawyer and the founder of the New Paradigm Institute, appearing as the main guest of Jesse Michels's 2025 JFK episode. In the interview he presents a detailed, chronologically ordered narrative of the Kennedy assassination as an operation by the CIA-trained "S force" of Cuban exiles, rooted in a Nixon-Hughes-mafia plot against Castro and activated by a Dulles-centered China-lobby network; he also recounts his work with John Mack, a claimed deathbed account of a live extraterrestrial at S-4, a Scientology file on Ingo Swan, and his current lobbying for UAP disclosure legislation. This wiki records his statements as attributed claims. Speaker labels are absent from the transcript, so some attributions to him (versus Michels or Jeremy Rys) are inferred from first-person references such as his Jesuit-headquarters and Watergate-law-office anecdotes.
@@ -53,3 +55,7 @@ Danny Sheehan is an American public-interest lawyer and the founder of the New P
 
 - Gerb recalls Sheehan's 2021 UFO MegaCon remarks that in 1977, under orders from President Carter, he reviewed classified Blue Book files and saw five or six photos of a snow-covered saucer embedded in a ditch bank with rows of lines, dashes, dots and horseshoe shapes around the dome base, handled by USAF personnel in fur-hooded jackets; [[randy-anderson]] says his sketches resemble the symbols projected by the Crane device. Gerb tentatively floats the 1952 Spitsbergen event as a possible source. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 21:48-24:33)*
 - Gerb also cites Sheehan's 2023 claim that Radiance Technologies' Prompt Global Strike program leveraged reverse-engineered UAP technology. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 44:24-44:58)*
+
+## Claims (gerb/kecksburg)
+
+- Gerb compares the Kecksburg writing to the writing along the lip of a crashed craft in Blue Book photos that Sheehan says he saw under order from President Carter. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 38:31-38:40)*

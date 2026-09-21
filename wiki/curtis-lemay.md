@@ -26,6 +26,8 @@ sources:
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 General Curtis "Bombs Away" LeMay, head of Strategic Air Command, appears in the transcript as the aggressive general [[harald-malmgren]] faced down in the 1962 [[cuban-missile-crisis]], and as an alleged UAP-aware insider.
@@ -59,3 +61,7 @@ General Curtis "Bombs Away" LeMay, head of Strategic Air Command, appears in the
 ## Claims (gerb/whistleblowers-2)
 
 - [[barry-goldwater]] says LeMay cursed him out and told him never to ask again when he phoned to ask to enter the secret room at Wright-Patterson ([[blue-room-wright-patterson]]); [[uap-gerb]] contrasts this with LeMay's postwar demand that the Air Force develop "unhindered", cites a July 1999 MUFON UFO Journal report placing LeMay at a close encounter between an F-89J Scorpion and a 30 ft object with four blue-white lights at James Connally AFB (it darted up to 990,000 ft), and notes a 1991 response that a Blue Room film was destroyed on 9 September 1965. *([gerb/whistleblowers-2](<../raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md>) 17:00-17:14, 19:45-21:30)*
+
+## Claims (gerb/kecksburg)
+
+- Gerb ties LeMay to the SAC Elite Guard created in 1956 (blue-beret air police, see [[blue-beret-claims]]) and repeats that he denied Goldwater entry to the Blue Room and congratulated Harry Cooper. Gen. J.P. McConnell relieved LeMay on 1 February 1965, and LeMay called Gen. Earle Wheeler a "Polly parrot". *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 8:16-8:40)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 47:18-48:16)*

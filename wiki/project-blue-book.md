@@ -44,6 +44,8 @@ sources:
     label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
+    label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
 ---
 
 The historical Air Force UFO-investigation project, referenced as a comparison point: AARO was
@@ -139,3 +141,7 @@ became **Project Grudge** in 1949 (running until 1951), superseded by **Project 
 ## Claims (gerb/whistleblowers-1)
 
 - [[stephen-lovekin]] alleges the classified Blue Book sections held photos and 200-300 radar lock-on cases that never reached the public reports, and that the Air Force treated UFO talk as career-ending. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 14:25-17:21)*
+
+## Claims (gerb/kecksburg)
+
+- Gerb says Blue Book's file on Kecksburg (33 pages, Major Hector Quintanilla's memorandum, filed under Acme, PA) concluded meteor, that no materials were found, that a three-man team from the 662nd Radar Squadron was sent, and that fragments sent to Wright-Patterson were called chaff, which he finds inconsistent with a meteor. He also lists Blue Book bell and acorn cases from 1952-1965. See [[kecksburg-ufo-crash-1965]]. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 2:07-4:36)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 27:41-28:16)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 34:24-35:49)*

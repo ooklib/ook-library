@@ -6,7 +6,6 @@ tags: [us-army, post-war-germany, military-intelligence, ewa-season-3]
 relations:
   - relation: alleged_by
     target: eyes-wide-open
-    note: ""
   - relation: associate_of
     target: henry-kissinger
     note: "alumnus; recruited into CIC in the US Army"
