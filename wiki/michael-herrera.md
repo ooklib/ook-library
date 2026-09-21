@@ -8,6 +8,8 @@ relations:
     target: aaro
     note: "AARO's report allegedly misrepresented his testimony"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md"
+    label: "The Marines Who Got too Close to UFOs (UAP Gerb)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
@@ -44,3 +46,9 @@ was represented in [[aaro|AARO]]'s Historical Report Volume 1 under
 ## Claims (jm/censored-book)
 
 - Barber-related: Herrera's 2009 Indonesia account, first told at [[national-press-club-disclosure-event-2023]], is retold in [[michael-herrera-indonesia-encounter-2009]]; [[jake-barber]] joined forces with him rather than continue red-teaming him, and per Michels the "pink assets" leak was relayed through Herrera from an insider assumed to be Barber. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 38:44-43:49, 1:06:07-1:06:23)*
+
+## Claims (gerb/marines)
+
+- Gerb's version: in October 2009 Herrera (age 20, USMC rifleman) was sent to Indonesia on humanitarian aid after the Sumatra earthquake and tsunami; hiking a 900-foot ridge with five Marines to a supply drop, they saw a huge octagonal-pyramid-like craft with a scaly exterior, pulsating between light matte gray and dark matte black, emitting a low hum, being loaded by unmarked US forces in black fatigues. They were ambushed, held at gunpoint by paramilitaries with American accents, their camera and gear confiscated, and told not to disclose; a USAF Lieutenant Colonel later said "you will go to prison or you will die". See [[michael-herrera-indonesia-encounter-2009]]. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 8:47-10:57)*
+- Herrera broke a 14-year silence after new whistleblower protections and testified under oath in April 2023, his first public appearance being on Greer's [[national-press-club-disclosure-event-2023]] panel just after the [[david-grush]] revelations; Gerb notes he lives in Denver and hopes to contact him. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 8:47-9:11, 10:57-11:13, 12:42-13:05)*
+- Gerb is "torn": the congressional testimony is real, but he doubts humans have reverse engineered NHI craft. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 14:33-15:30)*

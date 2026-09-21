@@ -67,7 +67,7 @@ which transcripts still await ingestion.
 | `gerb/wilson-davis` | `raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md` | The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb) | true |
 | `gerb/iceberg-1` | `raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md` | The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb) | true |
 | `gerb/iceberg-2` | `raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md` | The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb) | true |
-| `gerb/marines` | `raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md` | The Marines Who Got too Close to UFOs (UAP Gerb) | false |
+| `gerb/marines` | `raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md` | The Marines Who Got too Close to UFOs (UAP Gerb) | true |
 | `gerb/flight-grounded` | `raw/gerb/UAP Gerb - 2024-01-21 - The First Commercial Flight Grounded Due to UFOs.md` | The First Commercial Flight Grounded Due to UFOs (UAP Gerb) | false |
 | `gerb/moondust` | `raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md` | MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb) | false |
 | `gerb/kirkpatrick` | `raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md` | The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb) | false |

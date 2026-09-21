@@ -14,6 +14,8 @@ relations:
     target: sentinels-of-ether
     note: "similar scene in the novel"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md"
+    label: "The Marines Who Got too Close to UFOs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
@@ -31,3 +33,9 @@ sources:
 ## Relationships
 
 - Corroborated for Michels by [[jake-barber]]; mirrors [[sentinels-of-ether]]; compare [[psionic-assets-and-breeding-claims]].
+
+## Claims (gerb/marines)
+
+- Gerb's retelling (dates it October 2009, after the Sumatra earthquake and tsunami; the unit hiked a 900-foot ridge for a supply drop; the craft was "like an octagonal pyramid" with a scaly, man-made-looking exterior and low hum; the team lacked radios so could not report it). The unmarked men wore black fatigues like those in [[weygandt-peru-crash-encounter-1997]]. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 9:11-10:49)*
+- Cargo: unmarked trucks were preparing to load weapons, and one hauled a small crate with a temperature, humidity and air-control system on the exterior, leading Herrera to think biologics or even humans or ETs were inside. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 12:10-12:42)*
+- Gerb's speculation: if true, the men were piloting an alien reproduction vehicle ([[alien-reproduction-vehicle-tr3b]]) and reverse-engineering programs like those in the [[wilson-davis-notes]] have succeeded; he notes the craft was massive and octagonal, unlike the TR-3B triangle attributed to [[lockheed-martin]]'s Astra project. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 11:13-12:10)*

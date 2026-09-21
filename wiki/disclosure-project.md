@@ -8,6 +8,8 @@ relations:
     target: steven-greer
     note: "Greer's organization; Greer says it grew from the private Project Starlight of the mid-1990s"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md"
+    label: "The Marines Who Got too Close to UFOs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
@@ -31,3 +33,7 @@ The Disclosure Project is [[steven-greer]]'s whistleblower-testimony organizatio
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video: [[arnold-house]] appears as "AH" in the 2001 briefing document, and Gerb faults Greer's poor operational security with witness identities. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 47:30-48:00)*
+
+## Claims (gerb/marines)
+
+- [[jonathan-weygandt]]'s 2001 interview with Greer for the project is the source of the Peru clips in Gerb's video; Weygandt then stayed quiet until 2023. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 7:51-8:06)*

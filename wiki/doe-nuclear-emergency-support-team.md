@@ -18,6 +18,8 @@ relations:
     target: office-of-secure-transportation
     note: "per DOE Order 153.1A, OST may transport NEST nuclear weapons/components/SNM"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md"
+    label: "The Marines Who Got too Close to UFOs (UAP Gerb)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/sandia.md
@@ -88,3 +90,7 @@ authority derives from the 1954 Atomic Energy Agreement. *([gerb/nro](../raw/ger
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] speculates that the team deployed to investigate recovery sites is DOE-related, recalling people in DOE jackets in the Peru story. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:19:44-2:19:59)*
+
+## Claims (gerb/marines)
+
+- Gerb argues the black-fatigue, DOE-jacketed men who arrested [[jonathan-weygandt]] were the DOE Special Response Team ("nuclear commandos", arrest authority, contractors like [[eg-and-g]] in 1997), part of NEST, which combines special forces, scientists, technicians and engineers with US Army 52nd EOD; NEST technical information is protected like SAPs, with the [[national-reconnaissance-office]] and CIA as main intelligence support and DOE contractors such as EG&G, Raytheon and [[lockheed-martin]]. See [[weygandt-peru-crash-encounter-1997]]. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 5:33-7:01, 13:33-14:00)*

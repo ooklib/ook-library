@@ -8,6 +8,8 @@ relations:
     target: uap-gerb
     note: "as a possible TR-3B test series"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md"
+    label: "The Marines Who Got too Close to UFOs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
 ---
@@ -17,3 +19,7 @@ From November 1989, hundreds of Belgian reports described a large flat triangle 
 ## Relationships
 
 - See [[flying-triangle-sightings]], [[alien-reproduction-vehicle-tr3b]], [[fouche-controversy]], [[tr3b-triangle-arv-video-2024]].
+
+## Claims (gerb/marines)
+
+- Gerb calls the wave's black triangles with three red lights and a central light the most plausible human-made craft, if any ARV exists ([[alien-reproduction-vehicle-tr3b]]). *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 15:55-16:10)*

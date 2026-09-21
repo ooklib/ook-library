@@ -10,6 +10,8 @@ relations:
   - relation: references
     target: groom-lake
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md"
+    label: "The Marines Who Got too Close to UFOs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
 ---
@@ -23,3 +25,7 @@ Described by [[uap-gerb]] as an official UFO whistleblower who submitted a memor
 ## Relationships
 
 - See [[groom-lake]].
+
+## Claims (gerb/marines)
+
+- Gerb recalls Taber's egg-shaped Area 51 craft (smooth, no rivets or welds, no visible entry points) as similar to the egg-shaped craft [[jonathan-weygandt]] described, though Weygandt's had gills. See [[weygandt-peru-crash-encounter-1997]]. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 8:23-8:39, 15:30-15:48)*

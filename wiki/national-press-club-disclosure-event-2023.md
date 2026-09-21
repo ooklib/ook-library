@@ -14,6 +14,8 @@ relations:
     target: jake-barber
     note: "attended on behalf of his employer"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md"
+    label: "The Marines Who Got too Close to UFOs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
 ---
@@ -29,3 +31,7 @@ A national press club conference in Washington, DC on 12 June 2023 hosted by [[s
 ## Relationships
 
 - Hosted by [[steven-greer]]; features [[michael-herrera]] and [[jake-barber]]; see [[greer-michels-interview-2025]] for Greer on Barber.
+
+## Claims (gerb/marines)
+
+- Gerb places [[michael-herrera]]'s first public appearance at Greer's panel there in summer 2023, just after [[david-grush]]'s revelations, and points viewers to the Herrera speech at roughly 1:05:00-1:22:00 of the event video. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 8:54-9:11)*

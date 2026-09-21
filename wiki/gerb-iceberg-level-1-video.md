@@ -46,6 +46,8 @@ relations:
   - relation: references
     target: hoia-baciu-forest
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md"
+    label: "The Marines Who Got too Close to UFOs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
@@ -70,3 +72,7 @@ sources:
 ## Claims (gerb/iceberg-2)
 
 - Sequel: [[gerb-iceberg-level-2-video]].
+
+## Claims (gerb/marines)
+
+- Referenced from [[gerb-marines-video]] for the Taber egg-shaped craft entry. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 8:23-8:39)*

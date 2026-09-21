@@ -19,6 +19,8 @@ relations:
     target: majestic-documents
     note: "interviews Ryan S. Wood, 2024-08-25"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md"
+    label: "The Marines Who Got too Close to UFOs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
@@ -142,3 +144,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/iceberg-2)
 
 - Level two of the iceberg: [[gerb-iceberg-level-2-video]]. He says he plans to finish the iceberg, polled viewers for private-sector UAP content, and calls Hynek an "OG whistleblower". *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 0:38-0:55, 14:41)*
+
+## Claims (gerb/marines)
+
+- Short documentary video on two Marine cases ([[gerb-marines-video]]): he believes [[jonathan-weygandt]], is torn on [[michael-herrera]], and doubts humans have reverse engineered NHI craft. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 13:19-16:18)*

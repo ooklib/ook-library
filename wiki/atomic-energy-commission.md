@@ -25,6 +25,8 @@ relations:
     target: lawrence-preston-gise
     note: "Albuquerque operations head, per Malmgren"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md"
+    label: "The Marines Who Got too Close to UFOs (UAP Gerb)"
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_1.md
@@ -146,3 +148,7 @@ administration|NNSA]] UFO legacy-program gatekeeping structure. *([gerb/sandia](
 ## Claims (jm/borland)
 
 - Borland cites the 1954 Atomic Energy Act's "born secret" restricted data doctrine as a reason UFO-related information may be treated as secret regardless of who holds it. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:04:37-1:05:17)* See [[borland-whistleblower-reprisal-claims]].
+
+## Claims (gerb/marines)
+
+- Gerb says the AEC is named in the 2024 UAP NDAA legislation from Chuck Schumer as the reason UAP records are misclassified as "transclassified foreign nuclear material" and exempt from disclosure, and uses this to lend credibility to the DOE angle of [[weygandt-peru-crash-encounter-1997]]. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 7:08-7:51)*

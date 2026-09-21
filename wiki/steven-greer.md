@@ -25,6 +25,8 @@ relations:
   - relation: investigates
     target: transnational-criminal-organization-claims
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md"
+    label: "The Marines Who Got too Close to UFOs (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
@@ -115,3 +117,7 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 ## Claims (jm/cameron)
 
 - Cameron says Greer's witness Steven Lovekin described Eisenhower doodling UFO material at Mount Weather; Greer held CE5 events at Crestone, Colorado, where Audrey-call recipients bought land: [[mount-weather]], [[audrey-phone-messages-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:06:24-2:06:52, 20:17-21:16)*
+
+## Claims (gerb/marines)
+
+- Gerb notes [[jonathan-weygandt]] told his story in a 2001 interview for Greer's [[disclosure-project]], and [[michael-herrera]] first appeared publicly on Greer's 2023 National Press Club panel; Gerb also says Greer likes to press the ARV theory, which Gerb doubts. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 7:51-8:06, 8:47-9:11, 14:42-14:51)*

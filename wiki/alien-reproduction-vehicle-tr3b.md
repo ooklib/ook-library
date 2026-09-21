@@ -29,6 +29,8 @@ relations:
   - relation: alleged_by
     target: dylan-borland
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md"
+    label: "The Marines Who Got too Close to UFOs (UAP Gerb)"
   - file: raw/gerb/saic.md
     label: "UFO Legacy Programs - Science Applications International Corporation (SAIC) (UAP Gerb)"
   - file: raw/gerb/mitre.md
@@ -141,3 +143,7 @@ recovered nonhuman technology — is most associated in the UFO research communi
 
 - Michels describes the flux liner as a bell- or acorn-shaped alien reproduction vehicle with wear and tear, from the Sorenson/McCandlish account. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 51:35-52:09)*
 - Pines says AI is reportedly used to identify UAP and maybe ARVs by morphology ([[ai-and-nhi-communication-claims]]). *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:50:19-3:50:42)*
+
+## Claims (gerb/marines)
+
+- Gerb says that if [[michael-herrera]]'s unmarked men were piloting an ARV, reverse-engineering programs like the Wilson-Davis memo's have succeeded, but Herrera's octagonal craft is unlike the TR-3B; he is unsure humans have reverse engineered NHI tech and thinks a triangle (such as the [[belgian-ufo-wave-1989]] black triangles with three red lights and a central light) is the most plausible human-made craft. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 11:13-12:10, 14:42-16:10)*
