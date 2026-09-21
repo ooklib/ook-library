@@ -22,6 +22,8 @@ sources:
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 The Disclosure Project is [[steven-greer]]'s whistleblower-testimony organization, launched publicly at a National Press Club event in 2001 after a private phase codenamed Project Starlight in the mid-1990s. Greer says it holds terabytes of documents and about 760-plus debriefed whistleblowers, published at dpiarchive.com, and that most identities are redacted unless a witness agrees to come forward. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 4:22-4:58, 7:31-7:49, 18:21-18:30, 12:55-13:01, 1:40:19-1:40:28)*
@@ -61,3 +63,8 @@ The Disclosure Project is [[steven-greer]]'s whistleblower-testimony organizatio
 ## Claims (gerb/special-forces)
 
 - Gerb cites redacted witness entries 10622, 10272 and 10659 as context for Vietnam-era UAP and crash retrieval claims; see [[special-forces-witness-infographics]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 2:21-3:10, 8:29-8:46, 17:56-18:21)*
+
+## Claims (gerb/edwards-afb)
+
+- Gerb describes the archive released in 2024 (witness list with over 700 names, communication logs, drawings, the 2001 disclosure briefing document, and late-summer 2024 briefing modules), from which he extracts [[witness-ed]] (11063). Ed's files appeared only in that update. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 0:17-1:05, 3:40-4:12)*
+- Gerb mentions entry 10747, an ex-chairman and VP of a "well-known corporation" Gerb believes is General Electric, with testimony on free energy suppression and people "killed and scared to death". *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 9:43-10:12)*

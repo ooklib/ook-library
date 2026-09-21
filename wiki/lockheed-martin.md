@@ -107,6 +107,8 @@ sources:
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -370,3 +372,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Claims (gerb/coyame)
 
 - In the [[deneb-report]] story of the [[coyame-crash-1974]] the recovered disc's convoy destination was reportedly Atlanta, Georgia; Gerb notes Lockheed Martin's Air Force Plant 6 in Marietta (Skunk Works advanced-development work and C-130 work since the 1950s, via predecessor Lockheed) and the closed Lockheed Georgia Nuclear Aircraft Laboratory (AFP 67, closed 1971), calling it an interesting connection only, with no evidence of involvement. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 23:26-24:19)*
+
+## Claims (gerb/edwards-afb)
+
+- Ed says he threatened legal action against Lockheed and [[boeing]] over overlapping programs he was read into, and worked as a Lockheed range technical contractor at Nellis in the early 2000s; Gerb also cites a Lockheed ISR case study for the Nellis combined air and space operations center. Gerb's conclusion places Lockheed among contractors in the Edwards/Nellis program. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 12:55-14:19, 41:49-42:47)*

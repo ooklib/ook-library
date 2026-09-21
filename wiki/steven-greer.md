@@ -67,6 +67,8 @@ sources:
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
     label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -182,3 +184,8 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 ## Claims (gerb/kecksburg)
 
 - Gerb mentions the alleged TB emails to Greer about UARC-embedded USAPs, and witness Clifford Stone's Kecksburg claim in the 2001 National Press Club event, which he saves for another video. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 41:29-41:46)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 1:08:25-1:08:42)*
+
+## Claims (gerb/edwards-afb)
+
+- Gerb's Redacted List Vol.2 covers Greer's 2024 release of the [[disclosure-project]] archive, its 700-plus names with 22 pages redacted, module 3 on crash retrievals citing 130-plus downed-craft instances with Lockheed Skunk Works and [[boeing]], and Greer's notes of a 25 November 2023 call with [[witness-ed]] (11063). Gerb has problems with Greer but calls the archive valuable, and asks whether some Ed material is "Greer's embellishments". See [[gerb-edwards-afb-video]]. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 0:17-1:05, 3:17-5:46, 12:31-12:47, 44:26-44:34)*
+- Greer says he gave the alleged 1991 NRO document to Admiral [[thomas-wilson]] and that a source inside Blackjack control gave him the [[blackjack-control-and-team]] distinction. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 38:45-39:46)*

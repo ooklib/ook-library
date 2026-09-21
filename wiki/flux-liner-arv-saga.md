@@ -23,6 +23,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 Alleged 12 November 1988 sighting by designer [[brad-sorenson]] of three man-made "flux liner" flying saucers (nicknamed Mama, Papa and Baby Bear) in a classified hangar exhibit at the Norton AFB air show. Relayed for two decades second-hand by illustrator [[mark-mccandlish]]; see [[alien-reproduction-vehicle-tr3b]] and [[air-force-plant-42]] for related material from earlier Gerb videos.
@@ -46,3 +48,7 @@ Alleged 12 November 1988 sighting by designer [[brad-sorenson]] of three man-mad
 ## Additional claims (gerb/tr-3b)
 
 - Gerb compares the flux liner's track-ball control sphere ([[mark-mccandlish]]'s drawing) with the control scheme in the novel "Secret Machines" for the Astra TR-3B "Locust" ([[sekret-machines-project]]), and proposes the flux liner and TR-3B are two families of ARV ([[tr3b-triangle-arv-video-2024]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 42:10-45:01, 1:14:22-1:15:39)*
+
+## Claims (gerb/edwards-afb)
+
+- Gerb links Ed's "essentially invisible" inspection aircraft at S4 to the flux liners reported by Mark McCandlish (transcribed "Mandish") and Brad Sorenson at Norton AFB, about 80 miles from Edwards, and promises a video on it. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 15:16-16:00, 42:38-42:56, 47:14)*

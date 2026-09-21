@@ -19,6 +19,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 An electrogravitic propulsion concept discussed in a 1988–90
@@ -63,3 +65,7 @@ Aeronautics Laboratory / Air Force Space Technology Center.
 ## Additional claims (jm/nasa-chief)
 
 - Buhler claims a modernized version in [[exodus-force-claims]], and Michels contrasts it with [[ion-wind]]; Brown's asymmetric-capacitor high-K dielectric geometry and DC pulsing come up, but Buhler prefers DC and has not explored fast slew rates. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 1:33:47-1:36:01)* Michels: Brown's effect and the 1990 Air Force test appear in the recap. *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 4:14-6:32)*
+
+## Claims (gerb/edwards-afb)
+
+- Gerb cites a 1988 technical report for the USAF Aeronautics Lab at Edwards on the Biefeld-Brown effect, and a 1988 SAIC study, as Edwards electrogravitics work. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 32:24-32:55)*

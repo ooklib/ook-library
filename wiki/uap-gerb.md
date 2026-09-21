@@ -97,6 +97,8 @@ sources:
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
     label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -284,3 +286,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/kecksburg)
 
 - Video: [[gerb-kecksburg-video]] (2024-09-12), on the 1965 Kecksburg crash; Gerb says he leans toward a legitimate UAP retrieval, plans follow-ups on the Blue Beret ([[blue-beret-claims]]), Die Glocke and Nick Cook, and Clifford Stone's Kecksburg claims, and says he does about one live a week and wants more interviews. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 1:13:04-1:14:38)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 1:08:02-1:08:42)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 1:15:01-1:15:32)*
+
+## Claims (gerb/edwards-afb)
+
+- Video [[gerb-edwards-afb-video]] (2024-10-02): Vol. 2 of his redacted-list series analyzing [[witness-ed]]. Gerb says he ascertained Ed's identity, will not name him, and has tried repeatedly to reach him. He notes he had earlier reached two witnesses from poorly redacted DPI documents (MS on Dugway, and TB). He asks for further research and plans an ARV and Mark McCandlish video. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 1:13-1:37, 2:19-2:44, 44:10-44:34, 47:14)*

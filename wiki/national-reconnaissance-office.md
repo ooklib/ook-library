@@ -66,6 +66,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 The National Reconnaissance Office develops, acquires, launches, and operates US intelligence
@@ -236,3 +238,7 @@ shared office threads Gerb draws between them. *([gerb/nro](../raw/gerb/nro.md)
 ## Claims (gerb/coyame)
 
 - Gerb notes the satellite imagery of the [[coyame-crash-1974]] convoy probably came from Keyhole spy satellites in orbit since about 1971, primarily operated by the NRO. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 26:34-26:50)*
+
+## Claims (gerb/edwards-afb)
+
+- Gerb discusses an alleged July 1991 NRO document on civilian saucer groups planning Nevada protests, listing programs including Blackjack; see [[blackjack-control-and-team]]. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 38:45-39:31)*

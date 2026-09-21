@@ -20,6 +20,8 @@ relations:
 sources:
   - file: raw/gerb/hidden_wing.md
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 SAF/AQ, the Office of the Assistant Secretary of the Air Force for Acquisition, Technology and
@@ -71,3 +73,7 @@ reside within" SAF/AQ. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 17:56–
   [[under-secretary-of-defense-for-acquisition-and-sustainment]].
 - Past heads include [[lawrence-j-delaney]] and [[sue-c-payton]]; recent military deputy
   [[donna-shipton]].
+
+## Claims (gerb/edwards-afb)
+
+- Ed's Pentagon role (2010-2015) in an acquisition-heavy R&D chain and the $34 billion then $40 billion transfer note; see [[witness-ed]]. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 27:36-27:53)*

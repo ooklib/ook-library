@@ -27,6 +27,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 Gerb alleges former Vice President Dick Cheney "last ruled with an iron fist" over the
@@ -75,3 +77,7 @@ before leaving office in 2009. *([gerb/mitre](../raw/gerb/mitre.md) 5:03–5:18)
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer includes Cheney among those linked to the organization who had control. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 1:35:23-1:35:48)*
+
+## Claims (gerb/edwards-afb)
+
+- Gerb notes [[christopher-have]], former 98th Range Wing commander, served as special adviser on national security affairs to Vice President Cheney, and mentions rumors implicating Cheney as a senior UFO-program member. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 18:52-19:16)*

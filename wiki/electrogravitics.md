@@ -22,6 +22,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 Electrogravitics is the label for coupling of electric fields to gravity, coined around [[thomas-townsend-brown]]'s work (the "lowbrow applied version" per Eric Weinstein's framing).
@@ -62,3 +64,7 @@ Electrogravitics is the label for coupling of electric fields to gravity, coined
 ## Claims (gerb/special-forces)
 
 - Gerb cites a 1956 aviation study mentioning Project Winter Haven, a proposed saucer creating a local gravitational field as a USAF interceptor, with Boeing among the companies named. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 23:02-23:26)*
+
+## Claims (gerb/edwards-afb)
+
+- Gerb cites a 1972 Edwards rocket propulsion lab document "Advanced Propulsion Concepts, Project Outgrowth" discussing an anti-gravity program, and Greer's zero-point energy claims that [[witness-ed]] endorses. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 8:08-9:35, 32:08-32:55)*

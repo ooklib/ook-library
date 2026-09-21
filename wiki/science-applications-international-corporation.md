@@ -71,6 +71,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 Science Applications International Corporation (SAIC, called "SIC" throughout the ASR
@@ -241,3 +243,7 @@ whistleblower).
 - Gerb links the SAIC "electric propulsion study" (about 1990, cited by [[jesse-michels]] on [[thomas-townsend-brown]]) to electrogravitics, and SAIC's 1991-1995 anomalous mental phenomena work (protocols for human subjects, research plan for DIA, evaluation of the [[sri-international]] [[project-stargate]] program, "anomalous cognition" and "anomalous perturbation") to consciousness-interactive technology. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 36:10-39:29)*
 - Gerb repeats [[denise-mckenzie]]'s claim of near-zero activity behind large SAIC contracts, [[will-miller]]'s label of SAIC as a "keeper of the secrets", [[steven-greer]]'s 1996 briefing calling it a "crown jewel", and its appearance in [[katherine-austin-fitts]]'s diverted-funds paper. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 31:44-32:13, 39:38-40:26)*
 - Admiral [[bobby-ray-inman]] joined the SAIC board in 1992; Gerb also notes SAIC's large Sandia contracts (a 2013 $228M IT consolidation). *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 46:09-46:18, 43:22-44:00)*
+
+## Claims (gerb/edwards-afb)
+
+- Gerb cites a 1988 SAIC study for [[edwards-air-force-base]] on electronic propulsion mechanisms alongside the Edwards Aeronautics Lab's 1988 [[biefeld-brown-effect]] report. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 32:24-32:55)*

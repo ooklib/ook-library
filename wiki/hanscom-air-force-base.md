@@ -13,6 +13,8 @@ relations:
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 Hanscom Air Force Base, Massachusetts, is where [[mitre-corporation|MITRE]] opened its first
@@ -33,3 +35,7 @@ program office, close to [[mit-lincoln-laboratory|MIT Lincoln Labs]] involvement
 ## Relationships
 
 - Site of [[mitre-corporation]]'s first program office; hosts an AFOSI/PJ permanent office.
+
+## Claims (gerb/edwards-afb)
+
+- [[witness-ed]] served here 2002-2005 and worked with MIT on foreign military assets but saw only terrestrial craft. Gerb also cites a 14 March 1975 anonymous letter to [[leonard-stringfield]] from "Colonel Sims" (pseudonym) naming Hanscom and MIT as UFO-operations sites alongside Edwards, Wright-Patterson, Carswell, Los Alamos and Sandia. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 21:02-22:26)*

@@ -53,6 +53,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md"
     label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 The "Alien Reproduction Vehicle" (ARV) concept — a human-built craft reverse-engineered from
@@ -153,3 +155,7 @@ recovered nonhuman technology — is most associated in the UFO research communi
 ## Claims (gerb/herrera-2)
 
 - Herrera relays, from the insiders, that human-built craft ("ARVs") are EMP-proof, resistant to rifle, .50 cal and missile fire, tested on balloons and on the ground, and now so advanced that even the insiders cannot distinguish them from real NHI craft; see [[blue-group-black-group-claims]]. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:55:28-1:57:59)*
+
+## Claims (gerb/edwards-afb)
+
+- Gerb ties Fouche's claim of TR-3B pilots from the Edwards test pilot school to [[witness-ed]]'s testimony, and considers whether the craft are triangles or flux-liner saucers. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 33:17-33:58, 42:30-43:03)*

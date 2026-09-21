@@ -25,6 +25,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 Former USAF Master Sergeant Edgar Fuche (the ASR transcripts render this variously as "Fuchs" and
@@ -96,3 +98,7 @@ could not provide material evidence for its existence. *([gerb/saic](../raw/gerb
 ## Claims (gerb/del-rio)
 
 - Gerb recalls Fouche's claim (USAF Master Sergeant per Gerb) that Lockheed reverse engineered the TR-3B and that part of the program came from Sandia Labs, linking this to AT&T's earlier management of Sandia. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 26:34-26:59)*
+
+## Claims (gerb/edwards-afb)
+
+- Gerb repeats Fouche's claim that anti-gravity propulsion was developed in 1979 under the Defense Advanced Research Board / JPL at Edwards, and that TR-3B pilots are graduates of the Edwards 412th test pilot school, linking it to [[witness-ed]]. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 33:08-33:58, 42:38-43:12)*

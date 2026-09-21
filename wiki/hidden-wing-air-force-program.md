@@ -24,6 +24,8 @@ sources:
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 "The Hidden Wing" is Gerb's name — coined and given a full dedicated investigation in this
@@ -128,3 +130,7 @@ firsthand experience. *([gerb/hidden_wing](../raw/gerb/hidden_wing.md) 36:01–3
 ## Additional claims (gerb/timeline)
 
 - Timeline video: ties the hidden wing at AFTC/Edwards 412th Test Wing to the 2009-2012 [[air-force-go-public-campaign]]. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:05:54-2:06:30)*
+
+## Claims (gerb/edwards-afb)
+
+- The Edwards video extends the Ed material with Greer's notes: the same testimony ([[witness-ed]]) places the joint program at the 412th Test Group, tied to Nellis and S4, and Gerb's conclusion is that the program runs across the Edwards grounds and the [[nevada-test-and-training-range]] with contractors such as [[lockheed-martin]]. See [[gerb-edwards-afb-video]]. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 20:14-20:54, 41:17-41:58)*

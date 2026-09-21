@@ -39,6 +39,8 @@ sources:
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
     label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 Wright-Patterson Air Force Base in Dayton, Ohio, was headquarters of Air Materiel Command (AMC)
@@ -127,3 +129,7 @@ and Air Research and Development Command (ARDC) — forerunners of the modern
 ## Claims (gerb/kecksburg)
 
 - Kecksburg witnesses say the recovered bell was taken to Wright-Patterson (first via Lockbourne AFB) and held in a warehouse with a lead-lined brick structure; see [[kecksburg-wright-patterson-transport-claims]]. Gerb also recalls [[jim-romansky]]'s claim about his son being barred from Wright-Patterson duty, and Blue Book's chaff sent to the base. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 20:55-21:03)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 27:58-28:07)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 52:39-57:37)*
+
+## Claims (gerb/edwards-afb)
+
+- [[witness-ed]] says Wright-Patterson is closely tied to Edwards and guesses Hangar 6 (held by "Logics") as a storage site; Gerb says the hangar started as a Signal Corps radio and antenna installation hangar and that he will prioritize research on it. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 26:35-27:28)*

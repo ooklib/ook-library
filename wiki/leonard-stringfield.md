@@ -37,6 +37,8 @@ sources:
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
     label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 Leonard Stringfield, a UFO crash-retrieval investigator Gerb describes as "legendary," produced
@@ -111,3 +113,7 @@ a series of "Crash Retrieval Status Reports" analyzed throughout the SAIC video.
 
 - Gerb leans on Stringfield's crash retrieval status reports for the Blue Beret unit ([[blue-beret-claims]]), the Fort Maguire incident, Kecksburg witness interviews and the "Uncle" insider, and calls his Kecksburg approach balanced over about a decade. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 5:57-7:45)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 53:03-54:13)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 1:10:50-1:11:16)*
 - Stringfield interviewed [[jim-romansky]] and, with Dr. Brian Thompson, [[myron-brick-delivery-witness]] (October 1990 and 30 March-1 April 1991 for his cousin), and wrote he was convinced of Myron's sincerity. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 53:11-53:27)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 59:16-59:57)*
+
+## Claims (gerb/edwards-afb)
+
+- Gerb mines the crash retrieval status reports for Edwards items: [[project-heaven-epigoni-claims]] ("Dr. Epigoni"), [[debbie-clayton-crash-1971]], the 1975 "Colonel Sims" letter on Hanscom and MIT, and a 5 April 1980 letter found by Michael Schratt about "MH" and [[project-red-light]]. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 22:01-22:26, 34:06-38:35)*

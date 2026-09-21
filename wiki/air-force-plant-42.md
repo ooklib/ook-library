@@ -22,6 +22,8 @@ sources:
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 Air Force Plant 42, in Palmdale, California, is a government-operated airfield complex in the
@@ -80,3 +82,7 @@ Wright-Patterson AFB]]. *([gerb/lockheed](../raw/gerb/lockheed.md) 45:51–46:34
 ## Additional claims (gerb/tr-3b)
 
 - The 1994 [[boscombe-down-crash-1994]] wreck was reportedly flown to Plant 42 at Palmdale; Gerb also groups Plant 42 and Helendale near Edwards as alleged reverse-engineering locations ([[xf-131-super-sentinel]]). *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 40:48-40:57, 59:12-59:26)*
+
+## Claims (gerb/edwards-afb)
+
+- Gerb notes Plant 42 near Palmdale and [[edwards-air-force-base]] are about 30 miles apart, and that Edwards and Norton are about 80 miles apart, as one entwined complex. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 45:06-45:21)*

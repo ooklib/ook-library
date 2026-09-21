@@ -25,6 +25,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 Boeing has primary offices in [[crystal-city-virginia|Crystal City]] and is listed with less
@@ -53,3 +55,7 @@ confidence among contractors Gerb suspects are involved in MITRE's UFO work. *([
 ## Claims (gerb/special-forces)
 
 - [[special-forces-witness-infographics]] names Boeing among the big contractors running program co-op sites; Gerb cites a 1956 special weapons study of Boeing's electrogravitic work, including Project Winter Haven (a saucer creating a local gravitational field as a USAF interceptor). *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 22:06-23:26)*
+
+## Claims (gerb/edwards-afb)
+
+- [[witness-ed]] says he was read into programs overlapping Lockheed and Boeing and threatened legal action against both; Gerb finds no public Boeing link in his history but notes [[christopher-have]] later directed global trade controls at Boeing. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 12:55-13:19, 18:27-18:52)*

@@ -18,6 +18,8 @@ relations:
 sources:
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 MIT Lincoln Laboratory is a DoD-sponsored FFRDC, reopened in 1951 as successor to
@@ -48,3 +50,7 @@ radar technologies for navigation and combat until 1945. *([gerb/mitre](../raw/g
 - Successor institution to [[vannevar-bush]]'s MIT Radiation Lab.
 - Parent organization from which [[mitre-corporation]] was spun off in 1958.
 - Operated the [[sage-semi-automatic-ground-environment|SAGE]] project (as "Project Lincoln").
+
+## Claims (gerb/edwards-afb)
+
+- Gerb notes [[witness-ed]] worked with MIT while at [[hanscom-air-force-base]] and points to MIT's Institute for Soldier Nanotechnologies, an Army university-affiliated research center, as a UARC candidate like Penn State's ARL. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 21:18-22:26)*

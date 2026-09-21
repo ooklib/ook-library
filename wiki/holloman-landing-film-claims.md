@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 Cameron recounts the Holloman Air Force Base landing story: three craft arrive, two leave, one lands near a hangar and a tall, northern-European-looking humanoid meets officials. He says Emenegger and Sandler were given Air Force footage that was taken back, and that the 8 seconds that appears in their documentary is misleading. Dates conflict: Emenegger said May 1971, while [[richard-doty]] and Linda Howe are said to place it in 1964.
@@ -33,3 +35,7 @@ Cameron recounts the Holloman Air Force Base landing story: three craft arrive, 
 ## Relationships
 
 - See [[robert-emenegger]], [[alan-sandler]], [[richard-doty]], [[disclosure-by-disinformation-claims]].
+
+## Claims (gerb/edwards-afb)
+
+- Gerb likens the [[project-heaven-epigoni-claims]] landing and inert occupants to the alleged 1957 Holloman landing, and to the craft-donation theory. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 45:38-46:20)*

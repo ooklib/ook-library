@@ -21,6 +21,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 Project Red Light is an alleged Area 51 program to fly and exploit recovered UFOs and alien reproduction vehicles. [[uap-gerb]] traces the name through several sources and speculates that [[northrop-grumman]] managed it. All of it is unverified.
@@ -39,3 +41,7 @@ Project Red Light is an alleged Area 51 program to fly and exploit recovered UFO
 ## Additional claims (gerb/tr-3b)
 
 - Fouche says EG&G held an indefinite DOE contract for Project Red Light covering nuclear-material recovery and security of classified sites; Gerb notes [[leonard-stringfield]]'s crash-retrieval status reports relayed a witness claim that it tested NHI and reverse-engineered craft on the Nellis range after they were shipped from [[edwards-air-force-base]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 25:03-25:38)* See [[eg-and-g]], [[edgar-fuche]].
+
+## Claims (gerb/edwards-afb)
+
+- Gerb cites a 5 April 1980 letter in Stringfield's files, found by Michael Schratt, in which "MH" (radio maintenance at the Nevada atomic proving ground 1961-63) says Project Red Light flew a recovered UFO shipped from [[edwards-air-force-base]] at Area 51, silent and not conventionally powered, with staff rotated every six months, and heard of a West Coast contractor having trouble with components. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 37:34-38:35)*

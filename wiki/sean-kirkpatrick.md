@@ -64,6 +64,8 @@ sources:
     label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
+    label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
 ---
 
 Described as "disgraced" former director of [[aaro]] (All-domain Anomaly Resolution Office).
@@ -204,3 +206,7 @@ the point where he was first briefed or retroactively briefed into UFO legacy-pr
 ## Claims (gerb/off-world-tech)
 
 - Gerb notes Kirkpatrick has published patents under [[science-applications-international-corporation]], the suspected Crane contractor. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 33:52-34:07)*
+
+## Claims (gerb/edwards-afb)
+
+- [[witness-ed]] says he would testify to [[aaro]] only if Kirkpatrick were removed, calling him an insider meant to squash information. Gerb backs this with a US Space Command FOIA (released by an X user) showing a January 2023 meeting scheduled by Kirkpatrick with SPACECOM and joint staff on "UAP response and recovery and material transfer", and again criticizes the AARO historical report and its 2022 SAND Corp contract. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 10:12-12:22)*
