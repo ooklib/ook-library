@@ -50,6 +50,8 @@ sources:
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 Battelle Memorial Institute is a contractor that administers multiple FFRDCs on behalf of the
@@ -141,3 +143,7 @@ DOE and other agencies, and is described by Gerb as "no stranger to this channel
 ## Claims (gerb/special-forces)
 
 - Gerb points to his Battelle video for the involvement of contractors like Battelle that [[special-forces-witness-infographics]] confirms; a former Battelle contractor, James McCampbell, told Vallee in 1986 of F-4 UAP detection equipment used in Vietnam. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 8:05-8:21, 15:37-15:54)*
+
+## Claims (gerb/weygandt)
+
+- Gerb notes Battelle runs one-third of Triad National Security and manages the National Biodefense Analysis and Countermeasure Center at Fort Detrick, where he speculates the Camp Polk occupants' bodies went ([[camp-polk-egg-craft-1953]]). *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 35:02-35:18, 1:37:33-1:38:05)*

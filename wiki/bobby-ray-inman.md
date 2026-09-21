@@ -50,6 +50,8 @@ sources:
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 Admiral Bobby Ray Inman had one of the most extensive intelligence/defense careers of any
@@ -123,3 +125,7 @@ director of the [[central-intelligence-agency|CIA]], vice director of the
 - Gerb notes Inman's 2022 Project Unity statement that he found plausible explanations for virtually everything, against a clip (apparently Timothy Good, speaker unnamed) recounting an Inman conversation about hardware in operational condition, and the 1989 call to [[bob-oechsler]] naming [[everett-heinman]]; Inman's office (Tom King) later warned Oechsler about confidentiality. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 32:13-36:19)*
 - Gerb notes Inman's SAIC and Wackenhut roles and that Inman also introduced Oechsler to [[sumner-shapiro]]. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 28:46-29:24, 37:57-38:05)*
 - Gerb suggests he may have met the Glomar's activities in Hawaii in 1972-74, tying him to [[great-lakes-naval-station-craft-1973]]. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 31:26-31:58, 1:43:50-1:44:07)*
+
+## Claims (gerb/weygandt)
+
+- Gerb recaps Inman's alleged remark to Bob Oechsler that recovered UFOs may one day be available for research and his past chairmanship of Wackenhut, the firm said to have trained DOE SRTs ([[doe-special-response-team]]). *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 1:09:10-1:09:37)*

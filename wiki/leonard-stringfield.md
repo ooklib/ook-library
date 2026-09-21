@@ -43,6 +43,8 @@ sources:
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 Leonard Stringfield, a UFO crash-retrieval investigator Gerb describes as "legendary," produced
@@ -129,3 +131,7 @@ a series of "Crash Retrieval Status Reports" analyzed throughout the SAIC video.
 ## Claims (gerb/navy)
 
 - Gerb draws heavily on Stringfield's status reports for naval storage stories (Hack, Jeffers/Goldberg film, Lieutenant Colonel X, Yuma, and Great Lakes); see [[naval-craft-storage-claims]] and [[great-lakes-naval-station-craft-1973]]. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:11:41-1:20:10)*
+
+## Claims (gerb/weygandt)
+
+- Gerb uses Stringfield's Status Report 3 (the Camp Polk account, [[camp-polk-egg-craft-1953]]) and Status Report 6 ([[albert-bruce-collins]]) as egg-shaped-craft precedents for [[weygandt-peru-crash-encounter-1997]], and mentions Stringfield's Blue Boys rapid-retrieval helicopter units. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 48:21-48:43, 1:33:49-1:34:04, 1:38:05-1:38:22)*

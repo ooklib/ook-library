@@ -27,6 +27,8 @@ sources:
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 Jake Barber's more recent claims have been associated with psionics and programs focused on
@@ -73,3 +75,7 @@ older claims (e.g. [[philip-j-corso|Corso]]'s) about consciousness-linked UFO gu
 - Barber described overwhelming love from the intelligence associated with a craft he recovered. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:02:38-1:03:09)*
 - Coulthart says he was given the names of people who ordered the murder of Barber's team and took steps to make it public if anything happened to him, as Barber did too. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:44:02-2:51:10)*
 - Barber co-founded [[skywatcher]] and attended the [[esalen-inviting-session-skywatcher]].
+
+## Claims (gerb/weygandt)
+
+- Gerb notes that Barber's testimony has popularized egg-shaped craft retrievals, contrasting Barber's SUV-sized smooth white egg with the larger, hatch-bearing craft [[jonathan-weygandt]] described, and links psionic craft control to Weygandt's 2000 telepathy claim. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 30:03-30:15, 1:33:24-1:33:40)*

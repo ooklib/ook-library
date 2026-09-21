@@ -19,6 +19,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 The Atomic Energy Act of 1954 expanded the 1946 Atomic Energy Act's concept of "restricted data"
@@ -80,3 +82,7 @@ ordinary oversight. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:09:56–1:10:
 ## Claims (gerb/kingman)
 
 - Gerb ([[gerb-kingman-video]]) says the 1954 act has been used to misclassify UFO material as "transclassified foreign nuclear material" to avoid declassification, and that the 2024 NDAA Schumer language states the act was used by DoD and legacy programs to protect UFO records and materials. He ties this to the AEC's role in the Kingman case. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 12:16-12:49)*
+
+## Claims (gerb/weygandt)
+
+- Gerb again says the 1954 Act underlies NEST's authority and the alleged reclassification of UFO data as transclassified foreign nuclear information (TFNI, as in the Schumer-Rounds legislation), and that it would protect a crashed craft like [[weygandt-peru-crash-encounter-1997]]'s. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 34:10-34:28, 55:42-56:26)*

@@ -11,6 +11,8 @@ relations:
 sources:
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 US Army special-operations aviation unit ("Night Stalkers") flying CH-47/MH-47 helicopters in
@@ -33,3 +35,7 @@ support of [[jsoc|JSOC]] tier-1 units.
 
 - Alleged transport arm for [[jsoc]]-linked UFO crash-retrieval teams; referenced in
   [[jonathan-weygandt]]'s testimony.
+
+## Claims (gerb/weygandt)
+
+- Gerb discusses the Night Stalkers as a possible source of the CH-47s at [[jonathan-weygandt]]'s Peru retrieval, noting they often work with [[jsoc]], have Chinooks and recovered a Soviet helicopter in 1988, but have no known 1990s South American operations and are based at Fort Campbell, so he favors the [[first-battalion-228th-aviation-regiment]]. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 1:02:29-1:04:14)*

@@ -103,7 +103,7 @@ which transcripts still await ingestion.
 | `gerb/dugway` | `raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md` | Dugway Proving Ground - UFO Legacy Programs (UAP Gerb) | true |
 | `gerb/dumbs` | `raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md` | Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb) | true |
 | `gerb/navy` | `raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md` | US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb) | true |
-| `gerb/weygandt` | `raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md` | 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb) | false |
+| `gerb/weygandt` | `raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md` | 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb) | true |
 | `gerb/aztec` | `raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md` | The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb) | false |
 | `gerb/castle` | `raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md` | 1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb) | false |
 | `gerb/timeline` | `raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md` | 80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb) | true |

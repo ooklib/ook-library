@@ -37,6 +37,8 @@ sources:
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 The CIA's Office of Global Access, established under the [[cia-directorate-of-science-and-
@@ -92,3 +94,7 @@ Command]]'s muscle for foreign UFO crash retrievals. *([gerb/saic](../raw/gerb/s
 ## Claims (gerb/navy)
 
 - Gerb notes Sharp says the OGA works with JSOC on retrieval of objects on foreign soil and uses it as a model for undersea logistics; per Gerb, former DS&T deputy director Doug Wolf helped found it in 2003. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 7:35-8:58, 11:22-11:44)*
+
+## Claims (gerb/weygandt)
+
+- Gerb recaps Sharp's accusation that OGA (formed 2003 from CIA DS&T) supplies operational logistics for foreign crash recoveries with JSOC as the retrieval force, while considering who detained [[jonathan-weygandt]] in Peru. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 1:04:38-1:05:13)*

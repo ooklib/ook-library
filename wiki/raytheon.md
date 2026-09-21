@@ -28,6 +28,8 @@ sources:
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 Raytheon is named among the defense-industrial contractors Gerb alleges are involved (via
@@ -69,3 +71,7 @@ program. *([gerb/mitre](../raw/gerb/mitre.md) 12:55–13:03, 1:19:59–1:20:16)*
 ## Claims (gerb/edwards-afb)
 
 - [[uap-gerb]] says [[christopher-have]], former 98th Range Wing commander, led a team at "Ron Technologies" (read as Raytheon) after the Air Force, and notes the 2010s-2020s [[darpa]] Blackjack constellation project with Raytheon-owned contractors. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 18:36-18:52, 40:44-41:17)*
+
+## Claims (gerb/weygandt)
+
+- Gerb notes Raytheon among NEST's corporate partners. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 52:58-53:05)*

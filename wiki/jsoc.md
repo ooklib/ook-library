@@ -29,6 +29,8 @@ sources:
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 Joint Special Operations Command. Gerb and journalist [[chris-sharp]] have accused JSOC
@@ -84,3 +86,7 @@ elements of participating in foreign UFO crash-retrieval operations alongside th
 ## Claims (gerb/navy)
 
 - Sharp's 2024 article names JSOC (rendered "JOCK" in the ASR) alongside the CIA OGA in foreign-soil retrievals, and Gerb assigns it the men-at-arms and security role in undersea retrievals. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 7:51-8:58, 11:29-11:44)*
+
+## Claims (gerb/weygandt)
+
+- Gerb recaps [[chris-sharp]]'s claim that JSOC is the boots-on-the-ground force for retrievals (with logistics from the [[cia-office-of-global-access]]) and lists its components, then suggests unmarked SOCOM or JSOC elements, alongside DOE NEST, detained [[jonathan-weygandt]] in Peru in 1997; he also floats a dedicated JSOC-style retrieval team based in South America. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 1:04:23-1:06:29, 1:54:56-1:55:13)*

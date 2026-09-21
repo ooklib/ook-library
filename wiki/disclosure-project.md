@@ -26,6 +26,8 @@ sources:
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 The Disclosure Project is [[steven-greer]]'s whistleblower-testimony organization, launched publicly at a National Press Club event in 2001 after a private phase codenamed Project Starlight in the mid-1990s. Greer says it holds terabytes of documents and about 760-plus debriefed whistleblowers, published at dpiarchive.com, and that most identities are redacted unless a witness agrees to come forward. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 4:22-4:58, 7:31-7:49, 18:21-18:30, 12:55-13:01, 1:40:19-1:40:28)*
@@ -74,3 +76,7 @@ The Disclosure Project is [[steven-greer]]'s whistleblower-testimony organizatio
 ## Claims (gerb/mccandlish)
 
 - Gerb says McCandlish spoke at the 2001 event, showing Harvey Williams' photographs, and that Lt. Col. John Williams' 2000 testimony about a secret facility at Norton AFB is in Greer's briefing document; McCandlish later said he was pressed to name names. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 32:52-33:05, 35:22-36:28, 20:40-20:58)*
+
+## Claims (gerb/weygandt)
+
+- Gerb pulls Weygandt's tapes and August 2000 outreach letter from Greer's Disclosure Project archive (DPI), noting they are edited and audio quality is poor, and says the 2000 testimony gave actionable detail such as the DOE team. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 5:11-6:12, 1:45:27-1:45:36)*

@@ -26,6 +26,8 @@ sources:
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md"
     label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 Michael Herrera's official AARO Memorandum for Record allegedly shows he did not claim to
@@ -79,3 +81,7 @@ was represented in [[aaro|AARO]]'s Historical Report Volume 1 under
 - Motivation for coming forward: the secrecy, the NDA and the killing and threatening of people over craft, the new whistleblower protections, and a hope his story might connect dots for others; he says he is not making money from it and has documented harassment. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:24:52-1:27:13)*
 - He says he was volunteer security for Greer at the June 2023 press-club weekend and had told Greer he hypothesized drugs in the containers, after which Greer showed him a text from a source who knew what Herrera saw; he later learned the containers held people. See [[national-press-club-disclosure-event-2023]]. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:31:22-1:39:21)*
 - He says he was in contact with [[david-grush]] ("I've talked to him"), that his motivation has shifted to helping the insiders behind the scenes, and that disclosure "is about evidence, not testimony". *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:57:55-2:02:41)*
+
+## Claims (gerb/weygandt)
+
+- Gerb notes that [[jonathan-weygandt]]'s description of a guitar-amp-like hum from the craft is almost identical to Herrera's description of the sound of an 8-gon alien reproduction vehicle, and criticizes attacks on witnesses' mental state like that on Herrera by his team leader. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 22:52-23:09, 1:50:46-1:51:10)*

@@ -103,6 +103,8 @@ sources:
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -302,3 +304,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/navy)
 
 - Video hub: [[gerb-navy-video]] (2025-04-11), his Navy deep dive on undersea retrieval, NURO, the Navy Special Program and craft storage, asking viewers for contacts with undersea retrieval knowledge and saying Navy USO programs are reportedly more secretive than the others. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 3:38-5:39, 1:36:11-1:36:35, 1:45:09-1:45:33)*
+
+## Claims (gerb/weygandt)
+
+- Video [[gerb-weygandt-video]] (2025-05-16): a long Weygandt investigation with new in-person footage, building a speculative NEST rapid-recovery reconstruction ([[weygandt-peru-retrieval-reconstruction]]). Gerb notes he contacted about ten Laser Strike-connected people and discloses friendship with Weygandt; he describes himself as an AI voice and invites tips at his anonymous channel email. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 1:27:02-1:29:13, 1:33:00-1:33:15, 1:43:50-1:44:14)*

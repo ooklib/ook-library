@@ -80,6 +80,8 @@ sources:
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 Sandia National Laboratories, born from [[los-alamos-national-laboratory|Los Alamos]]'s Z
@@ -294,3 +296,7 @@ Fouche says Sandia and Livermore reverse-engineered the TR-3B from an NHI crash 
 ## Claims (gerb/coyame)
 
 - Gerb notes the MJ-12 first annual report and the IPU summary describe Sandia technicians who died after contact with craft and bodies, and links Sandia and Kirtland in MJ-12 material to the [[coyame-crash-1974]] contamination question. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 29:49-31:37)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 42:58-43:23)*
+
+## Claims (gerb/weygandt)
+
+- Gerb proposes Sandia as the closest NEST-linked DOE lab and likely departure point for the DOE team at [[weygandt-peru-crash-encounter-1997]], and recalls its alleged subterranean facilities and the alleged Sandia/[[los-alamos-national-laboratory]]/Livermore role in TR-3B propulsion (per [[edgar-fuche]]). *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 53:36-54:37, 1:19:49-1:20:52)*

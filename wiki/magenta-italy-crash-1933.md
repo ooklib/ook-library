@@ -44,6 +44,8 @@ sources:
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 Cited by Gerb as an example of a prior alleged UFO crash retrieval before Roswell; he assesses
@@ -120,3 +122,7 @@ Gerb's full video on the case, positioned as "the Roswell before Roswell", with 
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] lists Magenta among known alleged recovery locations, saying other, unknown locations exist. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:17:51-2:18:44)*
+
+## Claims (gerb/weygandt)
+
+- Gerb briefly recalls the 1933 Magenta case, in which Vatican intelligence allegedly alerted the US (per [[david-grush]] and Harald Malmgren), when discussing Collins's claimed joint US-Vatican UFO projects. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 1:42:28-1:43:02)*

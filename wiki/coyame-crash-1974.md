@@ -24,6 +24,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 The alleged 1974 crash retrieval near Coyame, Chihuahua, Mexico, called "Mexico's Roswell". Per the [[deneb-report]], a disc-shaped object tracked by US radar collided with a civilian light plane on 25 August 1974, the Mexican military recovered both wrecks, its convoy team all died, and a CIA-organized US recovery team from Fort Bliss covertly crossed the border by helicopter, took the disc and destroyed the rest. [[uap-gerb]] treats it as a severely underexplored case that may give insight into US craft-recovery protocol, and notes that primary sources are few. All details below are attributed claims. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 0:31-1:19)*
@@ -66,3 +68,7 @@ The alleged 1974 crash retrieval near Coyame, Chihuahua, Mexico, called "Mexico'
 - Located at [[coyame-mexico]]; primary document is the [[deneb-report]]; covered in [[gerb-coyame-video]].
 - Names on the alleged US team come from the [[coyame-wikipedia-mercy11-edits]].
 - Authors: [[noe-torres]] and [[ruben-uriarte]]; also covered by [[leonard-stringfield]] and [[ryan-s-wood]].
+
+## Claims (gerb/weygandt)
+
+- Gerb compares the CIA rapid recovery team from Fort Bliss in unmarked helicopters with hazmat gear to the black-clad and DOE-jacketed team at [[weygandt-peru-crash-encounter-1997]], again noting the Deneb report's toxic-material breach and suspicion that the US team killed the Mexican soldiers. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 48:58-50:06)*

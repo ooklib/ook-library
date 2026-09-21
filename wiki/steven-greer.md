@@ -71,6 +71,8 @@ sources:
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -195,3 +197,7 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 ## Claims (gerb/mccandlish)
 
 - Gerb notes the 2001 National Press Club panel with McCandlish and the Greer interview "Blueprint for a UFO"; McCandlish later said Greer almost coerced him to name names. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 32:52-33:12, 56:05-56:19)*
+
+## Claims (gerb/weygandt)
+
+- Gerb says Greer's published 2000 interview with [[jonathan-weygandt]] was chopped up and omitted the four-fingered arm and filmmaker James Fox's questions, and he works from raw files off the Disclosure Project archive; he also cites Greer, with Corso, as accusing Stubblebine. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 4:56-5:53, 24:59-25:09, 1:05:59-1:06:14)*

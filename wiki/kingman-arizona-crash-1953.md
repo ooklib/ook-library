@@ -38,6 +38,8 @@ sources:
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 Cited by Gerb as an example of "Southwest systems" used to intake recovered craft around this
@@ -112,3 +114,7 @@ period, associated with [[sandia-national-laboratories|Sandia]]. *([gerb/mitre](
 ## Claims (gerb/special-forces)
 
 - Gerb notes the alleged 1953 Kingman crash occurred during Operation Upshot-Knothole, arguing UAP take interest in nuclear testing, and cites Dan Burisch's claim that Kingman craft are held at S4. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 12:11-12:28, 20:48-21:02)*
+
+## Claims (gerb/weygandt)
+
+- Gerb cites the rapid-response USAF unit at Kingman and lowboy trucks as parallels for the retrieval team at [[weygandt-peru-crash-encounter-1997]]. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 48:29-48:43, 1:39:36-1:39:52)*

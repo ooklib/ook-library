@@ -28,6 +28,8 @@ sources:
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 The discussion in the [[matthew-brown-michels-interview-2026]] of alleged use of humans with psionic potential to lure craft, and the hypothesis that this is cover for selective breeding. Note the framing: the breeding hypothesis is speculation floated mainly by [[jesse-michels]], with [[matthew-brown]] engaging but saying he has no evidence and only "N of one, N of two" stories.
@@ -55,3 +57,7 @@ The discussion in the [[matthew-brown-michels-interview-2026]] of alleged use of
 ## Claims (gerb/herrera-1)
 
 - Gerb's video relays the insider's claim that the black program recruits "psionic" people (P3), often from third-world countries, in exchange for the security of their families; see [[blue-group-black-group-claims]]. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 27:56-28:20)*
+
+## Claims (gerb/weygandt)
+
+- Gerb calls Weygandt's 2000 claim that the craft occupants projected thoughts and that the vehicle seemed controlled by thought an early mention of psionics, alongside 1950s stories of consciousness-controlled craft and [[philip-j-corso]]'s claims. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 29:49-30:32)*

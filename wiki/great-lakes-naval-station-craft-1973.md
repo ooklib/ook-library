@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 Case A7 in [[leonard-stringfield]]'s crash retrieval status report 3: witness "RK", an E4 gunnery instructor at Great Lakes Naval Base from March 1973 to September 1974, told Stringfield on 14 July 1980 that in September 1973 he saw a metallic craft in a Quonset hut. Gerb says he knows RK's true name and is trying to vet him. Unverified secondhand claim.
@@ -29,3 +31,7 @@ Case A7 in [[leonard-stringfield]]'s crash retrieval status report 3: witness "R
 ## Relationships
 
 - Reported by [[leonard-stringfield]]; part of [[naval-craft-storage-claims]].
+
+## Claims (gerb/weygandt)
+
+- Gerb cites RK's 30-foot teardrop craft as another egg or teardrop retrieval comparable to [[weygandt-peru-crash-encounter-1997]], and recalls the 1973 destroyer shootdown. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 19:14-19:30, 1:43:10-1:43:41)*

@@ -28,6 +28,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 Major General Albert Stubblebine founded the US Army Intelligence and Security Command
@@ -73,3 +75,7 @@ Support Activity (ISA) special forces unit. *([gerb/saic](../raw/gerb/saic.md) 1
 ## Additional claims (gerb/tr-3b)
 
 - Cited by Gerb as the INSCOM founder implicated by a 1997 letter accusing [[hans-adam-ii]] of funding [[treat-tactical-reconnaissance-engineering-assessment-team]] (whose "Gerald" was married to a former Army intelligence head), and as the man who per [[steven-greer]] offered him $2 billion in 1992 to stop; witness 10658 in Greer's log. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 15:03-17:28)*
+
+## Claims (gerb/weygandt)
+
+- Gerb notes Stubblebine created INSCOM, showed interest in remote viewing and is accused by [[philip-j-corso]] and [[steven-greer]] of participating in legacy-program operations at Fort Huachuca, as background to his speculation about Army intelligence units at [[weygandt-peru-crash-encounter-1997]]. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 1:05:44-1:06:21)*

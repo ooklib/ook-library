@@ -34,6 +34,8 @@ sources:
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 The US government's premier response unit for radiological/nuclear accidents or incidents,
@@ -100,3 +102,10 @@ authority derives from the 1954 Atomic Energy Agreement. *([gerb/nro](../raw/ger
 ## Claims (gerb/coyame)
 
 - Gerb cites two Daily Mail sources told [[chris-sharp]] that JSOC and nuclear experts such as NEST perform craft retrievals, and suggests NEST-like teams in hazmat suits match both [[jonathan-weygandt]]'s 1997 Peru encounter and the recovery team of the [[coyame-crash-1974]]. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 24:19-25:18)*
+
+## Claims (gerb/weygandt)
+
+- Gerb says NEST (created 1974 as the Nuclear Emergency Search Team, established under Executive Order 12656 with authority from the 1954 Atomic Energy Act) is now more strongly his identification of the DOE team at [[jonathan-weygandt]]'s 1997 Peru crash; from a 1996 briefing he lists its roles (operational emergency management, threat credibility assessment, access control, diagnostics, disablement, cleanup), fleet (vans, MBB BO-105 helicopters, Cessna Citation II jets at 464 mph) and staff (chemists, engineers, health physicists, nuclear physicists), and says NEST was contractor-based (Raytheon, [[eg-and-g]], Los Alamos, Sandia, Livermore) with autonomous lab managers per a 1995 assessment. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 50:12-55:34)*
+- He says NEST was not an armed operator force, so armed men in black were likely other units, and that NEST can commandeer DoD aircraft and works with the Navy EOD Technology Division and the Army 52nd Ordnance Group. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 52:21-52:39, 1:00:49-1:01:13)*
+- Gerb highlights that NEST formed its Joint Technical Operations team in February 1997, one to two months before the encounter, and in 1997 considered deploying to Bolivia or Colombia over Mars 96 plutonium debris using US Space Command and [[defense-support-program]] data (citing Jeffrey Richardson's "Defusing Armageddon"); he concludes a NEST rapid recovery unit was likely dispatched via DSP tracking. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 56:52-1:00:10)*
+- Full reconstruction, including a Sandia departure point, is in [[weygandt-peru-retrieval-reconstruction]]; armed-escort candidates include the [[doe-special-response-team]]. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 1:09:54-1:21:30)*

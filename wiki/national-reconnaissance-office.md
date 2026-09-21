@@ -70,6 +70,8 @@ sources:
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 The National Reconnaissance Office develops, acquires, launches, and operates US intelligence
@@ -248,3 +250,7 @@ shared office threads Gerb draws between them. *([gerb/nro](../raw/gerb/nro.md)
 ## Claims (gerb/navy)
 
 - Gerb discusses the NRO's Project Sentient UAP tracking (FOIA documents; a 2021 tic-tac detection), the 2015 NRO statement that UFOs are outside its remit, alleged retrieval support, the 1991 NRO document naming Magi Ops, Red Flag MOC, Sea Spray SOG and Aquitech SOG that Greer gave [[thomas-wilson]] in 1997, and its sister agency [[national-underwater-reconnaissance-office]]. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 16:53-20:22)*
+
+## Claims (gerb/weygandt)
+
+- Gerb says the NRO, which historically developed and managed DSP satellites, likely provided the satellite intelligence that let a NEST team reach the 1997 Peru crash of [[jonathan-weygandt]] within hours. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 59:36-1:00:17)*

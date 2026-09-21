@@ -14,6 +14,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md"
     label: "FASTWALKERS - UFOs Outside Earth (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 Alleged US government contractor who was program manager for several highly classified advanced communications systems projects in the 1980s and 1990s, per [[uap-gerb]], including for the White House and executive branch intelligence agencies. Gerb notes [[ross-coulthart]] vetted him. He appears through a March 2015 email to [[john-podesta]] in the Wikileaks Clinton campaign leaks.
@@ -27,3 +29,7 @@ Alleged US government contractor who was program manager for several highly clas
 ## Relationships
 
 - Correspondent of [[john-podesta]]; describes the [[defense-support-program]]; presented in [[gerb-fastwalkers-video]].
+
+## Claims (gerb/weygandt)
+
+- Gerb quotes Fish's 2016 email exchange with John Podesta saying the USAF DSP program collects hard data on UFOs. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 58:42-59:03)*

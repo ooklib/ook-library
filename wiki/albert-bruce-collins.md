@@ -12,6 +12,8 @@ relations:
 sources:
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 Albert Bruce Collins (alias "Barnabas") claimed to be a metallurgical engineer and retired
@@ -45,3 +47,7 @@ he was an NRA and Nature Conservancy member — not his claimed engineering care
 ## Relationships
 
 - Testimony analyzed by [[leonard-stringfield]]; unverified engineering-career claims per Gerb.
+
+## Claims (gerb/weygandt)
+
+- Gerb retells Collins's 1990 Tim Cooper interview: in 1947 he saw a cracked "egg" craft, 30-40 ft across and about 15 ft high with a seam around it and a gash, on a flatbed at the University of California, Berkeley, and in 1949 learned of agencies and projects (Archangel with CIA, Rand and the Vatican, Black Book, Blue Book, White Book, Yellow Book) and Los Alamos green fireball studies, which Gerb ties to [[project-twinkle]] and the [[magenta-italy-crash-1933]] Vatican link; it is compared to [[weygandt-peru-crash-encounter-1997]] though Collins's career is unverified. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 1:38:05-1:43:10)*

@@ -35,6 +35,8 @@ sources:
     label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 Alleged 1965 crash of a small bell- or acorn-shaped UFO at Kecksburg, Pennsylvania, roughly 100 miles from [[eric-a-walker]]'s Penn State base. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 17:17-17:55)*
@@ -77,3 +79,7 @@ Alleged 1965 crash of a small bell- or acorn-shaped UFO at Kecksburg, Pennsylvan
 ## Claims (gerb/navy)
 
 - Gerb compares the hieroglyphic-like characters on the [[deep-sea-triangle-recovery-1991]] craft to the Kecksburg bell's lower lip lettering. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:03:10-1:03:42)*
+
+## Claims (gerb/weygandt)
+
+- Gerb compares Weygandt's hanging arm and DOE hazmat team with Kecksburg witness accounts of an occupant's appendages and men in "moon suits" carrying a box, and cites the alleged Blue Berets as a rapid recovery unit. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 25:43-26:00, 35:54-36:50, 48:21-48:29)*

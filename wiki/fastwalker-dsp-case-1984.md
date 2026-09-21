@@ -14,6 +14,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md"
     label: "FASTWALKERS - UFOs Outside Earth (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 An alleged 5 May 1984 detection by a [[defense-support-program]] satellite of an object that approached the satellite, curved away and left. [[uap-gerb]] presents it in [[gerb-fastwalkers-video]] as speculative and unproven; it rests on an anonymous source and defunct web pages.
@@ -28,3 +30,7 @@ An alleged 5 May 1984 detection by a [[defense-support-program]] satellite of an
 ## Relationships
 
 - Detected by the [[defense-support-program]]; analyzed in [[gerb-fastwalkers-video]]; compared with [[bob-fish]]'s account and [[tehran-ufo-incident-1976]].
+
+## Claims (gerb/weygandt)
+
+- Gerb recaps the DSP fastwalker case relayed by Joseph Stafula (a UFO at 22,000 mph passing within 1.5 miles of a DSP satellite) as support for DSP monitoring of UFOs. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 59:11-59:25)*

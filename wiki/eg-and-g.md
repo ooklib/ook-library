@@ -44,6 +44,8 @@ sources:
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
+    label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
 ---
 
 EG&G (Edgerton, Germeshausen, and Grier, Inc.), founded in 1931 by MIT professor
@@ -120,3 +122,7 @@ EG&G (Edgerton, Germeshausen, and Grier, Inc.), founded in 1931 by MIT professor
 ## Claims (gerb/mccandlish)
 
 - Gerb notes the Carlyle Group owned EG&G in 1999-2001, linking it to Carlucci's Carlyle chairmanship. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 8:55-9:10)*
+
+## Claims (gerb/weygandt)
+
+- Gerb lists EG&G as a NEST corporate partner and recalls Bob Lazar's S4 claims and the Wilson Davis meeting at EG&G's Nevada parking lot, while noting DOE SRTs may have been contractor-staffed. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 52:58-55:11)*
