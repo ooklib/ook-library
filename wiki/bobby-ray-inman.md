@@ -54,6 +54,8 @@ sources:
     label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
     label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Admiral Bobby Ray Inman had one of the most extensive intelligence/defense careers of any
@@ -135,3 +137,7 @@ director of the [[central-intelligence-agency|CIA]], vice director of the
 ## Claims (gerb/aztec)
 
 - Gerb replays Inman's statement to Coulthart that the US holds craft hardware in operational condition, and his 1989 referral of Bob Oechsler to Heinman and Shapiro, in the Aztec context. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 22:07-24:00)*
+
+## Claims (gerb/castle)
+
+- Gerb lists Inman as a former [[wackenhut]] board member and describes his roles from CIA deputy director to NSA director and DNI, noting more significance now that Castle was approached by Wackenhut. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 41:08-41:47, 1:36:37-1:37:08)*

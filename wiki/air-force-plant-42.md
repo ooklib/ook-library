@@ -26,6 +26,8 @@ sources:
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Air Force Plant 42, in Palmdale, California, is a government-operated airfield complex in the
@@ -92,3 +94,7 @@ Wright-Patterson AFB]]. *([gerb/lockheed](../raw/gerb/lockheed.md) 45:51–46:34
 ## Claims (gerb/mccandlish)
 
 - Gerb: Sorenson says a military 727 took the Norton party to Plant 42, where the hangar (later Skunk Works, originally the L-1011 line) held the exhibit with a black curtain dividing it. Gerb notes it is under 30 miles from Edwards, with a Northrop Grumman facility and Lockheed Martin Skunk Works, and finds the location fits a joint Edwards reverse-engineering program. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 6:47-7:43, 11:16-11:23, 47:24-49:19)*
+
+## Claims (gerb/castle)
+
+- Gerb repeats Jeremy Corbell's list of addresses for legacy sites (Lockheed Burbank B-6, Northrop Plant 42 Palmdale) and lists the aircraft produced at Plant 42. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:28:44-1:29:33)*

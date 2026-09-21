@@ -28,6 +28,8 @@ sources:
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 The Office of Naval Intelligence, founded 1882, is described as the world's oldest intelligence
@@ -82,3 +84,7 @@ agency and the US Navy's premier intelligence arm, part of both the DoD and IC. 
 ## Claims (gerb/navy)
 
 - Gerb treats ONI alongside ONR as an operating office of naval UFO legacy programs, notes Inman and Shapiro as former directors and an alleged NSP chief information security officer role for a contact of Gerb; see [[navy-special-program]]. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 3:51-3:59, 27:45-28:14, 1:31:25-1:31:35)*
+
+## Claims (gerb/castle)
+
+- Gerb says ONI and ONR spearhead numerous Navy legacy programs and that NAWDC has a naval intelligence department. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:04:26-1:04:41)*

@@ -32,6 +32,8 @@ sources:
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Anonymous retired Air Force lieutenant colonel, entry 11063 in [[steven-greer]]'s redacted witness list, whom [[uap-gerb]] calls "Ed" (the same witness that underlies the "Ed" section of [[hidden-wing-air-force-program]]). Gerb says he has ascertained Ed's identity through public sources and tried repeatedly to contact him but will not disclose it; he cautions that Greer's retelling may contain embellishment and that Ed has "gone off books". All claims below are Greer's or Gerb's account of Ed. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 2:19-3:17, 44:10-44:34)*
@@ -74,3 +76,7 @@ Anonymous retired Air Force lieutenant colonel, entry 11063 in [[steven-greer]]'
 ## Claims (gerb/navy)
 
 - Gerb repeats Ed's claims (Edwards-NTTR reverse engineering, 34 and 40 billion dollar transfers, F-35 role) to suggest similar bloated budgets may have hidden Navy programs. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:33:10-1:34:08)*
+
+## Claims (gerb/castle)
+
+- Gerb re-summarises Ed's account (Nellis briefing at Area 51 S4, Edwards range engineering and test pilot school, electronic-warfare group director with a $700 million budget acting as intermediary with pilots of reverse-engineered craft, $34 and $40 billion off-book funds) as evidence that Edwards tests the ARVs, says he considers Ed a hostile witness who was summoned by SSCI and has blocked him everywhere, and yet believes the testimony. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:13:36-1:17:44)*

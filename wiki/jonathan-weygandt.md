@@ -25,6 +25,8 @@ sources:
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
     label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 USMC Lance Corporal who, during 1997 testimony, described encountering a large egg-shaped UFO
@@ -85,3 +87,7 @@ program). *([gerb/nro](../raw/gerb/nro.md) 1:12:23–1:13:05)*
 - Gerb says Weygandt was uncut in his 2000 tape for [[steven-greer]] (Greer's published interview omitted a four-fingered arm hanging from an open hatch and questions from James Fox), that he spoke publicly once more in 2023 on Martin Willis's show, and that Gerb now knows him personally, has interviewed him in person and considers him credible and free of delusion. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 2:01-3:18, 4:56-5:53, 1:33:00-1:33:15, 1:44:30-1:44:54)*
 - Weygandt reports post-encounter nightmares, missing time and leg-hair loss from the craft's liquid, and says the USMC and CID made his life difficult and tried to make him look unstable. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 23:33-23:51, 42:50-43:30)*
 - Gerb's thesis on where Weygandt was stationed and held is in [[weygandt-peru-retrieval-reconstruction]]; a fellow sergeant's dismissal is in [[weygandt-marine-sergeant-rebuttal-2025]]. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 1:12:12-1:14:15, 1:29:02-1:31:09)*
+
+## Claims (gerb/castle)
+
+- Gerb places Castle's March 1997 encounter days or weeks before Weygandt's and says Weygandt likewise reported an anthrax booster afterwards; he now suspects the black-clad team may have been a [[wackenhut]]-trained DOE SRT, where earlier he leaned toward Army Green Berets. See [[castle-triangle-origin-thesis]]. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 40:04-40:27, 50:30-51:39, 1:46:47-1:47:19, 1:51:00-1:52:32)*

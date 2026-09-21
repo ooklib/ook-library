@@ -22,6 +22,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 The Tejon radar cross-section (RCS) facility, in the
@@ -91,3 +93,7 @@ facility was built below ground during the Cold War to hide from Soviet satellit
 ## Additional claims (gerb/tr-3b)
 
 - [[bill-mcdonald]]'s 1992 informants: two Northrop engineers from the "Tejon/Tehachapi Ranch" site and two Lockheed engineers from Helendale described the [[xf-131-super-sentinel]]; McDonald said Helendale was hidden in plain sight behind the radar-cross-section cover. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 58:27-1:01:07)*
+
+## Claims (gerb/castle)
+
+- Gerb links Tejon and Helendale radar cross-section plants to his alternative XF-131 origin for the triangle and repeats Greer's claim to have been flown over the diamond pads where craft are hovered and hit with EM weapons. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:29:33-1:33:48)*

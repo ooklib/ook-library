@@ -36,6 +36,8 @@ sources:
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Home of the 412th Test Wing and an MRTFB (Major Range and Test Facility Base), listed by Gerb
@@ -118,3 +120,7 @@ ranges. *([gerb/mitre](../raw/gerb/mitre.md) 52:21–52:55)*
 ## Claims (gerb/mccandlish)
 
 - Gerb says [[kent-selin]] claimed to have seen the ARV at Edwards in 1973, ties the Plant 42/Norton ARV exhibit to his Edwards 412th thesis and the historical Edwards interest in Biefeld-Brown effect propulsion. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 18:13-18:44, 33:12-34:10, 48:05-49:19)*
+
+## Claims (gerb/castle)
+
+- Gerb argues the triangle in [[castle-29-palms-triangle-encounter-1997]] came from or was flown by the Edwards 412th Test Wing, noting the site is about 90 miles from Edwards and the craft left toward [[r2508-restricted-airspace-complex]]; he plays a stranger's account of a strobing, growing triangle seen from a hangar roof at Edwards. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 20:49-21:07, 1:09:03-1:10:49, 1:26:39-1:27:23)*

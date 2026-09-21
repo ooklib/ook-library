@@ -22,6 +22,8 @@ sources:
     label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 A widely publicized 2004 encounter off San Diego in which US Navy personnel from the USS Nimitz
@@ -66,3 +68,7 @@ maneuvers, following two weeks of radar/sensor detections of objects descending 
 ## Claims (gerb/uso)
 
 - Gerb, via Gallaudet's paper, points out that the Tic Tac hovered just above roiling ocean whitewater, possibly indicating a larger UAP below the surface; he also recounts Kevin Thomas's alleged 1991 USS Nimitz triangle sighting. See [[uso-unidentified-submerged-objects]]. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 0:17-0:25, 14:26-14:41, 19:57-20:46)*
+
+## Claims (gerb/castle)
+
+- Gerb entertains, without staking his position, that the Tic Tac may have been Lockheed Skunk Works technology testing on unwitting Navy pilots (he cites [[ross-coulthart]]'s stated conviction) and links it to [[castle-triangle-origin-thesis]]. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 52:16-54:19, 1:49:35-1:50:51)*

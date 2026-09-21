@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
     label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Armed DOE anti-nuclear-terrorist security force with arrest-on-site authority that guards nuclear facilities and moves weapons across the US. [[uap-gerb]] treats it as a less likely identity for the black-clad armed men [[jonathan-weygandt]] met in Peru in 1997, and links it to the [[doe-nuclear-emergency-support-team]].
@@ -26,3 +28,7 @@ Armed DOE anti-nuclear-terrorist security force with arrest-on-site authority th
 ## Relationships
 
 - Tied to [[doe-nuclear-emergency-support-team]]; see [[weygandt-peru-retrieval-reconstruction]].
+
+## Claims (gerb/castle)
+
+- Gerb proposes that the black team in [[castle-29-palms-triangle-encounter-1997]] was a DOE SRT staffed by [[wackenhut]] employees under a 1987 subcontract per the General Accounting Office, moving craft under the [[atomic-energy-act-1954]] classification, and tells the 1982 Richard Mingus drill story. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:38:36-1:44:06)*

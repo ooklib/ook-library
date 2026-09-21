@@ -17,6 +17,8 @@ sources:
     label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
     label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Kevin Knuth is described by [[uap-gerb]] as a physics professor (ASR "Kevin canth", described as New York University; affiliation as stated by Gerb) who modeled the flight characteristics of anomalous aerial vehicles in famous cases. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 3:14-3:49)*
@@ -51,3 +53,7 @@ Kevin Knuth is described by [[uap-gerb]] as a physics professor (ASR "Kevin cant
 - USOs: a transmedial object entering water at about 100 mph with no splash (analysis by SCU), a February 1987 case north of New Zealand where a 150 ft by 800 ft USO followed the HMNZS Southland, closed 20 km in under half a minute (average about 4.5 g) and reportedly drained the ship's power, and a list of eight older transmedial cases. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 18:08-19:43)*
 - Minot: Knuth analyzes the 1968 [[minot-afb-ufo-incident-1968]]. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 10:54-11:32)*
 - Knuth cites [[hermann-oberth]]'s 1954 lecture on measured saucer speeds. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 9:13-10:50)*
+
+## Claims (gerb/castle)
+
+- Gerb quotes Knuth's 2023 SOL Foundation talk on vehicle malfunctions near UFOs and a 1983 automobile-interference typology to explain Castle's stalled Humvee. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 33:46-35:23)*

@@ -57,6 +57,8 @@ sources:
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 The "Alien Reproduction Vehicle" (ARV) concept — a human-built craft reverse-engineered from
@@ -166,3 +168,8 @@ recovered nonhuman technology — is most associated in the UFO research communi
 
 - Gerb notes the term ARV appears in [[michael-shellenberger]]'s Immaculate Constellation report and explains it as a vehicle built from non-human technology by private aerospace or the US government; in the Congress-adjacent version a staff member of Congressman Brown's office confirmed the exhibit and the three discs, and the nickname "flux liner" was for the high-voltage charge. He links the ARV to [[edgar-fuche]]'s TR-3B. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 0:00-1:57, 43:12-44:39)*
 - See [[flux-liner-technical-claims]] and [[gerb-mccandlish-video]]. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 11:32-19:32)*
+
+## Claims (gerb/castle)
+
+- Gerb proposes that [[roderick-castle]]'s March 1997 triangle is an ARV, most likely a TR-3B, citing size, rounded corners, embedded corner lights, a concave center like the plasma accelerator ring and vent ridges; the alternative he offers is an [[xf-131-super-sentinel]]. See [[castle-triangle-origin-thesis]]. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:22:16-1:26:33, 1:27:40-1:33:48)*
+- He restates Fuche's TR-3B claims: three operational prototypes by 1994 of about 250 feet and a 600-foot model, Sandia and Livermore reverse-engineering the mercury-plasma MFD (89 percent mass reduction, Mach 9), three multi-mode thrusters, and NRO, NSA and CIA management. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:17:52-1:22:39)*

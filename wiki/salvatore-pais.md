@@ -14,6 +14,8 @@ sources:
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Navy engineer whose 2018 patents from [[naval-air-station-patuxent-river]] describe technologies such as room-temperature superconductivity, mass reduction and a device breaking the Schwinger limit; discussed by [[jesse-michels]] and [[dylan-borland]] on [[borland-michels-interview-2026]] (transcribed "Salvatore Py", "Paise").
@@ -35,3 +37,7 @@ Navy engineer whose 2018 patents from [[naval-air-station-patuxent-river]] descr
 ## Claims (gerb/off-world-tech)
 
 - Gerb recaps the 2017 Pax River patent for a triangle/diamond craft with anti-gravity effects resembling the alleged TR-3B, supported by Naval Air Enterprise CTO James Sheehy, and Ross Coulthart's account of Nat Corbett saying colleagues knew nothing of it; Gerb speculates NHI-technology work may also occur at Pax River. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 47:19-48:57)*
+
+## Claims (gerb/castle)
+
+- Gerb notes Pais's 2017 inertial mass reduction patents (from Pax River) show a triangle with a large concave center like the one Castle described. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:56:56-1:57:14)*

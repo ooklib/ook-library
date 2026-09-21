@@ -36,6 +36,8 @@ sources:
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
     label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 The US government's premier response unit for radiological/nuclear accidents or incidents,
@@ -109,3 +111,7 @@ authority derives from the 1954 Atomic Energy Agreement. *([gerb/nro](../raw/ger
 - He says NEST was not an armed operator force, so armed men in black were likely other units, and that NEST can commandeer DoD aircraft and works with the Navy EOD Technology Division and the Army 52nd Ordnance Group. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 52:21-52:39, 1:00:49-1:01:13)*
 - Gerb highlights that NEST formed its Joint Technical Operations team in February 1997, one to two months before the encounter, and in 1997 considered deploying to Bolivia or Colombia over Mars 96 plutonium debris using US Space Command and [[defense-support-program]] data (citing Jeffrey Richardson's "Defusing Armageddon"); he concludes a NEST rapid recovery unit was likely dispatched via DSP tracking. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 56:52-1:00:10)*
 - Full reconstruction, including a Sandia departure point, is in [[weygandt-peru-retrieval-reconstruction]]; armed-escort candidates include the [[doe-special-response-team]]. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 1:09:54-1:21:30)*
+
+## Claims (gerb/castle)
+
+- Gerb repeats his reasoning that NEST's authority from the 1954 atomic energy agreement, cited in the Schumer-Rounds UAPDA, lets UFO materials be classed as transclassified foreign nuclear information, and applies the same logic to a DOE SRT in the Castle case. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:41:27-1:43:11)*

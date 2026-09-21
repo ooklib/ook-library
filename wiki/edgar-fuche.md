@@ -31,6 +31,8 @@ sources:
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Former USAF Master Sergeant Edgar Fuche (the ASR transcripts render this variously as "Fuchs" and
@@ -114,3 +116,7 @@ could not provide material evidence for its existence. *([gerb/saic](../raw/gerb
 ## Claims (gerb/navy)
 
 - Gerb cites Fouche's claim that UFO/TR3B programs moved from Area 51 in the early 1990s to installations including Dugway and Diego Garcia, and that the NRO/NSA/CIA managed the TR3B. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 18:43-19:00, 1:21:47-1:22:08)*
+
+## Claims (gerb/castle)
+
+- Gerb again uses Fuche's TR-3B description (dated to his 1998 disclosure with five sources) as a template for [[roderick-castle]]'s triangle, and notes Fuche's claim that Air Force and Navy test-pilot elites flew it while pointing out Top Gun at NAWDC is not a test pilot school. See [[castle-triangle-origin-thesis]]. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:17:52-1:26:33, 1:55:13-1:55:34)*

@@ -42,6 +42,8 @@ sources:
     label: "FASTWALKERS - UFOs Outside Earth (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Ross Coulthart, Australian investigative journalist (host of *Need to Know* with Bryce Sable),
@@ -109,3 +111,7 @@ In this Area52 interview [[ross-coulthart]] is the guest; see [[coulthart-ramsey
 ## Claims (gerb/uso)
 
 - Gerb quotes Coulthart's NewsNation interview with [[timothy-gallaudet]], in which Gallaudet says we are being visited by non-human intelligence and that the US is in contact. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 11:19-11:52)*
+
+## Claims (gerb/castle)
+
+- Gerb says Coulthart recently stated with high conviction, from many sources, that the 2004 Tic Tac was Lockheed Skunk Works technology. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 52:16-52:25)*

@@ -73,6 +73,8 @@ sources:
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
     label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -201,3 +203,7 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 ## Claims (gerb/weygandt)
 
 - Gerb says Greer's published 2000 interview with [[jonathan-weygandt]] was chopped up and omitted the four-fingered arm and filmmaker James Fox's questions, and he works from raw files off the Disclosure Project archive; he also cites Greer, with Corso, as accusing Stubblebine. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 4:56-5:53, 24:59-25:09, 1:05:59-1:06:14)*
+
+## Claims (gerb/castle)
+
+- Gerb says Castle contacted Greer after Grusch and Greer took him to Rep. Burlison; he also replays Greer's claims about flying over the Antelope Valley radar cross-section diamond sites. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:45:00-1:45:23, 1:30:38-1:31:57)*

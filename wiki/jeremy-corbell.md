@@ -26,6 +26,8 @@ sources:
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md"
     label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Filmmaker and journalist, co-host with [[george-knapp]] of the Weaponized podcast, referred to throughout [[borland-michels-interview-2026]] as the source of several Borland-related claims. Additional Corbell material may exist under other sources.
@@ -60,3 +62,7 @@ Filmmaker and journalist, co-host with [[george-knapp]] of the Weaponized podcas
 ## Claims (gerb/flyby)
 
 - Gerb compares the audio of [[flyby-ufo-footage-2008]] to the ambient sound of the 2019 Navy sphere-into-water video Corbell posted. *([gerb/flyby](<../raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md>) 6:00-6:49)*
+
+## Claims (gerb/castle)
+
+- Gerb mentions Corbell's 2023 29 Palms triangle video (flares or craft, not relevant to Castle) and his recent list of street addresses of legacy sites. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 16:02-16:18, 1:12:42-1:12:57, 1:28:55-1:29:25)*

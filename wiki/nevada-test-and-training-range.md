@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 USAF range complex run by the 98th Range Wing (transcribed "998th") from [[nellis-air-force-base]], the largest contiguous air and ground space available for peacetime military operations in the Free World, with about 2.9 million acres and 5,000 square miles of restricted airspace, which also hosts Department of Energy testing. It is one of the "Western Ranges" of the [[hidden-wing-air-force-program]].
@@ -29,3 +31,7 @@ USAF range complex run by the 98th Range Wing (transcribed "998th") from [[nelli
 ## Relationships
 
 - Part of the [[nellis-air-force-base]] complex; contains [[groom-lake]]; sister of [[utah-test-and-training-range]].
+
+## Claims (gerb/castle)
+
+- Gerb notes the Fallon Range Training Complex of [[naval-air-warfare-development-center]] lies just north of it. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:05:05-1:05:38)*

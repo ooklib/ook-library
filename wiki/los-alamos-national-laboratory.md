@@ -36,6 +36,8 @@ sources:
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
     label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Los Alamos National Laboratory is a DOE/NSA National Laboratory FFRDC founded during the
@@ -87,3 +89,7 @@ Manhattan Project. *([gerb/mitre](../raw/gerb/mitre.md) 19:32–19:37)*
 ## Claims (gerb/aztec)
 
 - Per Steinman, the Aztec craft was hauled to Los Alamos and stayed over a year; the airman "George" saw much trucking equipment there afterward, and [[j-andrew-kissner]]'s sources said Los Alamos and Sandia held 1947-48 recovered discs. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 26:37-26:57, 27:24-27:55, 1:39:28-1:39:44)*
+
+## Claims (gerb/castle)
+
+- Gerb says Wackenhut guarded Los Alamos and DOE SRTs staffed by Wackenhut protected it in the late 1990s. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:35:35-1:35:50, 1:39:05-1:39:29)*

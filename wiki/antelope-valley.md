@@ -15,6 +15,8 @@ sources:
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md"
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 California high desert region (Palmdale/Lancaster) and a chief US center of aerospace development: [[air-force-plant-42]], [[lockheed-martin]] Skunk Works, former Norton AFB (site of primary witness Brad S.'s flux-liner ARV sighting), [[edwards-air-force-base]], and [[northrop-grumman]], Rockwell and [[mcdonnell-douglas]] plants, plus three radar cross-section (RCS) ranges: [[tejon-radar-cross-section-facility]] (Northrop Tejon), Lockheed Helendale, and McDonnell Douglas. [[uap-gerb]] calls it "the most consequential location that has ever come up in all of my research". *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 37:07, 37:17, 37:24, 38:17, 38:49, 38:56)*
@@ -36,3 +38,7 @@ California high desert region (Palmdale/Lancaster) and a chief US center of aero
 ## Additional claims (gerb/northrop)
 
 - Gerb's Northrop video (from [[bill-hamilton]]): Lockheed, Rockwell, McDonnell Douglas and Northrop all have Palmdale plants around [[air-force-plant-42]], with Northrop's [[tejon-radar-cross-section-facility]] underground site as the flagged UAP facility. *([gerb/northrop](<../raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md>) 26:44-27:54)*
+
+## Claims (gerb/castle)
+
+- Gerb says the triangle left toward the Antelope Valley, which he describes as the nexus of US aerospace (Plant 42, Skunk Works, former Norton, Edwards, and the Northrop, Rockwell and McDonnell Douglas radar cross-section plants) and a long-time producer of triangle sightings. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:26:54-1:28:44)*

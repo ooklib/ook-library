@@ -18,6 +18,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
     label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 [[uap-gerb]]'s speculative timeline and organizational reconstruction of how the alleged 1997 crash in Peru ([[weygandt-peru-crash-encounter-1997]]) was retrieved. It is Gerb's inference layered on [[jonathan-weygandt]]'s testimony, not a claim by Weygandt, and Gerb repeatedly says it rests on many assumptions and is open to correction. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 1:55:13-1:55:37)*
@@ -34,3 +36,7 @@ sources:
 ## Relationships
 
 - Reconstruction of [[weygandt-peru-crash-encounter-1997]]; see [[gerb-weygandt-video]].
+
+## Claims (gerb/castle)
+
+- In the Castle video Gerb reopens the identity of the black team, suggesting a Wackenhut-staffed DOE [[doe-special-response-team]] that also fits Weygandt's case (Wackenhut allegedly had Peruvian operating bases), while admitting he has no evidence and that SRTs historically operated only in the continental US. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:38:36-1:41:27, 1:51:23-1:52:32)*

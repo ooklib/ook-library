@@ -107,6 +107,8 @@ sources:
     label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
     label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -314,3 +316,8 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/aztec)
 
 - His July 2025 Aztec video ([[gerb-aztec-video]]) says he changed from doubting the case; he also shows a signed Project Gravitaur poster and says his projects rarely run under 1h45m. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 2:12:47-2:13:34, 2:23:44-2:26:19)*
+
+## Claims (gerb/castle)
+
+- Published the Castle testimony analysis on 2025-08-17, with the interview with [[roderick-castle]] to follow a week later; see [[gerb-castle-video]] and [[castle-triangle-origin-thesis]]. Gerb says he vetted Castle from late April 2025, visited him in person, and links him with [[david-grush]], [[steven-greer]] and [[eric-burlison]]. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 7:24-8:21, 1:44:36-1:45:48, 1:58:40-1:59:17)*
+- He mentions his Danny Jones and Chris Ramsey podcast appearances, which he says brought almost 20,000 new viewers, and that he funds trips and 3D renders via Patreon. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:59:17-2:00:14)*

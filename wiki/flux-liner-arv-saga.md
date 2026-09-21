@@ -27,6 +27,8 @@ sources:
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Alleged 12 November 1988 sighting by designer [[brad-sorenson]] of three man-made "flux liner" flying saucers (nicknamed Mama, Papa and Baby Bear) in a classified hangar exhibit at the Norton AFB air show. Relayed for two decades second-hand by illustrator [[mark-mccandlish]]; see [[alien-reproduction-vehicle-tr3b]] and [[air-force-plant-42]] for related material from earlier Gerb videos.
@@ -59,3 +61,7 @@ Alleged 12 November 1988 sighting by designer [[brad-sorenson]] of three man-mad
 
 - Gerb's dedicated video adds the Carlucci identification of the client, the Cranston and Brown flight from Norton to [[air-force-plant-42]], the design details ([[flux-liner-technical-claims]]), the 1990 interview ([[sorenson-scott-interview-1990]]), corroborating witnesses ([[kent-selin]], [[harvey-williams-provo-photos-1967]]) and the death claims ([[mccandlish-death-and-suppression-claims]]); see [[gerb-mccandlish-video]]. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 5:09-8:14, 32:12-37:36, 54:59-1:00:18)*
 - Gerb argues the ARV story matches his Nellis/Edwards 412th reverse-engineering thesis, since Plant 42 is under 30 miles from Edwards, and adds [[northrop-grumman]] to the core contractors. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 18:13-18:44, 48:05-49:19)*
+
+## Claims (gerb/castle)
+
+- Gerb reprises the 1988 Norton flux liners (F-4 jump seats, sloppy paint, bolted panels, a souped-up Tesla coil for gravity and inertia) as a crude ARV, and suggests Castle's triangle may be a more advanced one; see [[castle-triangle-origin-thesis]]. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 3:54-4:17, 1:22:46-1:23:33)*

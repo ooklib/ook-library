@@ -24,6 +24,8 @@ sources:
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 18 Bravo (Special Forces weapons sergeant) Randy Anderson claimed that in the mid-2010s he was
@@ -76,3 +78,7 @@ considered a possible weapon. *([gerb/mitre](../raw/gerb/mitre.md) 1:13:12–1:1
 ## Claims (gerb/navy)
 
 - Gerb says the Navy and SAIC at NSWC Crane engaged with recovered technology responding to consciousness, and in the conclusion suggests the Navy's secrecy may relate to weapons-like technology such as the gauntlet and orb that reportedly discharged energy during recovery. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 14:55-15:12, 1:36:58-1:37:08)*
+
+## Claims (gerb/castle)
+
+- Gerb recalls Anderson's claim of electrogravitic triangles stored at Area 51 auxiliary sites on DOE land, and a friend's account of a triangle taking off vertically at Groom Lake. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:53:57-1:54:18, 2:01:01-2:01:24)*

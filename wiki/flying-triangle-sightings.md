@@ -18,6 +18,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Dark triangular craft (typically three white corner lights, a dull red or amber central light, "structural work" underneath, 200-300 ft in many reports) are reported worldwide and cluster in 1970-2000, unlike the smooth, seamless craft associated with NHI. UAP Gerb argues this pattern, plus the Immaculate Constellation report labeling some triangles ARVs, suggests they were human-built reproduction craft ([[alien-reproduction-vehicle-tr3b]], [[xf-131-super-sentinel]]).
@@ -46,3 +48,7 @@ Dark triangular craft (typically three white corner lights, a dull red or amber 
 ## Claims (jm/matthew-brown)
 
 - See [[imcon-russian-naval-triangle-incident]], the Vandenberg runway account and the NIDS base-correlation study. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 22:36-29:37)*
+
+## Claims (gerb/castle)
+
+- Gerb adds the Castle case, a 2002 Fallon report and a 2012 Lemoore report to his triangle sightings, and the Belgian wave and XF-131 as prior ARV-triangle arguments; see [[castle-29-palms-triangle-encounter-1997]]. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 5:14-5:56, 1:06:33-1:08:39)*

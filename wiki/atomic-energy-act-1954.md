@@ -21,6 +21,8 @@ sources:
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
     label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 The Atomic Energy Act of 1954 expanded the 1946 Atomic Energy Act's concept of "restricted data"
@@ -86,3 +88,7 @@ ordinary oversight. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:09:56–1:10:
 ## Claims (gerb/weygandt)
 
 - Gerb again says the 1954 Act underlies NEST's authority and the alleged reclassification of UFO data as transclassified foreign nuclear information (TFNI, as in the Schumer-Rounds legislation), and that it would protect a crashed craft like [[weygandt-peru-crash-encounter-1997]]'s. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 34:10-34:28, 55:42-56:26)*
+
+## Claims (gerb/castle)
+
+- Gerb again argues the Act lets UFO materials be labelled transclassified foreign nuclear information and applies that to a DOE SRT in the Castle case. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:41:43-1:43:11, 1:52:40-1:53:06)*

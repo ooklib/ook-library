@@ -17,6 +17,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 The XF-131 Super Sentinel is the name allegedly used by disgruntled Northrop and Lockheed engineers for a reverse-engineered triangular craft reported by Antelope Valley residents, as relayed through the illustrator [[bill-mcdonald]] and his drawing "Tehachapi Triangle". It is unverified; the engineers' identities are undisclosed.
@@ -31,3 +33,7 @@ The XF-131 Super Sentinel is the name allegedly used by disgruntled Northrop and
 ## Relationships
 
 - Described by [[bill-mcdonald]]; linked to [[tejon-radar-cross-section-facility]], [[lockheed-martin]], [[northrop-grumman]], [[ben-rich]], [[antelope-valley]]; contrasted with [[alien-reproduction-vehicle-tr3b]]; covered in [[tr3b-triangle-arv-video-2024]].
+
+## Claims (gerb/castle)
+
+- Gerb offers the XF-131 as a less likely alternative identity for Castle's triangle, kept at the Tejon or Helendale radar cross-section plants and test flown over R-2508, retelling Bill McDonald's 1992 Denny's meeting with four engineers and X-Files episode 1. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:32:20-1:33:48)*

@@ -30,6 +30,8 @@ sources:
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Groom Lake is the Nevada test site commonly called Area 51. In the 1995 lecture ([[schneider-las-vegas-lecture-1995]]) [[phil-schneider]] says he worked 11 of his 17 government years at "Groom Lake, S-4, S-2", "in the Nellis Air Force Base area" *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 4:40)*. He claims the base has been extended by underground additions, that a small "sport model" flying saucer is occasionally seen there, and that he did ground-only "test piloting" (running aircraft along special runways) *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 9:50, 32:43, 1:01:40)*. He also says photographing the area can get equipment confiscated and bring up to five years and a million-dollar fine, that Nevada is 81 percent federally owned or restricted, and that nine underground mountain bases lie in the Nellis area north of Las Vegas *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 30:37, 53:38)*. He cites a Popular Science article on the "secret air base the government doesn't want you to know" and says an editor of the magazine is now in federal prison (unverified) *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 1:01:08)*. Compare [[bob-lazar]]'s S-4 claims and [[popular-mechanics-new-area-51-1997]].
@@ -66,3 +68,7 @@ Groom Lake is the Nevada test site commonly called Area 51. In the 1995 lecture 
 ## Claims (gerb/edwards-afb)
 
 - [[witness-ed]] says a major at Area 51 S4 told him they had "captured lots of aircraft" and showed a 30-minute video of essentially invisible inspection aircraft; Gerb adds that Groom Lake is administered by a detachment from [[edwards-air-force-base]] and lies in the South Range of the [[nevada-test-and-training-range]]. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 14:36-15:08, 17:39-17:47)*
+
+## Claims (gerb/castle)
+
+- Gerb notes that Wackenhut secured Groom Lake's perimeter and caught Bob Lazar's group, and a friend's account of a triangle taking off vertically there. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 44:46-45:11, 2:01:01-2:01:24)*

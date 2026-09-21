@@ -15,6 +15,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Frank Carlucci (transcribed "Carluchi") was deputy CIA director under [[jimmy-carter]] and secretary of defense under Reagan and is associated with the [[carlyle-group]]. He appears in [[pines-michels-interview-2024]] only through an unverified identification.
@@ -30,3 +32,7 @@ Frank Carlucci (transcribed "Carluchi") was deputy CIA director under [[jimmy-ca
 ## Claims (gerb/mccandlish)
 
 - Gerb says Brad Sorenson never named his client, but McCandlish reasoned with high confidence it was Carlucci (16th Secretary of Defense, deputy CIA director under Carter, Carlyle Group chairman 1992-2003, and per Gerb Carlyle owned [[eg-and-g]] in 1999-2001). Gerb suspects Carlyle is deeply involved with UAP programs and notes [[ronald-moultrie]]'s Carlyle-linked board seats. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 7:51-9:57, 23:29-23:45)*
+
+## Claims (gerb/castle)
+
+- Gerb says Herman's 1989 book lists Carlucci on Wackenhut's board and that he wagered earlier that Carlucci accompanied Brad Sorenson to the 1988 Norton exhibit. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 1:36:45-1:37:27)*

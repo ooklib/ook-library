@@ -28,6 +28,8 @@ sources:
     label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
     label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md"
+    label: "1997 Alien Reproduction Vehicle Encounter at 29 Palms, CA - the Testimony of Sgt Roderick Castle (UAP Gerb)"
 ---
 
 Michael Herrera's official AARO Memorandum for Record allegedly shows he did not claim to
@@ -85,3 +87,7 @@ was represented in [[aaro|AARO]]'s Historical Report Volume 1 under
 ## Claims (gerb/weygandt)
 
 - Gerb notes that [[jonathan-weygandt]]'s description of a guitar-amp-like hum from the craft is almost identical to Herrera's description of the sound of an 8-gon alien reproduction vehicle, and criticizes attacks on witnesses' mental state like that on Herrera by his team leader. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 22:52-23:09, 1:50:46-1:51:10)*
+
+## Claims (gerb/castle)
+
+- Gerb calls [[roderick-castle]]'s story similar to Herrera's and [[jonathan-weygandt]]'s (armed unmarked black team, threats, a craft) and says Herrera also received an anthrax booster right after his encounter with an octagonal, 300-foot ARV. A photo in late July 2025 showed Castle with Greer, Burlison and Herrera. *([gerb/castle](<../raw/gerb/UAP Gerb - 2025-08-17 - 1997 ALIEN REPRODUCTION VEHICLE ENCOUNTER AT 29 PALMS, CA - THE TESTIMONY OF SGT RODERICK CASTLE.md>) 9:03-9:27, 39:55-40:27, 1:45:00-1:45:15)*
