@@ -28,6 +28,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 Dr. Eric Henry Wang is, per Gerb, one of the most enigmatic figures associated with early-1950s
@@ -111,3 +113,8 @@ and an April 1961 *Mechanical Engineering* magazine obituary that finally fleshe
 ## Claims (gerb/kingman)
 
 - Gerb ([[gerb-kingman-video]]) says Stansel worked in the Installation Division of Air Material Command's Office of Special Studies headed by Dr. Eric Wang, an Austrian-born Vienna Technical Institute graduate who became director of Special Studies at Wright-Patterson in 1949, worked with the Office of Naval Research, [[vannevar-bush]] and the Research and Development Board, and moved to Kirtland AFB near the time of Upshot-Knothole. Gerb says Wang's role appears in an unclassified Upshot-Knothole document, that records are hard to find, and that Wang allegedly led reverse engineering under Kissinger and was a close associate of Victor "Sherberg" (read as [[victor-schauberger]], an [[operation-paperclip]] scientist per Gerb). *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 9:26-11:14)*
+
+## Claims (gerb/aztec)
+
+- Steinman says Wang was called onto the Aztec project in November 1949; Gerb links him to Kingman as head of the Wright office of special studies, notes he was Austrian-born, began secret government work in 1949, saw his department moved to Sandia/Kirtland in 1956 and died in 1961, and finds him almost erased from records. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 1:24:48-1:28:13, 2:19:52-2:20:33)*
+- Steinman's contact "MW" said Wang's papers were confiscated and locked in a secretive section of a Kirtland library. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 1:27:27-1:27:57)*

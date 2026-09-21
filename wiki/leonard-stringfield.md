@@ -45,6 +45,8 @@ sources:
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
     label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 Leonard Stringfield, a UFO crash-retrieval investigator Gerb describes as "legendary," produced
@@ -135,3 +137,7 @@ a series of "Crash Retrieval Status Reports" analyzed throughout the SAIC video.
 ## Claims (gerb/weygandt)
 
 - Gerb uses Stringfield's Status Report 3 (the Camp Polk account, [[camp-polk-egg-craft-1953]]) and Status Report 6 ([[albert-bruce-collins]]) as egg-shaped-craft precedents for [[weygandt-peru-crash-encounter-1997]], and mentions Stringfield's Blue Boys rapid-retrieval helicopter units. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 48:21-48:43, 1:33:49-1:34:04, 1:38:05-1:38:22)*
+
+## Claims (gerb/aztec)
+
+- Stringfield wrote the foreword to Steinman's 1986 book, admitting he had been swayed by the hoax debunks (including [[william-moore]]'s 1985 MUFON talk); [[john-spencer-carr]]'s 1982 disclosure and Steinman revived his interest, and status reports 5 (1989) and 6 (1991) placed Aztec beside Roswell and Kingman and reproduced the Farmington report. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 2:06:10-2:12:32, 2:23:00-2:23:16)*

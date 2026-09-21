@@ -44,6 +44,8 @@ sources:
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
     label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 Dr. Robert Sarbacher, a respected physicist and 1950s consultant to the DoD's Research and
@@ -126,3 +128,7 @@ Dedicated deep-dive video. Sarbacher: physicist, Einstein student, Harvard gradu
 ## Claims (gerb/kecksburg)
 
 - Gerb recaps that Sarbacher named [[eric-a-walker]] to Stanton Friedman as an integral crash-retrieval figure, and says Walker's Kecksburg admission supports that. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 38:52-39:17)* *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 1:10:01-1:10:17)*
+
+## Claims (gerb/aztec)
+
+- Gerb says Sarbacher's 15 September 1950 exchange with [[wilbert-b-smith]] followed Smith's reading of *Behind the Flying Saucers*, and quotes him: "The facts reported in the book are substantially correct." Sarbacher told Steinman he was invited to recovery meetings at Wright-Patterson (with von Neumann, Bush, Oppenheimer) but never attended, recalled very light, tough materials and insect-like occupants, and pointed to [[eric-a-walker]]. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 31:04-31:51, 1:40:26-1:47:11)*

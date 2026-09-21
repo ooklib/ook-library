@@ -59,6 +59,8 @@ sources:
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md"
     label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 Dr. Vannevar Bush is presented as the intellectual architect of the modern
@@ -186,3 +188,8 @@ Dr. Vannevar Bush is presented as the intellectual architect of the modern
 ## Claims (gerb/kecksburg)
 
 - Gerb notes presidential science adviser Donald Hornig attended Johnson's post-Kecksburg meetings, and that the post was first held by Bush. *([gerb/kecksburg](<../raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md>) 50:07-50:22)*
+
+## Claims (gerb/aztec)
+
+- Gerb repeats Steinman's claim that Bush headed the Aztec scientific recovery team after General Marshall alerted the IPU, and that Bush's OSRD/NDRC recruited oil-detection scientists and [[geophysical-service-inc]] into anti-submarine magnetic detection, giving a possible route to the Aztec sources. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 16:07-17:22, 1:11:12-1:15:23)*
+- Wilbert Smith's 1950 memo said a small group headed by Bush was making concentrated efforts on saucers, and Sarbacher said his R&D board discussed crash recoveries at Wright-Patterson. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 1:41:29-1:41:50, 1:43:36-1:44:14)*

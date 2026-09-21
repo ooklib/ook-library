@@ -23,6 +23,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md"
     label: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 J. Robert Oppenheimer, scientific director of the Manhattan Project's Los Alamos laboratory, is
@@ -75,3 +77,7 @@ speculative. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 2:00:15–2:00:27)*
 ## Additional claims (gerb/sarbacher)
 
 - Sarbacher told Friedman it was "very likely" a 1947 crash was involved in the Wright Field meeting, presumably with Oppenheimer involved; in 1983 he named Oppenheimer with Bush and [[john-von-neumann]]. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 9:17-9:25, 12:23-12:45)*
+
+## Claims (gerb/aztec)
+
+- Steinman names Oppenheimer on the Aztec scientist team; Sarbacher also mentions him at Wright-Patterson meetings, and the disputed 1947 IPU report lists him among AEC scientists at Roswell. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 17:29-17:41, 1:44:00-1:44:23, 2:03:28-2:03:46)*

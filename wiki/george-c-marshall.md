@@ -28,6 +28,8 @@ sources:
     label: "The MacArthur Legacy - 50 Years of Empire Building in the Pacific - Willoughby 2 (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md"
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 General George C. Marshall — Army Chief of Staff (1939–1945), Secretary of State (1947–1949),
@@ -97,3 +99,7 @@ UFO legacy-program apparatus. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 20:21
 ## Additional claims (jm/malmgren)
 
 - Host and [[harald-malmgren]] observe that many alleged figures in the UFO story (Angleton, Kennedy, Forrestal) appear in Marshall's team and the Marshall Plan, and that Marshall was allegedly briefed on the 1942 Battle of Los Angeles UFO; Malmgren calls it strange but hard to prove. *(Speculative:* *([jm/malmgren](<../raw/jm/Jesse Michels - 2025-04-22 - Presidential Advisor - I Directly Handled UFO Material (Ft. Harald Malmgren).md>) 1:47:40-1:48:16, 1:56:56-1:58:04)**)*
+
+## Claims (gerb/aztec)
+
+- Steinman says air-defense commander Marshall got the Aztec impact report and mobilized the IPU and Vannevar Bush; the Woods regard Marshall as the IPU's origin, and a disputed 5 March 1942 Majestic memo has Marshall urging a special intelligence unit after the Battle of Los Angeles. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 16:07-16:22, 1:59:57-2:00:21, 2:01:34-2:01:55)*

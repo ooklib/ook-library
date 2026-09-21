@@ -34,6 +34,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 Los Alamos National Laboratory is a DOE/NSA National Laboratory FFRDC founded during the
@@ -81,3 +83,7 @@ Manhattan Project. *([gerb/mitre](../raw/gerb/mitre.md) 19:32–19:37)*
 ## Claims (gerb/kingman)
 
 - Per [[bill-uhouse]] as relayed by Gerb ([[gerb-kingman-video]]), the dead Kingman pilots were taken to Los Alamos, "part of the AEC". *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 14:47-15:03)*
+
+## Claims (gerb/aztec)
+
+- Per Steinman, the Aztec craft was hauled to Los Alamos and stayed over a year; the airman "George" saw much trucking equipment there afterward, and [[j-andrew-kissner]]'s sources said Los Alamos and Sandia held 1947-48 recovered discs. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 26:37-26:57, 27:24-27:55, 1:39:28-1:39:44)*

@@ -40,6 +40,8 @@ sources:
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
     label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 Cited by Gerb as an example of "Southwest systems" used to intake recovered craft around this
@@ -118,3 +120,7 @@ period, associated with [[sandia-national-laboratories|Sandia]]. *([gerb/mitre](
 ## Claims (gerb/weygandt)
 
 - Gerb cites the rapid-response USAF unit at Kingman and lowboy trucks as parallels for the retrieval team at [[weygandt-peru-crash-encounter-1997]]. *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 48:29-48:43, 1:39:36-1:39:52)*
+
+## Claims (gerb/aztec)
+
+- Gerb compares Aztec and Kingman recovery handling, with [[eric-henry-wang]] suspected of leading Kingman reverse engineering and Steinman naming him on Aztec from November 1949. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 1:25:07-1:28:13, 2:20:25-2:20:41)*

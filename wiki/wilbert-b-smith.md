@@ -25,6 +25,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 Wilbert B. Smith was a senior radio engineer in the Canadian government's Department of Transport who, in 1950, asked for Canada's first official UFO investigation. His memo relays four claims from an unnamed "source within Washington", identified by UAP Gerb as [[robert-sarbacher]].
@@ -57,3 +59,7 @@ Wilbert B. Smith was a senior radio engineer in the Canadian government's Depart
 ## Claims (gerb/special-forces)
 
 - Gerb recounts Smith's 1950 letter to the Canadian controller of telecommunications on the US studying UAP in an effort classified above the H-bomb, from information given by [[robert-sarbacher]], to support an early-1950s start for the program. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 11:18-11:47)*
+
+## Claims (gerb/aztec)
+
+- His 1950 memo (top secret until 1969, obtained by Bray and Friedman in 1978) reported the subject higher than the H-bomb and led by [[vannevar-bush]]'s group; [[silas-newton]] respected him and mentions admiration for his magnetic-propulsion research. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 1:00:59-1:01:15, 1:40:43-1:42:16)*

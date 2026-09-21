@@ -46,6 +46,8 @@ sources:
     label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 Eric A. Walker was president of Penn State University 1956-1971, chairman of the Institute for Defense Analyses, and executive secretary of the Defense Research Board 1950-51. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 14:00-14:30)* UAP Gerb treats him as the man [[robert-sarbacher]] described as "smug" from Philadelphia at the Wright Field crash meeting. *([gerb/sarbacher](<../raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md>) 12:37-13:10)*
@@ -93,3 +95,8 @@ Eric A. Walker was president of Penn State University 1956-1971, chairman of the
 ## Claims (gerb/navy)
 
 - Gerb recalls Walker founded Penn State's UARC in 1945, was named by Sarbacher as taking part in 1950s retrieval programs, and admitted being at Kecksburg and knowing of MJ-12; Gerb calls it striking for a former TRW board member. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 13:42-14:30)*
+
+## Claims (gerb/aztec)
+
+- Gerb summarizes Walker's career (Harvard degrees, Harvard Underwater Sound Laboratory, OSRD 1944, Penn State, founding the Applied Research Laboratory, Research and Development Board seat from 1950 and executive secretary 1950-52, a 1950s special-intelligence indoctrination memo found by Stanton Friedman, Project Azorian) and Sarbacher's hint that a Pennsylvania electrical-engineering RDB member attended all Wright Field recovery meetings, which Steinman resolved to Walker. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 1:46:13-1:50:01)*
+- Walker's replies to Steinman were cryptic ("Stop. Don't try and find me. I came on that machine."); in a 30 August 1987 call he said he attended meetings on that subject and knew of MJ12 for 40 years, telling Steinman he was tilting at windmills. He also told Armen Victorian he was present at Kecksburg 1965 and asked about ESP. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 1:50:15-1:53:19)*

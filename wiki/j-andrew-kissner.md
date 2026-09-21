@@ -22,6 +22,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 J. Andrew Kissner, a former New Mexico State Representative (the video's ASR consistently renders
@@ -92,3 +94,7 @@ says he separately contacted Kner directly and found him credible. *([gerb/sandi
 ## Claims (gerb/navy)
 
 - Gerb cites Kissner's 1994 claim that Navy sources at White Sands and NRL briefed him on 1947 discs given to AEC custody and studied at national labs, and on the 1948 Truman executive order structure. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:20:10-1:21:06)*
+
+## Claims (gerb/aztec)
+
+- In 1994 Kissner said sources at White Sands and NRL told him two to four discs were recovered in 1947-48, held by Los Alamos and Sandia under the AEC, with MIT, Brookhaven, RAND and Bush's board involved, plus Project Supremacy and 1948 executive orders; Gerb relates it to Aztec. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 27:15-28:45)*

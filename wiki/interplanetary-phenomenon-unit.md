@@ -16,6 +16,8 @@ relations:
   - relation: alleged_by
     target: ryan-s-wood
     note: "IPU documents rated highest authenticity"
+  - relation: features
+    target: gerb-aztec-video
 sources:
   - file: raw/gerb/sandia.md
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
@@ -29,6 +31,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 The Interplanetary Phenomenon Unit (IPU) is a disputed but partially Army-corroborated 1940s–1950s
@@ -100,3 +104,9 @@ alleged "Manhattan Project 2.0" onion. *([gerb/secrecy_1](../raw/gerb/secrecy_1.
 ## Claims (gerb/coyame)
 
 - Gerb cites the IPU summary in Ryan S. Wood's Majestic-12 files as saying all recovery personnel operated on strict need to know, mentions severe nervous breakdowns and suicides by MPs, and says ground personnel from Sandia were contaminated, killing three technicians; he uses this to frame the deaths of the Mexican team in the [[coyame-crash-1974]] and promises a dedicated IPU video. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 30:41-31:37)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 45:33-45:41)*
+
+## Claims (gerb/aztec)
+
+- In Steinman's Aztec account the IPU was a "long-forgotten US Army division" of 30-40-year-old seasoned troops from Camp Hale, Colorado, mobilized by General George C. Marshall to secure and collect the disc, though Steinman gave no firm sourcing. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 15:38-16:38, 1:53:52-1:54:10)*
+- Skeptics such as Brad Sparks and Kevin Randle call the IPU merely an "input processing unit" mailroom; Gerb rejects this. Army answers to Richard Hall in 1980, Steinman in 1984 and Timothy Good in 1987 said the IPU was disestablished in the late 1950s, never a formal unit, an in-house interest item for an assistant chief of staff for intelligence, remembered only through "institutional memory", with records surrendered to the Air Force with Blue Book; later AFOSI told CUFON its material was destroyed. Anthony Bragalia reports a DCII printout beginning "01 interplanetary phenomenon unit" and source Rudolph Shelmar saying MacArthur-era IPU files went to AFOSI in 1962. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 1:54:18-1:59:16)*
+- Gerb reviews Majestic-document appearances: the July 1947 IPU field order and 22 July 1947 report (leaked via Thomas Cantwell to [[timothy-cooper]] in 1993-96, after Steinman's 1986 book) with Sandia security, Oppenheimer, Bronk, a briefing of Truman by Vandenberg and Eisenhower shown wreckage, plus a disputed 1942 Marshall memo; he finds parallels between Roswell and Aztec but no hard conclusion. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 1:59:40-2:05:58)*

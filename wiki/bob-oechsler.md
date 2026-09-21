@@ -19,6 +19,8 @@ sources:
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 NASA mission specialist Bob Oechsler (rendered "Echler" in the ASR transcripts and in some earlier wiki pages) who in 1989 recorded a phone call with [[bobby-ray-inman]] in which Inman allegedly volunteered [[everett-heinman]] as the person to speak to about recovered UFOs becoming available for technological research, and was then put in touch with former Director of Naval Intelligence [[sumner-shapiro]], who reportedly said he had studied a recovered craft up close. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 1:30:57-1:33:44)*
@@ -36,3 +38,7 @@ Shapiro's account, per [[uap-gerb]]: teams disassembled craft with interlocking 
 ## Claims (gerb/navy)
 
 - Gerb uses Oechsler's 1989 contacts (a recorded call with Inman; 10 August 1989 CIA meeting with Heinman; two Shapiro meetings) as evidence naval officials knew of recovered vehicles, and repeats Oechsler's claim that Navy EMP experiments (Empress and Empress 2 onboard EMP generators) out of Pensacola NAS were used to down UFOs. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 34:50-40:12)*
+
+## Claims (gerb/aztec)
+
+- Per Gerb, [[bobby-ray-inman]]'s 1989 recorded call pointed Oechsler to [[everett-heinman]], then to [[sumner-shapiro]], whose account of interlocking dismantled craft Gerb compares with Aztec. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 23:32-24:47)*

@@ -21,6 +21,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program? (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 Scientist named as sitting [[majestic-12]] member who, per the [[eisenhower-briefing-document]] and the IPU report, performed autopsies on the Roswell bodies and coined "EBE" (extraterrestrial biological entity). *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 9:00, 22:03)*
@@ -39,3 +41,7 @@ Scientist named as sitting [[majestic-12]] member who, per the [[eisenhower-brie
 ## From Steven Greer on American Alchemy (jm/greer)
 
 - Greer cites Bronk (Rockefeller Foundation president) as an MJ-12 member and evidence that big industrialists were involved. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 54:18-54:38)*
+
+## Claims (gerb/aztec)
+
+- Per Steinman, Bronk ordered the Aztec bodies placed on dry ice and produced autopsies later published in a Blue Book/Sign report no. 13; the 1947 IPU report also names him over autopsies. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 18:38-20:26, 2:03:46-2:03:54)*

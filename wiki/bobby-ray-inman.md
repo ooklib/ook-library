@@ -52,6 +52,8 @@ sources:
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md"
     label: "1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 Admiral Bobby Ray Inman had one of the most extensive intelligence/defense careers of any
@@ -129,3 +131,7 @@ director of the [[central-intelligence-agency|CIA]], vice director of the
 ## Claims (gerb/weygandt)
 
 - Gerb recaps Inman's alleged remark to Bob Oechsler that recovered UFOs may one day be available for research and his past chairmanship of Wackenhut, the firm said to have trained DOE SRTs ([[doe-special-response-team]]). *([gerb/weygandt](<../raw/gerb/UAP Gerb - 2025-05-16 - 1997 Peru UFO Crash Retrieval - the Story of Jonathan Weygandt.md>) 1:09:10-1:09:37)*
+
+## Claims (gerb/aztec)
+
+- Gerb replays Inman's statement to Coulthart that the US holds craft hardware in operational condition, and his 1989 referral of Bob Oechsler to Heinman and Shapiro, in the Aztec context. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 22:07-24:00)*

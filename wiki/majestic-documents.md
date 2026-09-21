@@ -31,6 +31,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 The corpus of allegedly leaked documents about [[majestic-12]] and related bodies, held by [[ryan-s-wood]] and [[dr-robert-wood]] at majesticdocuments.com (over 30 documents discussed in the video; Gerb says 33-35 of the reports are listed). Gerb's framing: the group and documents cannot be judged without studying origins, content, provenance and links to acknowledged declassified files. The FBI declared the first document "bogus"; skeptics include Philip Klass, and Jan Aldrich criticized the manual. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 0:00, 0:48, 57:25)*
@@ -79,3 +81,7 @@ Coulthart's episode (guests [[geoffrey-cruickshank]], [[jed-davis]]) opens with 
 ## Claims (gerb/navy)
 
 - Gerb, following Jeff Crookshank, reads references to [[project-palladium]] in the JFK "Tur" memo of 28 June 1961 and the 5 November 1961 operation-review document as evidence their author knew a very restricted CIA program. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 1:26:59-1:29:09)*
+
+## Claims (gerb/aztec)
+
+- Gerb covers the IPU field order and report leaked by Thomas Cantwell to [[timothy-cooper]] and a 2017 45-page "DIA" drop retelling Steinman's Aztec story, treated cautiously. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 2:00:29-2:01:20, 2:14:14-2:17:20)*

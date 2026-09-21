@@ -25,6 +25,8 @@ sources:
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md"
     label: "US Navy UFO Crash Retrieval & Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 Rear Admiral Sumner Shapiro, a former Director of Naval Intelligence, sat on the board of
@@ -68,3 +70,7 @@ Shapiro. *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 44:42–45:05)*
 ## Claims (gerb/navy)
 
 - Gerb repeats Oechsler's 1989 meeting in which Shapiro, then a BDM International executive, said factions hold extraterrestrial vehicles he studied at close quarters, that teams took the craft apart, packed them and shipped them to laboratories, and that interlocking components had to be disassembled in exact sequence; the 1990 second meeting ended abruptly when Oechsler showed an alien-head hologram, per Timothy Good. Gerb says he cannot tell whether Shapiro served on NURO and that Shapiro's family did not answer him. *([gerb/navy](<../raw/gerb/UAP Gerb - 2025-04-11 - US Navy UFO Crash Retrieval & Reverse Engineering Programs.md>) 37:57-39:51, 1:38:37-1:38:54)*
+
+## Claims (gerb/aztec)
+
+- Gerb says Shapiro, then retired DNI and BDM executive, told [[bob-oechsler]] in 1989 that teams disassemble recovered craft with unique interlocking parts that must be taken apart in exact sequence and shipped to laboratories, and asks whether this describes Aztec. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 23:55-24:47)*

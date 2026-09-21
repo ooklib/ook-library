@@ -17,6 +17,8 @@ sources:
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md"
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
+  - file: "raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md"
+    label: "The 1948 Aztec, New Mexico UFO Crash Retrieval (UAP Gerb)"
 ---
 
 UFO author, described by Coulthart as Shandera's "ufologist friend", with whom he analyzed the 1984 MJ-12 film and later located the [[cutler-twining-memo]] in the National Archives. *([rc/mj12](<../raw/rc/NewsNation - 2026-04-14 - A secret history - Inside shadow intelligence, the MJ-12 documents  Reality Check.md>) 2:18-2:33, 50:44-51:24)*
@@ -33,3 +35,7 @@ UFO author, described by Coulthart as Shandera's "ufologist friend", with whom h
 
 - Cameron says Moore spoke Russian, was recruited by the CIA at university, told Steinman he did "some work" for them and went back to CIA contacts when he began investigating UFOs; he says two phone calls within ten days after the Roswell tour, one from Kirtland-linked officials, drew him in. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 38:11-39:45, 41:15-41:47)*
 - Cameron says Moore had unbelievable files (some possibly to Greg Bishop) and, when asked for an interview, replied "if I didn't figure it out, nobody's going to figure it out. Give it up." *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 43:44-44:34)*
+
+## Claims (gerb/aztec)
+
+- Gerb notes Moore's 1985 MUFON debunk of Aztec, his 1989 admission of working with US intelligence to seed disinformation, and theories that he and Richard Doty made Majestic documents. *([gerb/aztec](<../raw/gerb/UAP Gerb - 2025-07-19 - The 1948 Aztec, New Mexico UFO Crash Retrieval.md>) 2:06:48-2:07:11, 2:23:16-2:23:32)*
