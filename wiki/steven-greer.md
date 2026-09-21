@@ -61,6 +61,8 @@ sources:
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md"
+    label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -164,3 +166,7 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 ## Claims (gerb/special-forces)
 
 - Gerb repeatedly mines Greer's redacted witness list for corroboration: witness 10622 (Navy radioman, 1968 messages on 11 tracked UAP), 10272 (worked on F-4 radar assemblies at Area 51 and NHI hardware) and 10659 (Vietnam crash retrieval, said to be at the 1954 Edwards landing); Gerb thinks 10659 is a separate person from [[special-forces-witness-infographics]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 2:21-3:10, 8:21-8:46, 17:56-18:21)*
+
+## Claims (gerb/herrera-2)
+
+- Herrera says Greer set up his June 2023 Washington appearance and Daily Mail contact, that he had first met Greer in Boulder in 2017 to ask whether anyone else had a similar experience, and that Greer showed him the insider's text at the event; see [[national-press-club-disclosure-event-2023]] and [[herrera-black-program-insider]]. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:31:38-1:39:21)*

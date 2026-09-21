@@ -89,6 +89,8 @@ sources:
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md"
+    label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -260,3 +262,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/special-forces)
 
 - Video [[gerb-special-forces-video]] (2024-06-16): a line-by-line analysis of the Infographics Show's "US Special Forces Confession" account; Gerb says he tried to contact the Infographics team (short of paying to join their Discord) to learn the witness's identity. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 40:15-44:56)*
+
+## Claims (gerb/herrera-2)
+
+- Video [[gerb-herrera-2-video]] (2024-06-30): an in-person, roughly two-hour interview with [[michael-herrera]] co-hosted with [[joeyisnotmyname]] on lesser-asked details, AARO, squad leader Nathan and the insider; Gerb recounts having shared meals with Herrera and hosted Joey, having privately investigated the case, and having moved from dismissive to engaged. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 0:00-1:30)*

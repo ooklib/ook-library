@@ -22,6 +22,8 @@ sources:
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md"
+    label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
 ---
 
 A national press club conference in Washington, DC on 12 June 2023 hosted by [[steven-greer]], where [[michael-herrera]] testified about a 2009 Indonesia encounter ([[michael-herrera-indonesia-encounter-2009]]). [[jesse-michels]] says [[jake-barber]] attended as part of his crash-retrieval work, having been "sent there on behalf of our employer" to red-team whistleblowers, do threat assessments and report back, possibly for arrest (*([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 37:28-38:44)*).
@@ -47,3 +49,7 @@ A national press club conference in Washington, DC on 12 June 2023 hosted by [[s
 ## Claims (gerb/whistleblowers-2)
 
 - Gerb ([[gerb-whistleblowers-2-video]]) says [[harland-bentley]] appeared at the event (recording from about the 57th minute). *([gerb/whistleblowers-2](<../raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md>) Description, 2:08-2:16)*
+
+## Claims (gerb/herrera-2)
+
+- Herrera dates the two-day pre-event to June 10-11 and the press-club panel to June 12, 2023, with the Daily Mail article published about the 10th or 11th after Greer arranged it; he says he served as volunteer security for Greer, presented his drug hypothesis on the Saturday, and that Greer then showed him the insider's text; the insiders were allegedly in attendance at the weekend. See [[gerb-herrera-2-video]]. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:31:22-1:39:21)*

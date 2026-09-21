@@ -15,6 +15,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md"
+    label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
 ---
 
 An alleged meeting, some time after Herrera's public appearance in 2023, in which [[michael-herrera]] was flown to a "secure facility" to meet the [[herrera-black-program-insider]]. [[joeyisnotmyname]] says he can prove the meeting took place but cannot share the evidence; what happened inside is unverified.
@@ -29,3 +31,8 @@ An alleged meeting, some time after Herrera's public appearance in 2023, in whic
 ## Relationships
 
 - Involves [[michael-herrera]] and [[herrera-black-program-insider]]; investigated by [[joeyisnotmyname]]; discussed in [[gerb-herrera-1-video]].
+
+## Claims (gerb/herrera-2)
+
+- Joey says the conversation the day before gave him a specific starting point (time, place) to track the helicopter on radar and cross-check local events visible from the air, and that he verified it without Herrera knowing; Herrera says the takeoff time he gave matched. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:32:56-1:34:49)*
+- Herrera says the meeting took place after the June 10-12, 2023 Greer event in Washington, where the insiders were allegedly in attendance but he did not meet them directly; the contact came via Greer's phone and a 2 a.m. text. Herrera turned his phone off due to the chip detector, was given a sidearm as a trust gesture, was shown things he cannot yet discuss to prove who the insider was ("mind-blowing"), and says a facility handed to politicians as a "free access card" would prove everything. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:35:46-1:46:47)*

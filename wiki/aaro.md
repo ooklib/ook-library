@@ -48,6 +48,8 @@ sources:
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md"
+    label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
 ---
 
 The DoD's All-domain Anomaly Resolution Office ("Arrow" in the ASR transcript), the official
@@ -182,3 +184,7 @@ and [[condon-committee]]. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:09:03â€
 ## Claims (gerb/special-forces)
 
 - Gerb uses AARO's 1996-2023 reporting trends (most commonly reported configurations, excluding spheres and lights) to check that the egg and bell shapes crash most often in the account of [[special-forces-witness-infographics]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 24:33-24:59)*
+
+## Claims (gerb/herrera-2)
+
+- Herrera says his April 2023 AARO interview was like an interrogation: [[sean-kirkpatrick]] sat in, took no notes and asked only three questions, all the same one (who were the operators), and AARO promised to check satellite imagery but never followed up over a year later. Herrera signed an NDA about the location and other attendees. He calls Historical Report Volume 1's claim that he saw an extraterrestrial vehicle and US special forces a purposeful, blatantly false misrepresentation. See [[herrera-aaro-testimony-2023]]. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:13:53-1:18:04)*

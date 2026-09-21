@@ -51,6 +51,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md"
+    label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
 ---
 
 The "Alien Reproduction Vehicle" (ARV) concept — a human-built craft reverse-engineered from
@@ -147,3 +149,7 @@ recovered nonhuman technology — is most associated in the UFO research communi
 ## Claims (gerb/marines)
 
 - Gerb says that if [[michael-herrera]]'s unmarked men were piloting an ARV, reverse-engineering programs like the Wilson-Davis memo's have succeeded, but Herrera's octagonal craft is unlike the TR-3B; he is unsure humans have reverse engineered NHI tech and thinks a triangle (such as the [[belgian-ufo-wave-1989]] black triangles with three red lights and a central light) is the most plausible human-made craft. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 11:13-12:10, 14:42-16:10)*
+
+## Claims (gerb/herrera-2)
+
+- Herrera relays, from the insiders, that human-built craft ("ARVs") are EMP-proof, resistant to rifle, .50 cal and missile fire, tested on balloons and on the ground, and now so advanced that even the insiders cannot distinguish them from real NHI craft; see [[blue-group-black-group-claims]]. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:55:28-1:57:59)*

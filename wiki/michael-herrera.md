@@ -24,6 +24,8 @@ sources:
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md"
+    label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
 ---
 
 Michael Herrera's official AARO Memorandum for Record allegedly shows he did not claim to
@@ -68,3 +70,12 @@ was represented in [[aaro|AARO]]'s Historical Report Volume 1 under
 ## Claims (gerb/whistleblowers-2)
 
 - Gerb ([[gerb-whistleblowers-2-video]]) compares the pulsating-transformer sound [[harland-bentley]] describes before the 1958 [[nike-ajax-ufo-crash-1958]] to the sound Herrera claimed to experience with a human-made craft in 2009, and lists Herrera among whistleblowers with sworn testimony. *([gerb/whistleblowers-2](<../raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md>) 0:00-0:08, 3:19-3:37)*
+
+## Claims (gerb/herrera-2)
+
+- In [[gerb-herrera-2-video]], an in-person interview co-hosted with [[joeyisnotmyname]], Herrera gives finer detail on the 2009 Indonesia account (see [[michael-herrera-indonesia-encounter-2009]]), on his AARO interview ([[herrera-aaro-testimony-2023]]), on his former team leader's counter-claims ([[nathan-herrera-team-leader]]) and on the insider he met ([[herrera-black-program-insider]], [[herrera-insider-meeting-2023]]). Gerb says he was "super dismissive" in his first video but, after months of talking with Herrera and Joey and sharing meals, has privately investigated the case for some time. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 0:00-1:30)*
+- Herrera says he was a SAW gunner assigned to officers' chow on the USS Denver, was briefed in the wardroom by a female USMC major who showed pictures of a young Obama and his family, was told nothing about radios, and saw the mission as boring security for a supply delivery to a remote village; Joey adds public quotes from the rear admiral and photographs showing armed Marines providing crowd control around helicopters. Herrera says he never saw an Air Force colonel (only a lieutenant colonel) and that the mission lasted a couple of hours. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 39:13-1:08:47)*
+- He says he was not a believer beforehand and wishes the story were made up, since it cost him sleep and hair; he stresses he saw operators and a clearly man-made craft, not extraterrestrials, and contrasts his case with the Doty and Bennewitz story. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:08:47-1:13:49)*
+- Motivation for coming forward: the secrecy, the NDA and the killing and threatening of people over craft, the new whistleblower protections, and a hope his story might connect dots for others; he says he is not making money from it and has documented harassment. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:24:52-1:27:13)*
+- He says he was volunteer security for Greer at the June 2023 press-club weekend and had told Greer he hypothesized drugs in the containers, after which Greer showed him a text from a source who knew what Herrera saw; he later learned the containers held people. See [[national-press-club-disclosure-event-2023]]. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:31:22-1:39:21)*
+- He says he was in contact with [[david-grush]] ("I've talked to him"), that his motivation has shifted to helping the insiders behind the scenes, and that disclosure "is about evidence, not testimony". *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:57:55-2:02:41)*

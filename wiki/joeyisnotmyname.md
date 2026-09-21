@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md"
+    label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
 ---
 
 Joeyisnotmyname is the Reddit and Twitter pseudonym of an independent researcher with a 3D-modeling background who has investigated [[michael-herrera]]'s claims since 2023 and appears as guest in [[gerb-herrera-1-video]]. Everything below is his own account or Gerb's report of it, and much of his evidence is unpublished.
@@ -32,3 +34,9 @@ Joeyisnotmyname is the Reddit and Twitter pseudonym of an independent researcher
 ## Relationships
 
 - Associate of [[uap-gerb]]; investigator of [[michael-herrera]]; appears in [[gerb-herrera-1-video]].
+
+## Claims (gerb/herrera-2)
+
+- Appears in person for the second video ([[gerb-herrera-2-video]]) as co-host and reveals his face for the first time; he says Herrera's account of the operational context (USS Denver, rear admiral quotes, photos of armed Marines and locals mobbing helicopters) checks out. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 0:00-0:30, 50:08-51:35, 2:03:03-2:03:19)*
+- He says he grew more skeptical when Herrera mentioned an insider, made an unannounced recording of a call the day before the meeting, was scared for Herrera, and later verified the flight against radar and local news. See [[herrera-insider-meeting-2023]]. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:27:35-1:29:53, 1:32:56-1:34:49)*
+- Herrera calls him a good networker who introduced him to people; Joey again denies being Herrera's publicist or paid by him and says he is a random private citizen. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 2:02:48-2:04:08)*

@@ -60,6 +60,8 @@ sources:
     label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md"
+    label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
 ---
 
 Described as "disgraced" former director of [[aaro]] (All-domain Anomaly Resolution Office).
@@ -192,3 +194,7 @@ the point where he was first briefed or retroactively briefed into UFO legacy-pr
 ## Claims (gerb/herrera-1)
 
 - Per [[joeyisnotmyname]], [[michael-herrera]] said he testified directly to Kirkpatrick, who was in the room; Gerb and Joey accuse AARO's Historical Report Volume 1 of misrepresenting him, possibly intentionally to avoid a paper trail. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 40:58-46:43)*
+
+## Claims (gerb/herrera-2)
+
+- Herrera says Kirkpatrick attended his AARO interview and seemed uninterested, asking only "who were these operators" three times, and that Kirkpatrick was present at the other whistleblowers' interviews Herrera knows of; Herrera says he did not tell AARO the craft was extraterrestrial or the men US special forces. See [[herrera-aaro-testimony-2023]]. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 1:13:58-1:16:25)*
