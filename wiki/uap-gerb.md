@@ -19,6 +19,8 @@ relations:
     target: majestic-documents
     note: "interviews Ryan S. Wood, 2024-08-25"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: raw/gerb/mitre.md
@@ -136,3 +138,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/iceberg-1)
 
 - Level one of the Reddit obscure-oddities iceberg is covered in [[gerb-iceberg-level-1-video]] (2024-01-12), the first of a six-part series. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 0:01-1:40)*
+
+## Claims (gerb/iceberg-2)
+
+- Level two of the iceberg: [[gerb-iceberg-level-2-video]]. He says he plans to finish the iceberg, polled viewers for private-sector UAP content, and calls Hynek an "OG whistleblower". *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 0:38-0:55, 14:41)*

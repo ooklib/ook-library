@@ -17,6 +17,8 @@ relations:
     target: majestic-12
     note: "named original member"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: "raw/ewa/Eyes Wide Open - 2023-03-23 - THE HISTORY OF THE CIA - The OSS and the Birth of American Intelligence [Pt. 1].md"
     label: "The History of the CIA - The OSS and the Birth of American Intelligence [Pt. 1] (Eyes Wide Open)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
@@ -78,3 +80,7 @@ effectiveness.
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] notes Hillenkoetter's role as CIA's founding director, MJ-12 member and 1950s disclosure activist, and jokes that the reported ship name "Hill and Cott" would be a secret spacecraft named after him. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 46:17-46:39)*
+
+## Claims (gerb/iceberg-2)
+
+- Gerb says McKinnon reported a fleet ship name tied to Hillenkoetter ([[solar-warden-claims]]). *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 38:10-38:27)*

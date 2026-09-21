@@ -12,6 +12,8 @@ relations:
   - relation: alleged_by
     target: uap-gerb
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
 ---
@@ -26,3 +28,7 @@ A method of ranking a civilization's technological advancement by the energy it 
 ## Relationships
 
 - Critiqued from a different angle in [[nhi-civilization-development-model-nell]]; see [[great-filter-hypothesis]].
+
+## Claims (gerb/iceberg-2)
+
+- Gerb links a type II civilization to the [[dyson-sphere]]. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 7:40-8:06)*

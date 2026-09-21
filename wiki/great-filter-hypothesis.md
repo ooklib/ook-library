@@ -10,6 +10,8 @@ relations:
   - relation: part_of
     target: ufo-nuclear-connection
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
@@ -28,3 +30,7 @@ Solution to the Fermi paradox that every civilization passes gates that decide w
 
 - [[uap-gerb]] again raises the great filter (ASR "fmy Paradox"): humans, a primate that recently harnessed nuclear technology and is on the verge of exploring space or destroying itself, would be interesting to study from a distance rather than invade. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 6:41-7:13)*
 - See [[alien-invasion-scenario]].
+
+## Claims (gerb/iceberg-2)
+
+- Gerb lists the great filter (nuclear weapons, AI) among Fermi paradox solutions, with the Dark Forest and others ([[fermi-paradox]]). *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 28:06-29:54)*

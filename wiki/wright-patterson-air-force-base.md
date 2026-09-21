@@ -11,6 +11,8 @@ relations:
     target: roswell-incident-1947
     note: "alleged destination of the Roswell wreckage"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/hidden_wing.md
@@ -91,3 +93,7 @@ and Air Research and Development Command (ARDC) — forerunners of the modern
 ## Additional claims (gerb/corso)
 
 - Distinction between the Air Force ([[air-force-foreign-technology-division]]) and Corso's Army foreign technology division; Corso's Fort Riley sergeant said the crates were heading to Wright Field ([[corso-fort-riley-ebe-sighting-1947]]). *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:00:03-1:00:34, 17:16-17:40)*
+
+## Claims (gerb/iceberg-2)
+
+- Gerb lists claimed links: Roswell debris shipped from Hangar 84 on 5 July 1947, 1949-55 [[battelle-memorial-institute]] analysis, [[ben-rich]]'s 1993 talk, a 1956 Afghanistan landing monitored, Goldwater's 1973 denial and LeMay rebuke, and Rep. Mike Turner opposing the 2024 NDAA UAP amendment. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 4:43-7:40)*

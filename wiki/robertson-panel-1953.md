@@ -11,6 +11,8 @@ relations:
   - relation: analogous_to
     target: project-stork
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: raw/gerb/saic.md
@@ -57,3 +59,7 @@ UFOs." *([gerb/saic](../raw/gerb/saic.md) 13:04–13:18)*
 ## Claims (gerb/iceberg-1)
 
 - [[uap-gerb]] quotes the panel's aim as to "strip the unidentified flying objects of their special status" and the aura of mystery, formed after the [[washington-dc-ufo-incident-1952]], and says this led to the decades-long stigma around UFOs. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 38:11-38:41)*
+
+## Claims (gerb/iceberg-2)
+
+- Gerb says the panel stripped UFOs of special status and fed the swamp-gas/weather-balloon stigma, per [[j-allen-hynek]]'s account. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 12:32-13:56)*

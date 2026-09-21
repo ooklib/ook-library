@@ -14,6 +14,8 @@ relations:
     target: condon-committee
     note: "the 1969 Condon Committee's findings marked the official end of Project Blue Book"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/saic.md
@@ -95,3 +97,7 @@ became **Project Grudge** in 1949 (running until 1951), superseded by **Project 
 ## Claims (jm/cameron)
 
 - Cameron says Blue Book spokesman Colonel Coleman dealt with Emenegger, Robert Friend attended the 1959 Swan session, and Blue Book files on Kecksburg mention project Greengrass: [[holloman-landing-film-claims]], [[frances-swan-channeling-claims]], [[continuity-of-government-ufo-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:00:31-1:00:39, 54:44-55:30, 2:05:37-2:06:15)*
+
+## Claims (gerb/iceberg-2)
+
+- Gerb, via [[j-allen-hynek]]: 12,618 reports analyzed 1952-1969, 701 unexplained; Hynek called it a cover-up and possibly a front for a classified group. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 11:53-13:37)*

@@ -8,6 +8,8 @@ relations:
     target: lockheed-martin
     note: "second director of Skunk Works, 1975-1991"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/lockheed.md
@@ -89,3 +91,7 @@ Lockheed possessed physics-defying, possibly nonhuman-derived technology.
 ## Claims (jm/cameron)
 
 - Cameron says Rich asked Jan Harzan "what do you know about ESP" and answered "everything in time and space is connected", matching Walker's question: [[eric-walker-esp-control-group-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 1:47:29-1:47:44)*
+
+## Claims (gerb/iceberg-2)
+
+- Gerb quotes Rich's 1993 talk at Wright-Patterson that we already have the means to travel among the stars but it is locked in black projects. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 5:31-6:05)*

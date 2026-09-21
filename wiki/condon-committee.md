@@ -11,6 +11,8 @@ relations:
     target: aaro
     note: "Gerb: same playbook again reused in 2022 with AARO"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
@@ -49,3 +51,7 @@ Blue Book]]. Gerb frames it as reusing the same "reduce public concern" playbook
 ## Claims (gerb/iceberg-1)
 
 - [[uap-gerb]] describes it as a government-funded UFO research project at the University of Colorado Boulder that was basically told to explain UFOs away as swamp gas and weather balloons; astronomer [[william-k-hartmann]] nonetheless found the [[mcminnville-ufo-photographs-1950]] extraordinary. Gerb plans a separate video. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 4:12-4:45)*
+
+## Claims (gerb/iceberg-2)
+
+- Gerb says Hynek said the committee ignored key evidence. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 14:02-14:10)*

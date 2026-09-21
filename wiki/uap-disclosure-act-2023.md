@@ -13,6 +13,8 @@ relations:
   - relation: part_of
     target: legacy-program-decay-and-accountability-claims
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
@@ -43,3 +45,7 @@ The UAP Disclosure Act is the Senate bill (sponsored, per [[matthew-pines]], by 
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] says momentum for new disclosure laws, including whistleblower protection for contractors, stalled at the end of last year after key senators were briefed. See [[congressional-oversight-and-read-in-claims-coulthart]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:13:28-1:14:37)*
+
+## Claims (gerb/iceberg-2)
+
+- Gerb says Rep. Mike Turner of Ohio, whose district includes Wright-Patterson, was the biggest proponent of blocking the amendment requiring legacy programs to disclose. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 6:55-7:25)*

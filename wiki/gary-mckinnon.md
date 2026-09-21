@@ -11,6 +11,8 @@ relations:
     target: jesse-michels
     note: "recounted from an earlier interview"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md"
     label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
@@ -32,3 +34,8 @@ Gary McKinnon is the British hacker who in 2001 accessed US military and [[nasa]
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] and [[chris-ramsey]] cite McKinnon as one of the few corroborating anecdotes for a secret space program; Coulthart finds him highly credible and is amused by the reported ship name "Hill and Cott". See [[secret-space-program-claims-coulthart]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 45:54-47:03)*
+
+## Claims (gerb/iceberg-2)
+
+- Gerb says McKinnon hacked 97 US military and NASA computers in 13 months (Feb 2001 to Mar 2002) guessing trivial passwords, acting on [[donna-hair]]'s hint about a Johnson Space Center Building 8 lab; he found "raw" and "processed" image folders and one image of a metallic tubular craft with domes over a blue-white planet, and was caught when his cursor moved on its own. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 35:12-37:27)*
+- Gerb relays McKinnon's finds of a 300-person [[solar-warden-claims]] ledger and "extraterrestrial officers" files, and says [[christopher-mellon]] made similar remarks about tampered 4K satellite footage; Gerb thinks there may be credibility. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 37:36-38:58)*

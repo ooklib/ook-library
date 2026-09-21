@@ -46,6 +46,8 @@ relations:
   - relation: references
     target: hoia-baciu-forest
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
 ---
@@ -62,5 +64,9 @@ sources:
 
 ## Relationships
 
-- Hosted by [[uap-gerb]]; sequel: level two (`gerb/iceberg-2`, not yet ingested).
+- Hosted by [[uap-gerb]]; sequel: level two [[gerb-iceberg-level-2-video]].
 - Links every level-one entry page listed above.
+
+## Claims (gerb/iceberg-2)
+
+- Sequel: [[gerb-iceberg-level-2-video]].
