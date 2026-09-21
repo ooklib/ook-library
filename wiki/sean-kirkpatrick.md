@@ -58,6 +58,8 @@ sources:
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md"
     label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
+    label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
 ---
 
 Described as "disgraced" former director of [[aaro]] (All-domain Anomaly Resolution Office).
@@ -186,3 +188,7 @@ the point where he was first briefed or retroactively briefed into UFO legacy-pr
 ## Claims (gerb/battelle)
 
 - Gerb says Kirkpatrick and AARO reported to [[ronald-moultrie]], a [[battelle-memorial-institute]] board member, and calls Kirkpatrick a modern disinformation agent. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 12:51-14:42)*
+
+## Claims (gerb/herrera-1)
+
+- Per [[joeyisnotmyname]], [[michael-herrera]] said he testified directly to Kirkpatrick, who was in the room; Gerb and Joey accuse AARO's Historical Report Volume 1 of misrepresenting him, possibly intentionally to avoid a paper trail. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 40:58-46:43)*

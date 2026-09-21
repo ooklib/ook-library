@@ -43,6 +43,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
+    label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
 ---
 
 The Wilson-Davis notes are disputed but (per Gerb) "highly likely accurate" notes transcribed
@@ -201,3 +203,7 @@ Gerb's introductory documentary walks through the 15-page notes line by line. Al
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] mentions the Wilson-Davis document as a story of its own that he researched while writing his book, crediting [[james-rigney]] with its release. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 22:32-22:43)*
+
+## Claims (gerb/herrera-1)
+
+- Gerb says the alleged black group's lack of oversight and reach described by the [[herrera-black-program-insider]] mirrors what is said in the Wilson Davis memo. See [[blue-group-black-group-claims]]. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 27:01-27:16)*

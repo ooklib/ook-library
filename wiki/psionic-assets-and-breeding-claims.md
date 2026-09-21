@@ -26,6 +26,8 @@ sources:
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
+    label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
 ---
 
 The discussion in the [[matthew-brown-michels-interview-2026]] of alleged use of humans with psionic potential to lure craft, and the hypothesis that this is cover for selective breeding. Note the framing: the breeding hypothesis is speculation floated mainly by [[jesse-michels]], with [[matthew-brown]] engaging but saying he has no evidence and only "N of one, N of two" stories.
@@ -49,3 +51,7 @@ The discussion in the [[matthew-brown-michels-interview-2026]] of alleged use of
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] links psionic operators to the luring of craft and possibly to jury-rigged non-human craft flown to the moon; see [[craft-downing-and-nhi-casualty-claims-coulthart]], [[secret-space-program-claims-coulthart]], and the [[esalen-inviting-session-skywatcher]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 44:50-45:06, 1:00:26-1:00:53)*
+
+## Claims (gerb/herrera-1)
+
+- Gerb's video relays the insider's claim that the black program recruits "psionic" people (P3), often from third-world countries, in exchange for the security of their families; see [[blue-group-black-group-claims]]. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 27:56-28:20)*

@@ -24,6 +24,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
+    label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
 ---
 
 *Sekret Machines* is the [[tom-delonge]] / [[peter-levenda]] book and project whose thesis, per [[jesse-michels]], is that UAP are "mystical machines" and human consciousness is central. Michels says senior Skunk Works figures Robert Weiss, Steve Justice and Eric Schrock, and Air Force Research Lab commander Neil McCasland, advised it, and that these defense technologists keep returning to consciousness in conversation. *([jm/nasa-pagan](<../raw/jm/Jesse Michels - 2025-09-20 - NASA & UFOs - Pagan Rituals, Secret Science & Time Travel.md>) 58:34-59:26)*
@@ -65,3 +67,7 @@ Levenda discusses the cargo-cult prologue and the alleged Prometheus hint: [[car
 ## Claims (jm/cameron)
 
 - Cameron says Semivan and Kit Green interrogated Tom DeLonge over borderline classified content in his book (unnamed here) before allowing him into To The Stars: [[hillary-clinton-disclosure-plan-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:37:40-2:38:11)*
+
+## Claims (gerb/herrera-1)
+
+- Gerb compares the insider's planned book "Sentinels of Ether" (truth mixed with fiction) to Tom DeLonge's Sekret Machines. See [[herrera-black-program-insider]]. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 32:39-33:05)*

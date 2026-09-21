@@ -18,6 +18,8 @@ sources:
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
+    label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
 ---
 
 The Defense Office of Prepublication and Security Review (DOPSR, spelled "Doppser" in the ASR transcript) is the Defense Department system that clears former personnel's writings for publication. In [[sentinels-of-ether-michels-episode-2026]] [[jesse-michels]] alleges that [[jake-barber]] turned it into a "Trojan horse": he had a ghost writer craft the manuscript, sliced it into 20-page chunks and watched which lines the Pentagon blacked out. This is Michels' account of Barber's strategy, and the redactions are not independently documented.
@@ -39,3 +41,7 @@ The Defense Office of Prepublication and Security Review (DOPSR, spelled "Doppse
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] says [[david-grush]]'s pre-publication security review approved him to discuss "agreements"; see [[human-nhi-agreements-claims-coulthart]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:06:39-1:07:12)*
+
+## Claims (gerb/herrera-1)
+
+- Gerb reports that the [[herrera-black-program-insider]] allegedly had a two-chapter manuscript under DOPSR review and described a strategy of including deep-black details to see whether reviewers flag them, quoting his intent to "put the DoD in a pickle" and gain "inverse intelligence". Gerb compares it to [[david-grush]]'s own DOPSR review of his op-ed and calls it a little sketchy. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 34:00-35:19)*

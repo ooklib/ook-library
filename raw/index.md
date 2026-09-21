@@ -82,7 +82,7 @@ which transcripts still await ingestion.
 | `gerb/kingman` | `raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md` | The 1953 Kingman, Arizona UFO Crash (UAP Gerb) | true |
 | `gerb/knuth` | `raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md` | The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb) | true |
 | `gerb/magenta` | `raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md` | The 1933 Magenta, Italy UFO Crash (UAP Gerb) | true |
-| `gerb/herrera-1` | `raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md` | Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb) | false |
+| `gerb/herrera-1` | `raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md` | Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb) | true |
 | `gerb/sarbacher` | `raw/gerb/UAP Gerb - 2024-04-08 - Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group.md` | Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group (UAP Gerb) | true |
 | `gerb/uso` | `raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md` | USO - Unidentified Submerged Objects (UAP Gerb) | false |
 | `gerb/uso-casebook` | `raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md` | USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb) | false |

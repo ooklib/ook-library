@@ -42,6 +42,8 @@ sources:
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md"
     label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
+    label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
 ---
 
 The DoD's All-domain Anomaly Resolution Office ("Arrow" in the ASR transcript), the official
@@ -162,3 +164,9 @@ and [[condon-committee]]. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:09:03â€
 ## Claims (gerb/battelle)
 
 - Gerb says AARO reported to [[ronald-moultrie]] (a Battelle board member per Gerb) and that its $1.9 million 2022 support contract went to Sand Corp, which Gerb says specializes in preventing leaks. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 12:51-14:03)*
+
+## Claims (gerb/herrera-1)
+
+- Gerb says AARO's Historical Report Volume 1 (March 2024) all but names [[michael-herrera]], summarizing an interviewee who encountered "US Special Forces loading containers onto a large extraterrestrial spacecraft", which he says contains two factual errors (Herrera never said special forces or extraterrestrial), and that Gerb leans toward purposeful disinformation. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 40:58-42:17)*
+- Gerb and [[joeyisnotmyname]] argue the report's page-32 "authentic non-UAP SAP" case (correlated with a platform tested at a military facility, from a precise time and place) is not Herrera, whose event was in remote jungle with an imprecise date and location. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 42:25-43:29)*
+- They say AARO did not record his testimony, only took notes, and carefully avoided accusing any whistleblower of lying, emphasizing belief instead, so it could not be pursued for prosecution. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 43:37-46:43)*

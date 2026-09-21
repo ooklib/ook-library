@@ -19,6 +19,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
+    label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
 ---
 
 *Sentinels of Ether* is a novel of about 120,000 words attributed to [[jake-barber]], ghost-written under the pen name "Alva Douglas" (*([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 8:20-8:29)*). It was submitted in 20-page chunks to the Defense Office of Prepublication and Security Review ([[dopsr-prepublication-review-claims]]), and [[jesse-michels]] says the Pentagon spent six months on the first 20 pages and returned seven pages of redactions, from about 10 percent of the manuscript (*([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 8:29-8:53, 16:32)*). Michels links the manuscript in the episode description and argues the novel is a disguised account of real legacy-program operations. This is Michels' framing and Barber's claim; the book is a work of fiction and none of the plot is independently verified.
@@ -40,3 +42,7 @@ sources:
 
 - Authored by [[jake-barber]]; analyzed in [[sentinels-of-ether-michels-episode-2026]].
 - Compared to [[sekret-machines-project]] as fiction that carries disclosure.
+
+## Claims (gerb/herrera-1)
+
+- Gerb says the insider who met [[michael-herrera]] told him he was writing a book, under a ghostwriter, to mix truth and fiction, titled "Sentinels of Ether", about a 2004 Mexico event where a black-program paramilitary group wipes out a JTF team while moving humans in shipping containers to a hidden mountain base. Gerb compares it to Sekret Machines and finds it a weak corroboration, since it is about a different event. He does not name the author. See [[herrera-black-program-insider]]. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 32:39-34:00)*

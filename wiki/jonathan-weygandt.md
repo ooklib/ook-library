@@ -17,6 +17,8 @@ sources:
     label: "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
+    label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
 ---
 
 USMC Lance Corporal who, during 1997 testimony, described encountering a large egg-shaped UFO
@@ -58,3 +60,7 @@ program). *([gerb/nro](../raw/gerb/nro.md) 1:12:23–1:13:05)*
 ## Claims (gerb/marines)
 
 - Gerb devotes the first case of a short documentary to Weygandt: [[weygandt-peru-crash-encounter-1997]] (egg-shaped craft, DOE-jacketed men, 15-hour interrogation), drawing on his 2001 [[disclosure-project]] interview; he went quiet until 2023. Gerb finds him credible. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 1:07-8:14, 13:19-13:41)*
+
+## Claims (gerb/herrera-1)
+
+- Per [[joeyisnotmyname]], [[michael-herrera]] has spoken with Weygandt; Gerb thinks they likely encountered the same paramilitary group (American dialects, all-black gear, high skill) and, since Weygandt saw DOE rain jackets, suggests a DOE NEST team. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 46:53-47:55)*
