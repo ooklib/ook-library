@@ -11,6 +11,8 @@ relations:
     target: fred-crisman
     note: "central figure"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-11-22 - CIA Historian Aliens Are Controlling Human Timelines! (ft. Peter Levenda).md"
     label: "CIA Historian: Aliens Are Controlling Human Timelines! (ft. Peter Levenda) (Jesse Michels)"
 ---
@@ -29,3 +31,8 @@ The Maury Island affair was a June 1947 Puget Sound UFO report that [[peter-leve
 
 - Figures: [[fred-crisman]], [[guy-banister]], [[clay-shaw]], [[e-howard-hunt]].
 - Related: [[american-orthodox-catholic-church]], [[kennedy-assassination]], [[levenda-michels-interview-2025]].
+
+## Claims (gerb/iceberg-1)
+
+- [[uap-gerb]] retells [[harold-dahl]]'s June 27, 1947 sighting of six donut-shaped objects, the dog killed by debris, and the black-suited man who warned him, as the origin of the Men in Black legend. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 8:54-9:56)*
+- See [[men-in-black-claims]].

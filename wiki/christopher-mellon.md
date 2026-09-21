@@ -19,6 +19,8 @@ relations:
     target: uap-gerb
     note: "Gerb: possibly protecting Mary Sturtevant; associates Mellon with a 2020 Signal exchange naming an SCES2 Air Force gatekeeper"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: raw/gerb/nro.md
     label: "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers (UAP Gerb)"
   - file: raw/gerb/northrop_trw.md
@@ -86,3 +88,8 @@ Levenda met Mellon in Austin; see [[austin-to-the-stars-meeting]]. *([jm/levenda
 ## Claims (jm/nell-pasulka)
 
 - Nell cites Mellon (transcribed "Chris melon"), described as first assistant secretary of defense for intelligence, as saying UFOs are real. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 6:57-7:05)*
+
+## Claims (gerb/iceberg-1)
+
+- [[uap-gerb]] credits Mellon (ASR "Chris melon") with the release of the three Pentagon videos and says he confirmed part of the Gimbal video was never declassified. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 26:39-26:56, 27:35-27:42)*
+- See [[pentagon-ufo-videos-2017]].

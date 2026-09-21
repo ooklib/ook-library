@@ -14,6 +14,8 @@ relations:
     target: project-gravitaur-s4-documentary
     note: "Lazar says he only agreed to the later film after Corbell's"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
@@ -47,3 +49,8 @@ Filmmaker and journalist, co-host with [[george-knapp]] of the Weaponized podcas
 ## Claims (a52/lazar-everything)
 
 - [[bob-lazar]] says he thought Corbell's film would be his last public statement, until [[luigi-vendittelli]] persuaded him to do [[project-gravitaur-s4-documentary]] *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 5:13-5:48)*.
+
+## Claims (gerb/iceberg-1)
+
+- [[uap-gerb]] cites Corbell's 2023 Palm Springs UFO footage as a sighting the flare explanation cannot cover. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 22:47-23:02)*
+- See [[phoenix-lights-1997]].

@@ -19,6 +19,8 @@ relations:
     target: majestic-documents
     note: "interviews Ryan S. Wood, 2024-08-25"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md"
@@ -130,3 +132,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (jm/matthew-brown)
 
 - Michels praises the channel for mapping FFRDCs and SAPs. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:35:47-1:36:30)*
+
+## Claims (gerb/iceberg-1)
+
+- Level one of the Reddit obscure-oddities iceberg is covered in [[gerb-iceberg-level-1-video]] (2024-01-12), the first of a six-part series. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 0:01-1:40)*

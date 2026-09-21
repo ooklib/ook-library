@@ -13,6 +13,8 @@ relations:
     target: angel-contact-events-claims
     note: "maps onto historical angel hierarchies"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
 ---
@@ -31,3 +33,7 @@ Asked by Michels for a modern scientific framework for beings "higher on the con
 
 - Pasulka's angel taxonomies ([[angel-contact-events-claims]]) are the historical counterpart Michels links this to. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 25:36-26:11, 29:11-29:28)*
 - Hub: [[nell-pasulka-hereticon-panel-2024]].
+
+## Claims (gerb/iceberg-1)
+
+- The Kardashev scale that Nell critiques is summarized by [[uap-gerb]] in [[kardashev-scale]]. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 19:32-21:24)*

@@ -7,6 +7,8 @@ relations:
   - relation: part_of
     target: jorjani-michels-interview-2025
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-09-27 - Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani.md"
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
@@ -34,3 +36,7 @@ sources:
 ## Additional claims (jm/jorjani-hitler)
 
 - Jorjani links eugenics, occultism and exotic propulsion to "what the Nordics become" and says Nordic rebels hide in the Colorado Rockies: see [[nordic-rebels-underground-railroad-claims]]. *([jm/jorjani-hitler](<../raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md>) 2:08:25, 2:27:02)*
+
+## Claims (gerb/iceberg-1)
+
+- A different framing of the Nordics: [[uap-gerb]] summarizes them as benevolent, telepathic Pleiadian humanoids of the contactee era; see [[nordic-aliens]]. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 30:39-31:34)*

@@ -14,6 +14,8 @@ relations:
     target: sean-kirkpatrick
     note: "testified to AARO/Kirkpatrick in 2023"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
 ---
@@ -32,3 +34,7 @@ Former USAF lieutenant who says he commanded the optical instrumentation unit at
 
 - Source of the [[jacobs-vandenberg-ufo-incident-1964]]; part of [[ufo-nuclear-connection]].
 
+## Claims (gerb/iceberg-1)
+
+- [[uap-gerb]] cites Lt. Robert Jacobs and his footage of a UFO disabling a nuclear warhead as an example of military men, not suited MIB, blocking UFO information. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 10:11-10:34)*
+- See [[men-in-black-claims]].

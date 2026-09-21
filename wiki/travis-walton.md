@@ -11,6 +11,8 @@ relations:
     target: lazar-sport-model-craft-claims
     note: "host says Walton's craft had similar arches"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
@@ -26,3 +28,7 @@ Travis Walton is the Arizona logger who reported a 1975 abduction; he appears he
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] has not yet interviewed Walton on camera but would like to go through inconsistencies he perceives; he criticises credulous treatment of such witnesses as heroes. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:04:05-2:04:49)*
+
+## Claims (gerb/iceberg-1)
+
+- [[uap-gerb]] calls Walton's abduction story (filmed as *Fire in the Sky*) curious, noting that aboard the craft he meets several being types including grays and a Nordic-like race of tall humanoids; see [[nordic-aliens]]. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 31:34-32:07)*

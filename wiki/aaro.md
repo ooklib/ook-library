@@ -20,6 +20,8 @@ relations:
     target: tim-phillips-aaro
     note: "former deputy director; Gerb theorizes he was a 'useful idiot' partially briefed into the legacy portfolio"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/saic.md
@@ -142,3 +144,7 @@ and [[condon-committee]]. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:09:03â€
 ## Claims (jm/pines)
 
 - Pines says AARO was compromised by "CIA Air Force guys" like Kirkpatrick after the UAP Task Force moved into it, and hearsay of an AARO meeting with a senior former DoD SAP manager ([[ai-and-nhi-communication-claims]]). *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:52:23-2:52:39, 3:47:53-3:49:27)*
+
+## Claims (gerb/iceberg-1)
+
+- [[eric-taber]] submitted a memorandum for record to AARO about an Area 51 project patch and an alleged intact egg-shaped UFO, per [[uap-gerb]]. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 29:35-30:28)*

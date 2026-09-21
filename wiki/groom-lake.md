@@ -14,6 +14,8 @@ relations:
     target: s4-hangars-and-other-craft-claims
     note: "Lazar's description of nine S4 hangars"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
@@ -47,3 +49,8 @@ Groom Lake is the Nevada test site commonly called Area 51. In the 1995 lecture 
 ## Claims (a52/lazar-everything)
 
 - [[bob-lazar]] says he flew on EG&G's Janet plane to Groom Lake and was then bussed about 15-20 minutes south to S4, whose nine hangar doors sit in a hillside, entering by a separate side door; [[luigi-vendittelli]]'s alleged hangar-door photo shows nine doors *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 19:05-19:36, 23:39-25:33, 26:15-26:52)*. See [[lazar-eg-and-g-recruitment-and-s4-access-claims]], [[s4-hangars-and-other-craft-claims]], [[lazar-sport-model-craft-claims]].
+
+## Claims (gerb/iceberg-1)
+
+- [[uap-gerb]] summarizes Area 51 as a highly classified USAF base near Groom Lake and former nuclear test ranges, unacknowledged for decades and officially confirmed only in 2013 when the CIA acknowledged it through a FOIA request; he notes speculation it houses UFO reverse engineering alongside U-2 tests and captured MiGs. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 28:29-29:28)*
+- [[eric-taber]] told [[aaro]] that his great uncle, a radar cross-section team security head, said the base held an intact egg-shaped UFO found in the Nevada desert. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 29:28-30:36)*

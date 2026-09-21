@@ -11,6 +11,8 @@ relations:
     target: aaro
     note: "Gerb: same playbook again reused in 2022 with AARO"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-17 - Did Henry Kissinger Oversee A UFO Crash Retrieval Program.md"
@@ -43,3 +45,7 @@ Blue Book]]. Gerb frames it as reusing the same "reduce public concern" playbook
 ## Claims (jm/nell-pasulka)
 
 - Nell says Edward Condon wrote the study's conclusion before the study was complete and boasted about it, scientists on the study defected publicly, the report's content was at odds with its conclusions, and the Air Force cancelled Blue Book anyway. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 21:15-21:46)* See [[non-disclosure-reasons-nell]].
+
+## Claims (gerb/iceberg-1)
+
+- [[uap-gerb]] describes it as a government-funded UFO research project at the University of Colorado Boulder that was basically told to explain UFOs away as swamp gas and weather balloons; astronomer [[william-k-hartmann]] nonetheless found the [[mcminnville-ufo-photographs-1950]] extraordinary. Gerb plans a separate video. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 4:12-4:45)*

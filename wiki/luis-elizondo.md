@@ -28,6 +28,8 @@ relations:
     target: s4-hangars-and-other-craft-claims
     note: "Ramsey cites his underwater-craft footage claim"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: raw/gerb/saic.md
@@ -184,3 +186,8 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
 ## Claims (a52/lazar-everything)
 
 - [[chris-ramsey]] says Elizondo, a previous guest, described crisp 4K footage of a city-block-sized round object moving about 500 knots underwater near an oil rig, possibly satellite-sourced and part of an AAWSAP/AATIP-type program; second-hand: [[s4-hangars-and-other-craft-claims]] *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 1:40:24-1:41:30)*.
+
+## Claims (gerb/iceberg-1)
+
+- [[uap-gerb]] credits Elizondo (ASR "Lu elando") and [[christopher-mellon]] with the release of the three Pentagon videos. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 26:39-26:56)*
+- See [[pentagon-ufo-videos-2017]].

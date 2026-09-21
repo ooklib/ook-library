@@ -65,7 +65,7 @@ which transcripts still await ingestion.
 | `gerb/secrecy_1` | `raw/gerb/UAP Gerb - 2026-05-01 - The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs [VOL.1].md` | The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb) | true |
 | `gerb/secrecy_2` | `raw/gerb/UAP Gerb - 2026-06-19 - Special Access Required - the Secrecy of UFO Crash Retrieval Programs [VOL.2].md` | Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb) | true |
 | `gerb/wilson-davis` | `raw/gerb/UAP Gerb - 2024-01-09 - The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs.md` | The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb) | true |
-| `gerb/iceberg-1` | `raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md` | The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb) | false |
+| `gerb/iceberg-1` | `raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md` | The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb) | true |
 | `gerb/iceberg-2` | `raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md` | The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb) | false |
 | `gerb/marines` | `raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md` | The Marines Who Got too Close to UFOs (UAP Gerb) | false |
 | `gerb/flight-grounded` | `raw/gerb/UAP Gerb - 2024-01-21 - The First Commercial Flight Grounded Due to UFOs.md` | The First Commercial Flight Grounded Due to UFOs (UAP Gerb) | false |

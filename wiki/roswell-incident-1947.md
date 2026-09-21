@@ -30,6 +30,8 @@ relations:
     target: manhattan-project-2
     note: "Gerb: treats this as the founding event of the alleged 'Manhattan Project 2.0'"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: raw/gerb/mitre.md
     label: "MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs (UAP Gerb)"
   - file: raw/gerb/saic.md
@@ -199,3 +201,8 @@ Levenda says Roswell may have been "exotic human technology" and notes Dornberge
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] says Trump should consider a disclosure around Roswell's anniversary in July, and lists Roswell among known recovery locations. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:17:51-2:18:44)*
+
+## Claims (gerb/iceberg-1)
+
+- [[uap-gerb]] says the gray archetype became popular with the 1947 Roswell crash beings found dead or dying northwest of Roswell, and promises a long Roswell video; he also cites Jesse Marcel and the girl whose fireman father saw the crash as cases where men in military fatigues blocked discussion. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 9:56-10:26, 33:40-33:55)*
+- See [[grey-aliens-claims]], [[men-in-black-claims]].

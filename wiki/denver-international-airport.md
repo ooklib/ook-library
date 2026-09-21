@@ -11,6 +11,8 @@ relations:
     target: deep-underground-military-bases
     note: "named by Schneider among about four underground bases in Colorado"
 sources:
+  - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
+    label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: "raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md"
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
 ---
@@ -20,3 +22,7 @@ In the 1995 Q&A ([[schneider-las-vegas-lecture-1995]]) [[phil-schneider]] answer
 ## Relationships
 
 - Alleged by [[phil-schneider]]; part of [[deep-underground-military-bases]].
+
+## Claims (gerb/iceberg-1)
+
+- [[uap-gerb]] (who lives in Denver) says the airport has leaned into the [[reptilian-claims]] conspiracy with reptile posters. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 26:14-26:32)*
