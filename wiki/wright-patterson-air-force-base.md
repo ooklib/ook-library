@@ -31,6 +31,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
+    label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
 ---
 
 Wright-Patterson Air Force Base in Dayton, Ohio, was headquarters of Air Materiel Command (AMC)
@@ -103,3 +105,7 @@ and Air Research and Development Command (ARDC) — forerunners of the modern
 ## Claims (gerb/moondust)
 
 - Gerb notes that the Moon Dust memos and cables (Nepal 1968, Canada 1976) were addressed to Wright-Patterson, which he calls a hub where UFO crash retrievals are stored, citing Roswell and Goldwater being laughed off when he asked to see the room. *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 5:13-5:30, 6:52-7:32)*
+
+## Claims (gerb/kingman)
+
+- Gerb ([[gerb-kingman-video]]) ties both Kingman witnesses to Wright-Patterson: [[arthur-stansel]] (Air Material Command engineer under [[eric-henry-wang]]) and [[bill-uhouse]] (flight testing and simulator work). *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 0:49-1:04, 7:31-13:22)*

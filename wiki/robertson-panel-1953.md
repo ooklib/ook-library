@@ -29,6 +29,8 @@ sources:
     label: "The Origin of the UFO Stigma (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md"
     label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
+    label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
 ---
 
 A 1953 panel that, per Gerb, "served as a debunking panel to reduce public concern regarding
@@ -85,3 +87,7 @@ UFOs." *([gerb/saic](../raw/gerb/saic.md) 13:04–13:18)*
 ## Claims (gerb/battelle)
 
 - Gerb says [[battelle-memorial-institute]] was commissioned around the time of the panel to analyze all Air Force cases separately under [[project-stork]], which Hynek mentioned at the panel. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 3:00-3:40)*
+
+## Claims (gerb/kingman)
+
+- Gerb ([[gerb-kingman-video]]) says the panel began January 1953, four months before the Kingman crash, to quell public interest, and that AFR 200-2 (three months after Kingman) related to it and plausibly served to keep a lid on crash retrievals. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 11:14-12:16)*

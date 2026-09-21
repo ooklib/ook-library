@@ -26,6 +26,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
+    label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
 ---
 
 Dr. Eric Henry Wang is, per Gerb, one of the most enigmatic figures associated with early-1950s
@@ -105,3 +107,7 @@ and an April 1961 *Mechanical Engineering* magazine obituary that finally fleshe
 ## Claims (jm/cameron)
 
 - Cameron says Wang worked on the program, was moved to Kirtland and died of a heart attack in 1959; Michels says Wang's daughter, extremely religious, remarked it was interesting that all this is coming out now. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 36:38-37:05, 42:46-43:26)*
+
+## Claims (gerb/kingman)
+
+- Gerb ([[gerb-kingman-video]]) says Stansel worked in the Installation Division of Air Material Command's Office of Special Studies headed by Dr. Eric Wang, an Austrian-born Vienna Technical Institute graduate who became director of Special Studies at Wright-Patterson in 1949, worked with the Office of Naval Research, [[vannevar-bush]] and the Research and Development Board, and moved to Kirtland AFB near the time of Upshot-Knothole. Gerb says Wang's role appears in an unclassified Upshot-Knothole document, that records are hard to find, and that Wang allegedly led reverse engineering under Kissinger and was a close associate of Victor "Sherberg" (read as [[victor-schauberger]], an [[operation-paperclip]] scientist per Gerb). *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 9:26-11:14)*

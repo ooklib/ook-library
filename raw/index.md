@@ -79,7 +79,7 @@ which transcripts still await ingestion.
 | `gerb/nell` | `raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md` | SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb) | true |
 | `gerb/battelle` | `raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md` | UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb) | true |
 | `gerb/fastwalkers` | `raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md` | FASTWALKERS - UFOs Outside Earth (UAP Gerb) | true |
-| `gerb/kingman` | `raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md` | The 1953 Kingman, Arizona UFO Crash (UAP Gerb) | false |
+| `gerb/kingman` | `raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md` | The 1953 Kingman, Arizona UFO Crash (UAP Gerb) | true |
 | `gerb/knuth` | `raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md` | The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb) | false |
 | `gerb/magenta` | `raw/gerb/UAP Gerb - 2024-03-18 - The 1933 Magenta, Italy UFO Crash.md` | The 1933 Magenta, Italy UFO Crash (UAP Gerb) | true |
 | `gerb/herrera-1` | `raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md` | Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb) | false |

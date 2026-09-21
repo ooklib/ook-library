@@ -32,6 +32,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
+    label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
 ---
 
 # UFO-Nuclear Connection
@@ -80,3 +82,7 @@ The thesis, presented by [[uap-gerb]] in "UFOs and Nuclear Weapons - A Fascinati
 ## Claims (jm/cameron)
 
 - Cameron's 1975 Manitoba sightings coincided with the North Dakota ABM deployment and the Larson abduction near missile fields: [[carman-manitoba-flap-1975]]. Cameron also cautions that nuclear sites were a 1950s-1960s emphasis and the phenomenon's modality changes over time. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 12:51-15:47, 29:24-30:24)*
+
+## Claims (gerb/kingman)
+
+- Gerb ([[gerb-kingman-video]]) uses the connection to argue a UFO near the Nevada test range after 11 Upshot-Knothole detonations in 1953 is far from surprising, citing Jacobs and Salas. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 12:49-13:16)*

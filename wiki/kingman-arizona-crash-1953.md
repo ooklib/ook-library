@@ -32,6 +32,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
+    label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
 ---
 
 Cited by Gerb as an example of "Southwest systems" used to intake recovered craft around this
@@ -89,3 +91,12 @@ period, associated with [[sandia-national-laboratories|Sandia]]. *([gerb/mitre](
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] lists Kingman among known alleged recovery locations. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:17:51-2:18:44)*
+
+## Claims (gerb/kingman)
+
+- Video: [[gerb-kingman-video]] is Gerb's dedicated investigation, calling it one of his favorite alleged retrievals and noting it first surfaced in 1973, five years before Jesse Marcel's Roswell disclosure. Night of 20 May 1953, north of Kingman, during the 1952-54 UFO wave. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 0:00-1:15, 8:47-9:01)*
+- Stansel's account (as retold by Gerb from Raymond Fowler's 1973 affidavit): about 30 ft oval craft of two inverted saucers in dull brushed-aluminum-like metal, sunk about 20 in into sand with no landing gear, no scratches or dents, a vertically lowered hatch about 3.5 ft by 1.5 ft, two swivel seats seen inside by another team member, a guarded tent with a roughly 4 ft tall dark brown humanoid in a silvery suit and skull cap. Stansel estimated impact at about 1,200 mph. 16 AEC specialists were bused from Phoenix and sworn to secrecy. Details on [[arthur-stansel]]. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 1:15-7:14)*
+- Context Gerb offers: [[operation-upshot-knothole]] tests nearby, the [[robertson-panel-1953]] four months earlier, AFR 200-2 issued three months later (stove-piping reports to USAF intelligence rather than [[project-blue-book]], which Gerb finds plausibly meant to hide crash retrievals), and the [[atomic-energy-act-1954]] used to misclassify UFO material. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 11:14-13:16)*
+- Second witness: [[bill-uhouse]] claimed the 30 meter craft that crashed at Kingman in 1953 was taken to Area 51 ([[groom-lake]]) and its dead pilots to [[los-alamos-national-laboratory]], and that a flying disc simulator was built from it. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 13:16-15:03)*
+- Weaker witnesses: an unnamed pilot who spoke to [[leonard-stringfield]] in 1997, a man codenamed "JLD" in 1994 who died soon after, and Judy Wolcott (claimed her husband, killed in Vietnam, saw a Kingman retrieval), whom [[nick-redfern]] exposed as false (husband alive, daughter said she lied). Gerb says it is unknown whether this was fame-seeking or disinformation. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 17:12-18:44)*
+- Gerb's view: he is drawn to the case but the biologics are where it "gets strange"; he mentions a debunking theory that the USAF crashed remote-controlled aircraft carrying suited chimpanzees to test nuclear cloud effects, which he says does not explain the craft's resistance to deformation at 1,200 mph. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 18:44-19:40)*

@@ -23,6 +23,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
+    label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
 ---
 
 Leonard Stringfield, a UFO crash-retrieval investigator Gerb describes as "legendary," produced
@@ -68,3 +70,7 @@ a series of "Crash Retrieval Status Reports" analyzed throughout the SAIC video.
 ## Additional claims (gerb/tr-3b)
 
 - His crash-retrieval status reports carry a witness claim that [[project-red-light]] tested NHI and reverse-engineered craft on the Nellis range. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 25:20-25:38)*
+
+## Claims (gerb/kingman)
+
+- Per Gerb ([[gerb-kingman-video]]), in 1997 (as stated) a pilot approached Stringfield after a lecture in Cincinnati claiming to have been at the Kingman crash site in 1953 and describing about 4 ft tall, brown-faced beings in silvery suits similar to Stansel's; in 1994 a man codenamed "JLD" made similar claims and died shortly after. Gerb calls these unnamed sources weak. Gerb also links Stringfield's Kingman writings. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 17:15-17:59)*

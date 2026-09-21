@@ -23,6 +23,8 @@ sources:
     label: "Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
+    label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
 ---
 
 Dr. Edward Bushnell Dahl (1912–1998; the source transcript's ASR renders his surname
@@ -76,3 +78,7 @@ study of figures today." *([gerb/northrop_trw](../raw/gerb/northrop_trw.md) 19:2
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb traces Dahl - Project Alberta, Stanford physics chairman, SRI, technical director of AFSWP programs at Upshot-Knothole, TRW/STL from 1955, senior VP of TRW Systems Group until the late 1970s - and says Dahl's TRW Systems Group and its "special projects division" were absorbed into [[northrop-grumman]] Mission Systems in the December 2002 TRW acquisition, thus connecting Kingman to Northrop's modern UFO portfolio. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 42:37-44:59, 2:01:27-2:01:39)*
+
+## Claims (gerb/kingman)
+
+- Gerb ([[gerb-kingman-video]]) transcribes the name as "Dr. Ed Doll/Droll" and says he was project director and physicist for [[operation-upshot-knothole]] at the Nevada Test Site. He telephoned Stansel the evening of 20 May 1953 about a special job; Dahl has died and made no statements about the alleged retrieval. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 2:40-2:56, 9:01-9:26)*

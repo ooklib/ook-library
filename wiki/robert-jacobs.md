@@ -20,6 +20,8 @@ sources:
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md"
     label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
+    label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
 ---
 
 # Robert Jacobs
@@ -44,3 +46,7 @@ Former USAF lieutenant who says he commanded the optical instrumentation unit at
 ## Claims (gerb/flyby)
 
 - Gerb says the saucer in [[flyby-ufo-footage-2008]] is almost identical to the craft Lt. Jacobs describes in his warhead shootdown footage, including a top protrusion like half a ping-pong ball. *([gerb/flyby](<../raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md>) 8:02-8:29)*
+
+## Claims (gerb/kingman)
+
+- Gerb ([[gerb-kingman-video]]) cites Lt. Robert Jacobs, with [[robert-salas]], as context for the UFO and nuclear weapons connection ([[ufo-nuclear-connection]]) that makes a UFO near the Nevada test range in 1953 unsurprising. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 12:49-13:16)*

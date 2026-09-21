@@ -17,6 +17,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
+    label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
 ---
 
 The Atomic Energy Act of 1954 expanded the 1946 Atomic Energy Act's concept of "restricted data"
@@ -74,3 +76,7 @@ ordinary oversight. *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:09:56–1:10:
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb calls 1954 "the most crucial year"; the Act (Aug 1954) introduced special nuclear material and restricted data, giving programs a statutory DOE/AEC container that evades executive-order classification and cannot be unilaterally declassified by the president; he cites Grusch's remark on the vague "sizable amount of atomic energy" definition and "transclassifying" UFO material. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 28:23-29:11, 50:55-52:14)*
+
+## Claims (gerb/kingman)
+
+- Gerb ([[gerb-kingman-video]]) says the 1954 act has been used to misclassify UFO material as "transclassified foreign nuclear material" to avoid declassification, and that the 2024 NDAA Schumer language states the act was used by DoD and legacy programs to protect UFO records and materials. He ties this to the AEC's role in the Kingman case. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 12:16-12:49)*

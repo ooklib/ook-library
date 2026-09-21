@@ -32,6 +32,8 @@ sources:
     label: "Phil Schneider - November 1995 (Full Video) (Yogsoggeth)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
+    label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
 ---
 
 Los Alamos National Laboratory is a DOE/NSA National Laboratory FFRDC founded during the
@@ -75,3 +77,7 @@ Manhattan Project. *([gerb/mitre](../raw/gerb/mitre.md) 19:32–19:37)*
 ## Claims (jm/matthew-brown)
 
 - Brown says anomalous technologies show interest in White Sands and nearby Los Alamos. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:24:41-2:25:07)*
+
+## Claims (gerb/kingman)
+
+- Per [[bill-uhouse]] as relayed by Gerb ([[gerb-kingman-video]]), the dead Kingman pilots were taken to Los Alamos, "part of the AEC". *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 14:47-15:03)*

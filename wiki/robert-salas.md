@@ -15,6 +15,8 @@ sources:
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
+    label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
 ---
 
 # Robert Salas
@@ -32,3 +34,7 @@ Former USAF first lieutenant, on-duty missile launch control officer at [[malmst
 ## Claims (jm/matthew-brown)
 
 - Brown cites Salas' 1967 Malmstrom account (red orb, 9 of 10 missiles in no-go) as a key UFO-nuclear case and rejects the WSJ EMP explanation ([[wall-street-journal-malmstrom-emp-claims]]). *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 21:25-21:54, 1:40:56-1:42:40)*
+
+## Claims (gerb/kingman)
+
+- Gerb ([[gerb-kingman-video]]) cites Salas of Malmstrom AFB with [[robert-jacobs]] as context for a UFO-nuclear link relevant to Kingman. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 12:49-13:16)*

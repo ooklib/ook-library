@@ -47,6 +47,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
+    label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -121,3 +123,7 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 ## Claims (gerb/marines)
 
 - Gerb notes [[jonathan-weygandt]] told his story in a 2001 interview for Greer's [[disclosure-project]], and [[michael-herrera]] first appeared publicly on Greer's 2023 National Press Club panel; Gerb also says Greer likes to press the ARV theory, which Gerb doubts. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 7:51-8:06, 8:47-9:11, 14:42-14:51)*
+
+## Claims (gerb/kingman)
+
+- Gerb ([[gerb-kingman-video]]) notes [[bill-uhouse]] disclosed through Greer's Disclosure Project (October of an unclear year, transcribed "2"), and argues whistleblowers should be judged on verifiable credentials rather than dismissed for Greer's association; Gerb calls Greer egotistical and money-driven but says he platformed many people (Uhouse, Herrera, Bushman) who had no other route, and some like Herrera regretted it. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 13:22-15:56)*

@@ -51,6 +51,8 @@ sources:
     label: "The Origin of the UFO Stigma (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md"
     label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
+    label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
 ---
 
 The Atomic Energy Commission (AEC), created by the 1946 Atomic Energy Act, was the civilian
@@ -176,3 +178,7 @@ administration|NNSA]] UFO legacy-program gatekeeping structure. *([gerb/sandia](
 ## Claims (gerb/battelle)
 
 - Gerb says Battelle's 1949 titanium alloy studies were an AEC research project labeled "restricted" rather than classified, and repeats that UFO records were misclassified under the 1954 atomic energy agreement as transclassified foreign nuclear material. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 7:31-8:43)*
+
+## Claims (gerb/kingman)
+
+- Gerb ([[gerb-kingman-video]]) says the AEC orchestrated the 11-shot [[operation-upshot-knothole]] series in early 1953, and that Stansel was an AEC-contract engineer (16 AEC specialists sworn to secrecy at Kingman); he also notes the AEC's role in the [[atomic-energy-act-1954]] classification claim. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 1:44-2:25, 5:23-5:31, 12:16-12:49)*

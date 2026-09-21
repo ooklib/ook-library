@@ -26,6 +26,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
+    label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
 ---
 
 Groom Lake is the Nevada test site commonly called Area 51. In the 1995 lecture ([[schneider-las-vegas-lecture-1995]]) [[phil-schneider]] says he worked 11 of his 17 government years at "Groom Lake, S-4, S-2", "in the Nellis Air Force Base area" *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 4:40)*. He claims the base has been extended by underground additions, that a small "sport model" flying saucer is occasionally seen there, and that he did ground-only "test piloting" (running aircraft along special runways) *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 9:50, 32:43, 1:01:40)*. He also says photographing the area can get equipment confiscated and bring up to five years and a million-dollar fine, that Nevada is 81 percent federally owned or restricted, and that nine underground mountain bases lie in the Nellis area north of Las Vegas *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 30:37, 53:38)*. He cites a Popular Science article on the "secret air base the government doesn't want you to know" and says an editor of the magazine is now in federal prison (unverified) *([yogsoggeth/schneider](<../raw/yogsoggeth/Yogsoggeth - 2011-04-17 - Phil Schneider - November 1995 (Full Video).md>) 1:01:08)*. Compare [[bob-lazar]]'s S-4 claims and [[popular-mechanics-new-area-51-1997]].
@@ -54,3 +56,7 @@ Groom Lake is the Nevada test site commonly called Area 51. In the 1995 lecture 
 
 - [[uap-gerb]] summarizes Area 51 as a highly classified USAF base near Groom Lake and former nuclear test ranges, unacknowledged for decades and officially confirmed only in 2013 when the CIA acknowledged it through a FOIA request; he notes speculation it houses UFO reverse engineering alongside U-2 tests and captured MiGs. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 28:29-29:28)*
 - [[eric-taber]] told [[aaro]] that his great uncle, a radar cross-section team security head, said the base held an intact egg-shaped UFO found in the Nevada desert. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 29:28-30:36)*
+
+## Claims (gerb/kingman)
+
+- Per [[bill-uhouse]] as relayed by Gerb ([[gerb-kingman-video]]), the Kingman craft was taken to Area 51 at Groom Lake. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 14:39-14:55)*

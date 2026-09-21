@@ -18,6 +18,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
+    label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
 ---
 
 Arthur Stansel is the decorated WWII veteran and engineer who is the primary witness to the alleged 1953 [[kingman-arizona-crash-1953]]. The pseudonym "Fritz Warner" appears in other wiki sources ([[eric-henry-wang]]). In jm/kissinger, [[jesse-michels]] retells his account as the opening of the episode.
@@ -32,3 +34,9 @@ Arthur Stansel is the decorated WWII veteran and engineer who is the primary wit
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Stansel's diary entry about Dahl's "special job tomorrow" is read as showing Dahl directly in charge of the retrieval; Stansel estimated the craft hit the ground at over 1,000 mph with little or no deformation, which Gerb offers as a reason Lockheed could not crack the material for 60+ years. *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 43:39-44:11, 2:11:35-2:11:50)*
+
+## Claims (gerb/kingman)
+
+- Gerb ([[gerb-kingman-video]]) presents Stansel as one of two "extremely credible" Kingman witnesses. Fowler's 1973 affidavit under the pseudonym "Fritz Warner" (also transcribed "Fitz Werner") was signed 7 June 1973 with Fowler as witness, with the identity later confirmed as Arthur Stansel Jr. Gerb notes his name is often misspelled "Stancil". *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 1:15-7:31)*
+- Background per Gerb (from Richard Geldreich Jr.'s Medium research): Wright-Patterson USAF aircraft test/mechanical engineer for Air Material Command, D-Day veteran, worked on the Manhattan Project and 16 years on Apollo, at the Nevada Proving Ground in May 1953. Unlike Bob Lazar, Gerb says his background can be verified. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 7:31-8:40)*
+- Gerb argues the 1973 date rules out Stansel riding the Roswell wave, and stresses he worked in Air Material Command's Installation Division under [[eric-henry-wang]] and reported to [[edward-dahl]]. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 8:47-11:14)*
