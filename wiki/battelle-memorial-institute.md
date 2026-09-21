@@ -38,6 +38,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 Battelle Memorial Institute is a contractor that administers multiple FFRDCs on behalf of the
@@ -104,3 +106,7 @@ DOE and other agencies, and is described by Gerb as "no stranger to this channel
 ## Claims (jm/censored-book)
 
 - Battelle led a [[darpa-n3-program]] team (BrainSTORMS, injectable nanoscale neural interface, with [[air-force-research-laboratory]] and Carnegie Mellon), reaching phase 2 per its 2020 press release; Michels says Battelle is "all over" legacy-program research. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:19:25-1:20:32)*
+
+## Claims (gerb/stigma)
+
+- Gerb says that at the time of the [[robertson-panel-1953]], Battelle (with a stored connection to UFO material analysis in the 1950s) was commissioned separately to review all Air Force UFO case files. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 10:21-10:36)*

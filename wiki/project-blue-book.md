@@ -36,6 +36,8 @@ sources:
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md"
     label: "Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 The historical Air Force UFO-investigation project, referenced as a comparison point: AARO was
@@ -113,3 +115,9 @@ became **Project Grudge** in 1949 (running until 1951), superseded by **Project 
 ## Claims (gerb/air-force-encounters)
 
 - Gerb notes [[project-sign]] (1948) was the earlier USAF project that investigated the [[gorman-dogfight-1948]]. *([gerb/air-force-encounters](<../raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md>) 4:33-5:59)*
+
+## Claims (gerb/stigma)
+
+- Gerb says Blue Book ran 1952 to 1969, "where the true UFO stigma was born", founded to judge whether UFOs threatened national security and to analyze data scientifically; it analyzed 12,618 reports, 701 left unexplained. It followed [[project-sign]] and [[project-grudge]]. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 5:57-7:15)*
+- [[j-allen-hynek]] is cited as saying it was not a scientific project, withheld information and never notified the media of interesting cases, and was essentially a disinformation project and distraction tool. Gerb says Hynek pushed swamp gas and weather balloon explanations nationally. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 6:00-8:12)*
+- Gerb says it was a tool of the [[ufo-stigma]]; head Maj. Hector Quintanilla told the [[house-armed-services-ufo-hearing-1966]] it had no unexplained radar cases, which Gerb calls a lie. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 13:42-14:18)*

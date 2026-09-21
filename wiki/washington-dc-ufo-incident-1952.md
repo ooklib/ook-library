@@ -14,6 +14,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 Mass sightings and radar tracks over Washington, D.C. on July 19-20 and July 26-27, 1952, per [[uap-gerb]]. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 36:27-36:42)*
@@ -27,3 +29,7 @@ Mass sightings and radar tracks over Washington, D.C. on July 19-20 and July 26-
 ## Relationships
 
 - See [[robertson-panel-1953]], [[harry-truman]], [[edward-nugent]].
+
+## Claims (gerb/stigma)
+
+- Gerb calls it one of the most famous mass UFO sightings in US history (December 1952 in his telling; the other flap was in July), with lights and radar signatures over several nights and, he says, a B-52 pilot among witnesses, initially given serious consideration as of ET origin; it drew 148 national newspapers over six months and led to the [[samford-press-conference-1952]]. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 8:12-9:02)*

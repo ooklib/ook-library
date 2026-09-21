@@ -20,6 +20,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md"
     label: "Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 USAF general, leader of Project Sign (aka Project Saucer) in 1948 and a named original [[majestic-12]] member. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 3:34)*
@@ -38,3 +40,7 @@ USAF general, leader of Project Sign (aka Project Saucer) in 1948 and a named or
 ## Claims (gerb/air-force-encounters)
 
 - Gerb cites Twining's letter to Gen. George Schulgen asserting flying discs were "real and not visionary or fictitious" as the reason [[project-sign]] was created. *([gerb/air-force-encounters](<../raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md>) 4:41-5:05)*
+
+## Claims (gerb/stigma)
+
+- Gerb (ASR "twinning") says Twining established [[project-sign]], initially Project Saucer, asserting in a letter to Gen. George Schulgen that flying discs are real and not visionary or fictitious. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 3:10-3:35)*

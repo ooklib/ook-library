@@ -47,6 +47,8 @@ sources:
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md"
     label: "Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 The Atomic Energy Commission (AEC), created by the 1946 Atomic Energy Act, was the civilian
@@ -164,3 +166,7 @@ administration|NNSA]] UFO legacy-program gatekeeping structure. *([gerb/sandia](
 ## Claims (gerb/air-force-encounters)
 
 - Gerb says Project Sign reports were required to go to the AEC (with the Army and Navy R&D Board and the USAF Scientific Advisory Board), and that Sign found Gorman's P-51 measurably radioactive, which it concluded meant flying near an "atomic powered object" before attributing it to less shielding at altitude ([[gorman-dogfight-1948]]). *([gerb/air-force-encounters](<../raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md>) 4:41-5:44)*
+
+## Claims (gerb/stigma)
+
+- Gerb repeats that any official UFO investigation traces to the DOE or its parent, the AEC, noting all [[project-sign]] reports had to be sent to the AEC alongside the Army and Navy R&D Board and the USAF Scientific Advisory Group. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 3:51-4:13)*

@@ -18,6 +18,8 @@ sources:
     label: "MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 J. Allen Hynek (ASR "heinik") is presented by [[uap-gerb]] as the scientific adviser to [[project-blue-book]] and "one of the OG whistleblowers". *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 11:44-12:08, 14:41)*
@@ -36,3 +38,9 @@ J. Allen Hynek (ASR "heinik") is presented by [[uap-gerb]] as the scientific adv
 ## Claims (gerb/moondust)
 
 - Gerb says Hynek, Blue Book's scientific advisor, reached the same conclusion as Ruppelt that a parallel, more complete investigation was being conducted. *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 2:09-2:35)*
+
+## Claims (gerb/stigma)
+
+- Gerb presents him as the scientific adviser to [[project-blue-book]] who self-admittedly took part in the UFO cover-up, whose dissatisfaction with planned debunking was an "open secret", and who called [[project-grudge]] "less science and more of a public relations campaign". He is also quoted on the Robertson Panel being handed the Air Force's unwritten law "Don't rock the boat, play it cool", and on the panel and Condon report ignoring key evidence (25 to 30 percent of Condon's cases unexplained). *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 5:45-8:03,)*
+- At the [[house-armed-services-ufo-hearing-1966]] he asked for a civilian panel of scientists, was denied a seat with [[james-e-mcdonald]], and later listed anomalous radar cases (Goose Bay 1951, Lakenheath 1956, Shreveport 1957) that Blue Book could not explain. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 14:27-15:13)*
+- Gerb opens with a clip of Hynek's three "incontrovertible points" (persistence, global reach in about 140 countries, credible trained witnesses). *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 1:47-2:28)*

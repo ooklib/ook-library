@@ -14,6 +14,8 @@ sources:
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-02-22 - The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) .md"
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 NICAP, the first major civilian UFO-investigation group, is alleged in this source to have been founded by [[thomas-townsend-brown]] on returning from the International Geophysical Year (ASR: "naikap").
@@ -31,3 +33,7 @@ NICAP, the first major civilian UFO-investigation group, is alleged in this sour
 ## Claims (jm/cameron)
 
 - Cameron's material on James McDonald's testimony to Congress and the UN ties to Lundahl's circle: [[james-e-mcdonald]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 45:10-45:27)*
+
+## Claims (gerb/stigma)
+
+- Gerb says NICAP and Donald Keyhoe offered to brief the [[condon-committee]] and share files, and Condon declined many offers; the [[trick-memo-1966]] link in the description points to a NICAP archive document. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 15:39-15:56)*

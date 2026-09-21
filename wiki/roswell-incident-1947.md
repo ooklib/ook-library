@@ -62,6 +62,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -206,3 +208,7 @@ Levenda says Roswell may have been "exotic human technology" and notes Dornberge
 
 - [[uap-gerb]] says the gray archetype became popular with the 1947 Roswell crash beings found dead or dying northwest of Roswell, and promises a long Roswell video; he also cites Jesse Marcel and the girl whose fireman father saw the crash as cases where men in military fatigues blocked discussion. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 9:56-10:26, 33:40-33:55)*
 - See [[grey-aliens-claims]], [[men-in-black-claims]].
+
+## Claims (gerb/stigma)
+
+- Gerb passingly says Gen. Roger M. Ramey ordered Jesse Marcel to pose with fake wreckage to curb the Roswell story, while noting the same Ramey spoke at the [[samford-press-conference-1952]]. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 9:11-9:18)*

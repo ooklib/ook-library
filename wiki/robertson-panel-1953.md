@@ -25,6 +25,8 @@ sources:
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 A 1953 panel that, per Gerb, "served as a debunking panel to reduce public concern regarding
@@ -69,3 +71,11 @@ UFOs." *([gerb/saic](../raw/gerb/saic.md) 13:04–13:18)*
 ## Claims (gerb/kirkpatrick)
 
 - Gerb compares [[sean-kirkpatrick]]'s explaining UAP as Chinese drones to the panel's explaining them as swamp gas and weather balloons (he dates the panel 1954). *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 8:41-8:56)*
+
+## Claims (gerb/stigma)
+
+- Gerb says the CIA and US government formed it in 1953 under the guise of avoiding mass panic and to alter public reaction to UFOs (per Hynek); physicist and CIA consultant Howard P. Robertson reviewed Air Force files from [[project-sign]], [[project-grudge]] and [[project-blue-book]], while [[battelle-memorial-institute]] separately reviewed all Air Force case files. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 9:56-10:36)*
+- It met four times, reviewed 23 of 2,331 cases, watched two films of UFOs and compared them to seagulls, and met USAF Maj. Dewey Fournet, who said he had coordinated UFO affairs for the Pentagon for a year and supported the extraterrestrial hypothesis for some cases. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 10:36-11:22)*
+- Its conclusion: strip UFOs of "special status" and tell the public there is no legitimate evidence. Signatory Thornton Page allegedly admitted (he gives the date as 3 October 1993, which looks like a slip) that the chairman told members to debunk all reports and "reduce public concern". *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 11:22-11:47)*
+- Gerb notes it was held a month after USAF Col. Donald Bower forbade Capt. [[edward-j-ruppelt]] from visiting the CIA Office of Special Investigations to share compelling UFO data, so he concludes its conclusions were predetermined. He also says USAF regulation AFR 200-2 followed, restricting UFO reporting and superseding AFL 200-5 so that confirmed reports went to Air Force intelligence rather than Blue Book, keeping credible sightings from Congress and the public. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 11:47-13:01)*
+- The [[samford-press-conference-1952]] statements are described as flipped by the panel. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 9:56-10:06)*

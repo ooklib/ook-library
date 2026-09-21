@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 James E. McDonald was a University of Arizona atmospheric physicist who testified on UFOs to Congress and the UN. In [[grant-cameron]]'s account he built a large collection (which Cameron went through) and pushed the Johnson White House to commission a UFO study.
@@ -26,3 +28,7 @@ James E. McDonald was a University of Arizona atmospheric physicist who testifie
 ## Relationships
 
 - See [[arthur-lundahl]], [[frances-swan-channeling-claims]].
+
+## Claims (gerb/stigma)
+
+- Gerb says he requested and was denied a seat on the civilian panel Hynek proposed, offered his research files to Condon (declined), made the [[trick-memo-1966]] public in 1967, and called the [[condon-committee]] report inadequate for examining only a tiny fraction of the most puzzling cases. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 14:54-15:56,)*

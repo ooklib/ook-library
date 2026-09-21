@@ -21,6 +21,8 @@ sources:
     label: "Did Henry Kissinger Oversee A UFO Crash Retrieval Program (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 Physicist Edward Condon's 1969 committee marked the official end of [[project-blue-book|Project
@@ -55,3 +57,10 @@ Blue Book]]. Gerb frames it as reusing the same "reduce public concern" playbook
 ## Claims (gerb/iceberg-2)
 
 - Gerb says Hynek said the committee ignored key evidence. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 14:02-14:10)*
+
+## Claims (gerb/stigma)
+
+- Gerb says physicist Edward Condon of CU Boulder was chosen in summer 1966 (for about $313,000) after [[j-allen-hynek]] and [[james-e-mcdonald]] were denied seats, following the [[house-armed-services-ufo-hearing-1966]]; the committee was slow, unfunded, lacked expertise and worked uncoordinated, and Condon declined offers of files from Donald Keyhoe, [[nicap]], McDonald and Hynek. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 14:37-16:11)*
+- Condon said in late 1967 that government should not study UFOs as the subject was nonsense, adding he was not supposed to reach that conclusion for another year; the [[trick-memo-1966]] by second in command Robert J. Low is presented as proof of predetermined conclusions. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 16:11-18:09)*
+- The report's conclusion: nothing from 21 years of UFO study had added to scientific knowledge and further extensive study probably could not be justified. McDonald called it inadequate and only examining a tiny fraction of cases; McDonald and Hynek said it ignored key evidence and could not explain 25 to 30 percent of cases, which Condon's summary neglected. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 18:16-20:02)*
+- Reception: near universal praise in the press (some compared belief in UFOs to belief in flat earth, ghosts and Bigfoot), Science called it the most thorough and sophisticated investigation, the 1969 National Academy of Sciences review endorsed it, and the AIAA agreed in 1970; Gerb says this cemented the [[ufo-stigma]]. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 20:02-21:41)*

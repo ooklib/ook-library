@@ -27,6 +27,8 @@ sources:
     label: "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs VOL.1 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 Air Marshal Hoyt Vandenberg was, per Eyes Wide Open, the second director of the
@@ -55,3 +57,7 @@ US Air Force under the [[national-security-act-1947|National Security Act of 194
 
 - Named as an original [[majestic-12]] member on the Eisenhower Briefing Document roster (ASR "Hoy Vandenberg"). *([gerb/secrecy_1](../raw/gerb/secrecy_1.md) 1:30:54-1:31:26)*
 - Named among the first six members by Gerb and Wood *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 2:46, 3:34, 22:35)*
+
+## Claims (gerb/stigma)
+
+- Gerb says Gen. Hoyt Vandenberg shut [[project-sign]] down in 1949 for "lack of proof". *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 4:13-4:22)*

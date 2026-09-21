@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 1968 Congressional hearings (Gerb: "Mandel Rivers", i.e. Rep. Mendel Rivers's committee). Per Jacques Vallee's *Forbidden Science: Pacific Heights*, [[eric-davis]] says [[george-h-w-bush]] told him he was briefed on legacy programs by "Colonel" (Gerb: likely a typo for General) Trudeau at the time, and that Trudeau said his man [[philip-j-corso]] had been asked to testify to Congress and could reveal rumblings of alien hardware distributed to industrial labs, so the testimony was squashed. *(Unverified, third-hand claim.)* *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 9:55-11:33, 59:32-1:00:03)*
@@ -20,3 +22,7 @@ sources:
 ## Relationships
 
 - Bush briefed by [[arthur-trudeau]]; Corso testimony suppressed; source [[eric-davis]] / [[jacques-vallee]].
+
+## Claims (gerb/stigma)
+
+- Gerb's video covers the earlier 1966 session instead: [[house-armed-services-ufo-hearing-1966]]. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 13:01-13:17)*

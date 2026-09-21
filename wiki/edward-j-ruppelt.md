@@ -19,6 +19,8 @@ sources:
     label: "Presidential Advisor - I Directly Handled UFO Material (ft. Harald Malmgren) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md"
     label: "Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 Air Force Captain Edward J. Ruppelt served as director of Project Grudge and, later,
@@ -48,3 +50,7 @@ depicts sensitive material regarding non-human technical vehicles.
 ## Claims (gerb/air-force-encounters)
 
 - Gerb says Ruppelt, as Project Sign, Grudge and Blue Book director, wrote up the [[gorman-dogfight-1948]] as one of three classic 1948 incidents that "proved to Air Force intelligence specialists that UFOs were real". *([gerb/air-force-encounters](<../raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md>) 0:51-1:13)*
+
+## Claims (gerb/stigma)
+
+- Gerb calls him the future director of Project Blue Book and Grudge who claimed [[project-sign]] endorsed the interplanetary explanation for some cases, and says USAF Col. Donald Bower forbade him from visiting the CIA Office of Special Investigations a month before the [[robertson-panel-1953]]. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 3:43-3:51,)*

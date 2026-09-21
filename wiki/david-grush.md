@@ -68,6 +68,8 @@ sources:
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -289,3 +291,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 ## Claims (gerb/kirkpatrick)
 
 - Gerb says Grusch, liaison to the [[uap-task-force]] from the NRO and NGA, stated multiple times he tried to approach [[aaro]] and [[sean-kirkpatrick]] and never heard back, contradicting the op-ed ([[kirkpatrick-scientific-american-op-ed-2024]]); Gerb chooses to believe him because he testified to Congress. *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 5:23-5:40)*
+
+## Claims (gerb/stigma)
+
+- Gerb ends by tying the alleged sophisticated disinformation campaigns (Sign, Grudge, Blue Book, Robertson, Condon) to what Grusch talks about (a clip is shown). *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 22:56-23:14)*

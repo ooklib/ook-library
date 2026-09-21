@@ -89,6 +89,8 @@ sources:
     label: "The UFO Cover-Up Leads to One Secret Society - and One Final Event (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -217,3 +219,7 @@ shared organization page.
 ## Claims (jm/cameron)
 
 - Cameron describes a CIA "weird desk" lineage and Chase Brandon's Hollywood liaison role: [[cia-weird-desk-claims]], [[chase-brandon]], [[arthur-lundahl]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 45:15-45:55, 1:32:56-1:34:59)*
+
+## Claims (gerb/stigma)
+
+- Gerb alleges the CIA helped steer the [[robertson-panel-1953]] (Robertson as CIA consultant), that [[condon-committee]] second in command Robert J. Low was an alleged CIA asset (see [[trick-memo-1966]]), and that this fed the [[ufo-stigma]]; he also says Capt. Ruppelt was barred from sharing data with the CIA Office of Special Investigations. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 9:56-12:09,)*

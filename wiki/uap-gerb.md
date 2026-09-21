@@ -61,6 +61,8 @@ sources:
     label: "Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md"
     label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
+    label: "The Origin of the UFO Stigma (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -176,3 +178,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/flyby)
 
 - Footage-analysis video ([[gerb-flyby-video]]) on the [[flyby-ufo-footage-2008]] clip and the [[alleged-uaptf-classified-report-leak]]; he is not a CGI expert and asks viewers who are to contact him for a possible part two. *([gerb/flyby](<../raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md>) 0:00-16:54)*
+
+## Claims (gerb/stigma)
+
+- Documentary-style video ([[gerb-stigma-video]]) on the alleged government origin of the [[ufo-stigma]]; he says he read the entire Grudge and Blue Book reports and shares case PDFs by email or Discord. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 0:00-24:34)*
