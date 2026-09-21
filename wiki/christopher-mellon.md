@@ -39,6 +39,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
+    label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
 ---
 
 Former deputy assistant secretary of defense for intelligence and a UFO-disclosure-advocate
@@ -93,3 +95,7 @@ Levenda met Mellon in Austin; see [[austin-to-the-stars-meeting]]. *([jm/levenda
 
 - [[uap-gerb]] credits Mellon (ASR "Chris melon") with the release of the three Pentagon videos and says he confirmed part of the Gimbal video was never declassified. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 26:39-26:56, 27:35-27:42)*
 - See [[pentagon-ufo-videos-2017]].
+
+## Claims (gerb/kirkpatrick)
+
+- Gerb reads out a scathing Mellon tweet disputing Kirkpatrick's claim that no whistleblowers came to AARO: Mellon says he introduced Kirkpatrick to Lou Elizondo, [[eric-davis]] and [[hal-puthoff]], who briefed him for hours in a classified setting with no feedback ([[kirkpatrick-scientific-american-op-ed-2024]]). *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 5:40-6:44)*

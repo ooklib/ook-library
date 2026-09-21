@@ -70,7 +70,7 @@ which transcripts still await ingestion.
 | `gerb/marines` | `raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md` | The Marines Who Got too Close to UFOs (UAP Gerb) | true |
 | `gerb/flight-grounded` | `raw/gerb/UAP Gerb - 2024-01-21 - The First Commercial Flight Grounded Due to UFOs.md` | The First Commercial Flight Grounded Due to UFOs (UAP Gerb) | true |
 | `gerb/moondust` | `raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md` | MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb) | true |
-| `gerb/kirkpatrick` | `raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md` | The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb) | false |
+| `gerb/kirkpatrick` | `raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md` | The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb) | true |
 | `gerb/nukes` | `raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md` | UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb) | true |
 | `gerb/air-force-encounters` | `raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md` | Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb) | false |
 | `gerb/flyby` | `raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md` | Incredible UFO Footage - FLYBY (UAP Gerb) | false |

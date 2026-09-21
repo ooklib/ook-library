@@ -43,6 +43,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md"
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
+    label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
 ---
 
 The Atomic Energy Commission (AEC), created by the 1946 Atomic Energy Act, was the civilian
@@ -152,3 +154,7 @@ administration|NNSA]] UFO legacy-program gatekeeping structure. *([gerb/sandia](
 ## Claims (gerb/marines)
 
 - Gerb says the AEC is named in the 2024 UAP NDAA legislation from Chuck Schumer as the reason UAP records are misclassified as "transclassified foreign nuclear material" and exempt from disclosure, and uses this to lend credibility to the DOE angle of [[weygandt-peru-crash-encounter-1997]]. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 7:08-7:51)*
+
+## Claims (gerb/kirkpatrick)
+
+- Gerb says the 1954 atomic energy agreement is referenced multiple times in the 2024 NDAA and that UAP records were misclassified under the AEC as transclassified foreign nuclear material, which he uses to rebut [[sean-kirkpatrick]]'s "2008 conspiracy" story. *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 5:08-5:23)*

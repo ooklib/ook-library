@@ -27,6 +27,8 @@ sources:
     label: "The Hidden Wing - US Air Force UFO Reverse Engineering Programs (UAP Gerb)"
   - file: raw/gerb/secrecy_2.md
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
+    label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
 ---
 
 Ronald Moultrie, former Under Secretary of Defense for Intelligence and Security, a close
@@ -77,3 +79,7 @@ oversight/direction to it in its early years. *([gerb/mitre](../raw/gerb/mitre.m
   allegedly omits [[mitre-corporation|MITRE]], [[battelle-memorial-institute]], and
   [[bdm-international]] board connections from his public CV/LinkedIn. Held
   [[under-secretary-of-defense-for-intelligence-and-security|USD I&S]], 2021–2023.
+
+## Claims (gerb/kirkpatrick)
+
+- Gerb says [[aaro]] reported to Moultrie (USD for intelligence and security), that Moultrie held a 2022 round table with [[sean-kirkpatrick]] dismissing any extraterrestrial presence, and that his office was involved in securing the 2022 [[sancorp]] contract. *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 1:12-1:20, 2:07-2:16, 10:36-10:52)*

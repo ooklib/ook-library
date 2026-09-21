@@ -66,6 +66,8 @@ sources:
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
+    label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -283,3 +285,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 - Grusch's realisation that a parallel program had been hidden from him blew him away, and a friend in the Pentagon cafeteria nudged him. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:19:16-1:20:01)*
 - Coulthart says a line in Grusch's pre-publication review approved him to discuss "agreements" but he cannot elaborate: [[human-nhi-agreements-claims-coulthart]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:06:07-1:07:12)*
 - Grusch was present at the [[esalen-inviting-session-skywatcher]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 2:21:31-2:23:06)*
+
+## Claims (gerb/kirkpatrick)
+
+- Gerb says Grusch, liaison to the [[uap-task-force]] from the NRO and NGA, stated multiple times he tried to approach [[aaro]] and [[sean-kirkpatrick]] and never heard back, contradicting the op-ed ([[kirkpatrick-scientific-american-op-ed-2024]]); Gerb chooses to believe him because he testified to Congress. *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 5:23-5:40)*

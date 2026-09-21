@@ -36,6 +36,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
+    label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
 ---
 
 Physicist Hal Puthoff sponsored Ferris Williams's propulsion research presented at a June 2001
@@ -104,3 +106,7 @@ At the [[austin-to-the-stars-meeting]] Puthoff reportedly said "we need a SCIF f
 ## Claims (jm/cameron)
 
 - Cameron says Puthoff contacted him after hearing he had Arthur Lundahl's collection and asked for a copy of the list; Michels notes Puthoff ran Stargate from 1972. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 48:29-48:58)*
+
+## Claims (gerb/kirkpatrick)
+
+- Gerb says [[sean-kirkpatrick]]'s op-ed names Puthoff in a 2008 AATIP-centered "conspiracy", while [[christopher-mellon]] says Puthoff spent hours briefing Kirkpatrick in a classified setting and received no feedback ([[kirkpatrick-scientific-american-op-ed-2024]]). *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 3:47-4:10, 6:20-6:37)*

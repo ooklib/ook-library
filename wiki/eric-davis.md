@@ -44,6 +44,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
+    label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
 ---
 
 Dr. Eric Davis is the physicist who transcribed the [[wilson-davis-notes|Wilson-Davis notes]],
@@ -134,3 +136,7 @@ the estate of the late astronaut [[edgar-mitchell|Edgar Mitchell]].
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] notes as a journalist's puzzle that Davis has asserted being briefed by [[george-h-w-bush]] about mantids, reptilians and Nordics, in front of members of Congress; see [[coulthart-experiencer-and-perception-claims]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:10:06-1:11:01)*
+
+## Claims (gerb/kirkpatrick)
+
+- Gerb says [[sean-kirkpatrick]]'s op-ed names Davis in a 2008 AATIP-centered "conspiracy", while [[christopher-mellon]] says Davis spent hours briefing Kirkpatrick in a classified setting and received no feedback ([[kirkpatrick-scientific-american-op-ed-2024]]). *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 3:47-4:10, 6:20-6:37)*

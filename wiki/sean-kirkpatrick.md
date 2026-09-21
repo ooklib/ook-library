@@ -54,6 +54,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
+    label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
 ---
 
 Described as "disgraced" former director of [[aaro]] (All-domain Anomaly Resolution Office).
@@ -171,3 +173,10 @@ the point where he was first briefed or retroactively briefed into UFO legacy-pr
 ## Claims (jm/pines)
 
 - Pines says AARO under Kirkpatrick was "compromised by the CIA Air Force guys". *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 2:52:23-2:52:39)*
+
+## Claims (gerb/kirkpatrick)
+
+- Gerb calls him a "modern-day disinformation agent" and mouthpiece of the DoD over his Scientific American op-ed ([[kirkpatrick-scientific-american-op-ed-2024]], [[gerb-kirkpatrick-video]]); he says Kirkpatrick avoids the term non-human intelligence, uses emotional appeals in a 2023 LinkedIn post, and explains anomalous objects as Chinese drones (a reported "cube within a sphere" as a ball drone), like the [[robertson-panel-1953]] before him. *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 0:00-4:10, 7:56-8:56, 11:57-12:20)*
+- Gerb says Kirkpatrick's claim that no whistleblowers came to [[aaro]] is false, citing [[david-grush]], [[christopher-mellon]] and [[luis-elizondo]]. *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 5:23-7:08)*
+- Gerb speculates he may have been pushed out of AARO as a scapegoat and cites a Ross Coulthart tweet that he registered [[nonlinear-solutions]] LLC on 16 October 2023 at a North Carolina address owned with his wife since 2017, while also registered with DOE's Oak Ridge National Laboratory run by [[battelle-memorial-institute]]. *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 8:56-9:58)*
+- Gerb calls the 2022 $1.9 million [[sancorp]] contract for AARO support the most damning evidence; a quoted LinkedIn post (Anthony Miller) describes Pentagon spokesperson Susan Gough shadowing him at his last public event at George Mason University. *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 10:05-11:48)*

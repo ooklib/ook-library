@@ -38,6 +38,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
+    label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
 ---
 
 The DoD's All-domain Anomaly Resolution Office ("Arrow" in the ASR transcript), the official
@@ -148,3 +150,9 @@ and [[condon-committee]]. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:09:03â€
 ## Claims (gerb/iceberg-1)
 
 - [[eric-taber]] submitted a memorandum for record to AARO about an Area 51 project patch and an alleged intact egg-shaped UFO, per [[uap-gerb]]. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 29:35-30:28)*
+
+## Claims (gerb/kirkpatrick)
+
+- Gerb says AARO reported to [[ronald-moultrie]], had analyzed about 650 cases by April 2023 with no published reports, and had no web page or contact route until the end of 2023. *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 1:12-1:36)*
+- He says a DoD Inspector General release found the DoD has no overarching UAP policy, contradicting [[sean-kirkpatrick]]'s claim of AARO's commitment, and that AARO ignored or turned away whistleblowers who tried to brief it. *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 6:44-7:56)*
+- He calls AARO a disinformation front, citing the 2022 $1.9 million [[sancorp]] award. See [[gerb-kirkpatrick-video]]. *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 10:05-10:52)*

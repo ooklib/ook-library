@@ -58,6 +58,8 @@ sources:
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
+    label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
 ---
 
 Luis Elizondo (ASR-transcribed "Lou Alzando"/"Luis Alzando") claimed to direct, work for, or
@@ -191,3 +193,7 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
 
 - [[uap-gerb]] credits Elizondo (ASR "Lu elando") and [[christopher-mellon]] with the release of the three Pentagon videos. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 26:39-26:56)*
 - See [[pentagon-ufo-videos-2017]].
+
+## Claims (gerb/kirkpatrick)
+
+- In a tweet quoted by Gerb, Elizondo says many people he knows personally briefed [[aaro]] and gave [[sean-kirkpatrick]] detailed information, and that if AARO will not tell Congress the truth, they will. He is described as the former AATIP director whom Kirkpatrick's op-ed names among a 2008 "conspiracy" group ([[kirkpatrick-scientific-american-op-ed-2024]]). *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 3:47-4:10, 6:44-7:08)*

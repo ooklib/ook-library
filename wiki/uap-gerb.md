@@ -55,6 +55,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
+    label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -158,3 +160,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/moondust)
 
 - Documentary on [[project-moon-dust]] ([[gerb-moondust-video]]): he argues it was a UFO crash retrieval program, not only a space-debris recovery one, and says he plans a website archiving his research documents. *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 0:00-14:29)*
+
+## Claims (gerb/kirkpatrick)
+
+- Off-the-cuff rant ([[gerb-kirkpatrick-video]]) calling [[sean-kirkpatrick]] a "modern-day disinformation agent" over his Scientific American op-ed ([[kirkpatrick-scientific-american-op-ed-2024]]); he says he will cover the Wilson-Davis memo and the Moon Dust paper trail in future videos and apologizes for the rough edit. *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 0:00-5:00, 11:57-13:09)*

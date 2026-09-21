@@ -23,6 +23,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
+    label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
 ---
 
 A 1953 panel that, per Gerb, "served as a debunking panel to reduce public concern regarding
@@ -63,3 +65,7 @@ UFOs." *([gerb/saic](../raw/gerb/saic.md) 13:04–13:18)*
 ## Claims (gerb/iceberg-2)
 
 - Gerb says the panel stripped UFOs of special status and fed the swamp-gas/weather-balloon stigma, per [[j-allen-hynek]]'s account. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 12:32-13:56)*
+
+## Claims (gerb/kirkpatrick)
+
+- Gerb compares [[sean-kirkpatrick]]'s explaining UAP as Chinese drones to the panel's explaining them as swamp gas and weather balloons (he dates the panel 1954). *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 8:41-8:56)*
