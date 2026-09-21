@@ -27,6 +27,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md"
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
+    label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
 ---
 
 UFO researcher, author of *Majic Eyes Only*, and (with his father [[dr-robert-wood]]) curator of the Majestic documents site majesticdocuments.com and the site specialoperationsmanual.com. He is the guest of [[uap-gerb]]'s 2024-08-25 video. Gerb calls him one of his biggest inspirations in ufology. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:30:32, 1:31:05)*
@@ -45,3 +47,7 @@ UFO researcher, author of *Majic Eyes Only*, and (with his father [[dr-robert-wo
 
 - Research partner of [[dr-robert-wood]]; builds on [[stanton-friedman]]'s authentication work.
 - Provides the main authenticity case for [[majestic-12]] documents in the [[uap-gerb]] video; see [[majestic-documents]].
+
+## Claims (gerb/whistleblowers-2)
+
+- Gerb ([[gerb-whistleblowers-2-video]]) recommends his book Majic Eyes Only as his crash-retrieval "mecca" and handbook, says he spoke with Wood recently by phone, and says he is not sponsored. *([gerb/whistleblowers-2](<../raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md>) 30:24-30:48)*

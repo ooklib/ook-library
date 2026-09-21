@@ -18,6 +18,8 @@ sources:
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
+    label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
 ---
 
 The Disclosure Project is [[steven-greer]]'s whistleblower-testimony organization, launched publicly at a National Press Club event in 2001 after a private phase codenamed Project Starlight in the mid-1990s. Greer says it holds terabytes of documents and about 760-plus debriefed whistleblowers, published at dpiarchive.com, and that most identities are redacted unless a witness agrees to come forward. *([jm/greer](<../raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md>) 4:22-4:58, 7:31-7:49, 18:21-18:30, 12:55-13:01, 1:40:19-1:40:28)*
@@ -49,3 +51,7 @@ The Disclosure Project is [[steven-greer]]'s whistleblower-testimony organizatio
 ## Claims (gerb/del-rio)
 
 - Gerb cites two redacted entries in [[steven-greer]]'s Disclosure Project witness list involving [[att-corporation]] and ET technology transfer: a witness "from ACC" with knowledge of ET technology transfer to AT&T, and a redacted company president with knowledge of the ET technology transfer program who has been on a radio show and may have useful pseudonyms. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 25:29-26:10)*
+
+## Claims (gerb/whistleblowers-2)
+
+- Gerb ([[gerb-whistleblowers-2-video]]) covers [[harland-bentley]], who first appeared in the project in 2001, and two redacted witness list entries: number 101179 (alleged uncut Frank Borman Apollo 8 film of six UFOs, see [[apollo-8-ufo-encounter-claims]]) and number 10138, which may be [[marine-rb]]. He notes that Greer's links are at dpiarchives.com. *([gerb/whistleblowers-2](<../raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md>) 2:08-2:16, 12:09-13:37, 23:10-23:27)*

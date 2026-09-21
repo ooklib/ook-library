@@ -29,6 +29,8 @@ sources:
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
+    label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
 ---
 
 Leonard Stringfield, a UFO crash-retrieval investigator Gerb describes as "legendary," produced
@@ -86,3 +88,7 @@ a series of "Crash Retrieval Status Reports" analyzed throughout the SAIC video.
 ## Claims (gerb/del-rio)
 
 - Gerb says [[william-draeger]] first appears in Stringfield's crash-retrieval reports under "Del Rio, Texas 1950", though the account clearly concerns the 1955 [[willingham-langtry-crash-1955]], an example of the confusion between the two cases. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 19:24-19:45)*
+
+## Claims (gerb/whistleblowers-2)
+
+- Gerb ([[gerb-whistleblowers-2-video]]) says Stringfield's compilation of [[barry-goldwater]]'s letters on Wright-Patterson, and his UFO Crash Retrieval Status Report 5 case "Marine guards a disc-shaped vehicle 1963" ([[marine-rb]]), are key sources; researcher Michael Schratt gained access to Stringfield's archives in Cincinnati and found the full RB story in his notes. Gerb calls the status reports a "Bible" for him. *([gerb/whistleblowers-2](<../raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md>) 17:23-17:38, 21:53-22:39, 30:40-30:48)*

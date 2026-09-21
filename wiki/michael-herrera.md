@@ -22,6 +22,8 @@ sources:
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
+    label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
 ---
 
 Michael Herrera's official AARO Memorandum for Record allegedly shows he did not claim to
@@ -62,3 +64,7 @@ was represented in [[aaro|AARO]]'s Historical Report Volume 1 under
 - Herrera allegedly used Joey as a dead-man's switch before a secret meeting with a black-program insider; see [[herrera-insider-meeting-2023]] and [[herrera-black-program-insider]]. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 19:24-20:29)*
 - Platoon-mates mostly doubt him, though Joey notes many were not on the ridge; a former team leader supplied a photo alleged to show Herrera on a helicopter without a rifle, which Herrera denies. The Daily Mail article said a fellow Marine declined to come forward by text. Gerb says the first wave of Marines was armed and later ones were not, after an Air Force colonel allegedly objected. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 35:26-40:52)*
 - Gerb says Herrera has spoken to [[jonathan-weygandt]] and thinks they likely met the same paramilitary group. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 46:53-47:55)*
+
+## Claims (gerb/whistleblowers-2)
+
+- Gerb ([[gerb-whistleblowers-2-video]]) compares the pulsating-transformer sound [[harland-bentley]] describes before the 1958 [[nike-ajax-ufo-crash-1958]] to the sound Herrera claimed to experience with a human-made craft in 2009, and lists Herrera among whistleblowers with sworn testimony. *([gerb/whistleblowers-2](<../raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md>) 0:00-0:08, 3:19-3:37)*

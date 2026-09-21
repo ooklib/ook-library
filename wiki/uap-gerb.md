@@ -85,6 +85,8 @@ sources:
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
+    label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -248,3 +250,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/del-rio)
 
 - Video [[gerb-del-rio-video]] (2024-05-17) separates the 1950 and 1955 Del Rio crash cases; Gerb rates the [[robert-willingham]] account weak and speculates about [[att-corporation]]'s role at Sandia. He says he is nearing 5,000 subscribers and may make a video on NHI origins and taxonomy from a deleted [[karl-nell]] slide. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 27:15-29:54)*
+
+## Claims (gerb/whistleblowers-2)
+
+- Video [[gerb-whistleblowers-2-video]] (2024-05-26) is the second whistleblower volume, covering [[harland-bentley]], [[barry-goldwater]]'s Blue Room denial and [[marine-rb]]; Gerb says he is chasing a lead on RB's identity, plans videos on Dan Burisch/Project Aquarius and Wright-Patterson, and does not gatekeep content (Patreon donations optional). *([gerb/whistleblowers-2](<../raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md>) 26:46-31:11)*

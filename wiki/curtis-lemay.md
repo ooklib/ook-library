@@ -24,6 +24,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/jm/Jesse Michels - 2025-05-31 - UFOs & JFK - He Knew Too Much! (Ft. Danny Sheehan).md"
     label: "UFOs & JFK - He Knew Too Much! (ft. Danny Sheehan) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
+    label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
 ---
 
 General Curtis "Bombs Away" LeMay, head of Strategic Air Command, appears in the transcript as the aggressive general [[harald-malmgren]] faced down in the 1962 [[cuban-missile-crisis]], and as an alleged UAP-aware insider.
@@ -53,3 +55,7 @@ General Curtis "Bombs Away" LeMay, head of Strategic Air Command, appears in the
 ## Additional claims (jm/nasa-chief)
 
 - Michels: LeMay "courted Brown constantly". *([jm/nasa-chief](<../raw/jm/Jesse Michels - 2026-03-30 - NASA Chief - We Just Built Antigravity Propulsion!.md>) 4:44-4:57)*
+
+## Claims (gerb/whistleblowers-2)
+
+- [[barry-goldwater]] says LeMay cursed him out and told him never to ask again when he phoned to ask to enter the secret room at Wright-Patterson ([[blue-room-wright-patterson]]); [[uap-gerb]] contrasts this with LeMay's postwar demand that the Air Force develop "unhindered", cites a July 1999 MUFON UFO Journal report placing LeMay at a close encounter between an F-89J Scorpion and a 30 ft object with four blue-white lights at James Connally AFB (it darted up to 990,000 ft), and notes a 1991 response that a Blue Room film was destroyed on 9 September 1965. *([gerb/whistleblowers-2](<../raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md>) 17:00-17:14, 19:45-21:30)*

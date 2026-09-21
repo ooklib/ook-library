@@ -57,6 +57,8 @@ sources:
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
+    label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -152,3 +154,7 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 ## Claims (gerb/del-rio)
 
 - Gerb cites entries in Greer's Disclosure Project witness archive alleging ET technology transfer to [[att-corporation]], and notes Greer has multiple witnesses on such transfers to the company. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 25:29-26:26)*
+
+## Claims (gerb/whistleblowers-2)
+
+- Gerb ([[gerb-whistleblowers-2-video]]) traces Greer's 2009 emails with a French source ("AB", inferred as Alain Boudier of 3AF-Sigma) about an alleged Apollo 8 UFO film and briefing documents for President Sarkozy ([[apollo-8-ufo-encounter-claims]]), and notes that witnesses [[harland-bentley]] and possibly [[marine-rb]] appear on his witness list. *([gerb/whistleblowers-2](<../raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md>) 12:09-15:33, 23:10-23:27)*
