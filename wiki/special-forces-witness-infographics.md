@@ -22,6 +22,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
+    label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
 ---
 
 An anonymous US serviceman, described by [[uap-gerb]] as an elderly man (he puts his age at about 74 or older) who claims to have been a Vietnam-era Army long-range reconnaissance patrol (LRRP) soldier drawn into a covert UFO crash-retrieval organization he calls "the program", out of it about 20 years when interviewed. His account reached the public through the March 2024 Infographics Show video "US Special Forces Confession - I Recovered Crashed UFOs", said to be a composite of interviews and written correspondence. Gerb treats every claim as unverified but finds the timeline consistent with real events, and calls him "our witness". Nothing is known of his real name.
@@ -46,3 +48,7 @@ An anonymous US serviceman, described by [[uap-gerb]] as an elderly man (he puts
 
 - Subject of [[gerb-special-forces-video]]; account centered on [[vietnam-egg-craft-crash-1968]].
 - Speculatively linked by Gerb to [[john-m-riggs]]; claims echo [[david-grush]], [[eric-taber]], [[jonathan-weygandt]], [[witness-ms]] and [[marine-rb]].
+
+## Claims (gerb/coyame)
+
+- Gerb recalls the witness's Korean-War-era program while checking the Indiana man Randall Bishop from [[coyame-wikipedia-mercy11-edits]], and cites the witness's statement that one of the first things done upon receiving a downed craft is send a team to analyze toxicity or hazardous chemicals, contrasting it with the unprotected Mexican team in the [[coyame-crash-1974]]. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 35:32-35:49)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 43:23-43:53)*

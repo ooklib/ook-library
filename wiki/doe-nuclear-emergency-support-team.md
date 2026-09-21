@@ -32,6 +32,8 @@ sources:
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
+    label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
 ---
 
 The US government's premier response unit for radiological/nuclear accidents or incidents,
@@ -94,3 +96,7 @@ authority derives from the 1954 Atomic Energy Agreement. *([gerb/nro](../raw/ger
 ## Claims (gerb/marines)
 
 - Gerb argues the black-fatigue, DOE-jacketed men who arrested [[jonathan-weygandt]] were the DOE Special Response Team ("nuclear commandos", arrest authority, contractors like [[eg-and-g]] in 1997), part of NEST, which combines special forces, scientists, technicians and engineers with US Army 52nd EOD; NEST technical information is protected like SAPs, with the [[national-reconnaissance-office]] and CIA as main intelligence support and DOE contractors such as EG&G, Raytheon and [[lockheed-martin]]. See [[weygandt-peru-crash-encounter-1997]]. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 5:33-7:01, 13:33-14:00)*
+
+## Claims (gerb/coyame)
+
+- Gerb cites two Daily Mail sources told [[chris-sharp]] that JSOC and nuclear experts such as NEST perform craft retrievals, and suggests NEST-like teams in hazmat suits match both [[jonathan-weygandt]]'s 1997 Peru encounter and the recovery team of the [[coyame-crash-1974]]. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 24:19-25:18)*

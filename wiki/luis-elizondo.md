@@ -68,6 +68,8 @@ sources:
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
     label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
+    label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
 ---
 
 Luis Elizondo (ASR-transcribed "Lou Alzando"/"Luis Alzando") claimed to direct, work for, or
@@ -221,3 +223,7 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
 ## Claims (gerb/uso)
 
 - Gerb quotes Elizondo's 2022 interview with astronaut Terry Virts recounting, from an unnamed source, a helicopter crew recovering test-fired Navy cruise missiles above the Puerto Rico Trench who twice saw a huge round black object rise from the depths, the second time pulling the missile under as a frogman climbed the rope. See [[uso-unidentified-submerged-objects]]. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 16:45-18:59)*
+
+## Claims (gerb/coyame)
+
+- Gerb cites Elizondo's statement that unknown UAP programs operated in the 1980s while speculating on who the "Deneb team" of the [[deneb-report]] was. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 16:41-17:03)*

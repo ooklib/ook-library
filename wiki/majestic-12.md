@@ -65,6 +65,8 @@ sources:
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
+    label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
@@ -232,3 +234,7 @@ Levenda tells Stanton Friedman he thinks the MJ-12 documents "look real" and are
 ## Claims (gerb/special-forces)
 
 - Gerb says that if the MJ-12 documents are believed, the program was set up under Truman between roughly 1945 and 1950 and briefed Eisenhower, fitting the Korean War timing given by [[special-forces-witness-infographics]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 10:48-11:18)*
+
+## Claims (gerb/coyame)
+
+- Gerb cites the MJ-12 first annual report (section F, "government policy of control and denial", and the "Research Findings on the Chihuahua Disk Crash" item) on four Sandia technicians who contacted UFO debris and bodies (one collapsed removing a body, one in a coma four hours) and all died of seizures and profuse bleeding at Los Alamos, with a medical adviser calling equipment "wholly inadequate" for a large-scale outbreak of "the alien virus". He uses it as a parallel to the [[coyame-crash-1974]] deaths. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 29:41-30:41)*

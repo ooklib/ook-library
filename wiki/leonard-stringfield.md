@@ -33,6 +33,8 @@ sources:
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
+    label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
 ---
 
 Leonard Stringfield, a UFO crash-retrieval investigator Gerb describes as "legendary," produced
@@ -98,3 +100,7 @@ a series of "Crash Retrieval Status Reports" analyzed throughout the SAIC video.
 ## Claims (gerb/special-forces)
 
 - Gerb draws on Stringfield's status reports as corroboration: report 3 (a 12 April 1954 retrieval 25-30 miles northwest of Roswell, told by witness Ka, who was debriefed for three days and threatened), report 6 (the Kecksburg bell-shaped crash), and reports of Peru (1975) and Argentina (1980) retrievals. See [[south-america-crash-retrievals-claims]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 12:59-13:52, 25:15-25:31, 26:48-28:39)*
+
+## Claims (gerb/coyame)
+
+- Stringfield's Crash Retrieval Status Report 7 part 9 (p. 536) covers the [[coyame-crash-1974]]. In 1994 he said he heard of the Chihuahua case in the late 1970s or early 1980s, with only a vague memory that a US team covertly crossed into Mexico, and that at his 1978 MUFON talk the CIA had circuitously advised against discussing Mexico or West Germany crash information. He received the [[deneb-report]] from [[elaine-douglass]] and judged it authoritative, using correct military terminology and separating hard evidence from speculation. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 1:25-1:53)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 2:10-2:32)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 15:13-16:10)*

@@ -93,6 +93,8 @@ sources:
     label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
+    label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -272,3 +274,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/off-world-tech)
 
 - Video dated 2024-07-17 on [[randy-anderson]]'s Crane testimony, with research help from Reddit user Kermit (frognbadger) on SAIC; Gerb says he is a "nuts and bolts" investigator uncomfortable with consciousness topics, and mentions a second witness "Martin" who described a clear basketball-sized sphere that chose who it interacted with, whom he is now speaking with. See [[gerb-off-world-tech-video]]. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 52:14-54:08)*
+
+## Claims (gerb/coyame)
+
+- Video dated 2024-08-09 on the [[coyame-crash-1974]] ("Mexico's Roswell"), built on the [[deneb-report]] and the books of [[noe-torres]] and [[ruben-uriarte]]; Gerb says he met [[ryan-s-wood]], tried to contact the Mexican official Jesus Alberto about his deleted tweet, and first heard of the case from a UAP Caucus list of crash-retrieval events to bring before Congress. See [[gerb-coyame-video]]. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 39:25-40:30)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 41:40-42:25)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 44:02-44:36)*

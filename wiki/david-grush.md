@@ -78,6 +78,8 @@ sources:
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md"
     label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
+    label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -319,3 +321,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 ## Claims (gerb/herrera-2)
 
 - Herrera says he has talked to Grusch and declines to say more. *([gerb/herrera-2](<../raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md>) 2:02:32-2:02:48)*
+
+## Claims (gerb/coyame)
+
+- Gerb recalls Grusch's claims that crimes were committed to maintain UAP secrecy when raising the possibility that the US team killed the Mexican soldiers in the [[coyame-crash-1974]], and suggests the 1971 Keyhole satellite imagery might be like the classified crash imagery Grusch referred to. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 26:42-26:58)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 28:52-29:10)*

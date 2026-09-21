@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
+    label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
 ---
 
 Coyame (population about 1,230 per [[jesse-michels]]) is a border town in Chihuahua, Mexico, called "Mexico's Roswell" after the book of that name by researchers Noe Torres and Ruben Uriarte (*([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 17:37-18:36)*). It is the setting of the opening of [[sentinels-of-ether]].
@@ -27,3 +29,7 @@ Coyame (population about 1,230 per [[jesse-michels]]) is a border town in Chihua
 ## Relationships
 
 - Setting for [[sentinels-of-ether]] and [[coyame-mountain-base-narrative]]; example of the mountain-linked sites in [[mountain-base-network-claims]].
+
+## Claims (gerb/coyame)
+
+- [[uap-gerb]] covers the alleged 25 August 1974 midair collision near Coyame between a civilian light plane and a disc, the death of a Mexican recovery convoy and a covert CIA-organized US helicopter recovery from Fort Bliss, sourced mainly to the [[deneb-report]]; see [[coyame-crash-1974]] and [[gerb-coyame-video]]. He notes the crash site is an estimated 60 miles from the nearest town. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 0:31-1:19)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 37:58-38:14)*

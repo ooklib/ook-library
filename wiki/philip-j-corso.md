@@ -26,6 +26,8 @@ sources:
     label: "UFO Legacy Programs - Northrop Grumman (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
+    label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
 ---
 
 Lieutenant Colonel Philip J. Corso, author of *The Day After Roswell* and (per Gerb, the more
@@ -84,3 +86,7 @@ amount of fluff inserted by the book's co-writer." *([gerb/mitre](../raw/gerb/mi
 ## Claims (jm/censored-book)
 
 - Per Michels, Corso claimed to be at the Pentagon in the 1950s distributing UFO material to private-sector companies (including Bell Labs); he and his son [[philip-corso-jr]] have described a helmet that steers a UFO by thought. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:09:40-1:10:25)* See [[psychic-joystick-brain-interface-claims]].
+
+## Claims (gerb/coyame)
+
+- Gerb notes Corso's *The Day After Roswell* says debris and bodies from the 1947 Roswell crash went to Fort Bliss, Texas, the staging base of the US recovery team in the [[coyame-crash-1974]] (few other Fort Bliss UAP links exist beyond a handful of Blue Book cases). *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 25:47-26:18)*

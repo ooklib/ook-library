@@ -91,6 +91,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
     label: "The Origin of the UFO Stigma (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
+    label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
 ---
 
 The Central Intelligence Agency, one of the US's "big five" intelligence agencies, appears
@@ -223,3 +225,7 @@ shared organization page.
 ## Claims (gerb/stigma)
 
 - Gerb alleges the CIA helped steer the [[robertson-panel-1953]] (Robertson as CIA consultant), that [[condon-committee]] second in command Robert J. Low was an alleged CIA asset (see [[trick-memo-1966]]), and that this fed the [[ufo-stigma]]; he also says Capt. Ruppelt was barred from sharing data with the CIA Office of Special Investigations. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 9:56-12:09,)*
+
+## Claims (gerb/coyame)
+
+- In the [[deneb-report]] the CIA allegedly received radio interceptions about the [[coyame-crash-1974]] and rapidly assembled a recovery team at Fort Bliss, which Gerb reads as evidence of a rehearsed or prior-performed exercise. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 6:50-7:15)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 21:29-21:53)*

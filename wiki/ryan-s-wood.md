@@ -33,6 +33,8 @@ sources:
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md"
     label: "Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
+    label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
 ---
 
 UFO researcher, author of *Majic Eyes Only*, and (with his father [[dr-robert-wood]]) curator of the Majestic documents site majesticdocuments.com and the site specialoperationsmanual.com. He is the guest of [[uap-gerb]]'s 2024-08-25 video. Gerb calls him one of his biggest inspirations in ufology. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:30:32, 1:31:05)*
@@ -63,3 +65,7 @@ UFO researcher, author of *Majic Eyes Only*, and (with his father [[dr-robert-wo
 ## Claims (gerb/off-world-tech)
 
 - Gerb cites his book Majic Eyes Only on the MJ-12 SOM1-01 manual and the alleged FDR memorandum "Special Committee on Non-Terrestrial Science and Technology" (continuing "already hardened research for advanced weapons"), whose title Gerb says resembles the [[off-world-technologies-division]]; the memo names [[vannevar-bush]]. *([gerb/off-world-tech](<../raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md>) 40:58-41:55)*
+
+## Claims (gerb/coyame)
+
+- Gerb cites Wood's *Majic Eyes Only* as giving the [[coyame-crash-1974]] a "medium to high" level of authenticity, uses his Majestic-12 files for the first annual report and IPU summary contamination passages, met Wood in person, is learning from him how to access service records to check the names in [[coyame-wikipedia-mercy11-edits]], and announces a comprehensive MJ-12 documents video with him plus one on the [[special-operations-manual-som1-01]]. Wood does not hold copies of the original [[deneb-report]] either. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 1:19-1:53)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 29:41-31:37)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 37:16-37:25)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 41:40-42:25)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 45:15-46:05)*

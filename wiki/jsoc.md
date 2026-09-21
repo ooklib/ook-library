@@ -25,6 +25,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
+    label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
 ---
 
 Joint Special Operations Command. Gerb and journalist [[chris-sharp]] have accused JSOC
@@ -72,3 +74,7 @@ elements of participating in foreign UFO crash-retrieval operations alongside th
 ## Claims (jm/censored-book)
 
 - In [[sentinels-of-ether]], JSOC's operations center at Pope Air Force Base and its commander (named as General Dale Steinmaker) react to the black-on-black killing at Coyame; the CIA's Office of Global Access is rumored to coordinate closely with JSOC and NEST on crash retrievals. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 26:26-28:00, 43:57-44:13)* See [[coyame-mountain-base-narrative]].
+
+## Claims (gerb/coyame)
+
+- Gerb notes [[chris-sharp]]'s article claims the CIA's [[cia-office-of-global-access]] coordinates with JSOC to collect craft, and compares this to the 1974 US team of the [[coyame-crash-1974]]. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 21:45-22:16)*

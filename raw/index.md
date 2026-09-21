@@ -92,7 +92,7 @@ which transcripts still await ingestion.
 | `gerb/special-forces` | `raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md` | US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb) | true |
 | `gerb/herrera-2` | `raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md` | Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb) | true |
 | `gerb/off-world-tech` | `raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md` | Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb) | true |
-| `gerb/coyame` | `raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md` | The 1974 Coyame, Mexico UFO Crash (UAP Gerb) | false |
+| `gerb/coyame` | `raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md` | The 1974 Coyame, Mexico UFO Crash (UAP Gerb) | true |
 | `gerb/mj12` | `raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md` | The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb) | true |
 | `gerb/kecksburg` | `raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md` | The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb) | false |
 | `gerb/edwards-afb` | `raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md` | UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb) | false |

@@ -105,6 +105,8 @@ sources:
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
+    label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -364,3 +366,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Claims (gerb/special-forces)
 
 - Gerb cites Bernard Haisch naming Lockheed Martin, Raytheon, Northrop and TRW among the major aerospace companies where legacy UAP programs hide, in connection with the contractor co-op sites described by [[special-forces-witness-infographics]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 22:44-23:02)*
+
+## Claims (gerb/coyame)
+
+- In the [[deneb-report]] story of the [[coyame-crash-1974]] the recovered disc's convoy destination was reportedly Atlanta, Georgia; Gerb notes Lockheed Martin's Air Force Plant 6 in Marietta (Skunk Works advanced-development work and C-130 work since the 1950s, via predecessor Lockheed) and the closed Lockheed Georgia Nuclear Aircraft Laboratory (AFP 67, closed 1971), calling it an interesting connection only, with no evidence of involvement. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 23:26-24:19)*

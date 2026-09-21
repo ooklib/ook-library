@@ -21,6 +21,8 @@ sources:
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
+    label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
 ---
 
 USMC Lance Corporal who, during 1997 testimony, described encountering a large egg-shaped UFO
@@ -70,3 +72,7 @@ program). *([gerb/nro](../raw/gerb/nro.md) 1:12:23–1:13:05)*
 ## Claims (gerb/special-forces)
 
 - Gerb compares the molten, mother-of-pearl skin of the craft Weygandt saw in Peru in 1997 to the glowing, melting appearance of the Vietnam craft in [[vietnam-egg-craft-crash-1968]], and cites his egg-shaped craft as credible, alongside [[eric-taber]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 7:25-7:40, 24:59-25:07)*
+
+## Claims (gerb/coyame)
+
+- Gerb compares the hazmat suits and Weygandt's alleged intense unexplainable fear near the craft to the bio-protection suits of the US team in the [[coyame-crash-1974]], and the CIA counternarcotics context of Operation Laser Strike (1997). *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 24:26-25:18)*

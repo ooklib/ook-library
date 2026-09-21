@@ -64,6 +64,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
+    label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
 ---
 
 The National Reconnaissance Office develops, acquires, launches, and operates US intelligence
@@ -230,3 +232,7 @@ shared office threads Gerb draws between them. *([gerb/nro](../raw/gerb/nro.md)
 ## Claims (jm/matthew-brown)
 
 - Brown says Sentient (NRO) integrates with IMCON; see [[imcon-briefing-account-brown]]. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 59:21-1:00:16)*
+
+## Claims (gerb/coyame)
+
+- Gerb notes the satellite imagery of the [[coyame-crash-1974]] convoy probably came from Keyhole spy satellites in orbit since about 1971, primarily operated by the NRO. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 26:34-26:50)*

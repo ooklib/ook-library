@@ -27,6 +27,8 @@ sources:
     label: "A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check (NewsNation)"
   - file: "raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md"
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md"
+    label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
 ---
 
 The Interplanetary Phenomenon Unit (IPU) is a disputed but partially Army-corroborated 1940s–1950s
@@ -94,3 +96,7 @@ alleged "Manhattan Project 2.0" onion. *([gerb/secrecy_1](../raw/gerb/secrecy_1.
 ## Additional claims (gerb/corso)
 
 - Gerb compares the untraceable [[army-foreign-technology-division]] to the IPU, known only through FOIA and institutional memory. *([gerb/corso](<../raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md>) 1:01:44-1:02:01)*
+
+## Claims (gerb/coyame)
+
+- Gerb cites the IPU summary in Ryan S. Wood's Majestic-12 files as saying all recovery personnel operated on strict need to know, mentions severe nervous breakdowns and suicides by MPs, and says ground personnel from Sandia were contaminated, killing three technicians; he uses this to frame the deaths of the Mexican team in the [[coyame-crash-1974]] and promises a dedicated IPU video. *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 30:41-31:37)* *([gerb/coyame](<../raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md>) 45:33-45:41)*
