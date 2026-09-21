@@ -49,6 +49,8 @@ sources:
     label: "Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
     label: "The Origin of the UFO Stigma (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md"
+    label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
 ---
 
 The Atomic Energy Commission (AEC), created by the 1946 Atomic Energy Act, was the civilian
@@ -170,3 +172,7 @@ administration|NNSA]] UFO legacy-program gatekeeping structure. *([gerb/sandia](
 ## Claims (gerb/stigma)
 
 - Gerb repeats that any official UFO investigation traces to the DOE or its parent, the AEC, noting all [[project-sign]] reports had to be sent to the AEC alongside the Army and Navy R&D Board and the USAF Scientific Advisory Group. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 3:51-4:13)*
+
+## Claims (gerb/battelle)
+
+- Gerb says Battelle's 1949 titanium alloy studies were an AEC research project labeled "restricted" rather than classified, and repeats that UFO records were misclassified under the 1954 atomic energy agreement as transclassified foreign nuclear material. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 7:31-8:43)*

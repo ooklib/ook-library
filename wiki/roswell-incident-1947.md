@@ -64,6 +64,8 @@ sources:
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
     label: "The Origin of the UFO Stigma (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md"
+    label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
 ---
 
 The July 1947 Roswell, New Mexico incident — one or several alleged crashes of flying discs
@@ -212,3 +214,7 @@ Levenda says Roswell may have been "exotic human technology" and notes Dornberge
 ## Claims (gerb/stigma)
 
 - Gerb passingly says Gen. Roger M. Ramey ordered Jesse Marcel to pose with fake wreckage to curb the Roswell story, while noting the same Ramey spoke at the [[samford-press-conference-1952]]. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 9:11-9:18)*
+
+## Claims (gerb/battelle)
+
+- Gerb infers that Roswell material (light, shape-retaining metal per Jesse Marcel, reportedly shipped to Wright-Patterson) led to the discovery of nitinol and to Battelle's 1949 analysis contract; see [[battelle-nitinol-study-1949]] and [[ej-center]]. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 6:26-7:31, 10:24-11:10)*

@@ -27,6 +27,8 @@ sources:
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
     label: "The Origin of the UFO Stigma (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md"
+    label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
 ---
 
 A 1953 panel that, per Gerb, "served as a debunking panel to reduce public concern regarding
@@ -79,3 +81,7 @@ UFOs." *([gerb/saic](../raw/gerb/saic.md) 13:04–13:18)*
 - Its conclusion: strip UFOs of "special status" and tell the public there is no legitimate evidence. Signatory Thornton Page allegedly admitted (he gives the date as 3 October 1993, which looks like a slip) that the chairman told members to debunk all reports and "reduce public concern". *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 11:22-11:47)*
 - Gerb notes it was held a month after USAF Col. Donald Bower forbade Capt. [[edward-j-ruppelt]] from visiting the CIA Office of Special Investigations to share compelling UFO data, so he concludes its conclusions were predetermined. He also says USAF regulation AFR 200-2 followed, restricting UFO reporting and superseding AFL 200-5 so that confirmed reports went to Air Force intelligence rather than Blue Book, keeping credible sightings from Congress and the public. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 11:47-13:01)*
 - The [[samford-press-conference-1952]] statements are described as flipped by the panel. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 9:56-10:06)*
+
+## Claims (gerb/battelle)
+
+- Gerb says [[battelle-memorial-institute]] was commissioned around the time of the panel to analyze all Air Force cases separately under [[project-stork]], which Hynek mentioned at the panel. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 3:00-3:40)*

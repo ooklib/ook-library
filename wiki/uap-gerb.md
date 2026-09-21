@@ -67,6 +67,8 @@ sources:
     label: "Incredible UFO Footage - METAPOD (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md"
     label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md"
+    label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -194,3 +196,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/nell)
 
 - Commentary video ([[gerb-nell-video]]) breaking down [[karl-nell]]'s [[sol-foundation]] talk on the Schumer Amendment and controlled disclosure; Gerb speculates Nell may have been one of Grusch's 40 witnesses and calls the omitted slides astounding. He says he has covered the Schumer Amendment in almost every video and promises follow-ups on other SOL Foundation talks. *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 2:37-3:00, 18:46-21:49)*
+
+## Claims (gerb/battelle)
+
+- Commentary video ([[gerb-battelle-video]]) opening a private-sector series with [[battelle-memorial-institute]]: Project Stork, Special Report 14, the 1949 nitinol contract, [[ej-center]], Vallee's hint, and Moultrie's Battelle board seat; he promises videos on Lockheed Martin and the Carlyle Group. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 0:00-1:26, 15:34-15:51)*

@@ -32,6 +32,8 @@ sources:
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md"
+    label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
 ---
 
 Jacques Vallee is the French-American computer scientist and ufologist whose books (notably Messengers of Deception) and published journals are the main intellectual frame for guest [[jason-samosa]] in the `jm/cover-up` episode. The episode uses him as a source for a "control system" or belief-shaping reading of UFOs, for the AAWSAP-era journals, and as validation of the Tom DeLonge/Podesta story. This page records what the episode attributes to him; the wiki treats these as claims about his positions.
@@ -89,3 +91,7 @@ Levenda met Vallee at the Austin meeting and says Vallee's "control mechanism" i
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] says Vallee has long argued the phenomenon manipulates human perception, as the "slide 9" briefing also indicated. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:44:34-1:45:11)*
+
+## Claims (gerb/battelle)
+
+- Gerb cites Vallee on Joe Rogan Experience (episode 1574, 4 December 2020, with [[james-fox]]) saying a private contractor helps control the phenomenon, nervously declining to name who holds UFO materials, while Fox alluded to the group in the Robertson Panel, which Gerb reads as [[battelle-memorial-institute]]. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 11:12-12:47)*

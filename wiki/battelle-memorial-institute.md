@@ -40,6 +40,10 @@ sources:
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
     label: "The Origin of the UFO Stigma (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md"
+    label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
+  - file: raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md
+    label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
 ---
 
 Battelle Memorial Institute is a contractor that administers multiple FFRDCs on behalf of the
@@ -110,3 +114,12 @@ DOE and other agencies, and is described by Gerb as "no stranger to this channel
 ## Claims (gerb/stigma)
 
 - Gerb says that at the time of the [[robertson-panel-1953]], Battelle (with a stored connection to UFO material analysis in the 1950s) was commissioned separately to review all Air Force UFO case files. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 10:21-10:36)*
+
+## Claims (gerb/battelle)
+
+- Gerb calls Battelle the first private-sector company he investigates: a non-profit with classified SAP work, Manhattan Project uranium fabrication (1942-1952), the photocopier and UPC barcode, Apollo 11 work and chemical/biological defense research, and today manager of NBACC at Los Alamos, NREL and Oak Ridge. He alleges it studied UFOs, aided the USG and USAF cover-up and analyzed UFO material. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 0:00-1:26)*
+- Gerb says a 1952 memo to the CIA director ("flying saucers") described an ATIC arrangement for Battelle to build a machine indexing system for UFO reports ([[project-stork]]), and that on 9 January 1953 Battelle's Dr. Howard C. Cross proposed the project "assist the Air Force in reassuring the public that everything is well under control"; Battelle also produced [[special-report-14]] (1955). *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 1:56-3:49)*
+- Gerb alleges Battelle's 1949 nickel-titanium contract ([[battelle-nitinol-study-1949]]) concerned Roswell-derived shape-memory metal, and that chemist [[ej-center]] reportedly worked on flying-saucer parts. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 4:16-11:10)*
+- Gerb says [[jacques-vallee]] on Joe Rogan (with [[james-fox]] prompting via the Robertson Panel) hinted that a private contractor holds UFO materials, which he reads as Battelle. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 11:12-12:47)*
+- Gerb says [[ronald-moultrie]] has been a Battelle board member since 2016 and scrubbed it from his LinkedIn, with POGO screenshots as evidence, and that [[aaro]] and [[sean-kirkpatrick]] reported to him; he also says AARO's 2022 $1.9 million support contract to a firm called Sand Corp (specializing in preventing leaks, per Gerb) was overseen by Moultrie. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 12:51-14:42)*
+- Gerb mentions an online 2023 leaker claiming to be a Battelle biologist working on extraterrestrial biological organisms, which he did not examine for lack of evidence. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 15:51-16:47)*

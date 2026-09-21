@@ -29,6 +29,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md"
+    label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
 ---
 
 Ronald Moultrie, former Under Secretary of Defense for Intelligence and Security, a close
@@ -83,3 +85,7 @@ oversight/direction to it in its early years. *([gerb/mitre](../raw/gerb/mitre.m
 ## Claims (gerb/kirkpatrick)
 
 - Gerb says [[aaro]] reported to Moultrie (USD for intelligence and security), that Moultrie held a 2022 round table with [[sean-kirkpatrick]] dismissing any extraterrestrial presence, and that his office was involved in securing the 2022 [[sancorp]] contract. *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 1:12-1:20, 2:07-2:16, 10:36-10:52)*
+
+## Claims (gerb/battelle)
+
+- Gerb says Moultrie is a [[battelle-memorial-institute]] board member since 2016 who removed it from his LinkedIn (POGO had stated it and Gerb took screenshots), that AARO and Kirkpatrick reported to him, that he oversaw AARO's $1.9 million Sand Corp contract, and that on 16 December 2022 he and Kirkpatrick said they had seen no evidence of crashed UFOs of extraterrestrial origin. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 12:51-14:42)*

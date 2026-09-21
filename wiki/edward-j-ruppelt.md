@@ -21,6 +21,8 @@ sources:
     label: "Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
     label: "The Origin of the UFO Stigma (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md"
+    label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
 ---
 
 Air Force Captain Edward J. Ruppelt served as director of Project Grudge and, later,
@@ -54,3 +56,7 @@ depicts sensitive material regarding non-human technical vehicles.
 ## Claims (gerb/stigma)
 
 - Gerb calls him the future director of Project Blue Book and Grudge who claimed [[project-sign]] endorsed the interplanetary explanation for some cases, and says USAF Col. Donald Bower forbade him from visiting the CIA Office of Special Investigations a month before the [[robertson-panel-1953]]. *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 3:43-3:51,)*
+
+## Claims (gerb/battelle)
+
+- Gerb says the secret 1953 Battelle memo on [[project-stork]] called attention to Ruppelt. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 2:44-2:57)*

@@ -77,7 +77,7 @@ which transcripts still await ingestion.
 | `gerb/stigma` | `raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md` | The Origin of the UFO Stigma (UAP Gerb) | true |
 | `gerb/metapod` | `raw/gerb/UAP Gerb - 2024-02-12 - Incredible UFO Footage - METAPOD.md` | Incredible UFO Footage - METAPOD (UAP Gerb) | true |
 | `gerb/nell` | `raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md` | SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb) | true |
-| `gerb/battelle` | `raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md` | UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb) | false |
+| `gerb/battelle` | `raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md` | UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb) | true |
 | `gerb/fastwalkers` | `raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md` | FASTWALKERS - UFOs Outside Earth (UAP Gerb) | false |
 | `gerb/kingman` | `raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md` | The 1953 Kingman, Arizona UFO Crash (UAP Gerb) | false |
 | `gerb/knuth` | `raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md` | The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb) | false |
