@@ -99,6 +99,8 @@ sources:
     label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -290,3 +292,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/edwards-afb)
 
 - Video [[gerb-edwards-afb-video]] (2024-10-02): Vol. 2 of his redacted-list series analyzing [[witness-ed]]. Gerb says he ascertained Ed's identity, will not name him, and has tried repeatedly to reach him. He notes he had earlier reached two witnesses from poorly redacted DPI documents (MS on Dugway, and TB). He asks for further research and plans an ARV and Mark McCandlish video. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 1:13-1:37, 2:19-2:44, 44:10-44:34, 47:14)*
+
+## Claims (gerb/mccandlish)
+
+- Video hub: [[gerb-mccandlish-video]] (2024-10-21), his first ARV deep dive and, by his account, one of his favorite investigations; it introduces [[sorenson-scott-interview-1990]], which Gerb says he had never seen discussed. Gerb reports Sorenson's death threats and warnings toward him, and mentions the Patreon and attending the November 13 hearings and the SOL Foundation event. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 22:39-23:20, 1:08:36-1:09:09)*

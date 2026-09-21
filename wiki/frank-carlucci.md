@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 Frank Carlucci (transcribed "Carluchi") was deputy CIA director under [[jimmy-carter]] and secretary of defense under Reagan and is associated with the [[carlyle-group]]. He appears in [[pines-michels-interview-2024]] only through an unverified identification.
@@ -24,3 +26,7 @@ Frank Carlucci (transcribed "Carluchi") was deputy CIA director under [[jimmy-ca
 ## Relationships
 
 - Related: [[carter-purge-and-privatization-claims]], [[alien-reproduction-vehicle-tr3b]].
+
+## Claims (gerb/mccandlish)
+
+- Gerb says Brad Sorenson never named his client, but McCandlish reasoned with high confidence it was Carlucci (16th Secretary of Defense, deputy CIA director under Carter, Carlyle Group chairman 1992-2003, and per Gerb Carlyle owned [[eg-and-g]] in 1999-2001). Gerb suspects Carlyle is deeply involved with UAP programs and notes [[ronald-moultrie]]'s Carlyle-linked board seats. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 7:51-9:57, 23:29-23:45)*

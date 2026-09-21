@@ -37,6 +37,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 An alleged National Security Council unacknowledged Special Access Program (USAP), established in
@@ -113,3 +115,7 @@ craft and derivative technologies (parallel to, but siloed from, decades-older l
 ## Claims (jm/pines)
 
 - Pines says one would "need some Immaculate Constellation to quarantine some of the comms" between people and NHI, both physically and informationally; see [[ai-and-nhi-communication-claims]]. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 3:56:41-3:56:55)*
+
+## Claims (gerb/mccandlish)
+
+- Gerb notes Shellenberger's report says Immaculate Constellation shows the ability to detect, quarantine and transfer UAP and ARV collection incidents, and treats it as the reason for his McCandlish video. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 1:20-2:14)*

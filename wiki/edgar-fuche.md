@@ -27,6 +27,8 @@ sources:
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 Former USAF Master Sergeant Edgar Fuche (the ASR transcripts render this variously as "Fuchs" and
@@ -102,3 +104,7 @@ could not provide material evidence for its existence. *([gerb/saic](../raw/gerb
 ## Claims (gerb/edwards-afb)
 
 - Gerb repeats Fouche's claim that anti-gravity propulsion was developed in 1979 under the Defense Advanced Research Board / JPL at Edwards, and that TR-3B pilots are graduates of the Edwards 412th test pilot school, linking it to [[witness-ed]]. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 33:08-33:58, 42:38-43:12)*
+
+## Claims (gerb/mccandlish)
+
+- Gerb ties the TR-3B and secret space fleet claims (DARC 1979, Northrop, Lockheed, Boeing, Teledyne, run by the NRO, CIA and NSA, pilots from the Edwards 412th test pilot school) to McCandlish's secret space program talk, plus Gary McKinnon's alleged files, and says Fouche is important to his own Edwards/Nellis thesis. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 43:12-45:51)*

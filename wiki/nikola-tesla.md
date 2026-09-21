@@ -20,6 +20,8 @@ sources:
     label: "Aliens Invented Religion To Control Humanity! - Top Philosopher Jason Jorjani (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 Inventor Nikola Tesla. In the Malmgren interview he is the subject of a claimed antigravity collaboration with [[thomas-townsend-brown]] and of a suppressed-papers narrative.
@@ -52,3 +54,7 @@ Inventor Nikola Tesla. In the Malmgren interview he is the subject of a claimed 
 ## Claims (jm/pines)
 
 - Pines and Michels cite the work of Tesla and Townsend Brown in the context of possible lost physics branches. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 1:05:05-1:05:22)*
+
+## Claims (gerb/mccandlish)
+
+- McCandlish described the flux liner as a souped-up Tesla coil and suggested the technology may have been discovered by Tesla. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 38:07-38:54)*

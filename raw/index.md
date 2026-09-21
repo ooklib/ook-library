@@ -96,7 +96,7 @@ which transcripts still await ingestion.
 | `gerb/mj12` | `raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md` | The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb) | true |
 | `gerb/kecksburg` | `raw/gerb/UAP Gerb - 2024-09-12 - The 1965 Kecksburg, Pennsylvania UFO Crash.md` | The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb) | true |
 | `gerb/edwards-afb` | `raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md` | UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb) | true |
-| `gerb/mccandlish` | `raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md` | Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb) | false |
+| `gerb/mccandlish` | `raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md` | Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb) | true |
 | `gerb/tr-3b` | `raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md` | Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb) | true |
 | `gerb/corso` | `raw/gerb/UAP Gerb - 2025-01-03 - Philip J. Corso - US Army UFO Technology Research & Development.md` | Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb) | true |
 | `gerb/northrop` | `raw/gerb/UAP Gerb - 2025-01-27 - UFO Legacy Programs - Northrop Grumman.md` | UFO Legacy Programs - Northrop Grumman (UAP Gerb) | true |

@@ -31,6 +31,8 @@ sources:
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md"
     label: "UFOs in the Private Sector - Battelle Memorial Institute (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 Ronald Moultrie, former Under Secretary of Defense for Intelligence and Security, a close
@@ -89,3 +91,7 @@ oversight/direction to it in its early years. *([gerb/mitre](../raw/gerb/mitre.m
 ## Claims (gerb/battelle)
 
 - Gerb says Moultrie is a [[battelle-memorial-institute]] board member since 2016 who removed it from his LinkedIn (POGO had stated it and Gerb took screenshots), that AARO and Kirkpatrick reported to him, that he oversaw AARO's $1.9 million Sand Corp contract, and that on 16 December 2022 he and Kirkpatrick said they had seen no evidence of crashed UFOs of extraterrestrial origin. *([gerb/battelle](<../raw/gerb/UAP Gerb - 2024-02-18 - UFOs in the Private Sector - Battelle Memorial Institute.md>) 12:51-14:42)*
+
+## Claims (gerb/mccandlish)
+
+- Gerb calls Moultrie a possible gatekeeper who served to spread disinformation at the 2022 UAP hearings and notes his Carlyle-linked board seats. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 9:10-9:51)*

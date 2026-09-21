@@ -61,6 +61,8 @@ sources:
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 Northrop Grumman has primary offices in [[crystal-city-virginia|Crystal City]] and is listed
@@ -201,3 +203,7 @@ in congressional hearings and public whistleblower testimony), Gerb argues North
 ## Claims (a52/coulthart)
 
 - Listed by [[ross-coulthart]] among aerospace companies harbouring control-group members; contractors there lack whistleblower protections under current law. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 37:44-37:52, 1:13:36-1:14:25)*
+
+## Claims (gerb/mccandlish)
+
+- Gerb notes Northrop was involved in Carlyle investment and, via Fouche, TR-3B construction and the alleged "Great Pumpkin" antigravity disc from its Palmdale advanced concepts division, and adds it to the ARV core contractors near Plant 42. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 8:55-9:03, 48:37-49:19)*

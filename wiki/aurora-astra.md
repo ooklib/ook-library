@@ -15,6 +15,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md"
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 Aurora and Astra are rumored code names for a high-speed black triangle reconnaissance aircraft allegedly made by [[lockheed-martin]] and tested at Groom Lake.
@@ -36,3 +38,7 @@ Aurora and Astra are rumored code names for a high-speed black triangle reconnai
 ## Claims (jm/pines)
 
 - In jm/pines Michels describes Aurora and Astra as famed possible locked prototypes commissioned for a year or two, shown alongside flux liners at Palmdale in the Sorenson story. *([jm/pines](<../raw/jm/Jesse Michels - 2024-11-15 - UFO Physics & Disclosure Under Trump (ft. Matthew Pines).md>) 51:35-51:51)*
+
+## Claims (gerb/mccandlish)
+
+- In Sorenson's 1988 account the Lockheed Aurora was a large flattened-football, black, tiled craft with a synthetic vision system and infrared seekers, plus a second model with a canopy and twin tails, with fuselage engines and pulse detonation engines for 10-15,000 mph per McCandlish (Mach 6-8, 100-110 ft, unmanned per the 1990 interview); McCandlish said Tom Keaton of Lockheed Martin Calabasas confirmed it. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 10:12-11:16, 25:18-26:07)*

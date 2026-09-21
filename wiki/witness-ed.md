@@ -28,6 +28,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 Anonymous retired Air Force lieutenant colonel, entry 11063 in [[steven-greer]]'s redacted witness list, whom [[uap-gerb]] calls "Ed" (the same witness that underlies the "Ed" section of [[hidden-wing-air-force-program]]). Gerb says he has ascertained Ed's identity through public sources and tried repeatedly to contact him but will not disclose it; he cautions that Greer's retelling may contain embellishment and that Ed has "gone off books". All claims below are Greer's or Gerb's account of Ed. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 2:19-3:17, 44:10-44:34)*
@@ -62,3 +64,7 @@ Anonymous retired Air Force lieutenant colonel, entry 11063 in [[steven-greer]]'
 - Served at [[nellis-air-force-base]], [[hanscom-air-force-base]] and [[edwards-air-force-base]] ([[hidden-wing-air-force-program]]).
 - Accuses [[sean-kirkpatrick]] of being an insider.
 - Part of the [[air-force-go-public-campaign]] per Greer's notes.
+
+## Claims (gerb/mccandlish)
+
+- Gerb calls back to Ed's comments on zero-point systems when discussing the flux liner's alleged zero-point propulsion, and says Ed's joint Lockheed Martin and Boeing programs parallel the ARV. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 18:44-19:01, 48:29-48:45)*

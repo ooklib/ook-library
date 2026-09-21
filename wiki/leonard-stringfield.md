@@ -39,6 +39,8 @@ sources:
     label: "The 1965 Kecksburg, Pennsylvania UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 Leonard Stringfield, a UFO crash-retrieval investigator Gerb describes as "legendary," produced
@@ -117,3 +119,7 @@ a series of "Crash Retrieval Status Reports" analyzed throughout the SAIC video.
 ## Claims (gerb/edwards-afb)
 
 - Gerb mines the crash retrieval status reports for Edwards items: [[project-heaven-epigoni-claims]] ("Dr. Epigoni"), [[debbie-clayton-crash-1971]], the 1975 "Colonel Sims" letter on Hanscom and MIT, and a 5 April 1980 letter found by Michael Schratt about "MH" and [[project-red-light]]. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 22:01-22:26, 34:06-38:35)*
+
+## Claims (gerb/mccandlish)
+
+- Gerb cites Michael Schratt's access to Stringfield's files: a Class A witness who cut across Edwards in a USAF vehicle saw a disc with a clear dome in open hangars in the 1960s, and Mr. Hines' second-hand Bell Labs story of a retrieved craft with a cutaway in the early 1950s, as possible corroboration of the ARV at Edwards ([[kent-selin]]). *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 34:10-35:22)*

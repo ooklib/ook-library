@@ -29,6 +29,8 @@ sources:
     label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md"
     label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 Colonel Karl Nell, US Army Futures Command, is a vocal advocate for [[david-grush|David Grush]]'s
@@ -76,3 +78,7 @@ satellite constellation." *([gerb/lockheed](../raw/gerb/lockheed.md) 2:19:41–2
 ## Claims (gerb/knuth)
 
 - Gerb notes Nell spoke at the November 2023 [[sol-foundation]] alongside [[kevin-knuth]], and that Knuth also criticizes the ambiguity of the term UAP "similar to Nell". *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 2:44-3:59)*
+
+## Claims (gerb/mccandlish)
+
+- Gerb quotes Nell that faster-than-light travel is possible, citing Alcubierre's 1994 solution, while discussing the ARV's claimed FTL. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 41:32-42:03)*

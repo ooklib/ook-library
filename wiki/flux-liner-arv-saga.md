@@ -25,6 +25,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 Alleged 12 November 1988 sighting by designer [[brad-sorenson]] of three man-made "flux liner" flying saucers (nicknamed Mama, Papa and Baby Bear) in a classified hangar exhibit at the Norton AFB air show. Relayed for two decades second-hand by illustrator [[mark-mccandlish]]; see [[alien-reproduction-vehicle-tr3b]] and [[air-force-plant-42]] for related material from earlier Gerb videos.
@@ -52,3 +54,8 @@ Alleged 12 November 1988 sighting by designer [[brad-sorenson]] of three man-mad
 ## Claims (gerb/edwards-afb)
 
 - Gerb links Ed's "essentially invisible" inspection aircraft at S4 to the flux liners reported by Mark McCandlish (transcribed "Mandish") and Brad Sorenson at Norton AFB, about 80 miles from Edwards, and promises a video on it. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 15:16-16:00, 42:38-42:56, 47:14)*
+
+## Claims (gerb/mccandlish)
+
+- Gerb's dedicated video adds the Carlucci identification of the client, the Cranston and Brown flight from Norton to [[air-force-plant-42]], the design details ([[flux-liner-technical-claims]]), the 1990 interview ([[sorenson-scott-interview-1990]]), corroborating witnesses ([[kent-selin]], [[harvey-williams-provo-photos-1967]]) and the death claims ([[mccandlish-death-and-suppression-claims]]); see [[gerb-mccandlish-video]]. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 5:09-8:14, 32:12-37:36, 54:59-1:00:18)*
+- Gerb argues the ARV story matches his Nellis/Edwards 412th reverse-engineering thesis, since Plant 42 is under 30 miles from Edwards, and adds [[northrop-grumman]] to the core contractors. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 18:13-18:44, 48:05-49:19)*

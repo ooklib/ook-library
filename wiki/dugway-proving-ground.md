@@ -26,6 +26,8 @@ sources:
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md"
     label: "Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 An Army MRTFB in Utah, previously listed by Gerb among core DoD test ranges harnessed for
@@ -75,3 +77,7 @@ Gerb's 2025-02-20 video treats Dugway (nicknamed "Area 52") as a premier UFO leg
 
 - Hosts [[west-desert-test-center]] (run by [[army-test-and-evaluation-command]]) and [[avery-technical-center]]; shares [[utah-test-and-training-range]] with Hill AFB's [[388th-range-squadron]].
 - Site of alleged [[dugway-deep-underground-military-base]]; source of [[witness-ms]]'s and [[witness-gp]]'s claims.
+
+## Claims (gerb/mccandlish)
+
+- Gerb notes Provo, Utah (see [[harvey-williams-provo-photos-1967]]) is under 100 miles from Dugway and recalls [[witness-ms]]'s claims of a hovering craft at the Aviary building and a deep underground base. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 37:36-38:00)*

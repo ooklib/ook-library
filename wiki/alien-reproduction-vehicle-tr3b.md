@@ -55,6 +55,8 @@ sources:
     label: "Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 The "Alien Reproduction Vehicle" (ARV) concept — a human-built craft reverse-engineered from
@@ -159,3 +161,8 @@ recovered nonhuman technology — is most associated in the UFO research communi
 ## Claims (gerb/edwards-afb)
 
 - Gerb ties Fouche's claim of TR-3B pilots from the Edwards test pilot school to [[witness-ed]]'s testimony, and considers whether the craft are triangles or flux-liner saucers. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 33:17-33:58, 42:30-43:03)*
+
+## Claims (gerb/mccandlish)
+
+- Gerb notes the term ARV appears in [[michael-shellenberger]]'s Immaculate Constellation report and explains it as a vehicle built from non-human technology by private aerospace or the US government; in the Congress-adjacent version a staff member of Congressman Brown's office confirmed the exhibit and the three discs, and the nickname "flux liner" was for the high-voltage charge. He links the ARV to [[edgar-fuche]]'s TR-3B. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 0:00-1:57, 43:12-44:39)*
+- See [[flux-liner-technical-claims]] and [[gerb-mccandlish-video]]. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 11:32-19:32)*

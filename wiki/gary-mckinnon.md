@@ -17,6 +17,8 @@ sources:
     label: "NASA Chief - We Just Built Antigravity Propulsion! (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 Gary McKinnon is the British hacker who in 2001 accessed US military and [[nasa]] systems while searching for UFO evidence and faces a lingering US extradition warrant. [[jesse-michels]] retells parts of his own earlier interview with McKinnon during [[buhler-michels-interview-2026]].
@@ -39,3 +41,7 @@ Gary McKinnon is the British hacker who in 2001 accessed US military and [[nasa]
 
 - Gerb says McKinnon hacked 97 US military and NASA computers in 13 months (Feb 2001 to Mar 2002) guessing trivial passwords, acting on [[donna-hair]]'s hint about a Johnson Space Center Building 8 lab; he found "raw" and "processed" image folders and one image of a metallic tubular craft with domes over a blue-white planet, and was caught when his cursor moved on its own. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 35:12-37:27)*
 - Gerb relays McKinnon's finds of a 300-person [[solar-warden-claims]] ledger and "extraterrestrial officers" files, and says [[christopher-mellon]] made similar remarks about tampered 4K satellite footage; Gerb thinks there may be credibility. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 37:36-38:58)*
+
+## Claims (gerb/mccandlish)
+
+- Gerb recalls McKinnon's 2002 arrest, claimed NASA Johnson image of a cigar-shaped near-Earth object and a "non-terrestrial officers" document with ship-to-ship material transfer tabs, as parallels to Fouche's TR-3B logistics. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 45:11-45:44)*

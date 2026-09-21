@@ -109,6 +109,8 @@ sources:
     label: "The 1974 Coyame, Mexico UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -376,3 +378,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Claims (gerb/edwards-afb)
 
 - Ed says he threatened legal action against Lockheed and [[boeing]] over overlapping programs he was read into, and worked as a Lockheed range technical contractor at Nellis in the early 2000s; Gerb also cites a Lockheed ISR case study for the Nellis combined air and space operations center. Gerb's conclusion places Lockheed among contractors in the Edwards/Nellis program. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 12:55-14:19, 41:49-42:47)*
+
+## Claims (gerb/mccandlish)
+
+- In the ARV story a Lockheed Skunk Works pair commissioned McCandlish, Aurora is a Lockheed craft, and Gerb links the Plant 42 hangar and a 1989 East Germany recovery of a Lockheed advanced vehicle to Lockheed's alleged joint role. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 7:10-7:36, 46:15-46:51, 54:05-54:21)*

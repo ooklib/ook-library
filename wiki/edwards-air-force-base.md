@@ -34,6 +34,8 @@ sources:
     label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 Home of the 412th Test Wing and an MRTFB (Major Range and Test Facility Base), listed by Gerb
@@ -112,3 +114,7 @@ ranges. *([gerb/mitre](../raw/gerb/mitre.md) 52:21–52:55)*
 - Gerb's Redacted List Vol.2 video argues, from [[witness-ed]] (Disclosure Project witness 11063), that the 412th Test Group (test pilot school plus Electronic Warfare Group) runs a joint reverse-engineering program with [[nellis-air-force-base]] and Groom Lake S4, and that Groom Lake is administered by a detachment from Edwards. See [[gerb-edwards-afb-video]]. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 20:14-20:54, 41:17-41:58, 14:45)*
 - Other Edwards claims Gerb surveys: [[gordon-cooper-edwards-landing-1957]]; a 1972 rocket propulsion lab "Project Outgrowth" anti-gravity document; a 1988 Aeronautics Lab report on the [[biefeld-brown-effect]]; a 1988 [[science-applications-international-corporation]] electrogravitic study; a 1990 Aviation Week report of 45 sightings of aircraft accelerating from hover to supersonic over Edwards, George AFB and China Lake; [[edgar-fuche]]'s 1979 claims and TR-3B pilots from the 412th test pilot school; [[project-heaven-epigoni-claims]]; [[debbie-clayton-crash-1971]]; and a 1980 letter about a "MH" who says test flights of a recovered UFO shipped from Edwards were flown at Area 51 under [[project-red-light]]. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 29:41-38:35)*
 - Gerb notes the alleged [[blackjack-control-and-team]] and Edwards's ties with [[air-force-plant-42]] (about 30 miles) and Norton AFB (about 80 miles, the [[flux-liner-arv-saga]] site), and speculates on a link to underground facilities such as Helendale. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 38:39-39:31, 43:44-44:01, 45:06-45:14)*
+
+## Claims (gerb/mccandlish)
+
+- Gerb says [[kent-selin]] claimed to have seen the ARV at Edwards in 1973, ties the Plant 42/Norton ARV exhibit to his Edwards 412th thesis and the historical Edwards interest in Biefeld-Brown effect propulsion. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 18:13-18:44, 33:12-34:10, 48:05-49:19)*

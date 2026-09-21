@@ -42,6 +42,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 EG&G (Edgerton, Germeshausen, and Grier, Inc.), founded in 1931 by MIT professor
@@ -114,3 +116,7 @@ EG&G (Edgerton, Germeshausen, and Grier, Inc.), founded in 1931 by MIT professor
 ## Claims (a52/lazar-everything)
 
 - [[bob-lazar]] says EG&G special projects occupied a large building at McCarran airport in Las Vegas, ran the Janet jets that flew staff to Groom Lake and other sites, and hired him via a two-stage interview; he says "we still don't" know what "special projects" were *([a52/lazar-everything](<../raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md>) 14:54-15:22, 18:37-19:21)*. Supervisor: [[dennis-mariani]]. See [[lazar-eg-and-g-recruitment-and-s4-access-claims]].
+
+## Claims (gerb/mccandlish)
+
+- Gerb notes the Carlyle Group owned EG&G in 1999-2001, linking it to Carlucci's Carlyle chairmanship. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 8:55-9:10)*

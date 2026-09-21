@@ -21,6 +21,8 @@ sources:
     label: "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 An electrogravitic propulsion concept discussed in a 1988–90
@@ -69,3 +71,7 @@ Aeronautics Laboratory / Air Force Space Technology Center.
 ## Claims (gerb/edwards-afb)
 
 - Gerb cites a 1988 technical report for the USAF Aeronautics Lab at Edwards on the Biefeld-Brown effect, and a 1988 SAIC study, as Edwards electrogravitics work. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 32:24-32:55)*
+
+## Claims (gerb/mccandlish)
+
+- McCandlish asked Sorenson whether the flux liner's capacitor array meant it ran on the Biefeld-Brown effect; Sorenson said perhaps it applied but the craft drew on zero-point energy. Gerb recommends Jesse Michels' video on Townsend Brown. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 17:58-18:44)*

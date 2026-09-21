@@ -1,7 +1,7 @@
 ---
 title: Mark McCandlish
 kind: person
-aliases: [Mark Mandish, Mandish, McCandlish]
+aliases: [Mark Mandish, Mandish, Mandalis, McCandlish]
 tags: [researcher, arv, flux-liner]
 relations:
   - relation: alleged_by
@@ -18,6 +18,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md"
     label: "UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
+    label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
 ---
 
 The late researcher who investigated the "flux liner" [[alien-reproduction-vehicle-tr3b|alien reproduction vehicle]] reported by witness Brad Sorenson at the 1988 Norton AFB air show. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 14:12, 14:21, 14:28)*)* In 2001 he appeared on Greer's panel. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 29:44, 29:51)*)*
@@ -43,3 +45,11 @@ The late researcher who investigated the "flux liner" [[alien-reproduction-vehic
 ## Claims (gerb/edwards-afb)
 
 - Gerb draws on his flux liner account (transcribed "Mark Mandish") to interpret [[witness-ed]]'s invisible inspection craft and plans a deep dive. *([gerb/edwards-afb](<../raw/gerb/UAP Gerb - 2024-10-02 - UAP Reverse Engineering at Edwards Air Force Base [Redacted List Vol.2].md>) 15:16-16:00, 47:14)*
+
+## Claims (gerb/mccandlish)
+
+- Gerb's dedicated video ([[gerb-mccandlish-video]]) profiles him: aerospace illustrator for about 30 years with clients including the Air Force, Rockwell, Boeing, Lockheed Martin, Aviation Week and Popular Science, who appeared on Greer's 2001 National Press Club panel. He skipped the 1988 Norton show to finish Popular Science work and heard the story from [[brad-sorenson]] a week later. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 3:43-5:32)*
+- He drew the March 1989 cutaway blueprint from Sorenson's sketches and other sources ([[kent-selin]]), found [[harvey-williams-provo-photos-1967]], and theorized the craft in [[flux-liner-technical-claims]]. Sorenson called the drawing accurate and dangerous. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 32:12-32:50, 55:02-55:40)*
+- Earlier career claims: two Lockheed Skunk Works staff commissioned a fast-jet pitch and let slip that parts would tear apart at Mach 17; Tom Keaton of Lockheed Martin Calabasas confirmed the Aurora to him; he described a 1984 Cedarville, California Polaroid of a string of craft and a May 1989 East Germany crash retrieval of a Lockheed advanced vehicle with three white superconducting-ceramic spheres, in his 2015 secret space program lecture. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 11:08-11:16, 45:51-46:51, 53:01-54:59)*
+- Gerb treats his 2021 death, the loss of his clients and the deaths around him in [[mccandlish-death-and-suppression-claims]], and calls the story one of the most interesting in ufology. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 54:59-1:00:18, 1:01:06-1:01:14)*
+- Gerb says McCandlish regretted naming Sorenson, having been pressed by people in the Disclosure Project. *([gerb/mccandlish](<../raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md>) 19:49-21:13)*
