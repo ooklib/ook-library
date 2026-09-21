@@ -21,3 +21,7 @@ MC West is a UFO skeptic or debunker on YouTube, mentioned only in passing.
 ## Relationships
 
 - Discussed in [[coulthart-critique-of-credulity-in-ufology]].
+
+## Claims (gerb/flight-grounded)
+
+- [[uap-gerb]] refers to "the McWest level debunk panel" when listing skeptical explanations for [[manises-ufo-incident-1979]] (refinery flares, planets, Sixth Fleet jamming); whether this means MC West or [[mick-west]] is not clear from the transcript. *([gerb/flight-grounded](<../raw/gerb/UAP Gerb - 2024-01-21 - The First Commercial Flight Grounded Due to UFOs.md>) 11:58-12:04)*

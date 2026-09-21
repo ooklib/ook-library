@@ -148,3 +148,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/marines)
 
 - Short documentary video on two Marine cases ([[gerb-marines-video]]): he believes [[jonathan-weygandt]], is torn on [[michael-herrera]], and doubts humans have reverse engineered NHI craft. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 13:19-16:18)*
+
+## Claims (gerb/flight-grounded)
+
+- Short documentary on the 1979 Manises incident ([[gerb-flight-grounded-video]], [[manises-ufo-incident-1979]]), which he says is legitimate; he rejects the skeptical explanations and cites the [[tehran-ufo-incident-1976]] parallel. He says he plans more case documentaries, including a global air force encounters video. *([gerb/flight-grounded](<../raw/gerb/UAP Gerb - 2024-01-21 - The First Commercial Flight Grounded Due to UFOs.md>) 0:00-16:33)*

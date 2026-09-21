@@ -21,3 +21,7 @@ UFO skeptic named by [[uap-gerb]] as claiming the Gimbal video shows a bird or a
 ## Relationships
 
 - See [[pentagon-ufo-videos-2017]].
+
+## Claims (gerb/flight-grounded)
+
+- Possibly the "McWest" whose "debunk panel" style [[uap-gerb]] mocks in [[manises-ufo-incident-1979]]; the transcript is ambiguous (see also [[mc-west]]). *([gerb/flight-grounded](<../raw/gerb/UAP Gerb - 2024-01-21 - The First Commercial Flight Grounded Due to UFOs.md>) 11:58-12:04)*

@@ -50,3 +50,7 @@ maneuvers, following two weeks of radar/sensor detections of objects descending 
 ## Claims (jm/censored-book)
 
 - Michels cites [[ross-coulthart]] as saying the Tic Tac involved Lockheed Martin technology, and notes the San Diego Navy ties of the N66001 contract behind [[john-norseen]]'s Biofusion work. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:14:31-1:14:59)*
+
+## Claims (gerb/flight-grounded)
+
+- [[uap-gerb]] cites the Nimitz Tic Tac sighting off San Diego, with the objects reportedly jamming the jets' radar and sensors, as a parallel to the fighter avionics jamming in [[manises-ufo-incident-1979]] and [[tehran-ufo-incident-1976]]. *([gerb/flight-grounded](<../raw/gerb/UAP Gerb - 2024-01-21 - The First Commercial Flight Grounded Due to UFOs.md>) 9:26-9:59)*

@@ -47,3 +47,7 @@ Diego is one of the most widely publicized UAP sighting cases.
 ## Claims (jm/borland)
 
 - Borland says Fravor ("Commander David Fraver") reportedly works at [[bae-systems]], and Michels imagines Fravor would want to learn how it works; Borland says he cannot confirm. *([jm/borland](<../raw/jm/Jesse Michels - 2026-08-05 - A Top Government Official Told Me Aliens Run Everything! - Dylan Borland UNLEASHED.md>) 1:35:15-1:35:38)* See [[project-greenglow]].
+
+## Claims (gerb/flight-grounded)
+
+- [[uap-gerb]] says Fravor states the objects (plural) in the 2004 Tic Tac sighting jammed the jets' radar and sensors, citing this as a recurring pattern alongside [[manises-ufo-incident-1979]]. *([gerb/flight-grounded](<../raw/gerb/UAP Gerb - 2024-01-21 - The First Commercial Flight Grounded Due to UFOs.md>) 9:35-9:59)*
