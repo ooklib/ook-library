@@ -60,6 +60,8 @@ sources:
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md"
+    label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
 ---
 
 Luis Elizondo (ASR-transcribed "Lou Alzando"/"Luis Alzando") claimed to direct, work for, or
@@ -197,3 +199,7 @@ whom he continues to support. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:19:
 ## Claims (gerb/kirkpatrick)
 
 - In a tweet quoted by Gerb, Elizondo says many people he knows personally briefed [[aaro]] and gave [[sean-kirkpatrick]] detailed information, and that if AARO will not tell Congress the truth, they will. He is described as the former AATIP director whom Kirkpatrick's op-ed names among a 2008 "conspiracy" group ([[kirkpatrick-scientific-american-op-ed-2024]]). *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 3:47-4:10, 6:44-7:08)*
+
+## Claims (gerb/flyby)
+
+- Quoted from a 2021 GQ interview: there are government videos not yet public, one 23 minutes long and one where the object is 50 ft from the cockpit, which he says is not ours and 99% not foreign aerospace technology; Gerb hopes but does not claim the FLYBY footage ([[flyby-ufo-footage-2008]]) is related, and says it shows 3 of Elizondo's 5 observables. *([gerb/flyby](<../raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md>) 1:39-2:51)*

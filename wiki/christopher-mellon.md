@@ -41,6 +41,8 @@ sources:
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md"
+    label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
 ---
 
 Former deputy assistant secretary of defense for intelligence and a UFO-disclosure-advocate
@@ -99,3 +101,7 @@ Levenda met Mellon in Austin; see [[austin-to-the-stars-meeting]]. *([jm/levenda
 ## Claims (gerb/kirkpatrick)
 
 - Gerb reads out a scathing Mellon tweet disputing Kirkpatrick's claim that no whistleblowers came to AARO: Mellon says he introduced Kirkpatrick to Lou Elizondo, [[eric-davis]] and [[hal-puthoff]], who briefed him for hours in a classified setting with no feedback ([[kirkpatrick-scientific-american-op-ed-2024]]). *([gerb/kirkpatrick](<../raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md>) 5:40-6:44)*
+
+## Claims (gerb/flyby)
+
+- On Joe Rogan he said he had seen footage of a UAP right next to a pilot; Gerb is sure this is not the [[flyby-ufo-footage-2008]] clip. *([gerb/flyby](<../raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md>) 2:51-3:22)*

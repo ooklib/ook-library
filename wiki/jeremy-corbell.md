@@ -24,6 +24,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-04-10 - Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83.md"
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md"
+    label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
 ---
 
 Filmmaker and journalist, co-host with [[george-knapp]] of the Weaponized podcast, referred to throughout [[borland-michels-interview-2026]] as the source of several Borland-related claims. Additional Corbell material may exist under other sources.
@@ -54,3 +56,7 @@ Filmmaker and journalist, co-host with [[george-knapp]] of the Weaponized podcas
 
 - [[uap-gerb]] cites Corbell's 2023 Palm Springs UFO footage as a sighting the flare explanation cannot cover. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 22:47-23:02)*
 - See [[phoenix-lights-1997]].
+
+## Claims (gerb/flyby)
+
+- Gerb compares the audio of [[flyby-ufo-footage-2008]] to the ambient sound of the 2019 Navy sphere-into-water video Corbell posted. *([gerb/flyby](<../raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md>) 6:00-6:49)*

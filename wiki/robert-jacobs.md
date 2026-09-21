@@ -18,6 +18,8 @@ sources:
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: raw/gerb/UAP Gerb - 2024-01-29 - UFOs and Nuclear Weapons - A Fascinating Connection.md
     label: "UFOs and Nuclear Weapons - A Fascinating Connection (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md"
+    label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
 ---
 
 # Robert Jacobs
@@ -38,3 +40,7 @@ Former USAF lieutenant who says he commanded the optical instrumentation unit at
 
 - [[uap-gerb]] cites Lt. Robert Jacobs and his footage of a UFO disabling a nuclear warhead as an example of military men, not suited MIB, blocking UFO information. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 10:11-10:34)*
 - See [[men-in-black-claims]].
+
+## Claims (gerb/flyby)
+
+- Gerb says the saucer in [[flyby-ufo-footage-2008]] is almost identical to the craft Lt. Jacobs describes in his warhead shootdown footage, including a top protrusion like half a ping-pong ball. *([gerb/flyby](<../raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md>) 8:02-8:29)*

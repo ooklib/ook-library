@@ -59,6 +59,8 @@ sources:
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md"
     label: "Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md"
+    label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -170,3 +172,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/air-force-encounters)
 
 - Short case-compilation video on four air-force encounters ([[gerb-air-force-encounters-video]]): the [[gorman-dogfight-1948]], [[finnish-pori-ufo-sighting-1969]], [[arequipa-peru-ufo-incident-1980]] and [[campeche-mexico-ufo-incident-2004]]; he promises a part two and invites viewers to his Discord where he says he shares case files. *([gerb/air-force-encounters](<../raw/gerb/UAP Gerb - 2024-02-01 - Global Air Force UFO Encounters You've Probably Never Heard of.md>) 0:00-14:16)*
+
+## Claims (gerb/flyby)
+
+- Footage-analysis video ([[gerb-flyby-video]]) on the [[flyby-ufo-footage-2008]] clip and the [[alleged-uaptf-classified-report-leak]]; he is not a CGI expert and asks viewers who are to contact him for a possible part two. *([gerb/flyby](<../raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md>) 0:00-16:54)*

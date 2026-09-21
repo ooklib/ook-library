@@ -53,6 +53,8 @@ sources:
     label: "Bob Lazar Tells me Everything in NEW Interview - DEBRIEFED ep. 83 (Area52)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md"
+    label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
 ---
 
 Bob Lazar claimed to have been hired by [[eg-and-g|EG&G]] to reverse-engineer UFO propulsion
@@ -117,3 +119,7 @@ Chris Ramsey's 2025 interview ([[lazar-ramsey-interview-2025]], hosted by [[chri
 
 - [[ross-coulthart]] says Lazar seems not to want to speak to him, likely expecting a "blowtorch" on inconsistencies (MIT and Caltech degrees, brothel, element 115 isotopic stability). He believes Lazar almost certainly worked at Area 51, and that S4 is real, citing the late Dave Fuhof who ran logistics there and heard of S4 and of people who saw Lazar at Area 51 (weakish but persuasive evidence). *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:59:38-2:01:16)*
 - See [[coulthart-critique-of-credulity-in-ufology]] and [[coulthart-ramsey-interview-2026]].
+
+## Claims (gerb/flyby)
+
+- Gerb cites Lazar as claiming disc-shaped craft fly "belly towards their destination", like the tilted saucer in [[flyby-ufo-footage-2008]]. *([gerb/flyby](<../raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md>) 8:36-8:58)*

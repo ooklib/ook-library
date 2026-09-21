@@ -18,6 +18,8 @@ sources:
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md"
+    label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
 ---
 
 The Pentagon UAP investigation team that [[david-grush]] joined in 2019 (per the source) as an intelligence officer; per the NewsNation narration it was later renamed [[aaro]]. *([rc/grusch](<../raw/rc/NewsNation - 2025-04-02 - UFO whistleblower David Grusch_ We are not alone _ Official Ross Coulthart NewsNation interview.md>) 3:31-3:48,)*
@@ -46,3 +48,7 @@ The Pentagon UAP investigation team that [[david-grush]] joined in 2019 (per the
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] cites "slide 9", a briefing prepared for an under secretary of defense by the UAP Task Force or AOSAP, saying the phenomenon can manipulate human perception. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:44:41-1:45:11)*
+
+## Claims (gerb/flyby)
+
+- An alleged leaked page of a longer classified UAPTF report for Congress is discussed in [[alleged-uaptf-classified-report-leak]]; Gerb notes the latest contribution was dated 2020 while the task force ran 2017-22, and treats authenticity as unverified. *([gerb/flyby](<../raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md>) 9:00-15:33)*
