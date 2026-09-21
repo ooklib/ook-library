@@ -17,6 +17,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md"
+    label: "The Alien Plan is in FULL Motion - David Icke | DEBRIEFED ep. 81 (Area52)"
 ---
 
 The philosophical and theological end of [[borland-michels-interview-2026]]: Borland's claim that the intelligence community inspector general hinted humans are not in charge, plus a shared speculation on souls, the Book of Enoch, simulation and control of "exit paths". Highly speculative and attributed.
@@ -44,3 +46,7 @@ The philosophical and theological end of [[borland-michels-interview-2026]]: Bor
 ## Claims (jm/cameron)
 
 - Cameron and Michels discuss simulation, Vadim Zeland's Transurfing mirror analogy and Vallee's control system as the conclusion of the interview: [[consciousness-core-secret-claims]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 2:56:13-3:00:24)*
+
+## Claims (a52/icke)
+
+- [[david-icke]] argues reality is a simulation controlled by astral non-human entities through a "global cult"; UFO abductions, NDEs and reptilian encounters are one control system. See [[simulation-and-biological-computer-claims-icke]] and [[astral-control-system-and-archon-claims-icke]]. *([a52/icke](<../raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md>) 12:19-12:43, 21:18-21:27)*

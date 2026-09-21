@@ -29,6 +29,8 @@ sources:
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md"
+    label: "The Alien Plan is in FULL Motion - David Icke | DEBRIEFED ep. 81 (Area52)"
 ---
 
 Donald Trump appears in this episode as a later protégé of [[roy-cohn]] — the McCarthy-era "Deep
@@ -85,3 +87,7 @@ American power politics — and as the brief 1986 owner of [[resorts-internation
 
 - [[ross-coulthart]] says Trump knows about a non-human intelligence, recovered craft and a retrieval program, per what he has been told, that he has spoken to Trump's son, and that no source says a Trump announcement is coming, though Trump has the nerve to do it and an announcement around Roswell's anniversary would fit. He also mentions Trump's "discombobulator" remark. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 57:18-57:56, 1:35:44-1:36:30, 2:17:51-2:18:10, 2:49:03-2:49:20)*
 - See [[coulthart-disclosure-dilemma-claims]], [[coming-event-2027-claims]].
+
+## Claims (a52/icke)
+
+- [[david-icke]] calls Trump a "con man" and "drama queen extraordinaire" and the perfect front man of a cult agenda: he says Trump trashes the old system with wars and tariffs while surrounded by AI oligarchs, facilitating rapid expansion of an AI and 6G digital control system (Stargate announcement, Thiel-to-Vance succession). He also says Trump is "in this to his neck" regarding the Epstein files. See [[ai-hive-mind-control-agenda-claims-icke]]. *([a52/icke](<../raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md>) 1:47:00-1:47:28, 2:16:52-2:17:01, 2:18:45-2:20:32, 2:23:39-2:24:32)*

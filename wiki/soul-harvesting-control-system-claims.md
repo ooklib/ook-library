@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2025-11-01 - I Found Hitler’s Secret UFO Program! - Jason Jorjani.md"
     label: "I Found Hitler's Secret UFO Program! - Jason Jorjani (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md"
+    label: "The Alien Plan is in FULL Motion - David Icke | DEBRIEFED ep. 81 (Area52)"
 ---
 
 [[jason-jorjani]]'s argument that Earth is a prison and energy-harvesting system managed from the moon, with the afterlife light and dead relatives being manipulated simulacra. Presented as speculation supported by Robert Monroe, Carla Turner and one group of remote viewers.
@@ -29,3 +31,7 @@ sources:
 ## Relationships
 
 - Related to [[artificial-moon-claims]], [[nordic-control-system-claims]], [[information-physics-simulation-claims]].
+
+## Claims (a52/icke)
+
+- [[david-icke]] gives a comparable but distinct model: consciousness is recycled through a reincarnation "wheel of samsara" so entities can keep feeding on human "loosh" from fear and suffering; unlike Jorjani's moon hypothesis, he places control in the astral dimension of a simulation. See [[reincarnation-trap-claims-icke]] and [[loosh-and-ritual-abuse-claims-icke]]. *([a52/icke](<../raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md>) 1:12:10-1:14:16, 1:20:49-1:21:30)*

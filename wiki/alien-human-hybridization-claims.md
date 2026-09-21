@@ -15,6 +15,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md"
+    label: "The Alien Plan is in FULL Motion - David Icke | DEBRIEFED ep. 81 (Area52)"
 ---
 
 Claims about a hybridization program collected by [[jason-samosa]] in a personal notebook and discussed in the `jm/cover-up` episode. The wiki records them as anecdotal hearsay.
@@ -39,3 +41,7 @@ Claims about a hybridization program collected by [[jason-samosa]] in a personal
 ## Claims (jm/matthew-brown)
 
 - The "hybrid breeding" hypothesis of the Brown interview is Michels' speculation ([[psionic-assets-and-breeding-claims]]). *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 2:52:29-2:54:33)*
+
+## Claims (a52/icke)
+
+- [[david-icke]] says royal families and other bloodline elites are human-reptilian hybrids with a human and a non-human information field, which he offers as the reason for their perceived divine right to rule. See [[icke-shape-shifting-and-royal-family-claims]]. *([a52/icke](<../raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md>) 2:00:38-2:01:46, 2:05:33-2:06:30)*

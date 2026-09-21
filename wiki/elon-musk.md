@@ -14,6 +14,8 @@ sources:
     label: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md"
+    label: "The Alien Plan is in FULL Motion - David Icke | DEBRIEFED ep. 81 (Area52)"
 ---
 
 Entrepreneur and SpaceX owner. In [[matthew-brown]]'s 2025 tweet ([[brown-tweet-to-elon-musk-2025]]) he is asked whether he is interested in an "asymmetric advantage", told the White House has a predictive AI, and invited to tour [[amentum]] hangars at [[naval-air-station-patuxent-river]]; Brown says Musk is "playing a marvelous catch-up game" and that programs use electromagnetic or electrogravitic propulsion. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:51:58-1:53:55, 1:55:29-1:55:50)* Michels earlier also uses SpaceX's Starlink/Starshield as an open-source analogue of the IMCON collection architecture ([[imcon-briefing-account-brown]]). *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 15:15-16:03)* Attributed speculation, not confirmed.
@@ -30,3 +32,7 @@ Entrepreneur and SpaceX owner. In [[matthew-brown]]'s 2025 tweet ([[brown-tweet-
 ## Claims (jm/nell-pasulka)
 
 - Pasulka says "Tyler" was government liaison to Musk for certain missions. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 15:35-15:45)* See [[angel-contact-events-claims]].
+
+## Claims (a52/icke)
+
+- [[david-icke]] names Musk among the AI oligarchs around Trump and says SpaceX's roughly 11,000 satellites (with Bezos coming behind) are part of the low-orbit network for a technologically generated electromagnetic field that would deliver a centrally dictated "hive mind". See [[ai-hive-mind-control-agenda-claims-icke]]. *([a52/icke](<../raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md>) 2:19:35-2:19:44, 2:25:15-2:25:40)*

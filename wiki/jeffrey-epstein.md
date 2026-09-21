@@ -22,6 +22,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md"
+    label: "The Alien Plan is in FULL Motion - David Icke | DEBRIEFED ep. 81 (Area52)"
 ---
 
 Jeffrey Epstein appears in the `jm/cover-up` episode only through [[jesse-michels]]'s speculation: he says Epstein set up Zorro Ranch near retiring Los Alamos physicists, said in an email to Bannon that he "kills pawns" (Pons and Fleischmann, i.e. cold fusion), and thus fits a science-suppression pattern; Michels also ties him to [[robert-maxwell]]'s network. [[jason-samosa]] says Epstein/deep-state/criminal networks are "conflated" with the UFO issue and that whatever intersects them is probably dangerous today. *([jm/cover-up](<../raw/jm/Jesse Michels - 2026-07-14 - The UFO Cover-Up Leads to One Secret Society - and One Final Event.md>) 1:46:26, 1:51:18)*
@@ -55,3 +57,7 @@ Jeffrey Epstein appears in the `jm/cover-up` episode only through [[jesse-michel
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] compares congressional momentum on the Epstein files to the outrage behind the [[church-committee]] and argues the UAP cover-up raises comparable constitutional issues. See [[coulthart-constitutional-crisis-framing]]. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:11:36-1:11:56, 1:26:33-1:31:31)*
+
+## Claims (a52/icke)
+
+- [[david-icke]] says the Epstein network is not the biggest pedophile network but one exposed aspect of a global web, like [[jimmy-savile]]'s case, a "gateway to the cesspit" of Satanism and pedophilia that holds the global cult together, and that the files have weakened public resistance to his claims. See [[icke-shape-shifting-and-royal-family-claims]]. *([a52/icke](<../raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md>) 2:15:01-2:17:43)*

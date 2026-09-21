@@ -28,6 +28,8 @@ sources:
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md"
+    label: "The Alien Plan is in FULL Motion - David Icke | DEBRIEFED ep. 81 (Area52)"
 ---
 
 Deep underground military bases (DUMBs), also called subterranean facilities ("STFs", or "stiffs" in ASR), are the subject of a ~1h38m [[uap-gerb]] survey. Gerb's framing: acknowledged DUMBs undeniably exist (NORAD's Cheyenne Mountain, Raven Rock), so the live question is whether some unacknowledged ones host UFO legacy program RDT&E, crash-material storage and reverse engineering, and whether they are linked by tunnels and maglev trains. Everything below is Gerb's argument or the claims of his sources, not established fact. He leans heavily on [[richard-sauder]]'s three books and on [[bill-hamilton]]'s 1990s work, and says he has spoken with "nearly half a dozen" veterans who traveled to STFs. *([gerb/dumbs](<../raw/gerb/UAP Gerb - 2025-03-17 - Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs.md>) 0:00, 1:31, 3:33, 3:41, 3:49)*
@@ -137,3 +139,7 @@ Gerb wagers large DUMB networks exist in the Southwest (NM, AZ, S. California, p
 ## Claims (jm/censored-book)
 
 - Michels points to Richard Sauder's book on DUMBs ([[richard-sauder]]) and cites [[bradshaw-ranch-sedona]] and the Coyame mountain of [[sentinels-of-ether]] as examples. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 1:25:35-1:25:52)* See [[mountain-base-network-claims]].
+
+## Claims (a52/icke)
+
+- [[david-icke]] says elites and human scientists interact with reptilians and grays in deep underground military bases that "open out" into areas where reptilians live; he cites 1990s informants who described weigh-in and weigh-out checks, rising clearance with depth and "caged children" at the bottom, and former military guests on his iconic.com. This is his assertion and is unsourced. See [[astral-control-system-and-archon-claims-icke]]. *([a52/icke](<../raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md>) 55:37-57:05)*

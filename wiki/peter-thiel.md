@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md"
+    label: "The Alien Plan is in FULL Motion - David Icke | DEBRIEFED ep. 81 (Area52)"
 ---
 
 Peter Thiel is the investor and Hereticon host referenced (ASR "Peter Teal", "Peter T") in Michels' episode with [[karl-nell]] and [[diana-pasulka]]. He does not appear on stage in this transcript; everything is as relayed by Michels and the guests. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 34:15-41:31)*
@@ -29,3 +31,7 @@ Peter Thiel is the investor and Hereticon host referenced (ASR "Peter Teal", "Pe
 ## Relationships
 
 - Hosted [[hereticon]]; connected to [[rene-girard]] and [[diana-pasulka]]; context in [[nell-pasulka-hereticon-panel-2024]].
+
+## Claims (a52/icke)
+
+- [[david-icke]] lists Thiel among the AI oligarchs around Trump, says he as "Thiel's prodigy" was clearly going to be JD Vance's route to the ticket, and predicts a Thiel-to-Vance takeover of an AI control system. (Ramsey adds that Thiel funded Vance's career.) See [[ai-hive-mind-control-agenda-claims-icke]]. *([a52/icke](<../raw/a52/Area52 - 2026-03-27 - The Alien Plan is in FULL Motion - David Icke  DEBRIEFED ep. 81.md>) 2:19:35-2:20:32, 2:23:48-2:23:55)*
