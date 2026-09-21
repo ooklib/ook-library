@@ -11,6 +11,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md"
+    label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
 ---
 
 Kevin Knuth is described by [[uap-gerb]] as a physics professor (ASR "Kevin canth", described as New York University; affiliation as stated by Gerb) who modeled the flight characteristics of anomalous aerial vehicles in famous cases. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 3:14-3:49)*
@@ -22,3 +24,7 @@ Kevin Knuth is described by [[uap-gerb]] as a physics professor (ASR "Kevin cant
 ## Relationships
 
 - Analysed [[japan-airlines-flight-1628-incident-1986]]; hub [[gerb-iceberg-level-2-video]].
+
+## Claims (gerb/nell)
+
+- Gerb lists physicist Knuth ("Kevin canth" in the transcript) among [[sol-foundation]] figures and plans a review of his talk. *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 2:04-2:11, 21:34-21:49)*

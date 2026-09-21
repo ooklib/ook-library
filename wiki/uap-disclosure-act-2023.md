@@ -21,6 +21,8 @@ sources:
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md"
+    label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
 ---
 
 The UAP Disclosure Act is the Senate bill (sponsored, per [[matthew-pines]], by Schumer, Rounds, Gillibrand, Heinrich and Todd Young) that would create a UAP records review board with unilateral declassification authority and eminent-domain reach over privately held UAP material. This page records how Pines describes it in [[pines-michels-interview-2024]], not the bill text.
@@ -49,3 +51,10 @@ The UAP Disclosure Act is the Senate bill (sponsored, per [[matthew-pines]], by 
 ## Claims (gerb/iceberg-2)
 
 - Gerb says Rep. Mike Turner of Ohio, whose district includes Wright-Patterson, was the biggest proponent of blocking the amendment requiring legacy programs to disclose. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 6:55-7:25)*
+
+## Claims (gerb/nell)
+
+- Gerb, relaying [[karl-nell]]'s [[sol-foundation]] talk, calls it the Schumer Amendment and says a decade ago it would have been seen as UFO disclosure; Nell cites Leslie Kean's December 2017 article (Fleer, Gimbal, Go Fast), the Grusch, Graves and Fravor congressional testimony, and the Gang of Eight (legally entitled to SAP information, yet two sponsors were not informed on UAP) as background. *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 2:37-4:07)*
+- Its terminology ([[uap-vs-tno-distinction]]), National Archives repository with a review board (Nell says nobody necessarily trusts that this will happen, hence review-board oversight unlike the 1992 JFK records act), and eminent domain over UAP material, including material held by private corporations, are explained; Nell lists arguments for and against eminent domain, the cons infringing property ownership. *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 6:37-9:03)*
+- Gerb alleges the Schumer-Rounds amendment was watered down and gutted by adversaries to pro-disclosure and hopes it returns, maybe in the 2025 NDAA. *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 9:26-9:41)*
+- Nell's follow-on roadmap: [[nell-uap-campaign-plan]]. See [[gerb-nell-video]].

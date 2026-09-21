@@ -18,6 +18,8 @@ relations:
 sources:
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md"
+    label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
 ---
 
 [[karl-nell]] lists six reasons a government would withhold UFO/NHI information, offered as a general framework rather than a specific allegation. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 19:41-20:45)*
@@ -41,3 +43,7 @@ sources:
 
 - Michels and Pasulka later discuss whether society is "ready" for disclosure: Nell draws an analogy with believers confronted with the reality of angels, where knowing differs from believing. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 57:47-58:35)*
 - Hub: [[nell-pasulka-hereticon-panel-2024]].
+
+## Claims (gerb/nell)
+
+- [[uap-gerb]] presents an earlier 2023 [[sol-foundation]] version of the slide: six reasons (national security implications, lack of a credible plan, social disruption, covert agreements, cover for misdeeds and organizational inertia, distraction from priorities) with pro-disclosure counterarguments. Gerb links covert agreements to speculation about a "quid pro quo" with NHI, cover for misdeeds to Grusch's claim of "feudalistic dominance" and crimes including murder, and the counterargument (preventing loss of technological dominance) to the possibility that the USA may be losing a UAP arms race with Russia or China; Nell says these issues are better solved in the academic sector. *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 9:42-11:30)*

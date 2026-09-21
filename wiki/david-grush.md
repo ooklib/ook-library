@@ -70,6 +70,8 @@ sources:
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md"
     label: "The Origin of the UFO Stigma (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md"
+    label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -295,3 +297,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 ## Claims (gerb/stigma)
 
 - Gerb ends by tying the alleged sophisticated disinformation campaigns (Sign, Grudge, Blue Book, Robertson, Condon) to what Grusch talks about (a clip is shown). *([gerb/stigma](<../raw/gerb/UAP Gerb - 2024-02-09 - The Origin of the UFO Stigma.md>) 22:56-23:14)*
+
+## Claims (gerb/nell)
+
+- Gerb ([[gerb-nell-video]]) lists him as a [[sol-foundation]] figure, notes the June 2023 Debrief article introduced him, and speculates [[karl-nell]] was among the 40 witnesses Grusch says he interviewed. *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 0:00-0:22, 18:46-21:20)*

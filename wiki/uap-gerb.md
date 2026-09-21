@@ -65,6 +65,8 @@ sources:
     label: "The Origin of the UFO Stigma (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-12 - Incredible UFO Footage - METAPOD.md"
     label: "Incredible UFO Footage - METAPOD (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md"
+    label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -188,3 +190,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/metapod)
 
 - Footage-analysis video ([[gerb-metapod-video]]) on the [[metapod-ufo-footage-2015]]; he says it is a 19-minute video on under two minutes of footage, that the craft looks like the real deal, and that his next video will review the Sol Foundation panels with Grusch, Mellon, Knuth and Puthoff. *([gerb/metapod](<../raw/gerb/UAP Gerb - 2024-02-12 - Incredible UFO Footage - METAPOD.md>) 0:00-0:43, 17:10-18:51)*
+
+## Claims (gerb/nell)
+
+- Commentary video ([[gerb-nell-video]]) breaking down [[karl-nell]]'s [[sol-foundation]] talk on the Schumer Amendment and controlled disclosure; Gerb speculates Nell may have been one of Grusch's 40 witnesses and calls the omitted slides astounding. He says he has covered the Schumer Amendment in almost every video and promises follow-ups on other SOL Foundation talks. *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 2:37-3:00, 18:46-21:49)*

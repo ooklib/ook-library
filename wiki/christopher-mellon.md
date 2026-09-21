@@ -45,6 +45,8 @@ sources:
     label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-02-12 - Incredible UFO Footage - METAPOD.md"
     label: "Incredible UFO Footage - METAPOD (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md"
+    label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
 ---
 
 Former deputy assistant secretary of defense for intelligence and a UFO-disclosure-advocate
@@ -111,3 +113,7 @@ Levenda met Mellon in Austin; see [[austin-to-the-stars-meeting]]. *([jm/levenda
 ## Claims (gerb/metapod)
 
 - Gerb says the Sol Foundation had just released interviews with Grusch, Mellon, Knuth and Puthoff (around 11 February 2024) and that his next video would review those panels. *([gerb/metapod](<../raw/gerb/UAP Gerb - 2024-02-12 - Incredible UFO Footage - METAPOD.md>) 18:20-18:35)*
+
+## Claims (gerb/nell)
+
+- Gerb lists him as a [[sol-foundation]] figure; [[karl-nell]] thanks Mellon and Luis Elizondo for their work getting the 2017 videos released. *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 2:04-2:11, 3:01-3:16)*

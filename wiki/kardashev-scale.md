@@ -16,6 +16,8 @@ sources:
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 2) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md"
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md"
+    label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
 ---
 
 A method of ranking a civilization's technological advancement by the energy it can harness, proposed by Soviet astronomer Nikolai Kardashev in 1964, as summarized by [[uap-gerb]]. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 19:32-19:52)*
@@ -32,3 +34,7 @@ A method of ranking a civilization's technological advancement by the energy it 
 ## Claims (gerb/iceberg-2)
 
 - Gerb links a type II civilization to the [[dyson-sphere]]. *([gerb/iceberg-2](<../raw/gerb/UAP Gerb - 2024-01-16 - The Alien and UFO Obscure Oddities Iceberg (Level 2).md>) 7:40-8:06)*
+
+## Claims (gerb/nell)
+
+- Gerb re-explains the scale (planetary, stellar, galactic) in [[gerb-nell-video]] and notes [[karl-nell]]'s omitted slide proposes replacing it with a multivariable model ([[nhi-civilization-development-model-nell]]). *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 15:39-17:16)*

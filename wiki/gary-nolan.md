@@ -15,6 +15,8 @@ sources:
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md"
+    label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
 ---
 
 Garry Nolan (spelled "Gary" in the transcript) is a Stanford microbiologist, described by [[diana-pasulka]] as a Nobel nominee with a foundation dedicated to studying people with anomalous experiences. He appears here only through Pasulka's remarks. Other pages in this wiki may refer to him under a different spelling. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 16:01-16:09, 19:09-19:33)*
@@ -32,3 +34,7 @@ Garry Nolan (spelled "Gary" in the transcript) is a Stanford microbiologist, des
 ## Claims (jm/cameron)
 
 - Cameron mentions Nolan alongside Taylor as someone who receives downloads and writes problem strings to have answers appear. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 3:02:01-3:02:21)*
+
+## Claims (gerb/nell)
+
+- Gerb lists him as a [[sol-foundation]] figure (Stanford pathology professor) and says Nell's talk took place at the Nolan laboratory of the Stanford School of Medicine; he speculates Nolan's work on physical or invasive biological effects prompted the sixth UAP characteristic in the Schumer Amendment ([[uap-vs-tno-distinction]]). *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 2:04-2:20, 4:56-5:11)*

@@ -17,6 +17,8 @@ sources:
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md"
+    label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
 ---
 
 Asked by Michels for a modern scientific framework for beings "higher on the consciousness or evolution chain", [[karl-nell]] critiques the Kardashev scale (Nikolai Kardashev, 1964; type I planetary, type II star, type III galaxy energy use) as "not very instructive" for UAP because total civilization energy usage cannot be inferred from observed craft or recovered material. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 26:01-27:25)*
@@ -37,3 +39,7 @@ Asked by Michels for a modern scientific framework for beings "higher on the con
 ## Claims (gerb/iceberg-1)
 
 - The Kardashev scale that Nell critiques is summarized by [[uap-gerb]] in [[kardashev-scale]]. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 19:32-21:24)*
+
+## Claims (gerb/nell)
+
+- Gerb ([[gerb-nell-video]]) shows this as an omitted backup slide provided by [[matthew-pines]], replacing the Kardashev scale with a multivariable datum (what they are, what they know, who they are) to forecast NHI motives; he lists end states as spacetime manipulation, understanding reality, and immortality or physical transcendence, and says a Kardashev-based civilization scale puts humanity at about 0.72. Companion: [[nell-uap-origin-taxonomy]]. *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 15:39-17:16)*
