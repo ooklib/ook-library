@@ -35,6 +35,8 @@ sources:
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Wright-Patterson Air Force Base in Dayton, Ohio, was headquarters of Air Materiel Command (AMC)
@@ -115,3 +117,7 @@ and Air Research and Development Command (ARDC) — forerunners of the modern
 ## Claims (gerb/whistleblowers-2)
 
 - [[gerb-whistleblowers-2-video]] covers [[barry-goldwater]]'s denied request to enter the alleged [[blue-room-wright-patterson]] and cites a 27 April 1953 Air Force OSI document in which Master Sgt. Ralph Brown relayed that Wright-Patterson held three flying saucers and pilot bodies; Gerb also speculates [[marine-rb]]'s 1963 guard duty might have been at Wright-Patterson. He plans a dedicated video on the base. *([gerb/whistleblowers-2](<../raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md>) 16:43-19:45, 23:27-23:42)*
+
+## Claims (gerb/special-forces)
+
+- [[special-forces-witness-infographics]] says Wright-Patterson and the Foreign Technology Division were a red herring where the Soviets would look first and that "we faked some stuff going into Wright Patterson"; Gerb infers material shown there from about 1969 to 2004 may be program hoaxes, though early on it likely housed crashes and biological material. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 21:02-22:06)*

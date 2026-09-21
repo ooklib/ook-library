@@ -59,6 +59,8 @@ sources:
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Dr. Steven Greer, UFO-disclosure researcher, attended a confirmed 1997 meeting with
@@ -158,3 +160,7 @@ Greer's April 2025 interview with [[jesse-michels]] is summarized in [[greer-mic
 ## Claims (gerb/whistleblowers-2)
 
 - Gerb ([[gerb-whistleblowers-2-video]]) traces Greer's 2009 emails with a French source ("AB", inferred as Alain Boudier of 3AF-Sigma) about an alleged Apollo 8 UFO film and briefing documents for President Sarkozy ([[apollo-8-ufo-encounter-claims]]), and notes that witnesses [[harland-bentley]] and possibly [[marine-rb]] appear on his witness list. *([gerb/whistleblowers-2](<../raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md>) 12:09-15:33, 23:10-23:27)*
+
+## Claims (gerb/special-forces)
+
+- Gerb repeatedly mines Greer's redacted witness list for corroboration: witness 10622 (Navy radioman, 1968 messages on 11 tracked UAP), 10272 (worked on F-4 radar assemblies at Area 51 and NHI hardware) and 10659 (Vietnam crash retrieval, said to be at the 1954 Edwards landing); Gerb thinks 10659 is a separate person from [[special-forces-witness-infographics]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 2:21-3:10, 8:21-8:46, 17:56-18:21)*

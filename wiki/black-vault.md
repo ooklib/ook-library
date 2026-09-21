@@ -21,6 +21,8 @@ sources:
     label: "FASTWALKERS - UFOs Outside Earth (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 The Black Vault, a FOIA-focused transparency site/organization, received the list of 38
@@ -54,3 +56,7 @@ The Black Vault, a FOIA-focused transparency site/organization, received the lis
 ## Claims (gerb/uso)
 
 - Gerb agrees with John Greenwald that an altered magazine image does not discredit the other [[uss-trepang-photographs-1971]], since publications often enhance photographs for print; the Black Vault hosts an analysis of the images. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 24:05-24:21)*
+
+## Claims (gerb/special-forces)
+
+- Gerb uses a Black Vault PDF of NASA FOIA requests (pages 121 and 126) showing an internal memo on a NASA UFO hard-evidence analysis program ("UFO HEAP"), and a 1977 letter about a possible UFO fragment examined at Los Alamos. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 35:57-36:38)*

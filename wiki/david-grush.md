@@ -74,6 +74,8 @@ sources:
     label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 David Grush is a former intelligence officer and prominent UAP whistleblower whose public
@@ -307,3 +309,7 @@ topic," mined repeatedly throughout Vol. 2 for "tricks of the trade" detail.
 ## Claims (gerb/herrera-1)
 
 - Gerb notes Grush's op-ed was in DOPSR review at the time of the video, in comparison with the insider's alleged manuscript; see [[dopsr-prepublication-review-claims]]. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 34:15-34:31)*
+
+## Claims (gerb/special-forces)
+
+- Gerb repeatedly compares [[special-forces-witness-infographics]] to Grusch: the witness calls Grusch a patriot; Gerb quotes Grusch on retrieving non-human origin vehicles that landed or crashed, 12 to 15 craft, dead pilots, a decades-long cold war with Russia and China, and says the secrecy is dangerous. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 0:37-0:51, 14:43-15:37, 18:37-19:27, 20:16-20:48, 34:44-34:51)*

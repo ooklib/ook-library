@@ -25,6 +25,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 # Malmstrom Minuteman Missile Shutdown (1967)
@@ -59,3 +61,7 @@ Alleged 24 March 1967 event at [[malmstrom-air-force-base]] in which a hovering 
 ## Claims (jm/nell-pasulka)
 
 - Nell cites the 1960s ICBM readiness changes at Malmstrom (missiles taken offline) and an alleged analogue in the Soviet Union (missiles brought online). *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 8:46-9:02)* See [[nell-three-lines-of-evidence-claims]].
+
+## Claims (gerb/special-forces)
+
+- Gerb cites the 24 March 1967 Malmstrom event (a red-orange oval UAP that disabled ICBMs) as a context case for the red-orange glow and egg shape in [[vietnam-egg-craft-crash-1968]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 6:46-7:10)*

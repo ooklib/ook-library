@@ -48,6 +48,8 @@ sources:
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Battelle Memorial Institute is a contractor that administers multiple FFRDCs on behalf of the
@@ -135,3 +137,7 @@ DOE and other agencies, and is described by Gerb as "no stranger to this channel
 ## Claims (gerb/del-rio)
 
 - Gerb says the Willingham fragment shares little with the shape-memory alloy "likely studied by Battelle" from Roswell. See [[willingham-langtry-crash-1955]]. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 14:37-14:54)*
+
+## Claims (gerb/special-forces)
+
+- Gerb points to his Battelle video for the involvement of contractors like Battelle that [[special-forces-witness-infographics]] confirms; a former Battelle contractor, James McCampbell, told Vallee in 1986 of F-4 UAP detection equipment used in Vietnam. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 8:05-8:21, 15:37-15:54)*

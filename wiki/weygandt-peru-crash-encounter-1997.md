@@ -21,6 +21,8 @@ sources:
     label: "The Marines Who Got too Close to UFOs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 [[jonathan-weygandt]], a Marine Lance Corporal, says he came upon a metallic egg-shaped craft embedded in a cliff face near a downed-aircraft site in Peru in 1997 and was arrested by unmarked men in black fatigues and DOE rain jackets. The account is Weygandt's as retold by [[uap-gerb]]; the interview clips are from Weygandt's 2001 [[disclosure-project]] interview with [[steven-greer]]. *([gerb/marines](<../raw/gerb/UAP Gerb - 2024-01-18 - The Marines Who Got too Close to UFOs.md>) 7:51-8:14)* The source calls the airbase "pukala" (ASR, probably Pucallpa) and the name "Weant/Wan/wigant" (ASR of Weygandt).
@@ -48,3 +50,7 @@ sources:
 ## Claims (gerb/whistleblowers-2)
 
 - Gerb compares Weygandt's account of a craft shearing through foliage before embedding itself in a chasm face to [[harland-bentley]]'s claim that the craft that hit a Maryland cornfield sheared thick tree limbs when it took off ([[nike-ajax-ufo-crash-1958]]). *([gerb/whistleblowers-2](<../raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md>) 5:20-5:42)*
+
+## Claims (gerb/special-forces)
+
+- Gerb excludes this case from candidates for the South American saucer retrieval of [[special-forces-witness-infographics]] because the craft is explicitly not saucer-like; see [[south-america-crash-retrievals-claims]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 26:31-26:40)*

@@ -46,6 +46,8 @@ sources:
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md"
     label: "USO - Unidentified Submerged Objects (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 The DoD's All-domain Anomaly Resolution Office ("Arrow" in the ASR transcript), the official
@@ -176,3 +178,7 @@ and [[condon-committee]]. *([gerb/secrecy_2](../raw/gerb/secrecy_2.md) 2:09:03â€
 ## Claims (gerb/uso)
 
 - Gerb (citing Gallaudet's paper) calls AARO's Historical Report Volume 1 "abysmal" for making zero references to any USO or maritime cases or whistleblowers. See [[timothy-gallaudet]]. *([gerb/uso](<../raw/UAP Gerb - 2024-04-17 - USO - Unidentified Submerged Objects.md>) 14:01-14:26)*
+
+## Claims (gerb/special-forces)
+
+- Gerb uses AARO's 1996-2023 reporting trends (most commonly reported configurations, excluding spheres and lights) to check that the egg and bell shapes crash most often in the account of [[special-forces-witness-infographics]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 24:33-24:59)*

@@ -23,6 +23,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md"
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Boeing has primary offices in [[crystal-city-virginia|Crystal City]] and is listed with less
@@ -47,3 +49,7 @@ confidence among contractors Gerb suspects are involved in MITRE's UFO work. *([
 ## Additional claims (gerb/tr-3b)
 
 - Fouche names Boeing as a TR-3B contractor; Gerb cites John Joseph's 2013 claim that Boeing was prime contractor on Project Brilliant (SDI electromagnetic shield, boomerang craft), and the CIA-operated Boeing 737 at [[boscombe-down-crash-1994]]. *([gerb/tr-3b](<../raw/gerb/UAP Gerb - 2024-11-30 - Alien Reproduction Vehicle - TR-3B and the Flying Triangles.md>) 33:44-34:26, 40:40-40:57)*
+
+## Claims (gerb/special-forces)
+
+- [[special-forces-witness-infographics]] names Boeing among the big contractors running program co-op sites; Gerb cites a 1956 special weapons study of Boeing's electrogravitic work, including Project Winter Haven (a saucer creating a local gravitational field as a USAF interceptor). *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 22:06-23:26)*

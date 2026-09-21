@@ -19,6 +19,8 @@ sources:
     label: "The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md"
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 USMC Lance Corporal who, during 1997 testimony, described encountering a large egg-shaped UFO
@@ -64,3 +66,7 @@ program). *([gerb/nro](../raw/gerb/nro.md) 1:12:23–1:13:05)*
 ## Claims (gerb/herrera-1)
 
 - Per [[joeyisnotmyname]], [[michael-herrera]] has spoken with Weygandt; Gerb thinks they likely encountered the same paramilitary group (American dialects, all-black gear, high skill) and, since Weygandt saw DOE rain jackets, suggests a DOE NEST team. *([gerb/herrera-1](<../raw/gerb/UAP Gerb - 2024-03-28 - Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname).md>) 46:53-47:55)*
+
+## Claims (gerb/special-forces)
+
+- Gerb compares the molten, mother-of-pearl skin of the craft Weygandt saw in Peru in 1997 to the glowing, melting appearance of the Vietnam craft in [[vietnam-egg-craft-crash-1968]], and cites his egg-shaped craft as credible, alongside [[eric-taber]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 7:25-7:40, 24:59-25:07)*

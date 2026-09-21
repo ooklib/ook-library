@@ -103,6 +103,8 @@ sources:
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Lockheed Martin (formed 15 March 1995 from the merger of the Lockheed Corporation and
@@ -358,3 +360,7 @@ Range, and a well-documented 2008–2011 attempt to divest itself of recovered U
 ## Claims (gerb/del-rio)
 
 - Gerb notes [[att-corporation]] managed [[sandia-national-laboratories]] until 1993, when Lockheed Martin took over, and recalls [[edgar-fuche]]'s claim (from his Lockheed video) that part of the TR-3B reverse engineering came from Sandia. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 26:34-26:59)*
+
+## Claims (gerb/special-forces)
+
+- Gerb cites Bernard Haisch naming Lockheed Martin, Raytheon, Northrop and TRW among the major aerospace companies where legacy UAP programs hide, in connection with the contractor co-op sites described by [[special-forces-witness-infographics]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 22:44-23:02)*

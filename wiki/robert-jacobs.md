@@ -22,6 +22,8 @@ sources:
     label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 # Robert Jacobs
@@ -50,3 +52,7 @@ Former USAF lieutenant who says he commanded the optical instrumentation unit at
 ## Claims (gerb/kingman)
 
 - Gerb ([[gerb-kingman-video]]) cites Lt. Robert Jacobs, with [[robert-salas]], as context for the UFO and nuclear weapons connection ([[ufo-nuclear-connection]]) that makes a UFO near the Nevada test range in 1953 unsurprising. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 12:49-13:16)*
+
+## Claims (gerb/special-forces)
+
+- Gerb cites Jacobs's testimony that UAP take interest even in dummy ICBM test flights, as part of the argument that they are attracted to nuclear activity. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 12:05-12:11)*

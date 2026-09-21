@@ -23,6 +23,8 @@ sources:
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2025-04-10 - UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer).md"
     label: '"UFO Secrets Are Held By A Global Cabal" (ft. Steven Greer) (Jesse Michels)'
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Wilbert B. Smith was a senior radio engineer in the Canadian government's Department of Transport who, in 1950, asked for Canada's first official UFO investigation. His memo relays four claims from an unnamed "source within Washington", identified by UAP Gerb as [[robert-sarbacher]].
@@ -51,3 +53,7 @@ Wilbert B. Smith was a senior radio engineer in the Canadian government's Depart
 - Cameron says he recovered all of Smith's files, including Canadian embassy correspondence arranging the Sarbacher interview through diplomatic channels and a note that Canada was waiting for the Americans to make a statement. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 32:26-33:21, 35:02-35:17)*
 - Cameron reads the 1950 top secret memo as having five points, the fifth being that American officials said mental phenomena might be associated with the saucers and that the Americans were not doing well; the memo names a group under [[vannevar-bush]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 33:21-34:46)*
 - Cameron says Smith also used channeler Frances Swan and the flying saucer observatory recorded a spike on 8 August 1954, after which Ottawa closed [[project-magnet]]: [[frances-swan-channeling-claims]], [[omond-solandt]]. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 49:43-51:49)*
+
+## Claims (gerb/special-forces)
+
+- Gerb recounts Smith's 1950 letter to the Canadian controller of telecommunications on the US studying UAP in an effort classified above the H-bomb, from information given by [[robert-sarbacher]], to support an early-1950s start for the program. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 11:18-11:47)*

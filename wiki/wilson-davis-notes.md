@@ -47,6 +47,8 @@ sources:
     label: "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 The Wilson-Davis notes are disputed but (per Gerb) "highly likely accurate" notes transcribed
@@ -213,3 +215,7 @@ Gerb's introductory documentary walks through the 15-page notes line by line. Al
 ## Claims (gerb/whistleblowers-1)
 
 - Gerb (whose first video covered the notes) says [[stephen-lovekin]] attended the 1998 briefing with Greer, Dr. Mitchell, Adm. [[thomas-wilson]], Cdr. [[will-miller]] and others, and that Wilson himself confirmed the meeting. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 13:58-14:25)*
+
+## Claims (gerb/special-forces)
+
+- Gerb says the compartmentalization described by [[special-forces-witness-infographics]] mirrors the notes' account of the four programs that referred Admiral Wilson to the program, "in different compartments placed in different layers of the compartment's pyramid", and that Wilson was stonewalled from being read in, which Gerb says he fully believes. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 9:49-10:06, 13:52-14:22)*

@@ -16,6 +16,8 @@ sources:
     label: "The Alien and UFO Obscure Oddities Iceberg (Level 1) (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Described by [[uap-gerb]] as an official UFO whistleblower who submitted a memorandum for record to [[aaro]] about an Area 51 project patch belonging to his great uncle. *([gerb/iceberg-1](<../raw/gerb/UAP Gerb - 2024-01-12 - The Alien and UFO Obscure Oddities Iceberg (Level 1).md>) 29:28-29:45)*
@@ -35,3 +37,7 @@ Described by [[uap-gerb]] as an official UFO whistleblower who submitted a memor
 ## Claims (gerb/whistleblowers-1)
 
 - Gerb says [[walter-haut]]'s description of the egg-shaped Roswell craft (12-15 ft long, no windows or wings) closely resembles Taber's Area 51 craft. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 12:06-12:15)*
+
+## Claims (gerb/special-forces)
+
+- Gerb cites Taber's egg-shaped metallic craft at Area 51 in the 1980s as almost identical to the Vietnam crash craft in [[special-forces-witness-infographics]]'s account, and links Taber's desert-found craft to the "donation" idea. See [[vietnam-egg-craft-crash-1968]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 7:10-7:25, 24:59-25:07, 37:59-38:06)*

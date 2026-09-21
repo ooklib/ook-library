@@ -63,6 +63,8 @@ sources:
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Majestic 12 (MJ-12) terminology is referenced by Gerb as a naming convention for the alleged
@@ -226,3 +228,7 @@ Levenda tells Stanton Friedman he thinks the MJ-12 documents "look real" and are
 ## Claims (gerb/del-rio)
 
 - Gerb suggests the MJ-12 documents combine a lot of disinformation and factual information, similar to what [[stanton-friedman]] claimed, and finds the 1950 El Indio crash in the [[eisenhower-briefing-document]] interesting for its context despite sparse detail. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 28:34-28:49)*
+
+## Claims (gerb/special-forces)
+
+- Gerb says that if the MJ-12 documents are believed, the program was set up under Truman between roughly 1945 and 1950 and briefed Eisenhower, fitting the Korean War timing given by [[special-forces-witness-infographics]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 10:48-11:18)*

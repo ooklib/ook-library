@@ -36,6 +36,8 @@ sources:
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Cited by Gerb as an example of "Southwest systems" used to intake recovered craft around this
@@ -106,3 +108,7 @@ period, associated with [[sandia-national-laboratories|Sandia]]. *([gerb/mitre](
 ## Claims (gerb/del-rio)
 
 - Gerb contrasts Kingman, with [[arthur-stansel]]'s single affidavit whose details do not change, and connections like Dr. Ed Doll and Eric Wang, with the less credible [[willingham-langtry-crash-1955]]. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 30:19-30:42)*
+
+## Claims (gerb/special-forces)
+
+- Gerb notes the alleged 1953 Kingman crash occurred during Operation Upshot-Knothole, arguing UAP take interest in nuclear testing, and cites Dan Burisch's claim that Kingman craft are held at S4. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 12:11-12:28, 20:48-21:02)*

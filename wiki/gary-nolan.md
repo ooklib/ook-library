@@ -17,6 +17,8 @@ sources:
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md"
     label: "SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Garry Nolan (spelled "Gary" in the transcript) is a Stanford microbiologist, described by [[diana-pasulka]] as a Nobel nominee with a foundation dedicated to studying people with anomalous experiences. He appears here only through Pasulka's remarks. Other pages in this wiki may refer to him under a different spelling. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 16:01-16:09, 19:09-19:33)*
@@ -38,3 +40,7 @@ Garry Nolan (spelled "Gary" in the transcript) is a Stanford microbiologist, des
 ## Claims (gerb/nell)
 
 - Gerb lists him as a [[sol-foundation]] figure (Stanford pathology professor) and says Nell's talk took place at the Nolan laboratory of the Stanford School of Medicine; he speculates Nolan's work on physical or invasive biological effects prompted the sixth UAP characteristic in the Schumer Amendment ([[uap-vs-tno-distinction]]). *([gerb/nell](<../raw/gerb/UAP Gerb - 2024-02-14 - SOL Foundation - Karl Nell - A Key Figure in UAP Disclosure.md>) 2:04-2:20, 4:56-5:11)*
+
+## Claims (gerb/special-forces)
+
+- Gerb quotes Nolan on biological avatars sent as intermediaries and on human cognition being distorted near craft, and cites Nolan's biologics material as parallel to [[special-forces-witness-infographics]]; see [[biological-android-hypothesis]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 30:35-31:29, 33:25-33:41, 39:02-39:17)*

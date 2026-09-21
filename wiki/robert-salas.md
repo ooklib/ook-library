@@ -17,6 +17,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 # Robert Salas
@@ -38,3 +40,7 @@ Former USAF first lieutenant, on-duty missile launch control officer at [[malmst
 ## Claims (gerb/kingman)
 
 - Gerb ([[gerb-kingman-video]]) cites Salas of Malmstrom AFB with [[robert-jacobs]] as context for a UFO-nuclear link relevant to Kingman. *([gerb/kingman](<../raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md>) 12:49-13:16)*
+
+## Claims (gerb/special-forces)
+
+- Gerb cites the 1967 Malmstrom event (Salas's affidavit) as a case with a red-orange oval UAP and as an example of UAP interest in nuclear arms, in connection with [[special-forces-witness-infographics]]. See [[malmstrom-minuteman-incident-1967]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 6:46-7:10, 11:56-12:05)*

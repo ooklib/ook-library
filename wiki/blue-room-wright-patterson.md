@@ -18,6 +18,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 The "Blue Room" is the alleged restricted area at Wright-Patterson Air Force Base where UFO-related material was rumored to be stored, made famous by [[barry-goldwater]]'s statements that [[curtis-lemay]] refused him entry. All claims below are attributed to [[uap-gerb]] and his sources.
@@ -32,3 +34,7 @@ The "Blue Room" is the alleged restricted area at Wright-Patterson Air Force Bas
 ## Relationships
 
 - Located at [[wright-patterson-air-force-base]]; alleged by [[barry-goldwater]]; related to [[curtis-lemay]] and [[marine-rb]].
+
+## Claims (gerb/special-forces)
+
+- Gerb says the testimony of [[special-forces-witness-infographics]] that Wright-Patterson was a "red herring" may fit if the Blue Room held a database or record of UAP program activity rather than actual materials and biologics. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 21:11-22:06)*

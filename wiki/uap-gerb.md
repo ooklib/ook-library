@@ -87,6 +87,8 @@ sources:
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 UAP Gerb is a YouTube creator/investigator who self-describes as spending years "unmasking"
@@ -254,3 +256,7 @@ on [[ffrdc|FFRDCs]] as the "missing link" in the covert UFO retrieval/exploitati
 ## Claims (gerb/whistleblowers-2)
 
 - Video [[gerb-whistleblowers-2-video]] (2024-05-26) is the second whistleblower volume, covering [[harland-bentley]], [[barry-goldwater]]'s Blue Room denial and [[marine-rb]]; Gerb says he is chasing a lead on RB's identity, plans videos on Dan Burisch/Project Aquarius and Wright-Patterson, and does not gatekeep content (Patreon donations optional). *([gerb/whistleblowers-2](<../raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md>) 26:46-31:11)*
+
+## Claims (gerb/special-forces)
+
+- Video [[gerb-special-forces-video]] (2024-06-16): a line-by-line analysis of the Infographics Show's "US Special Forces Confession" account; Gerb says he tried to contact the Infographics team (short of paying to join their Discord) to learn the witness's identity. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 40:15-44:56)*

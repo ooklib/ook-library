@@ -24,6 +24,8 @@ sources:
     label: "Special Access Required - the Secrecy of UFO Crash Retrieval Programs VOL.2 (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md"
     label: "80 Years of UFO Crash Retrieval and Reverse Engineering: A Timeline (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 The Advanced Aerospace Threat Identification Program, the controversial DoD office
@@ -93,3 +95,7 @@ to OAP, which Gerb calls false given ATIP had no SAP umbrella/compartment struct
 ## Additional claims (gerb/timeline)
 
 - Timeline video: Gerb says AATIP operated 2009-2017 (effort 2012-2017) as cover for NSC activities with Clapper's blessing, a partial-disclosure initiative (Podesta/Hillary Clinton "disclosure president", [[to-the-stars-academy]], General McAlant, Skunk Works personnel, possibly agency personnel) involving psy-ops and narrative coordination while protecting equities; he calls it "the Onion attempting to talk about the Onion outside of the Onion". *([gerb/timeline](<../raw/gerb/UAP Gerb - 2026-09-18 - 80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline.md>) 2:16:23-2:18:26)*
+
+## Claims (gerb/special-forces)
+
+- Gerb cites leaked slide 9 (from Christopher Mellon's website) as touching on UAP distorting human cognition, comparable to the "anchors" in [[special-forces-witness-infographics]]'s account. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 39:02-39:17)*

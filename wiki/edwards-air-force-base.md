@@ -30,6 +30,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Home of the 412th Test Wing and an MRTFB (Major Range and Test Facility Base), listed by Gerb
@@ -98,3 +100,7 @@ ranges. *([gerb/mitre](../raw/gerb/mitre.md) 52:21–52:55)*
 ## Claims (jm/matthew-brown)
 
 - Michels retells the Eisenhower 1954 Edwards meeting (dentist cover story); Brown is skeptical of the details. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:12:37-1:13:46)*
+
+## Claims (gerb/special-forces)
+
+- Gerb notes Disclosure Project witness 10659 claims a dad's presence at a 1954 Edwards AFB UFO landing, which he uses to separate that witness from [[special-forces-witness-infographics]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 18:04-18:21)*

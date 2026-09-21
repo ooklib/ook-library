@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 "RB" is an anonymous former US Marine who claims to have guarded an alleged non-human disc-shaped craft in December 1963. [[uap-gerb]] says neither his claims nor his identity can be verified and he has never gone public. The account is in [[leonard-stringfield]]'s archive and was compiled by researcher and CAD artist Michael Schratt.
@@ -31,3 +33,7 @@ sources:
 
 - Subject of [[gerb-whistleblowers-2-video]]; account in [[marine-rb-craft-guard-1963]].
 - Case recorded by [[leonard-stringfield]]; speculatively linked to [[blue-room-wright-patterson]].
+
+## Claims (gerb/special-forces)
+
+- Gerb says [[special-forces-witness-infographics]]'s description of craft seams matches RB's account of a door panel with tolerances too tight for a piece of paper. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 29:12-29:29)*

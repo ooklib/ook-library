@@ -13,6 +13,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-03-05 - The 1953 Kingman, Arizona UFO Crash.md"
     label: "The 1953 Kingman, Arizona UFO Crash (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Series of 11 nuclear test shots in early 1953 at the Nevada Proving Ground, the setting of [[arthur-stansel]]'s alleged Kingman assignment.
@@ -26,3 +28,7 @@ Series of 11 nuclear test shots in early 1953 at the Nevada Proving Ground, the 
 ## Relationships
 
 - Sponsored by [[atomic-energy-commission]]; related to [[kingman-arizona-crash-1953]]; see [[gerb-kingman-video]].
+
+## Claims (gerb/special-forces)
+
+- Gerb notes the alleged 1953 Kingman crash occurred during this nuclear test series, part of his argument that UAP are attracted to nuclear activity. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 12:11-12:28)*

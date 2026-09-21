@@ -30,6 +30,8 @@ sources:
     label: "A Top Government Official Told Me Aliens Run Everything! - Dylan Borland Unleashed (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md"
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Gerb's umbrella term for the alleged, decades-old, fragmented network of US government,
@@ -181,3 +183,7 @@ vehicles" (UFOs), running from 1947 to the present. *([gerb/mitre](../raw/gerb/m
 ## Claims (gerb/whistleblowers-1)
 
 - Gerb (via [[stephen-lovekin]]) infers the legacy program broke from congressional and presidential oversight around the 1960s under Eisenhower as parts moved to private corporations. *([gerb/whistleblowers-1](<../raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md>) 28:11-28:34)*
+
+## Claims (gerb/special-forces)
+
+- [[special-forces-witness-infographics]] describes the program as formalized during the Korean War (1950-53), compartmentalized, with rapid-reaction retrieval units in Vietnam, co-op sites run with big contractors and small firms, and a 1969 to 2004 tenure; see [[gerb-special-forces-video]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 10:06-11:18, 21:59-22:31)*

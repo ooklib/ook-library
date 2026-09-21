@@ -16,6 +16,8 @@ sources:
     label: "The Physics of UFOs - Dr. Kevin Knuth (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-04-26 - USO Case Book_ Unidentified Submerged Objects Throughout History.md"
     label: "USO Case Book: Unidentified Submerged Objects Throughout History (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 A 1976 encounter in which Iranian Imperial Air Force F-4 Phantom II pilots were scrambled to intercept a UFO over Tehran. It appears in the wiki only through [[uap-gerb]], who cites it briefly (ASR "Tyron") as a second case of fighter instrument failure alongside [[manises-ufo-incident-1979]]. Details are Gerb's summary without sources.
@@ -44,3 +46,7 @@ A 1976 encounter in which Iranian Imperial Air Force F-4 Phantom II pilots were 
 ## Claims (gerb/knuth)
 
 - Gerb cites the case (Major Jafari's avionics scrambled as an orb detached from the object) as an example of electromagnetic effects in [[kevin-knuth]]'s analysis, implying strong electric and magnetic fields. *([gerb/knuth](<../raw/gerb/UAP Gerb - 2024-03-10 - The Physics of UFOs - Dr. Kevin Knuth.md>) 16:37-16:53)*
+
+## Claims (gerb/special-forces)
+
+- Gerb says a failed Iran attempt to down a craft mentioned by [[special-forces-witness-infographics]] is almost certainly this 1976 Major Jafari case. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 38:06-38:23)*

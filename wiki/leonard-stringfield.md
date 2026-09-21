@@ -31,6 +31,8 @@ sources:
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Leonard Stringfield, a UFO crash-retrieval investigator Gerb describes as "legendary," produced
@@ -92,3 +94,7 @@ a series of "Crash Retrieval Status Reports" analyzed throughout the SAIC video.
 ## Claims (gerb/whistleblowers-2)
 
 - Gerb ([[gerb-whistleblowers-2-video]]) says Stringfield's compilation of [[barry-goldwater]]'s letters on Wright-Patterson, and his UFO Crash Retrieval Status Report 5 case "Marine guards a disc-shaped vehicle 1963" ([[marine-rb]]), are key sources; researcher Michael Schratt gained access to Stringfield's archives in Cincinnati and found the full RB story in his notes. Gerb calls the status reports a "Bible" for him. *([gerb/whistleblowers-2](<../raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md>) 17:23-17:38, 21:53-22:39, 30:40-30:48)*
+
+## Claims (gerb/special-forces)
+
+- Gerb draws on Stringfield's status reports as corroboration: report 3 (a 12 April 1954 retrieval 25-30 miles northwest of Roswell, told by witness Ka, who was debriefed for three days and threatened), report 6 (the Kecksburg bell-shaped crash), and reports of Peru (1975) and Argentina (1980) retrievals. See [[south-america-crash-retrievals-claims]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 12:59-13:52, 25:15-25:31, 26:48-28:39)*

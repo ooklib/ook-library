@@ -24,6 +24,8 @@ sources:
     label: "Philip J. Corso - US Army UFO Technology Research & Development (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md"
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Raytheon is named among the defense-industrial contractors Gerb alleges are involved (via
@@ -57,3 +59,7 @@ program. *([gerb/mitre](../raw/gerb/mitre.md) 12:55–13:03, 1:19:59–1:20:16)*
 ## Claims (jm/censored-book)
 
 - Michels relays Greer's claim of a whistleblower who saw Raytheon holographically projecting triangles at Fort Irwin as part of a possible false-invasion scenario. *([jm/censored-book](<../raw/jm/Jesse Michels - 2026-05-21 - Why The Pentagon Tried To Censor This UFO Book.md>) 46:35-47:15)* See [[coyame-mountain-base-narrative]].
+
+## Claims (gerb/special-forces)
+
+- [[special-forces-witness-infographics]] names Raytheon among the big contractors running program co-op sites; Gerb notes Raytheon appears alongside Lockheed Martin, TRW and others in astrophysicist Bernard Haisch's list of major aerospace companies where legacy UAP programs hide. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 22:06-22:56)*

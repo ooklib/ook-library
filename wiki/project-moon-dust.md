@@ -25,6 +25,8 @@ sources:
     label: "Global Air Force UFO Encounters You've Probably Never Heard of (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Official USAF group proposed in 1961, with companion Project Blue Fly and Foreign Technology Division, tasked to "locate, recover and deliver descended foreign space vehicles". Gerb covered cases in Nepal, Afghanistan, Canada and a 1965 Congo metal fragment in a separate video. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:26:23, 1:26:39)*
@@ -63,3 +65,7 @@ Official USAF group proposed in 1961, with companion Project Blue Fly and Foreig
 ## Claims (gerb/del-rio)
 
 - Gerb cites Moon Dust, tasked with recovering foreign space vehicles and UFOs, and the 1978 Bolivia crash retrieval (Bolivian authorities alerting the US military) as parallels to the claimed pattern of Mexican soldiers guarding the [[willingham-langtry-crash-1955]] wreckage for US retrieval. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 13:32-13:48)* *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 15:52-16:08)*
+
+## Claims (gerb/special-forces)
+
+- Gerb recommends his Moon Dust video and cites the USAF draft policy AFCI-e stating Project UFO and Moon Dust, both headquartered in the Air Force, had collection responsibilities for UAP and descended foreign space vehicles, as background for the Air Force role in [[special-forces-witness-infographics]]'s account; he excludes the 1978 Moon Dust retrieval in Bolivia as not saucer-like. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 9:10-9:40, 26:31-26:40)*

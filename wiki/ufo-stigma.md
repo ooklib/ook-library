@@ -24,6 +24,8 @@ sources:
     label: "UFO Whistleblowers [Vol.1] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md"
     label: "The 1950s Del Rio, Texas UFO Crashes (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 The social ridicule attached to studying UFOs, which [[uap-gerb]] argues in [[gerb-stigma-video]] was deliberately engineered by the US government, the CIA and the USAF in the 1950s and 1960s to lump UFOs with ghosts, Bigfoot and conspiracy theories. This is Gerb's thesis, not an established fact.
@@ -53,3 +55,7 @@ The social ridicule attached to studying UFOs, which [[uap-gerb]] argues in [[ge
 ## Claims (gerb/del-rio)
 
 - Gerb recalls his stigma video's claim that the [[condon-committee]] report was created specifically to push the UFO stigma, in the context of the [[rb-47-carswell-encounter-1957]] entry. *([gerb/del-rio](<../raw/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md>) 8:00-8:16)*
+
+## Claims (gerb/special-forces)
+
+- Gerb points to his stigma and Lockheed Martin/Battelle videos for the contractor involvement and disinformation confirmed by [[special-forces-witness-infographics]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 15:37-15:54)*

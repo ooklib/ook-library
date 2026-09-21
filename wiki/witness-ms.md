@@ -16,6 +16,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md"
     label: "Dugway Proving Ground - UFO Legacy Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Pseudonymous Dugway contractor witness ("M.S."; ASR renders "Ms"). Per [[uap-gerb]], MS was a US Navy auxiliary-division sailor (USS Theodore Roosevelt, 1990-2000), then from 2009 to 2013 a maintenance painter and sign technician for contractor "C Martin" (an ASR-rendered name; identity uncertain) at [[dugway-proving-ground]]. He carried a level-five proximity badge but no security clearance. Gerb says he found MS through lapses in site security in the DPI archive (witness ID 10655) after [[steven-greer]] described him at the June 2023 National Press Club whistleblower symposium, and that MS was approached by the Senate Select Committee on Intelligence but declined because he is a current railroad employee. *(*([gerb/dugway](<../raw/gerb/UAP Gerb - 2025-02-20 - Dugway Proving Ground - UFO Legacy Programs.md>) 29:44, 31:37, 32:23, 32:33, 32:56, 33:12)*)*
@@ -34,3 +36,7 @@ Earlier coverage of MS (as "MS") appears in [[hidden-wing-air-force-program]] co
 
 - Worked at [[dugway-proving-ground]]; encounter at [[avery-technical-center]].
 - Briefed by [[witness-gp]]; investigated by [[uap-gerb]].
+
+## Claims (gerb/special-forces)
+
+- Gerb says the description of a seamless craft by [[special-forces-witness-infographics]] mirrors Ms's claim that the UFO undergoing inspection at Dugway Proving Ground was "flawless like it had been 3D printed". *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 29:12-29:29)*

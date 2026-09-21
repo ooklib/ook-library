@@ -14,6 +14,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-02-27 - FASTWALKERS - UFOs Outside Earth.md"
     label: "FASTWALKERS - UFOs Outside Earth (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 A call sign for objects entering or leaving Earth's atmosphere, slowwalker for low velocity and fastwalker for high velocity. [[uap-gerb]] argues in [[gerb-fastwalkers-video]] that the term originated with [[norad]] and that it lets the government avoid FOIA obligations because requests for "UFO" or "UAP" material do not match it. Per two technical papers the term itself denotes uncataloged objects seen by reflected sunlight moving too fast to be in the atmosphere; that these are UFOs is Gerb's framing.
@@ -33,3 +35,7 @@ A call sign for objects entering or leaving Earth's atmosphere, slowwalker for l
 
 - Presented in [[gerb-fastwalkers-video]]; detected by the [[defense-support-program]]; tied to [[norad]].
 - Illustrated by [[fastwalker-dsp-case-1984]] and [[tehran-ufo-incident-1976]].
+
+## Claims (gerb/special-forces)
+
+- Gerb says [[special-forces-witness-infographics]]'s remark that some craft are from space matches his fastwalker video, where the US government had a term for objects entering or leaving the atmosphere monitored by defense support satellites. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 14:22-14:43)*

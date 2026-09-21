@@ -12,6 +12,8 @@ relations:
 sources:
   - file: "raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md"
     label: "MOON DUST - The Pentagon's Secret UFO Programs (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Alleged 6 May 1978 crash of a cylindrical object into a mountainside near a Bolivian town (the ASR text reads "eler Bolivia"; the name is unverified). [[uap-gerb]] calls it his favorite Moon Dust case and says it was brought to his attention by the work of the UAP caucus (he names Reps. Tim Burchett, [[anna-paulina-luna]], [[eric-burlison]] and Jared Moskowitz). *([gerb/moondust](<../raw/gerb/UAP Gerb - 2024-01-24 - MOON DUST - The Pentagon's Secret UFO Programs.md>) 8:13-9:06)*
@@ -27,3 +29,7 @@ Alleged 6 May 1978 crash of a cylindrical object into a mountainside near a Boli
 ## Relationships
 
 - Part of the Moon Dust paper trail: [[project-moon-dust]]. Told in [[gerb-moondust-video]].
+
+## Claims (gerb/special-forces)
+
+- Gerb excludes this retrieval from candidates for the saucer recovery in [[special-forces-witness-infographics]]'s account because the craft is stated as not saucer-like. See [[south-america-crash-retrievals-claims]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 26:31-26:48)*

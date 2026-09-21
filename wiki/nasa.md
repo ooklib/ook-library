@@ -22,6 +22,8 @@ sources:
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
   - file: "raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md"
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 NASA, established 29 July 1958, is the US civilian space agency. In [[jesse-michels]]'s 2025 episode it appears as the public face of a program with a hidden, secrecy-enabled side (alongside the [[national-reconnaissance-office]]) and an "esoteric dimension" of symbols, dates and personnel. See [[nasa-occult-symbolism-claims]].
@@ -62,3 +64,7 @@ NASA, established 29 July 1958, is the US civilian space agency. In [[jesse-mich
 ## Claims (a52/coulthart)
 
 - [[ross-coulthart]] says a very senior NASA official told him he did not know of the program while a person three rungs down, who ran a lunar reconnaissance mission, was gatekeeper for the legacy program, and that NASA's photographs and data are allegedly hidden. *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:20:01-1:21:56)*
+
+## Claims (gerb/special-forces)
+
+- Gerb cites a 13 December 1977 letter to NASA's chief of ground operation safety describing what could be a piece of a UFO examined at Los Alamos for over two months, and an internal memo (Black Vault FOIA release) admitting a late 1970s NASA UFO hard-evidence analysis program called "UFO HEAP", in the context of the witness's claim that the program tasked NASA to look for a craft fabrication site. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 35:49-36:38)*

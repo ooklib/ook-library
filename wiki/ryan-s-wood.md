@@ -29,6 +29,8 @@ sources:
     label: "The Majestic-12 Documents [With Ryan S. Wood] (UAP Gerb)"
   - file: "raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md"
     label: "UFO Whistleblowers [Vol.2] (UAP Gerb)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 UFO researcher, author of *Majic Eyes Only*, and (with his father [[dr-robert-wood]]) curator of the Majestic documents site majesticdocuments.com and the site specialoperationsmanual.com. He is the guest of [[uap-gerb]]'s 2024-08-25 video. Gerb calls him one of his biggest inspirations in ufology. *([gerb/mj12](<../raw/gerb/UAP Gerb - 2024-08-25 - The Majestic-12 Documents [With Ryan S. Wood].md>) 1:30:32, 1:31:05)*
@@ -51,3 +53,7 @@ UFO researcher, author of *Majic Eyes Only*, and (with his father [[dr-robert-wo
 ## Claims (gerb/whistleblowers-2)
 
 - Gerb ([[gerb-whistleblowers-2-video]]) recommends his book Majic Eyes Only as his crash-retrieval "mecca" and handbook, says he spoke with Wood recently by phone, and says he is not sponsored. *([gerb/whistleblowers-2](<../raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md>) 30:24-30:48)*
+
+## Claims (gerb/special-forces)
+
+- Gerb calls Wood's Majic Eyes Only his favorite crash-retrieval handbook and used it to search for South American cases in the 1969-2004 window; see [[south-america-crash-retrievals-claims]]. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 26:24-26:40)*

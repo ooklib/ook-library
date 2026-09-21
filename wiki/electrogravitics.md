@@ -20,6 +20,8 @@ sources:
     label: "Alien Reproduction Vehicle - TR-3B and the Flying Triangles (UAP Gerb)"
   - file: "raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md"
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
+  - file: "raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md"
+    label: "US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb)"
 ---
 
 Electrogravitics is the label for coupling of electric fields to gravity, coined around [[thomas-townsend-brown]]'s work (the "lowbrow applied version" per Eric Weinstein's framing).
@@ -56,3 +58,7 @@ Electrogravitics is the label for coupling of electric fields to gravity, coined
 ## Claims (jm/matthew-brown)
 
 - Asked about the electrogravitic propulsion in his Musk tweet, [[matthew-brown]] says he thinks there is "a there there" tied to [[thomas-townsend-brown]]'s work and learned the term later. See [[brown-tweet-to-elon-musk-2025]]. *([jm/matthew-brown](<../raw/jm/Jesse Michels - 2026-08-29 - Pentagon Whistleblower UNLOADS on Alien Hybrid Breeding Programs (ft. Matthew Brown).md>) 1:55:37-1:56:19)*
+
+## Claims (gerb/special-forces)
+
+- Gerb cites a 1956 aviation study mentioning Project Winter Haven, a proposed saucer creating a local gravitational field as a USAF interceptor, with Boeing among the companies named. *([gerb/special-forces](<../raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md>) 23:02-23:26)*

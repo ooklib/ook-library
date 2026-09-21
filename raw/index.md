@@ -89,7 +89,7 @@ which transcripts still await ingestion.
 | `gerb/whistleblowers-1` | `raw/gerb/UAP Gerb - 2024-05-05 - UFO Whistleblowers [Vol.1].md` | UFO Whistleblowers [Vol.1] (UAP Gerb) | true |
 | `gerb/del-rio` | `raw/gerb/UAP Gerb - 2024-05-17 - The 1950s Del Rio, Texas UFO Crashes.md` | The 1950s Del Rio, Texas UFO Crashes (UAP Gerb) | true |
 | `gerb/whistleblowers-2` | `raw/gerb/UAP Gerb - 2024-05-26 - UFO Whistleblowers [Vol.2].md` | UFO Whistleblowers [Vol.2] (UAP Gerb) | true |
-| `gerb/special-forces` | `raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md` | US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb) | false |
+| `gerb/special-forces` | `raw/gerb/UAP Gerb - 2024-06-16 - US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction.md` | US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction (UAP Gerb) | true |
 | `gerb/herrera-2` | `raw/gerb/UAP Gerb - 2024-06-30 - Michael Herrera - Insights into UAP Encounter and Black Program Insiders.md` | Michael Herrera - Insights into UAP Encounter and Black Program Insiders (UAP Gerb) | false |
 | `gerb/off-world-tech` | `raw/gerb/UAP Gerb - 2024-07-17 - Off-World Technologies Division - UAP Technology Reverse Engineering.md` | Off-World Technologies Division - UAP Technology Reverse Engineering (UAP Gerb) | false |
 | `gerb/coyame` | `raw/gerb/UAP Gerb - 2024-08-09 - The 1974 Coyame, Mexico UFO Crash.md` | The 1974 Coyame, Mexico UFO Crash (UAP Gerb) | false |
