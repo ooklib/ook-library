@@ -55,6 +55,8 @@ sources:
     label: "The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76 (Area52)"
   - file: "raw/gerb/UAP Gerb - 2024-02-05 - Incredible UFO Footage - FLYBY.md"
     label: "Incredible UFO Footage - FLYBY (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md"
+    label: "Meet the Navy Scientist With UFO Patents (ft. Salvatore Pais) (Jesse Michels)"
 ---
 
 Bob Lazar claimed to have been hired by [[eg-and-g|EG&G]] to reverse-engineer UFO propulsion
@@ -119,6 +121,12 @@ Chris Ramsey's 2025 interview ([[lazar-ramsey-interview-2025]], hosted by [[chri
 
 - [[ross-coulthart]] says Lazar seems not to want to speak to him, likely expecting a "blowtorch" on inconsistencies (MIT and Caltech degrees, brothel, element 115 isotopic stability). He believes Lazar almost certainly worked at Area 51, and that S4 is real, citing the late Dave Fuhof who ran logistics there and heard of S4 and of people who saw Lazar at Area 51 (weakish but persuasive evidence). *([a52/coulthart](<../raw/a52/Area52 - 2026-02-20 - The DANGEROUS Truth About UFOs - Ross Coulthart _ DEBRIEFED ep. 76.md>) 1:59:38-2:01:16)*
 - See [[coulthart-critique-of-credulity-in-ufology]] and [[coulthart-ramsey-interview-2026]].
+
+## Claims (jm/pais)
+
+- [[salvatore-pais]] says he believes "Lazar is right on the money" and that Lazar's description of the "sport model" craft as looking "3D printed" out of spacetime matches his own super-force equation, implying Lazar's account describes "root access" to the same physics. *([jm/pais](<../raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md>) 15:56-16:36, 1:14:00-1:15:00)*
+- Pais separately floats that Lazar may have been "pushed out by intel" after John Lear allegedly gave files to George Knapp, timed with the Majestic-12 documents becoming public; suggests some of Lazar's material was genuine and some may have been deliberately given a "quacky veneer" as a recruiting/cover tactic. *([jm/pais](<../raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md>) 1:15:29-1:15:54)*
+- Pais notes Lazar's account of Edward Teller not personally approaching many people, framing this as evidence of Lazar's connections to genuine national-security physics circles. *([jm/pais](<../raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md>) 1:16:05-1:16:24)*
 
 ## Claims (gerb/flyby)
 

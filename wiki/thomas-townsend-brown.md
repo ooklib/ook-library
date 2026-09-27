@@ -69,6 +69,8 @@ sources:
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-10-21 - Alien Reproduction Vehicle - the Testimony of Mark McCandlish.md"
     label: "Alien Reproduction Vehicle - the Testimony of Mark McCandlish (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md"
+    label: "Meet the Navy Scientist With UFO Patents (ft. Salvatore Pais) (Jesse Michels)"
 ---
 
 Thomas Townsend Brown, associated with the [[biefeld-brown-effect]] and alleged antigravity research. In the Malmgren interview he is central to Malmgren's late-life research.
@@ -151,6 +153,12 @@ Jesse Michels' 2024 documentary, based on Paul Schatzkin's biography *The Man Wh
 ## Claims (jm/cameron)
 
 - Michels puts Brown's Philadelphia experiment and time-travel interest in the Nassau setting of Tim Taylor's alleged secret time-travel group and William Stevenson; Cameron says Moore's Philadelphia Experiment book may have brought Moore into CIA contact. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 39:55-40:53, 2:14:54-2:16:09)*
+
+## Claims (jm/pais)
+
+- [[salvatore-pais]] says Brown's ceramic insulator of choice, visible on a chalkboard in videos of him, matches the class of "piezoelectric materials" (lead zirconate titanate and related compounds) Pais chose for his own room-temperature-superconductor patent; says this discovery "changed my mind about Winter Haven." *([jm/pais](<../raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md>) 43:47-44:22)*
+- Pais says Brown's own view (per his [[winter-haven-proposal]]) was that Oliver Heaviside's 1890s theory of gravity was adequate and should have been heeded; Pais agrees, and speculates well-meaning physicists simply failed to see the application to exotic condensed-matter physics at the time. *([jm/pais](<../raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md>) 44:22-44:47)*
+- Michels says he feels comfortable "outing" Brown by name (unlike Pais's own current-day physics), since Brown's work is "so far down the chain" as to no longer be a live national-security risk in his view. *([jm/pais](<../raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md>) 56:12-56:35)*
 
 ## Claims (gerb/mccandlish)
 

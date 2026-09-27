@@ -19,6 +19,9 @@ relations:
   - relation: associate_of
     target: jason-samosa
     note: "host of the 2026-07-14 interview"
+  - relation: features
+    target: pais-michels-interview-2025
+    note: "host"
 sources:
   - file: "raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md"
     label: "I Met The Head Of The Entire UFO Program! - Grant Cameron (Jesse Michels)"
@@ -54,6 +57,8 @@ sources:
     label: "Why The Pentagon Tried To Censor This UFO Book (Jesse Michels)"
   - file: "raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md"
     label: "The Biblical Truth of UFOs & Angels (ft. Karl Nell & Diana Pasulka) (Jesse Michels)"
+  - file: "raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md"
+    label: "Meet the Navy Scientist With UFO Patents (ft. Salvatore Pais) (Jesse Michels)"
 ---
 
 Jesse Michels is the host of the American Alchemy YouTube channel (registry channel `jm`), which conducts long-form interviews on UFO/UAP, deep politics and secret science. The channel's sponsor/advertisement segments are not recorded in this wiki.
@@ -136,6 +141,15 @@ Interviewed [[peter-levenda]] for a 4h40m episode: [[levenda-michels-interview-2
 ## Claims (jm/nell-pasulka)
 
 - Moderates the [[hereticon]] panel with [[karl-nell]] and [[diana-pasulka]] and a follow-up with Pasulka: [[nell-pasulka-hereticon-panel-2024]]. He frames the "heresy" as linking UFOs with religion (*religare*, to relink) and states his current view that "no one is in charge" of the legacy topic but a loosely distributed emergent thing. *([jm/nell-pasulka](<../raw/jm/Jesse Michels - 2024-12-19 - The Biblical Truth of UFOs & Angels (Ft. Karl Nell & Diana Pasulka).md>) 0:06-1:01, 1:05:35-1:06:13)*
+
+## Claims (jm/pais)
+
+- Hosts [[salvatore-pais]]'s first in-person interview on [[pais-michels-interview-2025]] (published 2025-01-24, ~1h56m), with a pseudonymous physicist co-host ("Jack") who works in "sensitive areas." Says he saw the Ashton Forbes MH370 "orbs" footage and immediately thought of the [[pais-effect]]. *([jm/pais](<../raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md>) 0:15-0:40)*
+- Draws out Pais on the [[schwinger-limit]]/black-hole-wormhole propulsion framing and connects it to Alcubierre-drive negative-energy concepts and to [[bob-lazar]]'s "3D printed" sport-model description. *([jm/pais](<../raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md>) 15:52-16:44, 52:55-53:48)*
+- Co-host "Jack" supplies detailed condensed-matter-physics commentary (chemical vapor deposition, topological superconductors, BCS theory, phonon-mediated Cooper pairing) throughout the room-temperature-superconductor discussion. *([jm/pais](<../raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md>) 16:53-17:37, 41:10-42:11)*
+- Host and Pais discuss torsion physics/Einstein-Cartan theory, Nikola Tesla and Colonel Tom Bearden's scalar-wave claims, and the 1957 Chapel Hill conference on gravitation (Agnew Bahnson as patron/funder of [[thomas-townsend-brown]]'s work, with Bryce DeWitt, Cecile DeWitt-Morette and John Wheeler attending); Bahnson is also credited with a book, *The Stars Are Too High*, framing a plan to unite the world via a man-made UFO scare. *([jm/pais](<../raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md>) 1:10:44-1:12:14, 1:34:37-1:35:52)*
+- Michels asks about the 1933 Magenta, Italy incident and Nazi-era "bell"-shaped ("Die Glocke"-adjacent) craft reports, floating that Pais's own 1890s-physics thesis could imply a much earlier man-made origin for some retrieved craft. *([jm/pais](<../raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md>) 1:41:34-1:42:51)*
+- Closes on Pais's "children of light/darkness," external-enemy and human-unification framing, and on the alleged Reagan-Gorbachev "would you have our back against aliens" exchange. *([jm/pais](<../raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md>) 1:31:47-1:32:38, 1:29:05-1:30:14)*
 
 ## Claims (jm/cameron)
 

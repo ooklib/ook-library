@@ -38,6 +38,8 @@ sources:
     label: "Pentagon Whistleblower Unloads on Alien Hybrid Breeding Programs (ft. Matthew Brown) (Jesse Michels)"
   - file: "raw/gerb/UAP Gerb - 2024-01-26 - The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies.md"
     label: "The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies (UAP Gerb)"
+  - file: "raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md"
+    label: "Meet the Navy Scientist With UFO Patents (ft. Salvatore Pais) (Jesse Michels)"
 ---
 
 Physicist Hal Puthoff sponsored Ferris Williams's propulsion research presented at a June 2001
@@ -106,6 +108,11 @@ At the [[austin-to-the-stars-meeting]] Puthoff reportedly said "we need a SCIF f
 ## Claims (jm/cameron)
 
 - Cameron says Puthoff contacted him after hearing he had Arthur Lundahl's collection and asked for a copy of the list; Michels notes Puthoff ran Stargate from 1972. *([jm/cameron](<../raw/jm/Jesse Michels - 2026-09-15 - I Met The Head Of The Entire UFO Program! - Grant Cameron.md>) 48:29-48:58)*
+
+## Claims (jm/pais)
+
+- [[salvatore-pais]] praises Puthoff's work describing gravity as an emergent property of the underlying spacetime foam, and his claimed "seminal" finding that spacetime can be electrically polarized like variables in Maxwell's equations, drawing a parallel to Pais's own vacuum-polarization framing; says Puthoff "would deserve a Nobel Prize" for this if not for the stigma attached to his remote-viewing work. *([jm/pais](<../raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md>) 1:05:20-1:06:11)*
+- Host notes rumors of other remote-viewing teams (trained by Pat Price and Joe McMoneagle) operating alongside Puthoff's, and that the practice likely continued past the Stargate program's official 1995 end. *([jm/pais](<../raw/jm/Jesse Michels - 2025-01-24 - Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais).md>) 1:06:59-1:07:35)*
 
 ## Claims (gerb/kirkpatrick)
 
